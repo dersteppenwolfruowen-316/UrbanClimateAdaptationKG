@@ -1,0 +1,529 @@
+[
+  {
+    "id": "f431fae7-65b9-49a9-b019-b6ee70344df5",
+    "hazard_id": "rain_storm",
+    "name": "Rain storm",
+    "description": "Rain storms are intense precipitation events characterized by heavy rainfall over relatively short periods, often accompanied by strong winds and lightning. These events can overwhelm urban drainage systems, leading to flash flooding and significant infrastructure damage. Monsoon rain storms are particularly severe seasonal events that can bring months of heavy precipitation to affected regions.",
+    "domain": "meteorological",
+    "keywords": [
+      "rain",
+      "storm"
+    ],
+    "metadata": {
+      "category_description": "Hazards related to rainfall and snowfall events that can cause immediate flooding and disruption"
+    },
+    "is_active": true,
+    "created_at": "2025-12-11T03:07:54.820044+00:00",
+    "category": "precipitation"
+  },
+  {
+    "id": "3475097c-0014-43ce-a851-14ae976ea86d",
+    "hazard_id": "heavy_snow",
+    "name": "Heavy snow",
+    "description": "Heavy snow events involve significant accumulation of snow that can paralyze transportation systems and strain infrastructure under the weight of accumulated snow and ice. Blizzards combine heavy snowfall with strong winds, creating dangerous whiteout conditions and potentially life-threatening situations. These events can isolate communities, disrupt power grids, and cause structural failures in buildings not designed for heavy snow loads.",
+    "domain": "meteorological",
+    "keywords": [
+      "heavy",
+      "snow"
+    ],
+    "metadata": {
+      "category_description": "Hazards related to rainfall and snowfall events that can cause immediate flooding and disruption"
+    },
+    "is_active": true,
+    "created_at": "2025-12-11T03:07:54.820044+00:00",
+    "category": "precipitation"
+  },
+  {
+    "id": "0f13b2f2-6288-4adf-8a22-cca489d3cf25",
+    "hazard_id": "severe_wind",
+    "name": "Severe wind",
+    "description": "Severe wind events involve sustained high-speed winds that can cause significant structural damage to buildings, uproot trees, and create hazardous flying debris. Dust storms and sandstorms are particularly dangerous variants that reduce visibility to near zero while carrying abrasive particles that can damage infrastructure and pose serious health risks. These events can ground aviation, disrupt transportation networks, and cause widespread power outages as wind-borne debris strikes power lines and equipment.",
+    "domain": "meteorological",
+    "keywords": [
+      "severe",
+      "wind"
+    ],
+    "metadata": {
+      "category_description": "Hazards from atmospheric pressure differences creating strong air movement, including rotating systems"
+    },
+    "is_active": true,
+    "created_at": "2025-12-11T03:07:54.820044+00:00",
+    "category": "wind"
+  },
+  {
+    "id": "2f0d5fc6-ecf5-4aa2-a2fd-ed39b2558f5e",
+    "hazard_id": "tornado",
+    "name": "Tornado",
+    "description": "Tornadoes are violently rotating columns of air that extend from thunderstorms to the ground, capable of generating winds exceeding 300 mph in the most severe cases. These extremely localized but devastating events can completely destroy buildings, vehicles, and infrastructure in their path within minutes. Extratropical cyclones, while less intense than tornadoes, cover much larger areas and can produce damaging winds, heavy precipitation, and storm surges over extended periods.",
+    "domain": "meteorological",
+    "keywords": [
+      "tornado"
+    ],
+    "metadata": {
+      "category_description": "Hazards from atmospheric pressure differences creating strong air movement, including rotating systems"
+    },
+    "is_active": true,
+    "created_at": "2025-12-11T03:07:54.820044+00:00",
+    "category": "wind"
+  },
+  {
+    "id": "d2754af3-8084-4b67-bb9f-5fe95be6f04b",
+    "hazard_id": "cyclone_hurricane_typhoon",
+    "name": "Cyclone (Hurricane/Typhoon)",
+    "description": "Cyclones are large-scale rotating storm systems that form over warm ocean waters, known as hurricanes in the Atlantic and typhoons in the Pacific. These massive storms bring a triple threat of destructive winds, torrential rainfall, and dangerous storm surge that can devastate coastal communities. The combination of these hazards can cause catastrophic flooding, widespread infrastructure failure, and long-lasting economic and social disruption across entire regions.",
+    "domain": "meteorological",
+    "keywords": [
+      "cyclone",
+      "(hurricane",
+      "typhoon)"
+    ],
+    "metadata": {
+      "category_description": "Hazards from atmospheric pressure differences creating strong air movement, including rotating systems"
+    },
+    "is_active": true,
+    "created_at": "2025-12-11T03:07:54.820044+00:00",
+    "category": "wind"
+  },
+  {
+    "id": "08d47ef2-9af2-479d-b702-57be33fd80c4",
+    "hazard_id": "tropical_storm",
+    "name": "Tropical storm",
+    "description": "Tropical storms are organized systems of thunderstorms with sustained winds between 39-73 mph, representing the intermediate stage between tropical depressions and hurricanes. While less intense than hurricanes, tropical storms can still produce significant rainfall leading to flooding, coastal storm surge, and wind damage to structures and vegetation. These storms often affect large geographic areas and can spawn tornadoes, making them dangerous even at their relatively lower wind speeds.",
+    "domain": "meteorological",
+    "keywords": [
+      "tropical",
+      "storm"
+    ],
+    "metadata": {
+      "category_description": "Hazards from atmospheric pressure differences creating strong air movement, including rotating systems"
+    },
+    "is_active": true,
+    "created_at": "2025-12-11T03:07:54.820044+00:00",
+    "category": "wind"
+  },
+  {
+    "id": "44166264-ca25-4b90-9b17-cb4343270375",
+    "hazard_id": "electrical_storm",
+    "name": "Electrical storm",
+    "description": "Electrical storms produce dangerous lightning strikes that can cause fires, power outages, and direct harm to people and infrastructure. Thunderstorms combine lightning with heavy rain, hail, and strong winds, creating multiple simultaneous hazards that can overwhelm emergency response capabilities. Derechos are particularly severe widespread windstorms associated with bands of rapidly moving thunderstorms, capable of producing straight-line winds equivalent to those of weak tornadoes across hundreds of miles.",
+    "domain": "meteorological",
+    "keywords": [
+      "electrical",
+      "storm"
+    ],
+    "metadata": {
+      "category_description": "Hazards from electrical discharge during thunderstorms and severe weather events"
+    },
+    "is_active": true,
+    "created_at": "2025-12-11T03:07:54.820044+00:00",
+    "category": "lightning"
+  },
+  {
+    "id": "6e0cdf0e-ba5f-48e2-9efb-5610d569197a",
+    "hazard_id": "fog",
+    "name": "Fog",
+    "description": "Fog creates hazardous conditions by dramatically reducing visibility, making transportation by land, sea, and air extremely dangerous. Dense fog can bring entire transportation networks to a standstill, causing accidents, delays, and economic losses as people cannot safely travel or conduct business. Persistent fog events can also impact air quality and public health, particularly in urban areas where fog can trap pollutants near the ground.",
+    "domain": "meteorological",
+    "keywords": [
+      "fog"
+    ],
+    "metadata": {
+      "category_description": "Hazards from reduced visibility due to suspended water droplets near the ground"
+    },
+    "is_active": true,
+    "created_at": "2025-12-11T03:07:54.820044+00:00",
+    "category": "fog"
+  },
+  {
+    "id": "7ec73c94-31b0-4396-8022-6db8f4e70600",
+    "hazard_id": "ice_hail_freezing_rain",
+    "name": "Ice, hail, freezing rain",
+    "description": "Extreme winter conditions encompass a range of cold-weather hazards including ice storms that coat surfaces with thick layers of ice, making travel impossible and causing power lines and trees to collapse under the weight. Freezing rain creates particularly treacherous conditions as it forms a slick, invisible layer of ice on roads, sidewalks, and other surfaces, leading to numerous accidents and injuries. Hail can cause significant property damage to vehicles, roofs, and crops, while debris avalanches triggered by freeze-thaw cycles can threaten mountain communities and infrastructure.",
+    "domain": "meteorological",
+    "keywords": [
+      "ice,",
+      "hail,",
+      "freezing",
+      "rain"
+    ],
+    "metadata": {
+      "category_description": "Hazards from prolonged or extreme cold temperatures and winter precipitation"
+    },
+    "is_active": true,
+    "created_at": "2025-12-11T03:07:54.820044+00:00",
+    "category": "extreme_temperature_cold"
+  },
+  {
+    "id": "0934eb2d-1869-42ee-98b1-811cbcbcae49",
+    "hazard_id": "cold_wave",
+    "name": "Cold wave",
+    "description": "Cold waves are prolonged periods of excessively cold weather that can overwhelm heating systems, increase energy demand to dangerous levels, and pose serious health risks, particularly to vulnerable populations. Cold snaps represent sudden, dramatic drops in temperature that can catch communities unprepared, leading to hypothermia, frostbite, and increased mortality rates. Frost events can devastate agricultural crops, disrupt food supply chains, and cause significant economic losses to farming communities and consumers.",
+    "domain": "meteorological",
+    "keywords": [
+      "cold",
+      "wave"
+    ],
+    "metadata": {
+      "category_description": "Hazards from prolonged or extreme cold temperatures and winter precipitation"
+    },
+    "is_active": true,
+    "created_at": "2025-12-11T03:07:54.820044+00:00",
+    "category": "extreme_temperature_cold"
+  },
+  {
+    "id": "dd5d513d-4152-442e-b6d0-fb5db12d2911",
+    "hazard_id": "extreme_cold_weather",
+    "name": "Extreme cold weather",
+    "description": "Extreme cold weather events involve sustained periods of dangerously low temperatures that can strain infrastructure, increase energy consumption, and pose life-threatening risks to human health. These conditions can cause pipes to freeze and burst, leading to water damage and loss of essential services, particularly in buildings not adequately winterized. Extended periods of extreme cold can also impact transportation systems as vehicles struggle to operate and roads become hazardous due to ice formation and reduced tire traction.",
+    "domain": "meteorological",
+    "keywords": [
+      "extreme",
+      "cold",
+      "weather"
+    ],
+    "metadata": {
+      "category_description": "Hazards from prolonged or extreme cold temperatures and winter precipitation"
+    },
+    "is_active": true,
+    "created_at": "2025-12-11T03:07:54.820044+00:00",
+    "category": "extreme_temperature_cold"
+  },
+  {
+    "id": "2b1390c7-0d75-439f-8ae9-d5c9d804bd62",
+    "hazard_id": "heat_wave",
+    "name": "Heat wave",
+    "description": "Heat waves are prolonged periods of excessively hot weather that can cause widespread health emergencies, particularly affecting elderly people, children, and those with chronic health conditions. These events strain electrical grids as air conditioning demand soars, potentially leading to blackouts that further endanger public health during critical periods. Heat waves can also buckle roads, warp railway tracks, and reduce the efficiency of transportation systems while increasing the risk of heat-related illnesses and death.",
+    "domain": "meteorological",
+    "keywords": [
+      "heat",
+      "wave"
+    ],
+    "metadata": {
+      "category_description": "Hazards from prolonged or extreme heat that can cause heat stress and infrastructure strain"
+    },
+    "is_active": true,
+    "created_at": "2025-12-11T03:07:54.820044+00:00",
+    "category": "extreme_temperature_hot"
+  },
+  {
+    "id": "d6a33845-6b98-40d5-afd8-cc2415094d0e",
+    "hazard_id": "extreme_hot_weather",
+    "name": "Extreme hot weather",
+    "description": "Extreme hot weather involves sustained periods of dangerously high temperatures that can overwhelm cooling systems and increase energy consumption to critical levels. These conditions pose serious health risks including heat exhaustion and heat stroke, particularly in urban areas where the heat island effect amplifies already dangerous temperatures. Extended hot weather can also stress agricultural systems, reduce crop yields, and increase water demand at the same time that evaporation reduces available water supplies.",
+    "domain": "meteorological",
+    "keywords": [
+      "extreme",
+      "hot",
+      "weather"
+    ],
+    "metadata": {
+      "category_description": "Hazards from prolonged or extreme heat that can cause heat stress and infrastructure strain"
+    },
+    "is_active": true,
+    "created_at": "2025-12-11T03:07:54.820044+00:00",
+    "category": "extreme_temperature_hot"
+  },
+  {
+    "id": "9da8cc10-c09b-433b-a2c0-e33813c20c45",
+    "hazard_id": "drought",
+    "name": "Drought",
+    "description": "Droughts are prolonged periods of abnormally low precipitation that lead to water shortages affecting agriculture, municipal water supplies, and ecosystem health. These events can devastate crop yields, force water rationing, and increase the risk of wildfires as vegetation becomes dry and combustible. Extended droughts can cause economic losses in the billions, force population migration, and strain social systems as communities compete for increasingly scarce water resources.",
+    "domain": "climatological",
+    "keywords": [
+      "drought"
+    ],
+    "metadata": {
+      "category_description": "Hazards from prolonged shortage of water due to below-average precipitation and increased evaporation"
+    },
+    "is_active": true,
+    "created_at": "2025-12-11T03:07:54.820044+00:00",
+    "category": "water_scarcity"
+  },
+  {
+    "id": "9f098c57-f529-4b63-b4b3-6e797d548156",
+    "hazard_id": "forest_fire",
+    "name": "Forest fire",
+    "description": "Forest fires are uncontrolled blazes that spread rapidly through wooded areas, destroying vast ecosystems, threatening communities, and releasing massive amounts of carbon into the atmosphere. These fires can burn for weeks or months, consuming thousands of acres and creating their own weather patterns that can spread embers miles ahead of the main fire front. Forest fires not only destroy homes and infrastructure but can also contaminate water supplies, degrade air quality across entire regions, and cause long-term ecological damage that takes decades to recover.",
+    "domain": "climatological",
+    "keywords": [
+      "forest",
+      "fire"
+    ],
+    "metadata": {
+      "category_description": "Hazards from uncontrolled fires in natural vegetation areas, often exacerbated by dry conditions"
+    },
+    "is_active": true,
+    "created_at": "2025-12-11T03:07:54.820044+00:00",
+    "category": "wild_fire"
+  },
+  {
+    "id": "9d2b8ffb-1341-4a89-8ef4-8715135fcfb8",
+    "hazard_id": "land_fire",
+    "name": "Land fire",
+    "description": "Land fires encompass various types of wildfires that burn through grasslands, scrublands, and agricultural areas, often moving faster than forest fires due to lighter fuel loads and higher wind exposure. These fires can rapidly threaten rural communities, destroy livestock and crops, and create hazardous driving conditions as smoke reduces visibility on highways and roads. While individual land fires may be smaller than forest fires, they can occur more frequently and in areas closer to human settlements, making them particularly dangerous to life and property.",
+    "domain": "climatological",
+    "keywords": [
+      "land",
+      "fire"
+    ],
+    "metadata": {
+      "category_description": "Hazards from uncontrolled fires in natural vegetation areas, often exacerbated by dry conditions"
+    },
+    "is_active": true,
+    "created_at": "2025-12-11T03:07:54.820044+00:00",
+    "category": "wild_fire"
+  },
+  {
+    "id": "ae069532-ec71-4caa-b0d0-52377eadb626",
+    "hazard_id": "flash_surface_flood",
+    "name": "Flash/surface flood",
+    "description": "Flash floods and surface floods occur when rainfall exceeds the ground's ability to absorb water or when drainage systems become overwhelmed, creating rapidly rising water that can sweep away vehicles, people, and debris. These floods develop quickly with little warning, making them particularly dangerous as people may be caught unprepared in low-lying areas, vehicles, or buildings. Glacial lake outburst floods are especially catastrophic events where natural dams containing glacial meltwater suddenly fail, releasing massive volumes of water that can devastate everything downstream.",
+    "domain": "hydrological",
+    "keywords": [
+      "flash",
+      "surface",
+      "flood"
+    ],
+    "metadata": {
+      "category_description": "Hazards from overflow of water onto normally dry land from various water sources"
+    },
+    "is_active": true,
+    "created_at": "2025-12-11T03:07:54.820044+00:00",
+    "category": "flood"
+  },
+  {
+    "id": "902cd1da-a404-453d-9c49-6e273f9abc2a",
+    "hazard_id": "river_flood",
+    "name": "River flood",
+    "description": "River floods occur when waterways exceed their banks due to prolonged rainfall, snowmelt, or dam failures, inundating surrounding floodplains and communities. These floods typically develop more slowly than flash floods but can persist for days or weeks, causing extensive property damage and disrupting transportation, utilities, and economic activities. River flooding can contaminate drinking water supplies, damage agricultural land with sediment deposits, and force long-term evacuations of affected communities.",
+    "domain": "hydrological",
+    "keywords": [
+      "river",
+      "flood"
+    ],
+    "metadata": {
+      "category_description": "Hazards from overflow of water onto normally dry land from various water sources"
+    },
+    "is_active": true,
+    "created_at": "2025-12-11T03:07:54.820044+00:00",
+    "category": "flood"
+  },
+  {
+    "id": "38f45ff6-5ae8-4cc0-a484-03e8e561a47f",
+    "hazard_id": "coastal_flood",
+    "name": "Coastal flood",
+    "description": "Coastal floods result from storm surge, high tides, or tsunami waves that push ocean water inland, threatening coastal communities and infrastructure. These floods can be particularly destructive because salt water damages vegetation, contaminates freshwater supplies, and corrodes infrastructure more aggressively than freshwater flooding. Coastal flooding is becoming increasingly frequent due to sea level rise, putting permanent pressure on coastal defenses and threatening the long-term viability of some coastal communities.",
+    "domain": "hydrological",
+    "keywords": [
+      "coastal",
+      "flood"
+    ],
+    "metadata": {
+      "category_description": "Hazards from overflow of water onto normally dry land from various water sources"
+    },
+    "is_active": true,
+    "created_at": "2025-12-11T03:07:54.820044+00:00",
+    "category": "flood"
+  },
+  {
+    "id": "9dd01ed7-49c0-4d6d-8b19-fdaf5d1c4ab5",
+    "hazard_id": "groundwater_flood",
+    "name": "Groundwater flood",
+    "description": "Groundwater flooding occurs when underground water tables rise to the surface, causing water to seep up through the ground rather than flowing from rivers or storms. This type of flooding can persist for months, causing foundation damage, basement flooding, and making land unsuitable for agriculture or development. Waterlogging creates saturated soil conditions that can kill crops and vegetation while creating unsanitary conditions that promote disease and make areas uninhabitable.",
+    "domain": "hydrological",
+    "keywords": [
+      "groundwater",
+      "flood"
+    ],
+    "metadata": {
+      "category_description": "Hazards from overflow of water onto normally dry land from various water sources"
+    },
+    "is_active": true,
+    "created_at": "2025-12-11T03:07:54.820044+00:00",
+    "category": "flood"
+  },
+  {
+    "id": "3b3038da-93b9-42d5-ad0c-27a60d3d6873",
+    "hazard_id": "storm_surge",
+    "name": "Storm surge",
+    "description": "Storm surge involves the abnormal rise in seawater level during storms, driven by strong winds pushing ocean water toward the shore and creating a wall of water that can reach heights of 20 feet or more. This surge can penetrate miles inland, flooding coastal areas, destroying buildings, and contaminating freshwater supplies with salt water. Seiches are related phenomena where enclosed or semi-enclosed bodies of water oscillate due to atmospheric pressure changes or seismic activity, creating dangerous standing waves that can damage harbors, marinas, and waterfront infrastructure.",
+    "domain": "hydrological",
+    "keywords": [
+      "storm",
+      "surge"
+    ],
+    "metadata": {
+      "category_description": "Hazards from abnormal rise in water level caused by storm winds pushing water toward shore"
+    },
+    "is_active": true,
+    "created_at": "2025-12-11T03:07:54.820044+00:00",
+    "category": "wave_action"
+  },
+  {
+    "id": "3e52dba8-8030-4e14-ba17-2996205db776",
+    "hazard_id": "salt_water_intrusion",
+    "name": "Salt water intrusion",
+    "description": "Salt water intrusion occurs when saline water moves into freshwater aquifers, contaminating drinking water supplies and making groundwater unsuitable for agricultural or municipal use. This process is often accelerated by over-extraction of groundwater and sea level rise, which allows salt water to penetrate further inland through underground systems. Salt water intrusion can permanently damage soil quality, kill freshwater vegetation, and require expensive treatment systems to make water sources usable again.",
+    "domain": "hydrological",
+    "keywords": [
+      "salt",
+      "water",
+      "intrusion"
+    ],
+    "metadata": {
+      "category_description": "Hazards from alterations in water chemistry affecting quality and ecosystems"
+    },
+    "is_active": true,
+    "created_at": "2025-12-11T03:07:54.820044+00:00",
+    "category": "chemical_change"
+  },
+  {
+    "id": "60e19050-6ceb-4238-9216-76a0d88b089a",
+    "hazard_id": "ocean_acidification",
+    "name": "Ocean acidification",
+    "description": "Ocean acidification involves the ongoing decrease in ocean pH levels as seawater absorbs increasing amounts of carbon dioxide from the atmosphere, creating more acidic conditions. This chemical change threatens marine ecosystems by making it difficult for shellfish, corals, and other marine organisms to build and maintain calcium carbonate shells and skeletons. Ocean acidification can collapse marine food chains, devastate fisheries that communities depend on for food and income, and alter ocean chemistry in ways that affect global climate patterns.",
+    "domain": "hydrological",
+    "keywords": [
+      "ocean",
+      "acidification"
+    ],
+    "metadata": {
+      "category_description": "Hazards from alterations in water chemistry affecting quality and ecosystems"
+    },
+    "is_active": true,
+    "created_at": "2025-12-11T03:07:54.820044+00:00",
+    "category": "chemical_change"
+  },
+  {
+    "id": "33cea287-f76f-4c18-89db-743fb1d2c1b0",
+    "hazard_id": "landslide",
+    "name": "Landslide",
+    "description": "Landslides involve the rapid movement of rock, soil, and debris down slopes, often triggered by heavy rainfall, earthquakes, or human activities that destabilize hillsides. These events can bury homes, roads, and infrastructure in minutes, causing fatalities and cutting off access to entire communities. Lahars and debris flows are particularly dangerous as they can travel at high speeds and carry massive boulders and trees, while mud flows can inundate large areas with thick, heavy sediment that is extremely difficult to clean up.",
+    "domain": "geophysical",
+    "keywords": [
+      "landslide"
+    ],
+    "metadata": {
+      "category_description": "Hazards from downslope movement of soil, rock, or debris under the force of gravity"
+    },
+    "is_active": true,
+    "created_at": "2025-12-11T03:07:54.820044+00:00",
+    "category": "mass_movement"
+  },
+  {
+    "id": "6e00b186-fc98-4568-922c-aeb322126b0c",
+    "hazard_id": "avalanche",
+    "name": "Avalanche",
+    "description": "Avalanches are rapid flows of snow, ice, rock, or debris down mountainsides that can reach speeds over 100 mph and bury everything in their path. Snow avalanches pose particular risks to mountain communities, ski resorts, and transportation corridors, often triggered by weather changes, human activity, or natural vibrations. Debris avalanches involve rock and soil rather than snow, but are equally destructive and can dramatically reshape landscapes while threatening any development in their path.",
+    "domain": "geophysical",
+    "keywords": [
+      "avalanche"
+    ],
+    "metadata": {
+      "category_description": "Hazards from downslope movement of soil, rock, or debris under the force of gravity"
+    },
+    "is_active": true,
+    "created_at": "2025-12-11T03:07:54.820044+00:00",
+    "category": "mass_movement"
+  },
+  {
+    "id": "568c17b9-2c56-49f6-b8ef-4d59b30ffed7",
+    "hazard_id": "rockfall",
+    "name": "Rockfall",
+    "description": "Rockfall events involve the sudden detachment and fall of rock masses from cliffs or steep slopes, posing serious risks to transportation routes, buildings, and people below. These events can be triggered by freeze-thaw cycles, earthquakes, heavy rainfall, or gradual weathering that weakens rock formations over time. Individual rockfalls may seem small but can cause significant damage to vehicles and infrastructure, while larger events can block roads and railways for extended periods.",
+    "domain": "geophysical",
+    "keywords": [
+      "rockfall"
+    ],
+    "metadata": {
+      "category_description": "Hazards from downslope movement of soil, rock, or debris under the force of gravity"
+    },
+    "is_active": true,
+    "created_at": "2025-12-11T03:07:54.820044+00:00",
+    "category": "mass_movement"
+  },
+  {
+    "id": "c7cd8b97-626c-4f57-a427-7085b6cacb4c",
+    "hazard_id": "subsidence",
+    "name": "Subsidence",
+    "description": "Subsidence involves the gradual or sudden sinking of ground surface due to natural processes or human activities such as groundwater extraction, mining, or oil and gas extraction. Sudden subsidence creates dangerous sinkholes that can swallow buildings, vehicles, and infrastructure without warning, while gradual subsidence can damage foundations, pipelines, and roads over time. Long-lasting subsidence can permanently alter drainage patterns, increase flood risk, and require costly infrastructure modifications to maintain functionality.",
+    "domain": "geophysical",
+    "keywords": [
+      "subsidence"
+    ],
+    "metadata": {
+      "category_description": "Hazards from downslope movement of soil, rock, or debris under the force of gravity"
+    },
+    "is_active": true,
+    "created_at": "2025-12-11T03:07:54.820044+00:00",
+    "category": "mass_movement"
+  },
+  {
+    "id": "bb535f75-fcfc-47a6-8e84-8136e6ab4481",
+    "hazard_id": "water-borne_disease",
+    "name": "Water-borne disease",
+    "description": "Water-borne diseases spread through contaminated water sources, posing serious public health risks particularly after flooding events or when water treatment systems fail. Cholera, typhoid, and Legionnaires' disease can cause severe illness and death if not quickly identified and treated, often spreading rapidly through communities with poor sanitation. These diseases can overwhelm healthcare systems during climate disasters and create secondary health emergencies that persist long after the initial hazard event has passed.",
+    "domain": "biological",
+    "keywords": [
+      "water-borne",
+      "disease"
+    ],
+    "metadata": {
+      "category_description": "Hazards from disease-causing pathogens and pests whose distribution and activity are influenced by climate"
+    },
+    "is_active": true,
+    "created_at": "2025-12-11T03:07:54.820044+00:00",
+    "category": "insects_and_microorganisms"
+  },
+  {
+    "id": "d4219754-6405-4994-a931-5db3b1556244",
+    "hazard_id": "vector-borne_disease",
+    "name": "Vector-borne disease",
+    "description": "Vector-borne diseases are transmitted through insects, ticks, and other organisms whose populations and geographic ranges are expanding due to changing climate conditions. Mosquito-borne diseases like malaria, dengue fever, and West Nile virus are spreading to new regions as warmer temperatures allow disease vectors to survive and reproduce in previously unsuitable areas. These diseases can cause significant mortality and morbidity, strain healthcare resources, and require extensive public health responses including vector control programs and vaccination campaigns.",
+    "domain": "biological",
+    "keywords": [
+      "vector-borne",
+      "disease"
+    ],
+    "metadata": {
+      "category_description": "Hazards from disease-causing pathogens and pests whose distribution and activity are influenced by climate"
+    },
+    "is_active": true,
+    "created_at": "2025-12-11T03:07:54.820044+00:00",
+    "category": "insects_and_microorganisms"
+  },
+  {
+    "id": "279ef318-ab79-40d4-b1f7-82c344e85600",
+    "hazard_id": "air-borne_disease",
+    "name": "Air-borne disease",
+    "description": "Air-borne diseases spread through respiratory droplets and can rapidly transmit through populations, particularly in crowded conditions that often occur during climate disasters and displacement events. Climate change can influence the timing and severity of seasonal influenza outbreaks and may contribute to the emergence of new respiratory pathogens. These diseases pose particular risks during emergency responses when people are sheltering together and normal healthcare services may be disrupted or overwhelmed.",
+    "domain": "biological",
+    "keywords": [
+      "air-borne",
+      "disease"
+    ],
+    "metadata": {
+      "category_description": "Hazards from disease-causing pathogens and pests whose distribution and activity are influenced by climate"
+    },
+    "is_active": true,
+    "created_at": "2025-12-11T03:07:54.820044+00:00",
+    "category": "insects_and_microorganisms"
+  },
+  {
+    "id": "7e979157-43d4-49bc-94b1-9ea773711bfb",
+    "hazard_id": "insect_infestation",
+    "name": "Insect infestation",
+    "description": "Insect infestations involve explosive population growth of insects that can devastate ecosystems, agriculture, and human infrastructure, often triggered or exacerbated by changing climate conditions. Pine beetle infestations can kill millions of trees across vast forest areas, increasing wildfire risk and fundamentally altering forest ecosystems. Aggressive bee species and structural pests like termites can threaten human safety and property, while all insect infestations can disrupt food systems and require extensive pest management efforts.",
+    "domain": "biological",
+    "keywords": [
+      "insect",
+      "infestation"
+    ],
+    "metadata": {
+      "category_description": "Hazards from disease-causing pathogens and pests whose distribution and activity are influenced by climate"
+    },
+    "is_active": true,
+    "created_at": "2025-12-11T03:07:54.820044+00:00",
+    "category": "insects_and_microorganisms"
+  }
+]

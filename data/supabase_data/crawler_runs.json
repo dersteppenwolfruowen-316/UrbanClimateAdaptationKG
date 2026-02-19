@@ -1,0 +1,17 @@
+[
+  {
+    "id": "19e7ba48-243e-42e8-85f2-0253b469dd23",
+    "crawl_id": "legacy_import_v2_researcher_2025",
+    "started_at": "2024-01-01T00:00:00+00:00",
+    "completed_at": "2024-01-01T00:00:00+00:00",
+    "duration_minutes": null,
+    "configuration": {
+      "notes": "Pre-crawler-tracking solutions from Airtable migration",
+      "source": "legacy_import"
+    },
+    "results": {
+      "solutions_count": 2469
+    },
+    "log_storage_path": null
+  }
+]

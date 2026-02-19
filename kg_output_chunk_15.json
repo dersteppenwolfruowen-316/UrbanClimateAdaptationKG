@@ -1,0 +1,148 @@
+{
+  "entities": [
+    {
+      "id": "1",
+      "type": "Document",
+      "properties": {
+        "title": "Low-Carbon City",
+        "year": null,
+        "publisher": "PRC",
+        "document_type": null,
+        "geographic_scope": "PRC",
+        "source_url": null
+      }
+    },
+    {
+      "id": "2",
+      "type": "Actor",
+      "properties": {
+        "name": "PRC",
+        "actor_type": "Government",
+        "actor_role": "Regulator",
+        "scale": "National"
+      }
+    },
+    {
+      "id": "3",
+      "type": "PolicyNarrative",
+      "properties": {
+        "narrative_type": "ecological civilization"
+      }
+    },
+    {
+      "id": "4",
+      "type": "AdaptationStrategy",
+      "properties": {
+        "strategy_name": "sustainable development initiatives",
+        "sector": "Urban Environment",
+        "mechanism": null
+      }
+    },
+    {
+      "id": "5",
+      "type": "AdaptationAction",
+      "properties": {
+        "action_name": "energy conservation",
+        "implementation_status": null
+      }
+    },
+    {
+      "id": "6",
+      "type": "AdaptationAction",
+      "properties": {
+        "action_name": "emission reduction",
+        "implementation_status": null
+      }
+    },
+    {
+      "id": "7",
+      "type": "AdaptationAction",
+      "properties": {
+        "action_name": "increase mass transit and nonmotorized transport infrastructure",
+        "implementation_status": null
+      }
+    },
+    {
+      "id": "8",
+      "type": "AdaptationAction",
+      "properties": {
+        "action_name": "introduce new energy vehicles",
+        "implementation_status": null
+      }
+    },
+    {
+      "id": "9",
+      "type": "AdaptationAction",
+      "properties": {
+        "action_name": "increase green infrastructure",
+        "implementation_status": null
+      }
+    },
+    {
+      "id": "10",
+      "type": "AdaptationAction",
+      "properties": {
+        "action_name": "rehabilitate wetlands",
+        "implementation_status": null
+      }
+    },
+    {
+      "id": "11",
+      "type": "AdaptationAction",
+      "properties": {
+        "action_name": "improve flood protection",
+        "implementation_status": null
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source": "1",
+      "relation_type": "PUBLISHED_BY",
+      "target": "2"
+    },
+    {
+      "source": "2",
+      "relation_type": "FRAMED_AS",
+      "target": "3"
+    },
+    {
+      "source": "4",
+      "relation_type": "IMPLEMENTS",
+      "target": "5"
+    },
+    {
+      "source": "4",
+      "relation_type": "IMPLEMENTS",
+      "target": "6"
+    },
+    {
+      "source": "4",
+      "relation_type": "IMPLEMENTS",
+      "target": "7"
+    },
+    {
+      "source": "4",
+      "relation_type": "IMPLEMENTS",
+      "target": "8"
+    },
+    {
+      "source": "4",
+      "relation_type": "IMPLEMENTS",
+      "target": "9"
+    },
+    {
+      "source": "4",
+      "relation_type": "IMPLEMENTS",
+      "target": "10"
+    },
+    {
+      "source": "4",
+      "relation_type": "IMPLEMENTS",
+      "target": "11"
+    }
+  ],
+  "evidence": {
+    "source_text": "The PRC recognizes the need for transforming its growth pattern and has established a vision to realize “ecological civilization,” promoting sustainable, inclusive, low-carbon, and resilient growth. Recognizing the need to improve the urban environment, and the critical role that cities play in mitigating the effects of climate change, the PRC has identified and implemented several city-level initiatives for sustainable development. These include measures to conserve energy, reduce emissions, increase mass transit and nonmotorized transport infrastructure, introduce new energy vehicles, increase green infrastructure, rehabilitate wetlands, and improve flood protection."
+  }
+}

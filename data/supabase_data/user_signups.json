@@ -1,0 +1,122 @@
+[
+  {
+    "user_id": "11831038-3a76-4140-b3eb-e12379e7ae84",
+    "signed_up_at": "2026-01-14T17:02:50.007463+00:00",
+    "verified_at": "2026-01-14T17:06:33.219698+00:00",
+    "source": "landing_page",
+    "first_login_at": null,
+    "last_login_at": null,
+    "full_name": "Michael M Samuelian",
+    "organization": null
+  },
+  {
+    "user_id": "4e7c8510-f92b-4bfd-981a-5729fade0657",
+    "signed_up_at": "2026-01-14T17:17:21.628289+00:00",
+    "verified_at": "2026-01-14T17:17:39.571723+00:00",
+    "source": "landing_page",
+    "first_login_at": null,
+    "last_login_at": null,
+    "full_name": "Neil Kleiman",
+    "organization": "Northeastern University "
+  },
+  {
+    "user_id": "531cb6b8-956d-48d1-b58d-67e7521b7387",
+    "signed_up_at": "2026-01-20T03:00:01.511794+00:00",
+    "verified_at": "2026-01-20T03:00:20.250543+00:00",
+    "source": "landing_page",
+    "first_login_at": null,
+    "last_login_at": null,
+    "full_name": "Anthony Townsend",
+    "organization": "Cornell Tech"
+  },
+  {
+    "user_id": "fd561423-bae8-4b5a-ab76-01d843ae401b",
+    "signed_up_at": "2026-01-20T02:59:23.882627+00:00",
+    "verified_at": "2026-01-20T03:01:37.741185+00:00",
+    "source": "landing_page",
+    "first_login_at": null,
+    "last_login_at": null,
+    "full_name": "Anthony Townsend",
+    "organization": "Star City Group"
+  },
+  {
+    "user_id": "922aebf1-2484-4e15-8865-2bcc715464ec",
+    "signed_up_at": "2026-01-20T02:59:39.642323+00:00",
+    "verified_at": "2026-01-20T03:01:59.439265+00:00",
+    "source": "landing_page",
+    "first_login_at": null,
+    "last_login_at": null,
+    "full_name": "Anthony Townsend",
+    "organization": "NYU"
+  },
+  {
+    "user_id": "82a1a8f4-ced7-4771-a836-294ed8d3e8ef",
+    "signed_up_at": "2026-01-20T22:29:45.204181+00:00",
+    "verified_at": "2026-01-20T22:30:27.34645+00:00",
+    "source": "landing_page",
+    "first_login_at": null,
+    "last_login_at": null,
+    "full_name": "Amelia Pacht",
+    "organization": "Cornell Tech"
+  },
+  {
+    "user_id": "b0ec7222-d033-499f-93e3-374a675ee9ba",
+    "signed_up_at": "2026-01-21T20:54:00.389022+00:00",
+    "verified_at": "2026-01-21T20:54:00.389022+00:00",
+    "source": "landing_page",
+    "first_login_at": null,
+    "last_login_at": null,
+    "full_name": null,
+    "organization": null
+  },
+  {
+    "user_id": "ef1c72c5-fda3-4210-b32a-5eaafd31c11c",
+    "signed_up_at": "2026-01-26T14:07:45.890574+00:00",
+    "verified_at": "2026-01-26T14:07:52.807409+00:00",
+    "source": "landing_page",
+    "first_login_at": null,
+    "last_login_at": null,
+    "full_name": "Louie Woodall",
+    "organization": "Climate Proof"
+  },
+  {
+    "user_id": "8f743c0d-c9b3-45e0-ae35-9615089ed5a6",
+    "signed_up_at": "2026-01-26T16:52:33.84371+00:00",
+    "verified_at": "2026-01-26T16:52:56.355442+00:00",
+    "source": "landing_page",
+    "first_login_at": null,
+    "last_login_at": null,
+    "full_name": "Elizabeth Losos",
+    "organization": "Duke University"
+  },
+  {
+    "user_id": "757fb01b-8a9b-47e9-b298-4afcc68c6a7d",
+    "signed_up_at": "2026-01-26T17:58:02.554603+00:00",
+    "verified_at": "2026-01-26T17:58:13.463563+00:00",
+    "source": "landing_page",
+    "first_login_at": null,
+    "last_login_at": null,
+    "full_name": "Samuel Carter",
+    "organization": "Resilient Cities Catalyst"
+  },
+  {
+    "user_id": "174a6a6e-a3d7-4950-abc4-f813979968c1",
+    "signed_up_at": "2026-01-28T07:31:02.348765+00:00",
+    "verified_at": "2026-01-28T07:31:21.048289+00:00",
+    "source": "landing_page",
+    "first_login_at": null,
+    "last_login_at": null,
+    "full_name": "Sean Hardesty Lewis",
+    "organization": "Cornell Tech"
+  },
+  {
+    "user_id": "c50fdea2-5f4d-463e-a0aa-76100be38547",
+    "signed_up_at": "2026-01-28T16:16:17.239187+00:00",
+    "verified_at": "2026-01-28T16:17:17.109151+00:00",
+    "source": "landing_page",
+    "first_login_at": null,
+    "last_login_at": null,
+    "full_name": "RICHARD S. SELINE",
+    "organization": "ROAR Partners"
+  }
+]

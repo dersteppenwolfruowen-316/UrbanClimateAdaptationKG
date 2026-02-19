@@ -1,0 +1,3584 @@
+[
+  {
+    "id": "b290f9b7-8af8-4824-961b-46bf45895bc2",
+    "document_id": "rec0D0Uh7Y7ecdOxV",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Pune Resilience Strategy",
+    "publisher": "Pune Municipal Corporation",
+    "year": 2019,
+    "city": "Pune",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Asia & Asia Pacific Oceania/Pune-India/ra_pune_report 20190819_web.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:42:44.000Z",
+      "airtable_id": "rec0D0Uh7Y7ecdOxV",
+      "source_file": "ra_pune_report 20190819_web.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "4ba44159-299c-43bb-84bc-61b41b46ecd8",
+    "document_id": "rec0h5NOX6fs06lUi",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Climate Mobilization Action Plan",
+    "publisher": "City of Boulder",
+    "year": 2021,
+    "city": "Boulder",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/North America/Boulder-US/Boulder-June_8_Study_Session_FINAL.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:56:21.000Z",
+      "airtable_id": "rec0h5NOX6fs06lUi",
+      "source_file": "Boulder-June_8_Study_Session_FINAL.pdf",
+      "document_type": "Plan"
+    }
+  },
+  {
+    "id": "d5a6de26-939d-47a4-914c-037ea4c5b6eb",
+    "document_id": "rec0wudkGhMlskcfM",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Climate action plan 2020\u20132023",
+    "publisher": "City of Stockholm",
+    "year": 2020,
+    "city": "Stockholm",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Europe & Middle East/Stockholm-Sweden/climate-action-plan-2020-2023.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:52:11.000Z",
+      "airtable_id": "rec0wudkGhMlskcfM",
+      "source_file": "climate-action-plan-2020-2023.pdf",
+      "document_type": "Action Plan"
+    }
+  },
+  {
+    "id": "4eefe49a-46eb-4cd2-9d51-bf37d450c3b5",
+    "document_id": "rec20Sp3hjcd4qMic",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Hoja de Ruta hacia la Neutralidad Clim\u00e1tica de la Ciudad de Madrid",
+    "publisher": "Ayuntamiento de Madrid",
+    "year": 2022,
+    "city": "Madrid",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Europe & Middle East/Madrid-Spain/madrid_nzc_ccc.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:51:11.000Z",
+      "airtable_id": "rec20Sp3hjcd4qMic",
+      "source_file": "madrid_nzc_ccc.pdf",
+      "document_type": "Roadmap"
+    }
+  },
+  {
+    "id": "21d9c199-b2e0-4a8e-8e99-22c92182a52c",
+    "document_id": "rec2bbKjvKnoej7kv",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Manchester Climate Change Framework 2020-25",
+    "publisher": "Manchester Climate Change Agency",
+    "year": 2022,
+    "city": "Manchester",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Europe & Middle East/Greater-Manchester-UK/2022 Update to Manchester Climate Change Framework 05-09-22.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:49:13.000Z",
+      "airtable_id": "rec2bbKjvKnoej7kv",
+      "source_file": "2022 Update to Manchester Climate Change Framework 05-09-22.pdf",
+      "document_type": "Framework"
+    }
+  },
+  {
+    "id": "b976eb59-53d9-4aad-9af0-ca85c66f7f61",
+    "document_id": "rec37INpt05ITEv92",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "A Resilient Medell\u00edn",
+    "publisher": "Alcald\u00eda de Medell\u00edn",
+    "year": 2016,
+    "city": "Medell\u00edn",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Latin America & Caribbean/Medelli\u0301n-Colombia/Medellin-Resilience-Strategy-English.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:53:58.000Z",
+      "airtable_id": "rec37INpt05ITEv92",
+      "source_file": "Medellin-Resilience-Strategy-English.pdf",
+      "document_type": "Resilience Strategy"
+    }
+  },
+  {
+    "id": "6b5ce2fa-3b3a-4da5-988e-7aeffa0d82ed",
+    "document_id": "rec3D55zf82DURbKZ",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Resilient San Francisco",
+    "publisher": "City and County of San Francisco",
+    "year": 2016,
+    "city": "San Francisco",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/North America/San-Francisco-US/San-Francisco-Resilience-Strategy-English.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-23T00:01:33.000Z",
+      "airtable_id": "rec3D55zf82DURbKZ",
+      "source_file": "San-Francisco-Resilience-Strategy-English.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "96e681f3-0501-48d1-8896-e8743c000a06",
+    "document_id": "rec3m2wvyNZ0saDV0",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "A Climate Plan for Belfast",
+    "publisher": "Belfast City Council",
+    "year": 2020,
+    "city": "Belfast",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Europe & Middle East/Belfast-UK/Belfast-A-Climate-Plan-for-Belfast.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:47:33.000Z",
+      "airtable_id": "rec3m2wvyNZ0saDV0",
+      "source_file": "Belfast-A-Climate-Plan-for-Belfast.pdf",
+      "document_type": "Plan"
+    }
+  },
+  {
+    "id": "2d8f483f-bd13-4f8d-9cf3-7f4ca4811ffb",
+    "document_id": "rec44EjvSjDvEfof0",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Calgary's Climate Strategy \u2013 Pathways to 2050",
+    "publisher": "The City of Calgary",
+    "year": 2022,
+    "city": "Calgary",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/North America/Calgary-CA/Distrib-Revised Attach 1-C2022-0372.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:56:51.000Z",
+      "airtable_id": "rec44EjvSjDvEfof0",
+      "source_file": "Distrib-Revised Attach 1-C2022-0372.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "4b76cb61-3501-441d-9324-a54a16a1f35b",
+    "document_id": "rec4HmFgGJc1NKFpz",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Pittsburgh Climate Action Plan 3.0",
+    "publisher": "City of Pittsburgh",
+    "year": 2018,
+    "city": "Pittsburgh",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/North America/Pittsburgh-US/Pittsburgh_Climate_Action_Plan_3.0.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-23T00:00:48.000Z",
+      "airtable_id": "rec4HmFgGJc1NKFpz",
+      "source_file": "Pittsburgh_Climate_Action_Plan_3.0.pdf",
+      "document_type": "Climate Action Plan"
+    }
+  },
+  {
+    "id": "c7c07064-a6f8-4d9c-84fd-e606879cb72e",
+    "document_id": "rec514S4FrJB9diwV",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Resilience in an ageing Greater Manchester",
+    "publisher": "Greater Manchester Combined Authority",
+    "year": 2015,
+    "city": "Greater Manchester",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Europe & Middle East/Greater-Manchester-UK/Resilience%20in%20an%20ageing%20Greater%20Manchester%20Full%20Report.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:49:27.000Z",
+      "airtable_id": "rec514S4FrJB9diwV",
+      "source_file": "Resilience%20in%20an%20ageing%20Greater%20Manchester%20Full%20Report.pdf",
+      "document_type": "Report"
+    }
+  },
+  {
+    "id": "7407a15f-46e4-4362-99b7-ae7513f3613e",
+    "document_id": "rec5dD3CeAyfMoeBi",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Istanbul Climate Action Plan",
+    "publisher": "Istanbul Metropolitan Municipality",
+    "year": 2018,
+    "city": "Istanbul",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Europe & Middle East/Istanbul-Turkey/Istanbul-ENG-SECAP-v04.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:50:18.000Z",
+      "airtable_id": "rec5dD3CeAyfMoeBi",
+      "source_file": "Istanbul-ENG-SECAP-v04.pdf",
+      "document_type": "Climate Action Plan"
+    }
+  },
+  {
+    "id": "061cd4fb-6875-4d77-b007-4030c7e19510",
+    "document_id": "rec5uppQt4DK4Cbwj",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Bristol Resilience Action Plan",
+    "publisher": "Bristol City Council",
+    "year": 2019,
+    "city": "Bristol",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Europe & Middle East/Bristol-UK/Bristol-Resilience-Action-Plan_Toolkit.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:48:33.000Z",
+      "airtable_id": "rec5uppQt4DK4Cbwj",
+      "source_file": "Bristol-Resilience-Action-Plan_Toolkit.pdf",
+      "document_type": "Action Plan"
+    }
+  },
+  {
+    "id": "080e4e1a-5a96-4017-b80b-a398b6ffb538",
+    "document_id": "rec60d1n9PwtAWSJg",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Resilient Panama City",
+    "publisher": "Municipality of Panama",
+    "year": 2018,
+    "city": "Panama City",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Latin America & Caribbean/PanamaCity-Panama/Panama-Resilience-Strategy-English.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:54:23.000Z",
+      "airtable_id": "rec60d1n9PwtAWSJg",
+      "source_file": "Panama-Resilience-Strategy-English.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "8388bbaf-0f51-45d7-95ab-4b790f3d3f37",
+    "document_id": "rec60mtiMRL5u9b6G",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Climate Resilience Action Plan",
+    "publisher": "City of Austin",
+    "year": 2018,
+    "city": "Austin",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/North America/Austin-US/Climate_Resilience_Action_Plan.compressed.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:55:36.000Z",
+      "airtable_id": "rec60mtiMRL5u9b6G",
+      "source_file": "Climate_Resilience_Action_Plan.compressed.pdf",
+      "document_type": "Action Plan"
+    }
+  },
+  {
+    "id": "f0cde211-0779-4c51-9ce0-b73703b1440f",
+    "document_id": "rec6vRXHKlCpBoOqd",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Resilient San Juan",
+    "publisher": "Municipality of San Juan",
+    "year": 2018,
+    "city": "San Juan",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Latin America & Caribbean/SanJuan-PuertoRico/San-Juan-Resilience-Strategy-English.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:54:45.000Z",
+      "airtable_id": "rec6vRXHKlCpBoOqd",
+      "source_file": "San-Juan-Resilience-Strategy-English.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "6fff011e-28a3-413f-8425-e22ba73cbdf5",
+    "document_id": "rec7MaLx7LTyM6EXy",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Seattle Climate Action Plan",
+    "publisher": "City of Seattle Office of Sustainability & Environment",
+    "year": 2013,
+    "city": "Seattle",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/North America/Seattle-US/Seattle-2013_CAP_20130612.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-23T00:01:52.000Z",
+      "airtable_id": "rec7MaLx7LTyM6EXy",
+      "source_file": "Seattle-2013_CAP_20130612.pdf",
+      "document_type": "Plan"
+    }
+  },
+  {
+    "id": "6de45266-a464-4104-a325-b26abc22fffd",
+    "document_id": "rec8burpg00NCyHH0",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Boulder's Resilience Strategy",
+    "publisher": "City of Boulder",
+    "year": 2016,
+    "city": "Boulder",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/North America/Boulder-US/Boulder-Resilience-Strategy-English.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:56:26.000Z",
+      "airtable_id": "rec8burpg00NCyHH0",
+      "source_file": "Boulder-Resilience-Strategy-English.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "00112034-a025-47ef-b8ba-7d02719633f9",
+    "document_id": "rec9YGNKeuvt0z5FF",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Integrated Action Plan for West End",
+    "publisher": "Vejle Kommune",
+    "year": 2018,
+    "city": "Vejle",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Europe & Middle East/Vejle-Denmark/integrated_action_plan_for_west_end_-_final_version.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:53:11.000Z",
+      "airtable_id": "rec9YGNKeuvt0z5FF",
+      "source_file": "integrated_action_plan_for_west_end_-_final_version.pdf",
+      "document_type": "Action Plan"
+    }
+  },
+  {
+    "id": "390805ac-35be-4044-966f-a67a7b61ed13",
+    "document_id": "rec9c3CY2X7lMNMHm",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Toyama City the Sustainable Development Goals (SDGs) Report",
+    "publisher": "Toyama City",
+    "year": 2018,
+    "city": "Toyama",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Asia & Asia Pacific Oceania/Toyama-Japan/Toyama-City-the-Sustainable-Development-Goals-Report-Compact-City-Planning-based-on-Polycentric-Transport-Networks.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:44:34.000Z",
+      "airtable_id": "rec9c3CY2X7lMNMHm",
+      "source_file": "Toyama-City-the-Sustainable-Development-Goals-Report-Compact-City-Planning-based-on-Polycentric-Transport-Networks.pdf",
+      "document_type": "Report"
+    }
+  },
+  {
+    "id": "80bb049c-ba68-422e-b571-85cd1de5fbf9",
+    "document_id": "recAMDWTFqWYhHKpq",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Addis Ababa Resilience Strategy",
+    "publisher": "Addis Ababa City Administration",
+    "year": 2016,
+    "city": "Addis Ababa",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Africa/AddisAbaba-Ethiopia/Addis-Ababa-Resilience-Strategy-English.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:37:27.000Z",
+      "airtable_id": "recAMDWTFqWYhHKpq",
+      "source_file": "Addis-Ababa-Resilience-Strategy-English.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "0aaff8f5-67d7-4c8f-be0a-81fec632b282",
+    "document_id": "recAVfJT09jKat7HI",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Resilient Vejle",
+    "publisher": "Vejle Municipality",
+    "year": 2016,
+    "city": "Vejle",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Europe & Middle East/Vejle-Denmark/6.-The-Vejle-Resilience-Strategy.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:52:58.000Z",
+      "airtable_id": "recAVfJT09jKat7HI",
+      "source_file": "6.-The-Vejle-Resilience-Strategy.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "49f44e1d-d58e-485e-b448-a2bb274b2ca5",
+    "document_id": "recAaS0a7exiB9hzL",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Tanzania Urban Resilience Programme",
+    "publisher": "World Bank",
+    "year": 2018,
+    "city": "Dar es Salaam",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Africa/Dar-es-Salaam-Tanzania/Tanzania-Urban-Resilience-Programme-Annual-Report-2018.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:38:41.000Z",
+      "airtable_id": "recAaS0a7exiB9hzL",
+      "source_file": "Tanzania-Urban-Resilience-Programme-Annual-Report-2018.pdf",
+      "document_type": "Annual Report"
+    }
+  },
+  {
+    "id": "e0e521e3-72b2-432f-addd-9d67ddd7658a",
+    "document_id": "recAbauZdm4u95wfh",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "ONE NEW YORK",
+    "publisher": "City of New York",
+    "year": 2015,
+    "city": "New York City",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/North America/NYC-US/New-York-City-Resilience-Strategy-English.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:59:15.000Z",
+      "airtable_id": "recAbauZdm4u95wfh",
+      "source_file": "New-York-City-Resilience-Strategy-English.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "64f8b4b9-a2ae-47db-bff4-43a305ba3545",
+    "document_id": "recAitVjDaCkp8lNo",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Resilient Greater Christchurch Plan",
+    "publisher": "Greater Christchurch Partnership",
+    "year": 2016,
+    "city": "Christchurch",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Asia & Asia Pacific Oceania/Christchurch-New-Zealand/Resilient-Greater-Christchurch-Plan.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:40:21.000Z",
+      "airtable_id": "recAitVjDaCkp8lNo",
+      "source_file": "Resilient-Greater-Christchurch-Plan.pdf",
+      "document_type": "Plan"
+    }
+  },
+  {
+    "id": "21d3327c-d593-4e0f-822d-78d6fa36071c",
+    "document_id": "recAjNEeGEwT2BDho",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Kyoto Resilience Strategy",
+    "publisher": "City of Kyoto",
+    "year": 2019,
+    "city": "Kyoto",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Asia & Asia Pacific Oceania/Kyoto-Japan/Kyoto-Resilience-Strategy-English.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:41:16.000Z",
+      "airtable_id": "recAjNEeGEwT2BDho",
+      "source_file": "Kyoto-Resilience-Strategy-English.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "c6881fb8-bcfe-49d0-929b-055af9eef68c",
+    "document_id": "recBAnY7By3snaKgH",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Climate Action Plan",
+    "publisher": "San Francisco Department of the Environment",
+    "year": 2021,
+    "city": "San Francisco",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/North America/San-Francisco-US/2021_climate_action_plan.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-23T00:01:15.000Z",
+      "airtable_id": "recBAnY7By3snaKgH",
+      "source_file": "2021_climate_action_plan.pdf",
+      "document_type": "Climate Action Plan"
+    }
+  },
+  {
+    "id": "2a19080e-d992-4ebf-a772-22e526bf8016",
+    "document_id": "recBOP0S0jzZymZU1",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Chennai Climate Action Plan",
+    "publisher": "Greater Chennai Corporation",
+    "year": 2022,
+    "city": "Chennai",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Asia & Asia Pacific Oceania/Chennai-India/CCAP_GCC_CSCL_ENGLISH.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:40:13.000Z",
+      "airtable_id": "recBOP0S0jzZymZU1",
+      "source_file": "CCAP_GCC_CSCL_ENGLISH.pdf",
+      "document_type": "Climate Action Plan"
+    }
+  },
+  {
+    "id": "7eee28c3-5bc7-42dd-bf89-0c76b027a53a",
+    "document_id": "recBb9v6GUkQLyQWz",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "DA NANG CITY CLIMATE CHANGE ACTION PLAN",
+    "publisher": "People's Committee of Da Nang City",
+    "year": 2021,
+    "city": "Da Nang",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Asia & Asia Pacific Oceania/DaNang-Vietnam/Da+Nang+climate+action+plan_0.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:40:28.000Z",
+      "airtable_id": "recBb9v6GUkQLyQWz",
+      "source_file": "Da+Nang+climate+action+plan_0.pdf",
+      "document_type": "Action Plan"
+    }
+  },
+  {
+    "id": "627a61cb-5455-4b13-9ec7-4ecb4d8a6bed",
+    "document_id": "recCHAKICfcUSANdj",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Climate Action Plan",
+    "publisher": "City of Portland Bureau of Planning and Sustainability",
+    "year": 2015,
+    "city": "Portland",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/North America/Portland-US/bps_climateactionworkplan-final-web.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-23T00:00:56.000Z",
+      "airtable_id": "recCHAKICfcUSANdj",
+      "source_file": "bps_climateactionworkplan-final-web.pdf",
+      "document_type": "Action Plan"
+    }
+  },
+  {
+    "id": "741b8c8d-fa5f-452f-aa6c-a8893ec5192f",
+    "document_id": "recCMyBLNE97lYqBQ",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Berkeley Resilience Strategy",
+    "publisher": "City of Berkeley",
+    "year": 2018,
+    "city": "Berkeley",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/North America/Berkeley-US/Berkeley_Resilience_Strategy.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:55:52.000Z",
+      "airtable_id": "recCMyBLNE97lYqBQ",
+      "source_file": "Berkeley_Resilience_Strategy.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "b827c136-3ed1-426b-9305-628c2c57fab9",
+    "document_id": "recCPV6qyHTkvrZtX",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "GREEN CITY ACTION PLAN",
+    "publisher": "City of Belgrade",
+    "year": 2019,
+    "city": "Belgrade",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Europe & Middle East/Belgrade-Serbia/Belgrade-GCAP.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:47:47.000Z",
+      "airtable_id": "recCPV6qyHTkvrZtX",
+      "source_file": "Belgrade-GCAP.pdf",
+      "document_type": "Action Plan"
+    }
+  },
+  {
+    "id": "4da345de-0b25-4c3c-84cb-8f40506b76c8",
+    "document_id": "recCSaOmVTQthHOAL",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Resilient St. Louis",
+    "publisher": "City of St. Louis",
+    "year": 2019,
+    "city": "St. Louis",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/North America/St-Louis-US/Resilient-St-Louis_FINAL-PRINT.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-23T00:02:01.000Z",
+      "airtable_id": "recCSaOmVTQthHOAL",
+      "source_file": "Resilient-St-Louis_FINAL-PRINT.pdf",
+      "document_type": "Resilience Strategy"
+    }
+  },
+  {
+    "id": "333e3acb-89ad-4ef5-bebd-0efb706d5e53",
+    "document_id": "recCbkIK75iysPWAT",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Amman Resilience Strategy",
+    "publisher": "Greater Amman Municipality",
+    "year": 2017,
+    "city": "Amman",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Europe & Middle East/Amman-Jordan/Amman-Resilience-Strategy-English.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:46:29.000Z",
+      "airtable_id": "recCbkIK75iysPWAT",
+      "source_file": "Amman-Resilience-Strategy-English.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "f58275e7-5d6c-4a0e-b414-c69916e0cac6",
+    "document_id": "recCg0TWm64p9i0He",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Buenos Aires Resilience Strategy",
+    "publisher": "Government of the City of Buenos Aires",
+    "year": 2018,
+    "city": "Buenos Aires",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Latin America & Caribbean/BuenosAires-Argentina/Buenos-Aires-Resilience-Strategy-English.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:53:24.000Z",
+      "airtable_id": "recCg0TWm64p9i0He",
+      "source_file": "Buenos-Aires-Resilience-Strategy-English.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "2c75ca6e-36d5-42ce-9b50-70fe34b2ff18",
+    "document_id": "recD6q4kAWBEMLI4T",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Surat Resilience Strategy",
+    "publisher": "Surat Municipal Corporation",
+    "year": 2020,
+    "city": "Surat",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Asia & Asia Pacific Oceania/Surat-India/3B07371E-EC6C-47C3-99ED-4A132B9D2772.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:43:33.000Z",
+      "airtable_id": "recD6q4kAWBEMLI4T",
+      "source_file": "3B07371E-EC6C-47C3-99ED-4A132B9D2772.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "5ed35542-ea13-42f8-a4fb-a63171545087",
+    "document_id": "recDlm5HRh5A1vsO7",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Masterplan 100% Klimaschutz",
+    "publisher": "Stadt Heidelberg",
+    "year": 2022,
+    "city": "Heidelberg",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Europe & Middle East/Heidelberg-Germany/heidelberg_nzc_ccc_ok.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:50:12.000Z",
+      "airtable_id": "recDlm5HRh5A1vsO7",
+      "source_file": "heidelberg_nzc_ccc_ok.pdf",
+      "document_type": "Master Plan"
+    }
+  },
+  {
+    "id": "bf32e252-dee9-4316-90db-1118d567b46b",
+    "document_id": "recEdSRJzMp1gRKbv",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Resilient Boston",
+    "publisher": "City of Boston",
+    "year": 2017,
+    "city": "Boston",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/North America/Boston-US/resilient_boston_digital.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:56:12.000Z",
+      "airtable_id": "recEdSRJzMp1gRKbv",
+      "source_file": "resilient_boston_digital.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "2f9a3886-d8f6-4482-8393-c142338fc96a",
+    "document_id": "recEtZFmX5aiNTb0r",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Istanbul Climate Change Action Plan",
+    "publisher": "Istanbul Metropolitan Municipality",
+    "year": 2018,
+    "city": "Istanbul",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Europe & Middle East/Istanbul-Turkey/istanbul_climate_change_action_plan_v03.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:50:25.000Z",
+      "airtable_id": "recEtZFmX5aiNTb0r",
+      "source_file": "istanbul_climate_change_action_plan_v03.pdf",
+      "document_type": "Action Plan"
+    }
+  },
+  {
+    "id": "b5f10aad-f5bc-47be-a068-1efa27d79aab",
+    "document_id": "recEy3Ck9cRwaMHrQ",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Resilience Plan in the Making",
+    "publisher": "Broward County",
+    "year": 2024,
+    "city": "Broward County",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/North America/Broward-US/Broward-Resilience-Plan-In-The-Making_Issue9_May2024ADA.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:56:36.000Z",
+      "airtable_id": "recEy3Ck9cRwaMHrQ",
+      "source_file": "Broward-Resilience-Plan-In-The-Making_Issue9_May2024ADA.pdf",
+      "document_type": "Newsletter"
+    }
+  },
+  {
+    "id": "bfed3299-6a17-4e69-a927-f9331ae0735a",
+    "document_id": "recF1bAMzpkOHlUJt",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Santiago Resilient",
+    "publisher": "Gobierno Regional Metropolitano de Santiago",
+    "year": 2017,
+    "city": "Santiago",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Latin America & Caribbean/Santiago-Chile/Santiago-Resilience-Strategy-English.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:55:00.000Z",
+      "airtable_id": "recF1bAMzpkOHlUJt",
+      "source_file": "Santiago-Resilience-Strategy-English.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "9828b9b1-ea96-49c0-827c-caddae33e931",
+    "document_id": "recFHX7C1Rlf54wbC",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Mumbai Climate Action Plan",
+    "publisher": "Brihanmumbai Municipal Corporation",
+    "year": 2022,
+    "city": "Mumbai",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Asia & Asia Pacific Oceania/Mumbai-India/Mumbai Climate Action Plan 2022.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:42:20.000Z",
+      "airtable_id": "recFHX7C1Rlf54wbC",
+      "source_file": "Mumbai Climate Action Plan 2022.pdf",
+      "document_type": "Climate Action Plan"
+    }
+  },
+  {
+    "id": "d57cfec6-232e-4cd0-a012-67317481a689",
+    "document_id": "recFVtrPk5hzIJIoJ",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Resilient Vejle",
+    "publisher": "Vejle Municipality",
+    "year": 2016,
+    "city": "Vejle",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Europe & Middle East/Vejle-Denmark/Vejle-Resilience-Strategy-English.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:53:05.000Z",
+      "airtable_id": "recFVtrPk5hzIJIoJ",
+      "source_file": "Vejle-Resilience-Strategy-English.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "8ddda9e0-70f5-475a-ad5b-ec044e2eb065",
+    "document_id": "recFiCAiVVfAXe9Sd",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Resilient Dallas",
+    "publisher": "City of Dallas",
+    "year": 2018,
+    "city": "Dallas",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/North America/Dallas-US/Resilient-Dallas-Strategy-Reduced-PDF.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:57:25.000Z",
+      "airtable_id": "recFiCAiVVfAXe9Sd",
+      "source_file": "Resilient-Dallas-Strategy-Reduced-PDF.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "55ec7bde-7b39-4e74-b7bb-db3b29598c0b",
+    "document_id": "recFtLEjm2ijb3Leq",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "50 Climate Solutions for Chinese Cities",
+    "publisher": "C40 Cities Climate Leadership Group",
+    "year": 2016,
+    "city": "Beijing",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/China/Beijing/50-climate-solutions-prc-cities.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:45:11.000Z",
+      "airtable_id": "recFtLEjm2ijb3Leq",
+      "source_file": "50-climate-solutions-prc-cities.pdf",
+      "document_type": "Report"
+    }
+  },
+  {
+    "id": "9a3a14c9-2726-4db2-91c4-094d095f4841",
+    "document_id": "recGjNMjs48uMPjI7",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "2022 Climate Action Plan",
+    "publisher": "City of Chicago",
+    "year": 2022,
+    "city": "Chicago",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/North America/Chicago-US/Chicago-CAP-071822.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:57:03.000Z",
+      "airtable_id": "recGjNMjs48uMPjI7",
+      "source_file": "Chicago-CAP-071822.pdf",
+      "document_type": "Climate Action Plan"
+    }
+  },
+  {
+    "id": "b28017a7-9fb6-4f74-90dc-0b9b3eddcb4b",
+    "document_id": "recGrHBEpU5fVGLU6",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Bathymetric and Topographic Surveying of Flood Prone Rivers in Dar Es Salaam",
+    "publisher": "The World Bank",
+    "year": 2018,
+    "city": "Dar es Salaam",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Africa/Dar-es-Salaam-Tanzania/Bathymetric-and-Topographic-Surveying-of-Flood-Prone-Rivers-in-Dar-Es-Salaam-Comparative-Case-of-UAV-Photogrammetry-and-UAV-LiDAR-for-Generation-of-Digital-Terrain-Models-for-Flood-Modelling-Purposes-Msimbazi-River-Dar-es-Salaam.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:37:55.000Z",
+      "airtable_id": "recGrHBEpU5fVGLU6",
+      "source_file": "Bathymetric-and-Topographic-Surveying-of-Flood-Prone-Rivers-in-Dar-Es-Salaam-Comparative-Case-of-UAV-Photogrammetry-and-UAV-LiDAR-for-Generation-of-Digital-Terrain-Models-for-Flood-Modelling-Purposes-Msimbazi-River-Dar-es-Salaam.pdf",
+      "document_type": "Report"
+    }
+  },
+  {
+    "id": "f335c227-c89d-44f8-b09e-5a57521dd50d",
+    "document_id": "recH1xJmioEJMfQqg",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Resilient Cape Town",
+    "publisher": "City of Cape Town",
+    "year": 2019,
+    "city": "Cape Town",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Africa/CapeTown-SouthAfrica/Cape-Town-Resilience-Strategy-English.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:37:37.000Z",
+      "airtable_id": "recH1xJmioEJMfQqg",
+      "source_file": "Cape-Town-Resilience-Strategy-English.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "e13fa9b0-fba9-4bb8-bbe0-3ee0de8e8725",
+    "document_id": "recH6zIzdgQuCcaSW",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Shenzhen's Voluntary Local Review Report on the Implementation of the 2030 Agenda for Sustainable Development",
+    "publisher": "Shenzhen Municipal People's Government",
+    "year": 2019,
+    "city": "Shenzhen",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/China/Shenzhen/[ENG] Shenzhen SDG report - full report_updated.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:46:22.000Z",
+      "airtable_id": "recH6zIzdgQuCcaSW",
+      "source_file": "[ENG] Shenzhen SDG report - full report_updated.pdf",
+      "document_type": "Report"
+    }
+  },
+  {
+    "id": "6ba7001c-cdf1-4051-af61-8abebcb78bb3",
+    "document_id": "recH83x4l3edfewpm",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Tanzania's Land Law Reform",
+    "publisher": "International Institute for Environment and Development (IIED)",
+    "year": 2004,
+    "city": "",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Africa/Dar-es-Salaam-Tanzania/Frontrunners_Tanzania_Land_Reform_Final.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:38:09.000Z",
+      "airtable_id": "recH83x4l3edfewpm",
+      "source_file": "Frontrunners_Tanzania_Land_Reform_Final.pdf",
+      "document_type": "Report"
+    }
+  },
+  {
+    "id": "cbb41d53-cc02-4628-bf62-a5cbfa4d7420",
+    "document_id": "recHOqhHasNBnNwJB",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Linkages between disaster risk reduction, land use planning and information systems",
+    "publisher": "United Nations Office for Disaster Risk Reduction (UNDRR)",
+    "year": 2019,
+    "city": "Belgrade",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Europe & Middle East/Belgrade-Serbia/Session 1_Linkages between disaster risk reduction, LUP&IS_UNDRR_Maja.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:47:54.000Z",
+      "airtable_id": "recHOqhHasNBnNwJB",
+      "source_file": "Session 1_Linkages between disaster risk reduction, LUP&IS_UNDRR_Maja.pdf",
+      "document_type": "Presentation"
+    }
+  },
+  {
+    "id": "a1893b3a-f0fc-43e4-9081-2f13eb2b1e09",
+    "document_id": "recHVHNIazPxnIJ5t",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Te T\u0101ruke-\u0101-T\u0101whiri: Auckland\u2019s Climate Plan",
+    "publisher": "Auckland Council",
+    "year": 2020,
+    "city": "Auckland",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Asia & Asia Pacific Oceania/Auckland-NewZealand/auckland-climate-plan.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:39:44.000Z",
+      "airtable_id": "recHVHNIazPxnIJ5t",
+      "source_file": "auckland-climate-plan.pdf",
+      "document_type": "Plan"
+    }
+  },
+  {
+    "id": "d4ce8b05-6699-45a3-ac1f-4612165a2055",
+    "document_id": "recHY5NYElg4PC17K",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Santiago de los Caballeros Resilience Strategy",
+    "publisher": "100 Resilient Cities",
+    "year": 2018,
+    "city": "Santiago de los Caballeros",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Latin America & Caribbean/Santiago-de-los-Caballeros-DominicanRepublic/Santiago-de-los-Caballeros-Resilience-Strategy-English.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:55:07.000Z",
+      "airtable_id": "recHY5NYElg4PC17K",
+      "source_file": "Santiago-de-los-Caballeros-Resilience-Strategy-English.pdf",
+      "document_type": "Resilience Strategy"
+    }
+  },
+  {
+    "id": "d016846d-4ae4-47b3-aace-de5888be05ec",
+    "document_id": "recHtTuopnHHVbsjV",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "City of Atlanta Climate Action Plan",
+    "publisher": "City of Atlanta",
+    "year": 2015,
+    "city": "Atlanta",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/North America/Atlanta-US/atlanta-climate-action-plan-07-23-2015.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:55:24.000Z",
+      "airtable_id": "recHtTuopnHHVbsjV",
+      "source_file": "atlanta-climate-action-plan-07-23-2015.pdf",
+      "document_type": "Plan"
+    }
+  },
+  {
+    "id": "1d574e56-eaed-4ecd-a1d8-563ae63b0872",
+    "document_id": "recHxi3F0tdUf1Dze",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Seoul Resilience Strategy",
+    "publisher": "Seoul Metropolitan Government",
+    "year": 2019,
+    "city": "Seoul",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Asia & Asia Pacific Oceania/Seoul-Republic-of-Korea/Update-Seoul-Resilience-Strategy-English.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:43:21.000Z",
+      "airtable_id": "recHxi3F0tdUf1Dze",
+      "source_file": "Update-Seoul-Resilience-Strategy-English.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "e42dc743-594e-40c4-8d22-dd98c7d58248",
+    "document_id": "recJJ5agU5gWGzF6h",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Sustainable City Action Plan",
+    "publisher": "Tbilisi City Hall",
+    "year": 2017,
+    "city": "Tbilisi",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Europe & Middle East/Tbilisi-Georgia/SSCP Tbilisi_0.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:52:28.000Z",
+      "airtable_id": "recJJ5agU5gWGzF6h",
+      "source_file": "SSCP Tbilisi_0.pdf",
+      "document_type": "Action Plan"
+    }
+  },
+  {
+    "id": "17713c27-2f81-4d33-9e09-2c80bda7433f",
+    "document_id": "recJSqZfnHijI6ghj",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Climate Change Adaptation Strategy",
+    "publisher": "City of Vancouver",
+    "year": 2024,
+    "city": "Vancouver",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/North America/Vancouver-CA/vancouver-climate-change-adaptation-strategy-2024-25.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-23T00:03:23.000Z",
+      "airtable_id": "recJSqZfnHijI6ghj",
+      "source_file": "vancouver-climate-change-adaptation-strategy-2024-25.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "5dbb80b5-702f-43df-aa75-e21a1b08b9ef",
+    "document_id": "recJucg2EzMVmmR84",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Tel Aviv-Yafo Resilience Strategy",
+    "publisher": "Tel Aviv-Yafo Municipality",
+    "year": 2018,
+    "city": "Tel Aviv-Yafo",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Europe & Middle East/Tel-Aviv-Yafo-Israel/Tel-Aviv-Yafo-Resilience-Strategy-English.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:52:42.000Z",
+      "airtable_id": "recJucg2EzMVmmR84",
+      "source_file": "Tel-Aviv-Yafo-Resilience-Strategy-English.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "fc30d56f-0f0c-42de-ab02-46ed91ad7ced",
+    "document_id": "recK1FHVA4jqh5vpn",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Quito Resilience Strategy",
+    "publisher": "Municipality of the Metropolitan District of Quito",
+    "year": 2017,
+    "city": "Quito",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Latin America & Caribbean/Quito-Ecuador/Quito-Resilience-Strategy-English.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:54:30.000Z",
+      "airtable_id": "recK1FHVA4jqh5vpn",
+      "source_file": "Quito-Resilience-Strategy-English.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "8a8c8465-3db7-45d0-bdc6-efca045857f2",
+    "document_id": "recKkeUEabNnxrnq6",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Adapting to the Impacts of Climate Change in Berlin",
+    "publisher": "Senate Department for Urban Development and the Environment",
+    "year": 2016,
+    "city": "Berlin",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Europe & Middle East/Berlin-Germany/adapting_to_the_impacts_of_climate_change_in_berlin.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:48:04.000Z",
+      "airtable_id": "recKkeUEabNnxrnq6",
+      "source_file": "adapting_to_the_impacts_of_climate_change_in_berlin.pdf",
+      "document_type": "Plan"
+    }
+  },
+  {
+    "id": "beebdc26-a84a-4777-860b-a68165c35387",
+    "document_id": "recL4XFA40cm3Wjcu",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Resilient Los Angeles",
+    "publisher": "City of Los Angeles",
+    "year": 2018,
+    "city": "Los Angeles",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/North America/Los-Angeles-US/Los-Angeles-Resilience-Strategy-English.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:58:11.000Z",
+      "airtable_id": "recL4XFA40cm3Wjcu",
+      "source_file": "Los-Angeles-Resilience-Strategy-English.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "932c5bb1-5bd8-44fd-af7d-6feb384331cc",
+    "document_id": "recLD59aFmL80RAJe",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Climate Ready DC",
+    "publisher": "Government of the District of Columbia",
+    "year": 2016,
+    "city": "Washington, D.C.",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/North America/WashingtonDC-US/Climate Ready DC.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-23T00:03:40.000Z",
+      "airtable_id": "recLD59aFmL80RAJe",
+      "source_file": "Climate Ready DC.pdf",
+      "document_type": "Plan"
+    }
+  },
+  {
+    "id": "2913a669-e73b-4d7c-b550-4917372fc0c5",
+    "document_id": "recLkku5HULNHw1Dt",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Oakland Resilience Strategy",
+    "publisher": "City of Oakland",
+    "year": 2020,
+    "city": "Oakland",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/North America/Oakland-US/Oakland-Resilience-Strategy-English.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-23T00:00:14.000Z",
+      "airtable_id": "recLkku5HULNHw1Dt",
+      "source_file": "Oakland-Resilience-Strategy-English.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "6198c59d-56dc-4edd-8904-991087ac5990",
+    "document_id": "recLxutPdRnSBomqt",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Toronto's Resilience Strategy",
+    "publisher": "City of Toronto",
+    "year": 2019,
+    "city": "Toronto",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/North America/Toronto-CA/Climate Resilience Framework March 2019.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-23T00:02:27.000Z",
+      "airtable_id": "recLxutPdRnSBomqt",
+      "source_file": "Climate Resilience Framework March 2019.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "0ca11577-9a17-41ec-ae1c-fe0d6bfd3e87",
+    "document_id": "recMCZO9kKcPM6yzy",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Environmental Strategy 2021\u20132025",
+    "publisher": "City of Sydney",
+    "year": 2021,
+    "city": "Sydney",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Asia & Asia Pacific Oceania/Sydney-Australia/Final Environmental Strategy 2021-2025.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:43:54.000Z",
+      "airtable_id": "recMCZO9kKcPM6yzy",
+      "source_file": "Final Environmental Strategy 2021-2025.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "45069111-02a4-4759-b7f4-c8a4017eec6b",
+    "document_id": "recMER9vtabYtFM9x",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Roadmap for Mainstreaming Nature for a Climate Resilient Pune",
+    "publisher": "ICLEI \u2013 Local Governments for Sustainability, South Asia",
+    "year": 2023,
+    "city": "Pune",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Asia & Asia Pacific Oceania/Pune-India/roadmap_for_mainstreaming_nature_for_a_climate_resilient_pune_online.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:42:52.000Z",
+      "airtable_id": "recMER9vtabYtFM9x",
+      "source_file": "roadmap_for_mainstreaming_nature_for_a_climate_resilient_pune_online.pdf",
+      "document_type": "Roadmap"
+    }
+  },
+  {
+    "id": "f5be9642-16f1-4ca1-8817-e418201f505a",
+    "document_id": "recMfvPPDT0MYQ2HV",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Amman Climate Plan",
+    "publisher": "Greater Amman Municipality",
+    "year": 2019,
+    "city": "Amman",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Europe & Middle East/Amman-Jordan/climate.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:46:37.000Z",
+      "airtable_id": "recMfvPPDT0MYQ2HV",
+      "source_file": "climate.pdf",
+      "document_type": "Plan"
+    }
+  },
+  {
+    "id": "b8f12d60-0d2e-4647-82f1-3c9d5e33ca89",
+    "document_id": "recMgbhA7FB0J4I1L",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Cali Resilience Strategy",
+    "publisher": "Alcald\u00eda de Santiago de Cali",
+    "year": 2018,
+    "city": "Cali",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Latin America & Caribbean/Cali-Colombia/Cali-Resilience-Strategy-English.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:53:32.000Z",
+      "airtable_id": "recMgbhA7FB0J4I1L",
+      "source_file": "Cali-Resilience-Strategy-English.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "31750cfd-65b8-4861-b471-96e027e6cce6",
+    "document_id": "recMzyAbRmuZd5oKr",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Berkeley Climate Action Plan",
+    "publisher": "City of Berkeley",
+    "year": 2009,
+    "city": "Berkeley",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/North America/Berkeley-US/Berkeley-Climate-Action-Plan.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:55:46.000Z",
+      "airtable_id": "recMzyAbRmuZd5oKr",
+      "source_file": "Berkeley-Climate-Action-Plan.pdf",
+      "document_type": "Climate Action Plan"
+    }
+  },
+  {
+    "id": "c5af3824-6567-4140-b8bd-2973ed99fa60",
+    "document_id": "recN8vUdsMHq5JIWk",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Belfast Resilience Assessment",
+    "publisher": "Belfast City Council",
+    "year": 2018,
+    "city": "Belfast",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Europe & Middle East/Belfast-UK/Belfast-Resilience-Assessment.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:47:40.000Z",
+      "airtable_id": "recN8vUdsMHq5JIWk",
+      "source_file": "Belfast-Resilience-Assessment.pdf",
+      "document_type": "Assessment"
+    }
+  },
+  {
+    "id": "0aa7fd31-b17e-468a-bdcd-7656874d281d",
+    "document_id": "recNCxGH6hQq8nrm4",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Ramallah Resilience Strategy",
+    "publisher": "Municipality of Ramallah",
+    "year": 2018,
+    "city": "Ramallah",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Europe & Middle East/Ramallah-Palestine/Ramallah-Resilience-Strategy-English.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:51:47.000Z",
+      "airtable_id": "recNCxGH6hQq8nrm4",
+      "source_file": "Ramallah-Resilience-Strategy-English.pdf",
+      "document_type": "Resilience Strategy"
+    }
+  },
+  {
+    "id": "57fe6b47-d3d2-4ac3-a3df-ad586745d001",
+    "document_id": "recNUjW7Y1NJbRcbI",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Climate action plan 2020\u20132023 for the City of Stockholm",
+    "publisher": "City of Stockholm",
+    "year": 2020,
+    "city": "Stockholm",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Europe & Middle East/Stockholm-Sweden/stockholm_nzc_ccc.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:52:17.000Z",
+      "airtable_id": "recNUjW7Y1NJbRcbI",
+      "source_file": "stockholm_nzc_ccc.pdf",
+      "document_type": "Climate Action Plan"
+    }
+  },
+  {
+    "id": "59b01799-effb-4c36-b2b4-ab0360156d8c",
+    "document_id": "recNVoFljYggexv4P",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Singapore's Climate Action Plan",
+    "publisher": "National Climate Change Secretariat, Strategy Group, Prime Minister's Office",
+    "year": 2016,
+    "city": "Singapore",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Asia & Asia Pacific Oceania/Singapore-Singapore/climate-action-plan.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:43:27.000Z",
+      "airtable_id": "recNVoFljYggexv4P",
+      "source_file": "climate-action-plan.pdf",
+      "document_type": "Climate Action Plan"
+    }
+  },
+  {
+    "id": "d4aaa5eb-3da6-4748-ad87-a388671b4548",
+    "document_id": "recNbsuuuYN2gQlU6",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "A Strategic Plan for Mandalay",
+    "publisher": "Mandalay City Development Committee",
+    "year": 2014,
+    "city": "Mandalay",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Asia & Asia Pacific Oceania/Mandalay-Myanmar/Plan+brochure.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:41:41.000Z",
+      "airtable_id": "recNbsuuuYN2gQlU6",
+      "source_file": "Plan+brochure.pdf",
+      "document_type": "Strategic Plan"
+    }
+  },
+  {
+    "id": "dbcc86da-aa21-40a5-ba73-60d05553137f",
+    "document_id": "recNnU2DZr3XXFZK8",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Ekurhuleni Climate Change Response Strategy",
+    "publisher": "Ekurhuleni Metropolitan Municipality",
+    "year": 2015,
+    "city": "Ekurhuleni",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Africa/Ekurhuleni-SouthAfrica/13.-2015-Climate-Change-Response-Strategy_Final.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:39:08.000Z",
+      "airtable_id": "recNnU2DZr3XXFZK8",
+      "source_file": "13.-2015-Climate-Change-Response-Strategy_Final.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "4a80f2ff-7903-4ec0-aca8-d51da0c69ba3",
+    "document_id": "recNvNtDiKOz08PON",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "ONEPGH",
+    "publisher": "City of Pittsburgh",
+    "year": 2017,
+    "city": "Pittsburgh",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/North America/Pittsburgh-US/Pittsburgh-Resilience-Strategy-English.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-23T00:00:40.000Z",
+      "airtable_id": "recNvNtDiKOz08PON",
+      "source_file": "Pittsburgh-Resilience-Strategy-English.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "248ba850-de64-4daf-9ba7-d921e0d21d79",
+    "document_id": "recO5WrLyYdG5VEfT",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Miami Forever Climate Ready",
+    "publisher": "City of Miami",
+    "year": 2020,
+    "city": "Miami",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/North America/Miami-US/miami-forever-climate-ready-2020-strategy.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:58:41.000Z",
+      "airtable_id": "recO5WrLyYdG5VEfT",
+      "source_file": "miami-forever-climate-ready-2020-strategy.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "0d8128c2-3574-44ad-b437-73fedbea565b",
+    "document_id": "recOJ0daM9wiBmrhH",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Resilient Calgary",
+    "publisher": "The City of Calgary",
+    "year": 2019,
+    "city": "Calgary",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/North America/Calgary-CA/resiliencestrategybooklet.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:56:57.000Z",
+      "airtable_id": "recOJ0daM9wiBmrhH",
+      "source_file": "resiliencestrategybooklet.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "a1a46755-f1f8-4230-a8aa-a17523936245",
+    "document_id": "recOi7cA64vmS0Lok",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Resilient Toronto",
+    "publisher": "City of Toronto",
+    "year": 2019,
+    "city": "Toronto",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/North America/Toronto-CA/toronto-resilience-strategy.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-23T00:02:34.000Z",
+      "airtable_id": "recOi7cA64vmS0Lok",
+      "source_file": "toronto-resilience-strategy.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "a294c95c-7d1a-4c36-94d8-86544ab57eb1",
+    "document_id": "recOsN28PGytECE9o",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Climate Change Mitigation Action Plan",
+    "publisher": "Metropolitan Government of Nashville and Davidson County",
+    "year": 2021,
+    "city": "Nashville",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/North America/Nashville-US/2021-Report-Climate-Change-Mitigation-Action-Plan.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:59:22.000Z",
+      "airtable_id": "recOsN28PGytECE9o",
+      "source_file": "2021-Report-Climate-Change-Mitigation-Action-Plan.pdf",
+      "document_type": "Plan"
+    }
+  },
+  {
+    "id": "9c9944e8-3410-41db-b84e-b9df7ea7e1b7",
+    "document_id": "recP9N3xU8IIWpzyB",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Huangshi Resilience Strategy",
+    "publisher": "Huangshi Municipal People's Government",
+    "year": 2018,
+    "city": "Huangshi",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/China/Huangshi/Huangshi-Resilience-Strategy-English.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:45:58.000Z",
+      "airtable_id": "recP9N3xU8IIWpzyB",
+      "source_file": "Huangshi-Resilience-Strategy-English.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "2b1bcb39-caca-4f36-824e-548db6cdaf8d",
+    "document_id": "recPIMFTAbsaZi4NX",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Climate Change Mitigation Strategy",
+    "publisher": "City of Melbourne",
+    "year": 2018,
+    "city": "Melbourne",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Asia & Asia Pacific Oceania/Melbourne-Australia/climate-change-mitigation-strategy-2050.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:42:13.000Z",
+      "airtable_id": "recPIMFTAbsaZi4NX",
+      "source_file": "climate-change-mitigation-strategy-2050.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "e01415f6-01f0-4f21-abdf-b60c55985a5e",
+    "document_id": "recPSwmIqwaIUb9WF",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Thessaloniki Resilience Strategy",
+    "publisher": "Municipality of Thessaloniki",
+    "year": 2017,
+    "city": "Thessaloniki",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Europe & Middle East/Thessaloniki-Greece/Thessaloniki-Resilience-Strategy-English.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:52:50.000Z",
+      "airtable_id": "recPSwmIqwaIUb9WF",
+      "source_file": "Thessaloniki-Resilience-Strategy-English.pdf",
+      "document_type": "Resilience Strategy"
+    }
+  },
+  {
+    "id": "0d1c6ccc-6dc8-4fd4-b2fa-197404db69e2",
+    "document_id": "recPXe3x8M3A5YnR2",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "DA NANG RESILIENCE STRATEGY",
+    "publisher": "Da Nang People's Committee",
+    "year": 2016,
+    "city": "Da Nang",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Asia & Asia Pacific Oceania/DaNang-Vietnam/Da-Nang-Resilience-Strategy-English.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:40:36.000Z",
+      "airtable_id": "recPXe3x8M3A5YnR2",
+      "source_file": "Da-Nang-Resilience-Strategy-English.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "f2acdb8e-831b-4041-860d-b0192bfeab4b",
+    "document_id": "recPlkofkYfnqFAau",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Berlin Energy and Climate Protection Programme 2030",
+    "publisher": "Senate Department for the Environment, Transport and Climate Protection",
+    "year": 2016,
+    "city": "Berlin",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Europe & Middle East/Berlin-Germany/bek2030_broschuere_en.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:48:10.000Z",
+      "airtable_id": "recPlkofkYfnqFAau",
+      "source_file": "bek2030_broschuere_en.pdf",
+      "document_type": "Programme"
+    }
+  },
+  {
+    "id": "fac75c79-e772-451a-b297-127f8b945739",
+    "document_id": "recPoHM1DPR6nNN6W",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "BARCELONA CLIMATE PLAN 2018-2030",
+    "publisher": "Barcelona City Council",
+    "year": 2018,
+    "city": "Barcelona",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Europe & Middle East/Barcelona-Spain/barcelona_nzc_ccc_ok.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:47:23.000Z",
+      "airtable_id": "recPoHM1DPR6nNN6W",
+      "source_file": "barcelona_nzc_ccc_ok.pdf",
+      "document_type": "Plan"
+    }
+  },
+  {
+    "id": "5d07c351-19a8-4977-978f-cbf3795cfb14",
+    "document_id": "recPpTy8MmH2yGlj5",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Outline of Tokyo\u2019s Adaptation Policy",
+    "publisher": "Bureau of Environment, Tokyo Metropolitan Government",
+    "year": 2021,
+    "city": "Tokyo",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Asia & Asia Pacific Oceania/Tokyo-Japan/Outline-of-Tokyo-Adaptation-Policy.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:43:59.000Z",
+      "airtable_id": "recPpTy8MmH2yGlj5",
+      "source_file": "Outline-of-Tokyo-Adaptation-Policy.pdf",
+      "document_type": "Policy"
+    }
+  },
+  {
+    "id": "9a7e37f4-024e-4f97-a08a-7a24129124d2",
+    "document_id": "recQDyi8hKGNaLlCR",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Tbilisi Green City Action Plan",
+    "publisher": "Tbilisi City Hall",
+    "year": 2016,
+    "city": "Tbilisi",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Europe & Middle East/Tbilisi-Georgia/GCAP_Tblisi.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:52:22.000Z",
+      "airtable_id": "recQDyi8hKGNaLlCR",
+      "source_file": "GCAP_Tblisi.pdf",
+      "document_type": "Action Plan"
+    }
+  },
+  {
+    "id": "fa2db039-2003-4538-806c-c8ea72d80ba5",
+    "document_id": "recQpFE89KSoaoIIq",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Can Tho Resilience Strategy",
+    "publisher": "Can Tho City People\u2019s Committee",
+    "year": 2018,
+    "city": "Can Tho",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Asia & Asia Pacific Oceania/CanTho-Vietnam/Can-Tho-Resilience-Strategy-English.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:40:07.000Z",
+      "airtable_id": "recQpFE89KSoaoIIq",
+      "source_file": "Can-Tho-Resilience-Strategy-English.pdf",
+      "document_type": "Resilience Strategy"
+    }
+  },
+  {
+    "id": "c20c9071-830c-413f-a9e7-9fe4ca4c25f6",
+    "document_id": "recRETfQ0k75lXFqh",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Ola O\u02bbahu",
+    "publisher": "City and County of Honolulu, Office of Climate Change, Sustainability and Resiliency",
+    "year": 2019,
+    "city": "Honolulu",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/North America/Honolulu-US/Ola_Oahu_Resilience_Strategy.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:57:48.000Z",
+      "airtable_id": "recRETfQ0k75lXFqh",
+      "source_file": "Ola_Oahu_Resilience_Strategy.pdf",
+      "document_type": "Resilience Strategy"
+    }
+  },
+  {
+    "id": "55e739c9-e7f1-44f5-8d4d-faf76d74da30",
+    "document_id": "recRM4ronS9TIbGW4",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Jakarta Resilience Strategy",
+    "publisher": "Provincial Government of DKI Jakarta",
+    "year": 2018,
+    "city": "Jakarta",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Asia & Asia Pacific Oceania/Jakarta-Indonesia/Jakarta-Resilience-Strategy-English.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:40:53.000Z",
+      "airtable_id": "recRM4ronS9TIbGW4",
+      "source_file": "Jakarta-Resilience-Strategy-English.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "fb6bb2f8-1362-478e-8198-77e6f3e5687b",
+    "document_id": "recRUlmqBivKqiX1f",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Resilient 305",
+    "publisher": "Greater Miami & the Beaches",
+    "year": 2019,
+    "city": "Miami",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/North America/Miami-US/Resilient305_final.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:58:31.000Z",
+      "airtable_id": "recRUlmqBivKqiX1f",
+      "source_file": "Resilient305_final.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "652ec735-1e81-4330-a2cc-9e6dd6a26fd6",
+    "document_id": "recSKfr2CeIAGj2oW",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Urban Lab Torricelli",
+    "publisher": "Comune di Milano",
+    "year": 2021,
+    "city": "Milan",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Europe & Middle East/Milan-Italy/8_Urban-Lab_16.07.2021_Torricelli.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:51:18.000Z",
+      "airtable_id": "recSKfr2CeIAGj2oW",
+      "source_file": "8_Urban-Lab_16.07.2021_Torricelli.pdf",
+      "document_type": "Urban regeneration project"
+    }
+  },
+  {
+    "id": "a0cf4f28-f2dd-40e6-ac50-6044c5d2e6c3",
+    "document_id": "recSNdbf0tose8l94",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Sustainability Plan",
+    "publisher": "City of St. Louis",
+    "year": 2013,
+    "city": "St. Louis",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/North America/St-Louis-US/STL-Sustainability-Plan.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-23T00:02:08.000Z",
+      "airtable_id": "recSNdbf0tose8l94",
+      "source_file": "STL-Sustainability-Plan.pdf",
+      "document_type": "Plan"
+    }
+  },
+  {
+    "id": "e1dad44e-6483-4854-a3ad-3f5bc34e12e9",
+    "document_id": "recTG3SdHNJutcGDe",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Kigali City Master Plan 2050",
+    "publisher": "City of Kigali",
+    "year": 2021,
+    "city": "Kigali",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Africa/Kigali-Rwanda/Kigali_2021.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:39:26.000Z",
+      "airtable_id": "recTG3SdHNJutcGDe",
+      "source_file": "Kigali_2021.pdf",
+      "document_type": "Master Plan"
+    }
+  },
+  {
+    "id": "a0c20561-6046-48b2-9a1d-eb30f2716d3d",
+    "document_id": "recU0HaUuvHAO9BqN",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "TANZANIA URBAN RESILIENCE PROGRAM",
+    "publisher": "The World Bank",
+    "year": 2016,
+    "city": "Dar es Salaam",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Africa/Dar-es-Salaam-Tanzania/Tanzania Urban Resilience.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:38:27.000Z",
+      "airtable_id": "recU0HaUuvHAO9BqN",
+      "source_file": "Tanzania Urban Resilience.pdf",
+      "document_type": "Program Report"
+    }
+  },
+  {
+    "id": "110ed829-59f9-4a70-bd9f-0f4826fde8df",
+    "document_id": "recUUdARF9MwHLs9e",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Montr\u00e9al Resilience Strategy",
+    "publisher": "Ville de Montr\u00e9al",
+    "year": 2018,
+    "city": "Montr\u00e9al",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/North America/Montre\u0301al-CA/Montreal-Resilience-Strategy-English.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:58:53.000Z",
+      "airtable_id": "recUUdARF9MwHLs9e",
+      "source_file": "Montreal-Resilience-Strategy-English.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "381e16cc-52a0-4f15-b6cd-bf41b232235f",
+    "document_id": "recUnEHvKccmuF2s6",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Resilient Atlanta",
+    "publisher": "City of Atlanta",
+    "year": 2017,
+    "city": "Atlanta",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/North America/Atlanta-US/Atlanta-Resilience-Strategy-English.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:55:16.000Z",
+      "airtable_id": "recUnEHvKccmuF2s6",
+      "source_file": "Atlanta-Resilience-Strategy-English.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "6af35946-4733-4b49-8bc8-96b460a4665b",
+    "document_id": "recUvTc97lecheraN",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Climate Plan",
+    "publisher": "Ville de Montr\u00e9al",
+    "year": 2020,
+    "city": "Montr\u00e9al",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/North America/Montre\u0301al-CA/Montreal-climate_plan_2020_2030_vdm.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:59:01.000Z",
+      "airtable_id": "recUvTc97lecheraN",
+      "source_file": "Montreal-climate_plan_2020_2030_vdm.pdf",
+      "document_type": "Plan"
+    }
+  },
+  {
+    "id": "533807f2-a4f6-4813-b8cc-0e0bf33766dd",
+    "document_id": "recV9Yo7JZ5cynLJM",
+    "created_at": "2025-12-11T03:08:25.22412+00:00",
+    "title": "Hangzhou Low-Carbon City Development Plan",
+    "publisher": "Hangzhou Municipal People\u2019s Government",
+    "year": 2013,
+    "city": "Hangzhou",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/China/Hangzhou/LowCarb_Hangzhou.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:45:29.000Z",
+      "airtable_id": "recV9Yo7JZ5cynLJM",
+      "source_file": "LowCarb_Hangzhou.pdf",
+      "document_type": "Plan"
+    }
+  },
+  {
+    "id": "98e2aed5-9185-4bee-8716-4d2e6ac1f3e0",
+    "document_id": "recVg9kcVDXEIjCV0",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "National Climate Change Plan",
+    "publisher": "Ministry of Climate Change and Environment",
+    "year": 2017,
+    "city": "Dubai",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Asia & Asia Pacific Oceania/Dubai-UnitedArabEmirates/National Climate Change Plan.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:40:47.000Z",
+      "airtable_id": "recVg9kcVDXEIjCV0",
+      "source_file": "National Climate Change Plan.pdf",
+      "document_type": "Plan"
+    }
+  },
+  {
+    "id": "7c1491a2-085b-49f1-8d59-9b04d3d54597",
+    "document_id": "recWAFz1OsnpUbYDJ",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Cooling Sydney Strategy",
+    "publisher": "Resilient Sydney",
+    "year": 2018,
+    "city": "Sydney",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Asia & Asia Pacific Oceania/Sydney-Australia/Cooling Sydney Strategy Final.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:43:47.000Z",
+      "airtable_id": "recWAFz1OsnpUbYDJ",
+      "source_file": "Cooling Sydney Strategy Final.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "f922deab-cbd0-4fe4-a092-35b6ddca831f",
+    "document_id": "recWzp6AksqEkpz5c",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "City Report: The Hague",
+    "publisher": "URBAN-X",
+    "year": 2018,
+    "city": "The Hague",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Europe & Middle East/Hague-Netherlands/City-Report-The-Hague_Isabella-Baum_compressed.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:49:51.000Z",
+      "airtable_id": "recWzp6AksqEkpz5c",
+      "source_file": "City-Report-The-Hague_Isabella-Baum_compressed.pdf",
+      "document_type": "Report"
+    }
+  },
+  {
+    "id": "327983bc-b800-47bd-8526-afe7ca5bfce3",
+    "document_id": "recXBSaSxW5g3GflD",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Malaysia Resilient Initiatives: Case Study of Melaka into Resilient City",
+    "publisher": "International Society of City and Regional Planners (ISOCARP)",
+    "year": 2015,
+    "city": "Melaka",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Asia & Asia Pacific Oceania/Melaka-Malaysia/Malaysiaresilientinitiativescasestudyofmelakaintoresilientcity.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:42:04.000Z",
+      "airtable_id": "recXBSaSxW5g3GflD",
+      "source_file": "Malaysiaresilientinitiativescasestudyofmelakaintoresilientcity.pdf",
+      "document_type": "Case Study"
+    }
+  },
+  {
+    "id": "d66d7916-0269-42fb-8549-f6a93f0d8030",
+    "document_id": "recXR1soA02q9ZGg0",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Hong Kong's Climate Action Plan 2050",
+    "publisher": "Environment Bureau, The Government of the Hong Kong Special Administrative Region",
+    "year": 2021,
+    "city": "Hong Kong",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/China/Hong-Kong/HK-CAP2050_booklet_en.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:45:36.000Z",
+      "airtable_id": "recXR1soA02q9ZGg0",
+      "source_file": "HK-CAP2050_booklet_en.pdf",
+      "document_type": "Climate Action Plan"
+    }
+  },
+  {
+    "id": "177ef359-db1c-4776-8dd2-af567679cb19",
+    "document_id": "recXnMmWUePTgnYZc",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Bengaluru Climate Action Plan",
+    "publisher": "Bruhat Bengaluru Mahanagara Palike (BBMP)",
+    "year": 2022,
+    "city": "Bengaluru",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Asia & Asia Pacific Oceania/Bengaluru-India/BCAP_Summary Report.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:40:00.000Z",
+      "airtable_id": "recXnMmWUePTgnYZc",
+      "source_file": "BCAP_Summary Report.pdf",
+      "document_type": "Climate Action Plan"
+    }
+  },
+  {
+    "id": "e52f75cd-9d83-4203-909e-a59a302df483",
+    "document_id": "recXrK9VYvL3p7LKF",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Resilient Network Plan",
+    "publisher": "Manchester City Council",
+    "year": 2022,
+    "city": "Manchester",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Europe & Middle East/Greater-Manchester-UK/MCC_Resilient_Network_Plan_2022.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:49:20.000Z",
+      "airtable_id": "recXrK9VYvL3p7LKF",
+      "source_file": "MCC_Resilient_Network_Plan_2022.pdf",
+      "document_type": "Plan"
+    }
+  },
+  {
+    "id": "522545e1-33a1-4733-8377-6ce969091b55",
+    "document_id": "recYGQEQBqo84cF5X",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Resilient Bangkok",
+    "publisher": "Bangkok Metropolitan Administration",
+    "year": 2017,
+    "city": "Bangkok",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Asia & Asia Pacific Oceania/Bangkok-Thailand/Bangkok-Resilience-Strategy-English.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:39:50.000Z",
+      "airtable_id": "recYGQEQBqo84cF5X",
+      "source_file": "Bangkok-Resilience-Strategy-English.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "0c6ba04a-0dc6-474f-ab12-6996bfd31dc9",
+    "document_id": "recZZbcogsoHIBJPw",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Socio-Economic and Resettlement Scoping Report",
+    "publisher": "United Nations Office for Project Services (UNOPS)",
+    "year": 2015,
+    "city": "Mandalay",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Asia & Asia Pacific Oceania/Mandalay-Myanmar/f9eecc03-e7c4-468b-bc8a-15a37ca790e3_UN-SERRP_FINAL_Web_Version.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:41:55.000Z",
+      "airtable_id": "recZZbcogsoHIBJPw",
+      "source_file": "f9eecc03-e7c4-468b-bc8a-15a37ca790e3_UN-SERRP_FINAL_Web_Version.pdf",
+      "document_type": "Report"
+    }
+  },
+  {
+    "id": "f55522e3-bce8-45a1-b54c-6cc0e8a872f4",
+    "document_id": "recZbJKB0aIjPp18G",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Final Report",
+    "publisher": "Mayor's Commission on Climate Change Preparedness and Resilience",
+    "year": 2014,
+    "city": "Norfolk",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/North America/Norfolk-US/Norfolk-Mayors Commission on Climate Change - Final.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:59:47.000Z",
+      "airtable_id": "recZbJKB0aIjPp18G",
+      "source_file": "Norfolk-Mayors Commission on Climate Change - Final.pdf",
+      "document_type": "Report"
+    }
+  },
+  {
+    "id": "b2f02f87-c3c2-40fb-a840-ff01b0b607c0",
+    "document_id": "recZbLhu1DcAZqDFj",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Colima Resilience Strategy",
+    "publisher": "100 Resilient Cities",
+    "year": 2018,
+    "city": "Colima",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Latin America & Caribbean/Colima-Mexico/Colima-Resilience-Strategy-English.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:53:48.000Z",
+      "airtable_id": "recZbLhu1DcAZqDFj",
+      "source_file": "Colima-Resilience-Strategy-English.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "f492afc1-a96e-4a1a-832b-63425e7a7853",
+    "document_id": "recZutP8c3zDdRqV6",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Amsterdam Climate Neutral",
+    "publisher": "Gemeente Amsterdam",
+    "year": 2020,
+    "city": "Amsterdam",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Europe & Middle East/Amsterdam-Netherlands/Amsterdam-roadmap_climate_neutral.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:46:48.000Z",
+      "airtable_id": "recZutP8c3zDdRqV6",
+      "source_file": "Amsterdam-roadmap_climate_neutral.pdf",
+      "document_type": "Roadmap"
+    }
+  },
+  {
+    "id": "308f3283-d8aa-48fe-9902-a6907d47ee1c",
+    "document_id": "reca234QS6tjT2hMH",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Dallas Comprehensive Environmental & Climate Action Plan",
+    "publisher": "City of Dallas",
+    "year": 2020,
+    "city": "Dallas",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/North America/Dallas-US/Dallas-2020.05.15_CECAP Report Interactive.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:57:19.000Z",
+      "airtable_id": "reca234QS6tjT2hMH",
+      "source_file": "Dallas-2020.05.15_CECAP Report Interactive.pdf",
+      "document_type": "Action Plan"
+    }
+  },
+  {
+    "id": "edc12a1d-1138-4831-a7ba-c6060044fd25",
+    "document_id": "recalHMnRMrQHLnjE",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Austin Climate Equity Plan",
+    "publisher": "City of Austin",
+    "year": 2021,
+    "city": "Austin",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/North America/Austin-US/Climate Equity Plan Full Document__FINAL.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:55:30.000Z",
+      "airtable_id": "recalHMnRMrQHLnjE",
+      "source_file": "Climate Equity Plan Full Document__FINAL.pdf",
+      "document_type": "Plan"
+    }
+  },
+  {
+    "id": "f37ef11c-128f-48de-a5b7-511057645c4d",
+    "document_id": "recb6OMBAsUyCsKd9",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Ciudad Ju\u00e1rez Resilience Strategy",
+    "publisher": "Resilient Ciudad Ju\u00e1rez",
+    "year": 2017,
+    "city": "Ciudad Ju\u00e1rez",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Latin America & Caribbean/CiudadJua\u0301rez-Mexico/Ciudad-Juarez-Resilience-Strategy-English.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:53:39.000Z",
+      "airtable_id": "recb6OMBAsUyCsKd9",
+      "source_file": "Ciudad-Juarez-Resilience-Strategy-English.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "20c26e5f-c694-4eab-ad6e-2e1d24452991",
+    "document_id": "recb8Q0MxTVhTIlZ1",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Climate Action Plan",
+    "publisher": "City of Phoenix",
+    "year": 2021,
+    "city": "Phoenix",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/North America/Phoenix-US/Phoenix-2021ClimateActionPlanEnglish.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-23T00:00:32.000Z",
+      "airtable_id": "recb8Q0MxTVhTIlZ1",
+      "source_file": "Phoenix-2021ClimateActionPlanEnglish.pdf",
+      "document_type": "Climate Action Plan"
+    }
+  },
+  {
+    "id": "c021615f-ba5a-4569-8a2e-bbf6c7259bcb",
+    "document_id": "recbMuNB5m62IxyqE",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Contrato Clim\u00e1tico de Lisboa",
+    "publisher": "C\u00e2mara Municipal de Lisboa",
+    "year": 2023,
+    "city": "Lisbon",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Europe & Middle East/Lisbon-Portugal/lx_contratoclimatico_10___1_.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:50:52.000Z",
+      "airtable_id": "recbMuNB5m62IxyqE",
+      "source_file": "lx_contratoclimatico_10___1_.pdf",
+      "document_type": "Climate Contract"
+    }
+  },
+  {
+    "id": "72885b6d-763a-47ec-808c-fa3e035e0b12",
+    "document_id": "recbN4eC4MAjDlSWo",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Madrid Resilience Strategy",
+    "publisher": "Madrid City Council",
+    "year": 2022,
+    "city": "Madrid",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Europe & Middle East/Madrid-Spain/Madrid-RoadmapENG2022.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:51:05.000Z",
+      "airtable_id": "recbN4eC4MAjDlSWo",
+      "source_file": "Madrid-RoadmapENG2022.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "73a3ad2e-12f4-452d-ad23-fe2d64a1f675",
+    "document_id": "recbi31rAVPnkNDAX",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "The Hague Resilience Strategy",
+    "publisher": "Municipality of The Hague",
+    "year": 2019,
+    "city": "The Hague",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Europe & Middle East/Hague-Netherlands/The-Hague-Resilience-Strategy-English.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:49:58.000Z",
+      "airtable_id": "recbi31rAVPnkNDAX",
+      "source_file": "The-Hague-Resilience-Strategy-English.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "7adb1d4d-e1c4-4b9a-8cb5-665112955584",
+    "document_id": "recc41ds1uYBJrbxz",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Prepare Louisville",
+    "publisher": "Louisville Metro Government",
+    "year": 2020,
+    "city": "Louisville",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/North America/Louisville-US/preparelouisvilleadaptationplandraftforpubliccommentpdf.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:58:24.000Z",
+      "airtable_id": "recc41ds1uYBJrbxz",
+      "source_file": "preparelouisvilleadaptationplandraftforpubliccommentpdf.pdf",
+      "document_type": "Adaptation Plan"
+    }
+  },
+  {
+    "id": "55dc0bb5-cf25-41d6-bea6-4d446f11d8fd",
+    "document_id": "reccPVQctuPweJtsZ",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "STATUSRAPPORT 2016 P\u00c5 KBH 2025 KLIMAPLANEN",
+    "publisher": "K\u00f8benhavns Kommune",
+    "year": 2016,
+    "city": "Copenhagen",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Europe & Middle East/Copenhagen-Denmark/rsrapport-klimaplan-2016-_1612.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:48:57.000Z",
+      "airtable_id": "reccPVQctuPweJtsZ",
+      "source_file": "rsrapport-klimaplan-2016-_1612.pdf",
+      "document_type": "Report"
+    }
+  },
+  {
+    "id": "7c7463c4-7e7b-4028-aeef-9bf8ca47121e",
+    "document_id": "reccQyP72QjUc9ZAr",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Resilient Tulsa",
+    "publisher": "City of Tulsa",
+    "year": 2018,
+    "city": "Tulsa",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/North America/Tulsa-US/reslient-tulsa-digital-web.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-23T00:03:05.000Z",
+      "airtable_id": "reccQyP72QjUc9ZAr",
+      "source_file": "reslient-tulsa-digital-web.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "6703014b-817f-4606-a13b-4d276121682c",
+    "document_id": "reccbr7svKtpoACmx",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Climate Action Plan 2020-2025",
+    "publisher": "City and County of Honolulu Office of Climate Change, Sustainability and Resiliency",
+    "year": 2020,
+    "city": "Honolulu",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/North America/Honolulu-US/2020-2025+Climate+Action+Plan.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:57:39.000Z",
+      "airtable_id": "reccbr7svKtpoACmx",
+      "source_file": "2020-2025+Climate+Action+Plan.pdf",
+      "document_type": "Action Plan"
+    }
+  },
+  {
+    "id": "ee042d66-b45b-40af-acec-9ce11f094045",
+    "document_id": "reccrGYzNLRAbmQQS",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Semarang Climate Change Resilience Strategy",
+    "publisher": "Semarang City Government",
+    "year": 2013,
+    "city": "Semarang",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Asia & Asia Pacific Oceania/Semarang-Indonesia/4_T2-2_Semarang.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:42:59.000Z",
+      "airtable_id": "reccrGYzNLRAbmQQS",
+      "source_file": "4_T2-2_Semarang.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "85f346c8-e7b2-438d-8683-a53e3096a782",
+    "document_id": "recd1nhihM3a6a28i",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Kyoto City Resilience Strategy",
+    "publisher": "Kyoto City",
+    "year": 2023,
+    "city": "Kyoto",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Asia & Asia Pacific Oceania/Kyoto-Japan/bookletenglish_202305ver.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:41:23.000Z",
+      "airtable_id": "recd1nhihM3a6a28i",
+      "source_file": "bookletenglish_202305ver.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "464c5419-de13-49de-9247-a7b854e16793",
+    "document_id": "recdHToCCVqtZ82ro",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Broward County Climate Change Action Plan",
+    "publisher": "Broward County",
+    "year": 2020,
+    "city": "Broward County",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/North America/Broward-US/CCAP_2020_ADA.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:56:44.000Z",
+      "airtable_id": "recdHToCCVqtZ82ro",
+      "source_file": "CCAP_2020_ADA.pdf",
+      "document_type": "Climate Change Action Plan"
+    }
+  },
+  {
+    "id": "4f227874-f55b-4b0c-986b-f52843fc69c8",
+    "document_id": "recdiEEcTGaCzryHR",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Priority Climate Action Plan",
+    "publisher": "Indian Nations Council of Governments (INCOG)",
+    "year": 2024,
+    "city": "Tulsa",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/North America/Tulsa-US/TULSA METROPOLITAN AREA CLIMATE POLLUTION REDUCTION GRANT PRIMARY CLIMATE ACTION PLAN.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-23T00:02:46.000Z",
+      "airtable_id": "recdiEEcTGaCzryHR",
+      "source_file": "TULSA METROPOLITAN AREA CLIMATE POLLUTION REDUCTION GRANT PRIMARY CLIMATE ACTION PLAN.pdf",
+      "document_type": "Climate Action Plan"
+    }
+  },
+  {
+    "id": "ff30638b-5b70-40cb-a6ce-75ce9bb7151e",
+    "document_id": "recdoOpOuY7fgbTWU",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Deyang Resilience Strategy",
+    "publisher": "100 Resilient Cities",
+    "year": 2018,
+    "city": "Deyang",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/China/Deyang/Deyang-Resilience-Strategy-English.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:45:18.000Z",
+      "airtable_id": "recdoOpOuY7fgbTWU",
+      "source_file": "Deyang-Resilience-Strategy-English.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "ef0525b5-e795-41d8-86e4-04656705eab9",
+    "document_id": "recdtnql38kEsf3vh",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Byblos Resilience Strategy",
+    "publisher": "100 Resilient Cities",
+    "year": 2017,
+    "city": "Byblos",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Europe & Middle East/Byblos-Lebanon/Byblos-Resilience-Strategy-English.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:48:40.000Z",
+      "airtable_id": "recdtnql38kEsf3vh",
+      "source_file": "Byblos-Resilience-Strategy-English.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "b333c27e-35ee-4837-839b-9404d3478095",
+    "document_id": "receDSuaD9IEhIZnv",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "HAZARD AND CLIMATE RESILIENCE PLAN",
+    "publisher": "City and County of San Francisco",
+    "year": 2020,
+    "city": "San Francisco",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/North America/San-Francisco-US/HCR_FullReport_200326_0.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-23T00:01:23.000Z",
+      "airtable_id": "receDSuaD9IEhIZnv",
+      "source_file": "HCR_FullReport_200326_0.pdf",
+      "document_type": "Plan"
+    }
+  },
+  {
+    "id": "2190e1a9-1c85-4ec7-8198-7ce31b696880",
+    "document_id": "recfuQC1qUiFvAkoD",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Qingdao Low-Carbon City Development Plan",
+    "publisher": "Qingdao Development and Reform Commission",
+    "year": 2014,
+    "city": "Qingdao",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/China/Qingdao/LowCarb_Qingdao.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:46:06.000Z",
+      "airtable_id": "recfuQC1qUiFvAkoD",
+      "source_file": "LowCarb_Qingdao.pdf",
+      "document_type": "Development Plan"
+    }
+  },
+  {
+    "id": "dd48459f-281d-4045-942d-2b8ec3331a1b",
+    "document_id": "recgGfjDggHmX4yhE",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "The Hague Climate Plan",
+    "publisher": "Municipality of The Hague",
+    "year": 2011,
+    "city": "The Hague",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Europe & Middle East/Hague-Netherlands/ccc_the_hague.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:50:05.000Z",
+      "airtable_id": "recgGfjDggHmX4yhE",
+      "source_file": "ccc_the_hague.pdf",
+      "document_type": "Climate Plan"
+    }
+  },
+  {
+    "id": "e922734a-5a86-4d5e-91f9-5b1abd576d76",
+    "document_id": "recgeCa4aSeXHA0bW",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Outline of Zero Emission Tokyo Strategy",
+    "publisher": "Tokyo Metropolitan Government",
+    "year": 2019,
+    "city": "Tokyo",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Asia & Asia Pacific Oceania/Tokyo-Japan/Outline-of-Zero-Emission-Tokyo-Strategy.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:44:05.000Z",
+      "airtable_id": "recgeCa4aSeXHA0bW",
+      "source_file": "Outline-of-Zero-Emission-Tokyo-Strategy.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "168086ab-b71a-464a-b19d-f20046c5a6f7",
+    "document_id": "recget83ogs2EUIv9",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Hangzhou Action Plan",
+    "publisher": "The People's Government of Hangzhou Municipality",
+    "year": 2016,
+    "city": "Hangzhou",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/China/Hangzhou/Hangzhou Action Plan_05092016.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:45:24.000Z",
+      "airtable_id": "recget83ogs2EUIv9",
+      "source_file": "Hangzhou Action Plan_05092016.pdf",
+      "document_type": "Action Plan"
+    }
+  },
+  {
+    "id": "2e0a7196-fe00-459c-bca9-6b9df7e90c29",
+    "document_id": "rech1DV1W3hsLrDJW",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Bristol Resilience Strategy",
+    "publisher": "Bristol City Council",
+    "year": 2016,
+    "city": "Bristol",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Europe & Middle East/Bristol-UK/16c Appendix 1 Bristol Resilience Strategy.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:48:25.000Z",
+      "airtable_id": "rech1DV1W3hsLrDJW",
+      "source_file": "16c Appendix 1 Bristol Resilience Strategy.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "f7445b96-889e-46ef-b0be-ab5605f0aedf",
+    "document_id": "rechEcEXOiLkydRD0",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Addendum to the 2013 Climate Action Strategy",
+    "publisher": "SF Environment",
+    "year": 2018,
+    "city": "San Francisco",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/North America/San-Francisco-US/09_cap_water_addendum.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-23T00:01:04.000Z",
+      "airtable_id": "rechEcEXOiLkydRD0",
+      "source_file": "09_cap_water_addendum.pdf",
+      "document_type": "Addendum"
+    }
+  },
+  {
+    "id": "a35bdd62-438e-4636-9061-a9d26194fc4e",
+    "document_id": "rechKeLVVUq9QpVSK",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "CASE STUDY SEMARANG, INDONESIA",
+    "publisher": "Asian Cities Climate Change Resilience Network (ACCCRN)",
+    "year": null,
+    "city": "Semarang",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Asia & Asia Pacific Oceania/Semarang-Indonesia/Module 1 - Annexure D case study Semarang.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:43:07.000Z",
+      "airtable_id": "rechKeLVVUq9QpVSK",
+      "source_file": "Module 1 - Annexure D case study Semarang.pdf",
+      "document_type": "Case Study"
+    }
+  },
+  {
+    "id": "87372be2-c49e-4b63-8e5a-40e24bcdde36",
+    "document_id": "rechS2sPXRnWPLXib",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "2030 Equitable Climate Action Plan",
+    "publisher": "City of Oakland",
+    "year": 2020,
+    "city": "Oakland",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/North America/Oakland-US/Oakland-ECAP-07-24.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-23T00:00:06.000Z",
+      "airtable_id": "rechS2sPXRnWPLXib",
+      "source_file": "Oakland-ECAP-07-24.pdf",
+      "document_type": "Climate Action Plan"
+    }
+  },
+  {
+    "id": "4e0a7f63-985f-456e-9b8c-f488c08a7a87",
+    "document_id": "reciEUXd0IMjHlfAh",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "CPH 2025 Climate Plan",
+    "publisher": "The City of Copenhagen",
+    "year": 2020,
+    "city": "Copenhagen",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Europe & Middle East/Copenhagen-Denmark/cph-2025-climate-plan-roadmap-2021-2025-_2062.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:48:49.000Z",
+      "airtable_id": "reciEUXd0IMjHlfAh",
+      "source_file": "cph-2025-climate-plan-roadmap-2021-2025-_2062.pdf",
+      "document_type": "Climate Plan"
+    }
+  },
+  {
+    "id": "14f3eaf6-4880-4ed6-af3e-cf69e0b8e3a7",
+    "document_id": "reciFYoIibHSXjAWw",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "City Scan",
+    "publisher": "The World Bank",
+    "year": 2015,
+    "city": "Penang",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Asia & Asia Pacific Oceania/PenangState-Malaysia/City-Scan-Penang-Malaysia-City-Resilience-Program.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:42:30.000Z",
+      "airtable_id": "reciFYoIibHSXjAWw",
+      "source_file": "City-Scan-Penang-Malaysia-City-Resilience-Program.pdf",
+      "document_type": "City Scan"
+    }
+  },
+  {
+    "id": "cff8d3e1-f21c-4963-96c6-b7a3c8886d55",
+    "document_id": "recisfFfnRsATMJqE",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "London Environment Strategy",
+    "publisher": "Mayor of London",
+    "year": 2018,
+    "city": "London",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Europe & Middle East/London-UK/25f883ff.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:50:59.000Z",
+      "airtable_id": "recisfFfnRsATMJqE",
+      "source_file": "25f883ff.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "36cfb69d-cbdf-4fc0-86c1-87918e17373a",
+    "document_id": "recj6xQ76fkYKte7t",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Green Vision of Warsaw",
+    "publisher": "The City of Warsaw",
+    "year": 2020,
+    "city": "Warsaw",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Europe & Middle East/Warsaw-Poland/Warsaw_Zielona-Wizja-Warszawy-ENG.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:53:19.000Z",
+      "airtable_id": "recj6xQ76fkYKte7t",
+      "source_file": "Warsaw_Zielona-Wizja-Warszawy-ENG.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "40bac642-a7ec-438b-9465-e768570a3f7c",
+    "document_id": "recjIySPgtu1WXSAH",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Greater Manchester Resilience Strategy",
+    "publisher": "Greater Manchester Resilience Forum",
+    "year": 2020,
+    "city": "Greater Manchester",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Europe & Middle East/Greater-Manchester-UK/greater-manchester-resilience-strategy-2020-2030-accessible.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:49:35.000Z",
+      "airtable_id": "recjIySPgtu1WXSAH",
+      "source_file": "greater-manchester-resilience-strategy-2020-2030-accessible.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "11c8f7e3-1f5b-4d7a-adad-d304b873b55d",
+    "document_id": "recjQ7Oa3XIuFUNSo",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Philadelphia Climate Action Playbook",
+    "publisher": "City of Philadelphia Office of Sustainability",
+    "year": 2021,
+    "city": "Philadelphia",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/North America/Philadelphia-US/Philadelphia-Climate-Action-Playbook.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-23T00:00:24.000Z",
+      "airtable_id": "recjQ7Oa3XIuFUNSo",
+      "source_file": "Philadelphia-Climate-Action-Playbook.pdf",
+      "document_type": "Playbook"
+    }
+  },
+  {
+    "id": "1ef0567e-4030-4a0e-939a-9f243e26be90",
+    "document_id": "recjthgQouz1iBkOP",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "TOYAMA RESILIENCE STRATEGY",
+    "publisher": "Toyama City",
+    "year": 2018,
+    "city": "Toyama",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Asia & Asia Pacific Oceania/Toyama-Japan/Toyama-Resilience-Strategy-English.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:44:42.000Z",
+      "airtable_id": "recjthgQouz1iBkOP",
+      "source_file": "Toyama-Resilience-Strategy-English.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "cca9a81d-053f-47dd-aa76-10ec3930c37b",
+    "document_id": "reckIfav4SQA6D3eV",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Disaster Management Framework",
+    "publisher": "City of Ekurhuleni",
+    "year": 2021,
+    "city": "Ekurhuleni",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Africa/Ekurhuleni-SouthAfrica/03C_DisasterManagementFramework2021.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:38:58.000Z",
+      "airtable_id": "reckIfav4SQA6D3eV",
+      "source_file": "03C_DisasterManagementFramework2021.pdf",
+      "document_type": "Framework"
+    }
+  },
+  {
+    "id": "edb85707-40d7-4f86-a2c9-933e4295df21",
+    "document_id": "reckaOueMLc1htUv3",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Houston Climate Action Plan",
+    "publisher": "City of Houston",
+    "year": 2020,
+    "city": "Houston",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/North America/Houston-US/Huston-CAP-April2020.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:57:55.000Z",
+      "airtable_id": "reckaOueMLc1htUv3",
+      "source_file": "Huston-CAP-April2020.pdf",
+      "document_type": "Climate Action Plan"
+    }
+  },
+  {
+    "id": "8d0d984d-13b2-4730-93e2-4d24df42b7ee",
+    "document_id": "recko0H7DoentWqR4",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Minneapolis Climate Action Plan",
+    "publisher": "City of Minneapolis",
+    "year": 2013,
+    "city": "Minneapolis",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/North America/Minneapolis-US/Climate Action Plan minneapolis.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:58:46.000Z",
+      "airtable_id": "recko0H7DoentWqR4",
+      "source_file": "Climate Action Plan minneapolis.pdf",
+      "document_type": "Climate Action Plan"
+    }
+  },
+  {
+    "id": "96fac188-fff3-4e2b-91d3-b30e06a15a1d",
+    "document_id": "reckxtxhfw4e2pyMR",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "City Resilience Strategy",
+    "publisher": "100 Resilient Cities",
+    "year": 2016,
+    "city": "Semarang",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Asia & Asia Pacific Oceania/Semarang-Indonesia/WP_CityResilience_Semarang_0.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:43:14.000Z",
+      "airtable_id": "reckxtxhfw4e2pyMR",
+      "source_file": "WP_CityResilience_Semarang_0.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "4d94f8bd-7cdd-4e3d-886a-49bfe284222e",
+    "document_id": "reclEv0soqlOS4EgT",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Our City of Tomorrow",
+    "publisher": "City of Amsterdam",
+    "year": 2016,
+    "city": "Amsterdam",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Europe & Middle East/Amsterdam-Netherlands/our_city_of_tomorrow_2.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:46:57.000Z",
+      "airtable_id": "reclEv0soqlOS4EgT",
+      "source_file": "our_city_of_tomorrow_2.pdf",
+      "document_type": "Resilience Strategy"
+    }
+  },
+  {
+    "id": "313b3359-de86-4501-bae0-0f02dd636cde",
+    "document_id": "reclbadFAhCzbqdaC",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Kyoto\u2019s Challenge Towards a Zero-Carbon Society",
+    "publisher": "Institute for Global Environmental Strategies",
+    "year": 2019,
+    "city": "Kyoto",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Asia & Asia Pacific Oceania/Kyoto-Japan/IGES_Kyoto+Scenario_Web.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:41:10.000Z",
+      "airtable_id": "reclbadFAhCzbqdaC",
+      "source_file": "IGES_Kyoto+Scenario_Web.pdf",
+      "document_type": "Report"
+    }
+  },
+  {
+    "id": "3359aaa4-6013-47cd-bb41-628914cf2732",
+    "document_id": "reclcntLTRdSTl6wb",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Rotterdam Resilience Strategy",
+    "publisher": "City of Rotterdam",
+    "year": 2016,
+    "city": "Rotterdam",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Europe & Middle East/Rotterdam-Netherlands/Rotterdam-Resilience-Strategy-English.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:52:00.000Z",
+      "airtable_id": "reclcntLTRdSTl6wb",
+      "source_file": "Rotterdam-Resilience-Strategy-English.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "c3115dd8-bda5-45bf-9ff7-a05c1ce32c45",
+    "document_id": "reclnqbctmz9zVUsm",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Our Resilient Glasgow",
+    "publisher": "100 Resilient Cities",
+    "year": 2016,
+    "city": "Glasgow",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Europe & Middle East/Glasgow-UK/Glasgow-Resilience-Strategy-English.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:49:04.000Z",
+      "airtable_id": "reclnqbctmz9zVUsm",
+      "source_file": "Glasgow-Resilience-Strategy-English.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "8c5e5399-9288-4454-9015-9b58eea23266",
+    "document_id": "reclzsm2RHKhwsfTn",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Durban Resilience Strategy",
+    "publisher": "eThekwini Municipality",
+    "year": 2019,
+    "city": "Durban",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Africa/Durban(eThekwini)-SouthAfrica/Durban-Resilience-Strategy-English.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:38:49.000Z",
+      "airtable_id": "reclzsm2RHKhwsfTn",
+      "source_file": "Durban-Resilience-Strategy-English.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "8079c2a1-d120-4135-bfdf-03732b75347c",
+    "document_id": "recm1JzFxqNDv5g67",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Santa Fe Resilience Strategy",
+    "publisher": "Municipalidad de Santa Fe",
+    "year": 2018,
+    "city": "Santa Fe",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Latin America & Caribbean/SantaFe-Argentina/Santa-Fe-Resilience-Strategy-English.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:54:51.000Z",
+      "airtable_id": "recm1JzFxqNDv5g67",
+      "source_file": "Santa-Fe-Resilience-Strategy-English.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "793ae924-8a94-43a7-9d96-d621be8437d5",
+    "document_id": "recm7y205VHodmUDj",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Lisbon Resilience Action Plan",
+    "publisher": "C\u00e2mara Municipal de Lisboa",
+    "year": 2018,
+    "city": "Lisbon",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Europe & Middle East/Lisbon-Portugal/Lisbon-Resilience-Action-Plan_Toolkit.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:50:41.000Z",
+      "airtable_id": "recm7y205VHodmUDj",
+      "source_file": "Lisbon-Resilience-Action-Plan_Toolkit.pdf",
+      "document_type": "Action Plan"
+    }
+  },
+  {
+    "id": "67af2acd-a22e-4f40-a14c-0758d192cb5f",
+    "document_id": "recmQ6P4X9esUv54n",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Climate Action and Adaptation Plan",
+    "publisher": "City of St. Louis",
+    "year": 2021,
+    "city": "St. Louis",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/North America/St-Louis-US/STLouis-v1-1-CAP_FINAL.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-23T00:02:13.000Z",
+      "airtable_id": "recmQ6P4X9esUv54n",
+      "source_file": "STLouis-v1-1-CAP_FINAL.pdf",
+      "document_type": "Climate Action and Adaptation Plan"
+    }
+  },
+  {
+    "id": "61773365-a69b-467d-9cb4-e63aa3a32eb7",
+    "document_id": "recnqQaGImbgewdDf",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Paris Resilience Strategy",
+    "publisher": "City of Paris",
+    "year": 2017,
+    "city": "Paris",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Europe & Middle East/Paris-France/Paris-Resilience-Strategy-English.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:51:31.000Z",
+      "airtable_id": "recnqQaGImbgewdDf",
+      "source_file": "Paris-Resilience-Strategy-English.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "596c1488-bf38-4137-b231-0632aa171113",
+    "document_id": "recoc2A1Ri4xO9g4j",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Resilient Houston",
+    "publisher": "City of Houston",
+    "year": 2020,
+    "city": "Houston",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/North America/Houston-US/Resilient-Houston-20200518-double-page.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:58:04.000Z",
+      "airtable_id": "recoc2A1Ri4xO9g4j",
+      "source_file": "Resilient-Houston-20200518-double-page.pdf",
+      "document_type": "Resilience Strategy"
+    }
+  },
+  {
+    "id": "266ca056-41d6-442e-a87f-c6f7693aba41",
+    "document_id": "recpNhcHiOXwm1oRT",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Development Knowledge of Toyama City",
+    "publisher": "The World Bank",
+    "year": 2015,
+    "city": "Toyama",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Asia & Asia Pacific Oceania/Toyama-Japan/Development-Knowledge-of-Toyama-City.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:44:18.000Z",
+      "airtable_id": "recpNhcHiOXwm1oRT",
+      "source_file": "Development-Knowledge-of-Toyama-City.pdf",
+      "document_type": "Report"
+    }
+  },
+  {
+    "id": "08a1797d-322d-4f9e-b6b5-d0bb22cc1800",
+    "document_id": "recqN26rCjprH0O07",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Lisbon Resilience Strategy",
+    "publisher": "C\u00e2mara Municipal de Lisboa",
+    "year": 2016,
+    "city": "Lisbon",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Europe & Middle East/Lisbon-Portugal/56369_lisbonactionplanv120160727small.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:50:33.000Z",
+      "airtable_id": "recqN26rCjprH0O07",
+      "source_file": "56369_lisbonactionplanv120160727small.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "434d86e1-2a19-4cbd-8b43-32000a3c257d",
+    "document_id": "recqgZ0PHsBT3z63P",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Paris Climate Action Plan",
+    "publisher": "Mairie de Paris",
+    "year": 2018,
+    "city": "Paris",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Europe & Middle East/Paris-France/Paris_-_Paris_Climate_Action_Plan.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:51:38.000Z",
+      "airtable_id": "recqgZ0PHsBT3z63P",
+      "source_file": "Paris_-_Paris_Climate_Action_Plan.pdf",
+      "document_type": "Climate Action Plan"
+    }
+  },
+  {
+    "id": "8511c8ea-905f-472e-aa5f-398d080db5c5",
+    "document_id": "recrBGxLRgZHSVCGY",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Athens Resilience Strategy for 2030",
+    "publisher": "City of Athens",
+    "year": 2017,
+    "city": "Athens",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Europe & Middle East/Athens-Greece/Athens-Resilience-Strategy-English.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:47:04.000Z",
+      "airtable_id": "recrBGxLRgZHSVCGY",
+      "source_file": "Athens-Resilience-Strategy-English.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "044b4724-87a3-4ba6-9761-ec5d3fff7a11",
+    "document_id": "recre9HLFbFkN0ch3",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Climate Strategy for Oslo",
+    "publisher": "City of Oslo",
+    "year": 2020,
+    "city": "Oslo",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Europe & Middle East/Oslo-Norway/Climate-Strategy-for-Oslo_short-version.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:51:24.000Z",
+      "airtable_id": "recre9HLFbFkN0ch3",
+      "source_file": "Climate-Strategy-for-Oslo_short-version.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "a4e210cb-150c-4ad2-9d1c-cd225772a3b3",
+    "document_id": "recs44xciiR5v1EKg",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Climate Action Plan Update",
+    "publisher": "City of Boston",
+    "year": 2019,
+    "city": "Boston",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/North America/Boston-US/city_of_boston_2019_climate_action_plan_update_4.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:56:06.000Z",
+      "airtable_id": "recs44xciiR5v1EKg",
+      "source_file": "city_of_boston_2019_climate_action_plan_update_4.pdf",
+      "document_type": "Climate Action Plan"
+    }
+  },
+  {
+    "id": "3322f0d4-7449-47c9-8550-b59aa59545fe",
+    "document_id": "recs8DLewqIRdrGGM",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Improving Surat's Flood Resilience",
+    "publisher": "Arup",
+    "year": 2012,
+    "city": "Surat",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Asia & Asia Pacific Oceania/Surat-India/case-study-improving-surat's-flood-resilience.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:43:39.000Z",
+      "airtable_id": "recs8DLewqIRdrGGM",
+      "source_file": "case-study-improving-surat's-flood-resilience.pdf",
+      "document_type": "Case Study"
+    }
+  },
+  {
+    "id": "d2bed3f1-8ee7-4ad8-b75c-d467d44f8d6e",
+    "document_id": "recseyl1YzwlGcNRR",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Montevideo Resilient",
+    "publisher": "Intendencia de Montevideo",
+    "year": 2018,
+    "city": "Montevideo",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Latin America & Caribbean/Montevideo-Uruguay/Montevideo-Resilience-Strategy-English.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:54:16.000Z",
+      "airtable_id": "recseyl1YzwlGcNRR",
+      "source_file": "Montevideo-Resilience-Strategy-English.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "be8453e6-0e7a-474e-ae68-8c354ec8cd05",
+    "document_id": "recsi1NvhNv4t5jA0",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Picture of the Big One",
+    "publisher": "Wellington Lifelines Group",
+    "year": 2019,
+    "city": "Wellington",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Asia & Asia Pacific Oceania/Wellington-New-Zealand/Wellington-Lifelines-PBC-MAIN-Combined-20191009.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:44:49.000Z",
+      "airtable_id": "recsi1NvhNv4t5jA0",
+      "source_file": "Wellington-Lifelines-PBC-MAIN-Combined-20191009.pdf",
+      "document_type": "Report"
+    }
+  },
+  {
+    "id": "b8615ae4-3f27-470b-ace5-684d8309649c",
+    "document_id": "recsxaQ7UZIFjlU17",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "The Development Story of Toyama",
+    "publisher": "The World Bank",
+    "year": 2015,
+    "city": "Toyama",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Asia & Asia Pacific Oceania/Toyama-Japan/The-Development-Story-of-Toyama-Reshaping-Compact-and-Livable-Cities.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:44:25.000Z",
+      "airtable_id": "recsxaQ7UZIFjlU17",
+      "source_file": "The-Development-Story-of-Toyama-Reshaping-Compact-and-Livable-Cities.pdf",
+      "document_type": "Report"
+    }
+  },
+  {
+    "id": "07c89c90-e671-4435-9c38-2b3d0d2089ef",
+    "document_id": "rectJp4j1z5bqjYJY",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Lagos Resilience Strategy",
+    "publisher": "Lagos State Resilience Office",
+    "year": 2020,
+    "city": "Lagos",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Africa/Lagos-Nigeria/Lagos-Resilience-Strategy-English.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:39:35.000Z",
+      "airtable_id": "rectJp4j1z5bqjYJY",
+      "source_file": "Lagos-Resilience-Strategy-English.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "6c066355-def4-4076-bf54-22885677bc9f",
+    "document_id": "rectQg210FFvbrzTK",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Tbilisi Resilience Strategy",
+    "publisher": "Tbilisi City Hall",
+    "year": 2017,
+    "city": "Tbilisi",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Europe & Middle East/Tbilisi-Georgia/Tbilisi_Resilience-Strategy-English.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:52:34.000Z",
+      "airtable_id": "rectQg210FFvbrzTK",
+      "source_file": "Tbilisi_Resilience-Strategy-English.pdf",
+      "document_type": "Resilience Strategy"
+    }
+  },
+  {
+    "id": "5a0399c9-46a4-4621-9487-cc2287a3efa7",
+    "document_id": "rectZvfZIuqxjnDMY",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Resilient Seattle",
+    "publisher": "City of Seattle",
+    "year": 2018,
+    "city": "Seattle",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/North America/Seattle-US/Resilient-Seattle_ONLINE.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-23T00:01:42.000Z",
+      "airtable_id": "rectZvfZIuqxjnDMY",
+      "source_file": "Resilient-Seattle_ONLINE.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "f13d6b60-292d-489f-ae7f-a2d151d2511b",
+    "document_id": "recuIiZubjtfON5nS",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Rome Resilience Strategy",
+    "publisher": "Roma Capitale",
+    "year": 2018,
+    "city": "Rome",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Europe & Middle East/Rome-Italy/Rome-Resilience-Strategy-English.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:51:55.000Z",
+      "airtable_id": "recuIiZubjtfON5nS",
+      "source_file": "Rome-Resilience-Strategy-English.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "a78751ba-b8d8-43bc-88c7-d90bc30392e4",
+    "document_id": "recuSz7UThNmYbnAl",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Hong Kong's Climate Action Plan 2030+",
+    "publisher": "Environment Bureau",
+    "year": 2017,
+    "city": "Hong Kong",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/China/Hong-Kong/HK_Climate_Action_Plan_2030+_booklet_En.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:45:43.000Z",
+      "airtable_id": "recuSz7UThNmYbnAl",
+      "source_file": "HK_Climate_Action_Plan_2030+_booklet_En.pdf",
+      "document_type": "Action Plan"
+    }
+  },
+  {
+    "id": "99805504-b5b1-47a5-a4cb-ab46ca6a19b7",
+    "document_id": "recuhMLcfvF7guX3H",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Greater Manchester Resilience Strategy",
+    "publisher": "Greater Manchester Combined Authority",
+    "year": 2020,
+    "city": "Greater Manchester",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Europe & Middle East/Greater-Manchester-UK/greater-manchester-resilience-strategy-2020-2030.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:49:45.000Z",
+      "airtable_id": "recuhMLcfvF7guX3H",
+      "source_file": "greater-manchester-resilience-strategy-2020-2030.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "418d345a-7d61-4ee8-a4ed-d6353a0364d6",
+    "document_id": "recv41ngUfaY1BwC9",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Net Zero Existing Buildings Strategy",
+    "publisher": "City of Toronto",
+    "year": 2021,
+    "city": "Toronto",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/North America/Toronto-CA/907c-Net-Zero-Existing-Buildings-Strategy-2021.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-23T00:02:21.000Z",
+      "airtable_id": "recv41ngUfaY1BwC9",
+      "source_file": "907c-Net-Zero-Existing-Buildings-Strategy-2021.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "9f9b7acb-f51b-49bb-8b98-bbec5b85ac7a",
+    "document_id": "recvEuwV2jRHVVzKx",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Accra Resilience Strategy",
+    "publisher": "Accra Metropolitan Assembly",
+    "year": 2019,
+    "city": "Accra",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Africa/Accra-Ghana/Accra-Resilience-Strategy-English.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:36:46.000Z",
+      "airtable_id": "recvEuwV2jRHVVzKx",
+      "source_file": "Accra-Resilience-Strategy-English.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "e5e4dfae-10f5-46b9-a67b-262e07958a3a",
+    "document_id": "recvXgG3HjeSOf7CI",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Myanmar Climate Change Strategy",
+    "publisher": "Ministry of Natural Resources and Environmental Conservation",
+    "year": 2019,
+    "city": "",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Asia & Asia Pacific Oceania/Mandalay-Myanmar/MyanmarClimateChangeStrategy_2019.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:41:34.000Z",
+      "airtable_id": "recvXgG3HjeSOf7CI",
+      "source_file": "MyanmarClimateChangeStrategy_2019.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "2973e4df-7d79-4252-9047-1c592309499f",
+    "document_id": "recvr08z7PYPUVz1c",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Karachi City Climate Change (Adaptation) Strategy",
+    "publisher": "International Union for Conservation of Nature",
+    "year": 2016,
+    "city": "Karachi",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Asia & Asia Pacific Oceania/Karachi-Pakistan/27915_100286295karachicityclimatechangead.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:41:01.000Z",
+      "airtable_id": "recvr08z7PYPUVz1c",
+      "source_file": "27915_100286295karachicityclimatechangead.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "de26baab-51c6-4130-9988-02dff2db296f",
+    "document_id": "recvz0kf2krvDCkzD",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Berlin Energy and Climate Protection Programme 2030",
+    "publisher": "Senate Department for the Environment, Transport and Climate Protection",
+    "year": 2018,
+    "city": "Berlin",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Europe & Middle East/Berlin-Germany/broschuere_bek_en.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:48:19.000Z",
+      "airtable_id": "recvz0kf2krvDCkzD",
+      "source_file": "broschuere_bek_en.pdf",
+      "document_type": "Programme"
+    }
+  },
+  {
+    "id": "d6adce91-04d0-45b5-b2ac-53c92d94fd99",
+    "document_id": "recwHSS7FbBZfPAc2",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Dakar Resilience Strategy",
+    "publisher": "Ville de Dakar",
+    "year": 2019,
+    "city": "Dakar",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Africa/Dakar-Senegal/Dakar-Resilience-Strategy-English.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:37:46.000Z",
+      "airtable_id": "recwHSS7FbBZfPAc2",
+      "source_file": "Dakar-Resilience-Strategy-English.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "c2374a64-be84-4d50-8e42-f3b4acb11176",
+    "document_id": "recwX1w3iDyK3CESB",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Barcelona Resilience Action Plan",
+    "publisher": "Ajuntament de Barcelona",
+    "year": 2018,
+    "city": "Barcelona",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Europe & Middle East/Barcelona-Spain/Barcelona-Resilience-Action-Plan_Toolkit.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:47:12.000Z",
+      "airtable_id": "recwX1w3iDyK3CESB",
+      "source_file": "Barcelona-Resilience-Action-Plan_Toolkit.pdf",
+      "document_type": "Action Plan"
+    }
+  },
+  {
+    "id": "8c369ebc-ff6b-4c77-b468-e44eb820b788",
+    "document_id": "recwoaBzEU7HOyFPB",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Resilient Louisville",
+    "publisher": "Louisville Metro Government",
+    "year": 2016,
+    "city": "Louisville",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/North America/Louisville-US/Louisville-Resilience-Strategy-English.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:58:18.000Z",
+      "airtable_id": "recwoaBzEU7HOyFPB",
+      "source_file": "Louisville-Resilience-Strategy-English.pdf",
+      "document_type": "Resilience Strategy"
+    }
+  },
+  {
+    "id": "cda0e4e8-a68c-4d0e-b7d8-553d8ed1bdf6",
+    "document_id": "recwvn6QPxKRKuh5F",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Resilient Vancouver",
+    "publisher": "City of Vancouver",
+    "year": 2019,
+    "city": "Vancouver",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/North America/Vancouver-CA/resilient-vancouver-strategy.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-23T00:03:14.000Z",
+      "airtable_id": "recwvn6QPxKRKuh5F",
+      "source_file": "resilient-vancouver-strategy.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "3e50d90d-9079-46e4-9beb-7ca1a8cd2f7c",
+    "document_id": "recwzee8EJJyTAW6F",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Resilient New Orleans",
+    "publisher": "City of New Orleans",
+    "year": 2015,
+    "city": "New Orleans",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/North America/New-Orleans-US/Resilient_New_Orleans_Strategy.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:59:38.000Z",
+      "airtable_id": "recwzee8EJJyTAW6F",
+      "source_file": "Resilient_New_Orleans_Strategy.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "25be3541-43e1-4c3b-b569-9dbe9e681f49",
+    "document_id": "recxQKm7sIwNNH5aB",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Resilient El Paso",
+    "publisher": "City of El Paso",
+    "year": 2018,
+    "city": "El Paso",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/North America/EI-Paso-US/City-of-El-Paso-Resilience-Strategy.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:57:32.000Z",
+      "airtable_id": "recxQKm7sIwNNH5aB",
+      "source_file": "City-of-El-Paso-Resilience-Strategy.pdf",
+      "document_type": "Resilience Strategy"
+    }
+  },
+  {
+    "id": "290c5e48-a33a-41e3-9d63-8d05b012d998",
+    "document_id": "recxaoFVySaH1lGQ1",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Resilient DC",
+    "publisher": "The Government of the District of Columbia",
+    "year": 2019,
+    "city": "Washington, D.C.",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/North America/WashingtonDC-US/Resilience Strategy - Washington DC.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-23T00:03:47.000Z",
+      "airtable_id": "recxaoFVySaH1lGQ1",
+      "source_file": "Resilience Strategy - Washington DC.pdf",
+      "document_type": "Resilience Strategy"
+    }
+  },
+  {
+    "id": "d3cf6c37-c091-45e7-b0ac-c40bea93d288",
+    "document_id": "recxqCxQs0AAjdiGs",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Salvador Resilient",
+    "publisher": "Prefeitura Municipal de Salvador",
+    "year": 2018,
+    "city": "Salvador",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Latin America & Caribbean/Salvador-Brazil/Salvador-Resilience-Strategy-English.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:54:37.000Z",
+      "airtable_id": "recxqCxQs0AAjdiGs",
+      "source_file": "Salvador-Resilience-Strategy-English.pdf",
+      "document_type": "Resilience Strategy"
+    }
+  },
+  {
+    "id": "5699c62c-03f1-4363-a7fc-8097dd67e938",
+    "document_id": "recxvwsvtditqbtFH",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "2021 Climate Action Report",
+    "publisher": "City of Boston",
+    "year": 2021,
+    "city": "Boston",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/North America/Boston-US/FY21 Boston Climate Action Report_2.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:55:58.000Z",
+      "airtable_id": "recxvwsvtditqbtFH",
+      "source_file": "FY21 Boston Climate Action Report_2.pdf",
+      "document_type": "Report"
+    }
+  },
+  {
+    "id": "a6703eb8-1279-4f5f-bf48-2a62c8f1b3a3",
+    "document_id": "recyEZlDIpVOhRiH1",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Resilient Norfolk",
+    "publisher": "City of Norfolk",
+    "year": 2015,
+    "city": "Norfolk",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/North America/Norfolk-US/Norfolk_Resilient_Strategy_October_2015.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:59:58.000Z",
+      "airtable_id": "recyEZlDIpVOhRiH1",
+      "source_file": "Norfolk_Resilient_Strategy_October_2015.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "80ff2eb9-33aa-4726-b1c4-46c0f6ff9209",
+    "document_id": "recyI3H546GjXqVz2",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Planning and Policies for Resilience in Dar es Salaam",
+    "publisher": "Cities Alliance",
+    "year": 2018,
+    "city": "Dar es Salaam",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Africa/Dar-es-Salaam-Tanzania/Project Fiche - TZ  Planning and Policies for Resilience in Dar es Salaam .pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:38:17.000Z",
+      "airtable_id": "recyI3H546GjXqVz2",
+      "source_file": "Project Fiche - TZ  Planning and Policies for Resilience in Dar es Salaam .pdf",
+      "document_type": "Project Fiche"
+    }
+  },
+  {
+    "id": "feab4889-ec2b-4ed4-af3e-bdd69a545f92",
+    "document_id": "recyIzgKiKckVTHFk",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Resilient Chicago",
+    "publisher": "City of Chicago",
+    "year": 2019,
+    "city": "Chicago",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/North America/Chicago-US/Resilient Chicago.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:57:11.000Z",
+      "airtable_id": "recyIzgKiKckVTHFk",
+      "source_file": "Resilient Chicago.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "24542a4a-99f1-4ea9-a998-4457656bb619",
+    "document_id": "recylJFtImqBlZfss",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Ekurhuleni Green City Action Plan",
+    "publisher": "City of Ekurhuleni",
+    "year": 2022,
+    "city": "Ekurhuleni",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Africa/Ekurhuleni-SouthAfrica/CoE-GCAP-Summary-Report-E-Version-20-05-22.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:39:17.000Z",
+      "airtable_id": "recylJFtImqBlZfss",
+      "source_file": "CoE-GCAP-Summary-Report-E-Version-20-05-22.pdf",
+      "document_type": "Action Plan"
+    }
+  },
+  {
+    "id": "b81afa55-639f-4f6b-98d8-5d1ffb04ba59",
+    "document_id": "recyo5Jm9mMIC8BHt",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Toyama City\u2019s Initiatives for the Realization of a Compact City",
+    "publisher": "Toyama City",
+    "year": 2016,
+    "city": "Toyama",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Asia & Asia Pacific Oceania/Toyama-Japan/7th-3r_ps2_p2.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:44:11.000Z",
+      "airtable_id": "recyo5Jm9mMIC8BHt",
+      "source_file": "7th-3r_ps2_p2.pdf",
+      "document_type": "Presentation"
+    }
+  },
+  {
+    "id": "9e809181-26b4-4353-9d94-1ac834358bc2",
+    "document_id": "recyqC0oFYaDwatMH",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Mexico City Resilience Strategy",
+    "publisher": "Government of Mexico City",
+    "year": 2016,
+    "city": "Mexico City",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Latin America & Caribbean/MexicoCity-Mexico/Mexico-City-Resilience-Strategy-English.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:54:08.000Z",
+      "airtable_id": "recyqC0oFYaDwatMH",
+      "source_file": "Mexico-City-Resilience-Strategy-English.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "344a535d-8e3a-443f-94dd-c60cea39f187",
+    "document_id": "recz21A9vARr8KYp3",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Te Atakura \u2013 First to Zero",
+    "publisher": "Wellington City Council",
+    "year": 2017,
+    "city": "Wellington",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Asia & Asia Pacific Oceania/Wellington-New-Zealand/Wellington-Resilience-Strategy-English.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:44:57.000Z",
+      "airtable_id": "recz21A9vARr8KYp3",
+      "source_file": "Wellington-Resilience-Strategy-English.pdf",
+      "document_type": "Strategy"
+    }
+  },
+  {
+    "id": "48b3e5cf-09ee-489f-a853-6242b600da6c",
+    "document_id": "reczY04ok1M2YJMN2",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Net-Zero by 2050",
+    "publisher": "City of New Orleans Office of Resilience and Sustainability",
+    "year": 2022,
+    "city": "New Orleans",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/North America/New-Orleans-US/Net-Zero-by-2050-A-Priority-List-for-Climate-Action-in-New-Orleans.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:59:32.000Z",
+      "airtable_id": "reczY04ok1M2YJMN2",
+      "source_file": "Net-Zero-by-2050-A-Priority-List-for-Climate-Action-in-New-Orleans.pdf",
+      "document_type": "Climate Action Plan"
+    }
+  },
+  {
+    "id": "cc76c608-1ab5-477c-a11a-5dc3ebc6cc5f",
+    "document_id": "reczhyJ79qdfPvq2K",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Montr\u00e9al 2030",
+    "publisher": "Ville de Montr\u00e9al",
+    "year": 2022,
+    "city": "Montr\u00e9al",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/North America/Montre\u0301al-CA/montreal_2030_strategic_plan_vdm.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:59:07.000Z",
+      "airtable_id": "reczhyJ79qdfPvq2K",
+      "source_file": "montreal_2030_strategic_plan_vdm.pdf",
+      "document_type": "Strategic Plan"
+    }
+  },
+  {
+    "id": "41b06228-6d01-4f50-a5fa-bd1d6663423f",
+    "document_id": "reczsn9wGODLIA861",
+    "created_at": "2025-12-11T03:08:25.346381+00:00",
+    "title": "Pune Resilience Strategy",
+    "publisher": "Pune Municipal Corporation",
+    "year": 2019,
+    "city": "Pune",
+    "url": "https://s3.amazonaws.com/resilience.urbantech.info/data/Asia & Asia Pacific Oceania/Pune-India/pune-resilience-strategy.pdf",
+    "extraction_cache_key": null,
+    "extracted_at": null,
+    "metadata": {
+      "updated": "2025-08-22T23:42:38.000Z",
+      "airtable_id": "reczsn9wGODLIA861",
+      "source_file": "pune-resilience-strategy.pdf",
+      "document_type": "Strategy"
+    }
+  }
+]
