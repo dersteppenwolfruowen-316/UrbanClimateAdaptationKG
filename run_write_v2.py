@@ -42,10 +42,11 @@ print("Merged relationships:", len(merged_graph["relationships"]))
 # =========================================================
 writer = Neo4jWriter(
     uri="bolt://localhost:7687",
-    user="kg_reader",
+    user="kg_writer",
     password="kgpassword123",
     database="beijingkgv2"
 )
+
 writer.write_graph(merged_graph)
 writer.close()
 print("Graph written to beijingkgv2 successfully.")
