@@ -30,6 +30,11 @@ kg_results = extract_from_documents(
 )
 print("Extraction completed.")
 
+with open("/Users/ruowen_vagabond/Desktop/Knowledge Graph - urban climate adaptation/data/kg_results.json", "w", encoding="utf-8") as f:
+    json.dump(kg_results, f, ensure_ascii=False, indent=2)
+
+print("kg_results saved to JSON.")
+
 # =========================================================
 # 3. Merge
 # =========================================================
