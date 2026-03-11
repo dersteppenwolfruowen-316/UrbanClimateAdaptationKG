@@ -1,0 +1,972 @@
+[Page 1]
+climate resilient by 2050:
+MAKING PROGRESS TOWARD
+
+[Page 2]
+TABLE OF
+FOREWORD
+INTRODUCTION
+TRANSPORTATION 
+AND UTILITIES
+BUILDINGS AND 
+DEVELOPMENT
+NEIGHBORHOODS 
+AND COMMUNITIES
+GOVERNANCE AND 
+IMPLEMENTATION
+CONCLUSION
+GLOSSARY
+
+[Page 3]
+FOREWORD letter from mayor muriel bowser address our vulnerabilities and proactively ensure those who are most economically and physically at risk do not disproportionately shoulder the burden. 
+The District has already taken steps to build a culture of resilience in which agencies collaborate to develop innovative solutions to our most complicated concerns.
+In 2019, I released Resilient DC: A Strategy to Thrive in the Face of Change, which aims to coordinate actions around climate change, inclusive growth, new technology, and building a safe and healthy Washington. recommendation of that plan.
+This strategy identifies the steps we will take in the near term to address the most urgent risks we face in a changing climate. It also outlines how we will regularly report on progress so we can better assess if we are on track to achieve our ambitious but essential goal to be climate resilient by 2050. 
+Sincerely,
+Muriel Bowser
+Mayor, District of Columbia warmer-nights/ ii tideandcurrents.noaa.gov: tidesandcurrents.noaa.gov/publications/Techrpt_090_2018_State_of_US_HighTideFlooding_with_a_2019_Outlook_Final.pdf iii Washingtonpost.com: washingtonpost.com/weather/2019/07/08/washington-dc-flash-flood-how-why-area-was-deluged-by-months-worth-rain-an-hour-monday/ 
+In 2016, The District Government plan for preparing for a changing climate. Since then, we have begun tackling these challenges with cross-disciplinary solutions, proving that, even without federal support, Washington DC is a climate leader. We have adopted the Clean Energy DC plan, which outlines how we will do our part to cut carbon pollution and updated Sustainable DC to ensure that all District residents will benefit from a healthier, greener, more livable city. We have drafted an amended 
+Comprehensive Plan that charts a course for resilience and climate change readiness. We must continue the progress we have achieved already in implementing the plans, and deliver on turning these great ideas into reality to ensure DC can thrive in a changing world. This document outlines the next steps for how we will build a 
+Climate change is already being felt here in the District. 
+Our summers are trending warmer, especially at night, providing less opportunity for relief.i In 2018, the District experienced 22 days with high-tide flooding, a huge increase from the three days we typically see.ii In July 
+2019 we experienced a month’s worth of rain in a matter of hours, overwhelming creeks and streams, pouring into metro stations, and trapping motorists in flooded streets.iii While historically, this type of storm has a less than 1% chance of happening in any year, it could be the new normal. Now is the time to ensure that we prepare.
+
+[Page 5]
+2018
+2019
+2019 forthcomingf orthcoming
+2016
+Climate analysis and actions from ce subsequent plans, priorities, and actions 
+Subsequen ce priorities and strategies recommended in CRDC Roadmap advancing climate resilience in the district 
+The evidence clearly indicates that climate change, once considered a problem for future generations, affects District residents and businesses today. The Fourth National Climate 
+Assessment (2018), which summarized the most recent research on climate change impacts across the nation, reiterated that increasing heavy rain and snow events, flooding, and rising temperatures are expected across the region. In line with these trends, six of the District’s hottest summers have occurred within the past 10 years, and 
+2018 was the wettest on record.1 To ensure our community can thrive, the District has committed to increasing the resilience of our residents, businesses, neighborhoods, and infrastructure. Achieving the District’s commitment to climate resiliency by 2050 requires ambitious action today—we must make forward-looking choices and targeted investments while monitoring our progress now and in the coming decades.
+Accordingly, this Climate Resilient by 2050 roadmap establishes a strategy to achieve further progress on actions 
+2016. As such, the roadmap does not address all strategies steps for the highest-impact actions.
+district plans that influenced implementation road map clean energy dc: This plan reimagines what a 21st century energy system could be and outlines a strategy to cut greenhouse gas emissions 50% by 2032.
+sustainable dc 2.0: The plan to make the 
+District of Columbia the healthiest, greenest, and most livable city in the United States, for all District residents.
+resilient dc: A strategy on how to ensure DC can thrive in the face of change, considering economic and population growth, climate change, and technological transformation.
+district hazard mitigation plan: Risk assessment and strategy to address natural and manmade hazards in the District.
+comprehensive plan: A 20-year framework that guides future growth and development in the District. 
+Covers land use, economic development, housing, environmental protection, transportation, and more.
+1. Weather.gov: weather.gov/media/lwx/climate/dcatemps.pdf and weather.gov/media/lwx/climate/dcaprecip.pdf
+
+[Page 6]
+Since 2016, the District has made strides in creating a resilient DC for all. For example, the District receives critical guidance on climate action from key stakeholders through the recently convened Climate Change and Resiliency 
+Commission (page 36) as well as the Ward 7 Equity Advisory 
+Group (page 24). Through this process, the District has achieved a better understanding of climate-related risks facing our city through detailed urban heat island (UHI) maps and more detailed building-level flood assessments. We protect residents by assessing the resilience of our housing stock (page 17) and by making deep investments in green infrastructure (page 12). Additionally, District agencies are incorporating future-looking climate information and planning efforts. For example, CRDC informed the recently released Resilient DC Strategy, Sustainable DC 2.0, and Clean 
+Energy DC plans as well as informing updates to the Hazard 
+Mitigation and Comprehensive plans. These actions represent 
+In 2018, the District’s Department of Energy and 
+Environment (DOEE) launched an effort to prioritize and accelerate implementation of the strategies within CRDC. In consultation with District agencies and community partners, 
+DOEE identified the highest-priority actions for near-term implementation, investigated opportunities to move those actions forward, and began developing a set of resilient design guidelines to support smart investments in buildings and infrastructure (see page 13). This report, summarizing this collaboration’s results, includes the following:
+• An overview of the CRDC plan;
+• An introduction to prioritized strategies from CRDC;
+• A summary of ongoing and upcoming programs, policies, and actions in the CRDC Plan’s four action categories: transportation and utilities, buildings and development, neighborhoods and communities, and governance and implementation; and
+• A conclusion describing our plan for measuring progress and stating a vision for the CRDC‘s future.
+overview of climate ready dc
+In the CRDC plan, the District outlined its climate risks and identified a series of preparedness actions. Due to climate change, the District will experience the following:2 
+• Warmer average temperatures;
+• Up to three times as many dangerously hot days;
+• Longer, hotter, and more frequent heat waves;
+• More frequent and intense heavy rain events;
+• Extreme weather, fueled by warmer temperatures and more water in the atmosphere;
+• Coastal and inland flooding; and
+• Higher tides resulting from rising sea levels.
+These changes will pose challenges for the District’s:
+• Infrastructure resources, including transportation, energy, water, and communication;
+• Community resources, including emergency services, medical services, human services, schools, housing, and government buildings;
+• Natural resources, including rivers, habitats, and species; and
+• Residents, especially those frontline communities that are more exposed and sensitive to climate-related hazards.3
+2. For further details on DC’s climate risks, please see the companion document to this report, CRDC, available online (sustainabledc.org/wp-content/uploads/2019/04/sdc-2.0-Edits-V5_ web.pdf). The above list is from the report’s Climate Change Impacts section.
+3. As climate science continues to improve, the District Government commits to staying engaged and to update our projections and risk assessments as needed.
+resilience is the capacity of individuals, communities, institutions, businesses, and urban systems to survive, adapt, and thrive, no matter what kinds of chronic stresses and acute shocks they experience. 
+- resilient dc frontline communities are groups of people directly and indirectly impacted by climate change at a disproportionate rate when compared to other groups. These groups tend to have less access to resources and protections due to income, age, gender and gender identity, race, disability, sexual orientation, etc. – National Association for the Advancement of Colored People, Environmental and 
+Climate Justice Program.
+(2019). Our communities, our power: Advancing resistance and resilience in climate change adaptation action toolkit.
+
+[Page 7]
+transportation + utilities (18 actions around energy, water, communications, and transportation) buildings + development (23 actions around critical facilities, new and existing buildings, land-use planning, and efficiency) neighborhoods + communities (18 actions around emergency preparedness, the urban heat island, community cohesion, and neighborhood - scale strategies) governance + implementation (18 actions around climate science and analysis, aligning planning efforts, and implementing CRDC)
+CLIMATE 
+READY DC (77 total actions)
+The CRDC plan outlines a series of strategies to respond to these projected climate impacts. CRDC’s development included active involvement of stakeholders from the 
+District’s agencies, regional organizations, and the federal government as well as dedicated community members that submitted over 300 comments. The plan includes 
+77 actions categorized into four sectors: Transportation and Utilities (TU), Buildings and Development (BD), 
+Neighborhoods and Communities (NC), and Governance and Implementation (GI). This Roadmap’s next sections provide more in-depth discussions of each sector, including our progress and next steps.
+roadmap process 
+In 2018, DOEE led a process to determine priority areas for near-term implementation. While the District is working to advance all 77 actions, given limited resources and time, 
+DOEE used this process to determine which actions to prioritize and accelerate in the near-term. In collaboration with other agencies, DOEE developed criteria through which to evaluate all CRDC actions in an effort to begin developing an implementation roadmap (below). This involved conducting a series of interviews with key stakeholders, a review of public comments collected during the Sustainable DC 2.0 process, analysis of other District and peer city plans, and stakeholder workshops.
+The action-selection process included an initial screening, designed to narrow the number of total actions, and a final screening to determine actions for near-term implementation. 
+Selection was based on qualitative analysis, with each component weighted equally. 
+The initial screening used two categories: 
+• Urgency: assessing the likelihood of risk addressed by the action and how soon the District can be expected to experience that risk; and
+• Impact: assessing the extent of social, economic, environmental, and physical improvements if the action is taken.
+urgency, impact (77) jurisdiction, readiness, financing (35) final selection (7) projected risk extreme heat and flooding pose to the District's infrastructure and community resources
+
+[Page 8]
+ACTION
+DESCRIPTION
+NEIGHBORHOODS & 
+COMMUNITIES
+NC 15.2
+Establish community resilience hubs, which would locate emergency preparedness and response supplies in community facilities, whether privately or publicly owned (e.g., churches, community centers).
+BUILDINGS & DEVELOPMENT
+BD 6 (6.1, 
+6.2, and 7.4) (6.1) Evaluate the most critical facilities to identify those with or without existing back-up power systems; determine if they are above flood elevations, in good working order, and provide the appropriate capacity for that facility type.
+(6.2) Flood proof the most critical facilities to protect against future events accounting for sea level rise and increasingly severe precipitation events.
+(7.4) Evaluate the public housing portfolio for vulnerability to extreme heat and flooding and incorporate resilience in future capital improvement plan.
+NEIGHBORHOODS & 
+COMMUNITIES
+NC 12.1
+Encourage active participation by residents and businesses in disaster preparedness, response, and recovery training programs, including the Community Emergency Response 
+Team (CERT) volunteer program.
+NEIGHBORHOODS & 
+COMMUNITIES
+NC 13 (13.1, 
+13.2, 13.3) (13.1) Develop thermal mapping of the District to identify UHI hotspots, frontline residents, and areas with the greatest potential for cooling.
+(13.2) Reduce the UHI effect and increases in outside air temperatures with cool and green roofs, expanded green space, tree planting and tree protection efforts, prioritizing hotspots and areas with the greatest number of frontline residents. Incorporate UHI mitigation into planning for green infrastructure, tree canopy, and public space initiatives.
+(13.3) Evaluate existing cooling centers, based on the location, accessibility, and needs of frontline residents. Consider areas for pets, security, sign-language interpreters, child friendly amenities, accessible restrooms, medical assistance, back-up power, sleeping areas, drinking water, and proximity to transit.
+NEIGHBORHOODS & 
+COMMUNITIES
+NC 12.3
+Identify opportunities to reduce the economic impacts of severe weather and heat-related events on frontline residents through existing programs and new partnerships to reduce utility bills and make homes more resilient.
+TRANSPORTATION & UTILITIES
+TU 3
+Increase combined sewer and separate stormwater system capacity with green and gray infrastructure, including rain gardens, green roofs, trees, cisterns, and pervious pavement. 
+Focus first on areas that flood regularly, have steep topography, or have known drainagecapacity issues.
+BUILDINGS & DEVELOPMENT
+BD 7.3
+Expand existing incentive programs to include thermal safety and UHI mitigation measures, such as cool roofs, solar shading, and shade trees.
+The initial screening enabled DOEE to narrow the total number of actions, from 77 to 35, adjusting raw scores to ensure a roughly equal distribution throughout the four strategy categories (i.e., TU, BD, NC, GI). The final screening incorporated the following additional categories: 
+• Jurisdiction: Assessing the District Government’s control over the action and any mandates related to that action.
+• Readiness: Assessing the District’s capacity to act, its demonstrated progress, alignments with other District priorities, and the political will for the action.
+• Financing: Assessing upfront costs, ongoing costs, avoided costs, and internal/external funding for the action.
+Based on the full screening, DOEE identified seven actions to advance by designing more detailed implementation strategies. The prioritization process included combining some actions that could be addressed simultaneously. In addition to these seven actions, several actions scored highly, but they were already underway or completed. This document does not include implementation plans for these actions. A list of the prioritized actions follows.
+
+[Page 9]
+Through this process, DOEE and its stakeholders identified extreme heat as a key priority for near-term actions. Three of the seven prioritized strategies — NC 13, NC 12.1, and BD 7.3 — focus on minimizing risks from heat and are interrelated. NC 13: 
+Comprehensive Extreme Heat Management Strategy calls for the creation of a comprehensive approach to heat planning that sets a vision for how the District will combine physical and social interventions to protect people. NC 12.1: Building Community Heat 
+Stress Preparedness and Response Capabilities and BD 7.3: Incentives and Financing to Mitigate the UHI Effect both discuss specific interventions that will be included in the comprehensive heat strategy. nc 13 - comprehensive heat strategy nc 12.1 building community heat stress preparedness and response capabilities other strategies (e.g., expanding the tree canopy, promoting cool pavement) bd7.3 incentives and financing to mitigate the urban heat island
+Air Temperature 
+101.9°F
+92.4°F
+85.4°F
+URBAN HEAT ISLAND shandas, v.; voelkel, j.; williams, j.; hoffman, j. integrating satellite and ground measurements predicting locations of exreme urban heat. climate 
+2019, 7, 5.
+measurements taken on august 28, 2018 at 3:00 pm. reported temperature 88ºf.
+
+[Page 10]
+strategic implementation plans 
+Equipped with a clear sense of priorities, DOEE developed the following strategic implementation roadmap to guide action in the near-term. For each of the four sectors featured in the CRDC, this roadmap explores current activities and next steps. Within each category, the document provides a more detailed strategy for making progress on high-priority actions identified in the screening process. DOEE worked with District agencies, listed as key implementers in the original CRDC plan, to determine timelines, potential key partners, financial considerations, and indicators for each priority action.
+
+[Page 12]
+Improve transportation and utility infrastructure to maintain viability during periods of extreme heat, severe weather, and flooding. transportation & utilities – overview 
+Transportation and utility systems—including energy, water, communication, and transportation systems—prove essential for ensuring that District residents receive the core services they need to lead healthy and productive lives. As these systems are threatened by a changing climate, the District has made it a priority to thoroughly and strategically retrofit, adapt, and futureproof transportation and utility systems to ensure long-term viability.
+The District will work with public and private transportation and utility operators to maintain standard services and to recover quickly during extreme weather events. We will leverage ongoing investments and planned retrofits to more rapidly and cost-effectively integrate resilience capabilities within our infrastructure. The District will approach each system (i.e., energy, water, communication, transportation) with a distinct set of strategies.
+current activities
+Since CRDC’s launch, the District Government has started working on several initiatives that address these critical systems’ components: 
+• The District’s Homeland Security and 
+Emergency Management Agency hired a Critical 
+Infrastructure Specialist, who is responsible for working with the State Hazard Mitigation Officer to identify all key infrastructure facilities and systems at risk from sea level rise and flooding, and for developing site-specific plans to prepare for and to mitigate this risk. 
+• The Public Service Commission is conducting grid modernization planning, exploring options to improve the reliability of the District’s energy provision.
+• The DC Department of Transportation (DDOT) has continued to implement its green infrastructure program—a living network that connects landscape areas, natural areas, and waterways to mimic nature and to protect critical transportation systems through improved water management and shading.
+• DC Water is building a seawall around the Blue 
+Plains Advanced Wastewater Treatment Plant, and has completed the First Street Tunnel to increase stormwater capacity and the first part of the Anacostia 
+River Tunnel Project.
+ACTIONS
+TU 1.0: Develop site-level adaptation plans for all facilities and service areas identified as at-risk from sea level rise and flooding.
+TU 2.0: Increase the resilience of energy systems.
+TU 3.0: Increase the resilience of drinking water, wastewater, and stormwater systems.
+TU 4.0: Increase the resilience of communication systems.
+TU 5.0: Increase the resilience of transportation systems.
+Table 1 - CRDC Action Areas for Transportation & Utilities
+SPOTLIGHT ON PROGRESS: 
+STORMWATER RETENTION CREDIT 
+TRADING PROGRAM 
+Initially rolled out in 2013, DOEE’s Stormwater 
+Retention Credit (SRC) Trading Program allows property developers to meet green infrastructure mandates by purchasing off-site credits.4 Developers maximize the benefits from their credit purchases by using credits, generated by green infrastructure, in the areas served by the Municipal Separate 
+Storm Sewer System (MS4). Currently, MS4 stormwater goes directly into District waterways without treatment, but credit-generating green infrastructure projects (such as rain gardens, green roofs, and rain barrels) can slow, capture, and filter stormwater runoff. Once generated, SRCs can be sold to developers through the market or directly to DOEE at fixed prices through DOEE’s SRC 
+Price Lock Program. The SRC Price Lock Program offers certainty about revenues from selling credits, and it helps investors commit funding to green infrastructure projects where they are most needed. 
+By incentivizing development of green infrastructure in areas that are not otherwise undergoing development, the SRC Trading program improves water quality in the MS4 and may help address inequitable flood and UHI risk faced by residents.
+4. DC Department of Energy and Environment: doee.dc.gov/src
+
+[Page 13]
+SPOTLIGHT ON PROGRESS: 
+RESILIENT DESIGN GUIDELINES
+In close collaboration with the Resilient DC initiative and other District agencies, the District is developing a series of resilient design guidelines to inform the design of public buildings and infrastructure. These guidelines will be integrated into District processes to ensure that future risks are accounted for during renovations and new construction. To serve as a resource, the guidelines will be made available to the wider District development community.
+next steps
+• Recognizing the systemic risk posed by sea-level rise and flooding in the near-term, the District will focus its activities on ensuring that the sewer and stormwater system manages more rain to reduce flood risks (TU 
+3.2 & 3.6). To support this process, DOEE will develop a comprehensive flood model, which will show how coastal, riverine, and inland flooding interact. The model will help the District identify areas susceptible to flooding and to identify options for increasing stormwater capture and conveyance. 
+• In addition, the District Government is developing resilient design guidelines for the public realm focusing on how to prepare new and existing roadways, sidewalks, and parks for climate change.5
+
+ measuring progress on our long-term goal
+To improve transportation and utility infrastructure to maintain viability during periods of extreme heat, severe weather, and flooding, the District will need to make improvements to energy, water, communications, and transportation systems. Sustainable DC 2.0 includes a target that requires 100% of all new major infrastructure to consider climate risks and to identify adaptation solutions by 2032, putting us on the path to meeting this goal.
+5. District Department of Transportation: ddot.dc.gov/PublicRealmDesignManual
+CRDC FOCAL 
+AREA 
+OVERARCHING 
+GOAL
+OUTPUT INDICATOR
+EXAMPLE OUTCOME 
+INDICATOR
+EXAMPLE PERFORMANCE 
+STANDARD
+TRANSPORTATION 
+AND UTILITIES
+Improve transportation and utility infrastructure to maintain viability during periods of extreme heat, severe weather, and flooding.
+Number of transportation and utility projects that specifically incorporate climate projections into planned or implemented design and operations.
+Estimated costs saved through adaptive measures, including greening, hardening, retrofitting, or relocating utility and transportation assets.
+Setting a minimum time in which transportation or utility assets should be expected to return to normal functionality after a reasonably expected severe weather event, based on climate projections.
+Figure 1 - Transportation and Utilities Indicators
+INSPIRING IDEAS
+Ann Arbor, Michigan
+Ann Arbor incorporates climate change into its stormwater management. As their floodplains expand, they have become concerned about locations of critical facilities, insurance burdens, repetitive losses, public health risks from combined sewer overflows (CSOs), erosion, and service disruptions. Accordingly, Ann Arbor has created a stormwater model using Atlas 14 data, a tool from 
+NOAA that measures precipitation frequency; this has allowed them to visualize (map) and assess the potential effects from differently sized storm events, identify problem areas, and optimize solutions. 
+Gauging success will take finding specific, observable, and measurable indicators that capture the desired outcome of having climate-resilient transportation and utility infrastructure. As we implement projects, we will collect data and identify lessons, with the goal of developing these outcome-focused indicators. This could include estimated costs saved through adaptive measures, including greening, hardening, retrofitting, or relocating utility and transportation assets. Recognizing that infrastructure’s primary purpose is to keep people safe and our city operational, we will explore performance standards such as minimum times in which transportation or utility assets should be expected to return to normal functionality after a severe weather event. 
+In the meantime, we will report on the number of transportation and utility projects that specifically incorporate climate projections into planned or implemented design and operations. These will apply to new construction and to improvements in existing assets.
+
+[Page 14]
+tu 3.0: futureproof sewer and stormwater systems
+Update design standards for water and drainage infrastructure to address precipitation’s projected increase and intensity, particularly in the District’s MS4 area; increase the stormwater system’s capacity through green and gray infrastructure. description
+The District, led by efforts at DOEE, DC Water, and DDOT, has become a national leader in utilizing green and gray infrastructure to better manage stormwater and to reduce harmful runoff into DC’s rivers and streams. However, climate change will increase the frequency and intensity of heavy rainfall events, challenging the District’s sewer and stormwater systems’ ability to prevent flooding, runoff, and sewage discharges. These challenges will be further exacerbated by sea level rise. This means the District will require even more stormwater management and blue-green infrastructure. 
+Acknowledging these needs, the District Government will develop improved and climate-informed flood models. These will allow the District to identify which communities are most exposed and sensitive to flooding, and where targeted stormwater management planning is needed. 
+SUMMARY INFORMATION
+
+Outputs:
+• Updated stormwater model and projections for precipitation risk
+• Neighborhood-level flood plans
+• Additional flood-management investments including green, blue, and grey infrastructures
+Performance Indicators:
+• Number of blue-green infrastructure projects planned and implemented
+• Estimated reduction in runoff volumes that would discharge to combined and 
+MS4 systems under selected climate change scenarios
+Co-Benefits:
+• Aesthetic, quality of life carbon sequestration benefits from blue-green infrastructure projects in neighborhoods
+• Improved public health from reduced combined sewer overflows (CSOs)
+
+Key Partners: DOEE, DC Water, US Army 
+Corps of Engineers, DDOT, VA DOT, National 
+Park Service, U.S. Geological Survey
+• Groundwater flooding from heavy rainfall not absorbed by the ground and overwhelming the existing sewer and stormwater system.
+Once complete, the model will allow the District to determine which locations are most susceptible to flooding, and to build green infrastructure or other projects that can reduce such risks. The model can also be used by the stormwater program to assess locations where new green infrastructure will most benefit water quality. 
+2.  Develop climate-change adjusted IntensityDuration-Frequency (IDF) curves to inform decisions about stormwater management. IDF curves draw on historic rainfall records, measured through monitoring stations to graph the intensity, duration, and frequency of local precipitation patterns. These curves are often used to determine the magnitude and probability of storms in designing stormwater infrastructure to better meet local needs. As these curves rely on historical data, and climate change is 
+IMPLEMENTATION STRATEGY FOR HIGH PRIORITY ACTION sub-actions
+Actions to futureproof the District’s sewer and stormwater systems include the following:
+1.  Develop an integrated flood model to better account for inland flood risks. 
+An integrated flood model will help the District better prepare and plan for climate change as it will provide insights into the interactions of various flood risk sources, including: 
+• Riverine flooding, caused by heavy rainfall or snowmelt, which can lead to overbanking on the Potomac and backwater flooding on the 
+Anacostia River.
+• Coastal flooding from high tides and coastal storms pushing water up the Potomac and 
+Anacostia Rivers.
+
+[Page 15]
+changing these patterns, IDF curves may not correctly describe the District’s current and future risks. 
+Investing in climate analysis to adjust the District’s 
+IDF curve to incorporate future precipitation patterns associated with climate change will allow better planning. In particular, climate-adjusted IDF curves can be integrated into resilient design guidelines for infrastructure and stormwater regulations.
+3. Develop community-based stormwater management plan(s) for high flood risk areas, ideally defined by natural geographic boundaries such as subwatersheds and catchment areas. Plans should actively encourage community participation to best identify solutions that meet local needs. 
+After the integrated flood model analysis and IDF curve revisions, the District will have a strong understanding of which neighborhoods are vulnerable to coastal, riverine, and rainfall flooding. In collaboration with community members, the 
+District will develop a series of neighborhood-level plans and green infrastructure investments to manage local flood risks. 
+INSPIRING IDEAS
+Philadelphia’s Green City, Clean Waters
+In 2011, Philadelphia’s Green City, Clean Waters program was adopted to reduce stormwater pollution from the City’s combined sewer system.6 The program emphasizes use of green infrastructure, and helped initiate thousands of stormwater retrofits. Green City, Clean Waters is helping Philadelphia adapt to climate change by decentralizing stormwater management practices throughout the city, making it easier to accommodate changing conditions that are not entirely predictable. 
+6. City of Philadelphia, Office of Sustainability: phila.gov/water/sustainability/greencitycleanwaters/Pages/default.aspx
+
+[Page 17]
+Retrofit existing buildings and design new buildings and development projects to withstand climate change impacts. 
+ACTIONS
+BD 6.0: Provide backup power for emergencies at all identified critical facilities. Ensure that existing backup power systems are located above projected flood elevations.
+BD 7.0: Improve thermal safety and indoor building temperatures to increase resilience to extreme heat, especially in the event of a power outage.
+BD 8.0: Pursue deep energy and water efficiency in buildings.
+BD 9.0: Incorporate climate resilience into development planning and review processes.
+BD 10.0: Leverage land-use planning to promote resilience.
+BD 11.0: Provide incentives to encourage private property owners and developers to implement floodresiliency measures.
+Table 2 - CRDC Action Areas for Buildings & Development buildings and development – overview
+To protect people from higher temperatures and flooding, the District’s existing and new buildings must be futureproofed against climate change impacts. It is easier and less expensive to integrate resilient design principles into new construction. Therefore, the District is developing guidance on how to enhance new buildings to withstand climate hazards. That said, many existing buildings will continue to be inhabited for decades to come, so we must find ways to improve their resilience too. 
+SPOTLIGHT ON PROGRESS: 
+MULTIFAMILY RESILIENCE AND 
+SOLAR ASSESSMENT TOOL
+Through a 2018 grant to a team led by 
+Enterprise Community Partners, the District developed a Multifamily Resilience and Solar 
+Assessment Tool to comprehensively identify opportunities to improve the resilience of affordable housing properties to climate change impacts. The tool was piloted across 
+20 properties in the District. Owners of the pilot properties received comprehensive assessment reports, detailing recommended retrofits and cost estimates. In the grant’s second year, the team is working to support its use by owners of affordable housing across the District.
+These natural hazards can also strain resources, such as electricity and water, which support buildings and their occupants. Buildings that operate more efficiently and use less energy will perform better during extreme weather events when these resources will most likely be in short supply. This way, resilient buildings will also help cut greenhouse gas emissions. 
+Increasing the resiliency of District public and private facilities will require new and revised policies, programs, and incentives. 
+The DC Green Finance Authority (or DC Green Bank) could support investments that reduce greenhouse gas emissions and improve climate preparedness. Additionally, the District can leverage hazard and flood mitigation grants from the federal government to spur resilience in the built environment. DOEE currently collaborates with an array of stakeholders to identify pathways that support the activities outlined here. current activities
+To date, the District has developed a series of policies and programs to encourage climate-ready buildings and development: 
+• Since the release of the CRDC plan, the Office of Planning (OP) has incorporated resilience throughout the current draft of DC’s Comprehensive Plan, in recognition that this is a cross-cutting issue, affecting all sectors and segments of society. The Comprehensive Plan established the 20-year framework guiding the District’s future growth and development. Incorporating resilience ensures that the District will continue to thrive as we adapt to climate change impacts. 
+• In 2018, the DC Green Finance Authority was created to use public-purpose financing to attract private investments for meeting sustainability goals, with an initial focus on energy efficiency and renewable energy investments. The 
+Bank’s initial programs will launch in 2020.
+
+[Page 18]
+The District also has developed policies and programs that use green infrastructure to address flooding and urban heat.
+• The RiverSmart program has helped reduce stormwater runoff in the District for nearly a decade, providing financial incentives to help homeowners, nonprofit organizations, and schools install green infrastructure on their properties. 
+• The District Stormwater Retention Credit (SRC) Trading 
+Program allows property developers to meet green infrastructure mandates by purchasing off-site credits in DC’s Municipal Separate Storm Sewer System (MS4) area, helping to address inequitable flooding and heat impacts across the District. The District’s revised 
+Green Area Ratio (GAR) zoning regulation, released in 2017, also encourages cool and green roofing on private buildings, helping address the UHI effect and stormwater management. 
+• DOEE collaborates with District planners to incorporate resilient design into significant planning efforts, such as the Buzzard Point Vision Framework. next steps
+• The District Government is focused on ensuring that public and private critical facilities are more resilient against power outages, flooding, and extreme temperatures (BD 6 and BD 7.3). This work will provide residents with access to crucial resources when the need becomes greatest. Where possible, these resiliency improvements will focus on sustainable interventions, such as encouraging clean energy for back-up power. 
+• In addition, the District is developing resilient design guidelines to prepare schools and other critical public facilities for climate change. This guidance document will inform capital investments, including school 
+SPOTLIGHT ON PROGRESS: 
+DGS SMARTROOF PROGRAM
+In 2015, the SmartRoof Program, run by the 
+District’s Department of General Services (DGS) assessed over 250 acres of District-owned roofs, analyzing each for its suitability for solar photovoltaics (PVs), solar thermal, green roofs, daylighting, or cool roofs. Roof retrofits offer a cost-effective way to reduce energy consumption and the UHI effect, while improving thermal comfort, air quality, and stormwater management. 
+The assessments identified dozens of sites that could benefit from roof improvement projects, allowing DGS to install over 150,000 square feet of SmartRoof measures across the District.
+modernization projects that improve safety and reduce building operational costs.
+• OP, DOEE, and DC Health will analyze green infrastructure implementation to: (1) assess its effectiveness in reducing 
+UHIs and its impact on communities most at risk of heat-related illnesses; and (2) identify community-driven solutions for future policies.
+7. The City and County of San Francisco: onesanfrancisco.org/sea-level-rise-guidance
+INSPIRING IDEAS
+San Francisco, California
+In 2014, San Francisco’s Capital Planning Committee developed its Guidance for Incorporating Sea Level 
+Rise into Capital Planning in San Francisco.7 The document describes department-specific procedures for considering the risk of sea-level rise in new capital planning and critical infrastructure projects. To illustrate how to apply the guidance, the document provides examples of how a police station, visitor center, and shoreline park would be evaluated based on the suggested vulnerability, risk, and adaptation opportunity assessments.
+measuring progress on our long-term goal To meet our overarching goal of retrofitting existing buildings and designing new projects to withstand climate change impacts, the District will need to promote new design techniques, integrate resilience into energy efficiency policies, provide targeted incentives to property
+
+[Page 19]
+owners, and use land-use planning to encourage smart development. Sustainable DC 2.0 includes a target to require 
+100% of all new buildings to consider climate risks and identify adaptation solutions by 2032.
+Good climate indicators should do more than measure output; they should showcase our progress in achieving resilience outcomes. In other words, it is not only important that buildings and developments consider climate change in designs—we want spaces that are actually safer. We will use early implementation efforts to collect data and lessons to develop these outcome indicators. These could include estimated costs saved through integrating climate risks into design decisions or the percentage of residents living in buildings designed to withstand reasonably expected climate hazards. In addition to developing outcome indicators, the District may explore building performance standards for resilience. For example, we could require that all new buildings maintain thermal comfort levels in the absence of power during a 95-degree 
+Fahrenheit day for 12 hours.
+In the meantime, we will report on the number of buildings that specifically incorporate climate projections into planned or implemented design and operations. This will apply to new construction and improvements. If possible, we will specify the number of critical facilities (such as hospitals, emergency shelters, and police stations) designed to withstand increased risks due to climate change, including power outages, given these facilities will play such an important role in protecting health and safety.
+CRDC FOCAL 
+AREA
+OVERARCHING 
+GOAL
+OUTPUT INDICATOR
+EXAMPLE OUTCOME 
+INDICATOR
+EXAMPLE 
+PERFORMANCE 
+STANDARD
+BUILDINGS AND 
+DEVELOPMENT 
+Retrofit existing buildings, and design new buildings and development projects to withstand climate change impacts.
+The number of buildings that specifically incorporate climate projections into planned or implemented designs and operations.
+The number of critical facilities designed to withstand increased risks due to climate change.
+Estimated costs saved through integrating climate risks into building or development design decisions.
+The percentage of residents living in buildings designed to withstand reasonably expected climate hazards.
+Resilient building performance standards (such as requiring that all new buildings can maintain thermal comfort levels without power on a 
+95 degree Fahrenheit day for 12 hours).
+Figure 2 - Buildings and Development Indicators
+Photo Credit: Ted Eytan
+
+[Page 20]
+bd 6.0: ensure all critical facilities in the district have resilient backup power 
+Ensure all identified critical facilities in the District have access to backup power for emergencies. Ensure backup power is elevated above projected flood elevations and, when possible, provided via sustainable and clean energy resources.
+description
+Critical facilities, such as fire and police stations, schools, and hospitals, provide essential services to District residents, businesses, and visitors. In addition to supporting the community’s economy, security, and health year-round, these facilities prove particularly important when natural hazards strike. If these facilities lose power, they cannot provide essential services. 
+Previous disasters show the importance of maintaining backup power outside of floodplains and, when possible, supplied by renewable energy resources. This helps avoid fuel-supply chain disruptions or operational challenges that often come with fuel-powered generators. Using solar and storage can also help reduce District energy costs.
+The District Government intends to lead by example, pursuing retrofits and installing new backup power where needed in publicly owned critical facilities. Lessons learned will be shared with the community, and best practices will ultimately be incorporated into District codes and regulations to increase the resilience of all critical facilities.
+sub-actions
+Actions to implement resilient backup power at critical facilities include the following:
+1. Integrate questions on flooding and backup power into critical public-building condition assessments, beginning with DC Public Schools (DCPS). 
+
+DOEE, DGS and the Homeland Security Emergency 
+Management Agency (HSEMA) will collaborate to ensure that routine assessments of the District’s critical public facilities include resilience queries regarding the presence of resilient energy, building 
+
+SUMMARY INFORMATION
+
+Outputs:
+• Facility condition assessments analyzing power vulnerability at critical facilities
+• Guidance to support resilient backup power assessments and installations at private facilities
+• Updated building codes that incorporate best practices for backup generation
+Desired Outcomes:
+• Improved and more flood-resilient backup power generation at critical facilities
+• Decreased risk of supply-chain failures for limited fossil-fuel resources
+• Improved access to critical services during emergencies
+Co-Benefits:
+• Emissions and year-round energy cost reductions from deploying clean energy backup power systems (through third-party ownership, demand response, and/or diesel cost reductions)
+Key Potential Partners: DGS, Pepco, 
+DDOT, DCPS, OP, HSEMA, and 
+Department of Consumer and
+Regulatory Affairs envelope efficiency, and backup power. This will include conducting an inventory that indicates whether the facility: (1) has backup power generation capabilities; and/or (2) has existing solar PV systems or capacity for clean energy and battery storage on-site. If the facility has backup generation, the inventory will include:
+• If any critical equipment (e.g., electric utility assets) or fuel is located below the base flood elevation (BFE) or is susceptible to flooding; and
+• If the building is in the 500-year flood plain and any equipment must be elevated.
+Assessments will consider how the community engages with the site. Facility managers will need to identify an energy continuity plan to support 
+IMPLEMENTATION STRATEGY FOR HIGH PRIORITY ACTION
+
+[Page 21]
+the community during an emergency if the site is expected to remain operational or will be occupied immediately following a disaster. These should determine the duration and amount of continuous, uninterrupted power required by the facility. Many 
+DC public schools function as emergency shelters; as such, they need to be operational to support residents located in harm’s way or who have been displaced. 
+Additionally, the resiliency of DC public schools affects the District’s ability to return to business as usual following a natural disaster.
+2.  Prioritize and pursue funding for retrofits and installations at critical public facilities. 
+
+Routinely collecting data regarding back-up power capabilities across the District’s critical facilities portfolio will make it possible to execute a resilient backup power strategy, targeting resources for the most critical facilities in the near- and medium-term. 
+DOEE and HSEMA will support DCPS and DGS in prioritizing locations that should receive investments to install or retrofit backup power. This prioritization will consider the importance of power continuity, vulnerability to flood inundation, vulnerability of the population served, cascading effects of service outage, and historical incidence of power outages. Site suitability for clean energy will also be considered. 
+These efforts will likely use a mix of operating, capital, federal grant funding, and private resources. 
+3. Use lessons learned to create resilient back-up power guidance for private development. 
+
+Many critical facilities in the District are privately owned and operated. While these facilities fall outside the District’s direct purview, the District will ensure its agencies are equipped to review and advise on any proposed project’s vulnerability to flooding and 
+INSPIRING IDEAS
+Mapping Critical Facilities in San Francisco
+The City and County of San Francisco examined microgrids and standalone solar PV with battery storage opportunities at critical facilities. They found that 8.2 megawatts of solar PV and 12.8 megawatts of battery storage could provide resilient backup power for the City’s shelters, and that these would be best financed through a public-private partnership. To reach that conclusion, San Francisco went through a process that involved identifying stakeholders, reviewing and mapping hazards and shelters, evaluating electrical needs and microgrid potential, conducting site visits, designing solar and storage options, and reviewing financing pathways for construction and operations. The results of this effort are available in a public document.8
+8. San Francisco Environment: onesanfrancisco.org/sea-level-rise-guidance extreme heat and help determine a back-up power’s site suitability during the development review and/ or permitting processes. The District will also share backup power best practices with developers. For example, the Resilient Design Guidelines, described on page 13, are intended to help developers integrate such best practices in their projects.
+4. Update building codes based on best practices.
+
+Ultimately, it will be important for every critical facility in the District to have resilient backup power. 
+The District will assess best practices identified through this process, and determine key findings that should be incorporated into design guidelines, building codes, or regulations.
+
+[Page 22]
+sub-actions
+Actions to create incentive and financing programs to mitigate the UHI include the following:
+1. Pilot a new program, specifically targeting the hottest neighborhoods.
+
+DOEE will work with interagency partners to collect lessons learned from existing programs serving District homeowners, such as the RiverSmart Homes program and the Single-Family Residential Rehabilitation 
+Program’s roofing loans.12 This will help inform the design of a new incentive program, aimed more specifically at addressing the UHI effect and reducing residents’ heat risks. 
+SUMMARY INFORMATION
+
+Outputs:
+• New cool roof incentive program
+• Training materials for cool roof workforce program Desired Outcomes:
+• Reductions in temperatures across the 
+District’s neighborhoods, especially in frontline communities
+• Increased number of cool or green roofs installed
+Co-Benefits:
+• More job opportunities for 
+District residents
+• Improved stormwater management from vegetation in green roofing
+• Greenhouse gas emissions reductions from reductions in cooling demand and carbon sequestration from additional vegetation
+• Reduced energy bills, especially for frontline communities
+Potential Partners: DC Sustainable Energy 
+Utility (DCSEU), Pepco, DC Green Bank, 
+Department of Housing and Community 
+Development (DHCD), Department of 
+Employment Services (DOES) bd 7.3: incentives and financing to mitigate urban heat islands
+Facilitate the installation of roofing technologies that support thermal safety and mitigate the UHI effect by expanding financing and incentive programs, particularly in places that benefit frontline communities.
+description
+Climate change means warmer temperatures and more extreme heat days in the District. Due to the UHI, areas with more impervious surfaces, fewer trees, and less green space are substantially hotter. A recent study found air temperatures were 10 to 20 degrees Fahrenheit warmer than cooler parts of the District with more green space. Reducing the UHI effect will help these neighborhoods adapt.9 
+Several building-level techniques can reduce the UHI’s impact, including green or cool roofs. Green roofs use vegetation to reduce roof temperatures and to remove heat from the surrounding area. Green roofs have been observed to be 30-40 degrees Fahrenheit cooler than conventional roofs, reducing energy demand and costs.10 Often, cool roofs are painted white or use reflective materials, allowing them to absorb less heat, reducing energy bills in warmer months. Cool roofs can stay more than 50 degrees 
+Fahrenheit cooler, with installation costs about the same as conventional roofs.11 
+Cool and green roofs can help keep homes comfortable as temperatures rise. In addition, such roofs, deployed at scale, can create temperature reductions across DC. The District’s building energy codes currently require cool roofs for new or replacement residential roofs. The District also encourages green roofs through its stormwater management programs, but conventional roofs still dominate. To encourage upgrades to existing roofs, this roadmap recommends adopting a targeted incentive program, with a focus on the hottest neighborhoods.
+IMPLEMENTATION STRATEGY FOR HIGH PRIORITY ACTION
+9. NOAA: noaa.gov/education/stories/science-and-education-partners-reveal-hottestplaces-in-washington-dc-and
+10. Environmental Protection Act: epa.gov/heat-islands/using-green-roofs-reduce-heatislands
+11. US DOE: energy.gov/energysaver/design/energy-efficient-home-design/cool-roofs
+12. District Department of Housing and Community Development: epa.gov/heat-islands/ using-green-roofs-reduce-heat-islands
+
+[Page 23]
+INSPIRING IDEAS
+New York City Cool Roofs Program 
+In 2009, the New York City (NYC) Cool 
+Roofs program launched, with the goal of coating one million square feet of roof space per year in white reflective coatings, thus achieving energy savings and reducing the 
+UHI effect’s impacts. The program offers selected buildings no-cost or low cost cool roofs. Affordable housing, nonprofits, and other community organizations receive the installations at no cost.14 Beyond incentivizing cool roof installations, NYC developed and administered a 10-week training to encourage local job development for the cool roofing industry. By 2017, 119 trainees had completed the program. Following the training, the City committed to connecting participants with full-time employment opportunities in the industry. 
+13. District Department of Energy and Environment: doee.dc.gov/service/solar-works-dc
+14. City of New York: nyc.gov/nycbusiness/article/nyc-coolroofs
+2. Develop workforce development programming to support the pilot program. 
+
+To encourage local job growth within the cool and green roofing industry, the District Government will explore adding cool and green roofing training to existing workforce development programs. For example, the SolarWorks DC program provides training opportunities for District residents interested in pursuing careers in solar and related industries. 
+This program could be expanded to include green and cool roofs.13
+3. Evaluate neighborhoods to pilot the new incentive. 
+
+Through interagency collaboration, the District 
+Government will work to identify priority neighborhoods for the pilot. These neighborhoods could be identified within the comprehensive heatplanning effort described below (see NC 13), which will assess District areas most sensitive to heat.
+
+[Page 25]
+neighborhoods and communities – overview
+While climate change will affect parts of the District differently, all communities should be reasonably safe from climate hazards and be supported to bounce back quickly after extreme events.
+We understand that strong communities—where neighbors help neighbors and businesses and community based organizations (CBOs) are active—are more resilient to shocks and everyday stressors. Therefore, DOEE’s strategies focus on equipping all community members to be active players in responding to risks. Additionally, many climate-change solutions work best on the neighborhood-scale. A single shade tree may help one property, but strategically increasing the urban tree canopy across a corridor or neighborhood can provide comfort to many by decreasing actual air temperatures.
+Doing this work well involves investing in community engagement and education while developing resilience policies. District residents are experts in their own communities, serving as the best consultants for designing neighborhood-level solutions that work.
+current activities
+Since CRDC’s launch, the District Government has developed several resources to build resilience of neighborhoods and communities:
+• The District Government has actively explored opportunities to advance microgrids and resilience hubs to provide communities with access to resilient power. This has included exploring best practices via workshops with other cities in the Urban Sustainability 
+Directors Network (USDN) and engaging in dialogues with area hospitals on improving energy resiliency.
+• The National Oceanic and Atmospheric Administration (NOAA) led a citizen science project to develop a series of air temperature maps for the District.15 Additionally, 
+DOEE has developed surface temperature maps that provide another way of measuring the UHI. These maps will help pinpoint neighborhoods most impacted by extreme heat and higher surface temperatures compared to surrounding areas.
+GOAL:
+Make neighborhoods and communities safer and more prepared by strengthening community, social, and economic resilience. 
+ACTIONS
+NC 12.0: Improve emergency preparedness and planning for climate-related events with a particular emphasis on frontline communities.
+NC 13.0: Reduce risks of extreme heat and UHIs.
+NC 14.0: Strengthen community cohesion for safety and resilience.
+NC 15.0: Strengthen eco-resilience districts and community resilience hubs.
+Table 3 - CRDC Action Areas for Neighborhoods and 
+Communities
+SPOTLIGHT ON PROGRESS: 
+EQUITY ADVISORY GROUP IN 
+FAR NORTHEAST WARD 7
+In fall 2017, DOEE, with support from the Georgetown 
+Climate Center, convened a committee of residents in Ward 7’s far northeast neighborhoods, called the “Equity Advisory Group” (EAG). In CRDC, Ward 
+7 (and particularly communities surrounding the 
+Watts Branch tributary of the Anacostia River) was identified as facing disproportionate flooding and climate-related risks relative to other parts of the District. From December to June 2018, the 
+EAG met monthly and collaborated on developing recommendations to provide guidance on how to act on climate change in equitable ways, supportive of local community interests. In August 2018, the EAG released a set of recommendations, including ideas around workforce development programming for adults and youths, and implementing neighborhoodscale resilience hubs to provide ongoing (steady state) and emergency services that increase neighborhood resiliency.16 
+15. NOAA: .noaa.gov/stories/heat-seeking-citizen-scientists-zero-in-on-dc-baltimore-for-mapping-mission
+16. Georgetown Climate Center: georgetownclimate.org/files/report/eag_recommendations_web_8.20.18.pdf
+
+[Page 26]
+SPOTLIGHT ON PROGRESS: 
+SOLAR FOR ALL
+Established in 2016, DOEE’s Solar for All Program brings solar energy benefits to thousands of low- to moderate-income families in the District. This program resulted from the Renewable Portfolio Standard 
+Expansion Amendment Act of 2016, which sought to expand the District’s solar capacity and to increase the amount of solar generated within the District. 
+Solar for All’s specific targets included providing solar benefits to 100,000 low-income households, through direct solar installations or community solar projects, and reducing these households’ energy bills by 50% by 2032. Homeowners and renters meeting the program income requirements become eligible to apply for the program and receive no-cost solar benefits. In addition to monetary savings, greater distributed solar energy in the District can help increase the resilience of our energy systems by stabilizing and alleviating congestion from the power grid. Distributed generation is especially crucial during extreme weather days, when high-energy demands strain the grid and put residents at risk of losing power.
+next steps
+• Recognizing the immediacy of extreme heat events, the District Government is reviewing UHI maps to target programs for neighborhoods most at risk. The 
+District intends to establish an internal interagency working group to develop a comprehensive heat planning strategy in response to findings from the data analyses. 
+• Additionally, the District is exploring opportunities to incentivize retrofits through grants and insurance, improving homes’ resilience to flooding and extreme heat. DOEE is exploring the creation of a FloodSmart 
+Homes program, which would audit homes and provide incentives for mitigation measures. 
+• The District will continue supporting heat stress education from the grassroots level through schools, community centers, and faith-based organizations as well as train-the-trainer programs. This will include expanding types of educational programs offered through the Community Emergency 
+Response Team (CERT).
+INSPIRING IDEAS
+Philadelphia, Pennsylvania 
+In 2016, the City of Philadelphia launched the citywide READYCommunity program, followed, in 2018, by the nine-month “Beat the Heat” pilot program.17, 18 The Beat the Heat program was piloted in the Hunting Park neighborhood— identified previously as one of Philadelphia’s warmest neighborhoods—and explored how residents cope with heat and what cooling actions may help them in the short-term. It also considered their preferred long-term interventions.19 The Office of Sustainability worked with neighborhood partners to collect surveys and hold public events to capture this information. This program is sponsored by the 
+Knight Foundation and the Funders’ Network 
+Partners for Places grant program. measuring progress on our long-term goal
+To meet our overarching goal of making neighborhoods and communities safer and more prepared by strengthening community, social, and economic resilience, the District will need to assess emergency preparedness policies, address the UHI, and deploy neighborhood-scale solutions. 
+Sustainable DC 2.0 includes a target that requires 100% of neighborhood plans to consider climate risks and identify adaptation solutions by 2032, supporting this goal.
+17. City of Philadelphia: phila.gov/posts/oem/2016-11-08-oem-launches-readycommunity-brings-being-ready-to-your-block/
+18. City of Philadelphia: phila.gov/2018-08-07-beat-the-heat-hunting-park/
+19. Ibid.
+
+[Page 27]
+As we pursue these projects, we will collect data and lessons with a goal of developing more outcome-focused indicators for evaluating progress. NC outcome indicators could include reductions in ambulance dispatch calls or hospital admissions during severe weather events or reductions in UHI temperature differentials after installing cooling infrastructure (e.g., cool roofs, shade trees). Additionally, we will explore setting more specific performance standards, such as requiring that all evacuation routes can stay operational if 14 inches of rain falls in a 24-hour period (the projected 100-year storm in 2080). 
+In the meantime, while resilience hubs alone cannot protect neighborhoods from all climate risks, DOEE believes they can improve a community’s ability to recover quickly and shelter in place longer. Once we develop the UHI Risk and 
+Opportunity map, we will also report on the percent of tree canopy and/or impervious surface coverage in the most heatsensitive areas.
+CRDC FOCAL AREA
+OVERARCHING 
+GOAL
+OUTPUT INDICATOR
+EXAMPLE 
+OUTCOME 
+INDICATOR
+EXAMPLE 
+PERFORMANCE 
+STANDARD
+NEIGHBORHOODS 
+AND COMMUNITIES
+Make neighborhoods and communities safer and more prepared by strengthening community, social, and economic resilience.
+Proportion of District residents living within a 10-minute walk from a resilience hub.
+Reduced number of ambulance dispatch calls or hospital admissions during severe weather events of similar magnitudes.
+The percent of tree canopy and/or impervious surface coverage in the most heat-sensitive areas.
+Estimated costs saved through adaptive measures, including greening, hardening, retrofitting, or relocating utility and transportation assets.
+Setting a minimum time in which transportation or utility assets should be expected to return to normal functionality after a reasonably expected severe weather event, based on climate projections.
+Figure 3 - Neighborhoods and Communities Indicators
+
+[Page 28]
+20. Federal Emergency Management Agency (FEMA): fema.gov/es/media-library/ resources-documents/collections/485?page=1
+21. Downtown DC Business Improvement District: downtowndc.org/news/bid-offersfree-emergency-preparedness-trainings/
+SUMMARY INFORMATION
+
+Outputs:
+• Spreadsheet identifying partner organizations for heat-response training
+• Survey assessing heat-risk knowledge and common heat-management practices
+• Training materials and programs
+Desired Outcomes:
+• Increased number of District residents attending heat stress preparedness and response training
+• Increased government capacity to provide life-safety resources during high-heat events
+• Fewer heat-related hospital admissions and fatalities
+Co-Benefits:
+• Improved community cohesion by encouraging neighbors to help neighbors
+Potential Partners: Serve DC – Mayor’s 
+Office on Volunteerism, and HSEMA, DC 
+Health, and the Department of Aging and 
+Community Living nc 12.1: building community heat stress preparedness and response capabilities
+Develop training and encourage active participation by residents and businesses in heat stress preparedness and response training programs, including the CERT volunteer program.20 description
+Heat waves can be deadly, as prolonged heat exposure may lead to a series of health conditions, including respiratory challenges, exhaustion, cramping, heat stroke, and fatalities. This proves especially true for older people, children, and those with existing health conditions, who are at greater risk of developing heatrelated illnesses.
+Communities are critical in responding to extreme heat events by recognizing early signs of illness, educating at-risk individuals about preventative care, and creating systems for checking-in on elders or others with limited mobility during heat emergencies. Within the District, 
+Serve DC administers the CERT program to educate and train individuals, communities, and organizations about emergency preparedness and response to hazards.21 
+CERT volunteers receive certification and maintain that certification through annual training events. In 2017, 
+30 certified volunteers conducted wellness checks at a senior living facility during a power outage in DC, and 50 certified volunteers supplemented District staff at warming stations during the Presidential Inauguration.
+As a starting point, DOEE is coordinating with Serve DC to add an extreme heat module to CERT training for the next cohort of volunteers. This will inform larger efforts to increase awareness about heat wave impacts.
+sub-actions
+Actions to support the training of individuals and businesses in heat stress preparedness and response include the following:
+1. Work with District agencies to identify opportunities for increasing access to and participation in community-based heat stress preparedness and response training initiatives.
+
+DOEE will review existing governmental and nongovernmental programs, such as senior villages, which have established emergency preparedness training programs or are actively responding to extreme heat events. Learning from these existing efforts will prove instrumental in developing effective programming. 
+IMPLEMENTATION STRATEGY FOR HIGH PRIORITY ACTION
+
+[Page 29]
+2. Conduct outreach to organizations and residents to better understand heat stress preparedness and response training needs and opportunities.
+
+In partnership with the organizations identified in 
+Step 1, DOEE will survey residents to understand their current knowledge of extreme heat and how they currently prepare or respond to high summer temperatures. 
+3.  Using outreach results, work with District agencies and partner organizations to expand existing and/or develop new heat stress training materials and programs.
+
+Using survey results, DOEE will work with its partners to create outreach and training materials, focusing on preparedness for climatechange impacts, extreme heat, and the UHI effect. Efforts could include the following:
+• Integrating heat stress preparedness into 
+CERT’s trainings.
+• Developing a pilot program akin to New York 
+City’s Be a Buddy Program.
+• Developing neighborhood-level heat stress preparedness and response plans.
+• Integrating climate change into summer youth CERT and sustainability programs.
+• Developing new materials showing how existing grant programs (e.g., Main Streets grant) or new financing mechanisms (e.g., community bonds) may be used to build heat stress resilience.
+• Revise DCPS training manual for heat stress.
+• Update District Government sponsored mobile apps and map services to show the locations of cooling centers. 
+INSPIRING IDEAS “Be a Buddy NYC”22
+In 2017, New York City (NYC) launched the “Be a Buddy NYC” (BAB) communityled preparedness initiative as part of the comprehensive Cool Neighborhoods NYC program. This two-year, $930,000 program promotes community cohesion through partnerships between community and social service organizations, volunteers, and frontline communities. Its components include: (1) training organizations and volunteers on ways to respond to emergencies and to assist frontline communities; and (2) direct outreach to communicate public health and preparedness messages to frontline communities, including information on neighborhood resources for staying cool. 
+BAB is a joint partnership with the Department of Health and Mental Hygiene’s (DOHMH) 
+Bureau of Environmental Surveillance and 
+Policy (BESP), the Mayor’s Office of Recovery and Resiliency, and the Fund for Public Health in New York City, which leverages other citywide initiatives, such as CERT. DOHMH is responsible for funding BAB, which the 
+Department administers.
+22. City of New York: nyc.gov/assets/orr/pdf/Cool_Neighborhoods_NYC_Report_FINAL.pdf
+
+[Page 30]
+nc 12.3: reduce economic effects of severe weather events on frontline communities
+Identify and implement policy and programmatic options to reduce the economic impacts of severe weather events on DC’s frontline communities. (Note that strategies to mitigate severe heat events’ economic impacts are specifically addressed in BD 7.3).
+description
+To reduce extreme weather events’ negative economic consequences on the District’s frontline communities, DOEE will explore a suite of policies and programs that lower the cost of preparing for and recovering from disaster events. 
+One potential option is a FloodSmart Homes program. This program would act as a source of important information for 
+District residents within the floodplain, providing information about individualized risks and potential solutions. Specifically, the District is exploring how it might provide free home resilience audits, along with incentives for implementing home improvements. Financial support could include flood insurance premium discounts for specially constructed homes or direct subsidies. The program design will draw upon best practices developed for similar programs in New York City, 
+Boulder, and Chicago.
+In the near-term, the District Government will seek to expand outreach and education about flood insurance and other resources that can protect residents’ finances following severe weather. sub-actions
+Actions to reduce extreme weather events’ economic effects through a FloodSmart Homes program will include the following: 
+1. Explore residential building stock within the floodplain to define preparedness needs. 
+
+DOEE will gather information on current residential construction within the floodplain through databases and resources. In addition, DOEE will coordinate with other active home repair and retrofit programs 
+SUMMARY INFORMATION
+
+Outputs:
+• Summary of the most common retrofits needed to mitigate flood risks in 
+District residential properties
+• New FloodSmart Homes program
+• A list of suggestions for additional programs (e.g., insurance subsidies) that should be paired with the 
+FloodSmart Homes program
+Desired Outcomes:
+• Increased number of homes in flood-susceptible areas/frontline communities undertaking resiliency retrofits
+• Decreased property damage from flooding and other severe weather events
+• Decreased displacement following severe weather events
+Co-Benefits:
+• More job opportunities for District residents, employed to perform home assessments and retrofits
+Potential Partners: DHCD, DCSEU, 
+HSEMA, and the Department of Insurance, 
+Securities, and Banking targeting single-family homes, seeking to understand the condition of existing buildings and the common needs to mitigate impacts of flooding through extreme weather. This analysis will help the District Government understand types of retrofit projects that will be most needed within target communities and begin estimating costs of operating a FloodSmart Homes program. 
+2. Develop a detailed design for the FloodSmart 
+Homes Program. 
+
+DOEE will work with relevant partners to develop a detailed program design for the FloodSmart Homes program, modeled after the DOEE RiverSmart program (see page 18).23 The program will likely recommend free or subsidized home assessments 
+23. District Department of Environment: doee.dc.gov/riversmart
+IMPLEMENTATION STRATEGY FOR HIGH PRIORITY ACTION
+
+[Page 31]
+that provide homeowners with a list of recommended retrofits or repairs at a variety of price points. This program design will consider near- and long-term funding sources and revenue streams, estimated capacity and resource needs, connections to existing or planned District or utility programs, and other key aspects necessary for implementation. 
+3. Implement a suite of policies and programs as a cohesive initiative. 
+
+Ideally, the FloodSmart Homes program will serve as one pillar of a comprehensive strategy to improve preparedness for extreme weather events. DOEE will consider a flood insurance subsidy program that could help make flood insurance more affordable to lowerincome residents. In addition, the District Government will actively encourage renters and homeowners to use insurance and tools (such as disaster savings accounts) to increase their preparedness before, during, and after natural disasters. Additionally, future Green Bank programs or tying the Floodplain 
+Development Impact Fee to Flood Hazard Rules could finance resilience-related projects that minimize costs for frontline communities.
+INSPIRING IDEAS
+Center for Neighborhood Technology’s 
+RainReady Home Program (Chicago, Illinois)
+The Center for Neighborhood Technology (CNT) is a nonprofit organization, based in Chicago, Illinois, that seeks to advance urban sustainability and shared prosperity. CNT’s RainReady Home program provides city residents an opportunity to receive a resiliency assessment and financial support to implement retrofits that increase their home’s resiliency to rain-induced flooding.24 CNT partners with communities, developers, and property managers to deliver sustainable floodproofing via a “one-stop shop.” Services include a home assessment, home improvement guidance, quality assurance during retrofits, and monitoring and support throughout the process. CNT has also established strong partnerships with Chicago’s Green Corps program to ensure that their initiative aligns with broader workforce development efforts.
+CNT recently launched a pilot initiative targeting 10 homes. This small program had a waitlist of 
+170 homeowners. Retrofits implemented via 
+RainReady include gray and green solutions and generally range from $3,000 to $4,500; up to $1,300 of this cost was eligible for cost-sharing via the program. 
+24. Center for Neighborhood Technology: cnt.org/sites/default/files/uploads/RainReady-Home.pdf
+
+[Page 32]
+nc 13: comprehensive extreme heat management strategy 
+Build adaptive capacity and reduce the exposure of critical infrastructure, community resources, and populations to extreme heat events through development of a comprehensive heat strategy.
+description
+To protect District residents, workers, and visitors, the District 
+Government is forming an extreme heat interagency working group to develop a UHI Risk and Opportunity map. This map will combine data about physical heat risks with social and health risk factors. It will be augmented by community survey data assessing the public’s understanding of health threats, common heat-protection strategies, and perceptions regarding cooling centers. 
+These data will be used to guide heat interventions throughout the District. In addition, the working group will collaborate to create and distribute heat-risk education materials to the community and to conduct trainings with health professionals. sub-actions
+Actions to implement the District’s Comprehensive Heat 
+Management Strategy will include the following:
+1. Form an interagency working group to develop a comprehensive heat plan. 
+
+District agencies will collaborate to refine, monitor, and update the comprehensive heat plan and to coordinate interagency projects. 
+2. Survey heat-sensitive communities to better understand knowledge about heat risks, the ways residents protect themselves during heat emergencies, and perceptions about the utility of cooling centers. 
+
+UHI Risk and Opportunity map data will be augmented with community survey data from select neighborhoods. This survey tool will be developed in coordination with NC 12.1 (described above) and will help inform near- and long-term heat interventions. 
+SUMMARY INFORMATION
+
+Outputs:
+• UHI risk and opportunity map, identifying the spatial variability of localized 
+UHI impacts
+• Survey assessing heat-risk knowledge and common heat-management practices
+• Comprehensive extreme heat plan Desired outcomes:
+• Reductions in surface and air temperatures, especially in areas most impacted by the UHI
+• Increased capacity of government to make informed choices about where and how to invest in neighborhood cooling
+• Increased capacity of government to provide life-safety resources during highheat events
+• Fewer heat-related hospital admissions and fatalities
+Co-Benefits:
+• Increased access to green spaces
+• Reduced greenhouse gas emissions due to reduced cooling demand and carbon sequestration from greening
+• Improved economic development along commercial corridors that benefit from increased shade and cooling
+• Improved air quality and public health
+Potential Partners: HSEMA, DC Health, Office of the Chief Technology Officer, OP, DDOT, 
+Department of Parks and Recreation (DPR), DGS
+3. Pursue interventions to cool the District’s hottest areas. 
+
+Data developed in steps 1 and 2 will guide the UHI working group’s identification of interventions. Such interventions may build on current programs (e.g., using UHI data to drive tree planting decisions as part of the existing tree canopy growth initiative). Other interventions may include new programs or policies (e.g., a cool pavement program). The UHI working group will solicit feedback and gain buy-in from nonprofit and private-sector partners on these interventions.
+IMPLEMENTATION STRATEGY FOR HIGH PRIORITY ACTION
+
+[Page 33]
+INSPIRING IDEAS
+New York City Cool Neighborhoods 
+Multi-Agency Coordinated Interventions
+The Cool Neighborhoods NYC plan includes a range of new and expanded strategies targeting heat mitigation, adaptation, and monitoring.25 The strategies are implemented and undertaken in partnership with a range of municipal agencies, and nonprofit and private-sector partners. For example, to support heat mitigation, the ongoing 
+Million TreesNYC street planting initiative received an additional $82 million to prioritize planting of street trees, based on data from the 
+Heat Vulnerability Index and the 2016 street tree census.26 To improve heat-response activities, the 
+NYC Department of Emergency Management (NYCEM) improved access to cooling centers for frontline communities by investing in signage that informs community members if a facility has been activated during a heat emergency (e.g., 24” X 36” vinyl sign at a building’s entrance and updating the NYCEM webpage to be compatible with mobile devices).
+4. Educate residents and health care providers about heat stress and best practices for responding to heat stress. 
+
+To ensure community members and first responders are equipped to deal with increasing heat impacts, the working group will develop educational materials and training content and identify the best dissemination channels. Educational materials will highlight warning signs for heat stress and ways to mitigate heat impacts on human health. 
+5. Establish a continuous improvement program and working group, tasked with ensuring plans, policies, and programs are regularly updated. 
+
+As climate impacts evolve, it will be important for the 
+District to update its understanding of heat risks and apply the best available information to plans, policies, and programs. The working group is committed to continuous improvement, ensuring that the UHI risk and opportunity maps and corresponding interventions continue to serve and protect District residents, community resources, and infrastructure over time. 
+25. City of New York: nyc.gov/assets/orr/pdf/Cool_Neighborhoods_NYC_Report_FINAL.pdf
+26. New York City Parks: City of New York: nycgovparks.org/trees/treescount
+
+[Page 34]
+nc 15.2: implement community resilience hubs
+SUMMARY INFORMATION
+
+Outputs:
+• Recommendations from community advisory group
+• One to three resilience hub pilots
+• Action report that summarizes findings from the pilot and plan outline to scale up pilots Desired Outcomes:
+• Improved coordination of resource distribution and services
+• Decreased displacement following disaster events
+• Increased community power and leadership in guiding resilience investments
+Co-Benefits:
+• Space for community programming or services during non-emergency times
+• Increased community cohesion by providing opportunities for neighbors to meet neighbors
+• Increased access to clean and resilient energy
+Potential Partners: DOEE, HSEMA, DPR,
+DOH, Pepco sub-actions
+Actions to implement community resilience hubs will include the following:
+1. Create a community advisory group to guide decisions on hubs.
+
+The long-term viability and vitality of a resilience hub depends on strong management, support, and community buy-in. To facilitate this, resilience hubs should be developed utilizing the expertise of an advisory group of community members. This group can identify potential sites, prioritize services to provide at the site (during emergencies and as nonemergency programming), suggest partners that can play a role in operating the hub, and determine onsite building retrofits that may be required.
+IMPLEMENTATION STRATEGY FOR HIGH PRIORITY ACTION
+Establish community resilience hubs, which locate emergency preparedness and response services in community facilities, whether privately or publicly owned (e.g., churches, community centers).
+description
+Resilience Hubs are community-serving facilities, augmented to provide comprehensive services and to coordinate resource distribution before, during, or after a natural hazard event. The Hubs will be housed in existing buildings, selected through widespread community input, and enhanced with solar panels and back-up power to ensure they can operate during outages. During emergency events, hubs will provide basic supplies, emergency information, Internet, recharging stations, access to heating/cooling, refrigeration for medical supplies, and any other services deemed necessary by the community. Hubs will not replace the District’s existing services, rather they will complement these services. 
+Importantly, Hubs operate year-round, so that during a disaster event these locations will already be accepted as resilience resources. In addition to providing emergency services, resilience hubs can uplift trusted organizations or fill service gaps by using the space to host other programming. 
+Hubs can also support job opportunities—directly through hiring local residents, or indirectly through providing job training space. 
+The District should consider long-term climate risks when evaluating sites, selecting places that lie outside of the floodplain, but remain within walking distance to frontline communities at risk. 
+This roadmap seeks to implement an initial pilot of one to three resilience hubs in District neighborhoods. These pilots can be used as a proof-of-concept, and then expand to community-wide implementation, progressing toward the vision of a resilience hub within walking distance of all 
+District residents.
+
+[Page 35]
+INSPIRING IDEAS
+Miami, Florida Resilience Hub Network
+Inspired by the work of area nonprofits to promote community resilience post-Hurricane 
+Irma, Miami, Florida began planning for a network of resilience hubs. The City is pursuing a network approach by outfitting heavily used parks with resilience hubs, beginning with one in each of its five commission districts. 
+During emergencies, the facilities will serve as cooling shelters and will provide information, 
+Wi-Fi, electronic charging stations, food, and ice. 
+During regular operations, these parks provide social services, such as English classes and free tax preparation. To supplement these services, the City plans to partner with various local organizations—such as Catalyst Miami—to further enhance opportunities and programs available to residents.27 Resilience upgrades to existing park facilities (such as hurricane hardening and installation of solar + storage) will likely be funded by the City’s Miami Forever general obligation bond and the City’s Parks & Recreation capital budget. The resilience hubs will be sustained through the City’s Parks & Recreation operating budget.
+2. Assess suitable site options for resilience hubs within priority neighborhoods identified by CRDC.
+
+In partnership with community members, the District 
+Government will establish key criteria for potential resilience hub sites (e.g., lot size, location, ownership). 
+This will be used to screen for public and private site options.
+3. Explore options for funding the resilience hub pilot.
+
+Resilience hubs will require dedicated funding and/ or financing sources for retrofitting buildings and supporting ongoing operations. For the pilot, DOEE can explore more project-specific funding, which may be easier to obtain. A successful pilot can serve as a proof-of-concept for obtaining longer-term, sustainable funding. Such funding should support building and energy retrofits and ongoing operations.
+4. Create a multiyear operation plan for running the hub.
+
+The District Government will collaborate in developing an operating agreement between community partners, building owners, and supporting agencies, both for steady-state and emergency conditions. 
+5. Use lessons from pilot(s) to scale up to 
+District-wide program.
+
+After building and monitoring the pilot(s), DOEE will conduct a series of interviews and surveys to understand community perspectives on successes and areas that can be improved upon. This information will be compiled into an after-action report, used to outline a plan to scale up to a District-wide program.
+27. Catalyst Miami: catalystmiami.org/
+
+[Page 37]
+governance and implementation – overview 
+Successfully preparing for climate change will require continuous oversight, monitoring, and evaluation. Since the release of the original CRDC plan in 2016, DOEE and agency partners have worked to mainstream climate preparedness into District Government processes. As more projects and programs are implemented, the District Government has an opportunity to learn important lessons about what is working. Additionally, as our understanding of climate change risks continues to evolve, the District will need to update its climate vulnerability assessment accordingly. DOEE commits to reviewing and updating CRDC in 2026 to reflect new information and needs.
+making progress 
+Since CRDC’s launch, the District has started working on several initiatives to address resilience governance; these include the following: 
+• The recently released Sustainable DC 2.0 outlines strategies to advance sustainability and climate resilience in tandem. The plan provides resources for residents and businesses to stay engaged with the 
+District Government’s ongoing commitment to preparing for and mitigating climate change impacts.
+• The District Government has included a cross-cutting resilience element into the Comprehensive Plan’s current draft, indicating its importance across all segments and sectors. Climate change-related risks were also incorporated into the All-Hazard Mitigation 
+Plan, Sustainable DC 2.0, and Resilient DC. 
+• After DC joined 100 Resilient Cities, Mayor Muriel 
+Bowser formed a Resilience Cabinet, made up of 
+17 agency directors and deputy mayors to guide resilience efforts in the District. 
+• The recently released Resilient DC Plan brought together resident perspectives, District agencies, and community partners to build a strategy to improve the District’s resilience to environmental, social, and economic stressors. Many of these goals align directly with CRDC and to strategies in this implementation plan. 
+GOAL:
+Establish policies, structures, and monitoring and evaluation procedures to ensure successful implementation of CRDC. 
+ACTIONS
+GI 16.0: Conduct additional analysis of climate vulnerability and adaptation strategies, based on current gaps and to account for the latest climate science.
+GI 17.0: Align CRDC with related planning efforts, including hazard mitigation, comprehensive land use, comprehensive energy, and capital budget planning.
+GI 18.0: Establish the necessary structures to ensure successful CRDC implementation.
+Table 4 -CRDC Action Areas for Governance and 
+Implementation
+SPOTLIGHT ON PROGRESS: 
+COMMISSION ON CLIMATE 
+CHANGE AND RESILIENCY
+In 2016, the District Government established the Commission on Climate Change and 
+Resiliency, a coalition of public, private, nonprofit, and institutional organizations, advising the District Government in pursuing its climate resiliency goals.28 This public body actively supported development of the 
+Resilient DC plan and this Roadmap, and will continue to support the District Government’s efforts to improve its climate preparedness.
+28. District of Columbia Code: code.dccouncil.us/dc/council/laws/21-185.html
+
+[Page 38]
+SPOTLIGHT ON PROGRESS: 
+SUSTAINABLE DC 2.0
+The recently released Sustainable DC 2.0 (SDC 2.0) plan is the District Government’s most up-to-date and comprehensive plan to further its ambitious goal to be the healthiest, greenest, most livable city for all District residents.29 During the two-year update process, SDC 2.0 actively used 
+CRDC’s climate data to align its climate goals with those in the CRDC plan. The Sustainable DC 2.0 plan now includes specific climate adaptation targets, helping facilitate cross-cutting actions throughout the District and across different agencies. Breaking down government silos and reinforcing the importance of climate adaptation in the District’s sustainability plan will help ensure that the District integrates climate resilience into current and future decision-making processes. next steps
+• In consultation with the Commission on Climate 
+Change and Resiliency, partner agencies, and other stakeholders, DOEE will define a strategy for maintaining the District’s climate projections to support planning and foster climate readiness. 
+• The District Government is integrating resilience into its upcoming carbon neutrality strategy, which will tie together our deep decarbonization goal with climate preparedness. As we move toward mid-century, it will be critical to identify opportunities that both decrease emissions and respond to climate change impacts. 
+• All District agencies will soon have access to a resilience checklist, a tool and resource designed to help integrate climate change considerations into development and capital planning projects. measuring progress on our long-term goals
+To meet our overarching goal of establishing the policies, structure, and monitoring evaluation procedures to ensure successful implementation of the adaptation plan, we need to carry out and refine the strategies and indicators outlined in this roadmap. Additionally, the District needs to continue institutionalizing climate resilience into all facets of longterm planning and policy-making. In our annual reporting, we will address the number of District agencies that have plans that integrate climate projections as this would show our progress in making climate a cross-sector priority. We also propose developing an outcome indicator that assesses the percentage of CRDC actions in progress or completed.
+In addition, the District Government commits to reviewing climate projections for CRDC every five years. DOEE will update the CRDC strategy in 2025.
+INSPIRING IDEAS: 
+Boston, Massachusetts
+The Climate Ready Boston initiative is a set of ongoing climate adaptation projects and neighborhood-level plans. The Climate Ready 
+Boston study publishes climate projections that provide public agencies and private organizations with planning thresholds for sealevel rise, precipitation, and extreme heat. The study was developed based on consensus climate projections developed by the Boston 
+Research Advisory Group (BRAG), a consortium of university researchers, government scientists, and industry professionals.30 The projections were reconciled across several climate change studies completed in the metro Boston region by the 
+City, state departments, federal agencies, and others. The collaboration developed a detailed vulnerability analysis, and its members advise the City on climate science and planning. These projections were used to inform Boston’s Climate 
+Resiliency Checklist for new construction and major rehabilitation projects.31
+29. District Department of Energy and Environment: sustainabledc.org/in-dc/sdc2-0/
+30. Boston Research Advisory Group: boston.gov/sites/default/files/document-file-12-2016/brag_report_summary.pdf
+31. Boston Planning and Development Agency: bostonplans.org/planning/planning-initiatives/article-37-green-building-guidelines
+
+[Page 39]
+CRDC FOCAL 
+AREA
+OVERARCHING GOAL
+OUTPUT 
+INDICATOR
+OUTCOME 
+INDICATOR
+PERFORMANCE 
+STANDARD
+GOVERNANCE 
+AND 
+IMPLEMENTATION
+Establish the policies, structure, and monitoring evaluation procedures to ensure successful implementation of the adaptation plan.
+The number of District agencies with plans that integrate climate projections.
+Percent of CRDC actions in progress or completed.
+Review (and update) of climate projections every five years.
+Figure 4 - Governance and Implementation Indicators
+
+[Page 41]
+measuring our progress 
+As presented within the long-term goals for the four CRDC focal areas, the District commits to advancing climate resilience and measuring the District’s preparedness. This will include addressing the major risks and vulnerabilities we face from impacts of extreme heat, flooding, and storms on our communities, infrastructure, and quality of life. The District 
+Government will use the output indicators for each sector to actively monitor the progress of our overall climate resilience in our next progress report update. The proposed outcome indicators and performance standards will be tested and refined as we collect additional data. 
+The District Government will provide progress updates for these measures and other initiatives through joint annual reporting with Sustainable DC. These indicators will help us work toward our long-term goal of becoming climate resilient by 2050.
+CRDC FOCAL 
+AREA
+OVERARCHING GOAL
+OUTPUT INDICATOR
+OUTCOME 
+INDICATOR
+PERFORMANCE 
+STANDARD
+TRANSPORTATION 
+AND UTILITIES
+Improve transportation and utility infrastructure to maintain viability during periods of extreme heat, severe weather, and flooding.
+Number of transportation and utility projects that specifically incorporate climate projections into planned or implemented designs and operations.
+Estimated costs saved through adaptive measures, including greening, hardening, retrofitting, or relocating utility and transportation assets.
+Setting a minimum time by which transportation or utilities assets should be expected to return to normal functionality after a severe weather event reasonably expected based on climate projections.
+BUILDINGS AND 
+DEVELOPMENT
+Retrofit existing buildings and design new buildings and development projects to withstand climate change impacts.
+Number of buildings that specifically incorporate climate projections into planned or implemented designs and operations
+
+Number of critical facilities designed to withstand increased risks due to climate change.
+Estimated costs saved through integrating climate risks into building or development design decisions.
+
+Percentage of residents living in buildings designed to withstand reasonably expected climate hazards.
+Resilient building performance standards, such as requiring all new buildings to maintain thermal comfort levels without power on a 95 degree 
+Fahrenheit day for 
+12 hours.
+NEIGHBORHOODS 
+AND 
+COMMUNITIES
+Make neighborhoods and communities safer and more prepared by strengthening community, social, and economic resilience.
+Proportion of District residents living within a 
+10-minute walk from a resilience hub
+
+The percent of tree canopy and/or impervious surface coverage in the most heat-sensitive areas.
+Reduced number of ambulance dispatch calls or hospital admissions during severe weather events of similar magnitudes.
+
+Reductions in 
+UHI temperature differentials after installing cooling infrastructure (e.g., cool roofs and shade trees).
+Setting specific standards, such as ensuring all evacuation routes stay operational if 14 inches of rain falls in a 24 hour period.
+GOVERNANCE 
+AND 
+IMPLEMENTATION
+Establish policies, structures, and monitoring evaluation procedures to ensure successful implementation of the adaptation plan. 
+The number of District agencies with plans integrating climate projections.
+Percent of CRDC actions in progress or completed.
+Review (and update) of climate projections every five years.
+
+Update to CRDC in
+
+[Page 42]
+concluding thoughts 
+We have made significant strides in advancing the resilience of our physical assets and strengthening our neighborhoods and communities. Investments to date include improving the electric grid’s reliability and implementing green infrastructure solutions. Additionally, the District Government has mainstreamed resilience into other District plans, including the cross-sector Resilient 
+DC Strategy. The DC Green Finance Authority will provide additional resources for residents and businesses looking to mitigate emissions and increase their assets’ resilience. 
+This document defines next steps that the District 
+Government intends to take in building on these preliminary achievements and advancing climate preparedness. We will actively track and evaluate the indicators identified for each sector to ensure meaningful progress in these priority areas. 
+Much work remains, but the implementation of these strategies will be a major step toward addressing climate impacts. We look forward to continued engagement with our community as we build a climate-ready DC for all.
+
+[Page 43]
+ACKNOWLEDGEMENTS
+The District Department of the Environment (DOEE) would like to thank all of the District agencies and experts from other communities across the country that contributed to the development of this roadmap through their participation in interviews, workshops or external review. We hope that this Roadmap will support the achievement of the District’s climate and resiliency goals.
+• Commission on Climate Change and Resiliency 
+• DC Water
+• Department of Consumer and Regulatory 
+Affairs (DCRA)
+• Department of General Services (DGS)
+• Department of Housing and Community Development (DHCD)
+• Department of Human Services (DHS)
+• Department of Insurance, Securities and Brokers (DISB)
+• Department of Parks and Recreation (DPR)
+• District of Columbia Public Schools (DCPS)
+• District Department of Transportation (DDOT)
+• DC Health
+• Homeland Security and Emergency Management (HSEMA)
+• Office of Planning (OP)
+• Office of Risk Management (ORM)
+• Resilient DC
+• ServeDC
+• U.S. Army Core of Engineers
+Reviewers
+Workshop Participants
+• Association of Apartment and Office Buildings of 
+Metropolitan Washington 
+• Casey Trees
+• Earthjustice
+• Global Cool Cities
+• Lightbox
+• Metropolitan Washington Council of Governments (MWCOG)
+• National Capital Planning Commission
+• Office of the City Administrator (OCA)/ Resilient DC
+• Pepco
+• The Nature Conservancy
+• Trust for Public Land
+• Washington Metropolitan Area Transit Authority (WMATA)
+Please note: All reviewers also participated in workshop activities.
+Expert Interviews
+• City of Baltimore, Maryland
+• City of Boston, Massachusetts
+• City of Bowie, Maryland
+• City of Miami, Florida
+• Center for Neighborhood Technology, Chicago
+DOEE would also like to acknowledge The Cadmus Group’s Sustainability and Energy Team for their research and preparation of this
+
+[Page 44]
+GLOSSARY
+• 500-year flood plain – Area that historically has a 
+0.2-percent chance (or 1 in 500 chance) of flooding in a given year. (USGS Flood and Recurrence Intervals)
+• Blue infrastructure – Any man-made or adapted system designed to prevent flooding by detaining, retaining, filtering, infiltrating, or slowing down the flow of runoff into the environment. This may include ponds, pools, basins, or tunnel systems. 
+• Blue-green infrastructure – Infrastructure that is designed to control or prevent urban flooding (aka cloudburst or interior flooding) by using green infrastructure concepts. This may include streets or parks that are designed to flood, and conveyance infrastructure such as bioswales or pipes. Blue-green infrastructure also delivers water quality benefits as well as other environmental, social, and economic benefits.
+• Combined sewer overflows – Combined sewer systems are designed to collect rainwater runoff, domestic sewage, and industrial wastewater in the same pipe. 
+Most of the time, combined sewer systems transport all wastewater to a sewage treatment plant, where it is treated and discharged to a water body. (EPA)
+• Critical equipment – Any piece of equipment or machinery that, if damaged or disabled, could significantly impair safety. This may include generators that provide back-up power to critical facilities or infrastructure in the event of a power outage. (US 
+Department of Homeland Security)
+• Community Emergency Response Training – A nationwide program, administered by local governments.
+• Critical facility – A facility to which damage to the structure would present an immediate threat to life, public health, and safety, such as police stations, schools, and hospitals. (DC Hazard Mitigation Plan)
+
+[Page 45]
+• Critical infrastructure – Systems and assets that provide essential services to the District and, through their inability to operate, would have a debilitating impact on the safety and health of residents and businesses. (US Department of Homeland Security)
+• Dangerously hot days – A day in which the heat index reaches 95 degrees Fahrenheit or higher. This triggers the District’s heat emergency plan. (CRDC) 
+• Distributed energy resources (DER) or distributed generation – The District Government defines DER in a way that accounts for the technologies themselves as well as the multiple aspects of the energy delivery system with which these technologies interact. DER includes energy efficiency (at both the consumer and the grid levels), demand response, distributed storage, distributed generation (e.g., solar panels, thermal energy recovery systems), microgrids, and electric vehicles. (Clean Energy DC)
+• Equity – Ensuring that climate resilience planning incorporates procedures allowing all to participate, distributes benefits and burdens fairly, provides structural accountability, and considers generational impacts. (USDN) 
+• Frontline Communities – Groups directly and indirectly impacted by climate change at a disproportionate rate when compared to other groups. These groups tend to have less access to resources and protections due to income, age, gender and gender identity, race, disability, sexual orientation, or other elements. (National 
+Association for the Advancement of Colored People, 
+Environmental and Climate Justice Program). 
+• Green infrastructure – Green infrastructure is designed to mimic nature and capture rainwater where it falls while delivering water quality benefits as well as other environmental, social, and economic benefits. It includes a range of approaches including rain gardens, planter boxes, bioswales, and numerous other approaches for managing and treating stormwater.
+• Gray infrastructure – Traditional “gray” stormwater— designed to move urban stormwater away from the built environment—includes curbs, gutters, drains, piping, and collection systems. Generally, traditional gray infrastructure collects and conveys stormwater from impervious surfaces, such as roadways, parking lots, and rooftops, into a series of piping that ultimately discharges untreated stormwater into a local water body. (EPA)
+• Heat waves – A series of dangerously hot days in a row. (CRDC)
+• MS4 – Covers all areas within the jurisdictional boundary of the District, served by or otherwise contributing to discharges from the Municipal Separate 
+Storm Sewer System (MS4), owned or operated by the District Government (EPA). About two-thirds of the District is served by separate sewer systems. The combined sewer system, covering the remaining onethird of the District, is operated by DC Water. 
+• Microgrid – A group of interconnected loads and distributed energy within a given electrical boundary that acts as a single controllable entity and can be connected to and disconnected from the grid, enabling it to operate as part of the grid or as an island. (DOE)
+• Renewable Energy Portfolio Standard (REPS) – A renewable energy portfolio standard requiring utility companies to source a predetermined amount of energy that they generate or sell to derive from renewable sources, such as solar or wind (NCLS)
+• Resilience – The capacity of individuals, communities, institutions, businesses, and systems within a city to survive, adapt, and thrive, no matter what kinds of chronic stresses and acute shocks they experience. (Resilient DC)
+• Resilience hub – Community-serving facilities, augmented to support residents and to coordinate resource distribution and services before, during, or after a natural hazard event. (USDN)
+• Urban heat island (UHI) – Developed areas, with high amounts of paved or manmade surfaces that are hotter than nearby rural or more forested areas. (EPA)
