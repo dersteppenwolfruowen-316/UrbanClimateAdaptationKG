@@ -13,20 +13,23 @@ This project constructs a knowledge graph from 82 urban climate policy PDFs span
 **Key finding:** GraphRAG outperforms pure vector retrieval by **+69.3% in Answer Relevancy**, with the largest gap in multi-hop queries (+160%).
 
 ## Architecture
+
+```
 PDF Documents (82 cities)
-↓
+        ↓
 Text Extraction & Chunking (PyMuPDF + LangChain)
-↓
+        ↓
 Triple Extraction (GPT-4o-mini + Ontology V3)
-↓
+        ↓
 Knowledge Graph (Neo4j · 1,523 nodes · 1,121 edges)
-↓
+        ↓
 GraphRAG Pipeline
 ├── Vector Retrieval (text-embedding-3-small)
 ├── Entity Linking (LLM fuzzy match)
 ├── Multi-hop Graph Traversal (2-3 hops)
 ├── Cypher Generation (LLM)
 └── Answer Generation (GPT-4o-mini)
+```
 
 ## Knowledge Graph Stats
 
@@ -98,21 +101,30 @@ print(result['answer'])
 
 Open `notebook/evaluation.ipynb` and run all cells.
 
+## Demo
+
+> 🌐 Live demo: *coming soon*
+
+<!-- Replace with your Streamlit Cloud URL after deployment -->
+
 ## Project Structure
+
+```
 urban-climate-kg/
 ├── src/
-│   ├── config.py          # Environment configuration
-│   ├── kg_builder.py      # PDF → chunks → triples → Neo4j
-│   ├── graph_analysis.py  # GDS algorithms + community detection
-│   └── pipeline.py        # GraphRAG QA pipeline
+│   ├── config.py           # Environment configuration
+│   ├── kg_builder.py       # PDF → chunks → triples → Neo4j
+│   ├── graph_analysis.py   # GDS algorithms + community detection
+│   └── pipeline.py         # GraphRAG QA pipeline
 ├── notebook/
-│   ├── KG_5 cities.ipynb  # Main pipeline notebook
-│   └── evaluation.ipynb   # RAGAS evaluation
+│   ├── KG_5 cities.ipynb   # Main pipeline notebook
+│   └── evaluation.ipynb    # RAGAS evaluation
 ├── data/
 │   ├── ragas_results.csv
 │   └── evaluation_summary.json
 ├── .env.example
 └── requirements.txt
+```
 
 ## Data
 
@@ -122,4 +134,7 @@ Policy documents are sourced from public urban resilience plans. See `data/READM
 
 - Es, S. et al. (2023). RAGAS: Automated Evaluation of Retrieval Augmented Generation. arXiv:2309.15217
 - Edge, M. et al. (2024). From Local to Global: A Graph RAG Approach to Query-Focused Summarization. arXiv:2404.16130
+- Zhu, Y. et al. (2025). Croppable knowledge graph embedding. ACL 2025.
+- Lee, J. & Whang, J. J. (2025). Structure is all you need. ICML 2025.
+- Wang, J. et al. (2024). Learning to plan for retrieval-augmented LLMs from knowledge graphs. arXiv:2406.14282
 - Ning, Y. & Liu, H. (2024). UrbanKGent. NeurIPS 2024.
