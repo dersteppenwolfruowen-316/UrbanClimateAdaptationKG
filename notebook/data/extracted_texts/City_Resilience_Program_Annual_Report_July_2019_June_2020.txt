@@ -1,0 +1,822 @@
+[Page 1]
+Annual Report
+July 2019 - June 2020
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+
+[Page 2]
+Cover image: Cochabamba, Bolivia. Photo: Design Pics Inc / Alamy Stock Photo.
+This work is a product of the staff of The World Bank and the Global Facility for Disaster Reduction and Recovery (GFDRR) with external contributions. The findings, analysis and conclusions expressed in this document do not necessarily reflect the views of any individual partner organization of The World Bank, its Board of Directors, or the governments they represent.
+Although the World Bank and GFDRR make reasonable efforts to ensure all the information presented in this document is correct, its accuracy and integrity cannot be guaranteed. Use of any data or information from this document is at the user’s own risk and under no circumstances shall the World Bank, GFDRR or any of its partners be liable for any loss, damage, liability or expense incurred or suffered which is claimed to result from reliance on the data contained in this document. The boundaries, colors, denomination, and other information shown in any map in this work do not imply any judgment on the part of The World Bank concerning the legal status of any territory or the endorsement or acceptance of such boundaries.
+RIGHTS AND PERMISSIONS
+The material in this work is subject to copyright. Because The World Bank encourages dissemination of its knowledge, this work may be reproduced, in whole or in part, for noncommercial purposes as long as full attribution to this work is given.
+
+[Page 3]
+Foreword 
+Abbreviations iv
+Executive Summary vii
+1. City Resilience Program Overview 
+1.1 Program Description and Development Objectives 
+1.2 Outcomes and Results 
+1.3 Risks, Challenges and Lessons Learned 
+CRP Support to Cities around the World 
+2. Implementation Progress 
+2.1 Planning for Resilience 
+2.2 Finance for Resilience 
+2.3 Partnerships for Resilience 
+2.4 Monitoring of Results 
+3. Looking Ahead 
+4. Financial Overview 
+4.1 Donors and Partners 
+Appendix A. Key Trust Fund Data 
+Appendix B. List of Cities in the City Rsilience Program
+
+[Page 4]
+Istanbul, Turkey. Photo: zeynep boğoçlu.
+ii | City Resilience Program
+
+[Page 5]
+GFDRR. 2015. Investing in Urban Resilience: Protecting and Promoting Development in a Changing World. Washington, D.C. World Bank Group
+Foreword 
+Sameh Wahba
+Global Director
+Urban, Disaster Risk 
+Management, Resilience and Land Global Practice
+The World Bank Group
+A t the beginning of the 20th century, only 14 percent of the world’s population lived in cities. That proportion has grown to over half, and is expected to reach 70 percent by 2050. Cities are the world’s centers of political life, innovation and economic activity—80 percent of global gross domestic product (GDP) is generated in cities. But this concentration comes with significant challenges in the face of a changing climate. Poorer populations are particularly vulnerable as they often inhabit more hazard-prone areas and lack the means to recover from economic or environmental shocks. These challenges will only continue to grow unless urgent action is taken. 
+The ongoing COVID-19 pandemic has put cities once more at the forefront of the crisis. It has highlighted the vulnerabilities of the urban poor, and the urgency of investing in higher quality housing and infrastructure. It has underlined how governments, and cities in particular, need to plan and prepare to be able to cope with all types of hazards, including epidemic risks, and to address gaps in their preparedness and develop a capacity to respond. 
+The world needs resilient cities to achieve sustainable development and reduce poverty. Many cities lack however expertise, long-term vision, ability to prioritize, and right framework conditions in order to tackle the complex issues required for improving their resilience. Addressing complex resilience issues in cities requires greater amounts of financing, often from multiple sources, and a broader set of technical and institutional expertise. 
+The Global Facility for Disaster Reduction and Recovery (GFDRR) estimates that disasters cost cities US$314 billion annually, and that climate change could put 77 million urban residents into poverty by 2030 (GFDRR 2015). Significant additional financing is required to make urban infrastructure more resilient, especially in the developing world. Cities can be supported in these efforts by mobilizing resources from donor partners around a broader urban resilience agenda, and by working to attract private capital where feasible. 
+The City Resilience Program (CRP) — a partnership between the World Bank and GFDRR — launched in June 
+2017, supports cities in their efforts to build a resilient future by convening global expertise in city planning and project finance, while leveraging advancements in digital technology, urban planning, services and management disciplines, and expertise in disaster and climate risk analysis. CRP has engaged with 105 cities in more than 
+55 countries where it helps provide insight into spatial patterns of development, environmental risk factors, and future growth trajectories to support resilience planning. 
+CRP engages with international finance institutions, donors and financial advisors to deliver paired financing and expertise aimed at unlocking investment. Despite the challenges brought by the COVID-19 crisis, the fiscal year of 2019–20 (FY20) demonstrated the program’s ability to adjust and deliver its products for diverse audiences, and to build partnerships for resilient cities. 
+Much as the future of cities depends on their adaptability to changing environments, the continued success of 
+CRP rests on our versatility in responding to shifting clients’ needs and expectations. 
+We are grateful for the support received from our partners the Austrian Ministry of Finance and the Swiss State 
+Secretariat for Economic Affairs (SECO) in growing the program to scale.
+Foreword | iii
+
+[Page 6]
+Administrative Agreement 
+AECID Agencia Española de Cooperación Internacional para el Desarrollo (Spanish Agency for International Development Cooperation) 
+AFD 
+Agence Française de Développement (French Development Agency) 
+AFR 
+Africa region (World Bank definition) 
+AIIB 
+Asian Infrastructure Investment bank
+BDO 
+Big Data Observatory (Online Tool)
+BMU Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit (Germany’s 
+Federal Ministry of the Environment, Nature Conservation and Nuclear Safety)
+BRGM Bureau de Recherches Géologiques et Minières (France’s Geological and Mining Research Bureau) 
+BRT 
+Bus Rapid Transit
+CRP 
+City Resilience Program 
+DFID 
+Department for International Development (United Kingdom)
+DRM
+Disaster Risk Management 
+EAP 
+East Asia Pacific region (World Bank definition) 
+EC 
+European Commission 
+ECA 
+Europe and Central Asia region (World Bank definition) 
+EIP 
+External Investment Plan (EU program) 
+EO4SD 
+Earth Observation for Sustainable Development (ESA program) 
+ESA 
+European Space Agency 
+EU 
+European Union
+FY 
+Fiscal year 
+GDP 
+Gross Domestic Product
+GFDRR 
+Global Facility for Disaster Reduction and Recovery 
+GP 
+Global Practice (World Bank terminology) 
+IBRD 
+International Bank for Reconstruction and Development
+IFC 
+International Finance Corporation 
+IFI 
+International Financial Institution 
+KEMENKO Kementerian Koordinator Bidang Pembangunan Manusia dan Kebudayaan (Indonesia’s Coordinating Ministry for Political, Legal, and Security Affairs)
+Abbreviations iv | City Resilience Program
+
+[Page 7]
+Latin America and Caribbean region (World Bank definition) 
+LVC 
+Land Value Capture (instrument) 
+MDTF 
+Multi-Donor Trust Fund 
+MENA 
+Middle East and North Africa region (World Bank definition) 
+MIGA 
+Multilateral Investment Guarantee Agency
+NBS 
+Nature-Based Solutions
+PPP 
+Public-Private Partnership 
+RAS 
+Reimbursable Advisory Services (World Bank product) 
+RCA 
+Rapid Capital Assessment (CRP product) 
+RECIDE 
+Resilient City Development (EU-funded program) 
+RVO 
+Rijksdienst Voor Ondernemend (Netherlands Enterprise Agency)
+SAR 
+South Asia region (World Bank definition) 
+SECO 
+Secrétariat d’Etat à l’Economie (Swiss State Secretariat for Economic Affairs) 
+TTL 
+Task Team Leader
+UNDRR 
+United Nations Office for Disaster Risk Reduction
+UR 
+Understanding Risk (conference series)
+WBG 
+World Bank Group
+Abbreviations | v
+
+[Page 8]
+Photo by © Rids - Unsplash.
+vi | City Resilience Program
+
+[Page 9]
+Executive Summary his annual report summarizes the progress made across the three programmatic areas over the course of the fiscal year 2020, in terms of expanding and refining CRP’s value proposition and of continually providing support to cities to achieve their resilience objectives.
+Activities began with the Resilience Investment Planning 
+Workshop that took place on July 8–12, 2019, in Madrid, 
+Spain. The five-day interactive event, organized in collaboration with the Spanish Agency for International Development Cooperation (AECID) brought together 150 participants from 24 city delegations and 20 technical teams (figure ES-1) offering expertise around aspects of resilience planning and financing as well as representatives from seven international financial institutions (IFIs). The event ran in excess of 100 bilateral meetings alongside the workshop between city delegations, IFIs, and technical teams to help cities explore and refine their options for investing in resilience. The workshop catalyzed momentum around the three key programmatic areas of CRP—
+Planning , Finance, and Partnerships for Resilience. 
+During the year in review, under the Planning for Resilience thematic area, the city scan product was improved to include several new areas of analyses, including identification of urban heat islands and a section focused on 
+COVID-19. Demand increased substantially, enabling CRP to leverage co-financing for most of the city scans delivered over the course of the fiscal year. CRP also started to expand the scope of city scans to inform project scoping. 
+For example, in Cali, Colombia, a city scan helped identify flooding risks associated with the construction of a proposed commuter rail system. CRP city scan exercises supported several non-CRP workshops, including “Understanding Risk” events in Tanzania, Austria, and Côte D’Ivoire (West and Central Africa) in collaboration with GFDRR.
+Under the Finance for Resilience thematic area, technical assistance activities focused toward delivery of financial advisory services to priority cities for mobilizing private capital. CRP has supported among others: (i) Dar es Salaam, Tanzania, where flood control and drainage investments are being considered to catalyze urban development in an at-risk, underdeveloped area of the city; (ii) Abidjan, Côte D’Ivoire, where upstream business planning is being conducted for a sanitary landfill aimed at eradicating contamination of drinking water sources; and, (iii) Quilmes, Argentina, where infrastructure and economic development opportunities are being assessed in a regularly flooded and underserved area. Several new engagements started in the fiscal year 2020 (FY20), including: support to the planning of an eco-industrial park in Ulaanbaatar, Mongolia, and, support for transaction structuring and market validation of a transit-oriented development opportunity in Dhaka, Bangladesh. 
+In Irbid, Jordan, the program worked alongside a joint 
+International Bank for Reconstruction and Development (IBRD) and International Finance Corporation (IFC) team in the further development of land value capture-related mechanisms supporting new investments that brought improved services to the significant refugee population as well as to local residents.
+The activities under the Partnerships for Resilience thematic area have grown substantially in FY20. The CRP team has engaged with several new partners, in particularly in Europe, to identify new opportunities for collaboration. In addition, the CRP team has supported the negotiations of the resilient city development (RECIDE) program—a partnership between the World Bank, the 
+Spanish Development Agency (AECID) and the European 
+Commission (EC)—with agreements under finalization. 
+This partnership will utilize up to €100 million in guarantees provided through the European Union’s external investment plan, and will be used alongside World Bank lending operations to help reduce risks associated with financing for cities. 
+In conclusion, while COVID-19 has slowed down much of the operational work, CRP has focused additional effort developing an internal platform that allows expert partner firms to develop digital spatial technology products on an on-demand basis, in publishing new case studies that build the rationale for investing in resilience and guide best practice, and initiating various activities as a result of the COVID-19 pandemic (e.g. City Scan upgrade, 
+Cities on the Frontline event series, etc.).
+In June 2020, CRP underwent an internal review process to streamline and increase efficiency of CRP’s delivery model, building on initial lessons learned from the first years of implementation. The newly proposed CRP structure with the three thematic areas (Planning, Finance, and Partnerships for Resilience) received positive feedback from the reviewers, who also highlighted the value added of CRP because of its unique role, operating on both the finance and planning side within the urban resilience space. Several World Bank units also highlighted interest and areas for increased collaboration. CRP will deliver on its objectives to scale in the years ahead taking these learnings from the past years into account. 
+Maitreyi Das
+Practice Manager
+Urban, Disaster Risk Management, Resilience and 
+Land Global Practice
+The World Bank Group
+Executive Summary | vii
+
+[Page 10]
+Cities over
+Countries
+Cities received financial advisory support 
+Resilience 
+Investment 
+Planning 
+Workshops
+Digital Technology 
+Products developed 
+Technical Teams 
+Engaged
+13 in FY20
+1 in FY20
+3 in FY20
+6 in FY20
+Knowledge Products delivered 
+4 in FY20
+City Scans delivered 
+14 in FY20
+5 in FY20
+Highlights viii | City Resilience Program
+
+[Page 11]
+1.1 Program Description and Development Objectives
+The City Resilience Program (CRP)—a partnership between the World Bank and GFDRR—is a multi-donor initiative aimed at increasing financing for urban resilience that was established in June 2017. 
+CRP’s vision is resilient cities with the capacity to plan for and mitigate adverse impacts of disasters and climate change, thus enabling them to save lives, reduce losses, and unlock economic and social poten-tial. The aim of the program is to catalyze a shift toward longer term, more comprehensive multi-disciplinary packages of technical and financial services, building the pipeline for viable projects at the city level that, in turn, build resilience. CRP pursues three strategic objectives to move toward this vision:
+Contributions from the Swiss State Secretariat for Economic Affairs (SECO), the Austrian Federal Ministry of Finance, and GFDRR support CRP. 
+CRP supports cities across three main thematic areas: Planning for Resilience focuses on providing technical support to ensure that capital investment plans are risk informed. Finance for Resilience zeros in on capital mobilization around urban resilience. Partnership for Resilience concentrates on advocacy and convening global expertise. Together, these three thematic areas are key to helping cities address the resilience challenges of the future. 
+Activities are planned and implemented according to these three thematic areas; each addressing one of CRP’s three strategic objectives mentioned.
+Cities have increased access to tools and technical support effectively to plan for resilience.
+Cities have increased access to multiple sources of financing to ensure that more investments in resilience come to fruition.
+Cities can leverage global partnerships to support their resilience objectives.
+Planning for Resilience
+Cities face a multitude of challenges that are inherently multidisciplinary, complex and interdependent in nature. The impact of climate and disaster risks must be addressed through a multi-sectoral lens to manage these challenges and support resilient urban development effectively. CRP’s approach represents an effort to undertake a fundamental shift in supporting cities tackle pressing development challenges CRP pursues an integrated and spatially informed approach that captures the interplay between the natural and built environments instead of dwelling on sectoral priorities. 
+CRP develops and applies geospatial tools, case studies, and knowledge products as a starting point for engaging with cities on resilience planning that serve to strengthen the analytical foundation of resilience-informed investment planning, and expand the suite of tools available to cities. This process is taken further through a workshop series on resilience planning, where participating cities benefit from a diverse range of technical expertise to help package, prioritize and design resilience-enhancing investments anchored on World Bank Group (WBG) operations. CRP supports the incubation of applied technical knowledge to city challenges, and works to develop competitive market relations that ensure that cities can receive quick and high-quality technical support when needed.
+1. City Resilience Program Overview
+City Resilience Program Overview | 1
+
+[Page 12]
+Finance for Resilience
+The global infrastructure deficit is well documented and nowhere more acute than in the rapidly urbanizing poorer countries in Africa and Asia. Acting alone, governments often struggle to develop a pipeline of high-quality projects that can attract private sector involvement. Though government funding and capacity in many countries are constrained, with appropriate support an opportunity may surface for governments to involve private sector partners to help deliver, maintain, and finance part of this gap. A shortage of attractive investment opportunities in all areas of urban infrastructure blights many lower-income countries, particularly those that respond to the pressures of rapid urbanization and climate change. 
+CRP embraces the provision of upstream operational and technical support pivoted on mobilizing public and private financing around a broader resilience agenda. CRP emPartnerships for Resilience
+A persistent challenge for many cities around the world hinges on designing attractive investments. As such, cities experience a strong demand to support upstream work to help prioritize resilience in their long-term planning. CRP can help cities en¬gage with partners with interest in urban development and disaster risk management, and priorities in financing efforts aimed at urban resilience, capital mobilization, private sector development and innovation. ploys a three-phased engagement process to mobilize financing: i) upstream general legal and capacity analysis related to project financing in a specific city, and strategic guidance to project teams on potential areas for expanded financing for urban resilience projects in the city; ii) financial and regulatory analysis related to a specific project concept; and, iii) specific transaction advisory and financing services. 
+Services provided concentrate on connecting cities with financial advisory services, whether from individual specialists or firms, that can help authorities understand the potential to attract private sector participation to WBG-supported investments. Jointly with 
+WBG task teams and city counterparts, the financial advisory services explore the viability concessions, public-private partnerships (PPPs), and land value capture (LVC) mechanisms as potential financing and funding components, and how these could be structured into the overall project’s delivery.
+CRP follows a three-tiered approach fostering city-focused collaboration within the wider 
+World Bank Group: building external partnerships with private, public and multilateral organizations dealing with urban resilience; internal collaboration across the World Bank, and implementing targeted advocacy and outreach activities. The program invests in building technical and financial partnerships for cities, including promoting technical and financial collaboration across World Bank Group units; outreach to IFI’s development partners, private sector investors, technology firms and other actors in the urban resilience space.
+2 | City Resilience Program
+Santa Fe, Argentina. Photo: diegograndi.
+City Resilience Program Overview | 2
+
+[Page 13]
+1.2 Outcomes and Results
+1.3 Risks, Challenges, and Lessons Learned 
+As a donor-funded program, CRP relies on existing and new donor resources to scale up its program activities. Despite several donors expressing interest in the program, the 
+COVID-19 crisis has had a considerable setback on donor outlook. Partnering with other programs will be instrumental in leveraging resources, while the dialogue with donors, foundations and the private sector will continue as planned, in search for new opportunities. 
+The emergence of the COVID-19 pandemic, the announcement of global travel bans imposed from the beginning of 2020 the need to adjust well-accustomed business practices as well as shifted attention of government and city officials toward emergency response, have significantly and adversely influenced the ability to initiate structured dialogue with city-level counterparts about resilience-building activities. Consequently, the CRP team could not expand partnerships with additional cities as had been planned. The cancellation of planned workshops and face-to-face 
+CRP had already revised and adapted its delivery model during FY19 with the aim to increase efficiencies and redefine its delivery services more broadly. FY20, therefore, represents the first full year of implementation of this new delivery model. A specialized task team leader coordinates each of the three thematic areas. During FY20, a senior urban finance specialist joined the CRP team to drive forward technical implementation of the “Finance for Resilience” area. The twelve months of FY20 reporting period have shown that the program has further enhanced its capacity to offer more comprehensive services and a more structured support to cities (pages 4-5), thanks to the distribution of responsibilities among three task team leaders and the re-organization of work in sub teams. 
+CRP concluded its exploratory phase and entered firmly into implementation at the end of the fiscal year, thanks to the generated demand for its services. The program underwent an internal review for this purpose that concluded formally in early July 2020. Lessons learned of the first stage of implementation and feedback from peer reviewers will guide the operational arrangements of CRP 2.0 in the future. The CRP team expects that the existing structure will enable the program to offer higher quality and more comprehensive services to cities in the long run. events impacted CRP’s delivery model, preventing the creation of city-level partnerships and engagements that would predominantly result from workshops and meetings in the field. As a result, the CRP team ramped up work under existing city-level engagements and initiated various COVID-19 related activities such as the “Cities on the Frontline” event series and the inclusion of new analysis and layers into the City Scan tool. 
+At the same time, many countries aim to pursue a green recovery from the COVID-19 crisis that would likely drive an increased demand for CRP services related to city infrastructure investments. The prevalent financial constraints, however, limit the program’s capacity to respond to the majority of such requests. 
+Last but not least, building on the innovative implementing model, the CRP team has undertaken a review of lessons from managing framework contracts with financial advisors to anticipate and address possible operational risks. 
+City Resilience Program Overview | 3
+
+[Page 14]
+CRP Support to Cities around the World
+Latin America and the Caribbean
+Africa
+4 | City Resilience Program
+
+[Page 15]
+South Asia
+Middle East and 
+North Africa
+Europe and 
+Central Asia
+East Asia
+Pacific
+From inception till 2020.
+City Resilience Program Overview | 5
+
+[Page 16]
+Kathmandu, Nepal. Photo: DKart.
+6 | City Resilience Program
+
+[Page 17]
+2.1 Planning for Resilience 
+The five-day Resilience Investment Planning 
+Workshop, organized in July 2019 in Madrid, 
+Spain, was one of CRP’s key deliverables of the year, bringing together delegates from 24 cities around the world. On day 1 of the workshop, the CRP team conducted a resilience enhancement session with city scan materials developed for the participating cities to help visualize and explore built and natural resilience issues in urban environments. Subsequent days included sessions on deploying geospatial solutions in cities and technical guidance on developing infrastructure investment pitches that boost resilience.
+City scans remained a prominent product for 
+CRP throughout the year. The CRP team created two city scans for cities in Saudi Arabia to support a World Bank Reimbursable Advisory 
+Services (RAS)1 engagement on identifying and coordinating resilient urban investments, and improving urban planning and neighborhoods (box 2.1). In Africa, five city scans were developed for cities in Nigeria to support state-level engagements on cities and urban risks. The CRP team also updated two existing city scans for Addis Ababa, Ethiopia, and Banjul, The Gambia, as task team leaders (TTLs) in the two cities found the original scans valuable and wished to benefit from improvements CRP had made to the product since. In the Asia region, another four city scans assisted with the country dialogue for new projects in Vietnam. In Colombia, CRP produced a scan for the city of Cali that helped the task team engage with the client on flooding risks associated with the construction of a proposed commuter rail system. CRP concluded the fiscal year with city scans used for scoping projects in the cities of Conakry, Guinea and Pristina, Kosovo, helping task teams understand flooding and erosion risks in the former and identify infrastructure deficits and vulnerable areas for post-COVID-19 recovery in the latter. 
+CRP produced nearly all of these city scans with leveraged co-financing resources from respective task teams. 
+CRP codified the urban heat island digital technology as a case study knowledge product. The CRP team helped refine and validate the methodology, applying it to the King Abdulaziz University campus in Jeddah, Saudi 
+Arabia (figure 2.1). Results showed a strong correlation between land surface temperature and both built-up land cover and green vegetation cover, illustrating how transforming natural surfaces to artificial ones can increase their temperature. CRP co-authored a paper showing the methodology and findings, publishing it in the peer-reviewed journal Land2. CRP’s production of city scan outputs involved more than just the city scans themselves in FY20. The CRP team produced several map layers used for city scan exercises in non-CRP workshops, in concert with the program’s Partnerships for Resilience thematic area. CRP first created a set of 14 maps from the city scan for Dar es Salaam, Tanzania, including four new layers, for mapping 
+1. Reimbursable Advisory Services (RAS) are programs offered by the World Bank to its clients in middle and high-income countries. Unlike lending products, RAS is an instrument developed to deliver advisory services to eligible clients requiring services that cannot be fully funded from the Bank’s country program.
+Over the year under review (FY20), CRP has made significant progress in achieving its strategic objectives. This section summarizes the status of city engagements and key results as well as updates on work implemented under each thematic area.
+2. Implementation Progress
+City Scans
+2. Abdullah Addas, Ran Goldblatt, and Steven Rubinyi, 
+Utilizing Remotely Sensed Observations to Estimate the Urban Heat Island Effect at a Local Scale: Case 
+Study of a University Campus, Land/MDPI, 9, 191, June 
+2. City Resilience Program Overview | 7
+
+[Page 18]
+Box 2.1: CRP Supporting Urban Heat Analysis
+At the start of FY20, CRP, in partnership with GFDRR, developed a new digital technology product for understanding urban heat islands, which emerged as a key hazard in the Saudi Arabia RAS. CRP supported the creation of an urban heat analysis initially applied in the Saudi Arabia city scans. The tool uses open source satellite data that measures surface temperatures from 2013 to 2019, highlighting areas that are particularly hot or especially cold. 
+The new feature can also show periodic temperature changes, and illustrates how urban heat islands fluctuate from one season to the next. Not only did the heat island analysis become a standard city scan component, thanks to CRP’s development of a replicable script, it could also be applied freely to any place in the world with minimal technical know-how. The tool even permits high-resolution visualizations of variation in surface temperature across areas of any scale—as small as a block of houses—showing how changes in land use and land cover affect urban heat so municipal decisionmakers can plan to mitigate this hazard.
+Hexagons (depicted in gray) represent areas that exhibit the highest values using the normalized difference vegetation index (NDVI) (top two images) and the normalized difference built-up index (NDBI) (bottom two images) in the summer (an average value above 0.115 and 0.043, respectively) and winter (an average value above 0.136 and 0.049, respectively), 2019. Units are in degrees Celsius (°C).
+Summer, 2019
+Winter, 2019
+High: 37.87
+High: 48.5
+Low: 28.8
+Low: 40.4
+0 500
+Meters
+Summer, 2019
+Winter, 2019
+Figure 2.1 Scans of urban heat islands in Saudi Arabia
+High: 37.87
+High: 48.5
+Low: 28.8
+Low: 40.4
+0 500
+Meters
+8 | City Resilience Program
+
+[Page 19]
+exercises using overlays of transparency paper at the Understanding Risk Tanzania 2019 conference. Next, CRP team created 12 new transparency map layers for Vienna, Austria, for the Understanding Risk Austria 2019 conference. CRP then created 13 transparency map layers including two new ones for Kampala, Uganda, used at a conference GFDRR organized there. Finally, CRP created sets of transparency maps for six additional African cities for the Understanding Risk West and 
+Central Africa conference that took place in 
+Abidjan, Côte d’Ivoire, in November 2019. The engagements with all these cities as well as the wider set of conference attendees helped broaden CRP methodologies and branding well beyond the program itself, reaching even more government counterparts and extending CRP resilience intelligence approach even further.
+The process of scaling up the city scan product to an online platform is also underway. 
+Its first instantiation will be finalized and deployed in an upcoming Resilient Investment 
+Planning Workshop with eight South African cities in November 2020. CRP has engaged in an extensive process to scope technical capabilities and gather requirements for this future version of the product, which will make it significantly more accessible to task teams and clients, more interactive and responsive to different resilience-related queries and inputs, and more attuned to local conditions. 
+CRP is developing new COVID-19 and disease transmission-related data and analyses for the city scan (box 2.2).
+Box 2.2: COVID-19 and Disease Transmission in the City Scan
+CRP has been actively developing new city scan analyses and layers since March, related to the 
+COVID-19 outbreak. For example, the city scan now includes a series of maps detailing the changes in economic activity in a city, on a month-to-month and a composite basis. The spatial results compared with the city scan’s summary of coinciding urban and national policy changes, highlights variation in policy adherence and economic action across the city., The city scan has refined its emergency accessibility map regarding health services and disease in general to highlight areas that are farthest along a city’s road network from a hospital. 
+It also shows a new built-up area density layer, indicating where more interactivity between people is likely to take place, that cities may use to respond to disease outbreaks and for long-term health resilience planning.
+Figure 2.2 Scan of hospital accessibility in Kosovo
+2. City Resilience Program Overview | 9
+
+[Page 20]
+Technical Advisory Services 
+Beyond the city scans and their related technical and knowledge products, CRP engaged in several technical and analytical services. 
+It included CRP’s ongoing cooperation with the World Bank’s Earth Observation for Sustainable Development (EO4SD) Consortium, facilitated by the European Space Agency (ESA), for developing an internal platform that allows expert partner firms to develop additional digital spatial technology products on an agile and on-demand basis framed within TTL needs for resilience knowledge and planning. CRP is also collaborating with a World Bank flood risk working group that aims to help TTLs quickly procure and access high-quality flood risk assessment products from a group of expert firms vetted for technical and operational excellence.
+CRP also collected and evaluated detailed real estate data for the city of Monrovia, Liberia. 
+This effort helped the project team conduct a more comprehensive analysis of the city’s real estate market to drive consultations with the government on opportunities for public land value capture, the siting of new public facilities, and generating economic growth. 
+In light of the COVID-19 pandemic, CRP provided direct support for the establishment of the new COVID-19 big data observatory (BDO), in partnership with the World Bank 
+Governance Global Practice. BDO is an online platform that curates the best available 
+COVID-19 response, recovery, and resilience insights from non-conventional digital data sources, such as mobility, crowdsourcing, transactions systems, and text mining, linked to governments’ policy response design and implementation needs. CRP helped establish 
+BDO’s future capabilities and the applied spatial analyses it would use, and helped BDO kindle its support to clients. Separately, CRP co-authored a blog about the use of satellite nighttime light data for understanding the impacts of shocks like the COVID-19 outbreak and how people adapt to them that can be used to help plan for long-term resilience.
+CRP also expanded its internal partnerships to support nature-based solutions (NBS). 
+Figure 2.3 Scan of Rainwater Flood Probability in Maiguguri, Nigeria
+10 | City Resilience Program
+
+[Page 21]
+These approaches—such as parks, wetlands, tree rows, green roofs, bioswales, and natural waterfront defenses—use nature and natural features as an integral part of the interconnected urban hydrological, ecological, social, and economic systems. But task teams and governments often do not have sufficient information or tools to determine potential urban NBS at the project scale. In response to teams’ stated needs for clearer guidance on rapidly assessing and proposing urban NBS investments, CRP is supporting the World 
+Bank NBS for disaster risk management (DRM) knowledge silo breaker in creating an urban 
+NBS rapid assessment toolkit. This toolkit will help World Bank staff and government counterparts collaboratively identify, assess and prioritize NBS investments in cities.
+In South Africa, CRP started supporting a RAS engagement for building resilience into municipalities’ capital investment projects and for preparing and prioritizing them. The CRP team helped scope the engagement and prepared the terms of reference, budget, and inception report, and will expand its assistance significantly in FY21. Such help will include the 
+CRP team has also initiated two case study knowledge products that it will complete in 
+FY21. One is a direct extension of CRP’s previous Wroclaw, Poland case study on the economic benefits of investing in urban flood protection—an extensive spatial analysis of the economic, population, and hazard risk impacts of urban flood protection infrastructure 
+Workshops
+Case Studies preparation of city scans of the country’s eight metropolitan municipalities, the delivery of a resilient investment planning workshop for these eight counterparts, training to a client partner on the sustainable methodology for creating city scans, and support for developing a resilience rating for capital investments and organizing capital project portfolios as well as delivering resilient project financing workshops and assisting with real project preparation in subsequent fiscal years.
+Further, CRP has begun several initiatives that will accelerate in the next fiscal year. First, the program will continue to support the internal flood risk working group on developing means to ensure faster, cheaper, and high-quality flood risk assessments. With urban flooding increasing in frequency and intensity around the world and task teams conducting more urban flood analysis to support country dialogue and project preparation, the demand for such tools is expected to be high. CRP is also exploring other key topics to support the pooling of external expertise for high-quality, rapid assessments, such as seismic risk assessments. In addition, CRP is exploring ways of providing support to task teams to monitor infrastructure construction projects on a remote basis, saving costs and speeding implementation while managing 
+COVID-19 and other risks and restrictions.
+across five cities around the world, including 
+Wroclaw, Poland. The other is an assessment of the hazard of land subsidence in nine cities around the world, in concert with three partner firms via the EO4SD initiative; the assessment uses two different technical approaches to inform resilient project preparation decisions in the cities, compare the relative advantages of the different measurement techniques, and potentially scale into a product that can be quickly deployed in other cities.
+2. City Resilience Program Overview | 11
+
+[Page 22]
+Key findings from this year’s work under the Planning for Resilience thematic area that are expected to guide future CRP activities included:
+The demand for spatial analytics and understanding remains high
+World Bank Task Teams continue to derive significant value from the analytic insights and investment guidance conversations that City Scans provide. In FY20 alone, seven Task Team Leaders who had previously received City Scans requested new ones. Task Team Leaders have found success using the product in dialogue with clients, running workshops, and internal decision making. In several cases, CRP has performed deeper, add-on analysis of specific City Scan results in response to Task Teams’ interests, providing further value for targeting investments upstream. TTLs continue to appreciate the fast delivery of this extensive product.
+The City Scan’s flexibility in multiple settings and objectives is highly valued
+As seen through the many non-CRP workshops and meetings in which World Bank internal CRP partners used the City Scan and its interactive exercises, there is a significant interest in developing and adopting different uses and teaching methods from the foundation the City Scan furnishes. The CRP is continuing to utilize different City Scan layers, formats, and exercises in various workshops, depending on the audience and setting. Furthermore, the City Scans developed for eight cities in South Africa are established as a simultaneous online platform and instructional facilitation tool, enabling a smooth delivery of City Scan exercises in a virtual format. The modular aspect of the City Scan is key to its success in being applied widely to different contexts and purposes.
+Urban flooding is a key focus
+With urban flooding increasing in frequency and intensity in cities around the world, cities have greater need to understand its causes, effects, and potential solutions. Accordingly, urban flood risk analyses and flood-protective projects are an ever-growing priority. Support related to this critical hazard is a key focus for CRP for future Fiscal Years. The Program can maximize its role as the manager of the future 
+Framework Agreement for urban flood risk assessment by supporting the preparation of these assessments and additional, flood-related analysis.
+Providing next-level technical support to cities is a growth area
+In addition to the City Scans, the CRP is increasingly being approached for deeper technical studies of specific urban and resilience issues. For example, CRP is providing a technical analysis of land subsidence in nine cities around the world. Other needs from clients relate to real estate market valuation, understanding urbanization processes, and developing spatial analysis platforms. Continuing to target opportunities for deeper technical support where CRP can provide the most value is an ongoing development practice for the Program.
+Utilizing cases to build awareness and reach clients
+As a young program, CRP is still developing its portfolio of product offerings. In some cases, the requests CRP receives from Task Teams may be narrower than what CRP can fully provide, because Task 
+Teams may be less familiar with the full scope of CRP’s Planning for Resilience technical support. The more and more diverse technical work CRP leads and supports, the more the Program will be able to share examples of a broader set of completed products, building greater awareness and buy-in for further assistance.
+Key Findings
+12 | City Resilience Program
+
+[Page 23]
+Funding from CRP was instrumental in supporting project preparation of the National Urban Cadaster and Municipal Support Project in Peru (US$50 million) and the Urban Resilience Project in Bolivia (US$70 million), which were approved by the World Bank’s Board of Directors in January and February, 2020, respectively. 
+In Peru, the National Cadaster and Municipal Support Project will strengthen urban cadasters in 22 municipalities located in four provinces (Lima, Chiclayo, Lambayeque and Piura) and improve local government capacities for revenue generation and urban management, including hazard risk management. CRP funding helped review gaps in local property tax revenue and assessed hazard risks in the municipality of Brena. It also supported a review of national policies on land use planning and disaster risk management in urban areas. 
+The Bolivia Urban Resilience project finances investments in infrastructure upgrading and urban resilience works in the municipalities of La Paz and Santa Cruz. CRP funding supported analysis of the integration of hazard risk into project design, as well as potential for land value capture in areas where resilient public space was envisaged for financing. In both countries, SECO/SDC are in the process of finalizing credit proposals to fund complementary technical assistance efforts in urban resilience and municipal management. 
+2.2 Finance for Resilience 
+As part of the Finance for Resilience thematic area, CRP continued conducting upstream technical support, and consolidating and sharing knowledge products through case studies and methodological notes.
+Financial Advisory Support
+Throughout the reporting period, CRP facilitated financial advisory support for a total of 16 new and ongoing city engagements in 
+Africa, Asia and Latin America either through outsourced financial and economic advisory services or by hiring specialized contractors. 
+These engagements have evolved at different speeds and can be grouped broadly by their stage of progress: i) initiating a formal and structured dialogue with city officials about existing resilience challenges and investigating possible funding and financing solutions for addressing those challenges; ii) analyzing background economic, governance and public finance conditions to better understand the underlying enabling environment for deploying a range of funding and financing solutions (box 2.3); and, iii) carrying out prefeasibility level financial and economic advisory services. 
+Box 2.3: Supporting project preparation in Peru and Bolivia
+La Paz, Bolivia. Photo: saiko3p.
+Lima, Peru. Photo: ErithJohn.
+2. City Resilience Program Overview | 13
+
+[Page 24]
+CRP is working closely with IBRD and IFC teams to develop a comprehensive solution to the city of Irbid’s central market that has outgrown its city center location. With a rapid increase in population from an influx of Syrian refugees, the relocation of the market provides an opportunity to unlock further economic development and jobs along with a revitalized city center. CRP is helping its team to progress technical land value capture opportunities in a way that helps the municipality make the most productive use of the IFC-led loan. In addition, the CRP team is working with IBRD and IFC colleagues to explore opportunities to access further concessional finance related to the refugee crisis, including potential collaboration with the Global Concessional Financing Facility (GCFF) that provides development support on concessional terms to middle-income countries impacted by refugee crises.
+The emergence of the COVID-19 pandemic, resulted in a lower number of new engagements this year and a heavier emphasis on driving forward existing engagements. CRP also made good progress on some new engagements. For instance, in Dhaka, Bangladesh, CRP initiated dialogue with local officials about the redevelopment of an 8-hectare site occupied by a rundown Mohakhali bus terminal and its conversion into a mixeduse transit-oriented community anchored by a new bus depot. Additionally, in Douala, 
+Cameroon, CRP supported World Bank TTLs’ exchanges with city officials about a new resilient transport project, and provided advice on the terms of reference for a transit-oriented development study in connection with a projected bus rapid transit (BRT) line. 
+As part of prefeasibility financial advisory services, the CRP team typically supports the planning of urban resilience and renewal projects, assesses financing options with potential contractors, and explores possible public-private partnership (PPP) land value capture opportunities. Examples from FY20 included:
+Engineered landfill sites in Abidjan, Côte d’Ivoire, and Accra, Ghana.
+Continued support to urban revitalization planning for the socially and environmentally disadvantaged areas of Quilmes, Argentina.
+Upgrading bus terminal facility, supporting city’s economic resilience, and urban upgrading in Bamako, Mali.
+PPP structuring for the municipal solid waste operations in Greater Dakar, Senegal.
+An eco-friendly master-planned industrial facility and relocation of tanneries from the city center to the new facility in Ulaanbaatar, Mongolia.
+Eradication of inappropriate or unbalanced logistic use from the city center, and a new regional wholesaling hub for fresh produce in Irbid, Jordan (box 2.4).
+Box 2.4: Irbid, Jordan
+The link between municipal finance, Land Value Capture and resident/refugee communities. 
+14 | City Resilience Program
+
+[Page 25]
+Detailed financial and economic advisory services provided by CRP aim to secure funding for resilience-building investments, facilitate urban revitalization and infrastructure upgrades in underserved areas, promote economic change in socially- and environmentally-challenged communities surrounding the site, and help city officials understand the monetization potential of specific locations. During the FY20 reporting period, CRP worked with city officials of: 
+During CRP-organized Resilience Investment 
+Planning Workshop in Madrid, Spain, held in 
+July 2019, the CRP team supported the organization and conduct of plenary sessions on mobilizing finance for infrastructure that included land value capture, guarantees and credit enhancements, and urban development PPPs, moderation of a round-table on finance related discussions during the workshop, and bilateral meetings with city delegaCasablanca, Morocco, on the reuse and monetization of two underutilized public sites that were abandoned abattoirs and an obsolete municipal library building. 
+Dar es Salaam, Tanzania, to explore land value capture opportunities on the 57-hectare urban site benefiting from the potential World Bank supported flood protection investments.
+Maputo, Mozambique, on land value capture opportunities associated with urban infrastructure investment and urban upgrading in Baixa and Katembe districts.
+Semarang, Indonesia, on opportunities for financing street lighting improvements, as an urban resilience measure, via a combination of energy performance contracts and land value capture.
+Tres de Febrero, Argentina, on land valuation by a specialized real estate firm in relation to a 
+1.2-hectare publicly-owned transit site with 60,000 m build up capacity.
+Vientiane, Laos, on land value capture opportunities associated with the redevelopment of the Mekong riverfront.
+Engagement and Outreach tions, financial advisors, and representatives of partner donor organizations on potential investment opportunities in delegate cities. 
+In addition, CRP contributed to the workshop on spatial planning and investment prioritization for Indonesia’s Coordinating Ministry for Political, Legal, and Security Affairs (KEMENKO) in July 2019, providing an overview and case studies of how planning and prioritization of resilience-focused infrastructure spending in cities affects private capital investment decisions in local economies.
+2. City Resilience Program Overview | 15
+
+[Page 26]
+2.3 Partnerships for Resilience
+The number of potential financing and technical partners interested in the urban resilience space is growing rapidly. Understanding who can offer what value to cities, and how CRP could potentially establish partnerships in delivering climate resilience financing and technical assistance to cities, requires building and nurturing a network, and learning how to reduce transaction costs for cities.
+As a global program, and benefitting from 
+GFDRR’s existing network and contacts, CRP’s task teams have, since its inception, supported cities in identifying potential partnerships on a local level to connect cities with the right partners, including through workshops and conferences organized and supported by CRP.
+The resilient city development (RECIDE) program made important progress in its establishment and development in FY20. RECIDE is a partnership between the Spanish Agency for International Development Cooperation (AECID) and the World Bank, which allows low-income countries to access risk mitigation tools provided through the European 
+Commission’s external investment program (EIP) that the CRP team contributed to establish. The financial and legal agreements are being finalized by the partners, and the first guarantees are expected to be deployed in 
+2021 (box 2.5). 
+Key findings from this year’s work under the Finance for Resilience thematic area that are expected to guide future CRP activities included:
+Possibilities for greater engagement in the solid waste management sector 
+Through the year with work in Abidjan, Côte d’Ivoire, Accra, Ghana, and Dakar, Senegal, and interest from other cities, it became increasingly apparent that significant opportunities exist for increased quality and availability of the solid waste management services, and that rationale might be strong for mobilizing the private sector to provide some or all of the investment and operation required. Over 
+FY21, the CRP team expects an increased level of interest in such engagements including the possibility of finding ways to standardize some parts of the project preparation or look for ways to extend the impact of support beyond individual landfills or accomplish both.
+The multidisciplinary approach needed for successful land value capture 
+Work in cities such as Bamako, Mali, Buenos Aires, Argentina, and Irbid, Jordan, ( box 2-5 ) reinforced the need for work on land value capture (LVC) to be undertaken in coordination with master planning efforts and operational considerations, often meaning engagement across a number of technical areas of expertise in city governments and WBG.
+The need to ensure comprehensive support 
+As CRP supported projects progress through upstream support and into prefeasibility, CRP will look to play an increased role helping municipalities identify and access funding and technical capacity needed to take projects forward to a full transaction. Such end-to-end vision is critical to avoid stranded projects, and will be supported by further collaboration with other funding sources across WBG.
+The importance of building awareness 
+The year has also shown, through the July 2019 Madrid workshop and subsequent work, the need to continue providing easily understandable and accessible information for cities and non-private capital specialists inside WBG on how mobilization of the private sector can contribute to project objectives, the options available, and how opportunity can be approached in an informed and wellplanned manner.
+Key Findings
+16 | City Resilience Program
+
+[Page 27]
+RECIDE is an effort to assist city governments in African and EU neighborhood countries build greater resilience to climate and disaster risks through attracting more private sector financing solutions, with a priority around investments in flood protection, solid waste management, sustainable transport, and sustainable energy. The program attempts to target situations where infrastructure gaps represent untapped opportunities for private-sector engagement, provided that an appropriate investment planning and risk mitigation platform is in place.
+Through RECIDE, risky projects in challenging CRP client environments, primarily in Sub-Saharan Africa and EU southern neighborhood, would be able to access a total of €100 million guarantees backed by the European Commission and AECID balance sheets. These guarantees will support the wider CRP objectives of increasing private investment in resilient infrastructure by helping make investments bankable for investors while controlling the cost at which this financing can be provided.
+The projects these guarantees back will be further supported by WBG and AECID through anchor loans to the relevant sector in the selected city. The anchor loan may be applied to a number of uses including viability gap funding, helping solve sectoral issues, and municipal reform that provide the environment needed to attract and make best use of increasing flows of private capital.
+Through FY20, the CRP team had established the necessary institutional arrangements to allow for implementation of this innovative approach originally approved in FY18. Furthermore, the team has focused time and effort on building a pipeline of investment opportunities that could benefit from the guaranteed resources.
+Over FY20, CRP continued deepening engagement in mobilizing co-financiers for CRP investment programs. Building on connections established at the workshop in Madrid, 
+Spain, in July 2019 (box 2.6), CRP facilitated co-financing engagements with cities, in particular with two engagements that had advanced more over the latter months of FY20, including a potential co-financing for a project in Abidjan, Côte d’Ivoire, and one in Dakar, 
+Senegal, both expected to be signed in FY21. 
+CRP will begin the process of following up on additional co-financing opportunities initially identified, and establish a structured process and set-up for replication of such co-engagements over FY21.
+Finally, as a result of the COVID-19 pandemic 
+CRP and GFDRR, through a partnership with the Global Resilient Cities Network, established a weekly speaker series that highlighted various approaches and resources available to address the crisis. Speakers came from across the globe and from a wide array of cities, ranging from Singapore to Lagos, and 
+Buenos Aires to Tel Aviv. As of June 2020, over 
+5,000 participants had joined remotely to learn from policy makers, city officials and scientists, and shared lessons learned and best practices. The series is expected to continue in 2021. 
+Box 2.5: Resilient City Development (RECIDE)
+Kigali, Rwanda. Photo: stellalevi.
+2. City Resilience Program Overview | 17
+
+[Page 28]
+CRP organized a Resilience Investment Workshop in Madrid, Spain, on July 8–12, 2019 combining work streams and activities from two thematic areas— Planning for Resilience and Finance for Resilience. The five-day interactive workshop brought together government officials from 24 cities in the global South, technical teams, as well as international finance institutions (IFIs) and donors to help cities explore and refine their resilience infrastructure investment options. The event was hosted by the Spanish Agency for International Development 
+Cooperation (AECID). 
+Similar to previous workshops’ interactive approach, the week featured a mix of presentations, case studies, a marketplace, and office hours that enabled concrete support from technical and financial experts to task teams and clients. The workshop consolidated the existing expertise both within and outside the World Bank, and presented each city delegation with support opportunities tailored to their project needs. On the planning side, cities were exposed to new innovative technological solutions, new ways of thinking around risk, and had access to various technical teams around topics ranging from solid waste management to resilient transport. On the finance side, financial advisors highlighted several possibilities to try to develop these concepts further into well-prepared, risk-informed and bankable projects. Cities themselves saw the workshop as providing them with a general framework to think about the most effective ways of unlocking private capital into their investment needs. 
+An important newly added aspect of the workshop was showcasing and highlighting potential partnerships between the World Bank and other IFIs and donors, and what they offer to client cities, and what is feasible to support. 
+Various IFIs and donors, including AIIB, AFD, AECID, BMU, DFID and RVO participated in the event with the objective of potentially supporting project preparation or co-financing or both for select project opportunities. The event also provided an opportunity for donors and IFI to have bilateral meetings to enhance understanding of the range of projects and potential support to WB task teams. Several concrete co-financing opportunities were identified in the immediate aftermath of the workshop.
+Before the COVID-19 crisis hit, CRP took advantage of the Understanding Risk (UR) conferences in Vienna, Austria, and Dar es Salaam, 
+Tanzania, in October 2019, and Understanding Risk West and Central Africa in Abidjan, 
+Côte d’Ivoire, in November 2019, as platforms to promote the program’s capabilities and services to a wide range of participants and to explore opportunities for collaboration. CRP was furthermore showcased at a GFDRR conference in Kampala, Uganda, in September 
+2019, and at the World Urban Forum (WUF) in 
+Abu Dhabi, United Arab Emirates, in February 
+2020.
+Photo by © City Resilience Program - Flickr.
+Box 2.6: Resilient Investment Planning Workshop, Madrid, July 2019
+18 | City Resilience Program
+
+[Page 29]
+Key findings from this year’s work under the Partnerships for Resilience thematic area that are expected to guide future CRP activities included:
+The potential for partnership-building and collaboration in urban settings is wide, both in terms of types of activities and organizations/institutions with which coordination can take place. The CRP team will continue to focus on developing “quality”selected partnerships in areas considered key for achieving its goals and bringing added value/ complementarities to the Program.
+Effective partnerships and platforms are important to enhance technical expertise and analytical work in support of cities. The Program will continue reaching out to partners in the urban and resilience space to promote synergies, share knowledge and identify concrete opportunity for collaboration including through co-financing. This will also be achieved through resuming—when permitted— the organization of the CRP workshops series and also by presenting CRP’s key results and lessons learned in relevant fora. 
+Key Findings
+Colombo, Sri Lanka. Photo: mbrand85. 
+2. City Resilience Program Overview | 19
+
+[Page 30]
+2.4 Monitoring of Results
+Strategic Objective 1
+Progress Results FY20
+Cities have increased access to tools and technical support to effectively plan for resilience
+Intermediate Outcome
+Results Indicator
+FY18
+FY19
+FY20 
+Target
+FY20 
+Actual
+Cumulative
+1.1 New digital technology and knowledge products developed to support cities in their resilience planning # of digital technology products developed # of knowledge products and case studies developed which focus on planning for resilience
+1.2 Cities provided with upstream operational and technical support in areas of resilience planning # of city scans delivered to cities # of CRP workshops organized that included a resilience planning focus # of cities participated in CRP workshops that included a resilience planning focus
+1.3 Cities provided with support to design and implement resilienceenhancing investments # of cities receiving scaled up technical assistance on design and implementation of resilience-enhancing investments
+3 new digital technology products were developed, including urban heat island identification by surface temperature variation, flood event detection and road network orientation.
+1 case study was delivered on the codification of urban heat island digital technology. 
+CRP helped refine and validate the analysis methodology, applying it to the campus of 
+King Abdulaziz 
+University in 
+Jeddah, Saudi 
+Arabia.
+14 city scans were delivered to Dammam and 
+Riyadh, Saudi 
+Arabia; Benin City, 
+Maiduguri, Port 
+Harcourt, Warri and 
+Yenagoa in Nigeria; 
+Ca Mau, Rach Gia, 
+Tra Vinh and Vinh 
+Long in Vietnam; 
+Cali, Colombia; 
+Pristina, Kosovo; and Conakry, 
+Guinea. 
+1 workshop on resilient investment planning was organized in 
+Madrid, Spain in July 2019 in which 23 new cities attended (total participating cities were 24, excluding one city that had previously attended the 
+Durban, South 
+Africa, workshop with a resilience focus).
+No additional cities received scaled-up technical assistance in FY20.
+Table 2.1 Intermediate outcome-level indicators for strategic objective 1
+20 | City Resilience Program
+
+[Page 31]
+Strategic Objective 2
+Cities have increased access to multiple sources of financing to ensure that planned investments in resilience come to fruition
+Intermediate Outcome
+Results Indicator
+FY18
+FY19
+FY20 
+Target
+FY20 
+Actual
+Cumulative
+2.1: Upstream activities and developing knowledge products to help identify opportunities in mobilizing finance for resilience # of knowledge products and case studies developed which focus on finance for resilience
+2.2 Cities assisted in upstream operational and technical support to mobilize capital for investments in resilience # of rapid capital assessments delivered to and utilized by cities # of CRP workshops organized that included a resilience financing focus # of cities participated in CRP workshops that included a resilience-financing focus
+2.3 Cities supported to mobilize capital for investments in resilience # of cities receiving scaled up technical assistance on design and implementation of resilience-enhancing investments
+Progress Results FY20
+3 new knowledge products or assessments were delivered, including an assessment on urban regeneration districts for the 
+Mongolia project team, a land-valuecapture profiling for Kenya, and a capital investment planning deck for an Indonesian project team.
+No additional 
+RCAs were completed in 
+FY20. In FY18-20 preparation of 
+RCAs has been associated with initial stakeholder dialogue with candidate cities for whorkshops. Even though the most recent workshop in Madrid was held in FY20, all RCAs for paricipant cities in that workshop were completed in FY19 and hence accounted for in FY19. Going forward CRP will be deploying a revised version of 
+RCA for engaging with cities outside of workshops.
+1 workshop focusing on resilience financing was held in 
+Madrid, Spain in 
+July 2019, which additional 23 cities attending (total participating cities were 24, excluding one city that had previously attended the 
+Bangkok, Thailand workshop with a resilience-finance focus). 
+6 additional cities started receiving scaled up technical assistance or financial advisory support (Ulaanbaatar, 
+Doula, Montevideo, 
+Dhaka, Maputo, 
+Accra), and engagements from previous FY’s continued.
+Table 2.2 Intermediate outcome-level indicators for strategic objective 2
+2. City Resilience Program Overview | 21
+
+[Page 32]
+Strategic Objective 3
+Cities can leverage global partnerships to support their resilience objectives 
+Intermediate Outcome
+Results Indicator
+FY18
+FY19
+FY20 
+Target
+FY20 
+Actual
+Cumulative
+3.1 Technical knowledge about resilience leveraged for application in cities # of World Bank technical teams engaged to operationalize and scale support to cities # of digital technology firms engaged in developing CRP products
+3.2 Co-financing agreements generated with development partners # of IFIs mobilized as co-financiers of CRP investments programs
+3.3 Participation in international events to highlight CRP programmatic approach and showcase CRP products # of international events showcasing CRP
+Progress Results FY20
+5 additional technical working groups were supported by CRP in FY20 (Land Thematic 
+Group, Social 
+Resilience, Smart 
+Cities, Solid Waste 
+Management, 
+Disaster Resilience 
+Analytics and 
+Solutions). 
+6 new partnerships with digital technology firms were built, including Indra 
+Sistemas, S.A. (Spain), New Light 
+Technologies (United States of 
+America), Nelen & Schuurmans 
+B.V. (Netherlands), 
+Bureau de 
+Recherches 
+Geologiques et 
+Minieres (BRGM) (France), GISAT (Czech Republic) as well as Planetek 
+Italia Srl (Italy).
+No IFI co-financing agreements were signed during FY20
+CRP participated at 
+5 external events through FY20: the 
+Kampala Disaster and Climate 
+Resilience Strategy 
+Workshop in 
+Kampala, Uganda, in September 2019; 
+Understanding 
+Risk Austria in 
+Vienna, Austria, in October 2019; 
+Understanding Risk 
+Tanzania in Dar es 
+Salaam, Tanzania, in October 2019; 
+Understanding Risk 
+West and Central 
+Africa in Abidjan, 
+Côte D’Ivoire, in 
+November 2019; and, the World 
+Urban Forum (WUF) in Abu 
+Dhabi, United 
+Arab Emirates, in 
+February 2020.
+Table 2.3 Intermediate outcome-level indicators for strategic objective 3
+22 | City Resilience Program
+
+[Page 33]
+Plans for the Next Reporting Period e are ready to scale having strengthened the CRP team and the CRP organizational structure, and from the 
+CRP experience to date working with more than 100 cities. Some of our products, such as the city scan, are likely to scale to several hundred cities over the coming years, but our ambition is not primarily focused on serving a large number of cities. Our ambition over the next three years is to generate deeper and better engagements with selected cities, to create transformative impact and prove that 
+CRP can leverage both technical and financial expertise, and to enable cities to do bigger and better resilience investments. 
+CRP’s Planning for Resilience thematic area will support cities in filling high-demand technical knowledge gaps by quickly facilitating access to relevant expertise, and working directly with partners on resilience understanding and resilient capital investment planning in RAS and operational engagements. CRP will also scale up its development of knowledge products and resilience tools, strengthen the analytical foundations of resilience-informed planning, including a web-based version of the city scan that will significantly extend the ability of task teams and clients to realize urban resilience insights and facilitate planning decisions, especially from movement-restricted settings because of COVID-19 or other shocks.
+Supporting cities in expanding the spectrum of funding and financing tools for investments in urban resilience will remain a key priority under CRP’s Finance for Resilience thematic area. CRP will act as a service platform helping cities connect with the necessary technical expertise to design and pursue viable investment opportunities aimed at reducing exposure to climate, disaster and pandemic risks, and facilitate access to multiple funding and financing sources to ensure that those investments come to fruition. Specific efforts over FY21 will include updating the early stage rapid capital assessments to include a structured review of identified investments, and seeking further mechanisms to link the finance work of CRP with the planning area’s focus on resilience. 
+Going forward, CRP will invest time and resources in expanding partnerships for urban resilience. i) Outreach to international finance institutions (IFIs), development partners, foundations, private sector investors, technology firms, academia and other external entities that may be interested in partnering and expanding support to the urban resilience agenda in areas of planning and finance. ii) Advocacy and outreach to cultivate an ecosystem of urban resilience actors. 
+The Resilience Investment Planning Workshop series, already successfully delivered in 
+FY19 and FY20—once travel and presential meetings are again possible—will remain an important mechanism through which the 
+CRP team can expose potential technical and financing partners to our city engagements at scale. 
+CRP will also continue the virtual speaker series “Cities on the Frontline” to promote best practices in tackling the COVID-19 pandemic by cities from around the globe.
+3. Looking Ahead 
+3. Looking Ahead | 23
+
+[Page 34]
+This section provides a brief overview of the financial contributions to CRP since inception and disbursement as of June 30, 2020.
+The Government of Switzerland (SECO) pledged US$9 million in October 2017 to the City Resilience Program Multi-Donor 
+Trust Fund (CRP MDTF) managed by GFDRR. 
+As agreed in the administrative agreement (AA) between SECO and the World Bank, the funds were allocated across four annual installments. The first installment of US$4 million was transferred upon signing of the agreement in 2017, the second installment of US$2 million was transferred in March 
+2018, the third installment of US$2 million was transferred in March 2019, and the final installment of US$1 million was transferred in March 2020. An additional contribution of 
+US$2.2 million was received from SECO in December 2019 for urban resilience investments in the Europe and Central Asia region. Since the first installment, the Swiss contribution produced a financial investment income of 
+US$277,082.14 which has been added to the trust fund as stipulated in the AA.
+In addition, CRP has benefitted from financial support through the core GFDRR MDTF. This includes a US$1.78 million contribution from the Austrian Federal Ministry of Finance in 
+2018, and in total US$3 million from GFDRR 
+MDTF resources (figure 4.1). 
+Donor contributions for 
+CRP total 
+US$16,261,386 at the end of the FY20. Additional sources of funding from new donors are expected in FY21, including through the 
+RECIDE program which will be set up as a separate program funded by the EU and managed by a dedicated World Bank team. 
+In addition to financial contributions, CRP’s work is to a limited extent also financed through reimbursable advisory services (RAS) for middle- or high-income countries that are being paid by countries requesting these services. During FY20, Saudi Arabia financed the creation of city scans through a RAS that amounted to approximately US$60,000 in staff costs.
+Figure 4.1 Sources of CRP allocations
+4. Financial Overview
+Switzerland $11,477,082.00
+Austria $1,780,000.00
+GFDRR $3,004,304.00
+24 | City Resilience Program
+
+[Page 35]
+As of June 30, 2020, US$9.6 million of the total funding have been disbursed and US$305,911 have been committed. As a result, CRP is starting FY21 with a fund balance of nearly US$6.4 million (figure 4.2).
+4.1 Donors and Partners
+CRP’s main donors are the Swiss State Secretariat for Economic Affairs (SECO), the Austrian Federal 
+Ministry of Finance, and GFDRR. CRP also collaborates with several international partner organizations including the Spanish Development Agency (AECID), the European Commission, the Netherlands 
+Enterprise Agency (RVO), the Global Resilient Cities Network, and others.
+CRP cooperates with partners who have an interest in urban development and disaster risk management and priorities in financing efforts aimed at urban resilience, capital mobilization, private sector development and innovation. Co-financing arrangements with other multilateral banks are pursued either on an ad-hoc basis or through systematic arrangements and framework agreements .
+Figure 4.2 CRP Trust Fund Balance
+Disbursed $9,574,252.00
+Commited $305,911.00
+Fund Balance $6,381,223.00
+4. Financial Overview | 25
+
+[Page 36]
+City Resilience Program Multi-Donor Trust Fund
+TF Number
+TF072921
+Activation Date
+October 19, 2017
+Total allocations
+US$11,477,082
+End Disbursement Date
+December 31, 2027
+Donors
+Swiss State Secretariat for Economic Affairs (SECO)
+TF Managers
+Manuela Chiapparino, Stephan Zimmermann 
+Supervising Manager
+Julie Dana
+TF Name
+CRP allocations through GFDRR Multi-Donor Trust Funds 
+TF Numbers
+TF072584 & TF072236
+Total allocations
+US$4,784,304
+Donors
+Austrian Federal Ministry of Finance (US$1,780,000) 
+Global Facility for Disaster Reduction and Recovery (US$ 3,004,304)
+Global Facility for Disaster 
+Reduction and Recovery (US$3,004,304)
+December 31, 2027
+TF Manager
+Cristina Otano
+Supervising Manager
+Julie Dana
+Appendix A. Key Trust Fund Data
+26 | City Resilience Program
+
+[Page 37]
+Abidjan, Côte d’Ivoire
+2. 
+Accra, Ghana
+3. 
+Addis Ababa, Ethiopia 
+4. 
+Balikpapan, Indonesia
+5. 
+Bamako, Mali
+6. 
+Bangkok, Thailand
+7. 
+Banjul, The Gambia
+8. 
+Barranquilla, Colombia
+9. 
+Batroun, Lebanon
+10. Benin City, Nigeria
+11. Bethlehem, West Bank
+12. Bint Jbeil, Lebanon
+13. Blantyre, Malawi
+14. Brena Area, Lima, Peru
+15. Bucharest, Romania
+16. Ca Mau, Vietnam
+17. Cali, Colombia
+18. Can Tho, Vietnam
+19. Cap-Haitien, Haiti
+20. Casablanca, Morroco
+21. Chittagong, Bangladesh
+22. Cochabamba, Bolivia 
+23. Colombo, Sri Lanka
+24. Conakry, Guinea
+25. Cotonou, Benin
+26. Dakar, Senegal 
+27. Dammam, Saudi Arabia
+28. Da Nang, Vietnam
+29. Dar es Salaam, Tanzania
+30. Darkhan, Mongolia
+31. Davao City, Philippines
+32. Deyang, China
+33. Dhaka, Bangladesh
+34. Douala, Cameroon
+35. El Alto, Bolivia 
+36. Eldoret, Kenya
+37. Erdenet, Mongolia
+38. eThekwini, South Africa
+39. Freetown, Sierra Leone
+40. Garowe, Somalia
+41. Gauteng Province, South 
+Africa
+42. Guatemala City, Guatemala
+43. Hai Phong, Vietnam
+44. Hebron, West Bank
+45. Ho Chi Minh City, Vietnam
+46. Ibadan, Nigeria
+47. Independencia Area, Lima, 
+Peru
+48. Irbid, Jordan
+49. Istanbul, Turkey
+50. Jakarta, Indonesia
+51. Joub Janinne, Lebanon
+52. Kahramanmaras, Turkey
+53. Kampala, Uganda
+54. Kathmandu, Nepal
+55. Khanh Hoa, Vietnam
+56. Kiev, Ukraine
+57. Kigali, Rwanda
+58. Kinshasa, Democratic 
+Republic of the Congo
+59. Kisumu, Kenya
+60. La Paz, Bolivia
+61. Lalitpur, Nepal
+62. Maiduguri, Nigeria
+63. Manaus, Brazil
+64. Maputo, Mozambique
+65. Medellin, Colombia
+66. Mogadishu, Somalia
+67. Mombasa, Kenya
+68. Monrovia, Liberia
+69. Montevideo, Uruguay
+70. Nairobi, Kenya
+71. Nakuru, Kenya
+72. Nelson Mandela Bay, South 
+Africa
+73. Osh, Kyrgyz Republic
+74. Palawan, Philippines
+75. Panama City, Panama
+76. Penang, Malaysia
+77. Phnom Penh, Cambodia
+78. Port Harcourt, Nigeria
+79. Porto Alegre, Brazil
+80. Pristina, Kosovo
+81. Quilmes, Argentina
+82. Rach Gia, Vietnam
+83. Riyadh, Saudi Arabia
+84. Rize, Turkey
+85. San Salvador de Jujuy, 
+Argentina
+86. Santa Cruz, Bolivia
+87. Santa Fe, Argentina
+88. Semarang, Indonesia
+89. Sfax, Tunisia
+90. Sidon, Lebanon
+91. Sousse, Tunisia
+92. Tashkent, Uzbekistan
+93. Tirana, Albania
+94. Tra Vinh, Vietnam
+95. Tres de Febrero Area, 
+Buenos Aires, Argentina
+96. Tunis, Tunisia
+97. Ulaanbaatar, Mongolia
+98. Vienna, Austria 
+99. Vientiane, Laos
+100. Vinh Long, Vietnam
+101. Warri, Nigeria
+102. Wroclaw, Poland
+103. Yangon, Myanmar
+104. Yenagoa, Nigeria
+105. Zanzibar City, Tanzania
+Appendix B. List of Cities in the 
+City Resilience Program
+Appendix B | 27

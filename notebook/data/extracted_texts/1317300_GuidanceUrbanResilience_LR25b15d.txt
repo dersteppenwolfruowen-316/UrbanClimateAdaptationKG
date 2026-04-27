@@ -1,0 +1,1750 @@
+[Page 1]
+Building urban resilience: A guide for Red Cross and Red Crescent engagement and contribution
+Outcome Report of the Partnership on Urban Disaster Risk Reduction and Management
+
+[Page 2]
+© International Federation of Red Cross and Red Crescent Societies, Geneva, 2017
+Copies of all or part of this manual may be made for noncommercial use, providing the source is acknowledged. 
+The IFRC would appreciate all requests being directed to the 
+IFRC at secretariat@ifrc.org.
+The opinions and recommendations expressed in this manual do not necessarily represent the official policy of the IFRC or of individual National Red Cross or Red Crescent Societies. 
+The designations and maps used do not imply the expression of any opinion on the part of the IFRC or National Societies concerning the legal status of a territory or of its authorities. 
+All photos used in this manual are copyright of the IFRC unless otherwise indicated. 
+Cover photo: Mithila Jariwala/IFRC, Daniel Cima/IFRC
+Andrew McColl/IFRC
+Building urban resilience: A guide for Red Cross and Red Crescent engagement and contribution
+1317300 03/2017 E
+P.O. Box 303
+CH-1211 Geneva 19, Switzerland
+Tel :  +41 22 730 4222
+Fax: +41 22 730 4200
+E-mail: secretariat@ifrc.org
+
+[Page 3]
+Building urban resilience:
+A guide for Red Cross and
+Red Crescent engagement and contribution
+Outcome Report of the Partnership on Urban Disaster Risk Reduction and Management 
+The International Federation of Red Cross and 
+Red Crescent Societies (IFRC) is the world’s largest volunteer-based humanitarian network. 
+With our 190 member National Red Cross and Red Crescent Societies worldwide, we are in every community, reaching 160.7 million people annually through long-term services and development programmes, as well as 
+110 million people through disaster response and early recovery programmes. We act before, during and after disasters and health emergencies to meet the needs and improve the lives of vulnerable people. We do so with impartiality as to nationality, race, gender, religious beliefs, class and political opinions. 
+Guided by Strategy 2020 – our collective plan of action to tackle the major humanitarian and development challenges of this decade – we are committed to saving lives and changing minds. 
+Our strength lies in our volunteer network, our community-based expertise and our independence and neutrality. We work to improve humanitarian standards, as partners in development, and in response to disasters. We persuade decision-makers to act at all times in the interests of vulnerable people. The result: we enable healthy and safe communities, reduce vulnerabilities, strengthen resilience and foster a culture of peace around the world.
+
+[Page 4]
+International Federation of Red Cross and Red Crescent Societies
+Building urban resilience  Table of Contents
+Acknowledgement 
+Acronyms and abbreviations 
+Introduction 
+Chapter 1.  Introduction to the guide 
+Background 
+The role of the Movement 
+What is urban resilience? 
+Recent global developments on urban resilience against disasters 
+Why a guide on urban resilience for the Red Cross
+Red Crescent Movement? 
+Purpose of this guide 
+How the guide was developed 
+When and how to use the guide 
+What the guide does not do 
+Intended audience 
+Chapter 2.  Context and engagement 
+Defining an urban area 
+Defining urban communities 
+Understanding disaster risk 
+Multi-sector, multi-stakeholder engagement 
+Chapter 3.  Capacity-strengthening 
+Chapter 4.  Awareness-raising 
+Chapter 5.  Programme implementation/activities 
+Entry points 
+Programme-related considerations
+
+[Page 5]
+International Federation of Red Cross and Red Crescent Societies
+Building urban resilience
+Chapter 6.  Advocacy 
+Chapter 7.  Red Cross Red Crescent essentials for building urban resilience 
+Chapter 8.  Key documents and resources for Urban Disaster
+Risk Reduction and Management 
+Annex 1.  UNISDR – Ten Essentials for Making Cities Resilient 
+Annex 2.  Global developments on Urban Resilience 
+Annex 3.  Tehran Call for Action 
+Annex 4.  The Road to Urban Resilience: The IFRC’s Perspective
+
+[Page 6]
+International Federation of Red Cross and Red Crescent Societies
+Acknowledgements
+Acknowledgements
+Special thanks to the Iranian Red Crescent Society as the IFRC’s principal partner for the global Partnership on Urban Disaster 
+Risk Reduction and Management.
+People and the National Societies who directly contributed to the 
+Partnership and its outcomes include:
+Ì Ì
+Mostafa Mohaghegh, Manager of Partnership for Urban DRR/DM, IFRC Ì Ì
+Graham Saunders, Team Leader, Global Networks & 
+Operations Practice , IFRC Ì Ì
+Ela Serdaroglu, Shelter Lead, IFRC Ì Ì
+Sandra D’Urzo, Senior Officer, Shelter and Settlements, IFRC Ì Ì
+Mohammed Mukhier, former Head of Community 
+Preparedness and Risk Reduction, IFRC Ì Ì
+Aynur Kadihasanoglu, Senior Advisor Urban DRR, 
+American Red Cross Ì Ì
+Raimond Duijsens, Program Co-ordinator, Partners for 
+Resilience, the Netherlands Red Cross Ì Ì
+Samuel Carpenter, former Humanitarian Policy Adviser, 
+British Red Cross Ì Ì
+Arifin Muhammad Hadi, Head of Disaster Management, 
+Indonesian Red Cross (PMI) Ì Ì
+Muli Elijah, Head of Programme Disaster Risk Management, 
+Kenyan Red Cross Ì Ì
+Michel José Manuel, Chief of the National Health Unit, 
+Bolivian Red Cross Ì Ì
+Edmon Azaryan, Head of Disaster Management and 
+Population Movement Department, Armenian Red Cross Ì Ì
+Shahabeddin Mohammadi Araghi, Under-Secretary General for International Affairs and IHL, Iranian Red Crescent
+
+[Page 7]
+International Federation of Red Cross and Red Crescent Societies
+Building urban resilience Ì Ì
+Mansoureh Bagheri, Director of International Operations and 
+Programmes, Iranian Red Crescent Society Ì Ì
+Davood Pourkhanali, IFRC Representative in Iran Ì Ì
+Lois Austen, Consultant
+Many other National Societies and partners as well as IFRC 
+Regional and Country Offices actively participated.
+
+[Page 8]
+International Federation of Red Cross and Red Crescent Societies
+Acronyms and abbreviations
+Acronyms and abbreviations
+CBO 
+Community based organisation
+DM 
+Disaster management
+DRR 
+Disaster risk reduction
+FGD 
+Focus group discussion
+IFRC 
+International Federation of Red Cross and Red Crescent Societies
+Movement International Red Cross and Red Crescent Movement
+NGO 
+Non-governmental organization
+NS 
+National Societies
+SFDRR 
+Sendai Framework for Disaster Risk
+Reduction 2015‑2030
+UNISDR 
+United Nations International Strategy for Disaster Reduction
+VCA 
+Vulnerability and capacity assessment
+WDR 
+IFRC World Disasters’ Report
+
+[Page 10]
+Introduction
+Cities and urban areas provide important opportunities for the development of communities and nations. But risks caused by rapid and often improper urbanization compounded by natural hazards create some of the major challenges in the 21st Century. 
+It is estimated that by 2050 66 per cent of the world’s population will be urban, while rapid and unplanned urbanization will also continue to see a dramatic rise in informal settlements. Aside from the negative impacts of improper urbanization on socioeconomic development, the risks and humanitarian conse­ quences of rapid urbanization are alarmingly increasing. Major disasters occurring in various parts of the world in the past decade have created more losses and damages in cities than in other areas.
+The International Federation of Red Cross and Red Crescent 
+Societies (IFRC) and its members in 190 countries have always been present in cities to respond to crises and disasters and pro­ vide relief and humanitarian assistance. But rapid urbanization and the increasing complexity in urban contexts require better understanding of risk factors and sources of vulnerability and ex­ ploring innovative ways for effective disaster risk reduction and response and cooperation with other stakeholders. Developing community resilience in relation to disasters in cities has also been a new challenge for the Red Cross and Red Crescent 
+Movement in view of the multi-faceted and new causes of vulner­ ability in urban environments.
+Considering the above imperatives, the IFRC has taken a number of measures in recent years to respond to the increasing needs in this area. The IFRC World Disasters Report in 2010 was dedi­ cated to “Urban Risks” and a number of regional surveys were conducted in the Americas and Asia Pacific region in order to 
+International Federation of Red Cross and Red Crescent Societies
+Introduction
+
+[Page 11]
+International Federation of Red Cross and Red Crescent Societies
+Building urban resilience improve the understanding of trends in urban risk and explore new and innovative ways for effective engagement in cities and urban areas. Moreover, several Red Cross Red Crescent National 
+Societies as well as the International Committee of the Red Cross have included specific initiatives on urban risk in their pro­ grammes and contributed to the further development of urban risk reduction in the Red Cross and Red Crescent Movement’s activities.
+Given the importance of a global and comprehensive approach to urban risk, the IFRC and the Iranian Red Crescent Society con­ cluded an Agreement in February 2013 on the “Partnership for 
+Urban Disaster Risk Reduction and Management” with the aim of enhancing the IFRC and member National Societies’ capacities to deepen the current understanding of urban trends, provide stra­ tegic solutions to face the increasing needs in cities and to de­ velop an IFRC strategy on urban resilience. The Partnership has been implemented from 2013 until 2016 through desk reviews and studies, regional consultations with the participation of over 
+80 National Societies and partners, implementation of five city level projects in Jakarta, La Paz, Nairobi, Tehran and Yerevan and expansion of cooperation with the IFRC external partners. The results of regional consultations and city level projects were pre­ sented to the IFRC’s International Seminar on Urban Disaster Risk 
+Reduction and Management in Tehran in May 2015 which adopted the “Tehran Call for Action” and “Road to urban resilience, the 
+IFRC perspective”.
+
+[Page 12]
+International Federation of Red Cross and Red Crescent Societies
+Introduction
+This Guide is one of the outcome documents of the Partnership on Urban Disaster Risk Reduction and Management and has been prepared to share the key findings of the Partnership and to contribute to the effective engagement of National Societies in responding to urban risks and enhancing urban resilience. 
+Considering the increasing trends of urban risks, I hope we can do more to reduce these risks and better assist disaster affected and vulnerable people in cities.
+Jagan Chapagain
+Under Secretary General
+Programmes and Operations
+International Federation of Red Cross and Red Crescent Societies
+
+[Page 14]
+International Federation of Red Cross and Red Crescent Societies
+1.  Introduction to the guide
+1.  Introduction to the guide
+Background
+Rapid urbanization coupled with climate change and other risks will constitute key issues in the coming decades facing the hu­ manitarian community. It is estimated that by 2050, 66 per cent of the world’s population will be urban,1 while rapid and unplanned urbanization will also continue to see a dramatic rise in informal settlements. Currently, it is estimated that 863 million people live in informal settlements (i.e. squatter and slum settlements).2 
+This rise in unplanned and poorly managed urbanization poses growing threats to people’s lives, livelihoods, economic growth, environmental sustainability and social equity as public au­ thorities lack the capacity to effectively provide basic public services to a rapidly growing population. Rapid and unplanned urban population growth coupled with the rise in informal settle­ ments in hazard-prone areas has generally surpassed the ability of public authorities to respond with effective planning and has thus resulted in increased vulnerability of communities to risk. 
+Urban populations face a number of critical issues, including lim­ ited access to basic services (e.g., clean water, drainage, sanita­ tion, transport), poor healthcare and education, lack of adequate shelter/ housing on safe land, lack of or inadequate security of tenure, and urban violence, migration and epidemics..
+The International Red Cross and Red Crescent Movement (the 
+Movement) has a history of being present and active in both urban and rural areas. However, the Movement’s capacity and action has historically been more focused on assisting the most vulnerable people in rural and less developed areas rather than 
+1 United Nations, Department of Economic and Social Affairs, Population Division (2014), World Urbanisation Prospects: The 2014 Revision, Highlights (NY, United Nations).
+2 UN-HABITAT (2013), Streets as Public Spaces and Drivers of Urban Prosperity (Nairobi, 
+UN-HABITAT).
+
+[Page 15]
+International Federation of Red Cross and Red Crescent Societies
+Building urban resilience in complex urban contexts. As a major step towards addressing this gap, the IFRC 2010 World Disasters Report (WDR) was dedi­ cated to urban risk.1 The 2010 WDR echoed global concerns in relation to urban disaster risk and called for effective action by the IFRC and Red Cross Red Crescent National Societies (National 
+Societies) for an increased focus on risk reduction in urban areas. 
+As a result, a number of major initiatives on urban disaster risk reduction (DRR) and disaster management (DM) were developed by the IFRC and by a number of National Societies. One of the initiatives that was developed was a partnership between the 
+IFRC and the Iranian Red Crescent Society which aimed to sup­ port Red Cross and Red Crescent activities in urban DRR and DM. 
+The objective of the partnership (which ran from 2013 to 2016) was to strengthen National Societies’ capacity to support resili­ ence building and enhance disaster preparedness and response in urban areas through:
+1. Scaling up Red Cross and Red Crescent activities to reduce urban disaster risks and vulnerability.
+2. Strengthening Red Cross and Red Crescent capacities to effec­ tively respond to urban disasters.
+In order to achieve this objective, city level projects were con­ ducted in five selected cities.2 These initiatives confirmed the gaps in the Movement’s understanding of the urban risk context and endorsed the need for an IFRC global position and strategy on urban disaster risk reduction as well as the necessity for devel­ oping the capacity of National Societies for effective engagement in urban risk reduction and management. As part of the partner­ ship, practical steps toward addressing urban DRR and DM have been taken in order to enhance National Society engagement in urban risk reduction. For example, regional workshops on urban 
+DRR/DM have been held in Africa, Asia & Pacific, the Americas 
+2 Jakarta, La Paz, Nairobi, Tehran and Yerevan.
+
+[Page 16]
+International Federation of Red Cross and Red Crescent Societies
+1.  Introduction to the guide and the Middle East/North Africa (MENA) regions. The findings from the pilot studies and regional workshops have been used to develop this guide which is one of the partnership outputs.
+This guide is the final outcome document of the partnership be­ tween the IFRC and the Iranian Red Crescent on Urban DRR and DM.
+The role of the Movement
+It is well recognized that strengthening resilience to disasters includes disaster management as well as being an essential component of all emergency and development programming. 
+Communities and households with sustainable livelihoods, good levels of health care and access to strong and accountable civil society are less susceptible to hazards and recover more quickly from disasters. It is also important that development gains are protected from disaster.3
+The IFRC has made it a priority to ensure that building resilience and DRR is an integral part of its development work and that all its programmes work towards DRR in an integrated and mutually supportive way. This requires working at all levels:
+– 
+Governance.
+– 
+Policy.
+– 
+Management.
+– 
+Practice.
+There is a clear role for National Societies in supporting urban communities to achieve resilience both through integrated Red 
+Cross Red Crescent programming on community preparedness, health and first aid, food security, and livelihoods and also by influencing local development and urban planning through advo­ cacy, strategic alliances and active partnering.
+risk-reduction/building-safer-and-resilient-communities/.
+
+[Page 17]
+International Federation of Red Cross and Red Crescent Societies
+Building urban resilience
+Working towards urban resilience requires multi-dimensional and multi-sector approaches to address the underlying drivers of risk such as migration, violence, climate change and cultural changes. Ensuring that its activities work towards strengthened urban resilience will require the Movement to work holistically, encompassing multi-dimensional and cross-sector methodologies which may in some cases require a change in existing approach.
+What is urban resilience?
+Resilience is frequently considered to be a bridge between longterm development work and humanitarian response to crisis and disaster. Resilience activities require an understanding of levels of exposure to hazards in order that responses can be appropri­ ately designed.
+The UNISDR defines resilience as: “The ability of a system, com­ munity or society exposed to hazards to resist, absorb, accommo­ date to and recover from the effects of a hazard in a timely and efficient manner, including through the preservation and restora­ tion of its essential basic structures and functions”.1
+For the IFRC, resilience is defined as:2
+The ability of individuals, communities, organizations, or coun­ tries exposed to disasters and crises and underlying vulnerabili­ ties to:
+Ì Ì anticipate, Ì Ì reduce the impact of, Ì Ì cope with, Ì Ì and recover from the effects of shocks and stresses without compromising their long-term prospects.
+2 IFRC, Framework for Community Resilience (2014).
+
+[Page 18]
+International Federation of Red Cross and Red Crescent Societies
+1.  Introduction to the guide
+Whilst there is no common definition of what “urban” is, urban areas generally feature the following characteristics:
+Ì Ì
+Dynamism and population mobility.
+Ì Ì
+Scale and population density.
+Ì Ì
+Population diversity.
+Ì Ì
+Varied livelihoods and economic systems.
+Ì Ì
+The presence of large informal settlements.
+Ì Ì
+Moving front lines, opportunistic criminality and access problems.
+Ì Ì
+Reduction in basic services.
+Ì Ì
+Reliance on information technology.
+Ì Ì
+Cash-based economy.
+Due to different national definitions, “urban” needs to be defined on a context by context basis. Figure 1 below highlights some of the key features associated with urban areas in terms of density, diversity and dynamics.
+Figure 1.  Key features of urban environments*
+Density
+Diversity
+Dynamics Ì Ì Population Ì Ì Buildings Ì Ì Infrastructure Ì Ì Livelihood options Ì Ì Stakeholders Ì Ì Actors Ì Ì Infrastructure Ì Ì Space Ì Ì Communities Ì Ì Population growth Ì Ì Industry Ì Ì Commerce Ì Ì Space Ì Ì Infrastructure Ì Ì Buildings Ì Ì Vulnerability
+*  Adapted from Campbell, L. Stepping back – Understanding cities and their systems (ALNAP/ODI, 2016)
+
+[Page 19]
+International Federation of Red Cross and Red Crescent Societies
+Building urban resilience
+Recent global developments on urban resilience against disasters
+Recent years have seen a number of global developments in rela­ tion to urban resilience. In addition to the Movement’s own urban resilience initiatives, the following have been utilized to help in­ form this guide.1
+The 2030 Agenda for Sustainable Development has dedicated one of its 17 sustainable development goals to urban resilience. Goal 
+11 aims to make cities and human settlements inclusive, safe, resilient and sustainable. It focuses on safe housing for the most vulnerable; access to public transport; reducing disaster-related deaths; and providing support and links between urban, periurban and rural areas.
+The Sendai Framework for Disaster Risk Reduction 2015-2030 (SFDRR) aims to prevent new and reduce existing disaster risk through the integration of a range of measures that prevent hazard exposure and vulnerability to disaster, increase prepar­ edness for response and recovery and strengthen resilience. The 
+SFDRR encourages strengthened disaster risk governance with a focus on the built environment and encourages investing in DRR for resilience purposes. In addition, the need to incorporate 
+DRR measures into multilateral and bilateral development assist­ ance programmes is highlighted.
+One of the key priorities emanating from the Climate Change 
+Conference, Paris (2015) (COP21) was establishing a global goal of “enhancing adaptive capacity, strengthening resilience and redu­ cing vulnerability to climate change”.
+1 See Annex 2 for further detail.
+
+[Page 20]
+International Federation of Red Cross and Red Crescent Societies
+1.  Introduction to the guide
+In recognition of the importance of the growing urban agenda, the 2016 World Humanitarian Summit saw the launch of the 
+Global Alliance for Urban Crises (GAUC). This partnership brings together over 65 organizations of local government networks, hu­ manitarian and development actors, academia and professional associations to affect a shift in humanitarian action in towns and cities. Commitments in support of the GAUC aimed to in­ crease access by local authorities and humanitarian actors to ex­ pert advice on urban issues, on building urban resilience, and on adapting humanitarian tools and practices to urban settings.
+HABITAT III, The New Urban Agenda (2016)2 focuses on housing and sustainable urban development. The Quito Declaration em­ anating from the conference focuses on trying to end hunger and poverty through the promotion of sustained, inclusive, and sustainable economic growth, redressing urban planning and improving health and well-being combined with fostering resili­ ence. One of the commitments from the conference is focused on strengthening the resilience of cities and human settlements and the mainstreaming of holistic and data-informed DRR and management.
+Why a guide on urban resilience for the Red Cross Red Crescent Movement?
+It is expected that the ongoing and future “concentration of popu­ lations in urban areas will change the nature of many humani­ tarian disasters”,3 as humanitarian actors will have to respond to an increasing number of people at risk in far more complex environments than rural settings.
+2 The UN Conference on Housing and Sustainable Urban Development, held in Quito, 
+Ecuador, in October 2016.
+3 DFID (2011), Humanitarian Emergency Response Review (London, Humanitarian 
+Emergency Response Review).
+
+[Page 21]
+International Federation of Red Cross and Red Crescent Societies
+Building urban resilience
+Within this context, there are a number of operational challenges in the design of urban risk reduction programmes and the de­ livery of humanitarian response. These challenges include:
+Ì Ì
+The complexity of undertaking urban risk assessments due to a number of factors including multiple and secondary haz­ ards such as big fires and interruption in life lines (scale and frequency).
+Ì Ì
+The need to ensure awareness and coverage of multi-sector needs (e.g., housing, communications, water and sanitation, education, healthcare and relief).
+Ì Ì
+The presence and involvement of multiple stakeholders with different mandates and approaches.
+Increasingly, National Societies will be faced with addressing the unique challenges of operating in urban contexts. This places greater urgency on building resilience and increasing effective­ ness of DRR and DM programmes in cities and urban areas in a changing climate, thus necessitating an enhancement of the Red 
+Cross Red Crescent’s institutional and operational capacities on urban DRR/DM.
+While National Societies have historically been at the forefront of community-based DRR/DM most of their experience has been working with communities in rural settings. Community-based 
+DRR programmes to date have therefore generally not had to ad­ dress the complexity and interconnected set of risks and vul­ nerabilities which urban settings host. In order to find scalable, sustainable and replicable solutions, a holistic and integrated ap­ proach to urban DRR/DM is required. Siloed approaches will need to give way to approaches that encompass multi-stakeholder, multi-hazard and multi-sectoral practices addressing a wide array of interrelated issues such as resilience building, local socio-eco­ nomic development, environment, climate change, legislation, migration, access to safe land, security of tenure and violence.
+
+[Page 22]
+International Federation of Red Cross and Red Crescent Societies
+1.  Introduction to the guide
+This conceptual shift in approach and programming will need to take into consideration some key institutional challenges for the 
+Red Cross Red Crescent in effective engagement and delivery of services in urban areas. Namely, National Societies will need to overcome the knowledge gap that currently exists with regard to city-level hazards, vulnerability and risk, and institute a systemic and systematic process of gathering and integrating information to feed into tailor-made and context-appropriate programmes and policies.
+Additionally, existing guidelines, tools and training materials for disaster preparedness and response, which have been firmly em­ bedded within the rural experience, will need to be retrofitted and adapted to the needs of urban contexts.1
+Other areas that need adapting to the urban context are the de­ velopment of staff and volunteer skills in relation to urban risk reduction as well as relief and recovery activities. When oper­ ating in com­plex environments in densely populated centres with limited access to basic services, the Movement needs to broaden its expertise and knowledge of issues such as shelter/housing im­ provement and rehabilita­tion, urban and spatial planning, legal and policy frameworks, security of tenure, and water and sanita­ tion. This guide highlights the requirements in this area.
+The guide also responds to a “call for action” launched at the 
+International Seminar on Urban Disaster Risk Reduction and 
+Management held in Tehran, Iran in May 2015.2 Among other things, the “call for action” commits the Movement to rise to the challenge of increasing urban disaster risks by using and 
+1 It should be noted that this guide does not provide tools and trainings materials. 
+The amendment of existing tools and approaches is recommended in order that they are appropriate for use in urban environments.
+2 https://fednet.ifrc.org/en/resources/community-preparedness-and-risk-reduction/ disaster-risk-reduction/Urban-DRR-DM/.
+
+[Page 23]
+International Federation of Red Cross and Red Crescent Societies
+Building urban resilience enhancing IFRC and National Society institutional and operational capacities in this area. It goes on to encourage the Movement to prioritize and invest knowledge and resources to support urban 
+DRR and DM, including through the effective use of innovation, science and technology, at national, regional and international levels.
+Purpose of this guide
+Based on the understanding that there is an existing urban know­ ledge gap on urban resilience, DRR and DM within the Movement, this guide has been developed in order to achieve the following:
+Ì Ì
+Highlight key issues for National Societies (NS) to consider when engaging in urban resilience discussions and activities.
+Ì Ì
+Pinpoint a number of the key challenges identified in relation to urban resilience.
+Ì Ì
+Provide tips to be taken into account when NS are planning to engage or engaging in urban resilience activities.
+Ì Ì
+Showcase lessons learned from the five pilot city projects and regional workshops.
+Ì Ì
+Promote the essential elements for Red Cross Red Crescent urban resilience building.
+This guide is not prescriptive in nature. It seeks rather to identify issues which National Societies could take into consideration when devel­ oping their urban DRR/DM engagement and planning strategies.
+This guide, which is reflective of the breadth and engagement of 
+National Societies in urban areas, provides an overview of key aspects of National Society strategic engagement and planning in urban DRR and DM with the aim of achieving urban resilience.
+
+[Page 24]
+International Federation of Red Cross and Red Crescent Societies
+1.  Introduction to the guide
+How the guide was developed
+This guide has been informed by the IFRC and its member 
+National Societies’ work on urban DRR/DM. It has taken into con­ sideration the findings of a number of research publications and initiatives undertaken by the Movement, namely the 2010 World 
+Disasters Report as well as a number of regional studies under­ taken in the Asia Pacific, Latin America and Caribbean regions. 
+The document has also taken into account and integrated the findings of ten regional consultation workshops which took place from 2013-2014 across all five IFRC geographical zones and builds on the findings of the five city level projects conducted in 2013 and 2014 under the auspices of the IFRC Partnership for Urban 
+Disaster Risk Reduction and Management.1
+The document has also incorporated key lessons and guidance from global references and sources, including UNISDR’s resilient cities campaign; UNISDR’s Ten Essentials for Making Cities Resilient; outcomes of the World Urban Forums; and the third UN World 
+Conference on Disaster Risk Reduction which took place in 
+Sendai, Japan, in March 2015.2
+This document aims to highlight potential approaches to urban 
+DRR and DM and issues to be taken into account to build resilience, and highlights some of the key challenges hindering effective 
+National Society engagement, planning and action on urban DRR/
+DM. Examples of different approaches to the five thematic areas covered in the guide (context and engagement, capacity strength­ ening, awareness-raising, programme implementation, and advo­ cacy) will be provided and tips for more effective engagement are featured where possible.
+risk-reduction/urban-disaster-risk-reduction/.
+2 See Chapter 8 for references to key documentation.
+
+[Page 25]
+International Federation of Red Cross and Red Crescent Societies
+Building urban resilience
+When and how to use the guide
+The guide is intended to be used by National Societies who are engaged in, or planning to engage in, urban DRR and DM. It is divided into different chapters focusing on five thematic areas in order to support NS engagement in building urban resilience.
+Chapter 7 provides an overview of the nine essential focus areas for NS urban resilience building. Chapter 8 highlights key 
+Movement and external documents and references that are of use when engaging in urban resilience building activities.
+Building urban resilience
+Thematic Area 1
+Context and engagement
+Thematic Area 2
+Capacity development
+Thematic Area 3
+Thematic Area 4
+Programme implementation/ activities
+Thematic Area 5
+Advocacy
+Thematic Area 6
+Essentials for
+Movement urban resilience building
+Awareness-
+
+[Page 26]
+International Federation of Red Cross and Red Crescent Societies
+1.  Introduction to the guide
+Due to the emerging nature of urban DRR/DM and the dynamics of urban settings, the approaches promoted in the guide should be tailored to reflect the specificities of National Society experi­ ences and capacities and take into account respective country and city contexts.
+Depending on NS pre-existing understanding of urban issues, users can select which part of the guide is of most use and relevance.
+It should be noted that building urban resilience includes a wide range of elements. This guide reflects primarily those elements that have most prominently been highlighted in the five city pilot studies and regional workshops.
+What the guide does not do
+The guide does not provide step-by-step guidance on the five thematic areas covered. It does not provide specific tools for supporting the building of urban resilience. Whilst some tools are available or have been adapted, there remains the need for the creation and development of more urban-specific tools and methodologies to support National Societies in their urban engagement.
+Intended audience
+The guide is intended for use by all NS that are active or intending to be active within urban settings. Within NS it is targeted pri­ marily towards those responsible for enhancing resilience and reducing DRR in order to increase their awareness and under­ standing of approaches to urban resilience.
+
+[Page 27]
+International Federation of Red Cross and Red Crescent Societies
+Building urban resilience
+2.  Context and engagement
+This chapter focuses on highlighting issues in relation to:
+Ì Ì
+National Society understanding of the urban context (i.e., urban structure and urban communities).
+Ì Ì
+Engagement with urban stakeholders.
+Ì Ì
+Adaptation of programmes to the urban context.
+Within the Movement, although there is experience of imple­ menting response programmes in urban environments, there is a lack of experience with regard to engaging in activities that are focused upon resilience. In order to ensure that resilience is built there is a need to develop an improved understanding of the urban context. This current knowledge gap relating to urban areas, which needs to be addressed to effectively ensure sustain­ able, scalable and replicable interventions in the future, has been identified as one of the key challenges faced by the Movement.
+The following four key gaps (see table  1) in relation to the 
+Movement’s contextual understanding of urban environments have been identified. An enhanced understanding of and engage­ ment in urban settings is contingent on addressing these gaps.
+In order to effectively address these challenges, National Societies will need to proactively enhance their existing knowledge base on:
+Ì Ì urban risks.
+Ì Ì urban vulnerabilities.
+Ì Ì urban hazards.
+Ì Ì the composition and dynamics of urban communities.
+
+[Page 28]
+International Federation of Red Cross and Red Crescent Societies
+2.  Context and engagement
+Table 1.  Gaps in Red Cross and Red Crescent contextual understanding
+Limited experience in establishing systematic processes that access, gather and integrate information on city-level hazards, vulnerability and risks into programmes and policy formulation.
+Limited experience on the part of National Societies in working with local authorities, private sector and other local urban actors.
+Difficulty in adapting existing guidelines, training materials and manuals to urban settings.
+Challenges of integrating DRR and DM plans and programmes in development sectors at national and local levels in order to address underlying risk factors more effectively. 
+Tip: Urban DRR/DM is a systematic process that takes into consid­ eration a number of dynamics including existing capacities, innov­ ations and synergies which help to minimize the impact of hazards.
+There is a need for National Societies to focus on three sets of activties. These are:
+Ì Ì
+To gain an enhanced understanding of urban settings and communities (by defining urban areas and urban communi­ ties and gaining an understanding of community perceptions of risk); Ì Ì
+To develop and strengthen coordination and collaboration with the range of actors present in urban settings (by in­ creasing knowledge and relationships with multiple stake­ holders across a range of sectors); and Ì Ì
+To adapt programming to the urban context.
+
+[Page 29]
+International Federation of Red Cross and Red Crescent Societies
+Building urban resilience
+Actions required of National Societies to better understand context
+The Red Cross Red Crescent’s entry point will be to develop a deeper understanding of the structural and socio-economic impediments that increase the vulnerability of the urban poor and marginalized groups to the tiered risks present in urban settings and to promote their interest and engage in interventions aimed at enhancing their resilience.
+Each of these three sets of activities is explored in further detail below.
+Enhanced understanding of urban settings and communities
+A major challenge to effective urban risk reduction interventions is lack of deep understanding of urban contexts both in terms of the urban set-up and structure and the set-up/make-up of urban communities. National Societies planning to engage in urban 
+DRR/DM need to have a sound understanding of urban structures and urban communities. Key steps in this process are:
+Ì Ì
+Defining the urban area.
+Ì Ì
+Defining urban communities.
+Ì Ì
+Understanding disaster risk and community perception of risk.
+Defining an urban area
+There is no single definition of a city and in many contexts the demarcation lines between urban and rural are fluid in nature. 
+However, in broad terms, cities are often defined in terms of: the concentration and density of population; infra­structure; goods, services1 and utilities; the presence of large informal settlements; and the likelihood of compound and complex disasters.2
+1 Palang Merah Indonesia (2015), Pilot Urban Risk Reduction Study Project: A Final Report (Jakarta, PMI).
+2 ALNAP (2012), Lessons: Responding to urban disasters: Learning from previous relief and recovery operations (London, Alnap).
+
+[Page 30]
+International Federation of Red Cross and Red Crescent Societies
+2.  Context and engagement
+A first step in engaging in urban DRR/DM will be for National 
+Societies to define relevant urban areas based on context-specific information. This definition exercise should be undertaken in conjunction with other relevant stakeholders (see below).
+Further tips on mapping of urban areas are provided in Chapter 
+5 below.
+Defining urban communities
+A critical element of understanding urban settings is to compre­ hend the make-up of communities. Urban assessments need to take into account the heterogeneous make-up of urban residents as well as factors such as mobility and informal structures of urban areas.3 Common criteria used to define urban communities include:
+a) Geography: neighbourhoods; districts.
+b) Functionality: trade and business associations.
+c) Culture: ethnicity and faith.
+Characteristics such as dependence on markets and cash for ac­ cess to public services and goods should also be underlined.
+Considerable resources and time should be devoted to developing context-specific definitions of urban communities and under­ standing the comparative advantage of the National Society in carrying out specific urban risk reduction and response measures from which they can benefit.
+Understanding disaster risk
+As acknowledged by the first priority for action in the Sendai 
+Framework, “disaster risk management should be based on an un­ derstanding of disaster risk in all its dimensions of vulnerability, capacity, exposure of persons and assets, hazard characteristics 
+3 IFRC, Urban Disaster Risk Reduction Programme in Africa, Design Workshop Report (Kampala, Uganda, 10–12 July 2013).
+
+[Page 31]
+International Federation of Red Cross and Red Crescent Societies
+Building urban resilience and the environment”.1 For National Societies to have a solid un­ derstanding of disaster risk is an essential first step to ensuring effective approaches to resilience building.
+It is important to remember that perception of risk will range from everyday risks that face urban populations (including un­ employment, low income, malnutrition, inadequate/substandard housing, and violence), to disaster risks resulting in loss of life and damage to livelihoods (such as hurricanes, floods, cyclones and pandemics), and rural and extra-urban processes such as det­ rimental land-use patterns.2
+Resilience and disaster risk may mean different things to dif­ ferent groups, depending upon context.
+Key messages Ì Ì Defining the make-up of an urban area needs to be done on a context by context basis.
+Ì Ì Time and resources need to be dedicated to developing contextspecific definitions of urban communities.
+Ì Ì Assessments need to take into account the heterogeneous makeup of urban residents.
+Ì Ì National Societies need to develop a deeper understanding of structural and socio-economic impediments that increase the vulnerability of urban poor and marginalized groups.
+Coordination and collaboration:
+Engagement with a wide variety of stakeholders is an essential element of ensuring strengthened disaster resilience in urban en­ vironments. Coordination should also extend to the plethora of actors present in urban settings – in local authorities, UN, pro­ fessional organizations, academic institutions, international and local humanitarian organizations, the private sector, etc. Through 
+2 IFRC (2011), No time for doubt: Tackling urban risk (Geneva, IFRC).
+
+[Page 32]
+International Federation of Red Cross and Red Crescent Societies
+2.  Context and engagement coordination and partnerships, National Societies can avoid du­ plication of effort, foster synergies and more effectively advocate to communities, governments and donors.
+Urban DRR/DM planning should be viewed as a partnershipbuilding exercise with the aim of coordinating and complementing the efforts of multiple agencies and various levels of government, civil society, academic institutions and professional bodies.
+Multi-sector, multi-stakeholder engagement
+Due to the scale and complexity of urban settings and disasters there is a need for partnership building, collaboration and coord­ ination. In order to ensure that urban DRR/DM is participatory, inclusive and streamlined across all sectors and to help secure appropriate funding allocations, it is necessary to engage with the appropriate levels of government at municipal, provincial, state and national levels as well as with a large variety of other relevant stakeholders.
+Given the number of causes and drivers of vulnerability within urban contexts, there is a need for systematic engagement which is inclusive of all sectors of society and government. This cohe­ sive approach will increase commitment on the part of all ac­ tors to effective planning and policies and appropriate budgetary allocations.
+As auxiliaries to their governments, National Societies enjoy a distinct partnership with national public authorities. This man­ date enables National Societies, in consultation with their re­ spective governments, to establish roles and responsibilities in providing risk reduction and disaster management activities, health and social programmes and promote stronger laws and rules for disaster risk management international standards. This unique mandate provides the possibility for National Societies to influence government decisions and regulations to ensure the
+
+[Page 33]
+International Federation of Red Cross and Red Crescent Societies
+Building urban resilience
+Potential stakeholders in urban DRR
+Public sector Ì Ì Urban development authorities.
+Ì Ì Local development council members.
+Ì Ì Mayors.
+Ì Ì Local government representatives.
+Ì Ì Heads of local authority departments (e.g., planning, communications, education, engineering, environment, health, transportation, welfare services, etc.).
+Ì Ì National and provincial or state government representatives from line ministries or agencies.
+Ì Ì Emergency service personnel (fire department, policy, military, search and rescue).
+Ì Ì School teachers and administrators.
+Ì Ì Health facility/hospital officers and staff member.
+Civil society Ì Ì Researchers and academics.
+Ì Ì Professionals of technical and scientific institutions.
+Ì Ì Gangs.
+Ì Ì Community based organizations, community service organizations and NGOs.
+Ì Ì Religious authorities.
+Ì Ì Community leaders.
+Ì Ì Youth groups and women’s groups.
+Ì Ì Representatives from at risk communities, including marginalized groups.
+Ì Ì Journalists and other personnel of media agencies.
+Private sector Ì Ì Employers and workers of the private sector.
+Ì Ì Market traders.
+Ì Ì Landlords/owners/housing associations.
+Ì Ì Labour unions.
+Ì Ì Service provider companies (water, transport, etc.).
+Ì Ì Chambers of commerce.
+Ì Ì Finance institutions.
+Ì Ì Other.
+Ì Ì Donor representatives.
+
+[Page 34]
+International Federation of Red Cross and Red Crescent Societies
+2.  Context and engagement mainstreaming of DRR/DM into policies, plans, regulatory frame­ works and development agendas.
+The potential for coordination, partnership-building and collab­ oration in urban settings is large, both in terms of types of ac­ tivities which can be undertaken in a coordinated manner and organizations/institutions/bodies with which coordination can take place. Examples include:
+Ì Ì
+Coordination with officials at different levels within city man­ agement structures.
+Ì Ì
+Active participation in city level DRR and DM systems, mech­ anisms, legislative processes, plans and programmes.
+Ì Ì
+Joint assessments and interventions with relevant stake­ holders in order to enhance efficiency and quality.
+Ì Ì
+Collaboration with development actors such as health, educa­ tion, environment and urban planning stakeholders.
+Ì Ì
+Building alliances with city resilience programmes (e.g., 
+UNISDR’s Making Cities Resilient campaign, and the 
+International Council for Local Environment Initiative’s 
+Resilient Cities programme).
+Ì Ì
+Comprehensive communication with relevant agencies (e.g., provincial disaster management agency, related provincial/ district government agencies).
+The scope of Red Cross Red Crescent engagement should include participation in national and regional DRR/DM platforms and critical examination of how existing capacities can contribute to national and municipal level interventions through urban DRR implementation and advocacy.1 In addition, the position of the 
+Red Crescent Red Crescent as a neutral body which can advocate for the most vulnerable and marginalized populations within 
+1 IFRC, Urban Disaster Risk Reduction Programme in Africa, Design Workshop Report (Kampala, Uganda, 10–12 July 2013).
+
+[Page 35]
+International Federation of Red Cross and Red Crescent Societies
+Building urban resilience overall planning, implementation and evaluation of urban devel­ opment programmes should be highlighted.1
+Key messages Ì Ì Coordination with officials at different levels within city management structures should be prioritized.
+Ì Ì Active participation in city level DRR and DM systems, mechanisms, legislative processes, plans and programmes should be promoted.
+Ì Ì National Societies are in a unique position to influence government decisions and regulations to ensure the mainstreaming of DRR/
+DM into policies, plans, regulatory frameworks and development agendas, based on the establishment of clear partnerships.
+Ì Ì Effective partnership building should ensure that the diverse needs of urban populations can be addressed.
+Integrated and inclusive urban programming
+The Movement needs to ensure that urban DRR/DM programming is adapted to address the diverse and complex needs of vulner­ able populations including with respect to shelter, migration, food security, livelihoods, water, sanitation and hygiene, health, urban youth, people living with disabilities and gender. Essentially, pre­ paredness, early warning, mitigation, recovery and livelihoods constitute the key pillars of the Red Cross Red Crescent’s DRR/DM interventions across the spectrum.2
+Urban DRR is a prominent cross-cutting issue for national and sustainable develop­ment. Mainstreaming it into national devel­ opment planning processes and sectoral development should be prioritized, notably in health, shelter and settlements, infrastruc­ ture, educa­tion and agriculture.
+1 IFRC and EMI (2010), Programmatic directions for the Red Cross Red Crescent in building urban community resilience in the Asia Pacific Region (Philippines, IFRC).
+2 IFRC (2009), Disaster: How the Red Cross Red Crescent reduces risk (Geneva, IFRC).
+
+[Page 36]
+International Federation of Red Cross and Red Crescent Societies
+2.  Context and engagement
+Integrated programming – Bolivia
+Findings from the pilot project in La Paz, Bolivia, highlighted the need for integrated programming. The project’s findings noted that urban resilience can only be understood on the basis of a multidimensional and multi-sectoral approach that can analyse, plan, and respond ap­ propriately to, a myriad of complex issues such as migration, climate change, cultural diversity, and violence.
+It is important to remember that coordination and collaboration with other actors and stakeholders is crucial throughout the pro­ ject cycle. Stages of the cycle which can be highlighted in terms of their importance for integrated programming include:
+Ì Ì
+Planning. Efforts should be taken to ensure that integrated urban risk reduction plans are developed in collaboration with other actors,3 as the Red Cross Red Crescent cannot work in isolation in addressing the underlying causes and that must focus on its known areas of strength.
+Ì Ì
+Assessments. Coordination and collaboration with other ac­ tors is critical when conducting urban assessments and plan­ ning to reduce duplication, maximise efficiency and benefit from community synergies that strengthen resilience.
+Programme implementation is further covered in Chapter 5 below.
+Key messages Ì Ì National Societies need to adapt their urban programming to address the diverse and complex needs of vulnerable populations.
+Ì Ì The key pillars of Movement urban DRR/DM intervention are preparedness, early warning, mitigation, recovery and livelihoods – these are the areas which require adjusted approaches with an urban focus.
+3 IFRC, Urban Disaster Management Workshop Report (Manila, Philippines, 18–21 August
+
+[Page 37]
+International Federation of Red Cross and Red Crescent Societies
+Building urban resilience
+3.  Capacity-strengthening
+This chapter aims to highlight some of the key areas in which 
+National Societies need sufficiently strong capacity in order to ensure that they are in a position to promote and engage in resili­ ence building efforts.
+The city level projects and regional workshops emphazised that 
+National Societies’ institutional and operational capacities will need to be further enhanced and scaled up to address the scope of urban challenges. In order to ensure this, a number of elem­ ents will need to be taken into consideration and retrofitted, such as strategies and tools to adequately meet the needs of urban communities. The main areas where there is a need for capacity strengthening are:
+Ì Ì
+Institutional structure.
+Ì Ì
+Human resources.
+Ì Ì
+Institutional capacity development.
+Ì Ì
+Urban volunteer management.
+Ì Ì
+Operational capacity development.
+These five areas are expanded upon in table 2.
+
+[Page 38]
+International Federation of Red Cross and Red Crescent Societies
+3.  Capacity-strengthening
+Table 2.  Strengthening National Society capacity
+Area requiring strengthening
+What is required
+Institutional structure and systems Ì Ì A deeper look at the organisational structure and culture of NS to ensure that internal structures, divisions and set-up allow them to work in urban resilience building is as required.
+Ì Ì Consideration will need to be given to ensure that the qualities of resilient organisational systems (reflective, resourceful, robust, inclusive, redundant, integrated, flexible) are in place.
+Ì Ì The NS should acquire sufficient organisational resilience in order to be able to assist communities by ensuring business continuity, in particular in complex urban environments. 
+Human resources Ì Ì In order to ensure strong institutional capacity for urban DRR, efforts should be made to enhance knowledge of staff and volunteers on issues pertaining to urban settings.
+Ì Ì National Societies will need to re-examine internal resources and to consider possibilities for expansion of human resource development by promoting skills development and specialisation. For example, “assessments in urban areas may call for different staff, with different skill sets, to be involved”. 1 Ì Ì Rosters may need to be expanded to include specialists in urban planning, markets and infrastructure, for example. Boosting skills, for example in managing change, information management and increased engagement, should be considered. 
+Institutional capacity development
+In order to increase institutional capacity, there is a need for NS to develop skills in the following areas:
+Ì Ì Legislation and disaster law, advocacy.
+Ì Ì Deeper understanding of “urban communities” and their role in identifying and reducing risk factors in cities.
+1  British Red Cross (2012), Learning from the City, (London, British Red Cross).
+
+[Page 39]
+International Federation of Red Cross and Red Crescent Societies
+Building urban resilience
+Area requiring strengthening
+What is required
+Institutional capacity development (cont.) Ì Ì identification of opportunities and entry points to engage and collaborate with relevant stakeholders in order to ensure effective and measurable urban 
+DRR/‌DM.2 Some of the required capacities in this area include the skills to:
+a) Contextualise and integrate DRR and DM trends and priorities into local development plans.
+b) Contribute to strengthening of laws, rules and regulations and their implementation to support urban community resilience building.
+c) Develop targets and indicators for a measurable change in urban resilience strengthening; d) Develop multi-stakeholder cooperation and partnership. 
+Urban volunteer management Ì Ì Considering the complex community dimension in cities and urban areas, there is a need for increasing volunteer diversity, providing flexibility with volunteer time commitments and preparing for the arrival of spontaneous volunteers following an urban disaster.3 Ì Ì Urban volunteers serve as vital “points of entry into the community” 4 – this may therefore necessitate a re-think and proactive diversification of the volunteer pool to include more professionals of all ages.5 Ì Ì Volunteer training will need to be adapted to embrace an integrated approach to programming and service delivery.
+Ì Ì Multi-skilled volunteers are needed, capable of understanding the urban population’s many needs and with response capacity in all areas of work (e.g., health, livelihoods, DRR, shelter).
+2  IFRC, Urban Disaster Management Workshop Report (Manila, Philippines, 18–21 August 2014.
+3  Ibid. 
+4  IFRC, Building Urban Resilience Workshop Results (Panama City, Panama, 26–27 November 2013).
+5  Ibid.
+
+[Page 40]
+International Federation of Red Cross and Red Crescent Societies
+3.  Capacity-strengthening
+In order to ensure that the capacity of National Societies is suf­ ficiently strong to be able to effectively engage in urban resilience building, it is important to ensure that the following elements are in place and institutionally supported:
+Ì Ì
+An understanding of the complexity of urban contexts and planning processes (see Chapter 2).
+Ì Ì
+The ability to identify and engage with relevant urban stake­ holders (see Chapter 2).
+Ì Ì
+An analysis of existing legal and policy frameworks.
+Ì Ì
+Strengthened communications and documentation skills to better capture and learn from urban experiences.
+Ì Ì
+Regional information sharing of lessons learned and good practices.
+Ì Ì
+Training and simulation exercises appropriate for cities.
+Ì Ì
+Improved risk analysis skills and capacities.
+Ì Ì
+Improved human resource skills including the recruitment of educated/skilled volunteers.
+Ì Ì
+Increased fundraising capabilities.
+Area requiring strengthening
+What is required
+Operational capacity development Ì Ì It is critical that methodologies and tools for the following elements in the urban context are improved by using and adjusting available or developing new resources:
+–– risk mapping and assessment.
+–– contingency planning.
+–– risk monitoring and early warning.
+–– rapid assessment.
+–– urban search and rescue.
+–– emergency relief.
+–– recovery.
+–– migration, population movement and displacement.
+–– armed conflict, violence and social unrest.
+–– resource mobilization.
+–– community participation in DRR and DM.
+
+[Page 41]
+International Federation of Red Cross and Red Crescent Societies
+Building urban resilience
+The Building Urban Resilience workshop held in Tanzania in 2013, which was attended by 15 African National Societies, identified a number of elements required to ensure successful institutional approaches to urban resilience within National Societies. These included:
+Element
+Details of vision
+Management and governance
+Within the RC/RC, a strong focus and governance commitment to urban resilience.
+Integrated strategy and planning
+Urban DRR and resilience components are prioritized within RC/RC strategies and policies.
+Opportunities for organisational/HR development
+Strong support within the RC/RC network to assist National Societies to develop further skills and capabilities to engage urban communities and operate in the urban governance context.
+Community-driven programmes
+Prioritization of community-driven rather than donor-driven goals and objectives.
+Robust volunteer programmes
+Volunteers from a wide range of backgrounds are actively contributing ideas and solutions.
+Innovative technology
+The RC/RC embraces new technology to expand outreach with communities and enable broader use of existing tools and new solutions.
+
+[Page 42]
+International Federation of Red Cross and Red Crescent Societies
+3.  Capacity-strengthening
+Additional tips on capacity-strengthening
+Improve existing institutional knowledge and capabilities on risk profiling and risk mapping.
+Key messages Ì Ì National Society institutional and operational capacity needs strengthening in a number of areas to ensure that they are well placed to support urban resilience building.
+Ì Ì Insitutional structures need to be reflective, resourceful, robust, inclusive, integrated and flexible.
+Ì Ì Staff and volunteer skills need to be re-examined to ensure that 
+National Society human resources are reflective of requirements to ensure the ability to understand, enagage with and respond to urban-specific requirements. The right technical expertise needs to be in place.
+Ì Ì Operational methodologies and tools need to be adjusted and developed for the urban context.
+
+[Page 43]
+International Federation of Red Cross and Red Crescent Societies
+Building urban resilience
+4.  Awareness-raising
+This chapter aims to highlight steps that National Societies need to take in order to raise awareness of urban-specific issues with a range of stakeholders. The key areas of National Society focus in terms of awareness-raising include:
+Ì Ì
+Public education and awareness activities.
+Ì Ì
+Promoting awareness of relevant rights, responsibilities and duties.
+Ì Ì
+Sensitisation efforts in the community to integrate DRR into safety regulations and building codes.
+Ì Ì
+Campaigning.
+Awareness-raising is of particular importance because it has been assessed that in order to effectively tackle vulnerability, attention needs to be placed on education, awareness and advocacy skill sets of at-risk communities.1
+The first step in awareness-raising is the need to ensure broad stakeholder engagement. This is required to understand drivers of risk and existing vulnerabilities as well as to ascertain appro­ priate tools and processes needed for comprehensive assessment and identification of underlying causes of risk. National Societies should focus on the awareness-raising activities listed below.
+1.  Public education and awareness activities such as campaigns and training should be undertaken to raise awareness and engage individuals and communities in urban risk reduction activities.
+1 ALNAP (2012), Lessons: Responding to urban disasters: Learning from previous relief and recovery operations (London, Alnap).
+
+[Page 44]
+International Federation of Red Cross and Red Crescent Societies
+4.  Awareness-raising
+Potential target audiences for awareness-raising activities:
+Ì Ì Community groups e.g. women, young people.
+Ì Ì School children.
+Ì Ì Formal educators.
+Ì Ì Healthcare networks.
+Ì Ì Urban residents.
+Ì Ì Local governments and municipalities.
+Ì Ì Urban planners.
+Ì Ì Socio-economic development decision makers.
+Ì Ì Media and social networks.
+Ì Ì Academia and technical centers.
+Awareness-raising programmes can be tailored to meet the needs of specific populations, risks and target groups. These approaches can be integrated into almost all existing initiatives, whenever and wherever they take place. They can build on and support ex­ isting volunteer mobilization and peer-to-peer communications.
+The objective of awareness-raising activities is to familiarize communities with risk and interventions required prior to, during and following disasters.
+Use of technology in the Philippines
+The Philippines Red Cross has used mobile phone apps to bring more information about disaster risks and resilience to the community. 
+The apps include tools for both outreach and learning on disaster pre­ paredness and tools to facilitate response by enabling volunteers to easily report assessment data and contribute to aggregated analysis and reports.
+The city level project in Tehran, Iran has further indicated that, in order to be effective, the existing capacities of all institutions and organizations engaged in public education should be identified as well as the capacities of the audiences in formal educational
+
+[Page 45]
+International Federation of Red Cross and Red Crescent Societies
+Building urban resilience systems, healthcare networks and municipalities. Moreover, appropriate mechanisms for further and more effective coord­ ination among institutions and organizations engaged in public education must be designed and implemented. Through a na­ tional public education initiative, the permanent and continuous role of all institutions and organizations engaged in public educa­ tion must be taken into consideration.
+2.  Promoting awareness of relevant rights, responsibilities and duties can be important for both improving the implementation of the existing legal and policy frameworks and for empowering communities and local actors. Urban residents that are aware of their local disaster risk management systems, and individual rights and responsibilities when it comes to basic services and risk reduction, are likely to be more engaged and empowered to contribute to their own safety. National Societies can play an im­ portant role as a bridge between government actors and urban residents in this respect. Key messages for dissemination can be developed following an analysis of the legal framework and con­ sultations with relevant stakeholders.
+3.  Effective integration of social and non-physical elements of DRR into safety regulations, building codes and land-use planning.
+Innovative thinking to access communities in Haiti
+In Haiti, the creation of vigilance committees has helped the National 
+Society understand the population’s new community organisation (post-earthquake) and allowed for the provision of inputs for planning interventions with urban communities and the organisation of prepar­ edness and response committees.
+
+[Page 46]
+International Federation of Red Cross and Red Crescent Societies
+4.  Awareness-raising
+4.  Campaigns. National Societies are well-placed and have the experience to take on large-scale urban awareness campaigns, and can leverage the power of their volunteer base to effectively disseminate information. Such campaigns enable a greater de­ gree of familiarization on the part of urban residents and stake­ holders of key issues. Given major and rapid changes in the use of technology in urban areas, it is important to use and apply dif­ ferent media through which NS may want to seek to raise aware­ ness on urban risk. Different tools from radio to TV and from SMS to mobile apps and social media will enable the NS to reach dif­ ferent demographic groups.
+Additional awareness-raising tips Ì Ì Use existing structures, including non-traditional community associations to raise awareness.
+Ì Ì Take advantage of technology and new tools. Mobile phones and social media offer new ways to engage that may be particularly effective in cities.
+Key messages Ì Ì A key objective of awareness-raising activities is to familiarize communities with potential risks and the interventions required prior to, during and post disaster.
+Ì Ì Promoting awareness of rights, responsibilites and duties forms an important part of awareness-raising activities.
+
+[Page 47]
+International Federation of Red Cross and Red Crescent Societies
+Building urban resilience
+5.  Programme implementation/ activities
+This chapter provides an overview of the different entry points for DRR/DM activities and then goes on to highlight some of the key issues that need to be taken into consideration with regard to different programme-related activities when implementing pro­ grammes or activities that aim to build resilience.
+Entry points
+There are three distinct entry points for strategic approaches to urban DRR/DM: built, natural and social environments.
+Ì Ì
+The built environment focuses essentially on issues related to urban and regional planning, housing, infrastructure, urban design, engineering models and approaches, legal and policy frameworks and land and housing tenure.
+Ì Ì
+The natural environment approach is strategically geared to­ wards ecosystem and environmental management, and cli­ mate change adaptation and mitigation.
+Ì Ì
+The social environment intrinsically places the role of the community at the heart of all programming. The Red Cross 
+Red Crescent has substantial breadth of experience in ad­ vocating for and developing interventions within the social environment. The scope of social environment interventions ranges from community engagement, public education and awareness raising to contingency planning and violence prevention. When National Societies decide to make urban 
+DRR‌/‌DM interventions, their plans and actions should take account of the organisational and contextual comparative ad­ vantage that they have.
+Figure 2 below highlights some of the key aspects of each of the three environments.
+
+[Page 48]
+International Federation of Red Cross and Red Crescent Societies
+5.  Programme implementation/activities
+It should be noted that all three environments are intercon­ nected in terms of how they create pre-crisis risk, and need, in times of disaster. For a long time, the social environment received little attention. Recently, however, several recent global initia­ tives, including UNISDR’s re­vised ten point checklist on essen­ tials for making cities resilient,1 have highlighted the community dimension.
+For National Societies, it is important to have a good knowledge of all three environments as their resilience building efforts are likely to touch upon all of them. For the Movement, there remains potential to highlight the importance of the social environment and to ensure that people and society are included in urban de­ velopment and risk reduction initiatives.
+Figure 2.  Environmental entry points for DRR/DM
+Built environment Ì Ì Safe building materials.
+Ì Ì Enforcement of building codes.
+Ì Ì Legal policies & land housing tenure.
+Ì Ì Urban planning.
+Ì Ì Engineering based approaches.
+Natural environment Ì Ì Food security and water sustainability.
+Ì Ì Ecosystem and environmental management.
+Ì Ì Soft (environmental) approaches.
+Ì Ì Climate change mitigation and adaptation.
+Social environment Ì Ì Individual and community resilience and engagement.
+Ì Ì Public education and awareness.
+Ì Ì Contingency planning, preparedness and training.
+Ì Ì Social inclusion, cohesion and violence prevention.
+Ì Ì Stakeholder relationships and management.
+
+[Page 49]
+International Federation of Red Cross and Red Crescent Societies
+Building urban resilience
+Programme-related considerations
+The need for coordination and collaboration in two key areas of 
+National Society urban DRR/DM activities (planning and assess­ ment) has already been noted in Chapter 2. This is expanded upon here and additional programme-related considerations are also covered.
+Some of the operational challenges for National Societies working in urban environments were highlighted in Chapter 1 above. 
+Additional challenges which need to be taken into consideration include:
+Ì Ì
+Lack of coordination between sectors and actors.
+Ì Ì
+Insufficient local and national budgets for urban DRR activities.
+Ì Ì
+Non-functioning national platforms for DRR due to lack of le­ gislative policies.
+Ì Ì
+Current legal policies do not allow for the implementation of insurance/risk transfer systems.
+Ì Ì
+The multi-hazard nature of urban DRR.
+Ì Ì
+Lack of sharing and access to information as data is decen­ tralized and sometimes incompatible.
+Ì Ì
+Reliability of information, especially when relating to popu­ lation/census data.
+Ì Ì
+Lack of skilled human resources preventing full utilization of early warning systems.
+Ì Ì
+Lack of appropriate methodologies and tools for effective DRR and DM planning and implementation.
+Planning and context analysis
+Key elements of context analysis (some of which have already been covered in Chapter 2 above) include:
+Ì Ì
+Identifying target areas.
+Ì Ì
+Identifying urban communities.
+Ì Ì
+Mapping existing government preparedness and response
+
+[Page 50]
+International Federation of Red Cross and Red Crescent Societies
+5.  Programme implementation/activities
+The objectives of the planning and context analysis phase are to gather relevant information so that National Societies can:
+Ì Ì
+Better understand the nature and extent of interrelated risks and vulnerabilities.
+Ì Ì
+Better gauge the scope, type, capacities and number of actors present.
+Ì Ì
+Assess the effectiveness of current strategies employed by at-risk populations to manage disaster risk and to assess op­ timal entry points.
+This means that in terms of contextual analysis, National 
+Societies should be in a position to:
+Ì Ì
+Assess the nature of risks and hazards present within defined city confines.
+Ì Ì
+Identify gaps in information.
+Ì Ì
+Identify and target at-risk communities.
+Ì Ì
+Establish viable entry points for advocacy and awarenessraising with regard to policy and legislation.
+In order to establish the above, National Societies can use the following fundamental questions (Figure 3 below) to facilitate the development of a holistic understanding of the conditions of exposure and vulnerability facing specific segments of the city. 
+Asking these questions should also highlight the multilayered nature of risk present in urban settings.
+It should also be borne in mind that community targeting and entry points will be considerably different in urban areas in com­ parison to rural contexts. Therefore sufficient time should be allocated to acquiring knowledge of the actors, identification of target groups, effective means of communication and navigation of a multi-layered management system.1 The participation of atrisk communities is critical and therefore an inclusive approach 
+1 Urban DRR/DM Pilot Study Feedback Questionnaire: Armenia.
+
+[Page 51]
+International Federation of Red Cross and Red Crescent Societies
+Building urban resilience should be integrated in all levels of planning, implementation, monitoring and evaluation.
+In addition to asking a range of stakeholders the fundamental questions above, efforts should also be made to review existing 
+DRR legislative frameworks and to map all stakeholders, and their respective roles and responsibilities.1
+1 Ibid.
+Figure 3.  Fundamental context analysis and planning questions
+What types of disasters have occurred in this area and how frequently have they hit?
+Is it possible to identify why they are more vulnerable than others? 
+Which areas have the potential to be hit by a type of disaster they have not yet experienced?
+Are there disaster preparedness or response plans for the area?
+How familiar are the communities with these plans?
+Which groups of people have historically been affected or are vulnerable to disasters?
+Are the communities included in these plans?
+What are the existing gaps in policy and legislation on DRR?
+
+[Page 52]
+International Federation of Red Cross and Red Crescent Societies
+5.  Programme implementation/activities
+Context analysis should yield information on:
+Ì Ì National and local laws and regulations, policies and programmes that facilitate or impede integration of urban DRR.
+Ì Ì Potential partners and allies.
+Ì Ì The capacity of staff and partners to design, monitor and implement 
+DRR/DM programmes.
+Ì Ì Social groups and livelihoods that are particularly vulnerable.
+Ì Ì Other initiatives that may complement or create synergies with potential programmes.
+Assessments and risk mapping
+Undertaking assessments and risk mapping is a necessity for effective urban DRR planning; to determine needs; and to develop activities for intervention.
+Conventional sectoral approaches and service delivery mech­ anisms will have limited impact at citywide scale. There is a need to engage in systems thinking in order to clarify the risks to:
+Ì Ì
+People and organizations.
+Ì Ì
+Infrastructure, services and ecosystems.
+Ì Ì
+Legal and cultural norms.
+Ì Ì
+Exposure to disasters.2
+National Societies have extensive experience of participatory ap­ proaches that put the community front and centre and a number of tools have been developed in line with these precepts, in­ cluding: vulnerability and capacity assessments (VCA); public awareness and public education (PAPE); community-based health and first-aid (CBHFA); and the participatory approach for safe shelter awareness (PASSA). There remains a need to further tailor these tools to meet the contextual variations of communities 
+2 IFRC, MENA Workshop on Urban Disaster Risk Reduction and Management: Building Urban 
+Resilience held (Beirut, Lebanon, 16–18 December 2013)
+
+[Page 53]
+International Federation of Red Cross and Red Crescent Societies
+Building urban resilience in urban areas.1 Specifically, differences between the essential elements of risk assessment in urban contexts will need to be factored in. Currently there are challenges for the methodolo­ gies that analyse risk as they tend to be broad and do not take into account the specific characteristics of urban settings such as population flows and other socio-economic factors.2
+It has been noted that “the VCA as the main assessment tool is not designed to generate information that would allow analysing city level systems and structures that have huge implications on the lives of vulnerable communities”.3
+As a result, a concerted effort needs to be made to develop a sys­ tematic risk and vulnerability analysis, narrowing down the as­ sessment from city to community level. “City level engagement requires city risk analysis involving national, regional or provin­ cial stakeholders and adopts a multi-hazard approach. Sub-city engagement requires developing urban profiles in partnership with district level stakeholders and can be designed to target 
+1 This has to an extent been done for the VCA. See IFRC (2014), Integrating climate change and urban risks into the VCA.
+2 Urban DRR/DM Pilot Study Feedback Questionnaire: Bolivia.
+3 Ibid. 
+Use of technology for mapping
+In Uganda, the Uganda RC used Open Street Map which enabled easy crowd-sourcing of the development of GIS base layers from satel­ lite photos. Creating these maps enables new types of analysis (e.g. to demonstrate fire hazard from the construction of buildings with thatched roofs in close proximity to each other).
+The use of Open Street Map provides a base for collaboration with other civil society organizations and local government in collecting and analysing data.
+
+[Page 54]
+International Federation of Red Cross and Red Crescent Societies
+5.  Programme implementation/activities specific hazard(s) or communities (geographical and/or commu­ nities of interest).4
+It should be noted that, given the scope of the analysis and the resources required, National Societies should carry out risk map­ ping in conjunction with other actors such as the government, academia, and international and community based organizations. 
+These other actors are also likely to have a wealth of secondary data that NS can draw on to inform risk mapping processes.
+When undertaking risk mapping exercises it is important to use technology where possible. The pilot project in Jakarta, Indonesia, 
+4 ACF has developed guidelines for the identification of vulnerable people in urban environments which may be referred to. The guidelines can be used to create a vul­ nerability and/or livelihood mapping across the conurbation (a region combining several cities, towns, or other urban areas that, through growth, have merged to form one continuous urban area); or to complete a low-level analysis in one or cations/2010_acf identification_of_vulnerable_people_in_urban_environments_ guideline_en.pdf.
+Figure 4.  City level and sub-city level risk analysis
+Sub-city level risk analysis
+Involve: district and community level stakeholders
+Develop urban profiles and target specific hazards and/or communities of interest
+City level risk analysis
+Involve: national, regional or provincial stakeholders
+Adopt a multi-hazard approach
+
+[Page 55]
+International Federation of Red Cross and Red Crescent Societies
+Building urban resilience is a prime example of using technology to support the contextuali­ sation of existing tools. The National Society’s use of GIS mapping in conducting VCAs helped to ensure the accuracy of community manual mapping. The tool was also integrated to facilitate efficient knowledge-sharing between internal and external stakeholders.
+Risk assessments should take into account the nature and im­ pact of ‘socio-natural hazards’ which amplify risk such as envir­ onmental degradation and overcrowding.1 As the pilot project in Nairobi, Kenya, has indicated, informal settlements also hold their specific challenges, namely the existence of diverse popula­ tions, marginalisation, lack of or inadequate access to services, entitlements, etc., and lack of planned settlements. However, the project’s findings also noted that the use of the VCA in informal settlements could be more effective, given that the tool has more discreete means of obtaining information from communities in comparison to other data collecting methods. This is particularly relevant for certain segments of the population that seek ano­ nymity due to fears of harassment, detention or eviction.
+In order to develop data on disaster risk and to facilitate building a picture of community-specific hazards, the pilot project in 
+Yerevan, Armenia, recommended that hazard probabilities for community areas be defined using community hazard maps, his­ toric data on community hazards and historic data on hazards with disastrous consequences.2
+Findings from Armenia also highlighted the importance for 
+National Societies to develop a database on vulnerabilities to capture pertinent information related to vulnerable elements and systems within the community, such as the nature of build­ ings, construction, engineering structure and the presence of 
+1 Ibid.
+2 Urban DRR/DM Pilot Study Feedback Questionnaire: Armenia.
+
+[Page 56]
+International Federation of Red Cross and Red Crescent Societies
+5.  Programme implementation/activities hazardous material.3 Furthermore, the pilot project recommended that NGOs activate their DRR work at community-level and con­ tribute to urban communities in the operation of monitoring sys­ tems, hazard mapping, development of communities capacities and building DRR culture.
+Key features of urban risk reduction interventions Ì Ì Engage a wide range of stakeholders in citywide and area-specific forums for urban risk management.
+Ì Ì Adopt approaches promoting resilience through risk reduction and adaptation and focusing on location, structure, operational aspects, and risk financing and transfer options.
+Ì Ì Support communities and broader society to absorb disturbances, to self-organize or adjust to existing and new stresses, and to build and increase their capacity for learning and adaptation.
+Ì Ì Develop multi-sectoral programmes that address risks holistically, as well as multi-sectoral contingency planning for hazardous events.
+Ì Ì Promote environmentally sustainable, hazard and climate-resilient choices in construction techniques, materials, and land-use planning.
+Ì Ì Support the development of multi-hazard and multi-effect forecasting and early warning systems.
+Ì Ì Use the best available information on climate change to develop long-term strategies for environmental health, safe housing and employment generation.
+Source: IFRC (2013), Mainstreaming DRR and CCA: a practitioner’s guide
+When undertaking assessments in urban areas the following ap­ proaches are recommended:4 Ì Ì
+Include women in the assessment team to reflect the more varied roles that women play in urban areas.
+Ì Ì
+Assessment design needs to focus on capturing what types of mobility are common and trends (the likely results of mobility patterns if they continue).
+3 Ibid. 
+4 ALNAP (2015), Rapid Humanitarian Assessment in Urban Settings.
+
+[Page 57]
+International Federation of Red Cross and Red Crescent Societies
+Building urban resilience Ì Ì
+Understand how transport networks function and how they might be disrupted in case of disaster. This links in to understanding who relies on transport networks for liveli­ hoods. Assessments should include the mapping of key infrastructures.
+Ì Ì
+A spatial and thematic mapping of physical and administra­ tive structures as well as social and economic networks is im­ portant for contextual understanding and navigation of urban environments.
+Ì Ì
+Urban areas should be broken down into compact, homog­ enous and coherent units for assessment. Secondary data and spatial analysis can be used to further divide urban areas into smaller, more manageable units for assessment.
+Ì Ì
+Market data is required in order to ensure that there is an un­ derstanding of the overall functioning of the market and its ability to match supply with demand and how this might be affected by disaster.
+There are some lessons that can be learned from ALNAP’s paper on “Humanitarian Interventions in Situations of Urban Violence” 1 in re­ lation to analysis and assessment in urban contexts (including contexts not affected by violence) (table 3).
+1 alnap-lessons-paper-urban-violence.pdf.
+
+[Page 58]
+International Federation of Red Cross and Red Crescent Societies
+5.  Programme implementation/activities
+Table 3.  Lessons on assessments in urban areas
+Lesson
+Sub-point
+Recognize the complexities of urban settings Ì Ì There is a need to understand who the important actors are and their positions, interests and needs.
+Carefully assess local needs and strengths Ì Ì Assess multi-layered, complex, open urban systems including an analysis of how the population tries to adjust to urban disaster.
+Plan assessments in advance Ì Ì Before conducting an assessment, conduct a feasibility study.
+Conduct repeat assessments Ì Ì In order to provide increasingly timely and accurate pictures of needs, regular repeat assessments are required.
+Ì Ì Avoid over assessment.
+Use a mix of quantitative and qualitative methods (if possible) Ì Ì Quantitative methods can only provide a snapshot of a situation and results are often limited by lack of clarity about representativeness.
+Ì Ì In-depth qualitative interviews and participatory methods allow for better interaction with communities and better understanding of their issues.
+Adapted from ALNAP (2014), Humanitarian Interventions in Situations of Urban Violence.
+
+[Page 59]
+International Federation of Red Cross and Red Crescent Societies
+Building urban resilience
+Additional mapping and assessment tips:
+Ì Ì Design a plan of analysis prior to undertaking mapping and assessment in order to ensure that the secondary and primary information collected will enable the building of a comprehensive picture of the city.
+Ì Ì Ensure that assessments have a pre-defined classification for groups being covered, e.g., community or household.1 Ì Ì Undertake interviews with community based organizations (CBOs) and small groups of key informants from different groupings using a random sampling approach if possible.
+Ì Ì Organising focus group discussions (FGDs) in urban areas can be difficult as population diversity makes it hard to organize a representative group. Community group discussions can be an alternative and may be the best way to generate a comprehensive picture and capture the diversity and complexity of urban population behaviour.
+Ì Ì As far as possible include different stakeholders, including government representatives, in mapping and assessment processes.
+Ì Ì It is useful to think about urban space as a series of physical, political, social and economic networks, bearing in mind that residents will be members of multiple, overlapping networks.
+Ì Ì When mapping an area, aim for the lowest geographic level possible.
+Ì Ì In order to ensure that marginalized groups are not excluded, break the city/town down into grids or pre-defined areas and then further define these areas into sub-units such as neighbourhoods.
+Ì Ì Carry out mapping exercises with a wide range of stakeholders to identify the most vulnerable populations and where they are located.
+1 For example, WFP uses the following definition for an urban household: “sharing a common residence, income and expenditure”. This avoids the problem of unin­ tentionally including seasonal or longer-term migrants (who may form a separate stakeholder group), and the sharing of space (but not of income and expenditures) between households sharing the same house or flat.
+
+[Page 60]
+International Federation of Red Cross and Red Crescent Societies
+5.  Programme implementation/activities
+Identification of entry strategies
+The formulation of urban-specific entry and exit strategies for 
+National Societies is important due to the speed at which urban environments can change. With the number of stakeholders in­ volved in urban programming, clarity of approach, timings and reasons for entry and exit are essential. This requires a sound understanding of the urban context and urban dynamics in order that National Societies can identify and highlight their compara­ tive advantage, particularly in relation to others. As mentioned above, if the National Society has a good understanding of the urban population, then the social environment provides a stra­ tegic entry point into the urban risk agenda with the NS being able to highlight the importance of people and society in urban development and risk reduction initiatives.
+Additional entry strategy tips Ì Ì Share entry and exit thinking with partners and other stakeholders.
+Ì Ì Develop geographic vulnerability mapping that supports contingency planning in case of disaster.
+Ì Ì Develop urban baselines focusing on vulnerability, risk, coping strategies, market access/availability and plan geographic targeting in case of disaster.
+Early warning and preparedness
+As acknowledged in Priority 4 of the Sendai Framework, “…there is a need to strengthen disaster preparedness for response, take action in anticipation of events, and ensure capacities are in place for effective response and recovery at all levels”.
+In order to contribute to resilience, National Societies need to ensure that effective approaches to disaster preparedness are in place. This links back to:
+Ì Ì
+Having a sound understanding of the urban context.
+Ì Ì
+Being aware of potential hazards and threats.
+
+[Page 61]
+International Federation of Red Cross and Red Crescent Societies
+Building urban resilience Ì Ì
+Ensuring that hazard, risk and vulnerability assessments have taken place.
+Ì Ì
+Making use of early warning systems.
+Ì Ì
+Ensuring that officials and those at risk are educated on risks and responses.1
+The Indonesian Red Cross Pilot Urban Risk Reduction Study 
+Project highlighted that one of the key methods for coping with and adapting to increasing climate risk was utilizing early warning and early action (EWEA) strategies. These strategies use available information before a humanitarian emergency occurs, with the goal of systematically triggering action to improve pre­ paredness and response at various levels. Actions include com­ munity level preparedness; national contingency planning; and mobilizing human and financial resources ahead of a disaster.
+It is important for National Societies to undertake contingency planning exercises which focus on anticipating specific hazards based on specific events or known risks at local, national, regional or even global levels, such as earthquakes, floods or disease out­ breaks; and establishing operational procedures for response based on expected resource requirements and capacity.2
+Additional tips on early warning and preparedness Ì Ì Build on existing core competencies in emergency response and preparedness and expand them to the urban context through a campaign to mobilize and train volunteers, especially youth.
+Ì Ì Forge partnerships with technical agencies, especially on multihazard risk assessment to inform their emergency response and preparedness planning.
+Global/Publications/disasters/all.pdf.
+-CPG%202012-EN-LR.pdf.
+
+[Page 62]
+International Federation of Red Cross and Red Crescent Societies
+5.  Programme implementation/activities
+Urban methodologies and tools
+Although some tools, approaches, policies and practices have al­ ready been adapted for use in urban areas, their scaling-up and the development of new tools to fill gaps is also essential to en­ hance the impact and efficiency of urban interventions and reach the most vulnerable. As has been noted above, community-based methodologies such as the VCA have taken into account the dis­ tinct characteristics of rural settings – such as the intrinsic re­ lationship between communities and land and food production. 
+Moreover, there is heavy reliance on historical knowledge of the territory, hazards and community relations. However, these ap­ proaches will need to be modified in order to take into account the fact that, in urban settings, commu­nities are not necessarily defined by where people live or their productive activity and are defined more frequently by ethnic, geographic and faith group­ ings. Moreover, there is a need to recognise the impact of internal migration and other socio-economic factors.
+There is a need to upgrade and/or develop relevant methodologies, tools and standards to ensure that they are appropriate for use in urban environments. This includes the use of innovative method­ ologies. The IFRC and its member National Societies should seek to improve technical and operational capacities, methodologies and standards through innovation and efficient use of modern technology, in order to enhance their under­standing and assess­ ment of urban risks; develop new operational tools or upgrade ex­ isting ones; and develop realistic disaster sce­narios and standard operating procedures.
+Partnerships
+The importance of coordination, collaboration and the develop­ ment of partnerships has already been mentioned in Chapter 1. 
+The need to strengthen inter-sectoral linkages and partner­ ships between National Societies and a wide range of stake­ holders is important in order to ensure increased cooperation and
+
+[Page 63]
+International Federation of Red Cross and Red Crescent Societies
+Building urban resilience coordination in the move towards resilience building. Partnership formation is critical as National Societies are always going to be faced with institutional constraints due to the scope of activities involved in building urban resilience. Partnerships need to be formed with the range of stakeholders listed in Box 1 (Chapter 1).
+One area where National Societies may have little experience in terms of partnership building is in relation to the private sector. 
+However, private sector bodies play an important role in urban environments. Urban populations rely heavily on goods and services that humanitarian actors are not always best-placed to provide (e.g., ensuring connectivity with financial services, sup­ plying markets, etc.) but which private sector organizations are well-placed to offer.
+Greater effort is also needed to establish and strengthen links between development planning, environmental planning and 
+DRR with relevant authorities and stakeholders.1 For example, the National Society in Indonesia (Palang Merah Indonesia, PMI) collaborates with government health departments in activities to control the spread of dengue, including fogging activities and hygiene promotion. This has enabled PMI to extend the reach and sustainability of its resilience programs.
+National Societies can also play the role of convener in the estab­ lishment of new DRR-focused networks and partnerships.
+1 Urban DRR/DM Pilot Study Feedback Questionnaire: Indonesia.
+
+[Page 64]
+International Federation of Red Cross and Red Crescent Societies
+5.  Programme implementation/activities
+Additional partnership tips Ì Ì Establishing relationships with potential partners takes time.
+Ì Ì Undertake stakeholder mapping and analysis to help understand the main actors, the services they provide and their various interests. Potential partner mapping should include an assessment of capacity, capabilities, presence, access and perception.
+Ì Ì Adopt a participatory and inclusive approach and reinforce partnerships with local authorities.
+Ì Ì Define the National Society’s role in urban risk reduction based on country contexts and NS structure, and solidify partnership/ coordination with urban stakeholders.
+Ì Ì Establish local coalitions on resilience, for example as part of the “Making Cities Resilient” campaign.
+Ì Ì Choose potential partners carefully so that neutrality is not compromised.
+Evidence-base and documentation
+Emphasis should be placed on establishing an evidence base across the IFRC and its member National Societies on urban risk reduction and management intervention strategies. This will allow for a cross-pollination of best practices and accumulation of knowledge on the scope of urban risk reduction activities as well as the contextualisation and/or development of relevant and appropriate tools.
+Capturing and sharing of learning is crucial for the sustainability of urban DRR programming. It also facilitates concrete coordina­ tion and collaboration by allowing partners to build on others’ experiences, successes and lessons learned.
+
+[Page 65]
+International Federation of Red Cross and Red Crescent Societies
+Building urban resilience
+Key messages Ì Ì Fundamental elements of initial context analysis include: the identification of urban communities; potential target areas; and mapping of government preparedness and response plans.
+Ì Ì Planning and context analysis should enable National Societies to gain a better understanding of risks and vulnerabilities and to gauge the scope and number of stakeholders as well as disaster risk strategies employed by at-risk populations.
+Ì Ì Sufficient time needs to be allocated to understanding different actors, target groups and means of communication with them.
+Ì Ì Risk mapping at city and sub-city level should be undertaken in conjunction with a wide range of partners.
+Ì Ì Using the VCA in urban areas makes it possible to gather data in a discrete manner.
+Ì Ì Developing a vulnerability database allows National Societies to capture information on community vulnerability.
+Ì Ì Due to the scope of activities involved in building urban resilience, 
+National Societies will need to focus on effective partnership building as well as playing the role of convener of new urban DRRfocused networks and partnerships.
+Ì Ì In order to facilitate learning, there is a need to share lessons and best practices both within the Movement and with non-Movement
+
+[Page 66]
+International Federation of Red Cross and Red Crescent Societies
+6.  Advocacy
+6.  Advocacy
+Advocacy activities are targeted towards public authorities at dif­ ferent levels. National Society approaches to national, municipal and local government authorities will vary depending on the context and on the nature of existing relations. When designing advocacy interventions it is important to clearly define the Red 
+Cross Red Crescent’s objectives. Advocacy needs to be carried out both for vulnerable communities and to influence them. Crucially, though, it must also be carried out alongside them. Any advocacy plans should be developed on the basis of research and consult­ ation as well as the priorities of the community. The following are key issues to consider when developing advocacy messages and plans.
+1.  Creating synergies. National Societies have the opportunity to be at the forefront of promoting inclusive multi-stakeholder, multi-sectoral approaches which ensure effective consultation and coordination with communities, local organizations and other key stakeholders.
+2.  Risk-informed local planning and budgeting. National 
+Societies, through the DRR evidence base, can convey messages that focus on the cost-effectiveness of DRR. Risk-informed local planning and budgeting for urban DRR activities will cost govern­ ments and donors less in the long-run, as well as saving lives and mitigating suffering. Emphasis should be placed on that fact that neglecting DRR leads to more deaths and damage, and pushes more people into poverty. Equally, advocacy should focus on the integration of urban DRR in post-disaster reconstruction and re­ habilitation projects in urban areas.
+3.  People-centred approaches. Vulnerable people must be the primary partners of humanitarian and development actors.
+
+[Page 67]
+International Federation of Red Cross and Red Crescent Societies
+Building urban resilience
+Solutions that are imposed are rarely sustainable. The people themselves know the risks that they face and there is a moral obligation to prioritize risk reduction.
+4.  Legal frameworks that provide an enabling environment for urban resilience building. Ensuring disaster risk is addressed in laws and regulations for urban settings, including within building codes, and laws and guidelines for land use planning, land tenure and informal settlements, can considerably increase the safety of urban residents. National Societies, through their auxiliary role, are in a unique position to promote the stronger implementation of legal frameworks that reduce existing risks and prevent new risks from arising, particularly from the built environment and urban development.
+5.  Promotion of tolerance and countering discrimination. 
+National Societies are well placed to advocate for safe urban spaces for women, people with disabilities, older people, chil­ dren and other marginalized and vulnerable groups. Additionally, 
+National Societies can be actively involved in the promotion of tolerance and addressing discrimination against migrant populations.
+6.  Links with National Society role and programming. Advocacy work that focuses on resilience and DRR should attempt to link with other National Society programmes that address vulner­ ability, e.g., livelihoods, traffic safety and first aid. In addition, ensuring that advocacy messages highlight the auxiliary role of the National Society is important.
+7.  Links with global frameworks and agreements. A number of important globally agreed frameworks and agree­ments relating to urbanization have been concluded as a result of global acknowl­ edgement of the risks and threats posed by increasing urbaniza­ tion. Thes set out shared goals for re­ducing and addressing those
+
+[Page 68]
+International Federation of Red Cross and Red Crescent Societies
+6.  Advocacy risks and increasing resilience. The Movement has been heavily involved in the development of many of these frameworks, for ex­ ample the humanitarian commitments contained within the New 
+Urban Agenda.1 National Societies need to be aware of relevant actions that have been adopted in order to advocate towards gov­ ernments and other relevant actors to uphold decisions that have been agreed at a global level with the aim of building urban re­ silience. Some of the key relevant global initiatives that National 
+Societies should be aware of include:
+Ì Ì
+The Sendai Framework for Disaster Risk Reduction 2015-2030.
+Ì Ì
+The outcomes of HABITAT III 2016 – the New Urban Agenda.
+Ì Ì
+The 2030 Agenda for Sustainable Development, including the 
+Sustainable Development Goals.
+Ì Ì
+UNISDR’s Global Campaign Making Cities Resilient and its 
+10 Essentials for Resilient Cities.
+Ì Ì
+Outcomes of the Conference of Paris (COP21).
+Ì Ì
+World Humanitarian Summit (WHS), Global Alliance for Urban 
+Crises.
+As highlighted above, there is a wide range of topics that National 
+Societies can focus on when engaging in advocacy activities to support the building of urban resilience. The pilot projects and re­ gional workshops also identified some more specific topics which 
+National Societies might address in their advocacy work. These include:
+Ì Ì
+Land use planning:
+– The growth of informal settlements in high risk areas in­ creases risk for inhabitants.
+– Overloading of fragile potable water and sanitation sys­ tems. Climate change increases pressure on these systems, making it necessary to add new adaptation perspectives as a central pillar of risk reduction work.
+1 http://unhabitat.org/new-urban-agenda.
+
+[Page 69]
+International Federation of Red Cross and Red Crescent Societies
+Building urban resilience Ì Ì
+Integration of disaster risk management in public policies (e.g., the health sector, pre-hospital care, road safety, psychosocial support, security, food security).
+Ì Ì
+Minimum housing standards.
+Ì Ì
+Promoting risk informed urban planning.
+Ì Ì
+Promoting inclusion of people and community vulnerabilities in construction and building safety codes.
+Ì Ì
+Promoting development of disaster insurance policies specific to cities and urban settings.
+Additional support can be found in the IFRC’s Disaster Risk 
+Reduction Global Advocacy Guide.1
+Additional advocacy tips Ì Ì Ensure that separate stakeholder and policy analysis feed into advocacy and communications strategies.
+Key messages Ì Ì Clearly define objectives when designing advocacy interventions.
+Ì Ì Include the perspectives of vulnerable populations when developing advocacy plans and messages.
+Ì Ì Link advocacy messages to existing National Society programming and global frameworks and agreements.
+guide.pdf.
+
+[Page 70]
+International Federation of Red Cross and Red Crescent Societies
+7.  Red Cross Red Crescent essentials for building urban resilience
+7.  Red Cross Red Crescent essentials for building urban resilience
+In order to find scalable, sustainable and replicable solutions there is a need for a holistic and integrated Movement approach to urban risk reduction. While each National Society will develop methodologies, tools and activities to fit the specificities of its urban context, they should all be guided by an overarching um­ brella approach, consisting of ten essentials, which provides the principle elements for building urban resilience.
+The formulation of an overarching Red Cross Red Crescent ap­ proach to urban DRR/DM has been informed by a number of fac­ tors, including:
+Ì Ì
+The mandate of the IFRC and its member National Societies.
+Ì Ì
+The Movement’s comparative advantage and breadth of ex­ perience in urban settings.
+Ì Ì
+The findings of the pilot city level projects.
+Ì Ì
+Research undertaken by the IFRC.
+In addition, global frameworks on urban resilience and DRR have also been taken into consideration – most notably UNISDR’s 
+Ten Essentials for Making Cities Resilient, which was recently revised and updated at the Third World Conference on Disaster Risk 
+Reduction.
+The key elements for the Red Cross Red Crescent approach focus on the particularities and unique features of urban settings while concurrently ensuring that it is community-driven, a hallmark of 
+Red Cross Red Crescent activities to date. The approach takes into account the multi-sectoral, multi-hazard, multi-stakeholder prac­ tices that will need to define the Red Cross Red Crescent approach in urban settings. In particular, it takes into account the number
+
+[Page 71]
+International Federation of Red Cross and Red Crescent Societies
+Building urban resilience of interrelated issues present within urban settings, such as the myriad causes and drivers of vulnerability, population density, resilience building, local socio-economic development, environ­ ment, climate change, legislation, coordination with multiple stakeholders, violence and insecurity, migration, cash economy dependence on markets, and cash for access to public services and goods.
+The table below highlights the nine Movement essentials for building urban resilience and outlines the characteristics of each of the essentials. In addition, where there is a specific link to 
+UNISDR’s Ten Essentials for Making Cities Resilient, this is highlighted.
+
+[Page 72]
+International Federation of Red Cross and Red Crescent Societies
+7.  Red Cross Red Crescent essentials for building urban resilience
+Table 4.  Movement Essentials for Urban Disaster Risk Reduction and Management
+Red Cross Red 
+Crescent Essentials for Urban Disaster 
+Risk Reduction and Management 
+Characteristics and points to note
+Link to 
+UNISDR’s Ten 
+Essentials for 
+Making Cities 
+Resilient
+1. Improved understanding of urban context and assessment of urban risk
+Reducing the knowledge gap that currently exists regarding city-level hazards, vulnerability and risk and instituting a systemic process of gathering and integrating information to feed into tailor-made and context appropriate programmes and policies. This requires:
+Ì Ì An in-depth analysis of fundamental urban features, including the defining features of urban vs rural settings.
+Ì Ì Acknowledging that the urban-rural divide is fluid and subject to socio-economic, geographical and environmental variations. 
+UNISDR 
+Essentials 2 and 8
+2. Upgrading and/ or developing appropriate and relevant methodologies, tools and standards for urban contexts 
+Incompatibility of existing methodologies, tools and standards should be addressed and adapted to meet the complexities of urban settings. Steps include:
+Ì Ì Risk mapping and assessment is essential in targeted urban areas to effectively plan urban DRR, determine needs and develop activities for intervention.
+Ì Ì Monitoring, contingency planning and early warning: 
+It is vital to improve technical and operational capacities, methodologies and standards through innovation and efficient use of modern technology, in order to enhance understanding and assessment of urban risks; develop new or upgrade existing operational tools; and develop realistic disaster scenarios and operational standard operating procedures.
+UNISDR 
+Essentials 2,
+
+[Page 73]
+International Federation of Red Cross and Red Crescent Societies
+Building urban resilience
+Red Cross Red 
+Crescent Essentials for Urban Disaster 
+Risk Reduction and Management 
+Characteristics and points to note
+Link to 
+UNISDR’s Ten 
+Essentials for 
+Making Cities 
+Resilient
+3. Integrated and inclusive urban programming Ì Ì Ensure urban risk reduction and disaster management programming is adapted to address the diverse and complex needs of vulnerable populations – including with regard to migration, food security, livelihoods, water, sanitation and hygiene, health, urban youth, people living with disabilities and gender.
+Ì Ì Focus efforts to understand funding streams that could be accessed at national and local levels for urban risk reduction and adaptation programmes.
+Ì Ì Contingency plans should be part of the comprehensive process of risk mapping and assessment, disaster monitoring, early warning, institutional readiness and people preparedness.
+Ì Ì Effective monitoring and early warning systems are essential to ensure timely and efficient disaster response, but these should not be limited to technical and scientific systems and devices. 
+They should also include multi-stakeholder collaborative mechanisms as well as engagement and participation of people and communities.
+Ì Ì Financial and budgetary systems for both pre-allocated resources as well as emergency donations and contributions should be developed in advance of disasters and integrated in disaster management plans and systems.
+UNISDR 
+Essentials 4, 
+8, 9 and 10
+
+[Page 74]
+International Federation of Red Cross and Red Crescent Societies
+7.  Red Cross Red Crescent essentials for building urban resilience
+Red Cross Red 
+Crescent Essentials for Urban Disaster 
+Risk Reduction and Management 
+Characteristics and points to note
+Link to 
+UNISDR’s Ten 
+Essentials for 
+Making Cities 
+Resilient
+3. (cont.) Ì Ì Risk assessment processes and contingency plans should include provisions for allocation of of prospective resources and budgets required for the post-emergency phase of disaster in order to prevent gaps after the relief phase and facilitate a smooth transition to recovery.
+UNISDR 
+Essentials 4, 
+8, 9 and 10
+4. Urban sensitive capacity development Ì Ì This requires a conceptual shift in institutional and operational capacity development across a wide spectrum of activities, including: strengthening volunteering and human resources systems; increasing accountability and improving knowledge of urban settings; developing urban versions or supplements for existing toolsets such as the VCA toolkit; and incorporation of research on urban development regulation to support DRR efforts.
+Ì Ì It equally extends to understanding underlying causes and identifying perceptions of risk and the priorities of all urban vulnerable groups; being responsive to local contextual variation; testing and researching intervention strategies; and establishing a clear evidence-base.
+Ì Ì There is a need to engage professionals (engineers, city planners, lawyers, and social workers) to provide expert analysis where necessary, for example, of construction, land use and social conflict.
+Essentials 4,
+
+[Page 75]
+International Federation of Red Cross and Red Crescent Societies
+Building urban resilience
+Red Cross Red 
+Crescent Essentials for Urban Disaster 
+Risk Reduction and Management 
+Characteristics and points to note
+Link to 
+UNISDR’s Ten 
+Essentials for 
+Making Cities 
+Resilient
+4. (cont.) Ì Ì Building institutional capacity on risk profiling and risk mapping to link risk parameters to the conditions of slum communities and the most vulnerable is important.
+Ì Ì Regular training, drills and exercises are required to ensure that disaster management systems are equipped to face unexpected situations. Tests should develop various scenarios for disasters as well as effective systems for the recruitment, organization and management of volunteers and other community members.
+Ì Ì Develop and overlap maps of hazards and other effects of climate change on urban areas at different scales (regional, citywide, and in specific neighborhoods or sectors) to build a comprehensive understanding of the context for any intervention.
+Ì Ì Integrate analysis of hazards and effects of climate change with other sources of urban risk, such as technological hazards and social violence, because the complexity of the urban environment requires resilience building strategies that seek to address multiple sources of risk.
+Ì Ì Consider potential effects of population growth, migration trends and unemployment/informal employment on exposure, vulnerability and capacities for resilience.
+Essentials 4,
+
+[Page 76]
+International Federation of Red Cross and Red Crescent Societies
+7.  Red Cross Red Crescent essentials for building urban resilience
+Red Cross Red 
+Crescent Essentials for Urban Disaster 
+Risk Reduction and Management 
+Characteristics and points to note
+Link to 
+UNISDR’s Ten 
+Essentials for 
+Making Cities 
+Resilient
+4. (cont.) Ì Ì Undertake research and consultations to gather a clear picture of the applicable legal framework for DRR and the challenges faced in its implementation.
+Ì Ì Focus on illegal and spontaneous settlements where vulnerability and exposure are likely to be higher.
+Essentials 4, 
+6 and 7
+5. Urban community resilience building and engagement Ì Ì Tailor approaches to community engagement, using local knowledge as a central component in building long-term resilience.
+Ì Ì Ensure effective community engagement in urban DRR decision-making and awareness raising on existing risks, means of prevention and response mechanisms.
+Ì Ì Use participatory risk assessment processes to generate greater social cohesion in heterogeneous urban populations.
+Ì Ì Promote the establishment of clear roles and legal mandates for representatives of diverse social groups to participate in decision-making on risk reduction.
+Ì Ì Support school-based awareness-raising and emergency preparedness drills.
+Ì Ì Support representatives of neighborhood associations and civil society groups to participate in forums on urban planning and development, and to raise issues of risk and resilience.
+UNISDR 
+Essential 3
+
+[Page 77]
+International Federation of Red Cross and Red Crescent Societies
+Building urban resilience
+Red Cross Red 
+Crescent Essentials for Urban Disaster 
+Risk Reduction and Management 
+Characteristics and points to note
+Link to 
+UNISDR’s Ten 
+Essentials for 
+Making Cities 
+Resilient
+6. Creating synergy between multiple levels and actors in urban settings Ì Ì The overriding complexity of urban settings and presence of a myriad of actors will require enhanced coordination and partnership with local authorities, professional organizations, the private sector, academia and other local urban actors.
+Ì Ì Close cooperation and coordination with neighboring cities, regions and countries to exchange information, knowledge, and material, financial and human resources are essential and should be integrated in relevant disaster preparedness, response and contingency plans.
+Ì Ì There is a need to foster coordination and partnerships by supporting the creation of local platforms for DRR; identifying new partners with relevant expertise, such as universities and private sector firms; and establishing local coalitions on resilience (e.g., as part of UNISDR’s ‘Making Cities Resilient’ campaign).
+UNISDR 
+Essentials 1, 
+6 and 8
+7. Effective use of science and technology in urban settings Ì Ì The complexity of risk necessitates increased use of science, technology and innovation. Science-based forecasting and early warning systems are critical to informed decision-making, while technology provides innovative means of reaching wider, disconnected populations rapidly. 
+UNISDR 
+Essential 8
+
+[Page 78]
+International Federation of Red Cross and Red Crescent Societies
+7.  Red Cross Red Crescent essentials for building urban resilience
+Red Cross Red 
+Crescent Essentials for Urban Disaster 
+Risk Reduction and Management 
+Characteristics and points to note
+Link to 
+UNISDR’s Ten 
+Essentials for 
+Making Cities 
+Resilient
+8. Effective advocacy for urban communities and stakeholders Ì Ì Establish links to programmes addressing other types of vulnerability (such as livelihoods, traffic safety, first aid) and areas outside the Red Cross Red Crescent’s niche (such as urban planning, violence reduction) through enhanced partnership and advocacy; linking to auxiliary role; and engaging other stakeholders.
+Ì Ì Focus on advocacy programmes that promote access to safe urban spaces for the poor, women, and people with disabilities.
+Ì Ì Promote the inclusion of risk reduction principles within laws and rules relating to building, land use planning, environment and water resource management.
+Ì Ì Raise public awareness of rights and responsibilities for basic services, such as water supply, sanitation and waste management, which have a major impact on vulnerability in urban environments.
+Ì Ì Promote water and sanitation projects that improve access to safe water and hygiene for slum dwellers.
+Ì Ì Promote shelter and settlement interventions that improve access to adequate and improved housing and security of tenure.
+Ì Ì Advocate for the creation/updating and implementation of legislation that strengthens accountability for disaster risk reduction of public and private sector actors.
+UNISDR 
+Essential 4
+
+[Page 79]
+International Federation of Red Cross and Red Crescent Societies
+Building urban resilience
+Red Cross Red 
+Crescent Essentials for Urban Disaster 
+Risk Reduction and Management 
+Characteristics and points to note
+Link to 
+UNISDR’s Ten 
+Essentials for 
+Making Cities 
+Resilient
+8. (cont.) Ì Ì Assess and share how legal and policy frameworks can help reduce disaster risk in informal urban settlements. This could include analysing issues related to residents’ rights, as well as governmental duties to protect the public, and participatory options for gradual regularization under local governance structures.
+UNISDR 
+Essential 4
+9. Urban volunteer management Ì Ì Increase volunteer diversity, offer flexible arrangements to volunteers, and prepare for spontaneous volunteering after an urban disaster.
+UNISDR 
+Essential 7
+
+[Page 80]
+International Federation of Red Cross and Red Crescent Societies
+8.  Key documents and resources for Urban Disaster Risk Reduction and Management
+8.  Key documents and resources for Urban Disaster Risk Reduction and Management
+There is significant documentation available on FedNet (https://fednet.ifrc.
+org). Key documents are listed below:
+IFRC and Movement Documentation
+Producer
+Document title
+British Red
+Cross (2012) 
+Learning from the City.
+IFRC (2010)
+IFRC (2010) World Disasters Report 2010: Focus on urban risk.
+IFRC (2011)
+No time for doubt: tackling urban risk.
+IFRC (2012)
+Risk in Urban Contexts: Conceptual Framework.
+IFRC (2012)
+Risk Reduction in urban environments project identification, design, implementation and assessment checklist.
+IFRC (2012)
+Strategic guidelines and methodological approach to risk in urban contexts in Central America.
+IFRC (2013)
+Better laws, safer communities? Emerging themes on how legislation can support disaster risk reduction.
+IFRC (2013)
+Integrating climate change and urban risks into the VCA.
+Netherlands 
+Red Cross (2007)
+Urbanization study into causes, trends and consequences of the rapid growth of cities and the impact on Red Cross and 
+Red Crescent work.
+Skat and IFRC (2013)
+Sustainable Reconstruction in Urban Areas: A Handbook.
+Documentation related to the five city-level pilot projects is available at:
+https://fednet.ifrc.org/en/resources/community-preparedness-and-riskreduction/disaster-risk-reduction/Urban-DRR-DM/
+
+[Page 81]
+International Federation of Red Cross and Red Crescent Societies
+Building urban resilience
+External Documentation
+Producer
+Document title/Link
+ALNAP (2012)
+Lessons: Responding to urban disasters – Learning from previous relief and recovery operations.
+Earthquakes and Megacities 
+Initiatives (EMI) (2012) (commissioned by IFRC Asia 
+Pacific)
+Programmatic directions for the Red Cross and Red 
+Crescent in building urban community resilience in the Asia 
+Pacific Region.
+IASC (2010)
+IASC Strategy Meeting Humanitarian Challenges in Urban Areas.
+UNISDR’s Ten 
+Essentials for 
+Making Cities 
+Resilient toolkitblkitem/?id=1.
+IASC 
+IASC Action Plan for Meeting Humanitarian 
+Challenges in Urban Areas 2015-17: https:// interagencystandingcommittee.org/system/files/ iasc_second_action_plan_for_meeting_humanitarian_ challenges_in_urban_areas_2015-2017.pdf.
+United Nations
+Sendai Framework for Disaster Risk Reduction sendaiframeworkfordrren.pdf.
+ACF
+Identification of vulnerable people in urban emergencies: publications/2010_acf_identification_of_vulnerable_people_ in_urban_environments_guideline_en.pdf.
+CaLP
+Cash Transfer Programming in Urban Emergencies, 
+A Toolkit for Practitioners.
+JIPS
+Guidance for Profiling Urban Displacement Situations. 
+Challenges and Solutions.
+UN HABITAT
+City Resilience Profiling Tool: An adaptable urban system model suitable for all human settlements.
+
+[Page 82]
+International Federation of Red Cross and Red Crescent Societies
+8.  Key documents and resources for Urban Disaster Risk Reduction and Management
+Website
+Overview
+Global Disaster 
+Preparedness Centre http://preparecenter.org/
+One of the topics covered by the website is urban resilience and the site contains a number of related documents and case studies.
+Alnap Urban Portal response.org/
+The Urban Humanitarian Response Portal is a global site to share knowledge on urban humanitarian crises.
+The site includes programme reports, lessons learnt, and policies, tools and methodologies relevant to responding to crises in urban environments.
+International Institute for Environment and 
+Development urban-crises-learning-fund
+IIED is leading a three-year programme of research, documentation of past experiences, development of tools and guidelines, and shared learning across humanitarian actors and other urban stakeholders. The research can be found on its website.
+Harvard Humanitarian 
+Initiative http://hhi.harvard.
+edu/research/ urban-emergencies#intro
+Research into how to prepare for and respond to urban humanitarian crises.
+Global Alliance for Urban Crisis http://unhabitat.org/globalalliance-for-urban-crises/
+This multi-stakeholder alliance has been established through the WHS to provide knowledge, build capacities and develop datainformed and evidence-based approaches in order to more effectively prevent, prepare for, and respond to humanitarian crises in urban settings. It is guided by principles laid out in the 
+Urban Crises Charter.
+
+[Page 84]
+International Federation of Red Cross and Red Crescent Societies
+Annex 1  UNISDR Ten Essentials for Making Cities Resilient
+Annex 1.  UNISDR Ten Essentials for Making Cities 
+Resilient 1
+Essential One: Organise for Disaster Resilience “Put in place an organizational structure and identify the neces­ sary processes to understand and act on reducing exposure, its impact and vulnerability to disasters.”
+Essential Two: Identify, Understand and Use Current and Future Risk Scenarios “City governments should identify and understand their risk, in­ cluding hazards, exposure and vulnerabilities, and use this know­ ledge to inform decision making.”
+Essential Three: Strengthen Financial Capacity for Resilience “Understand the economic impact of disasters and the need for investment in resilience. Identify and develop financial mech­ anisms that can support resilience activities.”
+Essential Four: Pursue Resilient Urban Development and Design “The built environment needs to be assessed and made resilient as applicable, informed by risk identified in essential 2.”
+Essential Five: Safeguard Natural Buffers to Enhance Ecosystems’ Protective Functions “Safeguard natural buffers to enhance the protective functions offered by natural ecosystems. Identify, protect and monitor crit­ ical ecosystems services that confer a disaster resilience benefit.”
+
+[Page 85]
+International Federation of Red Cross and Red Crescent Societies
+Building urban resilience
+Essential Six: Strengthen Institutional Capacity for Resilience “It is important to ensure that all institutions relevant to a city’s resilience have the capabilities they need to discharge their roles.”
+Essential Seven: Understand and Strengthen 
+Societal Capacity for Resilience “Ensure understanding and strengthening of societal capacity for resilience. Cultivate an environment for social connected­ ness which promotes a culture of mutual help through recogni­ tion of the role of cultural heritage and education in disaster risk reduction.”
+Essential Eight: Increase Infrastructure Resilience “Assess the capacity and adequacy of, as well as linkages be­ tween, critical infrastructure systems and upgrade these as ne­ cessary according to risk identified in essential 2.”
+Essential Nine: Ensure Effective Disaster Response “Ensure the creation and updating of disaster response plans are informed by risks identified in essential 2 and communicated to all stakeholders through use of organizational structure as per essential 1.”
+Essential Ten: Expedite Recovery and Build Back Better “Ensure of sufficient pre-disaster plans according to risks identi­ fied and that after any disaster, the needs of the affected are at the centre of recovery and reconstruction, with their support to design and implement rebuilding.”
+
+[Page 86]
+International Federation of Red Cross and Red Crescent Societies
+Annex 2  Global developments on Urban Resilience
+Annex 2.  Global developments on Urban Resilience
+The table below provides an overview of some of the key messages ema­ nating from recent global developments with a focus on urban resilience.
+Initiative
+Key urban resilience-related messages
+2030 Agenda for Sustainable 
+Development – 
+Sustainable 
+Development 
+Goals
+Goal 11. Make cities and human settlements inclusive, safe, resilient and sustainable
+11.1 By 2030, ensure access for all to adequate, safe and affordable housing and basic services and upgrade slums.
+11.2 By 2030, provide access to safe, affordable, accessible and sustainable transport systems for all, improving road safety, notably by expanding public transport, with special attention to the needs of those in vulnerable situations, women, children, persons with disabilities and older persons. 
+11.3 By 2030, enhance inclusive and sustainable urbanization and capacity for participatory, integrated and sustainable human settlement planning and management in all countries. 
+11.4 Strengthen efforts to protect and safeguard the world’s cultural and natural heritage.
+11.5 By 2030, significantly reduce the number of deaths and the number of people affected and substantially decrease the direct economic losses relative to global gross domestic product caused by disasters, including waterrelated disasters, with a focus on protecting the poor and people in vulnerable situations.
+11.6 By 2030, reduce the adverse per capita environmental impact of cities, including by paying special attention to air quality and municipal and other waste management.
+11.7 By 2030, provide universal access to safe, inclusive and accessible, green and public spaces, in particular for women and children, older persons and persons with disabilities.
+
+[Page 87]
+International Federation of Red Cross and Red Crescent Societies
+Building urban resilience
+Initiative
+Key urban resilience-related messages
+2030 Agenda for Sustainable 
+Development – 
+Sustainable 
+Development 
+Goals (cont.)
+11.a Support positive economic, social and environmental links between urban, peri-urban and rural areas by strengthening national and regional development planning.
+11.b By 2020, substantially increase the number of cities and human settlements adopting and implementing integrated policies and plans towards inclusion, resource efficiency, mitigation and adaptation to climate change, resilience to disasters, and develop and implement, in line with the Sendai Framework for Disaster Risk Reduction 
+2015-2030, holistic disaster risk management at all levels.
+11.c Support least developed countries, including through financial and technical assistance, in building sustainable and resilient buildings utilizing local materials.
+Sendai 
+Framework for 
+Disaster Risk 
+Reduction 
+2015-2030
+Goal:
+Prevent new and reduce existing disaster risk through the implementation of integrated and inclusive economic, structural, legal, social, health, cultural, educational, environmental, technological, political and institutional measures that prevent and reduce hazard exposure and vulnerability to disaster, increase preparedness for response and recovery and thus strengthen resilience.
+Priority 2: Strengthening disaster risk governance to manage disaster risk (d) To encourage the establishment of necessary mechanisms and incentives to ensure high levels of compliance with the existing safety-enhancing provisions of sectoral laws and regulations, including those addressing land use and urban planning, building codes, environmental and resource management and health and safety standards, and update them, where needed, to ensure an adequate focus on disaster risk management;
+Priority 3: Investing in disaster risk reduction for resilience (b) To promote mechanisms for disaster risk transfer and insurance, risk-sharing and retention and financial protection, as appropriate, for both public and private investment in order to reduce the financial impact of disasters on 
+Governments and societies, in urban and rural areas;
+
+[Page 88]
+Initiative
+Key urban resilience-related messages
+Sendai 
+Framework for 
+Disaster Risk 
+Reduction 
+2015-2030 (cont.) (f) To promote the mainstreaming of disaster risk assessments into land-use policy development and implementation, including urban planning, land degradation assessments and informal and non-permanent housing, and the use of guidelines and follow-up tools informed by anticipated demographic and environmental changes;
+To incorporate disaster risk reduction measures into multilateral and bilateral development assistance programmes within and across all sectors, as appropriate, related to poverty reduction, sustainable development, natural resource management, the environment, urban development and adaptation to climate change.
+HABITAT III 
+The New Urban 
+Agenda, Quito 
+2016
+5. By redressing the way cities and human settlements are planned, designed, financed, developed, governed and managed, the New Urban Agenda will help to end poverty and hunger in all its forms and dimensions, reduce inequalities, promote sustained, inclusive, and sustainable economic growth, achieve gender equality and the empowerment of all women and girls, in order to fully harness their vital contribution to sustainable development, improve human health and well-being, as well as foster resilience and protect the environment.
+33. We commit to stimulate the supply of a variety of adequate housing options that are safe, affordable, and accessible for members of different income groups of society….
+72. We commit to long-term urban and territorial planning processes and spatial development practices that incorporate integrated water resources planning and management, considering the urban-rural continuum at the local and territorial scales, and including the participation of relevant stakeholders and communities.
+International Federation of Red Cross and Red Crescent Societies
+Annex 2  Global developments on Urban Resilience
+
+[Page 89]
+International Federation of Red Cross and Red Crescent Societies
+Building urban resilience
+Initiative
+Key urban resilience-related messages
+HABITAT 
+III The New 
+Urban Agenda, 
+Quito 2016 (cont.)
+77. We commit to strengthen the resilience of cities and human settlements, including through the development of quality infrastructure and spatial planning by adopting and implementing integrated, age- and gender-responsive policies and plans and ecosystem-based approaches in line with the Sendai Framework for Disaster Risk Reduction 
+2015-2030, mainstreaming holistic and data-informed disaster risk reduction and management at all levels, reducing vulnerabilities and risk, especially in risk-prone areas of formal and informal settlements, including slums, enabling households, communities, institutions and services to prepare for, respond to, adapt to, and rapidly recover from the effects of hazards, including shocks or latent stresses. We will promote the development of infrastructure that is resilient, resource-efficient, and which will reduce the risks and the impact of disasters, including the rehabilitation and upgrading of slums and informal settlements. We will also promote measures for strengthening and retrofitting of all the risky housing stock including in slums and informal settlements to make it resilient against disasters in coordination with local authorities and stakeholders.
+78. We commit to support shifting from reactive to more proactive risk-based, all-hazards and all-of-society approaches, such as raising public awareness of the risk and promoting ex-ante investments to prevent risks and build resilience, while also ensuring timely and effective local responses, to address the immediate needs of inhabitants affected by natural and man-made disasters, and conflicts. This should include the integration of the ‘’Build Back Better’’ principles in the post-disaster recovery process to integrate resilience-building, environmental and spatial measures, and the lessons from past disasters and new risks into future planning.
+
+[Page 90]
+Initiative
+Key urban resilience-related messages
+HABITAT 
+III The New 
+Urban Agenda, 
+Quito 2016 (cont.)
+88. We will ensure coherence between goals and measures of sectoral policies, inter alia, rural development, land use, food security and nutrition, management of natural resources, provision of public services, water and sanitation, health, environment, energy, housing and mobility policies, at different levels and scales of political administration, across administrative borders and considering the appropriate functional areas, in order to strengthen integrated approaches to urbanization and implement integrated urban and territorial planning strategies that factor them in.
+World 
+Humanitarian 
+Summit (2016)
+Global Alliance for Urban Crisis
+Crises increasingly take place in urban areas and consequently there is a need to expand partnerships and ways of working to better meet the humanitarian needs of urban residents. The Summit saw the launch of the Global 
+Alliance for Urban Crisis, a partnership bringing together over 65 organizations of local government networks, humanitarian and development actors and professional associations to affect a fundamental shift in humanitarian action in towns and cities.
+51 individual commitments were made in support of the 
+Global Alliance or more generally focused on urban-related issues. Commitments aimed to increase humanitarian actors’ access to expert advice on urban issues, on building urban resilience, and on adapting humanitarian tools and practices to urban settings. As an example, World 
+Vision committed to strengthen its institutional capacity to respond to urban humanitarian crises by ensuring a basic understanding of urban contexts for staff engaging in urban crisis response by 2020 and to tailor humanitarian response to the urban context by developing shared assessment and profiling tools, promoting joint analysis, and adapting coordination mechanisms.
+International Federation of Red Cross and Red Crescent Societies
+Annex 2  Global developments on Urban Resilience
+
+[Page 91]
+International Federation of Red Cross and Red Crescent Societies
+Building urban resilience
+Initiative
+Key urban resilience-related messages
+World 
+Humanitarian 
+Summit (2016) (cont.)
+The Royal Institute of British Architects and its partners will build a ‘UK Built Environment Advisory” to provide the international humanitarian and development community with specific expertise (from architects, engineers and town planners) for strategic policy-making and technical capacity in the field.
+The Active Learning Network for Accountability and 
+Performance (ALNAP) is committed to furthering understanding of urban contexts through research and by working to meet the growing needs for evidence and knowledge management of urban contexts.
+Climate Change 
+Conference, 
+Paris (2015)
+Adaptation
+A major priority for many developing countries was strengthening adaptation efforts under the UNFCCC. The agreement does that by:
+– Establishing a global goal of “enhancing adaptive capacity, strengthening resilience and reducing vulnerability to climate change”.
+– Requiring all parties, “as appropriate”, to plan and implement adaptation efforts.
+
+[Page 92]
+International Federation of Red Cross and Red Crescent Societies
+Annex 3  Tehran Call for Action
+Annex 3.  Tehran Call for Action
+International Seminar on Urban Disaster Risk Reduction and Management
+Tehran, Iran 3-7 May 2015 “Tehran Call for Action”
+We, representatives of National Red Cross and Red Crescent 
+Societies and the International Federation of Red Cross and Red 
+Crescent Societies (IFRC), International Committee of the Red 
+Cross joined by participants from international and regional or­ ganizations, local governments, as well as academia, gathered at the International Seminar on Urban Disaster Risk Reduction and 
+Management hosted by Iranian Red Crescent Society, in Tehran, 
+3-7 May 2015;
+Noting the rapid and unplanned urbanization coupled with cli­ mate change posing a great challenge for the people and com­ munities and causing humanitarian consequences such as the experiences of 2010 earthquake in Haiti, the tsunami and nuclear disaster in Fukushima in 2011, Typhoon Haiyan in the Philippines in 2013, and the Nepal earthquake in 2015;
+Acknowledging that the rapid rise in unplanned and unmanaged urbanization compounded with other underlying risk factors such as migration, environmental degradation, weak urban plan­ ning, lack of updated building codes and challenges in their en­ forcement, economic and social stresses posing a growing threat to people’s lives, livelihoods and economic growth will impact the most vulnerable people and communities that Red Cross and Red 
+Crescent strive to serve;
+Recognising that the IFRC and member National Societies have been always present and active in cities and urban settings to
+
+[Page 93]
+International Federation of Red Cross and Red Crescent Societies
+Building urban resilience serve the most vulnerable people and have made valuable efforts in the recent years at national, regional and international levels such as numerous city level programmes, regional surveys and studies, including the World Disaster Report 2010 with a focus on 
+Urban Risks, the current IFRC partnership for Urban Disaster Risk 
+Reduction and Management as well as other relevant initiatives including the One Billion Coalition for Resilience;
+Acknowledging that due to the increasing complexity of cities and urban areas and hence unprecedented disaster risks and vulnera­ bilities of people and communities in such contexts, there is need for further enhancement and scale up of our work to reach and serve more vulnerable people and communities,
+Noting the deliberations and outcome of sessions and discussions over the course of the four day seminar:
+1. Commit to rise to the challenge of increasing urban disaster risks around the world by using and enhancing IFRC and its member National Red Cross and Red Crescent Societies’ in­ stitutional and operational capacities in urban disaster risk reduction and management.
+2. Encourage all the Components of the International Red Cross and Red Crescent Movement to prioritise and invest know­ ledge and resources to support urban disaster risk reduction and management through various ways and means, including through the effective use of innovation, science and tech­ nology, at national, regional and international levels.
+3. Call upon all the national and local governments and stake­ holders including the UN system, academia, civil society or­ ganizations, private sector and media, to engage and support building urban community resilience, in line with the rele­ vant international frameworks such as the Sendai Framework for Disaster Risk Reduction (2015-2030) and the ISDR Resilient 
+Cities Campaign.
+
+[Page 94]
+4. Commit to engage and provide effective risk reduction and management and resilience building support in at least 50 cities by 2020, promoting and supporting communities to be­ come drivers of urban resilience.
+5. To guide the efforts of the Components of the International 
+Red Cross and Red Crescent Movement, adopt The Road to 
+Urban Resilience: The IFRC’s Perspective and encourage the 
+IFRC to finalize and publish Building Urban Resilience: A Guide for National Red Cross and Red Crescent Societies Engagement and 
+Planning by benefiting from all available resources and the out­ comes of deliberations and discussions held in this Seminar.
+We wish to express our gratitude and sincere thanks to the 
+Iranian Red Crescent society for the lead support and contribu­ tion to progress the IFRC urban resilience agenda. Finally, we wish to extend our deep appreciations to the leadership, staff and volunteers of the Iranian Red Crescent for their warm hospitality and excellent hosting and organization of the seminar.
+Teheran, 7 May 2015
+International Federation of Red Cross and Red Crescent Societies
+Annex 3  Tehran Call for Action
+
+[Page 95]
+International Federation of Red Cross and Red Crescent Societies
+Building urban resilience
+Annex 4.  The Road to Urban 
+Resilience: The IFRC’s 
+Perspective
+Purpose
+The purpose of this paper is two-fold: (a) to enable the 
+International Federation of Red Cross and Red Crescent Societies (IFRC) and its member National Red Cross and Red Crescent 
+Societies (NS) to speak with one voice on urban risk and the hu­ manitarian implications of rapid and unplanned urbanization and (b) to set out the IFRC and its members’ key messages, recom­ mendations and asks to key stakeholders and partners in urban settings across the globe.
+This paper is a complementary read and should accompany the IFRC’s “Urban Disaster Risk Reduction and Management – A Guide for Red Cross 
+Red Crescent Engagement and Planning”.
+Urbanization and the humanitarian challenge
+Urbanization – coupled with the increasing frequency and inten­ sity of natural hazards, which are associated with the onset of climate change – is an emerging humanitarian challenge. The pace, scope and nature of urbanization can trigger and heighten humanitarian crises, threatening lives and livelihoods, assets and property, and reversing hard earned development gains.
+As hubs of economic growth and drivers of social and political agendas, urban settings exercise a considerable influence on de­ velopment. Cities provide valuable opportunities to engage with local government institutions, businesses and service providers, as well as access markets and technological facilities to facili­ tate improved understanding and communication of risk and
+
+[Page 96]
+opportunities for its reduction. However, unmanaged or misman­ aged urbanization is increasing the exposure of people in urban areas to natural hazards and climate risks, for example through migration and the development of settlements in slums, on riverbanks or low-lying coastal areas, or haphazard construction that does not comply with the building code.
+Global efforts and initiatives on urban DRR/DM:
+Ì Ì IFRC Partnership on Urban DRR/DM, World Disaster Report 2010 on 
+Urban Risks and IFRC Regional Studies.
+Ì Ì UNISDR resilient cities campaign.
+Ì Ì UNSIDR’s Ten Essentials for Making Cities Resilient.
+Ì Ì Sendai Framework for Disaster Risk Reduction 2015-2030.
+Ì Ì Global Platform for Disaster Risk Reduction (GP/DRR).
+Ì Ì Regional Platforms for Disaster Risk Reduction.
+Ì Ì World Urban Forums.
+Ì Ì The IASC Reference Group for Meeting Humanitarian Challenges in 
+Urban Areas.
+Ì Ì World Humanitarian Summit Urban Track.
+It is estimated that in 2014 approximately 54 per cent of the world’s population (3.9 billion) lived in urban areas. Projections suggest that 66 per cent of the world’s population will be urban­ ized by 2050.1 Rapid and unplanned urban population growth has also led to the proliferation and expansion of informal settle­ ments – generating a steady rise in the number of people living in poor and vulnerable conditions. Estimates currently put the number of people living in informal settlements (i.e., as squatters, in slums, favelas, etc.) at 863 million.2
+While the process and scale of urbanization is not homoge­ nous across all regions, urban populations – in particular slum 
+1 United Nations, Department of Economic and Social Affairs, Population Division (2014), World Urbanization Prospects: The 2014 Revision, Highlights (NY, United Nations). 
+2 UN-HABITAT (2013), Streets as Public Spaces and Drivers of Urban Prosperity (Nairobi, 
+UN-HABITAT).
+International Federation of Red Cross and Red Crescent Societies
+Annex 4  The Road to Urban Resilience: The IFRC’s Perspective
+
+[Page 97]
+International Federation of Red Cross and Red Crescent Societies
+Building urban resilience dwellers – face common emerging challenges, including lack of access to basic services, such as healthcare, education, transport, safe water and sanitation, and to adequate housing and land, emergency services, and employment opportunities, as well as food and tenure insecurity. These conditions further exacerbate existing vulnerabilities and diminish resilience to shocks and stresses.
+Drivers of vulnerability include inadequate risk assessment and information sharing, weak governance; lack of access to decisionmaking fora; lack of contingency planning; low levels of prepared­ ness; unfavourable economic dynamics in the urban population; inadequate urban planning (poor land use, growing informal set­ tlements); lack of or outdated building codes, or failure to enforce them (particularly with respect to seismic risks); increased de­ mand for limited public services (energy, sewage, water); unsafe physical structures or poor access to them in emergencies; ex­ ploitation of natural resources; climate change; fragmented and transient communities; frequent migration; and dependence on public services.1
+The IFRC and strengthening resilience in the urban context
+Informed by Strategy 2020, the IFRC’s interventions are designed to increase the resilience of communities and households to shocks in different contexts. As urbanization expands the scope of humanitarian activities with consequential effects on risk and vulnerability, there is great pertinence for the Red Cross Red 
+Crescent to adopt an urban lens with regard to its resilience work.
+The IFRC has always been present in cities and urban areas through its 189 National Red Cross and Red Crescent Societies, which are present in almost all the world’s capital cities, with 
+1 IFRC, Building Urban Resilience Workshop Results, in Arusha, Tanzania (16-17 February 
+2013), and Bangkok, Thailand (30–31 July 2013)
+
+[Page 98]
+branches in medium to small size cities. The IFRC’s growing work in urban settings takes into consideration the findings of a number of IFRC reports, research publications and initiatives, namely the 2010 edition of the World Disasters Report, which fo­ cused on urban risk, as well as regional studies undertaken in the Latin America, Asia Pacific and Caribbean regions. The 
+Partnership on Urban Disaster Risk Reduction and Management was initiated in 2013 and contributed to a number of regional con­ sultations with the participation of 85 National Societies – Other initiatives were carried out in Latin America and the Caribbean, 
+Asia Pacific, 10 cities in Africa, while 5 pilot projects were imple­ mented in Jakarta, La Paz, Nairobi, Tehran and Yerevan under the 
+IFRC Urban DRR/DM Partnership.
+The outcomes and findings of regional consultations and pilot projects show that National Societies from Africa, the Americas, 
+Asia Pacific, Europe, and the Middle East and North Africa are concerned about the increasing challenges that vulnerable people face living in urban areas and they are eager to find more effective ways to address them. Experiences, lessons, and practices have been collected from projects and programmes around the world that serve as a foundation for the development of IFRC’s positions.
+Additionally, efforts have been made to ensure synergies and complementarities with global efforts to strengthen urban DDR. 
+Important global references and sources include UNISDR’s re­ silient cities campaign, UNSIDR’s Ten Essentials for Making Cities 
+Resilient, the outcomes of the World Urban Forums, and the third 
+UN World Conference on Disaster Risk Reduction which took place in Sendai, Japan, in March 2015.
+International Federation of Red Cross and Red Crescent Societies
+Annex 4  The Road to Urban Resilience: The IFRC’s Perspective
+
+[Page 99]
+International Federation of Red Cross and Red Crescent Societies
+Building urban resilience
+Key points
+The regional and global consultations as well as initiatives on urban DRR undertaken within IFRC have highlighted the following key points:
+a) The complexity of urban contexts requires deeper under­ standing and more effective assessment and monitoring of the risks communities face, including hazards and inter-con­ nected vulnerabilities as well as more advanced capacities to ensure efficient delivery of services in cities.
+b) While the IFRC and National Societies have always been pre­ sent and active in cities, most of the IFRC’s DRR and DM work and approaches have been firmly embedded within rural set­ tings and designed for rural communities.
+c) The IFRC and National Societies have important comparative advantages that can significantly contribute to building urban resilience. These include:
+Ì Ì The capacity to encourage and facilitate active participa­ tion of people and communities in urban DRR and DM, and to connect them to other risk management actors, re­ sponders and service providers.
+Ì Ì The ability, drawing on their auxiliary role, to represent the aspirations, needs and priorities of communities and vulner­ able people in formal urban planning processes, as well as to private sector investors, ensuring that urban policies, laws and plans are risk informed, facilitate preparedness and re­ sponse and help meet the needs of the most vulnerable.
+Ì Ì The capacity to translate formal urban DRR and DM rules and regulations to communities and families, using mem­ bers, youth and volunteers to improve compliance and implementation.
+d) There is a need to establish systematic processes that access, gather and integrate information on city-level hazard, vulner­ ability and risk in programmes and policy formulation.
+e) There is a need for more effective collaboration with local au­ thorities, the private sector, academia and other local urban
+
+[Page 100]
+actors, and to proritize integrated program­ming within 
+National Societies.
+f) 
+Existing methodologies and tools, such as guidelines, training materials and manuals, have been mostly designed for rural communities. Existing tools need to be further adapted for urban areas and new tools developed where necessary.
+IFRC commitments Ì Ì To dedicate efforts to strengthen resilience and enhance the capacities of NS and communities for more effective disaster preparedness and response in cities focusing on the most vulnerable people and communities.
+Ì Ì To integrate strengthening resilience in cities and urban risk reduction and management into institutional and operational priorities and planning, and ensure adequate investment and resources for this purpose.
+Ì Ì To make effective contributions to strengthening resilience and improving capacities for effective disaster preparedness, response and recovery in at least 100 cities by 2020.
+Ì Ì To continue to engage in partnerships from the global to the local level to manage urban risk and enhance the effectiveness of humanitarian action in urban areas.
+IFRC’s asks and call for Action
+We call on all National Societies, IFRC and other stakeholders:
+Ì Ì
+To prioritize strengthening resilience of and assisting the most vulnerable people and communities in cities and urban settings in planning and programming.
+Ì Ì
+To improve information, knowledge and understanding of disaster risks and the needs and priorities of at risk people and communities in cities, including supporting the develop­ ment of multi-hazard forecasting and early warning systems in urban areas.
+Ì Ì
+To take all the necessary means and measures to enhance in­ stitutional and operational capacities including the improve­ ment of policies, strategies, organizational and legislative 
+International Federation of Red Cross and Red Crescent Societies
+Annex 4  The Road to Urban Resilience: The IFRC’s Perspective
+
+[Page 101]
+International Federation of Red Cross and Red Crescent Societies
+Building urban resilience settings, methodologies and tools in order to strengthen the resilience of the most vulnerable people and communities and those affected by disasters in cities.
+Ì Ì
+To enhance risk governance in urban areas including through the implementation of laws, rules and codes that ensure safer development, such as building codes, facilitate preparedness and readiness for response, enhance accountability, and pro­ vide forums for communities to engage in planning and deci­ sion-making, both in the public and private sector.
+Ì Ì
+To apply a holistic and integrated approach and promote multi-stakeholder cooperation and coordination to manage multi-hazards.
+Ì Ì
+To enhance and improve ongoing cooperation and partner­ ships with the stakeholders in urban risk reduction and management, including with local governments and munici­ palities, civil society, the private sector, academia, technical institutions and centres, and regional and international organizations.
+Ì Ì
+To ensure adequate resourcing of municipal authorities so that they can deliver on their responsibilities relating to dis­ aster risk management in urban areas, including enforcement of building codes land use planning regulations and coordina­ tion of preparedness and response activities.
+Ì Ì
+To make effective use of innovative approaches and tech­ nology in urban risk reduction and management, particularly with respect to urban risk assessment and mapping, risk communication and behaviour change, contingency planning, preparedness for response, and recovery.
+Ì Ì
+Prioritize the use of cash transfer programmes, where appro­ priate, as an effective means to enable crisis affected com­ munities to meet their needs for basic goods and services in urban markets, contributing to urban economic recovery.
+
+[Page 102]
+Humanity The International Red Cross and 
+Red Crescent Movement, born of a desire to bring assistance without discrimination to the wounded on the battlefield, endeavours, in its international and national capacity, to prevent and alleviate human suffering wher­ ever it may be found. Its purpose is to protect life and health and to ensure respect for the human being. It promotes mutual under­ standing, friendship, cooperation and lasting peace amongst all peoples.
+Impartiality It makes no discrimination as to nationality, race, religious beliefs, class or political opinions. It endeavours to relieve the suffering of individuals, being guided solely by their needs, and to give priority to the most urgent cases of distress.
+Neutrality In order to enjoy the confidence of all, the Movement may not take sides in hostili­ ties or engage at any time in controversies of a political, racial, religious or ideological nature.
+Independence The Movement is independ­ ent. The National Societies, while auxiliaries in the humanitarian services of their gov­ ernments and subject to the laws of their respective countries, must always maintain their autonomy so that they may be able at all times to act in accordance with the prin­ ciples of the Movement.
+Voluntary service It is a voluntary relief movement not prompted in any manner by desire for gain.
+Unity There can be only one Red Cross or Red 
+Crescent Society in any one country. It must be open to all. It must carry on its humani­ tarian work throughout its territory.
+Universality The International Red Cross and Red Crescent Movement, in which all societies have equal status and share equal responsibilities and duties in helping each other, is worldwide.
+The Fundamental Principles of the International 
+Red Cross and Red Crescent Movement
+
+[Page 103]
+For more information on this IFRC publication, please contact:
+International Federation of 
+Red Cross and Red Crescent Societies
+Bruno Haghebaert
+Risk and Vulnerability Lead 
+Disaster and Crisis Prevention, Response and Recovery bruno.haghebaert@ifrc.org 
+Tel :  +41 22 730 4523

@@ -1,0 +1,1240 @@
+[Page 1]
+for Sustainable Development
+Strengthening Local AI Ecosystems through Collective Action
+
+[Page 2]
+The G7 Leaders’ Summit in June 2024 welcomed the Italian Presidency’s decision to establish the AI Hub for Sustainable Development, in collaboration with UNDP. 
+As affirmed in the G7 Leaders’ Declaration, the AI Hub aims to enable multi-stakeholder partnerships to support local AI digital ecosystems, strengthen capacities to advance 
+AI for sustainable development, and complement existing initiatives including the AI for Development Donors Partnership. 
+This is the first public report on the co-design of the AI Hub. It lays out initial suggestions and consolidated feedback from local AI ecosystems to understand opportunities and enhance ongoing AI development initiatives underway.
+LEAD ORGANIZATIONS
+Italian G7 Presidency
+United Nations Development Programme
+RESEARCH PARTNER
+Aapti Institute
+
+[Page 3]
+1. Introducing the AI Hub for Sustainable Development
+1.1 What is the AI Hub?
+1.2 Growing together: The need for the AI Hub 
+1.3 The focus of AI Hub 2024–2025: The GROW approach 
+2. Research: Pillars of AI Development
+2.1 Data
+Guide: Increase the quality and quantity of data by leveraging public–private partnerships in data collection 
+Renew: Bolster the African data pipeline by strengthening the critical physical and governance infrastructure 
+Orchestrate: Empower African talent to accelerate AI solutions through critical private sector interventions 
+Weave: Incorporate digital public goods such as open-source resources to ensure accountability, transparency, and interoperability in the data ecosystem 
+Case Study: Natural Language Processing “by Africans for Africans”— Masakhane 
+2.2 Compute 
+Guide: Harnessing private sector collaboration to enhance computing resources in African AI ecosystems 
+Renew: Mobilize local companies to innovate compute access, sustainability, and affordability 
+Orchestrate: Enable African talent through partnerships with global stakeholders to develop local and green compute capacities 
+Weave: Enable a collective path towards a robust AI landscape in Africa by sharing digital public goods 
+Case Study: Bridging the gap — European Union opens up High Performance 
+Computing (HPC) in Africa 
+CLICK TO 
+NAVIGATE
+Executive Summary
+
+[Page 4]
+2.3 Talent 
+Guide: Mainstream AI education and research across the educational ecosystem 
+Renew: Increase access to resources that can build AI skills 
+Orchestrate: Forge enabling environments that nurture African ‘unicorns’ and entrepreneurship 
+Weave: Leverage collective action such as private sector collaboration and digital public infrastructure to tackle the ‘twin technology challenge’ 
+Case Study: Networks of excellence — the African Institute for Mathematical Sciences (AIMS) and the Next Einstein Forum (NEF), supported by the International 
+Development Research Centre (IDRC) 
+3. Looking forward
+Acknowledgements
+Endnotes
+
+[Page 5]
+AI Hub for Sustainable Development 
+Executive Summary
+Africa is at the threshold of a powerful Artificial Intelligence (AI) revolution. Driven by a youthful population, dynamic tech ecosystems, and increasing connectivity, there is an enormous potential to develop and scale local solutions tailored to African contexts. To realize this potential for inclusive economic growth, collaborative effort is needed to propel responsible AI development across the continent. 
+The G7 Leaders’ Summit in June 2024 welcomed the Italian 
+Presidency’s decision to establish the AI Hub for Sustainable 
+Development, in collaboration with UNDP. This report envisions the creation of the AI Hub as a central platform to empower innovators, bridge the digital divide, and unlock the transformative power of AI for emerging economies, particularly in Africa. 
+The ambitions set forth respond and align with the needs and aspirations that were articulated during consultations across 
+Africa with more than 40 stakeholders. 
+In addition, the vision of the AI Hub aligns with the G7 Italian 
+Presidency through the Italy-Mattei Plan and the need for investing in Africa’s technological evolution, with Algeria, Côte d’Ivoire, 
+Egypt, Ethiopia, Kenya, Morocco, Mozambique, the Republic of the Congo, and Tunisia identified as priority countries. 
+The content of the report is structured as follows: 
+SECTION 1
+1.1 What is the AI hub articulates the aim of the AI Hub to become a nodal point for businesses, academia, and governments to collaborate and leverage the power of AI to achieve the sustainable development goals (SDGs) in Africa, while prioritizing the interests of local communities.
+1.2 Growing together: The need for the AI Hub draws attention to the factors determining the success of AI in Africa. It highlights 
+Driven by a youthful population, dynamic tech ecosystems, and increasing connectivity, there is an enormous potential to develop and scale local solutions tailored to 
+African contexts.
+
+[Page 6]
+AI Hub for Sustainable Development that AI initiatives hinge on collective action among different stakeholders, where a unified approach is required to shape the three pillars of AI development, namely data, compute and talent. 
+It also observes that risks abound in the absence of collective action, potentially limiting AI’s potential and sustainability. 
+1.3 The focus of the AI Hub 2024-2025: The GROW Approach explains why this approach is crucial to imagine pathways for creating exponential impact through AI initiatives. It creates impact by guiding research, renewing private sector participation, orchestrating the exchange of talent, and weaving shared public goods to accelerate innovation.
+SECTION 2
+2.0 Research: AI Pillars for Development offers a deep dive into each pillar — data, compute, and talent — and demonstrates how the GROW approach can aid in bolstering the existing infrastructure and networks, while also identifying and addressing their gaps.
+2.1 Data explains how data pipelines ensure representation and resilience in AI systems, allowing for responsible and contextrelevant AI innovation. The AI Hub proposes the GROW framework to tackle data challenges in Africa, emphasizing upon strategies like public-private partnerships to increase data quality and accessibility, data standardization and regulation, collaboration between sectors, investments towards building local capacities, and leveraging digital public goods, such as open data initiatives.
+2.2 Compute refers to the vast physical and digital infrastructure that supports scalability and performance of AI applications. 
+Through the GROW approach, the AI Hub suggests shifting the compute paradigm to bring down the cost of computation across countries and increase access, without which innovative and relevant AI applications are not possible. By fostering strategic collaborations, advocating for alternative computing, attracting investments, and encouraging secure open data policies to level the playing field and bridge digital divides, the AI Hub will ensure responsible and sustainable computing infrastructure for 
+AI development.
+
+[Page 7]
+AI Hub for Sustainable Development 
+2.3 Talent develops the cross-cutting pillar of talent development that is crucial to building a robust AI ecosystem. The AI Hub’s 
+GROW approach recommends mainstreaming AI education and research, building networks of talent, addressing skill gaps through work-integrated learning, improving upon both technical and soft skills, and increasing investments in talent development, and models of collaborations between industry and academia to support AI innovation and entrepreneurship.
+SECTION 3 
+Looking Forward discusses how fostering an inclusive, wellresourced, and collaborative AI ecosystem moving forward can harness Africa’s potential while promoting sustainable development. It underscores the potential of AI Hub as a kickstarter of a larger drive to build a collective, inclusive, responsible, and holistic avenue towards AI development in Africa.
+
+[Page 8]
+AI Hub for Sustainable Development 
+Introducing the AI Hub for 
+Sustainable Development
+SECTION 1
+
+[Page 9]
+AI Hub for Sustainable Development 
+Artificial Intelligence (AI) is expected to contribute US$15.7 trillion to the global economy by 2030.1 The use of AI can enhance productivity of existing processes, augment the use of labour, and drive development in a sustainable manner where present needs are met while empowering future generations to meet their own needs.2 AI also has the potential to transform sustainable development, by improving the reach and effectiveness of projects and programmes, enabling the collection and processing of large amounts of data to generate actionable insights, and shortening the feedback loop between monitoring and implementation.3 
+However, this promise also comes with risks such as entrenched bias, a lack of legitimate institutions with clear guidelines, remits and expertise regarding the use of AI, and crucially, the risk of uneven distribution of AI systems. With AI making its mark upon the continent, there are concerns around inequality, vendor lock-ins, and growing digital divides that could hamper its sustained evolution. 
+These issues need to be addressed through collective touchpoints and focused programmes, where responsible private sector innovation and partnerships, both global and local, can significantly influence the trajectory of AI for sustainable development. 
+The stakes here are high. The opportunities are profound. 
+1.1 What is the AI Hub?
+The AI Hub for Sustainable Development aims to be a multistakeholder initiative that can steer private sector collective action across AI ecosystems within African countries to accelerate sustainable development. In addition to augmenting existing G7 initiatives4 that support local AI ecosystems, the AI Hub will 
+Introducing the AI Hub for 
+Sustainable Development
+SECTION 1
+
+[Page 10]
+AI Hub for Sustainable Development transcend the mandate of accelerating sustainable development. 
+By working directly with local AI stakeholders across countries and ensuring the AI revolution leaves no one behind, the AI Hub will empower African countries to fully harness the transformative power and potential of AI.5
+The AI Hub for Sustainable Development aims to strengthen local AI ecosystems within African countries, and accelerate responsible private sector innovation and partnerships in the core foundations underpinning AI’s potential for sustainable development (data pipelines, computational power and talent). 
+The AI Hub will operate in tandem with governments and local ecosystems to ensure close collaboration with partners working on AI governance and its applications locally.
+The AI Hub is designed to support paradigm shifts in the African landscape. It will coordinate collaboration between investments and innovation from the private sector, as well as the direction and governance from government and civil society to achieve sustainable development in Africa. Driving investment to this area is straightforward — for every private sector enhancement of AI capabilities in local ecosystems, there must be equal coordination and collaboration in the research and development of systems to mitigate any possible harms. 
+The AI Hub for Sustainable Development is being codesigned by the Italian G7 Presidency and the United Nations Development 
+Programme (UNDP), the largest development agency within the 
+United Nations, working in 173 countries and territories to achieve 
+Sustainable Development Goals (SDGs). The AI Hub is aligned with the vision of the African Union (AU) and anchored in the development agendas of its member countries. The AI Hub aims to contribute to several sectors, including energy, agriculture, health, water, education and training, and infrastructure. 
+As the G7 Presidency gears up to strengthen the ‘Digital 
+Development: Growing Together’, agenda – a core priority of the 
+G7 in 2024 with a focus on Africa – a new era of collective action has become possible. The AI Hub highlights Italy's commitment to a partnership-based approach to collaborating with African nations and aims to foster equal cooperation and mutual benefits. To 
+The AI Hub will empower 
+African countries to fully harness the transformative power and potential of AI through collective action.
+
+[Page 11]
+AI Hub for Sustainable Development support the broader industry and AI development agenda, the AI 
+Hub will be steered by:
+a. A multistakeholder advisory board: An advisory body with representatives from across the ecosystem, such as policy, academia and civil society players, as well as political and innovation leaders in Africa. Subcommittees representing these various stakeholders will amplify people’s voices, allowing them to guide AI Hub interventions towards African priorities, needs and values.
+b. Private sector actors: An agile structure for collective action driven by collaboration with global and local private sector entities that can drive innovation in data pipelines, computational power and talent within the African continent.
+Private sector entities will work closely with the advisory board to align on opportunities.
+This steering structure allows the AI Hub to draw from both the needs and expertise of the African ecosystem, as well as the value proposition of the private sector — regionally in Africa, and globally. 
+The AI Hub will maintain a holistic view to ensure that it delivers on the theme of ‘Digital Development: Growing Together’ as outlined by the Italian G7 Presidency, and will strengthen industry partnerships focused on impact in local AI ecosystems in Africa. 
+The AI Hub will work to bring together different private sector efforts into a unified approach, through collective action and collaboration. More significantly, the AI Hub will be informed by the perspectives of different stakeholders, including academia, civil society organizations and public institutions, ensuring that the development and deployment of AI systems in Africa are equitable, responsible, inclusive, and accountable.
+1.2 Growing together: 
+The need for the AI Hub 
+The African continent is teeming with youthful energy and untapped potential. With 60 percent of Africans under the age of 25, it has the world’s youngest population.6 Introducing AI into African education, technology, and entrepreneurship spaces will support African youth to implement AI technologies to drive sustainable development. The 
+The AI Hub will work to bring together different private sector efforts into a unified approach, through collective action and collaboration.
+
+[Page 12]
+AI Hub for Sustainable Development continent’s steep trajectory towards technological innovation could allow its AI economy to grow significantly — potentially making 
+Africa a leading player in the global AI ecosystem.7 
+The continent is not starting from scratch. This continent, which will soon house one in five of the world’s consumers,8 is proving to be a compelling opportunity for investments by technology stakeholders across the globe. For instance, Google plans on investing US$1 billion in Africa to aid its digital transformation.9 Microsoft, being committed to responsible AI, has invested in African AI endeavours, particularly in the space of climate solutions, through its AI for Good initiative.10 Additionally, in 2021, 640 tech startups in Africa raised 
+US$5.2 billion — a 92 percent increase in growth year on year — making tech innovation in Africa the fastest-growing ecosystem in terms of venture capital.11 Because of such immense technological progress, several African countries have made headway in employing AI-driven innovations to address developmental challenges in agriculture, financial services, climate, education, and healthcare, surpassing other Global Majority countries in terms of meeting the SDGs.12
+These opportunities and challenges are recognized by the G7,13 with AI emerging as a powerful driving force for job creation, economic growth, and social inclusion.14 The growing accessibility of AI is not only shaping new opportunities for individuals, communities and countries, but is also extending the reach and effectiveness of public services.15 It has improved decision-making across countries,16 optimized resource allocation within global supply chains,17 enhanced capacities towards long-term planning,18 and bolstered disaster response efforts.19
+This shared direction can have real impact. AI’s far-reaching potential can boost socioeconomic development of marginalized communities. In conjunction with bridging the digital divide, AI development in Africa can diversify global participation in exploring and implementing frontier technologies. This innovation can generate opportunities for employment and upskilling and will empower African stakeholders with greater agency to tap into global markets and develop locally-relevant solutions to pressing challenges and priorities.
+
+[Page 13]
+There is a need for an integrated private sector approach to foster innovation and partnerships in data, compute, and talent pipelines — the three critical pillars underpinning the AI ecosystem. Without concerted and coordinated collective action to mitigate risks, the transformative power of AI may not be fully realized. Additionally, the persistence of foundational challenges across the AI value chain can lead to AI initiatives and systems that harm people and planet, or fail to scale.
+Extensive research and engagement across the African continent illuminates the importance of interlinkages within the three pillars of data, compute and talent. These interdependencies create feedback loops and cascading effects, determining a country’s capacity to steward and leverage AI systems for sustainable development. If robust, the three pillars can steer a country’s AI priorities towards promising and productive goals that put people and planet at the centre. In contrast, a fragmented AI landscape can exacerbate structural inequalities in local ecosystems, further constraining AI’s potential for sustainable development.
+1.3 The focus of the AI Hub 2024–2025: 
+The GROW approach 
+With the G7 priority of ‘Digital Development: Growing Together’, the AI Hub will create impact through a four-pronged ‘GROW’ approach: Guide, Renew, Orchestrate and Weave. The GROW approach is designed to create a unified approach towards developing a pioneering African AI system. 
+Research and advocacy to shape private sector-led collaboration to develop solutions that advance progress towards the SDGs across Africa
+GUIDE
+Foster shared public goods to enhance transparency and accelerate innovation, driven by private players across various sectors
+WEAVE
+Talent exchange and start-up accelerators to drive the research and implementation of new use cases
+ORCHESTRATE
+Create private sector cooperation and innovation in critical resources that developing countries need — data pipelines, computing and talent — to forge sustainable development solutions
+
+[Page 14]
+AI Hub for Sustainable Development 
+Responsible innovations with the private sector to steer and leverage AI for Sustainable 
+Development in local ecosystems
+Vision Impact of the AI Hub
+LONG-TERM OUTCOMES
+GUIDE
+Shape private sector-led collaborations through research and advocacy towards meeting SDGs
+WEAVE
+Foster shared public goods to enhance transparency and accelerate innovation from private players
+ORCHESTRATE
+Promote talent exchange and start-up accelerators to drive research and implementation of AI uses
+RENEW
+Create private sector cooperation and innovations in critical resources in 3 AI pillars
+CRITICAL RESOURCES: PILLARS FOR COLLABORATION
+DATA​
+Building data pipelines that put people's privacy first
+COMPUTE
+Creating compute affordability and accessibility
+TALENT
+Accelerating capacities of people, startups and businesses ​
+ECOSYSTEM
+Enabling environment to catalyse private sector while ensuring accountability ​
+PARTNER COUNTRIES 2024-2025
+Algeria | Egypt | Ethiopia | Ivory Coast | Kenya | Morocco | Mozambique 
+The Republic of the Congo | Tunisia
+
+[Page 15]
+AI Hub for Sustainable Development 
+By employing the GROW approach, the AI Hub will:
+•
+Harness the power of global AI systems and ecosystems by stewarding responsible innovations and partnerships to solve
+Africa’s unique challenges and opportunities;
+•
+Foster cross-country, cross-sectoral, multi-stakeholder collaboration between the private sector, government, academia, industry and civil society to co-create and scale inclusive and innovative AI solutions, share best practices, and build local capacity; and
+•
+Promote responsible AI deployment and innovation, thereby mitigating risks and ensuring sustainable growth across sectors.
+The four-pronged GROW approach will focus on the nine priority countries of the Mattei Plan20: Algeria, Côte d’Ivoire, Egypt, 
+Ethiopia, Kenya, Morocco, Mozambique, the Republic of the Congo, and Tunisia. This provides an opportunity to identify demands emerging from developing contexts, while attempting to make local AI ecosystems more equitable. The approach seeks to speak to and amplify existing regional priorities outlined in Africa-focused policy frameworks — such as the African Development Bank’s 
+High 5 Framework — to ensure a sensitive and inclusive path towards achieving SDGs.21 The table on the next page illustrate the possible ways in which the AI Hub can contribute to the current infrastructure and good governance of local AI systems in these countries. 
+While focus countries may evolve and shift, exploring their AI infrastructure through this report represents an opportunity to understand African challenges. The table offers a high-level snapshot of trends in the respective countries’ AI infrastructure. It is important to note that in-depth research is required to gain a deeper understanding of each country's context. A needs assessment to carefully gauge gaps in their respective AI ecosystems is especially necessary. Continuous engagement with 
+AI experts from these countries will help illuminate particularities with countries and guide the processes of the AI Hub in the next phase of the co-design.
+
+[Page 16]
+ORCHESTRATE WEAVE
+ALGERIA
+Algeria, through its National Artificial 
+Intelligence Strategy 2020-2030, is poised to improve Algerian talent in AI through education, training, and research.22
+The AI Hub can encourage private sector-focused research, working with the Government of Algeria and industry to identify responsible innovation opportunities towards achieving the SDGs.
+The Algerian compute and data pipelines are still nascent, with additional boost needed to augment local players’ expanding operations.23
+The AI Hub can support private sector partnerships to enhance responsible local innovation.
+While data protection in Algeria is robust, new use cases can benefit underserved communities including cross-border communities.24
+The AI Hub can enable accelerator programmes for Algerian and regional start-ups. 
+Algeria is increasing its AI influence by hosting international conferences and events, such as the African Startup Conference, inviting investments.25
+The AI Hub can catalyse emerging global public goods such as open-source software, open data, and open AI models — creating a thriving and robust Algerian AI ecosystem. 
+THE REPUBLIC OF 
+THE CONGO
+By introducing Vision Congo Digital 2025 (a national strategy for digital transformation), the United Nations 
+Educational, Scientific and Cultural Organization (UNESCO) is helping the country’s legal stakeholders to gain a better understanding of AI and its risks.26
+The AI Hub can help demonstrate AI’s potential within a rights-based and inclusive innovation ecosystem.
+With financial support from the African 
+Development Bank, the government of the 
+Republic of the Congo has launched its first Tier 
+III data centre, complete with a cybersecurity centre and a back-up data centre.27 
+The AI Hub can enable both internal and external stakeholders to prioritize building a digital economy while encouraging responsible development, safeguarding privacy, and addressing potential risks.
+Tunisian telecom giant Phone Control is in contact with the government of the Republic of the Congo to launch a startup incubator for AI.28
+The AI Hub can leverage private player participation across sectors to provide resources and foster diverse networks.
+The United Nations Economic Commission for 
+Africa (UNECA), Smart Africa, and the 
+Government of the Republic of the Congo launched the African Research Centre on 
+Artificial Intelligence in Brazzaville.29
+The AI Hub can be a game-changer for innovators, creating the opportunity to elevate their services and champion AI education and skills training programmes and platforms.
+CÔTE D’IVOIRE
+The National Development Strategy 2021–
+2025 under the E-Government Strengthening 
+Support Project (PARAE) in partnership with the African Development Bank is making the 
+Ivorian government AI-ready.30
+The AI Hub, with private partnerships, can directly contribute to all of the Strategy’s priority areas of digital infrastructure, digital services, digital financial services, digital skills, digital business environment, innovation, and digital confidence — paving the way for developing solutions for achieving SDGs in Africa.
+Côte d’Ivoire, in collaboration with the regulatory body ARTCI,31 requires pre approval for data processing outside the 
+Economic Community of West African 
+States (ECOWAS) region.
+The AI Hub can partner with relevant stakeholders to ensure that AI development in Côte d’Ivoire aligns with freedoms of the privacy protections of the country’s users, which can foster innovation in critical resources that developing countries need.
+The Ivorian data centre market is nascent but growing, for instance, US firm Cybastion is investing US$60 million to construct a Tier-III national data centre.32
+The AI Hub can assist the Ivorian data centre market by opening doors to more investment, while also helping it explore cloud and edge computing (which has the potential to act as an accelerator for start-ups in the region).
+To build its talent, Côte d’Ivoire is benefiting from programmes of multilaterals and global players, such as UNIDO,33 Smart Africa,34 and 
+Google.35
+The AI Hub can boost Côte d’Ivoire’s endeavours to seek external interventions to build indigenous AI capacities and accelerate innovation across sectors.
+KEY: COUNTRY • Situation • Action
+AI Hub for Sustainable Development 
+GROW in action (1/3)
+
+[Page 17]
+The National Council for Artificial Intelligence (NCAI), established in 2019, has developed the National AI Strategy to develop a wholeof-government approach to AI development.36 
+The Egyptian Charter on Responsible AI has created guidelines and best practices to mitigate existing AI risks in the country.37 
+The AI Hub, with private sector actors, can act as an implementation partnes to ensure the National AI Strategy aligns with Egypt’s development goals.
+The AI Hub can help the country carry out its strategies towards responsible 
+AI. Developing solutions in data, compute and talent can help forge sustainable development solutions.
+EGYPT
+The rising need of data for AI systems is complemented with the development of a local data centre industry whose revenue is projected to grow by 8.39% resulting in market volume of 
+US$369.9 million in 2028.38
+Egypt is strengthening its innovation ecosystem by investing in centres of excellence, for instance between 2019–2020, the state inaugurated seven AI faculties and announced plans for 10 more.39 
+The AI Hub can facilitate strategies to improve 
+Egyptian computing infrastructure through colocation services and green technology through partnerships. 
+The AI Hub can build on the vibrant AI ecosystem in the country to increase collaboration between educational and capacitybuilding institutions and private enterprises.
+The Digital Ethiopia 2025 initiative plans to build an inclusive digital economy by bringing together government, private sector and development actors.40 
+Ethiopia is experiencing a growing demand for skilled professionals in fields such as cloud computing, programming, data analysis, and software engineering.41
+The AI Hub, through research and advocacy, can broaden the initiative’s scope by fostering cross-sector collaboration and innovation of the private sector towards meeting the SDGs.
+The AI Hub can improve technical and vocational education through collaboration with the private sector to develop a dedicated future AI workforce focused on addressing Ethiopia's pressing issues.
+ETHIOPIA
+To bridge the demand for computing infrastructure, some progress is being made, for instance, the Ethiopian Education and 
+Research Network (EthERNet) unveiled a state of the art High-Performance Computing (HPC) facility in 2019.42
+The Ethiopian Ministry of Health has partnered with the Bill and Melinda Gates Foundation to create the Data Use Partnership to improve collection of data for AI use cases in healthcare.43 
+The AI Hub can help advance infrastructure to attract investments in data centres and cloud computing services which can act as a stimulant for a thriving start-up ecosystem.
+The AI Hub can expand partnerships with the global technology stakeholders to create public goods that improve the quality and quantity of the data for relevant AI systems, thereby improving transparency and innovation.
+In 2019, the Government of Kenya implemented the Data Protection Act, which provides a comprehensive structure for gathering, utilization, safekeeping, and sharing of personal data.44 
+Kenya requires funding for AI R&D projects, so as to ensure that local talent is retained.45 
+The AI Hub can supplement Kenya’s push towards creating a solid regulatory foundation for advancement of AI innovations.
+The AI Hub can harness strategic private sector collaborations to invigorate Kenya’s 
+AI research and talent capacity, inviting indigenous voices to create AI use cases relevant for the Kenyan landscape.
+KENYA
+Kenya is trying to promote a collaborative knowledge-sharing AI environment, for example, the mLab East Africa Initiative.46
+Partnerships with Google and Microsoft are helping Kenya improve its data centre infrastructure47 and capital is flowing into Kenya’s burgeoning startup ecosystem, bolstered by grants like the Mradi Research Grant.48 
+The AI Hub can boost Kenyan talent through knowledge sharing environments and sharing relevant resources, such as high-quality data, to develop meaningful AI solutions.
+The AI Hub can bolster Kenya’s innovation environment, allowing local innovators to access shared public goods made available by global opportunities and resources.
+KEY: COUNTRY • Situation • Action
+AI Hub for Sustainable Development 
+GROW in action (2/3) GUIDE RENEW ORCHESTRATE
+
+[Page 18]
+Recommendation was put forward for the 
+Moroccan AI Strategy to align with the larger goals and framework of the New Development 
+Model (NDM)49 — a proposed development path with priority areas for sustainable development.50 
+Microsoft, as a cloud service provider, is collaborating with the public sector to optimize Moroccan Government ICT spending and maximize its return on investment.51 
+The AI Hub can take up these recommendations and provide guidance to steer the proposed 
+National AI Strategy to address the NDM’s priority areas of public services, healthcare, education, energy, and agriculture.
+The AI Hub can facilitate core public– private partnerships in building critical infrastructure, thereby increasing 
+Morocco’s AI use cases for sustainable development. 
+Although Morocco has national funding capacities, there is a greater need for international funding and participation.52
+The Haut Commissariat au Plan (HCP), responsible for collecting, analysing, and disseminating statistical data, aims to provide stakeholders such as policymakers and AI researchers with national-level socioeconomic data.53 
+The AI Hub can bridge gaps in Moroccan AI infrastructure, making way for investments while putting in place foundations for responsible AI.
+The AI Hub can support the country’s push towards its agenda for open data, thereby enhancing its capacity to build powerful and contextual AI models.
+MOZAMBIQUE
+The Information Society Policy, outlining the vision for Mozambique’s digital transformation, focuses on improving computing capacities and encouraging open data.54 
+Mozambique is growing its computing capacity — in addition to the government-led Maluana 
+Park data centre,55 entities such as Seacom, 
+Webmasters Lda, Teledata Mozambique, and 
+Eduardo Mondlane University are also contributing to this landscape.56 
+The AI Hub can create the research and good practices to bring relevant public and private stakeholders together to address core digital issues in Mozambique.
+The AI Hub can galvanize Mozambique’s priorities towards creating a robust ICT infrastructure by bringing in private sector interventions.
+Investment from global technology stakeholders is bringing in capacities to improve Mozambique’s digital infrastructure. For example, in 2021, 
+Facebook (now Meta) has invested in the 2Africa cable system in north Mozambique.57 
+Mozambique can benefit from an investment in ICT infrastructure and legal frameworks for data regulation.58 
+The AI Hub can invite investments from external private entities to augment 
+Mozambique’s computing infrastructure.
+The AI Hub can help provide good practices for ensuring datasets are public goods, including those from the private sector.
+TUNISIA
+The Elgazala Technopark fosters collaboration between academic, industry and training initiatives, equipping the workforce with the necessary skills.59 
+Tunisia is poised to become a leading AI tech hub in the region, which can be further spurred with increases in funding.60 
+The AI Hub can leverage this initiative to bring in critical global technology stakeholders, thereby revitalizing the country’s business landscape. 
+The AI Hub can offer research and development resources to aid Tunisia’s growing interest in producing indigenous 
+AI capacities.
+If AI development is supported, Tunisian IT professionals would create a thriving Tunisian innovation market.61
+The national Open Government Data initiative provides access to public data to promote transparency, interoperability and support innovation in socioeconomic endeavours.62
+The AI Hub can bring in investments to help build adequate infrastructure to match the growing talent, while also offering research grants, incubation programmes, and venture capital funding.
+The AI Hub can provide good practices to increase the quality and quantity of shared digital public goods available for creating AI solutions to developmental concerns by encouraging data sharing and combating data scarcity.
+AI Hub for Sustainable Development 
+GROW in action (3/3) GUIDE RENEW ORCHESTRATE WEAVE
+KEY: COUNTRY • Situation • Action
+
+[Page 19]
+AI Hub for Sustainable Development 
+Research: 
+Pillars of AI Development
+SECTION 2
+
+[Page 20]
+AI Hub for Sustainable Development 
+AI can reflect the fullness of human innovation and potential, but it also highlights the collective challenges and ethical dilemmas we face. It embodies the synthesis of vast scientific and creative knowledge, while challenging stakeholders to think deeply about ethics and societal structures. These systems with unparalleled capabilities are not merely automating tasks or solving problems — they are redefining the very perception of knowledge, creativity and agency. The choices made in shaping and deploying AI will fundamentally define the legacy of industrial innovation and progress.
+AI is not a monolith. Understanding its impact, potential, and risks requires examining its interconnected components. To develop and implement innovative AI solutions, research suggests breaking down the complex landscape of AI development into three pillars63: data, computing power, and talent. These pillars can lay the groundwork for robust digital foundations across Africa, offering opportunities for strengthening and scaling via collaborative and collective action.
+Research: 
+Pillars of AI Development
+SECTION 2
+Figure 2. The three pillars of AI development form the bedrock of the GROW approach.
+Three Pillars of AI Development
+Why it is important
+What the AI hub can do
+High quality datasets make AI initiatives relevant, resilient and innovative
+Create public databases that accurately represents the population and reduce error and bias
+Essential computing infrastructure is key to better development results
+Attract global technology players to invest in and share knowledge to enhance compute infrastructure
+AI talent development enhances livelihood and ensures prosperity
+Provide training and capacity building resources to build innovation spaces
+Forward-thinking policies, regulations and initiatives empower countries to innovate
+Ensure AI ethics and innovation by augmenting responsible policies, regulations and initiatives
+DATA
+COMPUTE
+TALENT
+ECOSYSTEM
+
+[Page 21]
+AI Hub for Sustainable Development 
+1. First, data pipelines form the bedrock of AI systems,64 driving outcomes such as representation, robustness and resilience.
+Leveraging datasets bolstered with local knowledge and languages provides governments and companies opportunities to build AI-driven products and services that speak to contextspecific experiences, while adhering to utmost standards of good local governance.
+2. Second, on the compute front, AI systems rely on vast physical infrastructure (for example, fibre optic cables, telecommunication centres for internet) and digital infrastructure (including cloud computing capacity) to deliver unprecedented processing capabilities.65 By encouraging countries to invest in foundational infrastructure such as the internet and electricity, as well as to improve sustainability and affordability of compute, they can not only advance their capacity for AI innovation, but also improve their development outcomes and public services.
+3. Third, the availability of talent for the growing AI landscape can help academic institutions adjust syllabi and train students to meet industry needs.66 More broadly, there is an opportunity for countries to think critically about skilling as a means to revitalize job creation and employment, especially for countries seeking to escape the ‘middle-income trap’.67 Population-wide efforts to democratize AI technologies in ways that empower people to understand and leverage the potential benefits of such systems, as well as encouraging them to use AI for better lives and livelihoods, is also a crucial priority.68
+The three-pillar framework helps identify how value is added at each stage and where improvements, interventions, or investments are needed, while emphasizing that each component of AI development is a part of a larger ecosystem. 
+It highlights interdependencies and allows stakeholders to address challenges and leverage opportunities at each step more effectively. This holistic view is particularly useful for policymakers, businesses, and researchers looking to enhance the efficiency, fairness, and impacts of AI technologies.
+
+[Page 22]
+AI can advance sustainable development in emerging economies, but there are potential risks that can undermine its manifold benefits. Careful deployment of AI, with attendant scaffolding for risk management, is critical.
+A vibrant AI ecosystem bridges gaps and bolsters positive trends inherent to the three pillars of data, compute, and talent. Importantly, it bears the onus of mitigating risks in AI, building trust and safety within AI systems, improving digital inclusivity, and upholding human rights and ethics. By doing so, the ecosystem invites greater collective action and investments from global stakeholders, granting the local AI market a competitive advantage. Thus, the successful growth of AI is hinged on building ecosystem-wide efforts that promote effectiveness of AI systems.
+Advance AI technology
+Transparency and accountability: Frameworks that champion ethical sourcing practices are key towards creating transparent and accountable AI technologies that centre human welfare, safety and justice.69 Tools like explainable AI (XAI) make it easier to identify and rectify biases or errors.70 ‘Human-in-the-loop’ solutions can recommend options for verifying or choosing from provided information. Algorithmic transparency and accountability can prevent misuse of AI outputs, and calibrate AI use cases towards maximum positive impact.71 
+Data integrity: Biases in training data can exacerbate structural discrimination. The AI ecosystem needs to value sensitive data collection of high-quality, unbiased, and representative data. Fairness can be embedded in AI systems through techniques such as counterfactual fairness. Incentivizing such measures can help AI become interoperable and relevant across different scenarios and populations.72
+Security and privacy: Strengthening the security of AI systems is essential to prevent malicious attacks and ensure user privacy — thereby setting the stage for trustworthy and safe AI. Differential privacy73 and secure multi-party computation74 can protect sensitive data.
+ 
+Foster inclusivity and collaboration
+Community involvement and representation: An effective way to combat biases in AI applications is by including the widest range of voices within the global AI community. Inclusion can begin with meaningful and participatory approaches across demographics, empowering them to drive sustainable development through AI applications. Creating a vibrant space for grassroot initiatives in AI entails structuring them into streams and granting opportunities for them to scale up.
+AI as digital public goods: Making critical AI assets publicly accessible, while being supported by a strong human rights and governance framework, will not only build digital trust and safety but also 
+An enabling ecosystem: Unbundling AI risks
+AI Hub for Sustainable Development
+
+[Page 23]
+make the AI market more competitive. Normalizing AI as digital public goods with open public sector data and open-source tools will reduce entry barriers and promote AI innovation. Developing common standards on open data, in line with the UN Secretary-General’s Roadmap for Digital 
+Cooperation, will guide private sector endeavours and stimulate economic growth, enabling local solutions to contribute directly to the SDGs.75 
+Incentives for public-private-academia collaboration: The collaboration of public and private bodies, business incubators and accelerators, research centres, communities and professionals is the benchmark for a robust AI ecosystem. Global investment pipeline relies on an innovative environment that can facilitate such multi-stakeholder engagement while pushing for advocacy and awareness for digital trust and safety in AI systems. 
+Just and sustainable computing infrastructure: Policy interventions, both on a local and international level, can allow for efficient and sustainable use of AI infrastructure, while also ensuring financial prudence. For instance, policies directed towards unbundling compute software and hardware to promote competitive markets, building compute-related digital public infrastructure, developing open protocols for cloud compute, and creating regional agreements for sharing and decentralizing computing resources can be explored.76
+Enhance robust governance 
+Legislation: To build trustworthy and safe AI, regulatory approaches can uphold ethics, create an innovative business environment, allow for fruitful interactions between different industries and sectors, promote responsibility, and create a robust ecosystem attractive to investments. In particular, a legal framework must consider, in terms of AI systems, the regulation of copyrights and patents, protection of intellectual property, accountability mechanisms, and competition laws. 
+Soft regulation: Soft regulation can infuse ethics and international best practices in AI development. Governance mechanisms like regulatory sandboxes, strategy frameworks, guidance documents, industry standards, codes of conduct, and certification programmes can ensure a robust and competitive AI infrastructure that is socially, economically, and ecologically sound.77 
+Regulation should prioritize a comprehensive approach that integrates AI development within existing national strategies and public services — providing coordination mechanisms, peer-to-peer exchanges, and benchmarking mechanisms.
+Independent oversight: Independent AI ethics initiatives can align and direct business interests towards local needs and provide monitoring and evaluation of AI systems. Oversight bodies can offer guidance, conduct audits, and ensure compliance with internationally agreed upon ethical standards and regulations. For instance, the UN Secretary-General launched an Advisory Body to support AI governance, putting forth a set of interim recommendations that are anchored on principles of public interest, data commons, and multistakeholderism.78 
+AI Hub for Sustainable Development
+
+[Page 24]
+AI Hub for Sustainable Development 
+Collective action is a fundamental driver of the AI Hub. By understanding AI development across three pillars, this report highlights that collaborative efforts across public and private sectors are crucial for every country to leverage the potential of 
+AI. The AI Hub will undertake initiatives to address developmental challenges in sectors such as energy, water, agriculture, health, education, and infrastructure by working with multiple stakeholders and focusing on partnerships, innovations, and knowledge sharing. To illustrate the contributions that the AI 
+Hub could implement, the following sections examine these three pillars, and provide an overview of the challenges and opportunities they pose in the African context. They also communicate how the GROW approach can identify such challenges and find means of addressing them through strategies under Guide, Renew, Orchestrate, and Weave.
+The AI Hub’s vision is informed by noteworthy initiatives that have contributed to the African AI ecosystem. It acknowledges the impact of existing programmes such as AI4D, Lacuna, GIZ FairForward, and 
+Smart Africa. For instance, Smart Africa’s contributions in supporting 
+AI development in Africa for climate action,79 as well as Lacuna 
+Fund’s work on bridging data gaps in Africa,80 are representative of collective action on the continent. While recognising such important work, the AI Hub seeks to integrate the catalytic role of government, the contributions of the private sector, and the role of local ecosystems to guide its own contributions.
+
+[Page 25]
+AI from the ground up: The role of local ecosystems
+Local ecosystems, including universities, research institutions, civil society and tech startups are crucial for nurturing AI talent. They offer specialized and lifelong education, facilitate collaboration between academia and industry, and foster an environment for inclusive innovation and safe-and-secure experimentation in AI.84 
+These ecosystems also provide vital resources and infrastructure for AI development, including access to diverse datasets essential for training AI models. They can ensure transparency, fairness, and greater participation of the Global South in AI governance. 
+They can also bring together experts, data providers, and otherwise marginalized stakeholders together to shape AI solutions.85 Local AI industry associations serve as platforms for collaboration, knowledge sharing, and collective action on policy and ethical considerations, contributing to a responsible, inclusive, and transformative global AI revolution.
+The catalytic role of government
+Given that AI value chains rely on fundamental pillars, it is imperative to focus on the role of the state in advancing an enabling environment for AI and broader innovation. 
+In doing so, it is helpful to examine the powerful precedents afforded by governments and multilateral institutions that previously joined forces to ensure equitable access and distribution of critical digital technologies such as the internet81 and digital public infrastructure,82 all of which benefited from considerable investment, governance, policymaking, and standard-setting. Thus, the state is best positioned to orchestrate a comprehensive and integrated push towards leveraging AI’s potential in meeting 
+SDGs. Building state capacity to understand, use and support private AI innovation is as crucial as providing regulatory guardrails that mitigate AI risks.
+The crucial contributions of the private sector to the AI Hub for 
+Sustainable Development
+Private companies are heavily investing in AI research and development and driving the innovation and creation of advanced AI solutions. Open-source contributions, such as sharing code, enable the AI community to leverage existing advancements, thereby expediting progress and potentially reducing the emissions generated by compute-intensive programming. Collaboration between private companies and government agencies can speed up the development of AI as a public good. Providing access to HPC power through cloud platforms can democratize AI development for smaller companies and startups.83 By embracing these opportunities and responsibilities, the private sector can act as a crucial driver of AI advancement. 
+AI Hub for Sustainable Development
+
+[Page 26]
+AI Hub for Sustainable Development 
+The term ‘data’ refers to the raw information or input that is gathered, processed and utilized to train machine learning models and enable AI systems to carry out tasks. The success of OpenAI’s GPT-3 model illuminated both the importance of massive datasets, as well as the risks associated with the lack of safeguards in the data ecosystem.86 It is imperative to understand ethical frameworks around data to ensure effective AI deployment.
+To establish data economies that can fuel data-centric technologies and AI in the Global South, there is a need to devise new approaches to data collection, curation, analysis and utilization that are relevant to regions with lower levels of digitization and unique resource contexts. The absence of sufficient infrastructure, resources, and data management protocols are major roadblocks to creating representative datasets in Africa.87
+2.1 DATA
+Figure 3. The data ecosystem in Africa: Sources, modelling, and governance
+• Advocate for data standardisation to ensure quality, interoperability, and scalability of AI solutions
+• Support initiatives dedicated to building a contextual data collection architecture
+GUIDE
+• Boost accessibility and availability of high-quality open datasets by crucial private sector collaboration, particularly to meet development needs
+• Augment pan-African partnerships to maintain an open data repository
+• Support data cooperatives and data stewardship models to empower the 
+African digital public infrastructure
+WEAVE
+• Convene technology stakeholders to reinvigorate the African data landscape
+• Augment current African efforts to increase data accessibility, by forging strategic partnerships with the private sector
+ORCHESTRATE
+• Encourage cross-sectoral collaboration to push towards secure data sharing
+• Build local capacities for data modelling through private investments in infrastructure
+RENEW
+Data in Africa
+DATA SOURCES
+Diverse or specifically suited, on internet, online repositories, public datasets
+DATA MODELLING
+Simplify complex data to improve accuracy and adaptability
+DATA GOVERNANCE
+Ensure data quality, integration, security, privacy, risk management, ethics and regulatory compliance
+
+[Page 27]
+AI Hub for Sustainable Development 
+Data sources: AI products and services require diverse and specifically suited data sources, which can be found on the internet, online repositories, and public datasets, through web scraping, APIs, surveys, or partnerships. Recently, the use of synthetic data has increased in contexts with low data availability.88
+Data modelling: Data modelling organizes, structures and visualizes data to simplify complex data for AI systems, improving accuracy and adaptability. Datasets are essential for training the model, evaluating performance, testing generalizability and improving output quality and accuracy.
+Data governance: Data governance involves managing and governing data assets to safeguard people within an ecosystem. It includes processes, policies, standards and technologies to ensure data quality, integration, security, privacy, risk management, ethical standards and regulatory compliance throughout its life cycle.
+With promising data foundations on the continent, and important gaps and challenges being addressed, the AI Hub for Sustainable 
+Development could drive important initiatives and accelerate progress in making data work for developing countries.
+The GROW approach offers a comprehensive framework for improving the AI data infrastructure in Africa. Its four components address African data challenges such as fragmented data accessibility, emerging data processes, and gaps in shaping comprehensive data governance. By fostering collaboration and innovation between private and public sectors in Africa, the AI 
+Hub aims to drive sustainable AI development across the continent by confronting data gaps head-on.
+GUIDE
+Increase the quality and quantity of data by leveraging public–private partnerships in data collection 
+Africa has abundant demographic, health, and economic data but it is often fragmented and not easily accessible.89 Efforts such as the 
+G20 Data Gaps Initiative (DGI3) are starting to address the issue by making open datasets easily accessible to address issues such as climate change, financial inclusion, and public service delivery.90
+
+[Page 28]
+AI Hub for Sustainable Development 
+Due to a lack of comprehensive data collection mechanisms across 
+African countries, many datasets are incomplete.91 With institutions and agencies collecting data in varied formats, consolidating and analysing this data is made difficult. This is exacerbated by inconsistent internet access, especially in rural areas, which poses a barrier for real-time data collection or the use of cloud-based AI processing. 
+There is a growing need for a contextual data collection architecture (see below)92 which will help generate datasets and provide the foundation for developing accurate and relevant AI models in Africa. For example, the grassroots organization 
+Masakhane, which promotes Natural Language Processing (NLP) in 
+African languages embodies African knowledge, equity, and fairness in its data collection processes, with its principle of “Umuntu Ngumuntu Ngabantu”. In the Bantu language of IsiZulu, this translates to ‘I am because you are’, and reflects the Ubuntu philosophy of communitarianism over individualism.93 Masakhane also demonstrates other principles of Afrocentricity, ownership, multidisciplinarity, kindness, responsibility, openness, sovereignty, reproducibility, and sustainability.94 Nigerian AI startup, Awarri, is slated to become the country’s first government-backed large language model (LLM), a powerful tool with applications in natural language generation (NLG) and beyond.95
+Strategies 
+1. Advocate for data standardization to ensure quality, interoperability, and scalability of AI solutions: Data standardization is the process of structuring and formatting data in a consistent and uniform manner across different sources and formats. To make sure that an AI system is robust, guidelines and protocols around data standardization need to be in place. 
+Governance mechanisms that call for strengthening data standardization processes can lead to responsible innovations.
+2. Support initiatives dedicated to building a contextual data collection architecture: A contextual data collection architecture in Africa refers to a framework specifically designed to gather data that is relevant and appropriate for the
+
+[Page 29]
+AI Hub for Sustainable Development unique socio-economic, cultural, and infrastructural contexts of African countries. Initiatives such as Masakhane require support from multiple stakeholders to make their data collection architecture more robust and interoperable. 
+Leveraging local African knowledge and inviting diverse African languages into the fold of global AI development should be a crucial consideration.
+RENEW
+Bolster the African data pipeline by strengthening the critical physical and governance infrastructure
+Effective and efficient use of computing power is key to creating a sustainable data infrastructure. For instance, high-performing data modelling tasks require substantial computing power. The absence of HPC facilities in Africa presents a challenge for conducting complex data analysis. As such, investments are a necessary catalyst for strengthening the African capacity to process and analyse large datasets.
+The bedrock for this data infrastructure is data regulation. Only 36 out of 54 African countries have implemented data protection and privacy regulation.96 Acknowledging this, in 2022 the AU published its Data Policy Framework.97 This sets out a shared vision to steer 
+AU member states towards creating adequate national and regional data frameworks, with the aim of unlocking the power of an integrated African data ecosystem through a common approach. 
+African governments must now implement these recommendations by establishing national data policies and leveraging the African 
+Continental Free Trade Area (AfCFTA) Phase III negotiations.98 This will harmonize data protection frameworks and enable the development of a data-inclusive AfCFTA implementation plan.
+It is important to note that data localization could hinder data sharing, a critical component of the AI revolution. Data sharing is a common policy theme, as observed in the case of Algeria, Côte d’Ivoire, and Morocco, where national regulations require certain sectors to store their data locally.99 Although localization can reinforce data silos and further limit avenues for access and collaboration, sound data protection principles can safeguard both privacy and data sharing. For instance, the national AI strategy in 
+Investments are a necessary catalyst for strengthening the African capacity to process and analyse large datasets.
+
+[Page 30]
+AI Hub for Sustainable Development 
+Kenya includes actionable initiatives towards creating a Data 
+Sharing Framework. While leading the demand for data governance professionals, Kenya is aiming for collaborative cross-industry, public–private partnerships for implementation.100
+Strategies
+1. Encourage cross-sectoral collaboration to push towards secure data sharing: Governments across the AU should work with each other and with the private sector to reinforce data policies that engender data sharing while maintaining digital sovereignty and individual privacy. Collaborations with academia and civil society organizations can ensure returns on such investments. 
+2. Build local capacities for data modelling through private investments in infrastructure: Inviting private sector investments into the data infrastructure can allow for carefully and ethically designed and monitored data models, which can mitigate biases in data and algorithms. Private sector interventions can be sought at the level of computing to make data more affordable, and to build local capacities towards data collection, data modelling and data analysis.
+ORCHESTRATE
+Empower African talent to accelerate AI solutions through critical private sector interventions
+African data ecosystems are still emerging, with the private sector playing an important role in this growth. In response to the demand for AI use cases, governments are also shaping open data policies and processes. In areas where data collection is difficult, nontraditional data, such as satellite imagery and metadata from mobile phones, both of which are collected and made available by private entities, is particularly useful.101 One example is the Open Buildings 
+Project supported by the Google Research Centre in Accra. This project provides open-access datasets based on satellite imagery available to low-income countries across the world. In Africa, the project pinpoints the locations and geometry of buildings — which inform use cases in AI solutions, such as analysing electrification needs, urban planning, and survey sampling.102
+Inviting private sector investments into the data infrastructure can allow for carefully and ethically designed and monitored data models, which can mitigate biases in data and algorithms.
+
+[Page 31]
+AI Hub for Sustainable Development 
+Although the data ecosystem in Africa is still nascent, research institutions and non-governmental organizations are investing in training programmes to equip field researchers with the best practices for data collection methods and data quality control. 
+Several bootcamps and training programmes are emerging across 
+Africa to provide individuals with data analysis and modelling skills using tools such as Python and R.103 Private investments can further bolster the ability of African stakeholders to develop a strong data infrastructure across Africa.
+Strategies
+1. Convene technology stakeholders to reinvigorate the African data landscape: The private sector can strengthen African AI solutions by making their resources and datasets available. They can form crucial collaborations with African innovators and institutions to generate AI systems that are capable of addressing pressing development challenges. Accessibility can also be enhanced through non-traditional data sourcing mechanisms. Synthetic data, digital-twin technology and AI experimentation can be important tools to address data scarcity.
+2. Augment current African efforts to increase data accessibility, by forging strategic partnerships with the private sector: Openly accessible data stimulates economic growth, and encourages businesses to innovate AI solutions that can address key development issues. Strengthening current efforts towards data accessibility can create a wider data ecosystem that can scale up private sector investments. 
+Private sector leaders in Africa, such as established telecom providers, banks and technology companies, may have access to databases of citizen data that could potentially be as extensive as state databases. Thus, collaborations with African private sector leaders will allow for greater data accessibility.
+
+[Page 32]
+AI Hub for Sustainable Development 
+WEAVE
+Incorporate digital public goods such as open-source resources to ensure accountability, transparency, and interoperability in the data ecosystem
+Even though investments by global technology stakeholders in Africa have spurred AI innovation and provided critical services such as open mapping, weather forecasts and healthcare, concerns still remain about extracting valuable data from African countries without consent or without providing adequate returns.104 Moreover, if the data collection projects make their datasets proprietary, resourcepoor African stakeholders may struggle to gain access to such datasets. Thus, it is important to promote digital public goods — open data, open-source resources, open AI models, open standards and open content — to empower African talent to innovate and progress towards achieving the SDGs.105
+Due to a dearth of representative datasets, African developers are more likely to rely on AI algorithms developed and trained abroad using data that might not accurately capture the African context.106 
+Even when African countries generate data through platforms, their languages lack digital presence. However, to derive value from such data, organizations like Masakhane107 (that strengthens NLP research in African languages) and Digital Umuganda108 (that creates open-source datasets, models and tools for NLP) are driving the movement towards improving the quality of publicly accessible 
+African datasets.
+Strategies
+1. Boost accessibility and availability of high-quality open datasets by crucial private sector collaboration, particularly to meet development needs: African countries need to define data as a ‘public asset’ that is crucial to AI applications, and make actionable attempts to promote data access. As open data promotes transparency, accountability and value creation for local ecosystems, African countries need to invest in initiatives similar to those that create open government data.
+2. Augment pan-African partnerships to maintain an open data repository: Existing data governance initiatives within Africa must be revamped to comprehensively cover aspects such as
+
+[Page 33]
+AI Hub for Sustainable Development 
+A comprehensive, panAfrican data strategy is needed to enable the collection, sharing and analysis of data for AI development.
+data quality, privacy, responsible data sharing, compliance, transparency, data localization, cross-border data flows, standards for collection and labour protections for data workers. 
+As such, a comprehensive, pan-African data strategy is needed to enable the collection, sharing and analysis of data for AI development. 
+3.
+Support data cooperatives and data stewardship models to empower the African digital public infrastructure: According to a recent study,109 trust, social duty, and understanding the purpose behind the use of personal data significantly predicted a willingness to provide data to AI via participatory data stewardship. Data stewards can play a central role in managing data flows to create more equitable pathways for data sharing and usage by large AI companies. This can foster accountability for creating a responsible AI data ecosystem, and lead to better representation of populations in a world where decisions are becoming more and more data-informed, while also creating an attractive environment for private investments through effective data governance.
+CASE STUDY
+Natural Language Processing “by Africans for Africans” — Masakhane
+With approximately 200 languages spoken across different regions, 
+Africa boasts an impressive linguistic diversity. However, this rich tapestry of languages is not yet adequately represented in the field of Natural Language Processing (NLP). The majority of NLP resources and tools are developed for dominant languages such as 
+English and French, leaving a significant digital language divide that impedes millions of people from accessing vital information, education, and technology.
+Masakhane is an open-source initiative founded in 2019 that aims to unite linguists, researchers, and technology enthusiasts across 
+Africa to collaborate on NLP research for African languages. The programme's name, meaning 'We Build Together' in IsiZulu, is reflective of its mission to foster a virtual community that can work towards advancing NLP research for African languages. The collaborative network focuses on various NLP tasks such as:
+
+[Page 34]
+AI Hub for Sustainable Development 
+Compute can be considered as the “stack of hardware such as graphics processing units (GPUs) and central processing units, as well as software that enables the use of specialized chips and supporting infrastructure in data centres (including servers and cooling equipment)”.110 Compute is a critical dimension of AI infrastructure — supporting scalability and performance of AI applications. The emergence of powerful language models with extensive processing capabilities is made possible through substantial investments in computing power for training AI models.111 Computing power allows stakeholders like students, developers, researchers and start-ups to scale up their AI endeavours. Without compute, AI innovation will be slower and limited in scale. Thus, it is imperative to emphasize on affordable 
+2.2 COMPUTE
+Machine Translation: Using datasets to create machine translation models that can translate between African languages and languages such as English or French;
+Speech Recognition: Promoting data collecting and annotating to improve speech recognition models for African languages; and
+Text Analysis: Developing NLP tools for African languages can help overcome language barriers and unlock valuable insights for sentiment analysis, topic modelling, and other NLP tasks.
+Masakhane has been making impressive strides in recent times by emphasizing the significance of NLP for African languages. 
+This emphasis has resulted in attracting more researchers and resources to the field. Furthermore, Masakhane has created open-source datasets and tools that enable other collaborators to contribute to NLP development for African languages. In addition, 
+Masakhane has fostered a collaborative environment that allows 
+African researchers to work together and share their knowledge to bridge the digital language gap in Africa. Masakhane is paving the way for a more inclusive and accessible digital future for the continent by empowering local communities to develop NLP tools for their own languages.
+
+[Page 35]
+AI Hub for Sustainable Development 
+Figure 4. From components to connectivity: The computing landscape in Africa
+• Advocate for strategies and incentives to increase affordability and access to compute
+• Ensure inclusive and sustainable compute infrastructure
+GUIDE
+• Encourage collective action to achieve supercomputing goals​
+• Promote open data policies for AI development​
+• Promote open-source community development
+WEAVE
+• Accelerate funding for African computing infrastructure​
+• Develop specialized skills for AI compute economy​
+• Cultivate talent exchange for AI supply chain efficiency
+ORCHESTRATE
+• Enable High Performance Computing (HPC) in Africa​
+• Strengthen regulatory incentives to foster private-sector trust in alternative computing options that can reduce costs and empower end users
+• Invest in renewable energy for sustainable data centres
+RENEW
+Compute in Africa
+COMPUTE ACCESS 
+AND AFFORDABILITY
+Decrease cost of computation and increase access for AI use-cases to scale and foster sustainable development
+POLICY AND REGULATION
+New regulatory incentives to reduce costs and create sustainable access and leverage over critical resources
+ACCESS TO FINANCE
+New investments in innovative partnerships with and among the private sector
+GREEN COMPUTE
+Environmental impact created through unmanaged and inefficient use of computing resources must be mitigated and accessible compute infrastructure that levels the playing field and ensures responsible AI use towards sustainable development. For instance, it can allow greater economic opportunities to women. Greater compute access can also help build accurate predictions in terms of climate and disaster resilience, allowing for relevant mitigation and adaptation strategies at the local level. 
+Compute access and affordability: The compute infrastructure requires components such as processors, memory chips and graphic cards as well as critical infrastructure such as fabrication units, data centres, servers and networking equipment for processing and storing data. Essential materials include silicon and rare earth
+
+[Page 36]
+AI Hub for Sustainable Development metals for components such as semiconductors, and conductive materials for wiring. Building and maintaining compute infrastructure entails ensuring the affordability and accessibility of its materials, components, catalytic infrastructure and all supporting resources. 
+Importantly, the compute supply chain must also remain accessible and affordable to all. Thus, a robust compute infrastructure needs to bring down the cost of computation and increase access for AI use-cases to scale and foster sustainable development.
+Policy and regulation: An important first measure for governments in today’s AI economy is to acknowledge that the supply chain for compute is global, and that strategic collaboration can enable greater access to computing power. On a national level, governments need to take stock of their resources to drive effective compute policies, including driving new investment incentives to explore compute innovations to increase access and affordability. 
+Additionally civil society organizations can advocate for compute accessibility for low-resourced use-cases.
+Access to finance: AI companies are spending roughly 80 percent of their raised capital on computing resources, indicating that AI development is closely bound by access to these resources.112 As AI becomes widespread, the demand for computing power will grow exponentially and inherent inequities and disparities between countries will feed into AI compute divides. Private actors can play a role by investing in building and expanding data centres, cloud infrastructure, and HPC facilities that provide the necessary foundations for AI development.
+Green Compute: The demand for AI development and use impacts the energy required for running large-scale computing infrastructure. 
+To put this into perspective, the International Energy Agency (IEA) estimates that if ChatGPT were integrated into the nine billion global web searches conducted daily, world electricity demand would increase by 10 terawatt-hours a year — the amount currently consumed by around 1.5 million European Union residents.113 
+Therefore, managing compute use and efficiency is critical through responsible usage for sustainable development.
+
+[Page 37]
+AI Hub for Sustainable Development 
+GUIDE
+Harnessing private sector collaboration to enhance computing resources in African AI ecosystems
+Africa requires investment in data infrastructure: broadband networks, supercomputing clusters and graphics-processing units, data centres, servers, and cloud computing optimized for machine learning. This may include exploring new models of compute infrastructure for parts of the African continent, including approaches such as miniaturization to leverage AI components like Large Language Models.
+The growing interest in AI has further encouraged stakeholders across the African continent to invest in critical AI infrastructure. 
+Even though sub-Saharan Africa scored the lowest globally on critical AI infrastructure resources, server investment growth in sub-Saharan Africa is about 13 percent higher than the global average.114 Rwanda's open policies have facilitated the construction of the Kigali Innovation City, allowing a company like 
+Liquid Telecom to invest in a state-of-the-art data centre in 
+Kigali.115 Additionally, the African Development Bank's Africa Digital 
+Financial Inclusion Facility (ADFI) supports the construction of ICT infrastructure through public–private partnerships.116 Even though penetration of cloud compute in Africa is still at 15 percent, foreign investors are keenly eyeing the African cloud computing market as internet connectivity and infrastructure to host data centres improves.117 IBM, Microsoft, and Amazon, with established data centres in Africa, are further investing in expanding their capacity.
+The GROW approach offers a structured framework for addressing 
+AI development challenges in computing power in Africa. 
+Through the Guide, Renew, Orchestrate and Weave facets, the approach facilitates an understanding of the African computing landscape and promotes the creation of strategies for effective collaboration to address gaps. By leveraging these facets, stakeholders can analyse existing challenges, develop targeted strategies, and foster collaboration to enhance Africa's computing power for AI development.
+
+[Page 38]
+AI Hub for Sustainable Development 
+Strategies
+1.
+Advocate for strategies and incentives to increase affordability and access to compute: The significant long-term capital and skilling investments required to set up on-premise infrastructure demonstrates that cloud computing is proving to be an effective alternative for local AI developers across the private sector, academia, and government.
+2.
+Ensure inclusive and sustainable compute infrastructure: The region could empower its mobile-first markets by building research capacity in distributed-edge computing, thereby enhancing participation and inclusion even in remote or underserved areas with limited access to centralized computing resources. Such bandwidth-efficient and scalable computing infrastructure will spur diverse African communities to develop AI innovation that can serve local needs while also providing a sustainable alternative.
+RENEW
+Mobilize local companies to innovate compute access, sustainability, and affordability
+As AI becomes more widespread, the demand for computing power is growing exponentially. Inherent inequities and disparities between countries are feeding into AI compute divides. This is a particularly challenging situation for many African countries with nascent local funding and financing systems, and whose fundraising mechanisms from global venture capital are limited.
+Africa plays a key role in supplying the resources required to maintain AI systems. For instance, the continent provides critical natural resources such as silicon and rare earth materials that contribute to the essential raw material components required for semiconductor production. Algeria, Egypt, Morocco and South 
+Africa possess significant deposits of silica sand, while Nigeria has large deposits of rare earth metals. South Africa is emblematic of how critical infrastructure can allow countries to become leaders in 
+AI development. The country has dominated the African data centre landscape due to its geographical location, access to subsea cable landing stations, political stability, mature enterprise and 
+Inherent inequities and disparities between countries are feeding into AI compute divides.
+
+[Page 39]
+AI Hub for Sustainable Development corporate markets. Moreover, in Pretoria, the Microelectronics and 
+Nanotechnology Centre at the Council for Scientific and Industrial 
+Research (CSIR) has set up a research and development (R&D) facility for semiconductor and chip production.118 Thus, governments need to evaluate their place in the global market and their capacities to participate in the compute supply chain, allowing them to outline pathways to enable access to computing power for their own AI systems.
+Strategies
+1. Enable High Performance Computing (HPC) in Africa: Africa is making strides in recognizing the need to enable access to computing power. This is evident in Rwanda’s National 
+Artificial Intelligence Policy,119 which outlines a roadmap for establishing a continental hyperscale data centre. The initiative aims to provide affordable, reliable, secure, scalable storage and HPC capability.
+2. Strengthen regulatory incentives to foster private-sector trust in alternative computing options that can reduce costs and empower end users: Strong data protection and privacy regulations also provide a legal framework for safeguarding data stored in data centres. This fosters trust in cloud computing services and encourages investment in alternative computing infrastructure. This will allow the African continent to rely on affordable technologies that allow for greater AI innovation. 
+Such enhanced computing options will empower end users such as universities and start-ups as well as marginalized stakeholders like women and low-income communities.
+3. Invest in renewable energy for sustainable data centres: 
+As a region that is still in the nascent stages of establishing data centres, early investment in renewable energy sources such as solar or wind power could drive global best practice. 
+Lower carbon emissions for data centres could help to create world-leading standards for efficient energy consumption in compute.120
+
+[Page 40]
+AI Hub for Sustainable Development 
+ORCHESTRATE
+Enable African talent through partnerships with global stakeholders to develop local and green compute capacities
+Private sector investments have proved to be a crucial factor in ensuring the compute landscape evolves in the continent. For instance, Google has established a R&D technology hub in Accra, the Microsoft Africa Development Centre (ADC) has offices in both 
+Nairobi and Lagos, while IBM Research has outposts in 
+Johannesburg and Nairobi. Ghana, in particular, has benefited from 
+Google Research’s early investment. The country is now seeing the launch of its most advanced data centre, the Onix Accra 1 — the only Tier-4-accredited facility in West Africa, designed to run on renewable solar energy during the day.121 Private sector innovation can usher in AI solutions tailored to address the specific needs of the African continent, particularly in sectors such as agriculture, healthcare, or financial inclusion.
+The AI Hub for Sustainable Development would prove crucial in uplifting investments and innovation in Africa’s computing capacities and affordability. Public–private partnerships can help create specialized skills and talent in compute, by incentivizing major technology companies to move parts of their manufacturing and R&D supply chains to African countries.
+Strategies
+1. Accelerate funding for African computing infrastructure: 
+Investment funds dedicated to financing the construction of computing infrastructure can be supported by public–private partnerships and international development finance institutions.
+2. Develop specialized skills for AI compute economy: It will be crucial to outline key areas of the compute supply chain where specialized skills will be required, and tailor training to focus on developing the capacity of science, technology, engineering and mathematics (STEM) graduates to contribute to the new 
+AI economy. 
+3. Cultivate talent exchange for AI supply chain efficiency: 
+Specialized skills, such as software engineering or technical
+
+[Page 41]
+AI Hub for Sustainable Development hardware expertise, are needed to support the different processes within the AI compute supply chain. For instance, the EU-ASEAN High-Performance Computing Virtual School (European Union-Association of Southeast Asian Nations) hosted by Thai SC, was launched in 2021 to bring together experts, students, and researchers from Europe and ASEAN member states to share best practices and learn HPC design and programming skills.122
+WEAVE
+Enable a collective path towards a robust AI landscape in Africa by sharing digital public goods
+According to a report from the African Data Centres Association and Xalam Analytics,123 another 1,000 megawatts of power and 
+700 new facilities are needed to bring the rest of the continent up to speed with South Africa, which currently leads the way in infrastructure on the continent. Poor internet connectivity also restricts the adoption of AI-based services. The high cost of mobile internet data or home-based broadband connections limits the market size and uptake of services.124 Across Africa, there are critical infrastructure challenges, power needs, and local supply chain shortages of on-premise infrastructure. This varies across regions, leaving some areas more marginalized than others. Thus, computing infrastructure must promote the sharing of digital public goods to ensure last-mile access.
+Countries like South Africa and Kenya have benefited from AI use cases as they have fostered an enabling environment. To incentivize innovation, policies should focus on ICT development. 
+For instance, Kenya's ICT Masterplan emphasizes investment in broadband infrastructure, exemplified by the construction of the 
+National Optic Fibre Backbone Infrastructure (NOFBI) to connect underserved areas to high-speed internet.125 Similarly, Nigeria's 
+National ICT Policy prioritizes the development of data centres and cloud computing services, as seen in the establishment of the 
+Lagos Internet Exchange Point (Lagos-IXP) to improve internet connectivity.126 National broadband expansion programmes, such as Ghana's National Broadband Strategy127 and Tanzania's National 
+ICT Broadband Backbone (NICTBB),128 can help extend high-speed
+
+[Page 42]
+AI Hub for Sustainable Development internet access to underserved areas, facilitating cloud computing adoption and digital transformation.
+Strategies
+1. Encourage collective action to achieve supercomputing goals: 
+Collective action must be taken to bring nations in Africa into the fold of multilateral partnerships — such as the Partnership for Advanced Computing in Europe (PACE) initiative which brings together the supercomputing centres of 15 European countries on a common network to enable efficient use of HPC capabilities.129 Pan-African initiatives, such as the Programme on Infrastructure Development in Africa (PIDA)130 can also help to improve regional connectivity and reduce internet transit costs. These can play a crucial role in determining the policy interventions, strategic partnerships and path to financing. Existing computing resources should be mapped. 
+For instance, telecommunications companies in Africa already possess computing infrastructure that can be shared for minimal AI computations.
+2. Promote open data policies for AI development: By restricting access to alternative decentralized frameworks of computing infrastructure, data localization regulations constrain AI development in Africa. Governments can implement open policies that encourage the construction and operation of data centres by public and private entities. These policies may include tax incentives, streamlined permit processes, and access to government-owned land on which to build data centres.
+3. Promote open-source community development: Enabling the creation of vibrant open-source communities can invigorate alternative computing systems (such as distributed-edge computing and cloud computing), helping overcome vendor lock-in and tackling barriers arising from closed loop solutions. 
+This can also lead to broader innovation.
+
+[Page 43]
+AI Hub for Sustainable Development 
+State of Compute
+
+[Page 44]
+AI Hub for Sustainable Development 
+CASE STUDY
+Bridging the gap — European Union opens up High 
+Performance Computing in Africa
+Given the significant disparity in science and technology metrics across the continent, access to advanced computing resources is far from democratized. Vital research in areas such as climate change modelling, disease outbreak prediction and drug discovery are heavily reliant on High Performance Computing (HPC), which is not readily available in several African nations. This deficiency in adequate HPC infrastructure not only impedes market innovation across various fields, but also limits the evolution of data-driven solutions to address key development challenges such as climate change and food security.
+The significance of HPC for scientific progress in Africa has been acknowledged by the European Union. The African Open Science 
+Platform (AOSP) is a programme that enables African scientists to access HPC facilities, empowering them to leverage powerful computing resources for complex simulations and data analysis. The 
+European Union invests in training and workshops to equip African researchers with the skills required for effective use of HPC, thereby maximizing the benefits of accessing these advanced computing resources. Collaborative partnerships between the European Union and Africa utilize HPC to address shared challenges such as climate change and public health issues. Combining European expertise with 
+African research priorities can lead to significant advancements.
+Previously, African scientists faced resource constraints that hindered their ability to conduct complex research projects. 
+However, with the emergence of HPC, data-driven solutions for 
+African challenges in areas such as agriculture, healthcare and environmental sustainability have become more feasible. 
+The collaborative efforts between European and African scientists have contributed to a more globally connected research landscape. 
+The European Union's initiatives for HPC in Africa represent a significant stride towards a more equitable and technically sophisticated research landscape across the continent.
+
+[Page 45]
+AI Hub for Sustainable Development 
+Shaping and empowering human capital is a crucial component of building and sustaining AI ecosystems. This includes enhancing human capacities to understand and engage with AI systems through education, research, advocacy, and innovation.131 Formal and lifelong learning are also crucial, with computer science and social sciences being equally fundamental to addressing the broader technical and ethical challenges of AI.
+AI continues to impact industries across the board, exacerbating fears of job displacement and redundancies. Thus, with such rapid technological progress comes the urgent need for an AI-ready workforce. Collaboration between academia and industry would guarantee that AI education is in line with the changing needs of the labour market while ensuring inclusivity and equity to combat potential digital divides.
+2.3 TALENT
+Figure 6. Empowering Africa: Bridging skills to employment.
+• Instil foundational skills necessary for AI systems within curricula
+• Improve existing human capacities for teaching AI programmes
+• Ensure an enabling policy and regulatory space for developing AI talent
+GUIDE
+• Infuse inclusivity and diversity in AI talent development
+• Establish vital industry-academic collaboration​
+• Revitalize pan-African networks and collaboration​
+• Leverage multi-stakeholder collaboration to create and attract talent​
+WEAVE
+• Promote AI entrepreneurship and innovation in Africa
+• Facilitate on-the-job training to ensure industry-relevant capacity building
+• Develop technology spaces that nurture talent networks
+ORCHESTRATE
+• Provide the relevant resources to build specialized AI skills through private sector collaboration​
+• Contribute to building broader industry-relevant skills for encouraging a more robust AI ecosystem​
+• Leverage international partnerships to tackle foundational problems that hinder AI skills development​
+RENEW
+Talent in Africa
+EDUCATION & RESEARCH
+Mainstreaming AI education fosters innovation​
+SKILLS &
+EMPLOYMENT
+Technical expertise in data science, programming, and statistics​
+BROADER TOOLS
+Domain-specific knowledge and soft skills​
+DISPARITIES
+Existing inequities hinder 
+AI talent development​
+
+[Page 46]
+AI Hub for Sustainable Development 
+AI Education and Research: Taking AI education into the mainstream will foster innovation and drive economic empowerment. By equipping students with AI knowledge and skills, a workforce can be created that is fit for the jobs of the future and that can help drive local solutions to local challenges. Moreover, AI education can ensure ethical and inclusive AI development, promoting sustainable growth and global competitiveness. 
+Government funding for AI research in universities and research institutions can drive innovation and attract top talent.
+Skills and Employment Support: Shaping a sustainable AI talent sector for the continent requires a wide-ranging approach. Technical proficiency in machine learning, deep learning frameworks and NLP techniques will be crucial. Data science expertise, including skills in data collection, data preprocessing, exploratory data analysis and predictive modelling, will allow talent to build AI systems, products and services. By partnering with educational institutions, private companies can offer training programmes and workshops to develop a skilled AI workforce.
+Broader AI Tools: Broader skills are also needed. This includes specialist knowledge for domain-specific AI use cases (such as in healthcare, agriculture, finance and education) to develop contextually relevant solutions that address priority challenges. 
+Additionally, ‘soft’ skills, including communication, collaboration, problem-solving and project management, will ensure the sustainable success of AI enterprises.
+Disparities: Talent challenges are not homogenous, and can be exacerbated or entrenched due to existing divides, inequities and inequalities. This can undermine the potential of many countries, with a sizable proportion of the population unable to actively participate in shaping AI. Civil society organizations can raise awareness about the potential benefits of AI, ensuring marginalized communities are not left behind in the AI revolution.
+Talent is a core component of AI development, and Africa’s young population shows promise in this direction. By employing the 
+GROW approach, the AI Hub for Sustainable Development can maximize the potential of African AI talent. The four components of the GROW model can help elaborate upon the state of AI education
+
+[Page 47]
+AI Hub for Sustainable Development 
+GUIDE
+Mainstream AI education and research across the educational ecosystem
+Only 0.3 percent of global AI journal citations come from subSaharan Africa.132 This highlights the need for educational systems in 
+Africa to be updated to adapt to the challenges posed by the Fourth 
+Industrial Revolution. African universities, including the University of 
+Johannesburg, the Centre for Artificial Intelligence Research (CAIR), the Pedagogical University of Maputo, and centres of excellence such as the African Institute for Mathematical Sciences (AIMS) are responding to the growing need for AI professionals.
+Among 32 African countries surveyed by UNESCO, 19 highlight gaps in educational resources and human capacities for teaching 
+AI programmes. More broadly, more than half of all countries highlighted ‘updating education, skills and training systems for imparting AI skills and knowledge’ as one of their top five AIrelated priorities.133 More specific skills gaps and priorities have also been identified in wider research, including building data science and machine learning capabilities.134 Thus, the need to mainstream AI skills at all levels of education has been felt across 
+African countries. For instance, Egypt has launched AI programmes in schools, including programmes on data science. The government also grants scholarships for MSc and PhD-level programmes in 
+AI-related fields.135 Similarly, Data Science Nigeria has provided free textbooks to primary and secondary schools on how AI plays an important role in the African context.136 
+Strategies
+1.
+Instil foundational skills necessary for AI systems within curricula: Foundational skills in AI should become part of different levels of education, as well as outside of formal curricula and institutions, with a focus on lifelong learning. AI research should be promoted on a sociocultural level and be and shine a light on skills gaps, opportunities for capacity building, academia–industry partnerships, scope for AI innovation, and multi-stakeholder interventions when developing a local AI workforce in Africa.
+
+[Page 48]
+AI Hub for Sustainable Development backed by multi-stakeholder partnerships between academia, industry and government. Encouraging the uptake of STEM education from an early age can help cultivate interest and aptitude in AI-related fields among students. Initiatives such as STEM competitions, coding clubs and mentorship programmes can inspire and support the next generation of AI talent. Academia must also develop in-house expertise on AI systems and their socio-economic implications, ethical AI approaches, and best practices to ensure that there are regulatory frameworks and standards for ethical AI that address societal challenges.
+2.
+Improve existing human capacities for teaching AI programmes: Initiatives aimed at training educators in AI pedagogy and providing resources for AI curriculum development can help bridge gaps in AI education. Centres of excellence in AI across the continent can also receive support to strengthen the AI education and AI research landscape.
+3.
+Ensure an enabling policy and regulatory space for developing AI talent: Universities must play a fundamental role in developing critical research that can inform policy and the public about AI innovation.137 With training programmes and adequate protections through regulation, these talent pipelines can be developed in the African continent — a region with the world’s youngest population. Capacity building and training of stakeholders involved in policy will allow them to comprehend and harness AI’s potential in accelerating progress towards the SDGs.
+RENEW
+Increase access to resources that can build AI skills
+For AI systems to evolve, programmers, statisticians, data scientists, data engineers and analysts represent an important talent pool. However, gaining the right skills has been a systemic challenge for many African countries. One study using selfreported data from white-collar workers in knowledge sectors including ICT and professional services revealed that most subSaharan African countries are positioned at around 50 percent of the global average in terms of digital skills. Broader challenges can also limit skills development. For example, the availability of the
+
+[Page 49]
+AI Hub for Sustainable Development internet and reliable electricity affects digital skills acquisition.138 
+Additionally, language barriers, varying policy environments, and disparities in education systems, resource access, and collaboration between African countries, may result in differing levels of progress in terms of AI development.
+Nevertheless, Africa is heading towards progress. Between 2016 and 2021, there has been a 115 percent increase in internet users in sub-Saharan Africa. Recognizing the importance of capital to access high-performance devices and quality datasets to nurture AI talent, the Government of Nigeria, through its Artificial Intelligence 
+Research Scheme, is offering grants of around US$3000 each to local AI researchers and startups.139 In 2021, the Government of 
+Nigeria also partnered with Microsoft to enhance its digital economy, equipping five million people with digital skills.140 
+Initiatives such as openAFRICA, Kaggle, and Zindi are shaping new learning opportunities, allowing African talent to gain access to real-world datasets and tackle real-life issues. Other initiatives, including Ghana NLP, AI Saturdays Lagos, Data Science Africa, 
+Masakhane and Deep Learning Indaba, are also shaping a vibrant research and innovation community.141 
+Strategies
+1.
+Provide the relevant resources to build specialized AI skills through private sector collaboration: It is crucial that the
+African ecosystem does not become ‘trapped’ in lower valueadded tasks within the global AI value chain. It is essential to identify and address skills gaps across the value chain. Widely accessible online educational material can also be used to reach large numbers of people; these resources can empower
+African AI talent and be introduced into the ecosystem through private sector-led collaboration. Academia and research will play an important role in steering such interventions in AI talent development. For instance, local players like Zindi
+Africa represent a huge community of data scientists that can complement private sector-led talent development initiatives in AI.
+2.
+Contribute to building broader industry-relevant skills for encouraging a more robust AI ecosystem: Ensuring the positive potential of AI for Africa will require a matrix of
+
+[Page 50]
+AI Hub for Sustainable Development specialized and broad skills. For AI to be sustainable, skills cannot be restricted to technical expertise. Strong problemsolving skills and critical thinking foster innovation and ensure that the AI solutions created solve problems on the ground. 
+Effective collaboration and communication will foster interdisciplinarity, inviting diverse African points of view into the AI infrastructure. There is also a need for AI talent to be trained in ethical and responsible AI practices to make sure that AI solutions cause no harm, tackle and remove bias, and do not entrench or exacerbate inequalities. 
+3. Leverage international partnerships to tackle foundational problems that hinder AI skills development: With a younger and increasingly tech-savvy population, and a strong history of shaping locally-owned and led technologies and innovation, the continent has all the requisite ingredients to shape new avenues towards AI innovation. Global technology stakeholders can aid this endeavour, and help to strengthen the public infrastructure. 
+For example, Microsoft, as a cloud service provider, is collaborating with the Government of Morocco to optimize its 
+ICT spending and maximize returns on investment.142
+ORCHESTRATE
+Forge enabling environments that nurture African ‘unicorns’ and entrepreneurship
+Limitations aside, innovators in sub-Saharan Africa are now developing their skills and technical talent. Similarly, the rate of contribution to the open-source community is higher for the African continent than across Asia, Oceania, North America, and Europe.143 
+However, many graduates from existing AI and related programmes often struggle to secure relevant employment as they lack the industry-specific skills, knowledge, or training. This suggests a broader mismatch between current learning pathways and the needs of the AI ecosystem, and has created a ‘brain drain’ among 
+African AI talent.144 With skilled professionals leaving the local ecosystem, knowledge and innovation gaps deepen, further discouraging investments in existing AI initiatives and businesses. 
+This issue reinforces the need to develop a sustainable AI labour market in Africa. To this end, supporting AI entrepreneurship is 
+Similarly, the rate of contribution to the opensource community is higher for the African continent than across Asia, Oceania, 
+North America, and Europe.
+There is also a need for 
+AI talent to be trained in ethical and responsible AI practices to make sure that 
+AI solutions cause no harm, tackle and remove bias, and do not entrench or exacerbate inequalities.
+
+[Page 51]
+AI Hub for Sustainable Development important. South Africa, the continent’s highest ranking country for entrepreneurship, still only ranks 44th globally, among 87 countries.145 However, increasingly, African experts are coming together to form enabling technology spaces to reinvent the African relationship with AI, like the aptly named ‘Silicon Savannah’ in Kenya, the ‘Sheba Valley’ in Ethiopia or the ‘Yabacon Valley’ in Nigeria.146 
+Strategies
+1.
+Promote AI entrepreneurship and innovation in Africa:
+An increase in entrepreneurship opportunities will generate sustainable wealth, expand employment and diversify sources of growth — providing greater opportunities to develop local and vibrant technological expertise that enjoy easier access to capital and resources.147 Granting funding, mentorship and resources to aspiring entrepreneurs and startups will create a conducive environment for AI development. An environment that has access to capital, incubation centres and networking opportunities can help retain local talent and stimulate innovation.
+2.
+Facilitate on-the-job training to ensure industry-relevant capacity building: Companies could also be incentivized to offer on-the-job skills transfer to develop a solid workforce.148 
+Specialized training programmes can bridge the gap between academic learning and industry demands and will ensure that the African AI ecosystem puts African voices first, leaving no one behind. This will require collaboration with industry partners who are able to tailor programmes to international industry standards. Work-integrated learning can encourage individuals to continuously update their knowledge and acquire new competencies throughout their careers. Exploration into policy initiatives, apprenticeships, and traineeship funding presents potential avenues to enhance the accessibility and effectiveness of practice-based learning initiatives.149
+3.
+Develop technology spaces that nurture talent networks:
+Innovation hubs and technology parks can provide the necessary infrastructure, resources and support services to AI innovators and entrepreneurs. These spaces serve as hubs for collaboration, creativity and knowledge exchange, bringing together diverse stakeholders from academia, industry,
+
+[Page 52]
+AI Hub for Sustainable Development 
+In Africa, the diversity and representativeness of AI systems is compromised in the absence of pathways to integrate Francophone nations within its fold.
+government and civil society. By creating a conducive environment for AI innovation and entrepreneurship, these spaces can help retain talent, attract investment and drive economic growth.
+WEAVE
+Leverage collective action such as private sector collaboration and digital public infrastructure to tackle the ‘twin technology challenge’
+The ‘twin technology challenge’ refers to the struggle to keep pace with the exciting and important developments of AI while also building and strengthening core digital foundations and prioritizing digital inclusion.150 In this context, it can be useful to examine the challenges in developing African AI talent through the lens of intersectionality. In Africa, only 36 percent of the population has access to broadband internet, and the gender gap in internet usage is immense (35 percent male versus 20 percent female, as of 
+2020), and though mobile connectivity has improved, access remains unequal across regions.151 With significant gender digital divides, women and girls can be disempowered — or actively excluded — from AI careers and opportunities. Other forms of sociocultural and economic marginalization can further exacerbate their exclusion from the AI revolution in Africa. 
+One study152 noted that a sizable portion of Africa-based startups were founded by non-African founders. Furthermore, an analysis of AI startups across the continent indicates that Francophone countries such as Benin, Côte d’Ivoire, Senegal, Togo and Tunisia are underrepresented in the innovation landscape.153 This could be due to the language barrier for accessing AI-related resources which are primarily in English. Consequently, the diversity and representativeness of AI systems is compromised in the absence of pathways to integrate Francophone nations within its fold.
+There have been endeavours to address disparities between African stakeholders. In 2021, the World Bank launched a pilot project in 
+Uganda to enhance women’s digital literacy and inclusion among refugee and host community participants. The pilot led to a fourfold increase in digital skills among its participants. Moreover, panAfrican networks, including organizations such as DeepLearning
+
+[Page 53]
+AI Hub for Sustainable Development 
+Indaba and Responsible AI Network Africa (RAIN-Africa), as well as local stakeholders, startups and the AI community are contributing to a multi-stakeholder AI innovation ecosystem that is relevant to the African context, its concerns and culture.154
+Addressing this issue is complex,155 which is why stronger links between academia and the private sector can play an important role. For instance, Samsung partnered with GoMyCode to establish the Samsung Innovation Campus in Algeria — an education programme providing AI courses and digital upskilling opportunities in line with current technological and market trends, as well as other skill training programmes in design, project management and problem-solving.156 The aforementioned Google 
+Research Centre in Accra has also been driving research in Africa by supporting AI projects in weather forecasting, food security, maternal health, spatial analysis and flood forecasting. Broader efforts are also underway. For instance, Smart Africa’s capacitybuilding arm, the Smart Africa Digital Academy (SADA), in partnership with the Ministry of Communication and Digital 
+Economy in Côte d’Ivoire, has launched an initiative to nurture the country’s emerging digital sector.157 Public institutions can also contribute to this endeavour. Digital public infrastructure can be a path towards ensuring that AI learning can reach even the most marginalized. For instance, in India, DIKSHA (National Digital 
+Infrastructure for Teachers) grants teachers and learners access to educational resources, thereby facilitating inclusivity and best practices in education.158 
+Strategies
+1.
+Infuse inclusivity and diversity in AI talent development:
+Efforts to address foundational problems should prioritize inclusivity and diversity to ensure that AI talent development is accessible to individuals from diverse backgrounds and underrepresented groups. Creating inclusive learning environments, providing scholarships and mentorship opportunities and actively promoting diversity in AI communities can help foster a more equitable and representative workforce. It is necessary to equip women with the skills to participate in creating AI solutions, fostering economic inclusion through support for women-led businesses and training programmes catering to women.
+
+[Page 54]
+AI Hub for Sustainable Development 
+2. Establish vital industry-academia collaboration: Collaboration between academia and industry is crucial for ensuring that educational programmes are aligned with the evolving needs of the labour market. By exploring the potential for incubation centres, secondments and other initiatives, AI talent will be better able to access international resources. Establishing partnerships, internships and apprenticeship programmes can provide students with hands-on experience and industryrelevant skills, bridging the gap between theoretical knowledge and practical application.
+3. Revitalize pan-African networks and collaboration: 
+Collaboration and knowledge-sharing among African AI experts, startups and communities through pan-African networks and initiatives should be encouraged. This will also ensure the scalability, interoperability and impact of African AI solutions. By fostering a culture of collaboration and collective problemsolving, these networks can create a vibrant and sustainable AI ecosystem that addresses African concerns and priorities.
+4. Leverage multi-stakeholder collaboration to create and attract talent: Embedding sustainability within the AI talent sector will require multiple perspectives. A multi-stakeholder approach involving public bodies, civil society organizations, developers, researchers and local communities can play an important role in strengthening AI skills and priorities. 
+Initiatives such as the United Nations Global Pulse, and the 
+Government Engagement Program on Standards (GEPS) from 
+IEEE are designed to foster such collaboration.159
+CASE STUDY
+Networks of excellence — the African Institute for 
+Mathematical Sciences (AIMS) and the Next Einstein 
+Forum (NEF), supported by the International 
+Development Research Centre (IDRC)
+Africa’s most valuable asset lies in its people. Thus, investing in education remains the most important step towards shaping the continent’s AI future. Incentivizing education and collaboration of 
+AI talent will foster a multifaceted and relevant AI-literate workforce, adept in understanding and addressing critical developmental issues such as agriculture, resource management,
+
+[Page 55]
+AI Hub for Sustainable Development public health, climate and finance. Robust education and training in 
+STEM (science, technology, engineering and mathematics) disciplines will cultivate indigenous African capacity to unlock solutions to both African and global challenges.
+Since its inception in 2003, the African Institute for Mathematical 
+Sciences (AIMS) has been a pioneering network of centres of excellence in STEM education, nurturing the next generation of 
+African leaders and scientists. With six centres of excellence spanning Cameroon, Ghana, Rwanda, Senegal, South Africa, and 
+Tanzania, AIMS advocates for investment in STEM education, emphasizes multi-stakeholder collaboration, promotes diversity and inclusion in STEM fields, and drives innovation. The organization is committed to technological advancement, economic development, lifelong learning and scientific excellence. 
+AIMS facilitates networking and collaboration among African and global AI talent. Through its partnerships and initiatives such as the Next Einstein Forum (NEF), AIMS provides opportunities for knowledge exchange, technology transfer and joint initiatives to advance AI research and development in Africa. Launched in 2013, the NEF has brought together stakeholders from the scientific and academic sector, governments, policymakers, science funding agencies, industry, media and civil society to showcase African 
+AI talent. 
+The NEF operates through four key programmes: 
+1.
+The NEF Global Gatherings, held biennially, serve as flagship events where science converges with global development agendas. With participation from political and industry leaders and a strong emphasis on youth and women, these gatherings amplify the voices of scientific leaders, shaping Africa's scientific future;
+2.
+The NEF Policy Institute aims to enhance science and innovation foresight in Africa through benchmarking activities, roadmapping for the digital economy and policy papers;
+3.
+The NEF Community of Scientists, comprising NEF Fellows and Ambassadors, showcases Africa's brightest young minds on the global stage, and champions science and technology across the continent; and
+
+[Page 56]
+AI Hub for Sustainable Development 
+4. The NEF Platform drives public engagement through online content, social media campaigns and research roundtables, fostering collaboration between government, academia and industry leaders to address Africa's challenges and set scientific priorities. 
+In 2018, the NEF also launched the quarterly Scientific African — a peer-reviewed, open-access, and multidisciplinary scientific journal dedicated to expanding access to African research, increasing African scientific collaboration and building African research capacities.
+
+[Page 57]
+AI Hub for Sustainable Development 
+Looking forward
+SECTION 3
+
+[Page 58]
+AI Hub for Sustainable Development 
+Africa stands at the crossroads of transformation — possessing immense potential for growth and development, while also facing considerable development challenges. AI is not a silver bullet for Africa’s development, but it offers a promising pathway that can support and accelerate the innovation ecosystem. 
+AI-powered solutions such as chatbots, virtual assistants, and e-commerce platforms are helping businesses to streamline their processes, expand their market reach and better meet the needs of customers. Beyond its use in the private sector, AIcentric workflows and technical skills are also improving the quality, reach, and impact of the public sector.160 
+AI is spurring technological and business innovation in Africa, deepening its digital economy.161 Moving forward, the growing accessibility of AI and digital technologies can shape new opportunities for individuals, communities, and countries. 
+By embracing diversity and inclusion in AI development, countries across Africa are exploring new avenues for employment and upskilling.162
+Just as importantly, AI has already proved itself crucial in helping countries achieve the SDGs. For instance, 
+1. Zero hunger (SDG 2): African innovators have used AI to boost agricultural productivity and food security, making farmers resilient to socioeconomic and climate contingencies;163 
+2. Good health and well-being (SDG 3): AI enables early detection and diagnosis of diseases and increasing healthcare access in remote areas;164 
+Looking forward
+SECTION 3
+
+[Page 59]
+AI Hub for Sustainable Development 
+3. Quality education (SDG 4): AI has helped provide quality education to all — through personalized platforms, interactive experiences, and adaptive and engaging learning systems;165
+4. Clean water and sanitation (SDG 6): By helping assess water quality, detect gaps in water distribution systems, and identifying risks of water scarcity and contamination, AI has also allowed policymakers and communities to employ actionable insights;166 and
+5. Climate action (SDG 13): AI allows innovators to understand vast and complex data. By supporting climate modelling, climate risk assessment, and environmental monitoring, it has informed resilient and adaptive climate strategies.167 
+There are several other examples. However, the advancement of AI algorithms has primarily focused on enhancing performance, resulting in complex ‘black box’ systems — models whose internal workings are not easily understood by humans. Incorporating human values into AI systems requires a paradigm shift among researchers and developers, prioritizing transparency over performance.168 This shift could lead to innovative techniques and applications. Specifically, it entails supplementing the prevailing individualistic perspective of AI systems with one that recognizes and integrates collective, societal and ethical values into the design, development, and utilization of AI systems.
+The AI Hub for Sustainable Development seeks to concern itself with the African AI landscape — one as defined by opportunities as it is by inequities — as a development priority. It will serve as a central hub examining, exploring and tackling key concerns in terms of data, compute and talent pipelines. By understanding and addressing significant bottlenecks which contribute to the digital divide, the AI Hub will unlock the developmental potential of AI in Africa. 
+As discussions on AI policy across the African continent gain traction, there is a pressing need for a holistic approach to AI governance. Efforts should encompass policies on privacy, security, data access, intellectual property protection, human rights and cross-border data sharing mechanisms.169 It is imperative for
+
+[Page 60]
+AI Hub for Sustainable Development diverse stakeholders to collaborate and integrate these policy aspects into a unified action plan for policymakers.
+The establishment of this AI Hub holds the potential to not only advance the continent, but also to drive global change by generating diverse and valuable datasets, as well as creating robust AI models, policies, and approaches. The AI Hub can serve as a collaborative platform for both African and international researchers, facilitating the exchange of knowledge and expertise on a global scale. Additionally, its emphasis on ethical considerations and responsible development can set a precedent for a more inclusive and equitable future shaped by AI.
+This is just the beginning. 
+The establishment of the AI Hub requires commitment, collaboration, and a long-term vision. By enabling the knowledge, insights, best practices, and expertise of the global AI community to connect with and amplify the African innovation ecosystem, this initiative can unlock the vast potential of AI for progress and prosperity — not just for Africa, but for the entire world.
+
+[Page 61]
+AI Hub for Sustainable Development 
+Acknowledgements
+This first public report on the co-design of the AI Hub for Sustainable 
+Development was produced by the G7 Italian Presidency and the 
+United Nations Development Programme as lead organizations, with the support of Aapti Institute as a research partner. 
+The report benefited significantly from the insights shared by more than 40 stakeholders during consultations held in Africa, as well as the useful feedback from several reviewers with subject matter and contextual knowledge who lent their time and expertise. 
+Ministry of Enterprises and Made in Italy (MIMIT) 
+•
+G7 Industry Working Group Co-Chairs:
+•
+Eva Spina, Head of Department for Digital and Connectivity and New Technologies
+•
+Vincenzo Del Monaco, Minister Plenipotentiary and Deputy
+Diplomatic Advisor
+•
+Eleonora Iannuzzi, Head of Unit, Coordination of the
+Department's Policies, Studies and Analysis, and
+International Relations
+•
+Valeria Vinci, Head of Unit, Digital Economy and New Enabling
+Technologies
+United Nations Development Programme (UNDP) 
+Keyzom Ngodup Massally, Calum Handforth, Alena Klatte, Alexander 
+Hradecky, Maria Giulia Vitagliano, Dwayne Carruthers, Gayan Peiris, 
+Romilly Golding, Megan Roberts, Omar Jagne, Abdulhakeem 
+Abdulkareem, and Ngasuma Kanyeka 
+Aapti Institute 
+Research: Vaishnavi Patil, Rohan Pai, Soujanya Sridharan, Bharat 
+Menon, Astha Kapoor, and Amrita Nanda
+Design: Antara Madavane, Priyam Vadaliya, Vasudha Varadarajan, and Meher Rajpal
+Subject matter experts 
+Mr. Blaise Bayuo, Dr. Charles Kimpolo, Dr Nii Longdone, Dr. Katleho 
+Mokoena, and Professor Olaynka David West
+
+[Page 62]
+AI Hub for Sustainable Development 
+Endnotes
+1.
+Sizing the Prize (Global Artificial Intelligence Study: Exploiting the AI Revolution)
+2.
+Sustainable Development
+3.
+The Impact of Artificial Intelligence on International Trade
+4.
+UK Unites with Global Partners to Accelerate Development using AI
+5.
+International Development Research Centre
+6.
+Africa: World's Oldest Presidents Run the Youngest Continent
+7.
+Harnessing Emerging Technologies: the Cases of Artificial Intelligence and Nanotechnology
+8.
+Africa’s Emerging Economies to Take the Lead in Consumer Market Growth
+9.
+Google to Invest $1 billion in Africa over 5 years
+10.
+AI in Africa: Meeting the Opportunity
+11.
+2021 Africa Tech Venture Capital Report
+12.
+The State of AI in Africa Report 2023
+13.
+G7 Consensus Reached on Advancing AI for Sustainable Development
+14.
+Adoption of Artificial Intelligence in Smart Cities
+15.
+The Impact of Artificial Intelligence on International Trade
+16.
+Challenges and Opportunities with Big Data
+17.
+Leveraging Artificial Intelligence for Sustainable Development and Environmental Resilience
+18.
+AI in Urban Planning and Smart City Development
+19.
+AI in Disaster Management: AI's Role in Disaster Risk Reduction
+20.
+The Italy-Africa Mattei Plan is a consultative strategic partnership initiative developed by Italy with 
+Africa. The plan was adopted at the Italy-Africa Summit 2024. Having aligned its goals with the AU and its Member States, the plan’s initiatives will be co-designed with African stakeholders to meet broader regional priorities in terms of AI systems and sustainable development.
+21.
+The “High 5s”: A Strategic Vision and Results that are Transforming Africa
+22.
+AI Policy as a Response to AI Ethics? Addressing Ethical Issues in the Development of AI Policies in North Africa
+23.
+Algeria Telecom Launches New Data Centre in Constantine
+24.
+State of Internet Freedom 2020
+25.
+African Startup Conference
+26.
+Empowering Congolese Judicial Operators with AI and the Rule of Law Training in Brazzaville
+27.
+Boosting Innovation and Artificial Intelligence in the Republic of Congo
+28.
+AI: Tunisian Firm in Talks with Sassou-Nguesso over Startup Incubator
+29.
+Brazzaville, Future African Capital of Artificial Intelligence?
+
+[Page 63]
+AI Hub for Sustainable Development 
+30.
+Cote d'Ivoire E-government Strengthening Support Project (Parae)
+31.
+Data Regulation in Africa: Free Flow of Data, Open Data Regimes and Cybersecurity
+32.
+Cote d'Ivoire Launches Work On National Data Centre
+33.
+United Nations Activities on Artificial Intelligence (AI)
+34.
+Smart Africa Digital Academy
+35.
+Black Founders Fund Africa
+36.
+Egypt's AI roadmap
+37.
+Egyptian Charter for Responsible AI
+38.
+Statistics Report on the Global Data Centre Market
+39.
+Egypt's AI roadmap
+40.
+Digital Ethiopia 2025: Empowering the Nation in the Digital Economy
+41.
+Coursera Global Skills Report 2021
+42.
+Inside EthERNet's High-Performance Computing Journey
+43.
+Ethiopia Data Use Partnership
+44.
+Kenya Data Protection Act (DPA) | Kenya
+45.
+Brain Drain in Private Universities in Kenya: Seeking for an Innovative Solution
+46.
+mLab East Africa
+47.
+Google and Microsoft Set up Tech Development Hubs in Kenya
+48.
+Research Grant: Who cares about AI?
+49.
+AI Strategies and Policies in Morocco
+50.
+The New Development Model
+51.
+Azure for Secure Worldwide Public Sector Cloud Adoption
+52.
+Startup Ecosystem of Morocco
+53.
+Open Data in Morocco
+54.
+Landscape Study of AI Policies and Use in Southern Africa
+55.
+Government Data Center Making Progress
+56.
+Data Centers in Mozambique
+57.
+2Africa Pearls Subsea Cable Connects Africa, Europe, and Asia to Bring Affordable, High-Speed 
+Internet to 3 Billion People
+58.
+Law in Mozambique – DLA Piper Global Data Protection Laws of the World
+59.
+Elgazala Technopark
+60.
+Unlocking Africa's Prosperity Through Deep Tech: A Transformative Partnership Between MIT’s 
+Legatum Centre and Open Startup
+61.
+Tunisia Needs Real Reform To Break a Ruinous Economic Cycle
+62.
+National Open Data Portal Tunisia
+63.
+The Bletchley Declaration by Countries Attending the AI Safety Summit, 1-2 November 2023
+64.
+Interwoven Realms: Data Governance as the Bedrock for AI Governance
+65.
+A Blueprint for Building National Compute Capacity for Artificial Intelligence
+
+[Page 64]
+AI Hub for Sustainable Development 
+66.
+Artificial Intelligence for Africa
+67.
+Escaping the Middle-Income Trap: Innovate or Perish
+68.
+Thinking DEEP to Ensure AI Delivers the Greatest Impact
+69.
+The Ethics of AI Value Chains
+70.
+What is Explainable AI?
+71.
+What Do We Do About Biases in AI?
+72.
+What Do We Do About Biases in AI?
+73.
+Understanding Differential Privacy
+74.
+Secure Multiparty Computation for Privacy Preserving Collaborative AI in Industrial IoT
+75.
+Roadmap for Digital Cooperation – the Report of the Secretary-General
+76.
+Governing Computational Infrastructure for Strong and Just AI Economies
+77.
+The Ethics of AI Value Chains
+78.
+AI Advisory Body | United Nations
+79.
+Innovate Africa Challenge
+80.
+Creating Transformational Impact: Lacuna Fund Enables Local AI Solutions by Filling Data Gaps in Africa
+81.
+This is for Everyone: How to Govern the Internet as a Global Commons
+82.
+Why Digital Public Infrastructure Matters
+83.
+How will Cloud Democratize Generative AI?
+84.
+The Role of Universities in Shaping the Future of AI, Creativity, and EdTech
+85.
+Civil Society can Help AI Benefit Us All. Here’s How
+86.
+ChatGPT is Everywhere. Here's Where it Came From
+87.
+State of Artificial Intelligence in Africa Report 2023
+88.
+Recommendations on the Use of Synthetic Data to Train AI Models
+89.
+How a Pan-African Roadmap Can Unlock the Potential of AI
+90.
+The Third Phase of G20 Data Gaps Initiative (DGI-3) Starts to Deliver Insights for Action
+91.
+The Future of AI in Statistics in Africa: Is the Continent Really Ready?
+92.
+State of Artificial Intelligence in Africa 2023 Report
+93.
+A Holistic Ubuntu Artificial Intelligence Ethics in South Africa
+94.
+Epistemic Just and Dynamic AI Ethics in Africa
+95.
+A Little-Known AI Startup is Behind Nigeria’s First Government-Backed LLM
+96.
+Recent developments in African Data Protection Laws
+97.
+AU Data Policy Framework
+98.
+AfCFTA Phase II and III Negotiations – Update
+99.
+Which Way for Data Localisation in Africa? Brief
+100. Blueprint: Artificial Intelligence for Africa
+101. Blueprint: Artificial Intelligence for Africa (2021)
+
+[Page 65]
+AI Hub for Sustainable Development 
+102. Open Buildings
+103. Learners at Data Science Nigeria are Achieving Personal and Professional Milestones With DataCamp
+104. Strengthening Data Protection in Africa: Key Issues for Implementation
+105. The United Nations Secretary-General Roadmap for Digital Cooperation: Promoting Digital
+Public Goods
+106. Artificial Intelligence in Africa: Emerging Challenges
+107. Masakhane
+108. Digital Umuganda
+109. Clearing the Way for Participatory Data Stewardship in Artificial Intelligence Development: A Mixed 
+Methods Approach
+110. State of Compute Access: How to Bridge the New Digital Divide
+111. AI Specialization for Pathways of Economic Diversification
+112. Navigating the High Cost of AI Compute
+113. State of Compute Access: How to Bridge the New Digital Divide
+114. State of Compute Access: How to Bridge the New Digital Divide
+115. Kigali Innovation City
+116. African Digital Financial Inclusion Facility
+117. Is Africa Ready for Cloud Computing Revolution
+118. Africa Looks to Muscle in on the Semiconductor Value Chain
+119. Rwanda Artificial Intelligence Policy
+120. Driving Sustainable Data Centers in South Africa: Challenges and Opportunities
+121. Data Centers in Africa
+122. EU-ASEAN High-Performance Computing (HPC) School 2021: System Design and HPC Applications
+123. How a Pan-African Roadmap Can Unlock the Potential of AI
+124. Artificial Intelligence in Africa is a Double-Edged Sword
+125. The Kenya National ICT Masterplan: Towards a Digital Kenya
+126. National Information and Communication Technology (ICT) Final Draft Policy
+127. A National Broadband Strategy for Economic Growth and Development
+128. National ICT Broadband Backbone
+129. Pan-European Supercomputer Comes a Step Closer to Reality
+130. Programme for Infrastructure Development in Africa (PIDA)
+131. Artificial Intelligence for Africa
+132. Artificial Intelligence Index Report 2021: Chapter 1
+133. Artificial intelligence needs assessment survey in Africa
+134. African Universities are Failing to Prepare Tech Graduates for Jobs in AI
+135. Artificial Intelligence Needs Assessment Survey in Africa
+136. Data Science Nigeria launches first book for artificial intelligence instruction
+
+[Page 66]
+AI Hub for Sustainable Development 
+137. Africa Needs Data Set Infrastructure to Benefit from AI
+138. The Future of Work in Africa: Harnessing the Potential of Digital Technologies for All
+139. Nigeria Artificial Intelligence Research Scheme (AIRG)
+140. Microsoft collaborates with the Nigerian government to accelerate digital transformation in the country
+141. Responsible AI in Africa – Challenges and Opportunities
+142. Azure for Secure Worldwide Public Sector Cloud Adoption
+143. State of Compute Access: How to Bridge the New Digital Divide
+144. Africa’s Brain Drain – The Exodus of the Continent’s Potential
+145. Best Countries: Entrepreneurship
+146. Introducing Responsible AI in Africa
+147. Africa Needs an Entrepreneurial Boom
+148. Artificial Intelligence for Africa
+149. Elevating Skill Development Through Practice-Based Learning: A Practical Framework for Work_ integrated Learning in the Age of AI
+150. Vietnam's Twin Tech Challenge: Spearheading While Catching
+151. From Connectivity to Services: Digital Transformation in Africa
+152. Responsible AI in Africa – Challenges and Opportunities
+153. Responsible AI in Africa – Challenges and Opportunities
+154. Introducing Responsible AI in Africa
+155. Deep Tech Series Vol. 3: Women and Girls in Deep Tech
+156. The First Edition of Samsung Innovation Campus in Algeria - Artificial Intelligence on the
+Training Menu
+157. SADA Boosts Digital Skills in Côte d'Ivoire with the Launch of its National Digital Academy
+158. DIKSHA
+159. Blueprint: Artificial Intelligence for Africa
+160. New Development: Leveraging 'Big Data' Analytics in the Public Sector
+161. Artificial Intelligence Revolution in Africa: Economic Opportunities and Legal Challenges
+162. Africa Needs an Entrepreneurial Boom
+163. Harnessing Artificial Intelligence for Sustainable Agricultural Development in Africa: Opportunities, 
+Challenges, and Impact
+164. Artificial Intelligence for Healthcare in Africa
+165. Transforming Classrooms: The Growing Impact of Artificial Intelligence in Africa
+166. How AI Is Revolutionising the WASH Sector
+167. Climate Change and AI: Recommendations for Government Action
+168. Artificial Intelligence Revolution in Africa: Economic Opportunities and Legal Challenges
+169. Envisioning Africa's AI Governance Landscape in 2024
+
+[Page 67]
+The Group of Seven (G7) is an intergovernmental political and economic forum. It plays an important role in shaping and strengthening global architecture and governance on all major international economic issues. The G7 Presidency is responsible for bringing together the G7 agenda in consultation with other members and in response to developments in the global economy. This publication was produced in 2024 as part of Italy’s G7 Presidency under the theme 'Digital Development: Growing Together'.
+UNDP is the leading United Nations organization fighting to end the injustice of poverty, inequality, and climate change. Working with our broad network of experts and partners in 170 countries, we help nations to build integrated, lasting solutions for people and the planet. Learn more at undp.org or follow at @UNDP
+The views expressed in this publication are those of the author(s) and do not necessarily represent those of the United Nations, including UNDP, or the UN Member States.
+One United Nations Plaza, NEW YORK, NY10017, USA
+Photo credits: UNDP
+
+[Page 68]
+Italian G7 Presidency
+United Nations Development Programme
+Aapti Institute
+LEAD ORGANIZATIONS
+RESEARCH PARTNER

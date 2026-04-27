@@ -1,0 +1,539 @@
+[Page 1]
+Targeted, Integrated, and Prepared
+Policy Packages to Address the Urban Heat in Korea 
+Hyunji Lee, Jonathan Hasoloan, Hogeun Park, 
+Terri B. Chapman, and Jose Siri 
+Policy Brief
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+
+[Page 2]
+1818 H Street NW, Washington DC 20433
+Some rights reserved
+This work is a product of the staff of The World Bank with external contributions. The findings, inter­ pretations, and conclusions expressed in this work do not necessarily reflect the views of The World 
+Bank, its Board of Executive Directors, or the governments they represent. The World Bank does not guarantee the accuracy of the data included in this work. The boundaries, colors, denominations, and other information shown on any map in this work do not imply any judgment on the part of The 
+World Bank concerning the legal status of any territory or the endorsement or acceptance of such boundaries.
+Nothing herein shall constitute or be considered to be a limitation upon or waiver of the privileges and immunities of The World Bank, all of which are specifically reserved.
+Rights and Permissions
+This work is available under the Creative Commons Attribution 3.0 IGO license (CC BY 3.0 IGO) http://creativecommons.org/licenses/by/3.0/igo. Under the Creative Commons Attribution license, you are free to copy, distribute, transmit, and adapt this work, including for commercial purposes, under the following conditions:
+Attribution—Please cite the work as follows: Hyunji Lee, Hogeun Park, Jonathan Hasoloan, Terri B. 
+Chapman, and Jose Siri. “Combating Heat in Cities: Operationalizing the urban heat agenda at the 
+World Bank” World Bank, Washington, DC. License: Creative Commons Attribution CC BY 3.0 IGO
+Translations—If you create a translation of this work, please add the following disclaimer along with the attribution: This translation was not created by The World Bank and should not be considered an official World Bank translation. The World Bank shall not be liable for any content or error in this translation.
+Adaptations—If you create an adaptation of this work, please add the following disclaimer along with the attribution: This is an adaptation of an original work by The World Bank. Views and opinions expressed in the adaptation are the sole responsibility of the author or authors of the adaptation and are not endorsed by The World Bank.
+Third-party content—The World Bank does not necessarily own each component of the content contained within the work. The World Bank therefore does not warrant that the use of any third-party owned individual component or part contained in the work will not infringe on the rights of those third parties. The risk of claims resulting from such infringement rests solely with you. If you wish to re-use a component of the work, it is your responsibility to determine whether permission is needed for that re-use and to obtain permission from the copyright owner. Examples of components can include, but are not limited to, tables, figures, or images.
+All queries on rights and licenses should be addressed to World Bank Publications, The World Bank 
+Group, 1818 H Street NW, Washington, DC 20433, USA; e-mail: pubrights@worldbank.org.
+Cover and chapter openers: S-BELOV / Shutterstock
+Cover design: Takayo Muroga Fredericks
+
+[Page 3]
+Targeted, Integrated, and Prepared 
+Policy Packages to Address the Urban Heat in Korea
+Policy Brief
+This brief was funded jointly by the World Bank and the KRIHS. The World Bank team, led by Hyunji Lee (Urban 
+Specialist), includes Hogeun Park (Urban Specialist), Jonathan Hasoloan (Urban Consultant), Terri Chapman (Consultant), and Jose Siri (Senior Health Consultant). The team built the draft upon background research papers conducted by Youn Hee Jeong (Director, KRIHS), Jin Hui Lee (Research Fellow, KRIHS), Eunji Choi (Associate Research Fellow, KRIHS), Ahyoung Chang (Researcher, KRIHS), Jisoo Sim (Associate Professor, 
+Pusan National University), Yeongseok Kwon (Director, Daegu Gyeongbuk Institute), Andy Hong (Professor, 
+University of Utah), and Junsik Kim (Research Assistant, University of Utah).
+
+[Page 4]
+Targeted, Integrated, and Prepared Policy Packages to Address the Urban Heat in Korea – Policy Brief
+Summary 
+Context: Heat as a Policy Priority in Korea 
+Policy Responses: Vertical and Horizontal Actions 
+Coordinating efforts at the national level is key to realizing impacts. 
+Translating National Frameworks into Local Action: Examples from 
+Busan and Daegu 
+Impacts: Economic and Health Benefits of Heat Action in Korea 
+Heat action in Korea has effectively protected people from health risks. 
+Heat actions can be inexpensive, yet effective. 
+Implications for the World Bank’s Engagement in 
+Low- and Middle-Income Countries 
+The urban heat agenda is increasingly reflected in the Bank portfolio, with untapped potential. 
+Heat responses implemented in Korea are replicable and scalable in LMICs. 
+References
+
+[Page 5]
+Targeted, Integrated, and Prepared Policy Packages to Address the Urban Heat in Korea – Policy Brief
+Summary
+Global warming has dramatically increased the frequency, intensity, and duration of extreme heat events, or heatwaves. Exposure to extreme heat presents a wide range of challenges for public health, labor productivity, and economic growth, among other areas, which are often amplified in cities. Globally, recent deadly heatwaves attest to the urgency of the urban heat problem, which is growing with the ongoing expansion of urban populations and the progression of climate change. This policy brief examines the responses of the Republic of Korea to urban heat problems at national and city levels. Korea formally recognized heat as a natural disaster in 2018, which represented a significant milestone in institutionalizing urban heat interventions across various ministries and agencies. 
+Guided by national frameworks, Korean cities—including Busan and Daegu, the two cities presented as cases in this brief—developed and implemented a package of complementary actions, consisting of legislation and planning, small-scale capital investments, and social programs. This comprehensive effort to address the urban heat agenda in Korea contributed to lowering local temperatures, reducing heat-related health costs by US$173.22 million,1 and reducing the heatrelated mortality rate by 72 percent compared to the counterfactual. The Korean experience can inform World Bank task teams and client cities and countries as they explore feasible entry points for refining and scaling up urban heat interventions in the coming years.
+Context: Heat as a Policy Priority in Korea
+The devastating consequences of climate change are being felt across all regions of the world (IPCC 2022). As its impacts increase in frequency and severity, the risks to human and ecological welfare become even greater. One increasingly pressing challenge is rising temperatures. The year 2023 was the hottest on record (that is, since 1850), with average global land temperatures 1.18°C above preindustrial levels (NOAA 2024). To reduce the adverse impacts of heat on human welfare, cities worldwide are implementing new mitigation and adaptation policies, programs, and plans.
+1 At the national level, the annual economic burden was reduced by approximately US$172.01 million based on disability-adjusted life years (DALYs), US$1.21 million in medical spending, and a total of approximately US$173.22 million.
+
+[Page 6]
+Targeted, Integrated, and Prepared Policy Packages to Address the Urban Heat in Korea – Policy Brief
+Korea, too, has experienced rising temperatures. From 1990 to 2021, the country has seen an increase in average daily temperatures and in the frequency of heatwave events. Between 2010 and 2020, heatwaves—defined by the Korea 
+Meteorological Administration (KMA) as periods when the maximum temperature in a day reaches 33°C or higher for two consecutive days—averaged 14 days per year, up from the average 10.1 days per year recorded between 1973 and 2020. 
+A corresponding increment in heat-related illnesses and deaths has also occurred. 
+In 2018, Korea experienced a 31-day heatwave during which temperatures in 
+Seoul soared as high as 39.6°C, causing over 4,000 excess heat-related illnesses and 48 deaths (Kim et al., forthcoming).
+This policy brief looks at policy responses to rising temperatures in Korea, which, after the devastating 2018 event, designated heatwaves as natural disasters through an amendment of its Framework Act on the Management of Disasters and Safety. The brief outlines the emergence of heat as a challenge in Korea and describes the nature of packaged policy responses and their effects.
+Policy Responses: Vertical and 
+Horizontal Actions
+The designation of heatwaves as natural disasters in 2018 led to policy changes and the implementation of a range of adaptation measures at both national and city levels. At the national level, heatwave response now falls under two cross-sectoral policy frameworks: the National Climate Change Adaptation Plan (NCCAP), led by the Ministry of Environment; and the Comprehensive Heatwave 
+Response Plan (NCHRP), led by the Ministry of the Interior and Safety (Park 2022). 
+These national initiatives have spurred the design and implementation of a growing body of heat responses at the city level, as shown by Busan and Daegu, the two city cases featured in this brief.
+Coordinating efforts at the national level is key to realizing impacts.
+The two initiatives have different institutional arrangements and associated policies and programs, as summarized below.
+1. The National Climate Change Adaptation Plan
+The NCCAP is revised and implemented every five years. Nested within the 
+Framework Act on Carbon Neutrality and Green Growth for Coping with Climate
+
+[Page 7]
+Targeted, Integrated, and Prepared Policy Packages to Address the Urban Heat in Korea – Policy Brief
+Crisis, it is led by the Ministry of Environment (ME). The ME coordinates the 
+NCCAP, to which 17 ministries in all contribute by designing and implementing action plans and submitting progress reports (ROK 2022). Through its dedicated 
+Climate Adaptation Division, the ME oversees progress and conducts regular evaluations. Figure 1 illustrates the institutional structure of the NCCAP.
+Figure 1. NCCAP Institutional Framework
+Just Transition and Climate Change
+Adaptation Sub-Commission
+Presidential Commission on Carbon
+Neutrality and Green Growth
+Ministry of Environment
+16 other ministries and national agencies
+Climate Adaptation Division
+Local governments
+Public institutions
+Metropolitan/provincial governments
+Green Growth and
+International Cooperation
+Sub-Commission
+Energy and
+Industry Transition
+Sub-Commission
+GHG Reduction
+Sub-Commission
+Source: Modified from ROK 2022.
+The ME worked with public institutions and enterprises across different sectors to contribute to the NCCAP. Under it, the ME guides the planning and implementation of five-year local action plans for 17 high-level local governments (that is, governments of metropolitan areas and provinces) and 226 low-level local governments (cities, counties, and districts; ROK 2022). These climate action plans articulate target groups and areas and specific programs to be implemented in line with the policy direction set by the central government, which provides technical, administrative, and financial support to local governments and public institutions to implement their plans.
+As presented in figure 2, the latest NCCAP (2021–25) outlines a vision for building climate resilience and defines three primary policy directions (ROK 2022):
+
+[Page 8]
+Targeted, Integrated, and Prepared Policy Packages to Address the Urban Heat in Korea – Policy Brief
+1. Enhancing the adaptation capacity of all sectors
+2. Strengthening monitoring, prediction, and evaluation
+3. Mainstreaming adaptation in society
+Figure 2. The Third NCCAP Framework
+Vision
+Building a Climate-Resilient Nation Together with the People
+Objectives
+Policy directions
+Key strategies
+To improve climate resilience across all sectors of society in preparation for 2°C increase in global temperature
+To promote science-based adaptation by establishing climate monitoring and prediction infrastructure
+To achieve the mainstreaming of adaptation among the public and all stakeholders
+Mainstreaming adaptation in society
+Strengthening monitoring, prediction, and evaluation
+Enhancing the adaptation capacity of all sectors
+Strengthening climate resilience
+Safeguarding the vulnerable
+Encouraging public participation
+Contributing to the
+Paris Alignment
+Source: Modified from ROK 2022.
+Each policy direction under the NCCAP has objectives and specific programs and projects (ROK 2022). Table 1 summarizes the objectives and gives examples of heat-related programs and projects for each policy direction.
+The ME conducted interim and comprehensive evaluations of the NCCAP after three and five years, respectively. A public review panel, comprising about fifty 
+Korean citizens who are equipped with educational information about climate change and adaptation, also contributes to the monitoring process for the third 
+NCCAP (ROK 2022).
+2. The National Comprehensive Heatwave Response Plan
+The NCHRP represents a whole-of-government approach to addressing heatwaves and their effects on human welfare. The Ministry of Interior and Safety (MOIS) is responsible for preparing the NCHRP and leading a government-wide heatwave
+
+[Page 9]
+Targeted, Integrated, and Prepared Policy Packages to Address the Urban Heat in Korea – Policy Brief response task force, which consists of 17 ministries and local governments. The 
+NCHRP is updated annually and implemented at national, regional, and local levels. 
+Specific measures under the NCHRP have evolved over time. Table 2 illustrates the four strategies and associated key tasks set forth by the latest NCHRP.
+Under the NCHRP, heat response activities are divided into two separate but complementary tracks. The first involves heat-related illness prevention and care, with activities implemented by several ministries and agencies. The second encompasses sectoral responses by relevant ministries, as summarized in figure 3.
+Efforts to implement policies at the national level inevitably are subject to significant coordination challenges. Although measures are prepared jointly among related ministries, they are often scattered, insufficiently linked, and focused more on 
+Table 1. Summary of NCAAP Policy Directions and Heat-Related Measures
+POLICY DIRECTION
+POLICY OBJECTIVES
+HEAT-RELATED PROJECTS
+Policy direction 1 
+Enhancing the adaptation capacity of all sectors
+1. Enhancing water management based on future climate risks
+2. Maintaining and promoting healthy ecosystems
+3. Enhancing nationwide capacity for climate change adaptation
+4. Creating a sustainable environment for agricultural and fisheries production
+5. Establishing a system to prevent damage to health from climate change
+6. Strengthening adaptation capacity in the industrial and energy sectors
+• Provision of doorto-door counseling services for those at high risk of psychological strain during heatwaves
+• Monitoring of emergency rooms for heat- and cold-related illnesses
+• Monitoring of international trends
+Policy direction 2 
+Strengthening monitoring, prediction, and evaluation
+1. Establishing a comprehensive monitoring system
+2. Advancing climate change scenario development and prevention
+3. Advancing evaluation tools and information dissemination
+• Improvement of heat prediction, monitoring, and information dissemination
+Policy direction 3 
+Mainstreaming adaptation in society
+1. Strengthening the system for adaptation to climate change
+2. Strengthening the foundation of climate resilience
+3. Building partnerships and raising awareness for climate change adaptation
+• Urban information campaigns, improvement of indoor environments and ventilation, and expansion of heat shelters
+Source: Adapted from ROK 2022.
+
+[Page 10]
+Targeted, Integrated, and Prepared Policy Packages to Address the Urban Heat in Korea – Policy Brief short-term, one-size-fits-all solutions than on more strategic action (Park 2022). 
+Stronger involvement from local governments can help ensure interventions are managed in a more integrated manner, as shown below in the cases of Busan and 
+Daegu. While national policies such as the NCCAP and NCHRP provide a general framework for undertaking urban heat and climate actions, local governments are responsible for proposing target groups, application areas, and specific measures in line with the government’s policy direction. In 2022, for example, 
+Busan Metropolitan City and Daegu Metropolitan City both formulated their third 
+NCCAP action plans (2022–26). The measures these plans envision fit well within the TIP (targeted, integrated, and prepared) framework2 presented in the World 
+Bank’s Healthy Cities report (Lee et al. 2023).
+2 The TIP framework is an approach to healthy-city action that involves providing targeted support for the vulnerable, delivering integrated solutions for a healthier future, and being prepared for future health and climate crises. It focuses on the crucial role cities play in ensuring human and ecosystem health and suggests both cross-cutting and specific actions as part of strategies to achieve sustainable healthy cities.
+Table 2. Strategies and Tasks under the 2023 NCHRP
+IMPLEMENTATION STRATEGIES
+KEY TASKS
+Strengthen monitoring and management of the most vulnerable population groups.
+• Protect socially and economically vulnerable groups.
+• Reinforce the safety management of outdoor workers, such as those on construction sites.
+• Prevent heat-related injuries among elderly farmers.
+Establish a government-wide heatwave response system.
+• Establish and operate a government-wide system for responding to heatwaves.
+• Maintain the emergency response system, and respond with full force in the event of a crisis.
+• Take timely actions in assessing the extent of damage and operating first aid systems.
+• Train relevant officials to improve their response capacity.
+Promote heatwave measures with the public.
+• Improve public awareness of and preparedness for heatwaves.
+• Promote summer blackout prevention measures.
+• Enhance safety education provided in outdoor recreation facilities and educational institutions.
+Lay the foundation for reducing heatwave damage.
+• Reduce heatwave damage by building infrastructure.
+• Minimize heatwave damage to infrastructure (roads, railways, etc.).
+• Develop policies and technologies to prepare for heatwaves from mid- to long-term perspectives.
+Source: ROK 2022.
+
+[Page 11]
+Targeted, Integrated, and Prepared Policy Packages to Address the Urban Heat in Korea – Policy Brief
+Translating National Frameworks into Local Action: 
+Examples from Busan and Daegu
+Busan and Daegu, population 3.4 million and 2.4 million, respectively, are among the largest metropolitan areas in Korea. In Busan, the average temperature has increased by 1.9°C over the past decade—more than the average increase nationally of 1.3°C (BRMA 2024); the city also has a higher-than-average number of tropical nights per year (KMA 2024). Daegu is likewise among the hottest metropolises in 
+Korea, with the average number of heatwave days annually having increased from 
+27.6 before 2013 to 33 between 2013 and 2022 (Daegu City 2023). Daegu has also consistently experienced more heatwave days annually compared to the national average, with an average of 19 extra days per year between 2013 and 2022.
+Rising temperatures in these cities have had serious health consequences. 
+Between 2019 and 2023, Busan experienced four heat-related fatalities and 
+344 heat-related illnesses; these figures are projected to increase by 72 percent between 2030 and 2050. Daegu reported 10 heat-related fatalities and 1,564 heat-related illnesses in 2022 (Daegu City 2023). The most common heat-related 
+Figure 3. Division of Responsibilities with Regard to NCHRP
+Development, management, and implementation of the NCHRP
+Ministry of Interior and Safety: Manage the NCHRP and operate the monitoring system; analyze and respond to heatwave damage.
+Ministry of Science and ICT and Korea Communications Commission: Operate and manage a disaster broadcasting system.
+Ministry of Culture, Sport, and Tourism: Promote heatwave behavioral tips and produce heatwave action guide.
+Provincial and local governments
+Operate a disaster and security response center as needed.
+Conduct inspections and provide forecasting for the management of vulnerable areas.
+Implement measures with disaster relief workers to protect vulnerable groups during heatwaves.
+Heat-related illness prevention and care
+Ministry of Health and Welfare: Provide protective measures to vulnerable groups, including the elderly and homeless, and preventive health care, in line with other care services.
+Ministry of Employment and Labor: Provide preventive measures for outdoor workers who are exposed to heatwaves.
+Ministry of Education: Provide school-related measures, such as reducing school hours and monitoring heatwave damage to school facilities.
+Ministry of National Defense: Provide public support and lifesaving emergencies during heatwaves.
+Korea Disease Control and Prevention Agency: Operate a nationwide monitoring system for heat-related illnesses and heatwave situations.
+National Fire Agency: Manage an emergency response system for heatwaves and share the real-time status of hospitals' capacity.
+Korea Meteorological Agency: Announce heatwave warnings and provide heat and weather forecasts.
+Sectoral response
+Ministry of Land, Infrastructure, and Transportation: Provide safety measures and inspection of critical infrastructure (e.g., railways, roads) during heatwaves.
+Ministry of Food, Agriculture, and Rural Aﬀairs: Control damage to the agricultural and livestock sectors amid heatwaves and support their recovery.
+Ministry of Finance: Protect the ﬁshing sector and support the recovery costs and insurance payments for the damage caused by heatwaves.
+Ministry of Environment: Establish a contingency plan for weather related shortages and heatwave response measures.
+Ministry of Trade, Industry, and Energy: Stabilize supply and demand of electricity in the summer and provide ﬁnancial assistance.
+Rural Development Administration: Prevent damage to fruit trees and livestock and research climate-resilient agricultural practices.
+Source: ROK 2023.
+
+[Page 12]
+Targeted, Integrated, and Prepared Policy Packages to Address the Urban Heat in Korea – Policy Brief illnesses are heat exhaustion, heatstroke, cramps, and syncope (KDCPA 2024); these typically occur outdoors, especially in workplaces.
+In response to rising temperatures and corresponding threats to human welfare, 
+Busan and Daegu have implemented a series of measures. These can broadly be assigned to the three categories outlined in the Healthy Cities report (Lee et al. 2023): targeted measures to protect the most vulnerable from extreme heat risks; integrated, place-based measures to address rising temperature; and preparedness measures pertaining to response and monitoring systems and institutions (figure 4).
+First, the cities have provided various types of targeted support to populations disproportionately vulnerable to heat risk (such as older persons, children, and 
+Integrated place-based strategies to address rising temperatures
+Targeted measures to protect the most vulnerable from extreme heat risks
+• Cooling shelters
+• Provision of cooling equipment
+• Cooling measures in targeted neighborhoods
+• Green and blue features
+• Promotion of nonmotorized transportation 
+• Use of reflective and cooling materials
+• Energy efficiency and passive cooling in buildings
+• Heat-sensitive urban planning
+• Awareness raising
+• Early warning system and emergency responses
+• Data collection and assessment
+Prepared urban institutions and systems to deal with extreme heat events
+URBAN 
+HEAT
+People
+Places
+Institutions
+Source: Modified from Lee et al. 2023.
+Figure 4. TIP Framework for Urban Heat Actions
+
+[Page 13]
+Targeted, Integrated, and Prepared Policy Packages to Address the Urban Heat in Korea – Policy Brief members of low-income households). Busan, for example, has allocated water, cooling devices (such as fans), and ice packs to community organizations and leaders for distribution during heatwaves (figure 5). The city also operates “cooling buses” to serve as heat shelters while also transporting vulnerable populations in high-traffic areas (Busan Metropolitan City 2021).
+Similarly, Daegu provides care services to vulnerable individuals during heatwaves. More than 14,000 such residents have been identified, including older persons, low-income individuals, and persons with disabilities. The city works with nonprofit civic groups to provide—at no cost—fans, cooling equipment such as air conditioners, healthy-meal kits, cooling aids such as ice, and bottled water.3 
+The city coordinates with over 2,700 volunteers, or “disaster helpers,” to provide goods and services to vulnerable groups and regularly check their health status through phone calls. Daegu also pays special attention to the safety of students and workers during hot weather—for instance, by extending summer breaks and implementing rest systems for outdoor workers when indicated.
+Second, the cities have implemented a wide range of integrated cooling measures, including urban greening and the installation of cooling materials. 
+Urban greening is among the major initiatives to reduce urban heat island (UHI) 
+Figure 5. Targeted Measures for Those Vulnerable to Heat Risks in Busan
+Targeted support with supplies for heatwave conditions
+Preparation for heatwaves through welfare checks and support for elderly individuals living alone go.kr/jumin06/1593040 (accessed February 23, 2024).
+3 In 2023, the city of Daegu provided 621 fans, 2,785 coolers, 11,550 packs of healthful foods, and 
+77,200 bottles of ice water.
+
+[Page 14]
+Targeted, Integrated, and Prepared Policy Packages to Address the Urban Heat in Korea – Policy Brief effects and mitigate the impacts of extreme heat. In Busan, the Urban Wind 
+Path Forest Project4 invested in urban forests extending 39.71 kilometers across neighborhoods; the project spanned three phases from 2020 to 2022, with a total budget allocation of W20 billion (approximately US$15 million), funded equally from national and city budgets. In Daegu, the Green Daegu Preservation 
+Project increased the prevalence of green areas by planting a total of 12.5 million trees in four phases, beginning in 1996. In addition to serving as public spaces, the green areas reduce UHI effects and improve urban microclimates (Kwon, 
+Jeong, and Choi 2017).
+The cities have also invested in passive cooling measures. In 2020, Busan repainted roofs white to reflect more sunlight (figure 6). This cooling roof initiative brought together various stakeholders, including volunteers and local associations, who painted the roofs of 19 public facilities, including child care and community centers. The objective was to mitigate the health impacts of heatwaves in the city by lowering indoor temperatures, with anticipated reductions of 4°C to 5°C. Roads were also paved with a material that reflects sunlight. Such coatings can reduce surface temperatures by as much as 10°C; 
+Figure 6. Cool Roof Project in Busan
+Community volunteers help treat the roofs with reflective paint.
+Temperature measurements and thermal images show the cooling effect of the treatment.
+Source: Busan Metropolitan City press release promoting the “White Roof Installation Support Project” go.kr/nbgosi/view?sno=39090&gosiGbn=A, accessed March 30, 2024 (bottom).
+4 A Wind Path Forest connects the forests on the outskirts of a city with scattered forests within the city to draw cool air into the urban area and promote air circulation.
+
+[Page 15]
+Targeted, Integrated, and Prepared Policy Packages to Address the Urban Heat in Korea – Policy Brief indeed, in Gupo Children’s Park, temperatures decreased by around 9°C after the cool pavement was applied.
+Daegu, meanwhile, established the Clean Road Project, which sprays groundwater accumulating in the subway on city streets. The water immediately cools the streets and reduces air pollution, although the effects are temporary (Wang et al. 
+2023). The effectiveness of this project has inspired other local governments in 
+Korea to implement the same measure.
+Third, in terms of preparedness, the two cities have enacted heat-focused ordinances at the city level and developed systems to monitor and respond to heat risks. In line with the national frameworks, Daegu and Busan enacted, in 2018 and 2020 respectively, an ordinance for the Prevention of Heatwave Damage and Mitigation of 
+Urban Heat Island Phenomena. The ordinance established an institutional framework within which various stakeholders can operate, identified measures for responding to heatwaves, and provided guidelines for heat mitigation projects and financing. 
+Both cities also enacted ordinances on climate change response that provide the groundwork for broader climate action, including the ten-year Comprehensive 
+Climate Change Response Plan and the five-year Climate Change Adaptation Plan. 
+Recognizing the importance of managing and maintaining green features to ensure their lasting success, Busan also enacted in 2021 and amended in 2024 the Ordinance on the Creation and Management of Urban Forests and More (Ordinance No. 7188); this covers procedures for creating urban forests, developing management plans, conducting status surveys, forming and operating committees, and selecting trees.
+In addition, both Busan and Daegu, in alignment with national frameworks and local ordinances, have developed comprehensive heatwave response plans to prevent damage and raise public awareness. In Busan, the Disaster 
+Safety Response Headquarters plays a central role, leading heat responses across 17  city departments and other related organizations during heatwave emergencies, which trigger four levels of crisis alerts based on the temperature (the highest “Danger” level occurs when temperatures exceed 38°C). In 2020, 
+Daegu established the Basic Plan for Heatwave Response and Urban Heat Island 
+Reduction in Daegu Metropolitan City, which introduces five-year targets and strategies in line with the ordinance on extreme heat.
+In Busan, an integrated urban heat monitoring system has also been put into place. Busan’s system is supported by weather sensors across 55 key locations that collect real-time data on temperature, humidity, and other conditions. The data are used not only for real-time monitoring but for forecasting, and they inform early action. The Busan Life Map, established in 2017, provides, among other things, details about the locations of heat-relevant infrastructure, such as cooling shelters and shade canopies for residents (figure 7).
+
+[Page 16]
+Targeted, Integrated, and Prepared Policy Packages to Address the Urban Heat in Korea – Policy Brief
+As part of its preparedness efforts, Daegu similarly has used heat vulnerability mapping to identify areas vulnerable to UHI and heatwaves. The vulnerability mapping platform helps inform heat mitigation efforts, including by identifying areas for expanding green space and limiting urban development. An assessment of Daegu’s thermal environment from 2000 to 2015 has revealed that temperature increase occurs mainly in newly developed areas and those with significant land use change. Conversely, areas of urban greening and regeneration projects experience an improved thermal environment, attesting to the efficacy of Daegu’s heat measures. Daegu is also developing a program to share heatwave information with citizens in real time so as to carry out heatwave response tasks efficiently through the Daegu City Disaster Safety Platform (Kim, 
+Lee, and Kang 2023).
+Public engagement is another important element in the planning and implementation of heat measures in both cities. In Busan, citizens actively volunteer—both individually and through community councils—to implement heat actions, such as “cool roof” projects and the provision of door-to-door care services. Busan also conducts surveys to gain an understanding of the 
+Source: Busan Life Map, http://lifemap.busan.go.kr/li/index.do?gu=%EC%97%B0%EC%A0%9C%EA%B5 %AC# (accessed February 24, 2024).
+Figure 7. Busan Life Map: Location of Heat Shelters
+
+[Page 17]
+Targeted, Integrated, and Prepared Policy Packages to Address the Urban Heat in Korea – Policy Brief relationship between heatwaves and health issues and public perception about climate issues. In Daegu, satisfaction surveys were formalized in the evaluation process of the city’s heatwave measures and have been implemented since 
+2018. These involve face-to-face and phone interviews using a structured questionnaire and target approximately 500 men and women ages 19 years and older. The surveys reveal that citizens prefer low-cost heat abatement approaches, like creating shade and cooling fog, to more expensive, largescale facility investments. The most recent iteration of the survey showed that shade structures are perceived as the most effective cooling measure. Citizens also emphasized that sidewalks, bus stops, and parks urgently need heatwave improvements. Seeking citizen input and participation in urban heat planning is essential to ensuring population needs are met and integrated plans and measures are undertaken.
+Table 3 summarizes the packages of heat interventions in Busan and Daegu.
+Table 3: Summary of Heat Interventions in Busan and Daegu
+INVESTMENT MENU
+DESCRIPTION
+BUSAN
+DAEGU
+Targeted measures
+Cooling shelters 
+Rehabilitation of existing or underused community spaces as cooling shelters in highly affected neighborhoods
+Yes (2,038 cooling shelters rehabilitated at a cost of approximately 
+US$5,000/site)
+Yes
+Temperature cooling measures 
+Provision of personal protective equipment (PPE) or temporary cooling measures (e.g., drinking water, fans and air conditioning, cooling blankets, water spray, cooling fog)
+Yes
+Yes ($60,000/ site/year) 
+Health care and services for vulnerable individuals and households
+Provision of health support, care, and counseling services to individuals affected by urban heat
+Yes
+Yes
+Heat-related work policies
+Establishment of labor policies related to urban heat (such as work bans during heat events) or changed working hours for outdoor workers
+Yes
+Yes (continued on next page)
+
+[Page 18]
+Targeted, Integrated, and Prepared Policy Packages to Address the Urban Heat in Korea – Policy Brief
+INVESTMENT MENU
+DESCRIPTION
+BUSAN
+DAEGU
+Heat-related workers’ insurance schemes
+Insurance schemes for outdoor workers or other workers affected by extreme temperatures to replace income lost during extreme heat
+Cooling buses
+Provision of air conditioned transportation (e.g., between public transportation hubs and residential areas)
+Yes
+Integrated measures
+Green and blue features
+Investments in green spaces, parks, and vegetation to optimize wind flow, air quality, walkability, shade cover, etc.
+Yes (116 sites, with a total annual budget of US$3.3 million/site)
+Yes 
+Citizen survey
+A survey of urban residents about perceptions of heatwaves, the challenges faced by citizens during heatwaves, where they receive information, how well they think city measures are working, and what else is needed
+Yes
+Yes
+Promotion of nonmotorized transportation
+Improvement of pedestrian networks with heat-sensitive design considerations
+Yes
+Use of reflective and cooling materials in construction and infrastructure
+Installation of cooling pavements or surfaces and use of cooling/ reflective materials (e.g., green roofs, additional paint/coating) to reduce indoor temperatures
+Yes (1,499 projects, with an annual budget of 
+US$23 million)
+Heat-sensitive urban planning
+Integration of the urban heat agenda in urban planning documents 
+Yes
+Table 3: Summary of Heat Interventions in Busan and Daegu (continued on next page) (continued)
+
+[Page 19]
+Targeted, Integrated, and Prepared Policy Packages to Address the Urban Heat in Korea – Policy Brief
+INVESTMENT MENU
+DESCRIPTION
+BUSAN
+DAEGU
+Building energy efficiency and passive cooling
+Improving energy efficiency and using passive cooling to minimize energy use and reduce excessive heat production
+Yes
+Yes
+Systems and institutions for preparedness
+Awareness raising
+Community-level awareness-raising activities
+Yes (more than 173,000 campaigns, with a total annual budget of 
+US$20 million)
+Yes
+Early warning system
+Inclusion of extreme heat in the list of disasters for early warning
+Operationalization of heat-included early warning system
+Yes
+Yes
+Communication of heat warnings
+Establishment of system for communicating heatrelated hazards to the city population
+Yes
+Yes
+Integrated heat management/ monitoring system
+Heat vulnerability assessment and mapping, data collection, forecasting, and early warning system
+Yes (monitoring system, with a budget of 
+US$23 million)
+Yes
+Heat response plan
+Response plan for heatwaves with allocation of responsibilities and activities to be undertaken at various heat thresholds
+Yes 
+Yes
+Source: Authors, using the framework from Lee et al. 2024; and Busan Metropolitan City 2022.
+Table 3: Summary of Heat Interventions in Busan and Daegu
+Impacts: Economic and Health 
+Benefits of Heat Action in Korea
+The extensive measures to address extreme heat at the national and local levels are vital steps toward climate resilience. This section will elaborate on the common concerns for policymakers around the costs and benefits of such actions based on the Korean experience.
+(continued)
+
+[Page 20]
+Targeted, Integrated, and Prepared Policy Packages to Address the Urban Heat in Korea – Policy Brief
+Heat action in Korea has effectively protected people from health risks.
+Korea responded to the lessons learned from the devastating heatwave in 2018 by establishing comprehensive plans to avoid repeating the unfortunate situation. 
+National policies and resources were translated into a range of local programs and investments. Since 2018, 630 extreme heat–related measures have been implemented at the local level to protect citizen and ecosystem health from the adverse impacts of heat (Kim, Park, and Hong, forthcoming).
+Kim, Park, and Hong (forthcoming) evaluated the effects of Korea’s heat adaptation policies on population-adjusted heat mortality between 2012 and 2022 to examine how the designation of heatwaves as natural disasters and the interventions that followed from this decision have affected heat-related mortality rates (see figure 
+8). The study found that, nationwide, heat-related mortality decreased significantly, by about 72 percent (7.6 fewer people per month) compared to the counterfactual (that is, without the 2018 legal designation of extreme heat as a natural disaster and subsequent relevant policies). It also found that the reduction in mortality was more significant for vulnerable groups. It was 11.79 times greater for older adults (aged 60 and above) than in the younger adult group (aged below 60); 6.83 times higher for the less educated (that is, those with less than a high school diploma) than the more educated; and 2.45 times higher among blue-collar workers than white-collar workers (Kim, Park, and Hong, forthcoming).
+Source: Kim, Park, and Hong, forthcoming.
+Figure 8. Population-Adjusted Heat-Related Mortality
+0.05
+0.10
+0.15
+Factual
+Counterfactual
+Time (months from 2012 through 2022)
+Population-adjusted heat-related mortality
+2018 (Intervention)
+
+[Page 21]
+Targeted, Integrated, and Prepared Policy Packages to Address the Urban Heat in Korea – Policy Brief
+Heat actions can be inexpensive, yet effective.
+Implementing comprehensive extreme heat adaptation policies can yield substantial benefits by significantly reducing the economic burden of heat-related illnesses. The Korean counterfactual study (Kim, Park, and Hong, forthcoming) estimated that such policies could lead to an annual economic burden reduction of approximately US$173 million, or US$335,500 per 100,000 population. This figure is particularly striking when compared to the US$61 million budget allocated by the Korean government for investing in extreme heat adaptation under the 
+2nd National Climate Change Adaptation Plan. The investment represents only 
+35 percent of the estimated total annual economic burden reduction, indicating a remarkably high return, with every dollar spent on adaptation measures potentially yielding nearly threefold returns in economic benefits.
+Such policies are also deemed cost effective, and they promote health fairness. 
+The reduction in economic burden was more noticeable among vulnerable groups. For older adults aged 60 and above, the annual reduction per 100,000 people was about US$643,562. In comparison, for younger adults under 60, it was about US$200,655, making the reduction for older adults 3.21 times higher than that for younger adults. Similarly, the reduction in economic burden for males was about $429,719 per 100,000 people, while for females, it was about 
+US$239,527. Since male workers tend to be outdoor laborers, the reduction for males was 1.79 times higher than for females.
+These results suggest that targeted extreme heat adaptation policies for vulnerable populations are effective. For older adults, especially in rural areas, the policies include such measures as heat shelters, shade canopies, insulated windows, and public shelters with air conditioning, along with intensive management strategies. For outdoor workers, the policies include heat shelters, better health services (for both outdoor workers and low-income individuals), the creation of green spaces, the expansion of the heat alert system, road sprinklers, public awareness campaigns, education, and work stoppages at outdoor sites during extreme heat.
+Implications for the World 
+Bank’s Engagement in Low- and 
+Middle-Income Countries
+Korea’s heat adaptation experience provides important lessons for other countries and cities grappling with rising temperatures. The World Bank is well positioned
+
+[Page 22]
+Targeted, Integrated, and Prepared Policy Packages to Address the Urban Heat in Korea – Policy Brief to be a strategic partner for cities as they seek to mitigate and adapt to the effects of climate change, including extreme heat.
+The urban heat agenda is increasingly reflected in the Bank portfolio, with untapped potential.
+A recent review of the World Bank’s urban heat portfolio over the decade from 
+FY2012 to FY2023 showed that the number of relevant projects had increased steadily since 2012, with a noticeable uptick during the last five years (Lee et al. 
+2024). Almost 90 projects entail investments with direct or indirect impacts on heat mitigation and adaptation; these are grouped in figure 9 in line with the TIP framework.
+Source: Modified from Lee et al. 2024.
+Figure 9. Heat-Relevant Measures Found in Urban Projects, FY2012–23
+Temporary cooling measures for targeted neighborhoods
+Heat or emergency shelters for the vulnerable populations
+Cooling Equipment for heat-exposed groups
+Awareness raising
+Emergency response procedures
+Early warning system
+Data collection and assessment
+Green and blue features
+Energy-eﬃcient buildings
+Promotion of nonmotorized transportation
+Use of reﬂecting and cooling materials
+Heat-sensitive or climate-informed urban planning and design
+Targeted
+Integrated
+Preparedness
+Number of investment activities
+The review and the Korean case studies described here reveal untapped potential for the World Bank and its clients to integrate the urban heat agenda further into the Bank’s urban investment portfolio. The Bank-financed urban projects, for example, have focused heavily on “cooling” urban areas through capital investments and less on promoting targeted and preparedness measures. 
+The Korean experience clearly shows, however, the importance of adequate response and monitoring systems in the successful implementation of heat action at different scales. Furthermore, the review and case studies illustrate how
+
+[Page 23]
+Targeted, Integrated, and Prepared Policy Packages to Address the Urban Heat in Korea – Policy Brief protecting the most vulnerable groups from the harmful impacts of extreme heat can generate important and rapid health benefits.
+Heat responses implemented in Korea are replicable and scalable in LMICs.
+To unleash the potential for a greater emphasis on urban heat across the World 
+Bank investment portfolio, the following key lessons from Korea’s experience can guide discussions with policymakers and practitioners in low- and middle-income countries (LMICs):
+• Designating heat as a natural disaster can mobilize resources and instigate action. Korea designated heatwaves as natural disasters in 2018, which allowed more ambitious mitigation and adaptation initiatives to follow. The formal designation elevated heatwaves into existing national climate change policy, enabling national and local governments to mobilize resources and establish programs for heat mitigation and adaptation. Creating a mandate for heat interventions is an important starting point to realize long-lasting impacts for cities and people.
+• A whole-of-government approach in Korea allowed heatwaves to be integrated into the planning and implementation of measures across ministries and at the national and local levels. Korea has implemented over 600 heat-relevant initiatives, from which lessons can be drawn about what works well, when, and why. These measures have been implemented by multiple ministries, local governments, and public institutions across different urban contexts. Robust local capacity is crucial to translate national directives into interventions that are carefully tailored to specific citizen needs. 
+The establishment of an intersectoral task force across different levels can be a feasible option to facilitate coordination and knowledge sharing among institutions and stakeholders.
+• Citizen engagement is essential for the effective curation, implementation, and monitoring of heat measures. The two Korean city cases demonstrate the importance of engaging communities in climate resilience efforts, thereby bridging potential gaps between high-level policy strategies and actual needs. 
+As shown by Daegu’s annual satisfaction survey, cities can raise awareness about urban heat issues through such public surveys while evaluating the efficacy of existing measures. Cities can also rely on public participation in the implementation of different heat measures, as was demonstrated by the volunteers for the cool roof project and visiting care services in Busan. Some heat measures involve simple but effective interventions that can involve communities and help reduce concerns around limited resources.
+
+[Page 24]
+Targeted, Integrated, and Prepared Policy Packages to Address the Urban Heat in Korea – Policy Brief
+• Heat data and analytics are fundamental to developing evidence-based interventions and informing heat planning. Developing heat mapping based on the characteristics of the built environment (canopy cover, density, 3D geometry, and so on) and temperature measurements can help cities target heat investments better and practice heat-sensitive planning. Furthermore, the capacity to gather real-time data and develop forecasts enables them to take advantage of technology in bolstering preparedness and response capabilities. Busan’s investment in predictive technologies for climate phenomena highlights its forward-looking approach to climate policy. Daegu is developing a similar integrated system by using a US$0.7 million grant for its 
+Heat Wave Digital Twin project (Daegu City 2022).
+• Heat-related measures can reduce mortality. As noted above, the 2018 designation of urban heat as a natural disaster and resulting policy responses have positively affected health and welfare, reducing excess mortality from heat by an estimated 72 percent (Kim et al., forthcoming). The designation has enabled extensive investments in protecting people from the adverse impacts of heat and in cooling cities. Such positive results of heat-related measures have been seen in other countries, as well, confirming the significant health benefits that can result from urban heat action.
+• Heat measures can be cost effective and tailored to local needs. The investment menu is extensive and serves different purposes: to protect people from heat risks, to cool cities, and to reduce excessive urban heat. 
+While cost implications differ across these interventions, the results timeline also varies from short- to long-term. With strong political will in place, heat preparedness and targeted measures provide quick wins with immediate benefits that protect people from the adverse impacts of extreme heat exposure. Integrated measures, such as cooling urban spaces, often offer longer-term and comprehensive benefits but require cities to incorporate heat considerations in design, planning, and implementation.
+• Heat measures can be effectively targeted to vulnerable groups. Extreme heat adaptation policies in Korea notably reduced the economic burden on vulnerable groups, showing that climate adaptation policies not only cut public health costs but promote health equity. Tailored interventions provide more benefits to those at higher risk. Older adults, for example, saw a 3.21 times greater reduction in economic burden than younger adults, thanks to measures such as heat shelters designed for them. Similarly, men, who often work outdoors, experienced a 1.79 times greater reduction in economic burden than women, highlighting the value of targeted measures such as shaded work areas and heat alert systems.
+
+[Page 25]
+Targeted, Integrated, and Prepared Policy Packages to Address the Urban Heat in Korea – Policy Brief
+References
+BRMA (Busan Regional Meteorological Administration). 2024. “Annual Climate Characteristics of BusanUlsan-Gyeongnam in 2023.” Busan Regional Meteorological Administration. January 16, 2024.
+Busan Metropolitan City. 2021. “Announcement of the 2021 Comprehensive Heatwave Measures.” Press release. June 14, 2021.
+____. 2022. “The 3rd Busan Metropolitan City Climate Change Adaptation Action Detailed 
+Implementation Plan (2022–2026).” Busan Metropolitan City.
+Daegu City. 2022. “Daegu City Secures 1 Billion Won for Heat Wave Digital Twin Construction.” https://​ info.daegu.go.kr/newshome/mtnmain.php?mtnkey=articleview&mkey=scatelist&aid=252416&bpage=1​ &stext= ____. 2023 “Comprehensive Heat Wave Plan in 2023.” Daegu City.
+IPCC (Intergovernmental Panel on Climate Change). 2022. “Summary for Policymakers,” edited by H.-O. 
+Pörtner, D. C. Roberts, E. S. Poloczanska, K. Mintenbeck, M. Tignor, A. Alegría, M. Craig, S. Langsdorf, 
+S. Löschke, V. Möller, and A. Okem. In Climate Change 2022: Impacts, Adaptation and Vulnerability. 
+Contribution of Working Group II to the Sixth Assessment Report of the Intergovernmental Panel on 
+Climate Change, edited by H.-O. Pörtner, D. C. Roberts, M. Tignor, E. S. Poloczanska, K. Mintenbeck, A. 
+Alegría, M. Craig, S. Langsdorf, S. Löschke, V. Möller, A. Okem, and B. Rama, 3–33. Cambridge, UK, and 
+New York: Cambridge University Press. doi:10.1017/9781009325844.001.
+KDCPA (Korea Disease Control and Prevention Agency). 2024. “Annual Report on Heat-Related Illnesses 
+Reported due to Heatwaves 2019–2023.” Korea Disease Control and Prevention Agency.
+Kim, J., J. M. Lee, and J. Kang. 2023. “Smart Cities and Disaster Risk Reduction in South Korea by 2022: 
+The Case of Daegu.” Heliyon.
+Kim, J., H. Park, A. Hong. Forthcoming. “Estimating Economic Burden Reduction of Heat-Related 
+Diseases Due to Climate Adaptation Policy in Korea.” Draft working paper.
+Kim, J., H. Park, J. Park, and A. Hong. Forthcoming. “Impact of Climate Adaptation Policy on Heat-Related 
+Mortality among Vulnerable Groups in Korea: Interrupted Time-Series Analysis.” Draft working paper.
+KMA (Korea Meteorological Administration). 2024. Open MET Data Portal. February 14, 2024. https:// data.kma.go.kr/climate/tropicalNight/selectTropicalNightChart.do.
+Kwon, Y., G. Jeong, and Y. Choi. 2017. “In the Era of Climate Change, a Study on Heat Wave Response 
+Measures in the Daegu Metropolitan Area.” Daegu Gyeongbuk Research Institute.
+Lee, H., J. Hasoloan, H. Park, T. Chapman, and J. Siri. 2024. “Combating Heat in Cities: Operationalizing the Urban Heat Agenda at the World Bank.” Washington, DC: World Bank Group.
+Lee, H., J. Siri, J. Hasoloan, T. Chapman, and M. Das. 2023. “Healthy Cities: Revisiting the Role of Cities in Promoting Health.” Washington, DC: World Bank Group. http://documents.worldbank.org/curated/ en/099101623114534329/P1744970b06d4e0940b34503008f2d565c6.
+NOAA (National Oceanic and Atmospheric Administration). 2024. “Annual 2023 Global Climate Report.” access/monitoring/monthly-report/global/202313.
+Park, J. 2022. “Local Government Heatwave Countermeasures Status and Implications—Focusing on 
+Detailed Implementation Plans for Climate Change Adaptation.” KRIHS Working Paper.
+ROK (Government of the Republic of Korea). 2023. “2023 Comprehensive Heatwaves Measures.” 
+Republic of Korea.
+____. 2022. “The Republic of Korea’s Adaptation Communication: A Report to the United Nations 
+Framework Convention on Climate Change.” Republic of Korea. https://unfccc.int/sites/default/files/
+ACR/2023-03/The%20Republic%20of%20Koreas%20Adaptation%20Communication.pdf.
+Wang, L., B. Li, X. Zhao, and J. He. 2023. “A Water Spraying Box and Its Improving Effect on the Thermal 
+Environment around Multi-Story Residential Buildings to Reduce Released Heat from Air-Conditioning 
+Units. Energy and Buildings 297: 113484.

@@ -1,0 +1,1162 @@
+[Page 1]
+UNDP–FAO Climate
+Action Review Tool
+Assessing the transformative potential of adaptation actions in the agriculture and land-use sectors
+
+[Page 2]
+UNDP–FAO Climate
+Action Review Tool 
+Assessing the transformative potential of adaptation actions in the agriculture and land-use sectors 
+Published by the
+Food and Agriculture Organization of the United Nations and
+United Nations Development Programme
+
+[Page 3]
+UNDP–FAO Climate Action Review Tool – Assessing the transformative potential of adaptation actions in the agriculture and land-use sectors
+Required citation:
+FAO and UNDP. 2024. UNDP–FAO Climate Action Review Tool – Assessing the transformative potential of adaptation actions in the agriculture and land-use sectors. Rome. https://doi.org/10.4060/cd0260en 
+The designations employed and the presentation of material in this information product do not imply the expression of any opinion whatsoever on the part of the Food and Agriculture Organization of the United Nations (FAO) or the United Nations Development 
+Programme concerning the legal or development status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries. The mention of specific companies or products of manufacturers, whether or not these have been patented, does not imply that these have been endorsed or recommended by FAO or UNDP in preference to others of a similar nature that are not mentioned.
+The views expressed in this information product are those of the author(s) and do not necessarily reflect the views or policies of 
+FAO or UNDP.
+ISBN 978-92-5-138684-2 [FAO] © FAO and UNDP, 2024 
+Some rights reserved. This work is made available under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 
+IGO licence (CC BY-NC-SA 3.0 IGO; https://creativecommons.org/licenses/by-nc-sa/3.0/igo/legalcode).
+Under the terms of this licence, this work may be copied, redistributed and adapted for non-commercial purposes, provided that the work is appropriately cited. In any use of this work, there should be no suggestion that FAO endorses any specific organization, products or services. The use of the FAO logo is not permitted. If the work is adapted, then it must be licensed under the same or equivalent Creative Commons license. If a translation of this work is created, it must include the following disclaimer along with the required citation: “This translation was not created by the Food and Agriculture Organization of the 
+United Nations (FAO). FAO is not responsible for the content or accuracy of this translation. The original English edition shall be the authoritative edition.”
+Disputes arising under the licence that cannot be settled amicably will be resolved by mediation and arbitration as described in 
+Article 8 of the licence except as otherwise provided herein. The applicable mediation rules will be the mediation rules of the with the Arbitration Rules of the United Nations Commission on International Trade Law (UNCITRAL)
+Third-party materials. Users wishing to reuse material from this work that is attributed to a third party, such as tables, figures or images, are responsible for determining whether permission is needed for that reuse and for obtaining permission from the copyright holder. The risk of claims resulting from infringement of any third-party-owned component in the work rests solely with the user.
+licence-request. Queries regarding rights and licensing should be submitted to: copyright@fao.org.
+
+[Page 6]
+Abbreviations
+AFOLU agriculture, forestry and other land use
+AR6
+Sixth Assessment Report of the IPCC
+BMUV
+German Federal Ministry for the Environment, Nature Conservation and Nuclear Safety
+CAR
+Climate Action Review 
+CCAFS
+Research Programme on Climate Change, Agriculture and Food Security 
+CDKN
+Climate Development and Knowledge Network
+CRDP climate-resilient development pathways
+FAO
+Food and Agriculture Organization of the United Nations
+GCF
+Green Climate Fund
+GEF
+Global Environmental Facility
+GEWE gender equality and/or women’s empowerment 
+GHG greenhouse gas 
+GIZ
+Deutsche Gesellschaft für Internationale Zusammenarbeit (German Development Cooperation)
+GSI gender and social inclusion 
+HLPE
+High Level Panel of Experts on Food Security and Nutrition 
+IIED
+International Institute for Environment and Development
+IKI
+International Climate Initiative 
+IPCC
+Intergovernmental Panel on Climate Change
+LT-LEDS long-term low emission development strategies
+NAP
+National Adaptation Plan 
+NDC nationally determined contribution
+OECD
+Organisation for Economic Co-operation and Development
+SCALA
+Scaling Up Climate Ambition on Land Use and Agriculture through Nationally Determined 
+Contributions and National Adaptation Plans 
+SDG
+Sustainable Development Goal
+SME small and medium enterprise 
+TKIP traditional knowledge and Indigenous Peoples 
+UNDP
+United Nations Development Programme
+UNFCCC
+United Nations Framework Convention on Climate Change
+WMO
+World Meteorological Organization
+WRI
+Word Resources Institute
+
+[Page 7]
+UNDP–FAO Climate Action Review Tool – Assessing the transformative potential of adaptation actions in the agriculture and land-use sectors
+
+[Page 8]
+1. Background 
+The agriculture and land-use sectors are considered among the most vulnerable to climate change due to the sensitivity of natural resources and rural livelihoods to climatic shocks and stresses. The impacts of climate change on crops, livestock, forestry fisheries, and aquaculture are expected to become increasingly severe in all regions, with cascading impacts of food and nutrition security and livelihood outcomes (FAO, 2016). These include yield declines; a rise in pests and diseases; supply chain disruptions; economic damage; increasing hunger and malnutrition; and conflicts and migration (Campbell, 2022). With every increment of global warming, weather and climate extremes are driving climate-related losses and damages across major food-producing regions around the globe. It is estimated that 10 percent of current production will be climatically unsuitable by mid-century under high emission scenarios. Vulnerable populations, including Indigenous Peoples and minority groups, small-scale food producers, low-income households and the elderly living in less resilient and vulnerable communities in Africa, Asia, Central and South America and the Small Islands, are hit the hardest despite having historically contributed the least to climate change (IPCC, 2022a). 
+The evidence makes clear that rapid and far-reaching transformations across all sectors and systems, particularly food and agriculture systems, are necessary for achieving and sustaining deep emission reductions and ensuring a just and climate-resilient future for all (IPCC, 2022a). The Intergovernmental 
+Panel on Climate Change (IPCC) Sixth Assessment Report (AR6) finds that, despite some progress, adaptation gaps persist and many of the effective adaptation options available for agrifood systems in a 
+1.5- or 2-degree world will be outpaced by the growing impacts and cost of adaptation in higher warming scenarios (Campbell, 2022). To date, adaptation is fragmented, incremental in nature and sector-specific; maladaptation is a risk, and the soft and hard limits are already being met in some ecosystems and regions, especially among smallholder farming households. The IPCC warns that unless there is a concerted, accelerated and widespread shift from incremental to transformational adaptation1 across our agrifood systems, current on-farm adaptations will be insufficient to meet Sustainable Development Goal (SDG) 2: 
+Zero Hunger by 2030, particularly in Africa, small island states and South Asia (IPCC, 2022a). At the same time, agrifood systems are a major driver of climate change and currently contribute to up to one-third of global greenhouse gas (GHG) emissions (Tubiello et al., 2022). 
+An enabling environment for climate-resilient agrifood system transformation is critical for facilitating, accelerating and sustaining adaptation and avoiding losses and damages. Nationally determined contributions (NDCs) and National Adaptation Plans (NAPs) represent key institutional frameworks and policy instruments for strengthening the enabling conditions for adaptation planning and implementation. 
+Almost all NDCs (94 percent) and all multisectoral NAPs include adaptation priorities in agrifood systems (Crumpler et al., 2021). However, implementation of the climate actions articulated in the NDCs and NAPs is limited, especially in the agriculture and land-use sectors in developing countries (UNDP and FAO, 2022a). 
+According to the IPCC, incremental adaptation maintains the essence and integrity of a system or process at a given scale, whereas transformational adaptation changes the fundamental attributes of a socio-ecological system in anticipation of climate change and its impacts. When incremental adaptation is insufficient to avoid risks, transformational adaptation may be able to extend the potential to sustain human and natural systems.
+
+[Page 9]
+UNDP–FAO Climate Action Review Tool – Assessing the transformative potential of adaptation actions in the agriculture and land-use sectors
+The low scale of implementation can be attributed to numerous barriers, including lack of ability to generate evidence and information on system-level risks and opportunities; insufficient coordination capacity for cross-sectoral implementation; ineffective governance and monitoring mechanisms; low level of integration of the priorities into (sub)national planning and budgeting processes; limited amount of climate finance allocated to agriculture, forestry, and other land-use actions; and weak engagement of the private sector. 
+Additionally, there are limited technical capacity and tools to guide prioritization and practical translation of the NDC and NAP priorities into actionable investment and implementation plans for transformative climate action on the ground. This tool aims to fill that gap by providing national adaptation planners and practitioners with a practical resource to guide in the critical transition between high-level NDC and NAP planning and actual implementation of locally relevant adaptation actions in the agriculture and land-use sectors with transformative systems-change potential.
+
+[Page 10]
+2. Introduction to the tool 
+2.1 What is the purpose of the tool? 
+The UNDP–FAO Climate Action Review (CAR) Tool aims to support adaptation planners and practitioners' transition from the planning to implementation stages to accelerate transformative climate action in the agriculture and land-use sectors. To do so, the tool presents a practical, step-by-step approach that users can follow to identify actionable entry-points for transformative change in the sector, drawing from adaptation actions included in the nationally determined contributions (NDCs) and National Adaptation Plans (NAPs), among others. The tool is flexible in nature so that it can be easily adapted to country context and the user’s strategic priorities.
+This user handbook aims to:
+ À
+Provide the background and rationale for agriculture and land-use system transformation within the context of climate change.
+ À
+Outline step-by-step guidance on how to apply the CAR Tool and interpret the results for evidencebased adaptation planning using participatory methods.
+ À
+Present guidance on the formulation of an actionable roadmap for locally relevant NDC/NAP adaptation action programming and resource mobilizations to accelerate transformative climate action in the agriculture and land-use sectors. 
+A core component of the tool is an assessment of the potential contribution of planned adaptation efforts2 to climate-resilient agrifood system transformation, based on six elements and 20 indicators of transformative climate action (see Figure 1). The analysis, both quantitative and qualitative, provides a comparison between the current and planned (or intended) adaptation actions and identifies those actions with the greatest transformative potential. The exercise follows a participatory approach, requiring the consultative involvement of a cross-section of relevant stakeholders.
+Figure 1. 
+Six elements and 20 indicators of transformative climate action in the agriculture and land-use sector
+
+Adaptation programmes, projects, interventions or actions.
+Source: Author's own elaboration.
+Climate rationale
+Gender equality and social inclusion 
+Promotion of traditional knowledge and Indigenous Peoples 
+Enabling environment for gender equality and social inclusion 
+Private sector engagement
+Climate risk responsiveness 
+Financial potential
+Investment barrier responsiveness 
+Presence of public sector de-risking 
+Technological innovation
+Innovativeness of technological solutions 
+Enabling environment for innovation 
+Catalytic potential
+Sustainable development
+Social contribution
+Economic contribution
+Environmental (non climatic) contribution
+Whole-of-government
+Policy coherence
+Cross-sectoral coordination
+Multistakeholder collaboration
+Budget suﬃciency
+Vulnerability driver responsiveness 
+Adaptation relevance
+Contribution to mitigation co-beneﬁts
+Contribution to Gender equality and/or women’s empowerment
+
+[Page 11]
+UNDP–FAO Climate Action Review Tool – Assessing the transformative potential of adaptation actions in the agriculture and land-use sectors
+The tool is primarily designed to be used in its “planning function” insofar as it generates insights into the strategic interventions needed to ensure that future adaptation efforts contribute to transformative change in agriculture and land use systems. As such, the tool is a critical resource for NDC/NAP planning, project development and finance mobilization. It can also be used in its “monitoring and evaluation” function to iteratively track the contribution of ongoing adaptation efforts to transformative climate action. 
+Ultimately, by using this tool, it is the hope that country planners will have strengthened capacity to steer future adaptation projects, programmes and interventions towards climate-resilient agriculture and land use system transformation by unlocking the critical levers for systems change. The final assessment results are packaged into a report for dissemination to target audiences, including policymakers, programmers and financiers for project development and resource mobilization. It can serve as an important communications instrument for sharing evidence on where opportunities for unlocking transformative climate action and investment in agriculture and land use exist.
+The tool is aligned with Element C “Implementation Strategies” of the United Nations Framework Convention on Climate Change (UNFCCC) Technical Guidelines for Formulation of the NAPs (Least Developed 
+Countries Expert Group, 2012); and “Step 1” of the forthcoming UNFCCC Technical Guidelines for 
+Implementation of the NAPs (Least Developed Countries Expert Group, 2023).
+2.2 Who is the tool for?
+The tool was designed to support NDC and NAP planners and focal points in government; senior policy or technical units in relevant ministries, departments or agencies supporting climate change and/or agriculture sector (or relevant sectors such as water, land, gender, and so on) projects, programmes or interventions at the national or subnational level; and multilateral or bilateral organizations, civil society or financial institutions supporting country-driven climate action and NDC/NAP implementation in the agriculture and land use sectors. 
+2.3 How to use the tool?
+The tool is organized around a five-step process (see Figure 2), which comprises preparing for the consultative assessment (step 1), short-listing adaptation priorities from NDCs and NAPs (or other climate plans) in the agriculture and land-use sectors to be assessed for their transformative potential (step 2), mapping stakeholders to be consulted (step 3), assessing the transformative potential of adaptation priorities (step 4) and developing an actionable roadmap for implementation of the transformative climate actions in the agriculture and land use sectors (step 5).
+
+[Page 12]
+Figure 2. 
+Five steps to the Climate Action Review Tool
+Steps 1-3 are preparatory and can be completed online. Visit the designated website to proceed. 
+Once the preparatory phase is complete, the user can download the excel tool and an automatically generated report, which contains all the information the user will need for organizing steps 4–5. 
+Steps 4–5 can be conducted either as a desk review or in a participatory workshop setting (highly recommended). The tool can also be downloaded here. 
+On average, the amount of time required to apply the tool is five to ten working days, including background research and the organization of a two-day multistakeholder workshop (or series of consultative bilateral meetings). 
+2.4 Who developed the tool?
+The tool was developed within the context of the support programme on Scaling Up Climate Ambition on Land Use and Agriculture through NDCs and NAPs (SCALA), which is jointly implemented by the United Nations Development Programme (UNDP) and the Food and Agriculture Organization of the 
+United Nations (FAO) between 2020 and 2025. SCALA is funded by the German Federal Ministry for the Environment, Nature Conservation, Nuclear Safety and Consumer Protection (BMUV) through the 
+International Climate Initiative (IKI). The main objective of the SCALA programme is to support 12 countries in Asia, Africa and Latin America to translate their NDCs and NAP priorities in the agriculture and land-use sectors into actionable and transformative climate action on the ground through multistakeholder engagement. The CAR tool was ground tested in each of the SCALA countries and refined based on country experiences, challenges and lessons learned.
+Source: Author's own elaboration.
+Step 1:
+PREPARE
+Preparing for the consultative assessment
+Step 2:
+SHORT-LIST
+Short-listing adaptation priorities to be reviewed for transformative potential
+Step 3:
+MAP
+Mapping the stakeholders to be consulted
+Step 4:
+ASSESS
+Assessing the transformative potential of adaptation priorities
+Step 5:
+IMPLEMENT
+Developing an actionable roadmap for implementation of the transformative climate actions
+Preparatory phase: Online
+Assessment phase: Multistakeholder workshop
+
+[Page 13]
+UNDP–FAO Climate Action Review Tool – Assessing the transformative potential of adaptation actions in the agriculture and land-use sectors
+
+[Page 14]
+3. Six elements of transformative climate action in the agriculture and land-use sectors
+It is widely recognized that the global climate crisis cannot be addressed without rapid and widespread transformations across agriculture and land-use systems (IPCC, 2022a). Where scattered incremental adjustments in land-use and agricultural sectors will not be sufficient to protect ecosystems and dependent livelihoods from climate impacts, transformative approaches will be needed (IIED, 2019). Much of how adaptation in agriculture systems takes place today involves making incremental adjustments of existing systems to better manage climate variability and cope with near-term risks (WRI, 2018). There is evidence of increased maladaptation in multiple sectors and regions. This is especially the case in the context of agriculture, forestry and fisheries practices that fail to distinguish between conventional agricultural development and adaptation, often shifting vulnerability from one group to another and trading short-term benefits for long-term resilience (Campbell, 2022). Mitigation practices are also often implemented without consideration of potential trade-offs with other components of the food system (IPCC, 2018a). Increasingly severe impacts, combined with other systemic shocks and stresses, are beginning to test the limits of what and how we can adapt (WRI, 2018). Adapting to these impacts and mitigating the contribution of agriculture and land use to global emissions will progressively require more dramatic shifts at greater scale, depth and speed across natural and human systems. 
+Transformational change is figured as qualitatively different from incremental change or business as usual (Feola, 2015), a distinction that is considered necessary for effective climate change adaptation or mitigation (Park et al., 2012; Rickards and Howden, 2012). Transformational adaptation refers to a “change in the fundamental attributes of a socioecological system in anticipation of climate change and its impacts”, in contrast to incremental adaptation, which is adaptation that “maintains the essence and integrity of a system or process at a given scale” (IPCC, 2018b). Adaptation interventions can be qualified as transformational when they include system-wide change or changes across more than one system, focus on the current and medium (future) change and involve direct questioning of the effectiveness of existing systems, social injustices and power imbalances (Lonsdale, Pringle and Turner, 2015).
+The IPCC defines transformative change as “system-wide change that fundamentally alters the key aspects of a defined system” and “requires more than technological change through consideration of social and economic factors that, with technology, can bring about rapid change at scale” (IPCC, 2022b). 
+Transformative change processes can include innovation, expansion, reorganization and/or reorientation (Few et al., 2017). For instance, in the agriculture sector, transformative climate action could entail planned responses to climate impacts that either significantly shift the agricultural production systems to more resilience, inclusiveness and sustainability, or those that introduce substantially new production methods or technologies at different spatial or temporal scales. In some situations, incremental changes may be sufficient in the near-term, yet transformational changes are necessary in the long run. Incremental actions can also be sequenced and phased for long-term transformative change (Carter, Ferdinand and 
+Chan, 2018).
+
+[Page 15]
+UNDP–FAO Climate Action Review Tool – Assessing the transformative potential of adaptation actions in the agriculture and land-use sectors
+Equitable transformation will require giving particular attention to smallholders and socially marginalized groups, not only due to their vulnerability, but also for the knowledge, needs and insights they can contribute to climate solutions. While many adaptation technologies and practices exist, their feasibility and effectiveness vary by socio-cultural, economic and geographical context, and careful consideration of the potential adverse effects of climate action across different group and scales are necessary for avoiding maladaptive outcomes (IPCC, 2022a). Combined measures that take into account not only on-farm management but also value chains, ecosystems and the enabling conditions for transformation – created through policies, markets, institutions and governance – will be necessary to ensure climate solutions benefit smallholders and rural populations (IPCC, 2019). 
+The SCALA programme identifies six elements that are necessary for driving transformative climate action in the agriculture and land use sectors while avoiding maladaptation (see Figure 3), which should be considered and effectively integrated into programmes and projects to ensure that NDC/NAP implementation contributes to climate-resilient agriculture and land use system transformations. 
+Figure 3. 
+Six elements of transformative climate action in the agriculture and land-use sectors
+Climate rationale
+Transformative adaptation in agriculture and land-use sectors must be rooted in a strong climate rationale that addresses the causes of vulnerability to climate change and promotes the capacity to prevent, adapt and transform in the face of climate risks (FAO, 2016). While the NAP process and NDCs are generally guided by the “best available science”, national climate plans often lack downscaled, granular climate data and sociocultural information that may be required for the design of locally relevant adaptation options. 
+Climate information, such as past and present climate variability and change, and associated impacts, vulnerabilities and risks provide the basis for decision-making and devising responses to climate change, which is the basis for building a strong climate rationale for action (Below et al., 2016). A strong climate rationale can also boost climate finance mobilization and investment (GCF, 2020a; WMO, 2022). For example, climate finance mobilization with key partners, such as the Green Climate Fund (GCF) and the private sector, increasingly requires a science-based adaptation planning approach, which becomes 
+Whole of government
+Climate rationale
+Sustainable development
+Private sector engagement
+Technological innovation
+Gender equality and social inclusion
+Source: Author's own elaboration.
+
+[Page 16]
+evident in – as for example – the GCF’s investment criteria (GCF, 2020b) and adaptation-focused climate change rationale requirements (GCF, 2022).
+In addition, adaptation options with mitigation co-benefits can contribute to global GHG emission reductions or sequestration and, therefore, avert future loss and damage. Currently, agrifood systems contribute to up to one-third of global GHG emissions (Tubiello et al., 2022). 
+Gender equality and social inclusion
+The inequitable distribution of rights, resources, power and norms influences people’s ability to adapt to climate change. Impacts of climate change are particularly gendered. Thus, climate actions need to address structural inequalities and gendered power differences for transformative adaptation in the agriculture and land-use sectors (FAO, 2018). Implementation of NDCs and NAPs offers the opportunity to address these structural and systemic inequalities (for example in policies, laws, practice, norms and institutions) faced by the poor, vulnerable and marginalized communities in accessing productive resources and participating in decision making processes. Transforming systems and structures that integrate gender and social inclusion is therefore key to achieving the climate-related goals and targets in the NDCs and NAPs and avoiding potentially maladaptive outcomes, especially in agriculture where 48 percent of total workforce are women. 
+This entails designing adaptation actions that explicitly address the differentiated needs of men, women and vulnerable populations in agrifood systems (youth, persons with disabilities, Indigenous Peoples, smallholder farmers, pastoralists, foresters and fisherfolk) through gender and socioeconomic analyses, integration of gender equality considerations into policies and budgets, developing monitoring and accountability mechanisms that can track gender progress and improving participation and gender balance in training, economic opportunities, and decision-making processes (UNDP, 2017). 
+Private sector engagement
+Transforming current natural and social systems, including agrifood systems, would require substantial scaling up of funding through active collaboration with the private sector. Forty-one percent of submitted NDCs reiterated the importance of engaging with the private sector for NDC implementation but, in reality, only 13 percent show evidence of active collaboration (UNDP and FAO, 2022c). Current financing structures – mainly through multilateral financing mechanisms and public sector funding – are insufficient and misaligned with context and are therefore unlikely to drive transformative change at a scale desired to address the impacts of climate change in the agriculture and land-use sectors. The private sector holds the potential to transform current agrifood systems by bringing in expertise in this field, increasing access to innovative financing mechanisms and reconnecting and building strong multistakeholder networks (UNDP and FAO, 2022c). 
+However, countries currently face multiple challenges in engaging and securing the financial resources needed to achieve NDC and NAP targets (UNDP and FAO, 2022c). Limited public sector understanding of how to engage with the private sector in agriculture and land use, limited private sector understanding of climate risks, environmental outcomes and business opportunities, insufficient investment capacity and incentives, and lack of scalable projects aligning with national climate strategies are some of the key barriers that countries are yet to overcome for accessing private sector investments at the scale required (OECD, undated). Overcoming these barriers requires efforts to strengthen inter- and intra-coordination between governments, the private sector actors and other relevant stakeholders to accelerate green investments, promote private sector development at multiple scales and harness stakeholders’ knowledge and expertise to drive low-emission and climate-resilient agriculture and land-use transformations through NDC and NAP implementation.
+
+[Page 17]
+UNDP–FAO Climate Action Review Tool – Assessing the transformative potential of adaptation actions in the agriculture and land-use sectors
+Technological innovation
+Technological innovation broadly comprises the research, development, demonstration, deployment, and diffusion of a technology. It is through these stages that a technology (such as a technique, skill, method or process) evolves from an idea to widespread use. Technological innovation is considered a critical accelerator for scaling up climate solutions and can be a driver of systems transformation (GEF, 2022). Out of all “Technology Needs Assessments” for climate action submitted to the UNFCCC, technologies for adaptation in agriculture and water sectors were the most frequently prioritized (UNFCCC, 2020). Increasing investments in technological innovation can enhance the implementation of NDCs and NAPs in the agriculture and landuse sectors especially through activities such as enhancing public and private partnerships in the research, development and demonstration of climate technologies, thereby: providing a clear policy signal of a long-term commitment to act on climate change; strengthening national systems of innovation and enabling environments; enhancing existing and building new collaborative initiatives for climate technology innovation, including for sharing expertise, good practices and lessons learned; creating an inclusive innovation process that involves all key stakeholders, facilitating the incorporation of diverse and relevant expertise, knowledge and views and generating awareness of the benefits and impacts; and acknowledging and protecting indigenous and local knowledge and technologies and incorporating them in their national innovation systems (UNFCCC, 2017).
+Sustainable development 
+One of the headline statements of the IPCC AR6 report is that there is a rapidly narrowing window of opportunity to secure a livable and sustainable future for all. It maps out illustrative climate-resilient development pathways (CRDP) or multiple interacting choices and actions made by diverse actors that can achieve and sustain ambitious emission reductions, enable adaptation and ensure future development opportunities for all. Climate-resilient development pathways offer a way forward for guiding agrifood system transformations towards more resilient, equitable and sustainable outcomes (IPCC, 2022a). immediate and significant upscaling of a wide portfolio of mitigation and adaptation options in the agriculture and land-use sectors tailored to national, regional and local circumstances and geographies, with positive social, economic and environmental sustainable development co-benefits. The IPCC finds with high confidence that climateresilient development is enabled when governments, civil society and the private sector make inclusive development choices that prioritize risk reduction, equity and justice, and when decision-making processes and actions are integrated across governance levels, sectors, and time frames and access to adequate financial resources are improved, especially for vulnerable regions, sectors and communities (IPCC, 2022b).
+Whole-of-government approaches 
+Whole-of-government approaches that allow for effective decision-making processes through multistakeholder engagement and are based on principles of accountability and strong political will are critical to achieving climate action targets and desired impacts (CDKN, 2016). A whole-of-government approach enables collaboration with a wide range of agrifood system stakeholders for more effective NDC and NAP planning and implementation. Improved vertical and horizontal coordination and collaboration eliminate duplication, optimize resources, and create synergies among multi-actors across sectors and institutions. (WRI and GIZ, 
+2018). By moving away from fragmented to more integrated and inclusive frameworks, coordination and monitoring mechanism, whole-of-government approaches can also help unlock investment opportunities in climate-resilient agrifood system solutions that can bring transformations in social, economic and environmental processes (Cooke, Gogoi and Petrarulo, 2018; IPCC, 2022b).
+
+[Page 18]
+4. Step-by-step application of the tool
+The tool presents a five-step process (see Figure 2) that an adaptation planner can follow to carry out a participatory review of high-level NDC/NAP adaptation priorities and identify concrete entry points for transformative climate action programming in the agriculture and land-use sectors. Step 1 involves preparing for the consultative assessment, including the establishment of the coordination team tasked with conducting and providing strategic direction to the assessment. This step also includes gathering relevant policy documents and identifying agriculture and land-use sector adaptation options to be reviewed for their transformative potential. 
+Step 2 entails short-listing the adaptation priorities that are aligned with the user’s strategic mandate and programmatic areas of interest. Step 3 involves mapping the various stakeholder groups to be consulted during the participatory assessment, including government, civil society, academic and research institutions, the private sector and multilateral and bilateral development organizations. Step 4 entails assessing each short-listed adaptation priority against six elements and 20 indicators of transformative climate action to determine their potential for contributing to climate-resilient agriculture and land-use system transformation. Step 5 involves developing an actionable roadmap for implementing and incentivizing investment in transformative climate action in the agriculture and land-use sectors. Finally, the handbook includes guidance on how to document and disseminate the results to target audiences, including policymakers, project developers or donors.
+4.1 Step 1: Preparing for the consultative assessment 
+Step 1 involves preparing for the consultative assessment, including the establishment of the coordination team tasked with conducting and providing strategic direction to the assessment, as well as gathering national climate change policy documents and selecting the agriculture and land-use sector adaptation options to be reviewed for their transformative potential.
+The final output of step 1 is a long list of adaptation options (max. 50) in the agriculture and land-use sectors sourced from NDCs, NAPs or other relevant climate change and agricultural plans. 
+Who should conduct it?
+A lead government ministry, department or agency (“assessment lead”) is responsible for coordinating and preparing for the assessment. The assessment lead is also referred to as the “user” in the handbook.
+How should it be conducted?
+Preparing for the assessment entails establishing a coordination team, defining the purpose of the assessment, selecting the modality of the assessment and collecting the relevant policy documents and adaptation options in the agriculture and land-use sectors to be reviewed for their transformative potential. 
+What is the final output?
+A long list of adaptation options (max. 50) in the agriculture and land-use sectors sourced from NDCs, NAPs or other relevant climate change and agricultural plans.
+Step 1: Quick Guidance
+
+[Page 19]
+UNDP–FAO Climate Action Review Tool – Assessing the transformative potential of adaptation actions in the agriculture and land-use sectors a. Establish the CAR coordination team 
+The coordination team is made up of a lead government ministry, department or agency tasked with coordinating the assessment (the “assessment lead”) and representatives from other ministries, departments or agencies involved in climate change and agriculture and land-use sector planning and programming in the country, including NDC/NAP focal points. The role of the coordination team is to strategically orient and coordinate the consultative assessment in light of the national context, priorities and needs for achieving adaptation goals in the agriculture and land-use sectors. Specifically, the coordination assessment team is responsible for short-listing the NDC/NAP adaptation options in the sector, selecting relevant experts to be consulted, conducting the consultive assessment and consolidating the results for implementation. It should be noted that the assessment may be supported by an international organization or development partner. 
+Box 1. CAR coordination team
+
+Checklist: Who is part of the CAR coordination team? 
+At least one senior programme, policy or technical officer from the following ministries, departments or agencies involved in climate change and agriculture sector programming at the national or subnational level:
+• 
+Ministry of Agriculture, Fisheries and/or Forestry (or related) 
+• 
+Ministry of Environment (or related) 
+• 
+Ministry of Gender and Social Affairs (or related) 
+• 
+Ministry of Finance (or related)
+
+Table 1. 
+Illustrative example list of CAR Coordination team in Uganda
+Focal person name
+Name of institution
+Level
+Position
+Email –
+Climate Change Department in 
+Ministry of Water and Environment
+National
+Adaptation
+Officer – –
+Ministry of Agriculture, Animal 
+Industry and Fisheries
+National
+Senior Policy
+Officer – –
+UNDP Uganda
+National
+Climate Change Programme Officer – –
+FAO Uganda
+National
+Natural Resources Officer – b. Define the purpose of the assessment 
+The lead institution and coordinating team are responsible for defining the purpose of the assessment. The tool may be used either for “planning” or for “monitoring and evaluation”. If used for planning purposes, the objective is typically to assess potential entry points for a country or institution to contribute to transformative climate action and NDC/NAP implementation in the agriculture and land-use sectors through a future or planned adaptation programme, project or intervention. Alternatively, if the tool is used for monitoring and evaluation purposes, the purpose is typically to reflect on the contribution of an ongoing adaptation programme, project or intervention to transformative change in the agriculture and land-use sectors. 
+Source: Author's own elaboration.
+Source: Author's own elaboration.
+
+[Page 20]
+c. Select the assessment modality 
+Depending on the objective of the assessment and resources available, the CAR toolkit may be applied in different ways, ranging from a rapid to more extensive stakeholder engagement approach. The coordinating team is responsible for selecting the assessment modality from the following two options: 
+1. 
+In depth approach: Multistakeholder consultation workshop: a two-day participatory, multistakeholder consultation is organized in a workshop setting. The purpose of the workshop is to bring together a wide group of stakeholders from various sectors and backgrounds to exchange knowledge and information that is valuable for the assessment of climate action capacities, needs and outcomes in the agriculture and land-use sectors. Refer to Appendix 1 for an example workshop agenda. 
+2. 
+Rapid approach: Desk review and key informant interviews. If organizing a consultative workshop is not feasible, desk research may be carried out alongside key informant interviews. Refer to step 3 for guidance on the stakeholder selection for interviews and to step 4 for suggested information sources for the desk review. 
+To date, the tool has most frequently been used within a workshop setting as a first step to adaptation programming and resource mobilization. However, it can also be applied to reflect on and course correct an ongoing adaptation programme, project or intervention.
+d. Select the relevant policy documents
+To prepare for the a ssessment, the assessment lead is responsible for collecting relevant agriculture, landuse and climate change policy documents, including NDCs, NAPs, Long-Term Low Emission Development 
+Strategies (LT-LEDs) and other relevant national or sectoral plans. These documents represent the starting point for the assessment as they contain national climate change adaptation priorities in the agriculture and land-use sectors. 
+Box 2. Required policy documents
+
+Checklist: Which policy documents should be collected? 
+At least one senior programme, policy or technical officer from the following ministries, departments or agencies involved in climate change and agriculture sector programming at the national or subnational level:
+• 
+Country’s NDC
+• 
+Country’s national and/or sectoral NAP 
+• 
+Country’s national and/or sectoral long-term low-emission development strategies (LT-LEDS)
+• 
+Country’s national, subnational or sectoral climate change plans
+• 
+Country’s national, subnational or sectoral development plans
+• 
+Relevant progress reports on the above policy documents
+Source: Author's own elaboration.
+
+[Page 21]
+UNDP–FAO Climate Action Review Tool – Assessing the transformative potential of adaptation actions in the agriculture and land-use sectors
+Table 2. 
+Example description of policy documents identified in Uganda
+Title
+Year
+Lead Institution
+Updated Nationally Determined Contribution
+2022
+Ministry of Water and Environment
+National Adaptation Plan for the Agricultural Sector
+2018
+Ministry of Water and Environment
+Long-term Low-emissions and Climate-Resilient 
+Development Strategy for Agriculture
+2023
+Ministry of Water and Environment
+Uganda National Climate Change Policy
+2015
+Ministry of Water and Environment e. Identify adaptation options in policy document 
+The assessment lead is responsible for identifying up to ten adaptation options from each of the policy documents selected (max. 50) and taking note of the following information (if provided in the document): i) adaptation objective; ii) the relevant sector, subsector, value chain or ecosystem; and iii) relevant geographic, agroecological or administrative zone where the adaptation option is expected to be implemented. Box 3 provides guidance on how to identify an “adaptation option” in the policy documents selected.
+Table 3. 
+Illustrative example description of adaptation option identified in Uganda’s National 
+Adaptation Plan
+Adaptation option
+Adaptation objective
+Sector, subsector, value chain or ecosystem
+Geographic, agroecological or administrative zone
+National Adaptation Plan
+1. Implement climate-resilient coffee and banana systems 
+Climate resilience
+Coffee and banana value chains
+Isingiro district
+Source: Author's own elaboration.
+Source: Author's own elaboration.
+
+[Page 22]
+Box 3. Identification of adaptation options
+
+How to identify the adaptation options to be reviewed? 
+An adaptation option refers to an adaptation “action”, “measure”, “intervention”, or “priority” described in the policy document. It may also be a relevant adaptation “programme” or “project” referred to in the document. 
+In some cases, the user may wish to combine a number of adaptation options to be reviewed as an integrated approach. If a combined action approach is preferred, the user should list the various adaptation options together in a single line.
+4.2 Step 2: Short-listing adaptation priorities 
+Step 2 involves short-listing the adaptation priorities in the NDC, NAP or other climate plans that are aligned with the user’s strategic mandate and area of programmatic interest and, at the same time, demonstrate gaps in implementation or an opportunity for scaling up progress to date. The assessment lead is responsible for carrying out this step. 
+The final output of Step 2 is a short list of five adaptation priorities, which will subsequently be evaluated for their transformative climate action potential in step 4. 
+Nationally Determined Contribution
+Add description of adaptation option as explicity described in the document
+Adaptation option
+Climate-resilient crop varieties farmer ﬁeld schools small scale irrigation kits post-harvest value addition
+Nationally Determined Contribution
+Add description of adaptation option as explicity described in the document
+Climate-resilient crop varieties, farmer ﬁeld schools, small scale irrigation kits and post-harvest value addition
+Adaptation option
+Source: Author's own elaboration.
+
+[Page 23]
+UNDP–FAO Climate Action Review Tool – Assessing the transformative potential of adaptation actions in the agriculture and land-use sectors a. Screen adaptation options
+To determine which adaptation priorities are relevant to the user’s strategic mandate and area of programmatic interest, each of the adaptation options outlined in step 1 is screened against national inclusion criteria (see 
+Figure 4). The assessment lead is responsible for screening each adaptation option against the inclusion criteria to determine (score 0–5) the extent of:
+ À
+Alignment with the user’s strategic mandate. À
+Alignment with the user’s sector, subsector, value chain or ecosystem of interest (or programmatic coverage).
+ À
+Alignment with the user’s geographic, agroecological or administrative zone of interest (or programmatic coverage).
+The inclusion criteria and respective weights may also be further adapted to the national context by the assessment lead.
+Figure 4. 
+Inclusion criteria and scoring options for short-listing adaptation options relevant to the user’s strategic mandate and area of influence
+Who should conduct it?
+The assessment lead (handbook “user”) is responsible for short-listing the adaptation priorities that are aligned with the user’s strategic mandate and area of programmatic interest, as well as those that are lagging in terms of implementation or present an opportunity for scaling up.
+How should it be conducted?
+Short-listing involves screening the long list of adaptation options identified in step 1 against three criteria (see Figure 4).
+What is the final output?
+A set of five short-listed adaptation priorities in the agriculture and land use sectors ready to be assessed for their transformative climate action potential in step 4.
+Step 2: Quick Guidance
+Source: Author's own elaboration.
+Not aligned (score 0)
+Partially aligned (score 1–4)
+Fully aligned (score 5)
+Criterion #1:
+Alignment with user's strategic mandate
+Criterion #2:
+Alignment with user's sector, subsector, value chain or ecosystem of interest 
+Criterion #3:
+Alignment with user's geographic, agroecological or administrative zone of interest
+
+[Page 24]
+b. Review status of implementation
+Once the adaptation options that are considered most relevant to the user’s strategic mandate and areas of interest are identified, the coordination team is responsible for evaluating the current status of their implementation. The purpose of the review is to better understand current gaps in implementation progress or opportunities for scaling up implementation based on the following status options:
+ À
+Steady implementation progress, no support required. À
+Partial implementation progress but opportunity for improvement or scaling up.
+ À
+No implementation progress, support required.
+Figure 5. 
+Status of adaptation implementation scoring range 
+Based on the status scores inserted, a final short list of ten adaptation priorities will be automatically generated as the output of step 2 (see Table 4 ). The short list will serve as the basis for the consultative assessment of transformative climate action potential in step 4.
+Table 4. 
+Illustrative example of short-listed adaptation priorities to be assessed for transformative potential in Uganda 
+Priority number
+Adaptation priority 
+Policy document source
+Year Lead institution
+Adaptation objective
+Sector, 
+Subsector, 
+Value chain or 
+Ecosystem
+Geographic, agroecological or administrative zone
+Status of implementation
+Promote and encourage productive and adaptive livestock breeds
+NAP
+2018 MAIAF
+Resilience building of livestock production system
+Livestock
+Isingiro district
+Partial
+Source: Author's own elaboration.
+Steady progress, no support required
+Partial progress, opportunity for improvement or scaling up
+No progress, support required
+Source: Author's own elaboration.
+
+[Page 25]
+UNDP–FAO Climate Action Review Tool – Assessing the transformative potential of adaptation actions in the agriculture and land-use sectors
+4.3 Step 3: Mapping stakeholders to be consulted
+Step 3 involves mapping the stakeholder groups to be consulted during the participatory consultation. 
+The coordination team is encouraged to invite a wide range of stakeholder groups to ensure an accurate representation of the country’s adaptation priorities, capacities and needs in the agriculture and land-use sectors. Table 5 lists the various stakeholder groups that may be invited to participate in the assessment, including government, civil society, research, financial institutions, the private sector and multilateral or bilateral development organizations. While mapping the various stakeholders to be consulted, it is important to consider not only those stakeholder groups that are directly impacted by or vulnerable to the adverse impacts of climate change but also actors or institutions that have an influence on the social, economic and political conditions underpinning the adaptive capacity of those impacted sectors or populations to respond to climate change. The latter includes critical decision-making and budgeting bodies. 
+Who should conduct it?
+The coordination team is responsible for identifying the various stakeholders to be included in the consultative assessment.
+How should it be conducted?
+Mapping the stakeholders entails identifying individuals from government, specialized agencies, civil society, private sector, multilateral and bilateral development organizations that are considered relevant to the adaptation priorities short-listed. 
+What is the final output?
+A stakeholder list with information on each person’s institution, role or area of expertise and contact details. 
+Step 3: Quick Guidance
+
+[Page 26]
+Table 5. 
+Potential stakeholder groups to participate* in the consultative assessment 
+
+Stakeholder group
+Examples
+Government ministries, departments and agencies
+• Ministries of Agriculture, Forestry, Fisheries, Disaster Risk Reduction, Environment, 
+Gender, Finance, Planning
+• Regional government offices
+• Local government (e.g. district agriculture and extension departments, local councils)
+• Climate change departments, committees or cross-sectoral working groups
+• Meteorological Department
+• Water Resources Management Authority
+• National Forest Service
+• National Bureau of Statistics
+Specialized research agencies, centres or academic institutions 
+• National Agricultural Research Institute
+• Public or private universities
+• Specialized research labs 
+• Gender and rural development research centres
+Civil society and non-profits
+• Farmer federations, cooperatives or associations
+• Youth groups, indigenous, pastoralist and forest rangers’ groups
+• Community-based organizations, women’s organizations, faith-based organizations
+Private sector
+• Producers' organizations
+• Agricultural input and consulting firms and service providers (agri-input providers, logistics, irrigation equipment/service providers, agritech firms, and so on)
+• Food processors and transformers
+• Traders (importers and exporters)
+• Retailers
+• Industry, trade or business associations and private consortia
+• Financial and microfinance institutions (MFIs), insurance companies
+• Certification bodies
+• Corporate foundations
+Intergovernmental, multilateral and bilateral development partners*
+• United Nations’ agencies
+• International/national development agencies
+• Development banks
+Other 
+Source: Author's own elaboration.
+Government ministries, departments and agencies
+Relevant actors involved in public adaptation planning and budgeting, facilitating coordinated action, collecting and storing relevant data, and mainstreaming adaptation priorities into agriculture and land use sector programmes and strategies.
+Specialized reasearch agencies, centres or academic institutions
+Relevant public or non-public actors involved in generating data and scientific evidence related to climate-associated related impacts, risks and vulnerabilities for natural resources, agriculture, and rural livelihood systems, as well as interpreting this data for adaptation. This stakeholder group may also include greenhouse gas estimate emissions experts in the agriculture, forestry and other land use sector.
+* Development partners should primarily participate as observers and not participate in the scoring component of the assessment.
+Civil society and non-profits
+Relevant non-governmental actors involved in the implementation of adaptation projects and capacity buidling initiatives.
+Private sector
+Relevant private sector actors that are exposed to climate impacts - and understand that these have business risks 
+- such as those whose operations and supply chains are directly impacted (such as water supply issues, severe weather, raw material supply security challenges), as well private sector actors interested in supplying green or climate-resilient agricultural products and services.
+Intergovernmental, multilateral and bilateral development partners
+Relevant partners (intergovernmental, multilateral or bilateral) involved in supporting country-level adaptation and NDC/
+NAP processes through coordination of capacity building, technology transfer and finance provision for adaptation, including the management of adaptation projects and programmes in the agriculture and land use sectors.
+
+[Page 27]
+UNDP–FAO Climate Action Review Tool – Assessing the transformative potential of adaptation actions in the agriculture and land-use sectors
+Table 6. 
+Illustrative example of stakeholder mapping for one of Uganda’s short-listed adaptation priorities 
+Priority number
+Stakeholder group type 
+Name of institution
+Level
+Focal person name
+Specific area of expertise/role
+Promote and encourage productive and adaptive livestock breeds 
+Government 
+Climate Change Department in 
+Ministry of Water and Environment
+National
+-
+Adaptation Officer
+Ministry of Agriculture, Animal 
+Industry and Fisheries – Directorate of Animal Resources
+National
+-
+Principle
+Specialized research agencies
+National Livestock Resources 
+Research Institute
+Subnational
+-
+Senior Researcher 
+Officer
+Civil society and non-profits
+Uganda National Farmers 
+Federation
+National
+-
+Programme Officer
+Private sector – Small and medium enterprises (SMEs)
+Karamoja Farmer Cooperative
+Subnational
+-
+Cooperative 
+Chairperson 
+Private sector - financier
+Micro-finance institution 
+Subnational
+-
+Programme Officer
+Intergovernmental, multilateral and bilateral development partners
+Food and Agriculture Organization National
+-
+Climate Change Officer
+African Development Bank
+Regional
+-
+Programme Officer
+4.4 Step 4: Assessing the transformative potential of adaptation priorities
+Step 4 entails assessing the “transformative potential” of the short-listed adaptation priorities. This involves evaluating each adaptation priority against six elements and 20 indicators of transformative climate action in the agriculture and land-use sectors (see Figure 1). The assessment may be carried out within a multistakeholder workshop setting (highly recommended), or by means of rapid desk review and key informant interviews, depending on the modality selected during the preparation phase. 
+In a workshop setting, stakeholders are divided into working groups and asked to evaluate the potential contribution of a country or institution’s current adaptation efforts and planned (or intended) adaptation efforts to each of the six elements of transformative climate action. The difference between the current and planned adaptation scenarios is equivalent to the “transformative climate action potential”.
+The working group facilitator captures both the quantitative scores and qualitative information shared by participants (for each adaptation priority assigned to the working group). Once all adaptation priorities are evaluated for their transformative potential, the coordination team is responsible for collecting the scoring sheets from each working group facilitator and entering the scores into the excel tool – refer to excel sheet titled “Step 
+4 – Assess (Working Group)”. The overall results are then automatically calculated and displayed in the excel sheet titled “Results Dashboard (Working Group)” in the form of illustrative bar and radar charts, supplemented by qualitative data, demonstrating the transformative climate action potential of each adaptation priority analysed. 
+Refer to Appendix 2 for the full working group questionnaire and Figures 7–10 for example results. 
+If, instead of organizing a workshop, the assessment is conducted by means of a desk review and series of key informant interviews, the assessment lead is responsible for scoring each adaptation priority against the six elements and 20 indicators of transformative climate action potential in the tool “Step 4 – Assess (Desk Review)” and referring to the results in the excel sheet titled “Results Dashboard (Desk Review)”.
+Source: Author's own elaboration.
+
+[Page 28]
+a. Adapt the evaluation criteria to national circumstances
+Prior to the consultative assessment, the core team has the option of adapting the evaluation criteria and indicative weights to national circumstances and priorities to ensure the assessment is context specific. 
+Alternatively, the default evaluation criteria and weights provided may be used. Refer to Appendix 2 for the list of evaluation criteria and Sheet 4 in the tool. 
+Figure 6. 
+Illustrative criteria and weights for the climate rationale evaluation criteria 
+Note: In Figure 6, the user can modify the weights of each criteria or leave the default weight (each criterion is equally weighted). 
+For example, if criterion #3 is considered less important, the user may assign “0.5” to criterion #3 and “1.25” to criteria #1 and #2. 
+Source: Author's own elaboration.
+Climate rationale
+Assign weights to the evaluation criteria (or maintain default values)
+Adapt the evaluation criteria and weights to national circumstances + + =
+Criterion #1:
+Adaptation relevance
+Non-climatic vulnerability driver responsiveness
+Mitigation co-beneﬁt contribution
+Criterion #2:
+Criterion #3:
+a.
+Who should conduct it?
+The coordination team is tasked with organizing the consultative assessment and adapting the evaluation criteria to the national circumstances. 
+How should it be conducted?
+Assessing the adaptation priorities for their transformative climate action potential may be carried out in one of two ways, depending on the time and resources available: rapid desk review and key informant interviews or a multistakeholder workshop. 
+What is the final output?
+Quantitative and qualitative analysis results for each short-listed adaptation priority in the agriculture and land-use sectors, evaluated for transformative climate action potential across six elements and 20 indicators considered. The results are displayed in the tool’s dashboard.
+Step 4: Quick Guidance
+
+[Page 29]
+UNDP–FAO Climate Action Review Tool – Assessing the transformative potential of adaptation actions in the agriculture and land-use sectors b. Score adaptation priorities against the criteria for transformative climate action potential
+In a workshop setting, small working groups are formed to assess each of the short-listed adaptation options against the six elements and 20 indicators of transformative climate action, assigning a quantitative score to both current and planned (or intended) adaptation efforts along with a qualitative justification or explanation. 
+Questionnaires are distributed to each working group, and the working group facilitators are responsible for collecting the groups’ quantitative score and qualitative justification provided for each evaluation question. 
+The facilitators then hand over the scores to the assessment lead who is responsible for inputting the scores into the dedicated sheets for each working group in the tool titled “Step 4 – Assess (Working Group)”. The tool will automatically compute the consolidated score and generate the findings in the sheet titled “Results 
+Dashboard (Working Group)”. See Figures 7–10 for examples of the results generated. 
+Note that the formation of the working groups is based on the stakeholder mapping performed in the previous step 3. 
+Table 7 presents the criteria and scoring options that stakeholders use for assessing one of the elements of transformative climate action (climate rationale) as an example. Refer to Appendix 2 for the full questionnaire and evaluation criteria.
+Table 7. 
+Evaluation criteria and scoring options for assessing the “climate rationale” of current and planned adaptation efforts 
+Current adaptation scenario
+Planned adaptation scenario
+Criterion #1: Adaptation relevance 
+To what extent do current adaptation efforts address the adverse impacts of climate hazards on people and places in the present or as projected in the future through scientifically robust models and scenarios?
+To what extent will planned adaptation efforts address the adverse impacts of climate hazards on people and places in the present or as projected in the future through scientifically robust models and scenarios?
+Scoring options (0–5):
+• No current adaptation efforts exist (0)
+• Climate impacts on people and places are not addressed (0)
+• Climate impacts on people and places are partially addressed (3)
+• Climate impacts on people and places are fully addressed (5) 
+• Not sure because robust climate impact information is not available (0)
+Criterion #2: Non-climatic drivers of vulnerability responsiveness 
+To what extent do current adaptation efforts acknowledge and address non-climatic drivers of vulnerability in the present or projected in the future through scientifically robust assessments?
+To what extent will planned adaptation efforts acknowledge and address non-climatic drivers of vulnerability in the present or projected in the future through scientifically robust assessments?
+Scoring options (0–5):
+• No current adaptation efforts exist (0)
+• Non-climatic drivers of vulnerability are not addressed (0)
+• Non-climatic drivers of vulnerability are partially addressed (3)
+• Non-climatic drivers of vulnerability are fully addressed (5) 
+• Not sure because robust vulnerability assessments are not available (0)
+• Not sure because robust climate impact information is not available (0)
+
+[Page 30]
+Criterion #3: Mitigation co-benefit contribution
+To what extent do current adaptation efforts contribute to reducing GHG emissions and/or increasing removals in the AFOLU sector as estimated by IPCC Guidelines?
+To what extent do current adaptation efforts contribute to reducing GHG emissions and/or increasing removals in the AFOLU sector as estimated by IPCC Guidelines?
+Scoring options (0–5):
+• No current adaptation efforts exist (0)
+• Insignificant or negative contribution to mitigation (0)
+• Moderate contribution to mitigation (3)
+• Significant contribution to mitigation (5) 
+• Not sure because robust vulnerability assessments are not available (0)
+
+If, instead of a workshop, a desk review and key informant interviews are conducted, the assessment lead is responsible for entering consolidated scores into the tool. Box 4 provides guidance on potential data and information sources for carrying out the desk review.
+
+Box 4. Data and information sources for climate action evaluation
+
+Desk review checklist: 
+The following data and information sources may be relevant for evaluating the transformative climate action potential of adaptation priorities in the agriculture and land use sectors:
+• 
+Climate rationale: existing climate models, foresight analysis, climate risk and vulnerability assessments, ex ante mitigation impact analysis, mitigation components of national communications and NDCs.
+• 
+Gender equality and social inclusion: existing gender analysis, gender statistics, studies related to marginalized groups (for example, women, youth, girls, Indigenous Peoples, and so on).
+• 
+Private sector engagement: existing cost–benefit analysis, private sector consultation reports, generic business model assessment studies which show business opportunity with regards to climate action, value chain analysis that integrates climate resilience or other systemic assessments. 
+• 
+Innovation: existing technology needs assessments, compendium of traditional or Indigenous People’s knowledge relevant for adaptation, innovation hub reports.
+• 
+Sustainable development: existing socioeconomic statistics, poverty maps and survey data, food security and nutrition survey data, education statistics, income and employment data, ecosystem and natural resource assessment reports.
+• 
+Whole-of-government: national and subnational policy documents, strategies, and programme documents with description of institutional arrangement, ministry websites.
+Source: Author's own elaboration.
+Source: Author's own elaboration.
+
+[Page 31]
+UNDP–FAO Climate Action Review Tool – Assessing the transformative potential of adaptation actions in the agriculture and land-use sectors d. Interpret the results and prioritize the transformative climate actions for implementation 
+The assessment results are automatically calculated based on the scores inserted into the tool. The first batch of results is displayed in bar charts (see Figure 7 and Figure 8), illustrating the transformative climate action potential of all the adaptation options evaluated, with aggregated results (for all six elements) and disaggregated results (for each element). The red bars indicate the current adaptation scenario, and the green bars indicate the planned or intended adaptation scenario. The difference between the two is the “transformative climate action potential”. 
+Against a backdrop of limited resources and competing investments (Below et al., 2016), the assessment results can assist country adaptation planners in undergoing an important prioritization process for programming and project pipeline development. The illustrative results provide a quantitative and qualitative picture – based on inputs from a wide range of key country stakeholders – of which adaptation options hold the greatest potential for transformative change in the agriculture and land-use sectors and align with the user’s (an institution’s) strategic mandate and area of interest. 
+Figure 7. 
+Transformative climate action potential of the five adaptation priorities short-listed in the agriculture and land-use sectors, by all six elements of transformative climate action 
+
+Score
+Score
+Adaptation priority n.
+Transformative potential
+Current scenario
+Transformative potential
+Planned scenario
+Source: Author's own elaboration.
+
+[Page 32]
+Figure 8. 
+Transformative climate action potential of the five adaptation priorities short-listed in the agriculture and land-use sectors, by each element of transformative climate action 
+In a workshop setting, facilitators should come prepared to facilitate a discussion around the preliminary interpretation of the results, including any trends or anomalies observed, and a set of questions to guide the discussion. The facilitator’s interpretation should be based on consideration of both the quantitative and qualitative findings and consultation with the coordination team’s wider understanding of the national context. 
+Refer to Box 5 for suggested guiding questions that the workshop facilitator can use to assist the group in interpreting the results.
+Adaptation priority n.
+Climate rationale
+Current scenario
+Planned scenario
+Transformative potential
+Score
+Adaptation priority n.
+Gender equality and social inclusion
+Current scenario
+Planned scenario
+Transformative potential
+Score
+Adaptation priority n.
+Private sector engagement
+Current scenario
+Planned scenario
+Transformative potential
+Score
+Adaptation priority n.
+Technological innovation
+Current scenario
+Planned scenario
+Transformative potential
+Score
+Adaptation priority n.
+Sustainable development
+Current scenario
+Planned scenario
+Transformative potential
+Score
+Adaptation priority n.
+Whole-of-government
+Current scenario
+Planned scenario
+Transformative potential
+Score
+Source: Author's own elaboration.
+
+[Page 33]
+UNDP–FAO Climate Action Review Tool – Assessing the transformative potential of adaptation actions in the agriculture and land-use sectors
+Box 5. Interpreting and validating results process
+
+How to interpret and validate the results? 
+1. Present the aggregated bar chart results for all adaptation options reviewed (Figure 7 and Figure 
+8) to get an overview of the findings and discuss stakeholder views and interpretations based on their relative knowledge and experience. Potential discussion questions:
+• 
+Do stakeholders largely agree with the results? Are there any differences in opinion? Why?
+• 
+Which adaptation options have the strongest transformative potential? Which have the weakest? 
+Why?
+2. Present the disaggregated bar chart results for all adaptation options reviewed (Figure 7 and 
+Figure 8). 
+• 
+Which elements of transformative climate action are the strongest or weakest? Which trends are emerging?
+3. Present the aggregated and disaggregated radar charts for particular adaption options of interest based on the discussion (Figure 9 and Figure 10). 
+• 
+In groups or in plenary, request stakeholders to prioritize one to three adaptation options and draft written justifications for how “future” or “intended” transformative implementation approach would contribute to transformative change in agriculture.
+• 
+The coordination team will take the justifications into consideration while prioritizing the transformative climate actions to be taken forward in step 5 for implementation.
+• 
+A written summary of the stakeholder justifications and coordination team’s final prioritization of climate actions to be taken forward will be presented in the last session.
+Ultimately, this session will allow the lead institution to prioritize one or several adaptation priorities to be taken forward for implementation. Once prioritized, radar charts are automatically generated for each adaptation option prioritized (see example in Figure 9), with both aggregate (six elements) and disaggregate results (20 indicators). See Figure 9 and Figure 10 for example aggregate and disaggregate results.
+In a workshop setting, facilitators should come prepared to facilitate a discussion around the preliminary interpretation of the results, including any trends or anomalies observed, and a set of questions to guide the discussion. The facilitator’s interpretation should be based on consideration of both the quantitative and qualitative findings and consultation with the coordination team’s wider understanding of the national context. 
+Refer to Box 5 for suggested guiding questions that the workshop facilitator can use to assist the group in interpreting the results.
+Source: Author's own elaboration.
+
+[Page 34]
+Figure 9. 
+Illustrative example of the transformative climate action potential of Uganda’s adaptation priority 1, by all six elements of transformative climate action 
+Figure 10. Illustrative example of the transformative climate action potential of Uganda’s adaptation option 1, by all six elements and 20 indicators of transformative climate action 
+Climate rationale
+Gender equality and social inclusion
+Private sector engagement
+Technological innovation
+Sustainable development
+Whole-of-government
+Adaptation relevance
+Gender equality and/or women’s empowerment contribution
+Enabling environment for gender equality and social inclusion
+Promotion of traditional knowledge and indigenous people
+Public sector de-risking
+Climate risk responsiveness
+Financial potential
+Barriers to private sector investment
+Policy coherence
+Budget sufﬁciency
+Multistakeholder collaboration
+Crosssectoral coordination
+Economic development contribution
+Environmental development contribution
+Social development contribution
+Innovativeness of technological solutions
+Enabling environment for innovation
+Catalytic potential
+Mitigation co-beneﬁt contribution
+Non-climatic vulnerability driver responsiveness
+Current scenario
+Planned scenario
+Current scenario
+Planned scenario
+Current scenario
+Planned scenario
+Current scenario
+Planned scenario
+Current scenario
+Planned scenario
+Current scenario
+Planned scenario
+Source: Author's own elaboration.
+Transformative implementation potentia of adaptation option 1
+Whole-ofgovernment
+Gender equality and social inclusion
+Private sector engagement
+Sustainable development
+Technological innovation
+Climate rationale
+Current scenario
+Planned scenario
+Source: Author's own elaboration.
+
+[Page 35]
+UNDP–FAO Climate Action Review Tool – Assessing the transformative potential of adaptation actions in the agriculture and land-use sectors
+4.5 Step 5: Implementing the transformative climate actions prioritized
+Step 5 involves developing an actionable roadmap for implementing and incentivizing investment in transformative climate action in the agriculture and land use sectors. This final step also entails documenting and disseminating the results to target audiences, including policymakers, project developers or donors.
+a. Develop an actionable roadmap for implementation
+The final session entails developing an actionable roadmap for implementation of the transformative climate actions prioritized. The results can assist adaptation planners to undergo an important prioritization process for programming and NDC/NAP climate action project pipeline development. The illustrative results provide a quantitative and qualitative picture – based on inputs from a wide range of key stakeholders – of which adaptation options hold the greatest potential for transformative change in the agriculture and land-use sectors and are aligned with the lead institution’s strategic mandate and area of interest.
+In a workshop setting, the facilitator can guide a discussion around the following questions:
+ À What are the next steps for programming or project pipeline development? À
+Who is responsible for each step and what are the main milestones?
+ À Who is coordinating the process?
+ À
+Which finance opportunities exist?
+ À
+Which partners should be engaged?
+ À
+How can the project build on or scale up existing adaptation initiatives?
+Who should conduct it?
+The coordination team is responsible for developing an actionable roadmap for implementing the transformative climate actions prioritized together with key stakeholders.
+How should it be conducted?
+Developing a roadmap for implementation involves consultation with key stakeholders within a workshop setting or bilaterally.
+What is the final output?
+An actionable roadmap for transformative climate action in agriculture and land use, which serves as a key resource for project development and finance mobilization. The results are packaged into a report for dissemination to target audiences including policymakers, project developers or donors. 
+Step 5: Quick Guidance
+
+[Page 36]
+Table 8. 
+Actionable roadmap for transformative climate action in the agriculture and land-use sectors 
+Concrete actions for programming and/or project pipeline development
+Responsible person or institution
+Timeline
+Adaptation priority #1: b. Document and disseminate results 
+A final report can serve as an important communications instrument for sharing evidence on where opportunities for unlocking transformative climate action and investment in agriculture and land use exist. 
+Target audiences may include project developers, donors or policymakers and the final report should be tailored to their specific needs or interests. 
+In general, it is recommended that the final report includes the following information areas:
+1. 
+Climate change and agriculture sector policy context (such as NDC, NAP, and so on).
+2. 
+Transformative climate actions prioritized for implementation:
+ À Description of the multistakeholder consultative assessment and prioritization process.
+ À Description of the CAR analysis results demonstrating how the climate actions prioritized will contribute to transformative change in the agriculture and land-use sectors. This includes both the quantitative results – bar charts, radar charts – and qualitative results based on documentation of stakeholder justifications.
+3. 
+Actionable roadmap for implementation.
+ 
+Source: Author's own elaboration.
+
+[Page 37]
+UNDP–FAO Climate Action Review Tool – Assessing the transformative potential of adaptation actions in the agriculture and land-use sectors
+
+[Page 38]
+References
+Below, T., Buenner, N., Anu, J., Jennifer, S., Nadine, C. & John, F. 2016. SNAP: Stocktaking for National 
+Adaptation Planning. Assessing Capacity for Implementing NDC. Deutsche Gesellschaft für Internationale giz_snap_EN_v161114.pdf 
+Campbell, B. 2022. Climate change impacts and adaptation options in the agrifood system. Rome, Food and Agriculture Organization of the United Nations. https://doi.org/10.4060/cc0425en
+Carter, R., Ferdinand, T. & Chan, C. 2018. Transforming Agriculture for Climate Resilience: A Framework systemic-change
+CCAFS. 2020. Actions to Transform Food Systems Under Climate Change. CGIAR Research Program on 
+Climate Change, Agriculture and Food Security. https://cgspace.cgiar.org/server/api/core/bitstreams/ cc13c9f3-f6d7-4f1e-89ce-c9e5207191c5/content 
+CDKN. 2016. Planning for NDC implementation: A Quick-Start Guide. https://ndc-guide.cdkn.org/wp-content/ uploads/2021/08/Quick-Start-Guide-Final-2016.pdf
+Cooke, K., Gogoi, E. & Petrarulo, L. 2018. Overcoming the NDC implementation gap. lessons from today-act/ndc-gap.pdf?noredirect=1
+Crumpler, K., Abi Khalil, R., Tanganelli, E., Rai, N., Roffredi, L., Meybeck, A., Umulisa, V., Wolf, J. & Bernoux, M. 2021. 2021 (Interim) Global update report: Agriculture, Forestry and Fisheries in the 
+Nationally Determined Contributions. Rome, FAO. https://doi.org/10.4060/cb7442en 
+FAO. 2016. The State of Food and Agriculture: Climate change, agriculture and food security. Rome, Food 
+FAO. 2017. The State of Food and Agriculture: Climate change, agriculture and food security. Rome, Food 
+FAO. 2018. Promoting gender-responsive adaptation in the agriculture sectors: Entry points within National 
+FAO. 2022a. Scaling up Climate Ambition on Land Use and Agriculture through Nationally Determined 
+Contributions and National Adaptation Plans (SCALA). How to advocate for gender equality in the for-gender-equality-in-the-response-to-climate-action/en
+Feola, G. 2015. Societal transformation in response to global environmental change: A review of emerging concepts. Ambio, 44(5): 376–390. https://doi.org/10.1007/s13280-014-0582-z
+Few, R., Morchain, D., Spear, D., Mensah, A. & Bendapudi, R. 2017. Transformation, adaptation and development: relating concepts to practice. Palgrave Communications, 3(1): 1–9. https://doi.org/10.1057/ palcomms.2017.92
+GCF. 2020a. Enhancing the climate rational for GCF Proposals. https://climateanalytics.org/media/ enhancing_the_climate_rationale_in_gcf_proposals_final_03.30.2020.pdf#:~:text=This%20briefing%20 outlines%20what%20the%20climate%20rationale%20in,to%20human%20wellbeing%20Emission%20 trajectories%20for%20mitigation%20projects
+
+[Page 39]
+UNDP–FAO Climate Action Review Tool – Assessing the transformative potential of adaptation actions in the agriculture and land-use sectors document/gcf-b33-05.pdf documents/2022-03/GEF_R.08_28_GEF8_Strategic_Positioning_Framework.pdf
+HLPE. 2020. Food security and nutrition: building a global narrative towards 2030. A report by the High Level 
+Panel of Experts on Food Security and Nutrition of the Committee on World Food Security, Rome. https://
+IIED. 2019. Framing and tracking 21st century climate adaptation. IIED. https://pubs.iied.org/10202IIED
+IPCC. 2014. Climate Change 2014: Impacts, Adaptation, and Vulnerability. Part B: Regional Aspects. 
+Contribution of Working Group II to the Fifth Assessment Report of the Intergovernmental Panel on 
+Climate Change. C.B. Field, V.R. Barros, D.J. Dokken, K.J. Mach, M.D. Mastrandrea, T.E. Bilir, M. 
+Chatterjee, K.L. Ebi, Y.. O. Estrada, R.C. Genova, B. Girma, E.S. Kissel, A.N. Levy, S. MacCracken, 
+P.R. Mastrandrea & L.L. White, eds. Cambridge, United Kingdom, and New York, NY, USA, Cambridge 
+IPCC. 2018a. Annex I: Glossary. [Matthews, R. (ed.)] In: Global Warming of 1.5°C. An IPCC Special Report on the Impacts of Global Warming of 1.5 °C Above Pre-Industrial Levels and Related Global Greenhouse 
+Gas Emission Pathways, in the Context of Strengthening the Global Response to the Threat of Climate 
+Change, Sustainable Development, and Efforts to Eradicate Poverty. Cambridge University Press, 
+Cambridge, UK, and New York, NY, US. 
+IPCC. 2018b. Global Warming of 1.5 °C. An IPCC Special Report on the impacts of global warming of 1.5 °C above pre-industrial levels and related global greenhouse gas emission pathways, in the context of strengthening the global response to the threat of climate change, sustainable development, and efforts uploads/sites/2/2019/06/SR15_Full_Report_High_Res.pdf
+IPCC. 2019. Special Report on Climate Change and Land. Geneva, Intergovernmental Panel on Climate 
+IPCC. 2022a. Climate Change 2022: Impacts, Adaptation and Vulnerability. In: H.-O. Pörtner, D.C. Roberts, 
+M. Tignor, E.S. Poloczanska, K. Mintenbeck, A. Alegría, M. Craig, et al., eds. Contribution of Working 
+Group II to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change.
+IPCC. 2022b. Global Warming of 1.5°C: IPCC Special Report on Impacts of Global Warming of 1.5°C above Pre-industrial Levels in Context of Strengthening Response to Climate Change, Sustainable 
+Development, and Efforts to Eradicate Poverty. First edition. Cambridge University Press. https://doi.
+org/10.1017/978100915794z 
+Klein, R.J.T., G.F. Midgley, B.L. Preston, M. Alam, F.G.H. Berkhout, K. Dow & Shaw, M.R. 2014. 
+Adaptation opportunities, constraints, and limits. Climate Change 2014: Impacts, Adaptation, and 
+Vulnerability. Part A: Global and Sectoral Aspects. Contribution of Working Group II to the Fifth 
+Assessment Report of the Intergovernmental Panel of Climate Change. 
+Least Developed Countries Expert Group. 2012. Technical guidelines for the national adaptation plan process. https://unfccc.int/files/adaptation/cancun_adaptation_framework/application/pdf/ naptechguidelines_eng_high__res.pdf
+Least Developed Countries Expert Group. 2023. Technical guidelines for the implementation of NAPs. 
+Presentation at NAP Expo, 2023, Chile. https://napexpo.org/2023/wp-content/uploads/2023/03/2.4.1Technical-guidelines-for-the-implementation-of-NAPs.pdf
+
+[Page 40]
+Lonsdale, K., Pringle, P. & Turner, B. 2015. Transformative adaptation: what it is, why it matters and what is needed. UK Climate Impacts Programme, University of Oxford. https://ora.ox.ac.uk/objects/ uuid:40000abd-74a0-4a3e-8e73-34374852474c/download_file?file_format=application%2Fpdf&safe_ filename=UKCIP-transformational-adaptation-final.pdf&type_of_work=Report 
+OECD. undated. Private Sector Engagement to Address Climate Change and Promote Green Growth. 
+Sector-Engagement-to-Address-Climate-Change-and-Promote-Green-Growth.pdf
+Park, S., Marshall, N., Jakku, E., Dowd, A., Howden, S., Mendham, E. & Fleming, A. 2012. Informing adaptation responses to climate change through theories of transformation. Global Environmental 
+Change, 22: 115–126. https://doi.org/10.1016/j.gloenvcha.2011.10.003
+Rickards, L. & Howden, S. 2012. Transformational adaptation: Agriculture and climate change. Crop and 
+Pasture Science, 63: 240. https://doi.org/10.1071/CP11172
+Tubiello, F.N., Karl, K., Flammini, A., Gütschow, J., Obli-Laryea, G., Conchedda, G., Pan, X. et al. 2022. 
+Pre- and post-production processes increasingly dominate greenhouse gas emissions from agri-food systems. Earth System Science Data, 14(4): 1795–1809. https://doi.org/10.5194/essd-14-1795-2022
+UNDP. 2017. Gender Equality in National Climate Action: Planning for Gender-Responsive Nationally planning-gender-responsive-nationally-determined-contributions default/files/resources/scala_gender_strategy_adjusted15.pdf default/files/resources/scala_private_sector_strategy.pdf
+UNFCCC. 2017. Information on the activities of the Technology Executive Committee and the 
+Climate Technology Centre and Network relevant to the elaboration of the technology framework. 
+FCCC/SBSTA/2017/INF.5. https://unfccc.int/ttclear/misc_/StaticFiles/gnwoerk_static/NAD_SUB/ ec1abb5d5f4d4f8687d89156a33274f3/3ee256bf1b654eb7967c36e62a6d7859.pdf 
+UNFCCC. 2020. Fourth synthesis of technology needs identified by Parties not included in Annex I to the 
+Convention. FCCC/SBI/2020/INF.1. https://unfccc.int/sites/default/files/resource/sbi2020_inf.01.pdfhttps:// unfccc.int/sites/default/files/resource/sbi2020_inf.01.pdf
+WMO. 2022. Developing the Climate Science Information for Climate Action. https://library.wmo.int/ viewer/53280?medianame=1287_en_#page=1&viewer=picture&o=bookmarks&n=0&q= 
+WRI. 2018. Transforming Agriculture for Climate Resilience: A Framework for Systemic Change. WRI. https://
+WRI & GIZ. 2018. Connecting the Dots: Elements for a Joined-Up Implementation of the 2030 Agenda and agenda-and-paris-agreement
+
+[Page 41]
+UNDP–FAO Climate Action Review Tool – Assessing the transformative potential of adaptation actions in the agriculture and land-use sectors
+
+[Page 42]
+Appendix
+Appendix 1. Example workshop agenda 
+The recommended modality for conducting the participatory assessment is a two-day multistakeholder workshop. Table A1 presents an example workshop agenda.
+Table A1. Evaluation criteria and scoring rubric questionnaire
+Session
+Description
+Session materials
+Resource person
+Day 1
+Session 1: 
+Introduction and overview of the policy context for adaptation in the agriculture and land-use sectors
+The assessment lead introduces the purpose of the workshop and provides background on the adaptation in agriculture and land-use policy context (for example NDC/NAP). 
+• PowerPoint slides.
+Assessment lead.
+Session 2: 
+Participatory assessment of transformative climate action potential 
+Small working groups are established to carry out the assessment through participatory methods. Scores may be recorded individually (and then averaged) or decided upon collectively as a group. 
+• Questionnaires are printed and distributed to working group facilitators who are responsible for recording both the quantitative scores and qualitative justifications. 
+Refer to the excel tool sheets titled “Step 4-Assess (Working Group 1–5)” for the questionnaires.
+Working group facilitators (previously trained on how to apply the tool).
+Assessment lead responsible for inputting the working group scores into the excel tool sheets titled “Step 4-Assess (Working Group 1–5)”.
+Day 2
+Session 3: 
+Presentation and multistakeholder validation of results
+The facilitator presents the results, and the stakeholders share their interpretation. Based on the results, the adaptation options with the greatest transformative climate action potential are prioritized for implementation and validated.
+• PowerPoint slides with results from the excel sheet titled “Results Dashboard”.
+Working group facilitators. 
+Assessment lead responsible for prioritization.
+Session 4: 
+Transformative climate action roadmap development 
+The facilitator conducts a session to co-develop an actionable roadmap for implementing the transformative climate action(s) prioritized. 
+• Template for roadmap 
+• Template for final report.
+Assessment lead.
+Source: Author's own elaboration.
+
+[Page 43]
+UNDP–FAO Climate Action Review Tool – Assessing the transformative potential of adaptation actions in the agriculture and land-use sectors
+Appendix 2. Questionnaire with evaluation criteria and scoring rubric 
+Table A2. Example workshop agenda for the participatory assessment
+Element
+Indicator
+Question (Current scenario)
+Question (Planned Scenario)
+Description
+Score
+All 
+Current scenario only n/a
+Not relevant (adaptation option is a new priority)
+No current adaptation efforts exist
+Climate rationale 
+Adaptation relevance 
+To what extent do current adaptation efforts address the adverse impacts of climate hazards on people and places in the present or as projected in the future through scientifically robust models and scenarios?
+To what extent will planned adaptation efforts address the adverse impacts of climate hazards on people and places in the present or as projected in the future through scientifically robust models and scenarios?
+Climate impacts on people and places are not addressed
+Climate impacts on people and places are partially addressed
+Climate impacts on people and places are fully addressed
+Not sure because robust climate impact information is not available 
+Non-climatic vulnerability driver responsiveness
+To what extent do current adaptation efforts acknowledge and address nonclimatic drivers of vulnerability in the present or projected in the future through scientifically robust assessments?
+To what extent will planned adaptation efforts acknowledge and address nonclimatic drivers of vulnerability in the present or projected in the future through scientifically robust assessments?
+Non-climatic drivers of vulnerability are not addressed
+Non-climatic drivers of vulnerability are partially addressed
+Non-climatic drivers of vulnerability are fully addressed
+Not sure because robust vulnerability assessments are not available
+Mitigation co-benefit contribution
+To what extent do current adaptation efforts contribute to reducing GHG emissions and/or increasing removals in the AFOLU sector as estimated by IPCC 
+Guidelines?
+To what extent will planned adaptation efforts contribute to reducing GHG emissions and/or increasing removals in the AFOLU sector as estimated by 
+IPCC Guidelines?
+Insignificant or negative contribution to mitigation
+Moderate contribution to mitigation
+Significant contribution to mitigation
+Not sure because robust mitigation impact estimates are not available
+Gender and social inclusion
+Gender equality and/or women’s empowerment (GEWE) contribution
+To what extent do current adaptation actions address gender equality and/or women’s empowerment? 
+To what extent will planned adaptation actions address gender equality and/or women’s empowerment? 
+GEWE is not relevant because there is no human or social dimension
+GEWE is not addressed
+GEWE is partially addressed
+GEWE is systematically addressed and/or is the main objective
+
+[Page 44]
+Indicator
+Question (Current scenario)
+Question (Planned Scenario)
+Description
+Score
+Gender and social inclusion
+Promotion of traditional knowledge and 
+Indigenous 
+Peoples (TKIP)
+To what extent do current adaptation actions promote traditional and 
+Indigenous Peoples' knowledge systems? 
+To what extent will planned adaptation efforts promote traditional and 
+Indigenous Peoples' knowledge systems? 
+No promotion of TKIP
+Partial promotion of TKIP
+Strong promotion of TKIP
+Enabling environment for gender equality and social inclusion (GSI)
+To what extent do current adaptation efforts promote the leadership potential of different groups of men and women and reduce barriers to participation in decision-making? 
+To what extent will planned adaptation efforts promote the leadership potential of different groups of men and women and reduce barriers to participation in decision-making? 
+No contribution to enabling environment for GSI 
+Moderate contribution to enabling environment for GSI 
+Significant contribution to enabling environment for GSI 
+Private sector engagement
+Climate risk responsiveness
+To what extent do current adaptation efforts address climate risks to which agri-businesses are exposed? 
+To what extent will planned adaptation efforts address climate risks to which agri-businesses are exposed? 
+Inadequately addresses climate risks
+Partially addresses climate risks
+Adequately addresses climate risks
+Financial potential 
+What is the financial potential of current adaptation efforts?
+What is the financial potential of planned adaptation efforts?
+Poor financial potential
+Moderate financial potential
+High financial potential
+Barriers to private sector investment 
+To what extent are barriers (such as regulatory, institutional/ political, technological and market) hindering private sector investment in current adaptation efforts? 
+To what extent will barriers (such as regulatory, institutional/political, technological and market) hinder private sector investment in planned adaptation efforts?
+Barriers significantly hinder private sector investment
+Barriers moderately hinder private sector investment
+Barriers do not significantly hinder private sector investment
+Public sector derisking
+To what extent is public sector currently providing de-risking support to adaptation efforts?
+To what extent can/ will public sector provide de-risking support to planned adaptation efforts?
+No provision of public de-risking support to private sector
+Moderate public de-risking support to private sector
+Signficant public de-risking support to private sector
+Sustainable development
+Innovativeness of technological solutions
+To what extent do current adaptation efforts promote technological innovation, including those that draw upon traditional knowledge and expertise for managing climate risks?
+To what extent will planned adaptation efforts promote technological innovation, including those that draw upon traditional knowledge and expertise for managing climate risks?
+No innovative solutions
+Moderately innovative solutions
+Highly innovative solutions
+
+[Page 45]
+UNDP–FAO Climate Action Review Tool – Assessing the transformative potential of adaptation actions in the agriculture and land-use sectors
+Element
+Indicator
+Question (Current scenario)
+Question (Planned Scenario)
+Description
+Score
+Sustainable development
+Enabling environment for innovation
+To what extent do current adaptation efforts effectively provide capacity building or financial support to enable the adoption of innovative technologies? 
+To what extent will planned adaptation efforts effectively provide capacity building or financial support to enable the adoption of innovative technologies? 
+No contribution to enabling environment for innovation
+Moderate contribution to enabling environment for innovation 
+Significant contribution to enabling environment for innovation 
+Catalytic potential
+To what extent do current adaptation efforts promote the development and dissemination of technological innovations on a larger or wider scale? 
+To what extent will planned adaptation efforts promote the development and dissemination of technological innovations on a larger or wider scale? 
+No catalytic potential
+Moderate catalytic potential 
+High catalytic potential 
+Social development contribution
+To what extent do current adaptation efforts contribute to sustainable social development outcomes (such as food security and nutrition, reduced inequalities, better health and well-being, education)? 
+To what extent will planned adaptation efforts contribute to sustainable social development outcomes (such as food security and nutrition, reduced inequalities, better health and wellbeing, education)? 
+Significant contribution
+Moderate contribution 
+Limited or negative contribution
+Economic development contribution
+To what extent do current adaptation efforts contribute to sustainable economic development outcomes (such as employment generation, income diversification)? 
+To what extent will planned adaptation efforts contribute to sustainable economic development outcomes (such as employment generation, income diversification)? 
+Significant contribution
+Moderate contribution 
+Limited or negative contribution
+Environmental development contribution 
+To what extent do current adaptation efforts contribute to sustainable environmental development outcomes (such as biodiversity conservation)? 
+To what extent will planned adaptation efforts contribute to sustainable environmental development outcomes (such as biodiversity conservation)? 
+Significant contribution
+Moderate contribution
+Limited or negative contribution
+Whole-ofgovernment
+Policy coherence To what extent do current governance processes ensure integration of the selected adaptation priority into national and subnational policies?
+To what extent will planned institution building activities ensure integration of the selected adaptation priority into national and subnational policies?
+Strong policy coherence
+Partial policy coherence
+No policy coherence
+
+[Page 46]
+Source: Author's own elaboration.
+Element
+Indicator
+Question (Current scenario)
+Question (Planned Scenario)
+Description
+Score
+Whole-ofgovernment
+Cross-sectoral coordination
+To what extent do current governance arrangements allow for coordinated planning and implementation of the selected adaptation priority across sectors and at different levels of government?
+To what extent will planned institution building activities promote coordinated planning and implementation of the selected adaptation priority across sectors and at different levels of government?
+Strong coordination
+Partial coordination
+No coordination
+Multistakeholder collaboration
+To what extent do current governance processes promote multistakeholder dialogue and collaboration mechanisms to strengthen the effectiveness of planning and implementation of the selected adaptation priority in agriculture?
+To what extent will planned governance processes promote multistakeholder dialogue and collaboration mechanisms to strengthen the effectiveness of planning and implementation of the selected adaptation priority in agriculture?
+Strong multistakeholder collaboration
+Partial multistakeholder collaboration
+No multistakeholder collaboration
+Budget sufficiency
+To what extent is the national and subnational budget sufficient to implement the selected adaptation priority in agriculture? 
+To what extent will planned climate change budgeting or resource mobilization activities generate sufficient budget to implement the selected adaptation priority in agriculture? 
+Sufficient budget
+Partially sufficient budget
+Insufficient budget
+Not relevant (adaptation option is a new priority)
+
+[Page 47]
+The UNDP–FAO Climate Action Review (CAR) Tool unlocks transformative climate action in agriculture and land use by building a bridge between planning and implementation. 
+Offering a step-by-step approach, the CAR Tool supports the identification of entry points in nationally determined contributions (NDCs) and National Adaptation Plans (NAPs) that present opportunities for transformative interventions in the agriculture and land-use sectors. Adaptable and participatory, the tool facilitates the assessment of planned adaptation efforts across six elements and 20 indicators, fostering ownership and buy-in among stakeholders. It enables ongoing monitoring and evaluation, strengthening governance and steering projects towards resilience. Ultimately, the CAR Tool plays an important role in evidence-based decision-making and resource mobilization, facilitating communication and supporting a sustainable future.
+Food and Agriculture Organization of the United Nations
+United Nations 
+Development Programme
+International Climate Initiative (IKI) 
+German Federal Ministry for the 
+Environment, Nature Conservation, Nuclear 
+Safety and Consumer Protection (BMUV)
+CD0260EN/1/04.24
+ISBN 978-92-5-138684-2
+7 8 9 2 5 1
+3 8 6 8 4 2

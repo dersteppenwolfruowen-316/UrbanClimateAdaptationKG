@@ -1,0 +1,993 @@
+[Page 1]
+URBAN RESILIENCE 
+TECHNICAL GUIDANCE 
+April 2023
+
+[Page 2]
+Mandaue City Cebu, Philippines | Photo credit: Mark Linel Padecio
+
+[Page 3]
+This technical guidance was developed through an extensive process of research and consultation led by a cross-sectoral team of USAID staff from the bureaus for Development, Democracy and 
+Innovation (DDI), Resilience and Food Security (RFS), Global Health, and Asia region, including the 
+Green Cities Team and Center for Democracy, Human Rights and Governance (DRG Center). The process included input and consultations with the USAID Urban Resilience Working Group, as well as interviews with more than 50 USAID staff from Missions in the Asia, Africa, Latin America & 
+Caribbean (LAC) and Middle East & North Africa (MENA) regions, and DC-based regional bureaus and technical operating units. This was supplemented by a review of relevant USAID documents, the salient academic literature, and the gray literature from key organizations such as the IPCC, World Bank, and other development actors. As USAID engages in this space, we hope to learn and improve on this technical guidance. 
+The technical guidance was prepared under USAID’s Communications, Evidence, and Learning (CEL) Project led by the Training Resources Group, Inc. (TRG) in partnership with the Urban 
+Institute.
+
+[Page 5]
+EXECUTIVE SUMMARY 
+USAID defines resilience as the ability of people, households, communities, cities, countries, and systems to mitigate, adapt to, and recover from shocks and stresses in a manner that reduces chronic vulnerability and facilitates inclusive growth. The USAID Urban Resilience Technical 
+Guidance aims to help staff better understand urban resilience and provides evidence-based, practical guidance on how it can be applied to Agency programming. Cities in USAID partner countries face increasingly intense and complex shocks and stresses, with causes and impacts that cut across traditional programming areas. Fortunately, there are opportunities to integrate approaches and actions into USAID programming that will bolster the resilience of communities, cities and countries while also improving outcomes in water, food security, economic growth, health, social cohesion and protection, education, climate change, and disaster risk reduction, among others. To support this work, this technical guidance provides: ● The case for urban resilience and a summary of the global evidence base; ● An overview of approaches USAID can use to advance urban resilience, including a set of building blocks to support integrating urban resilience in programming; ● Key questions to inform the design of interventions, including assessing risks and assets, and identifying opportunities for integration with related programming; ● Urban Resilience Sector Guides for governance, health, and power that offer recommendations to help staff apply an “urban resilience lens” to program design in these sectors. 
+USAID can improve development outcomes by strengthening urban resilience. 
+Through this approach USAID can guard against risks and help capture and safeguard the benefits of urbanization, especially for the most vulnerable. Concepts from this technical guidance can be applied to focused sector programming as well as integrated programming across sectors. 
+Haiti | Photo credit: U.S. Department of State
+
+[Page 6]
+The Urban Resilience Technical Guidance supports the implementation of USAID’s 
+Resilience Policy1 that has the goal to protect and improve human well-being, despite shocks and stresses, everywhere 
+USAID works, especially in areas of recurrent crises, while reducing dependence on humanitarian assistance. 
+The Urban Resilience Technical Guidance also supports and complements key USAID priorities outlined in the USAID Climate 
+Strategy, the retired Urban Policy, Local 
+Capacity Development Policy (currently in draft), Environment and Natural Resources 
+Management (ENRM) Framework, and other related guidance. These priorities include, for example, a focus on equity and inclusion, a central role for local actors in development processes, democracy, conserving and restoring natural capital, and the importance of taking a systems-based approach. 
+MAIN ELEMENTS OF THE TECHNICAL GUIDANCE 
+THE CASE FOR URBAN RESILIENCE 
+More than half the world’s population already lives in cities. By 2030, urban populations will amass 
+60% of the global population and urban areas will increase by 1.2 million km2. By 2050, the urban population will comprise 75% of the world’s population. While rapid urbanization benefits billions through greater economic opportunity and access to services, hazards and risks are also growing. A changing climate, disasters, and other shocks and stresses2 such as pandemics, conflict, and income inequality are increasingly disrupting the livelihoods, health, housing, communities, and quality of life of urban residents. 
+1 A revised USAID Resilience Policy is currently under development. 
+2 United Nations, 2018. 
+Urban resilience refers to the ability of urban systems to mitigate, adapt to, and recover from shocks and stressors in a manner that reduces chronic vulnerability while positively transforming towards sustainable, equitable, and inclusive development. 
+Urban systems include people, communities, infrastructure, the natural environment, and cultures, norms, and policies in cities and towns. 
+Shocks and stresses include those from climate change as well as other sources such as rapid urbanization or conflict.
+
+[Page 7]
+Strengthening urban resilience can help cities address today’s problems while embedding a longterm vision that anticipates future risks so cities and their inhabitants can mitigate, adapt to, and recover from shocks and stresses. Urban resilience approaches enable achievement of a range of development outcomes by focusing on strengthening and better integrating urban systems, which include communities, infrastructure, the natural environment, cultures, norms, and policies. 
+Resilient cities meaningfully integrate citizen engagement and draw on resources and assets across sectors to be better prepared to handle changing conditions affecting people, the economy, and the environment. Urban resilience goes beyond supporting cities in maintaining basic services (i.e., to simply stay afloat); and rather empowers cities to identify and address risks and chronic stresses so that people and systems can more rapidly and equitably recover from disasters and prepare for future risks. 
+USAID staff and partners can maximize cross-sector development outcomes by designing and managing programs that consider the risk profile that urban populations face and strengthening resilience to such challenges. 
+Yangon, Myanmar | Photo credit: Richard Nyberg/USAID
+
+[Page 8]
+BUILDING BLOCKS 
+Cross-cutting approaches to strengthen the resilience of urban systems are represented in five building blocks. 
+1. Inclusive Planning: Planning for resilience necessitates inclusive, democratic, equitable, evidence-based processes that account for future risk. USAID should assist cities in formulating evidence-based plans and actions, in consultation with relevant communities, that holistically address past and future shocks and stresses. 
+2. Governance: Strengthening urban governance is central to the effective and inclusive delivery of basic services during and after shocks and stresses. This includes strengthening the capacity of cities to improve and enforce land use, zoning and other plans and regulations; improving community engagement; strengthening communication, transparency and accountability; and aligning across the diverse actors and levels (national/subnational) that contribute to urban governance. USAID is well-positioned to help strengthen local governance systems in support of urban resilience. 
+3. Finance: Actions to build resilience often require far more financial resources than city governments can mobilize on their own. USAID should assist with strengthening the financial management capacity (e.g., resource mobilization and use, development of blended finance solutions) of cities and help them unlock financial capital for the physical and social infrastructure needed to support resilience. USAID should also support efforts to increase access to finance at the household level. 
+4. Social Capital: The networks of relationships and bonds within and across individuals, communities and institutions enable societies to function effectively. USAID should examine what relationships are important for leveraging social capital in the face of stresses and shocks, and identify relationships that could be strengthened to increase social capital, especially those that promote diverse groups of community members working together and helping each other when crisis hits. 
+5. Natural Capital: Restore and protect the natural systems that can contribute to resilience. Natural capital and environmental assets—including open space, forests, biodiversity, and wetlands, both inside and outside of the city’s boundaries— can provide protection from shocks and stresses. USAID should promote the use of nature-based solutions to improve resilience, including urban green infrastructure.
+
+[Page 9]
+While many interventions to strengthen urban resilience take place with municipalities and other institutions, a city is only as resilient as its people, households and communities. Efforts to strengthen urban resilience, therefore, should aim to achieve results at the individual, household and community levels and tracking results at these levels will be important to gauging progress. 
+QUESTIONS AND ILLUSTRATIVE ACTIVITIES 
+This technical guidance also provides key questions for USAID staff and partners to use when developing customized local program design and implementation strategies. These questions help guide users to identify risks and assets, key actors and capacities, levers of change, and integration opportunities. For example: 
+Resilience to what? ● What are the physical, financial, social, and natural assets (including services) of the identified intervention area? Are there urban-rural linkages (i.e., commuting, food or other supply chains, watersheds, ecozones) that should be considered? ● What are the primary shocks that could threaten these assets, whether natural or humancaused? (e.g., flooding, extreme heat, sprawl, conflict, etc.) ● What are the chronic stresses that threaten urban resilience? (e.g., income inequality, lack of reliable energy, air pollution, underdeveloped transportation or communications networks)? ● Which physical, financial, social, and natural assets, and which populations, are most at risk? 
+What specific considerations are required for people, places, and things in vulnerable situations? ● Where do development challenges, including stresses and shocks, converge? (This can increase the likelihood that investments cut across sectors and yield co-benefits). 
+Resilience for whom? ● How can interventions be designed to enhance the resilience of urban systems, including individuals, households, communities, and institutions? ● What are the unique needs of populations who are marginalized and in vulnerable situations? 
+Resilience through what? ● What governance capacity exists in the potential intervention area (i.e., national, provincial, local)? ● What institutions have the authority to make the necessary decisions? Who are the key stakeholders and what capacity exists outside of government structures? (e.g., private sector, citizen associations). ● What are the sector- or system-level power dynamics and incentives among local actors? (See Thinking and Working Politically through Applied Political Economy Analysis). 
+Resilience to what end? ● What does success look like? How will urban resilience be measured? ● By whom and with what resources are those outcomes to be achieved?
+
+[Page 10]
+SECTOR GUIDES 
+Sector-based programming can be strengthened when that programming also advances urban resilience. Three sector guides are available: ● Health ● Governance ● Power 
+Each guide identifies linkages, challenges, and opportunities related to urban resilience programming in the sector, including strategies, program examples, funding, Monitoring, Evaluation and Learning (MEL) approaches and illustrative performance indicators, as well as key resources for additional support. Additional sector guides may be developed in the future. 
+USING THE TECHNICAL GUIDANCE 
+This technical guidance was developed for use by USAID staff, implementing partners, and others who want to improve development outcomes through strengthened urban resilience. It is part of a new urban resilience platform on USAID’s UrbanLinks website; the platform provides a range of relevant USAID and external resources. As USAID further engages on urban resilience, we hope to learn and improve on this technical guidance. 
+For additional support: A variety of units within USAID have technical expertise related to urban resilience, including the Bureau for Democracy, Development, and Innovation (DDI), Bureau for Resilience and Food Security (RFS), and regional bureaus like the Asia Bureau. USAID’s internal 
+Urban Resilience Working Group includes a variety of experts who are available to provide support at either the conceptual/design phase, or during implementation. DDI/EEI Green Cities 
+Division serves as a focal point. Please send your questions or request to: ● Monica Bansal, Green Cities Division Lead, at: mbansal@usaid.gov. ● Rebecca Chacko, Climate and Cross-sectoral Strategies, at: rchacko@usaid.gov. 
+I: THE URBAN RESILIENCE OPPORTUNITY 
+An urban resilience approach can contribute to a range of development outcomes. Cities and development partners can work to strengthen urban systems, build the capability of these systems to continue to provide essential services through dynamic changes, and adapt towards more inclusive, equitable, democratic, and sustainable growth. Partnerships formed among government, donors, and civil society to tackle urban resilience require dialogue and coordination across cities, regions and nations to align development outcomes but also to leverage investments of donors and multilateral organizations that seek to strengthen local capacity for urban resilience. Applying this technical guidance can leverage singular investments to achieve multiple benefits and align multiple investments that will assist all populations, especially those in vulnerable situations. 
+In the context of a changing climate and evolving risks, approaches to strengthen urban resilience promote forward-looking and integrated planning and action that advance a clearly articulated vision for towns and cities. Resilient cities meaningfully integrate citizen engagement and draw on resources and assets across sectors to be better prepared to handle changing conditions affecting people, the economy, and the environment. 
+With over half of the world’s population living in cities today, projected to rise to over 70 percent by 2050, there is a pressing need to ensure that cities and their residents have the capacity to
+
+[Page 11]
+absorb, adapt, and transform in the face of shocks (acute natural or human-made events) and stresses (chronic, slow to emerge or, or cyclical challenges). 
+Cities are at the forefront of action and innovation when responding to changing risks. While local governments are the least resourced governance structure in most countries, they are often directly responsible for managing essential services and are first responders in addressing shocks and stresses. Local governments around the world have proven to be innovators on climate change mitigation and adaptation efforts as well as leaders on inclusive and democratic policies, as evidenced through their actions and increased advocacy through networks like C40 Cities and the 
+Mayor’s Migration Council. 
+The causes and impacts of disasters, a changing climate, and other shocks and stresses3 such as pandemics, conflict and income inequality, test the resilience of local systems and cut across USAID programming sectors. Increasing the absorptive, adaptive, and transformative resilience capacities of local and national governments and other stakeholders to plan for, mitigate, and adapt to the adverse impacts of shocks will save lives, reduce economic losses, and positively impact local economies and communities. 
+Increasingly, global risks are concentrated in urban areas.4 The impacts of climate change, including more frequent and severe weather events, chronic and disaster-induced flooding, rising sea levels, and higher temperatures, are increasingly disrupting the livelihoods, health, and quality of life of urban residents. Approximately 90 percent of the world’s urban areas are coastal, exposing them to flood and sea level rise risks.5 More than 10 percent of the world's population now resides in urban centers or quasi-urban clusters situated at less than 10 meters above sea level.6 There are just over 200 million people estimated to be living in cities under extreme heat conditions.7 In addition, an increasingly complex range of shocks and stresses, such as the COVID-19 pandemic, are impacting urban systems. 
+Building urban resilience offers an opportunity to strengthen Humanitarian-Development-Peace (HDP) coherence. Over the last decade, humanitarian crises have become more protracted and increasingly urban, as many displaced people seek refuge in urban areas. The UN Guidance for 
+Building Resilient Societies (2020), for example, urges for stronger collaboration between development, humanitarian, and peace communities and directly situates resilience within the HDP nexus. Building HDP coherence can be foundational to strengthening the resilience of urban systems in the face of city-wide shocks and can serve to improve the capacity of cities to address more common, household scale disasters. 
+3 Bicknell, Dodman, and Satterthwaite 2012; Cutter, Burton, Emrich. 2010; Sherrieb, Norris, and Galea. 2010. 
+4 IPCC 2014. 
+5 UCCRN 2018. 
+6 Rising seas threaten low-lying coastal cities, 10% of world population (phys.org). 2019. 
+7 C40 Cities 2018. 
+Resilience focuses on strengthening the capacities that help people and systems to: absorb shocks by minimizing exposure to them and changing behavior to deal with the impact; adapt through measures that identify and manage risks over the longer term; transform as the underlying conditions are changed. 
+USAID’s Conceptual Framework for Resilience
+
+[Page 12]
+Urban resilience efforts can guard against risks and help capture and safeguard benefits of urbanization for all residents, especially the most vulnerable. Vulnerable populations are increasingly concentrated in urban areas where the built environment and embedded social and economic systems present challenges. Urban poverty is often invisible and misunderstood, partly due to persistent assumptions about concentration of poverty in rural areas. For example, two-thirds of refugees are estimated to reside in urban and peri-urban areas,8 marking a rapid shift from prior displacement patterns oriented around rural camps. This situation creates challenges and opportunities for integrating refugees into urban neighborhoods, communities, and economies. It is important to understand and prioritize the unique needs and experiences of women, girls, persons with disabilities, and other populations in vulnerable situations in urban settings. 
+Urban poor are typically overexposed to risks such as flooding, drought, and high temperatures, and to loss of housing, livelihoods, or basic services after disasters. This exposure means that disasters affect poor people more acutely due to more precarious livelihoods and limited savings, demonstrating the link between urban resilience and poverty alleviation.9 Research indicates that poor people and communities are disproportionately affected by natural hazards for five reasons: overexposure, higher social and economic vulnerability, less ability to cope and recover, permanent impacts on education and health, and effects of risk on saving and investment behavior.10 Resilience depends on the ability of individuals and households to make and act on decisions to reduce their vulnerability to a wide range of shocks and stressors, such as to make improvements to their homes and settlements or to relocate. 
+As demonstrated by the COVID-19 pandemic, non-climate shocks can also trigger disproportionate harm on urban communities. In addition to global health threats, shocks can come from conflict or infrastructure failure, for example. Mitigating the damages of future shocks, especially for populations in vulnerable situations, can prevent communities from falling further into poverty. 
+8 UNHCR 2019. 
+9 Hallegate, 2017. 
+10 Hallegate et al, 2020. 
+Bangladesh | Photo credit: Md Mudassir Hossain
+
+[Page 13]
+While density presents and compounds certain challenges, urbanization also provides opportunities for improved wellbeing. For example, cities often enable higher quality participation from women in the labor force and change household power dynamics.11 Cities also offer opportunities to residents by diversifying the availability of employers, attracting a wider range of expertise and knowledge exchange, and offering more job opportunities with which to build their own resource buffers. 
+The cost of inaction is high. By one estimate, climate-related hazards could cost cities worldwide up to US$123 billion in annual GDP losses, but these losses could be cut by almost 60 percent if resilience building measures are put in place.12 The combined effects of climate hazards and inequitable economic growth could potentially push up to 77 million urban residents back into poverty by 2030.13 
+KEY CONCEPTS 
+URBAN 
+AREA 
+Many national governments set unique thresholds to identify urban areas based on national census data, so USAID and its partners should contextualize their approach based on the host country’s working definition of cities, towns, and metropolitan areas. 
+URBAN 
+SYSTEMS “Urban systems” is used throughout this document to refer to the complex social, economic, and environmental relationships in urbanized areas, including metropolitan areas, secondary cities or towns and inclusive of urban-rural linkages. 
+SHOCKS & 
+STRESSES 
+Unlike traditional urban planning or emergency management practices, a key component of urban resilience is a focus on both shocks and stresses. The forthcoming USAID Resilience Policy defines shocks as the “external, shortterm deviations from long-term trends that have substantial, negative effects on people’s current state of well-being, level of assets, livelihoods, safety, or their ability to withstand future shocks.” Shocks can be multiple events that directly affect large numbers of people in a given geographic area (e.g., drought and pandemic) or idiosyncratic/distinctive events that affect specific individuals or households within a community (e.g., illness or death within a family). Acute shocks include a range of sudden events that might pose threats to a city or urban system, such as floods, heat waves, earthquakes, disease outbreak, infrastructure failure, terrorist attacks or other disasters. 
+Stresses are “long-term trends or pressures that undermine the stability of a system and increase vulnerability within it.” Stresses can include factors such as climate variability, chronic poverty, persistent discrimination, and protracted crises like intergroup conflict. Stresses also include long standing challenges like high unemployment, overtaxed or inefficient public transportation systems, or chronic recurrent flooding. They can also emerge slowly and build over time, such as population growth or long-term drought. These issues are likely 
+12 IFC 2018; World Bank, 2015. 
+13 World Bank, 2021.
+
+[Page 14]
+to be exacerbated in the face of a shock, and reduce the urban system's capacity to respond. Like shocks, stresses can be multiple, affecting large numbers of people in a given geographic area, or idiosyncratic/distinctive, affecting specific individuals or households within a community. 
+RISK 
+Risk is the possibility of harm or losses resulting from shocks and stresses (or interactions between these). Risks are assessed according to their likelihood (probability) and impact (severity). 
+RESILIENCE 
+Resilience is a continuous condition rather than a static state, and building resilience is a long-term effort of strengthening systems so they can adapt to current and future circumstances and changes, including responsiveness to evolving citizen needs.14 Responding to shocks and stresses through an urban resilience lens can help local leaders, community members, and practitioners better understand these risks and vulnerabilities and present dynamic pathways to adapt by building out the following six principles of a resilient urban system, as highlighted in USAID’s work on urban adaptation:15 
+Robustness. The physical or procedural strength of urban systems to tolerate shocks without significant loss of function and to continue to meet the needs of targeted populations, including those in vulnerable situations. 
+Redundancy. The existence of back-up capacity within urban systems so they can absorb sudden surges in demand or a partial lack of supply. 
+Responsiveness. The ability of urban individuals, households, communities, institutions and systems to anticipate and learn quickly, adjusting policy and practice in response to new information about changing climate impacts. 
+Diversity and Flexibility. The capability to supply urban services via multiple pathways in case one fails, using distributed resources and multifunctional equipment. 
+Modularity. The flexibility to switch over damaged pieces of an urban system without having to shut down or replace the entire system. 
+Safe Failure. When system components are able to absorb sudden shocks or cumulative stress without catastrophic impacts that ripple through the whole system. 
+RESILIENCE 
+CAPACITIES 
+USAID focuses on building three types of resilience capacities: 
+Absorptive resilience capacities: Abilities used to minimize exposure and sensitivity to shocks and stresses through preventative measures and appropriate coping strategies that ensure short-term survival while trying to avoid permanent, negative impacts. For example, disaster risk reduction, financial services, and health insurance. 
+14 Read more about resilience on USAID’s ResilienceLinks website. 
+15 USAID 2016a.
+
+[Page 15]
+Adaptive resilience capacities: Abilities that enable informed choices and changes in livelihood and/or other strategies in response to longer-term social, economic, and environmental change. For example, income diversification, market information, and trade networks. 
+Transformative resilience capacities: The governance mechanisms, policies and regulations, cultural and gender norms, community networks, and formal and informal social protection mechanisms that constitute the enabling environment for systemic change. For example, infrastructure, good governance, and formal safety nets. 
+II: URBAN RESILIENCE APPROACHES AND ACTIONS 
+Urban resilience approaches aim to address today’s problems while embedding a long-term vision that anticipates future risk scenarios, driven by climate change or other increasing risks. Building resilience of urban areas can also contribute to climate-change adaptation through attention to green urban development approaches and disaster risk reduction, with an eye towards reducing forced displacement.16 
+In addition, with its focus on identifying stresses and prioritizing the needs of populations who are marginalized and in vulnerable situations, urban resilience approaches can help address inequalities. 
+For example, due to their density, cities can efficiently provide job training services, financial 
+16 Ibid. 
+Marginalized and underrepresented populations may include, but are not limited to, poor and ultra-poor households, women and girls, persons with disabilities, 
+LGBTQI+ people, displaced persons, migrants, Indigenous 
+Peoples and communities, children in adversity and their families, youth, older persons, religious minorities, ethnic and racial groups, people in lower castes, persons with unmet mental health needs, people of diverse economic class and political opinions, and more. These groups often suffer from discrimination in the application of laws and policy and/or access to resources, services, and social protection, and may be subject to persecution, harassment, and/or violence. 
+Marginalized and underrepresented populations are often more vulnerable to climate shocks and stresses, have different vulnerabilities than other populations, and often have fewer assets and means within their reach to adapt and withstand the effects of climate change. USAID remains committed to equity and inclusion principals, which provide the foundation from which we engage, support, and empower marginalized and underrepresented groups. 
+Safety, Liberia | Photo credit: Brian Clark
+
+[Page 16]
+education, and other forms of support to strengthen communities and their ability to respond to disasters. 
+While cities need to target immediate resilience demands and priorities, resilience measures should extend beyond any one shock and increase resilience across a range of root causes, shocks, and stresses.17 In practice, this requires data collection and planning processes; community and multi-stakeholder engagement (e.g., co-design and implementation); governance capacity strengthening and interjurisdictional coordination; leveraging multiple forms of financial, social and natural capital; and other elements of resilience that expand beyond any one sector (see discussion of building blocks of urban resilience below). 
+FIVE BUILDING BLOCKS TO STRENGTHEN THE RESILIENCE OF 
+URBAN SYSTEMS 
+Based on global experience and best practice, USAID has developed the following cross-cutting “building blocks” that can be applied to integrated programming across sectors, as well as to sector-specific programming, to increase the resilience of urban systems: 
+1. Inclusive Planning - Deploy inclusive, evidence-based planning that accounts for future risk. 
+2. Governance - Strengthen urban governance. 
+3. Finance - Unlock financial capital and budget for resilience. 
+4. Social Capital - Build and strengthen networks of relationships and bonds within and across communities. 
+5. Natural Capital - Restore and protect the natural systems that can contribute to resilience. 
+Drawing on global experience, this section summarizes the rationale and evidence for each building block and provides illustrative examples of what these actions might look like in practice. While evidence suggests that cities benefit from shared core approaches to become more resilient—no matter the specific shocks and stresses they face18– urban systems differ across contexts and between metropolitan areas, secondary cities, or towns. A context-specific analysis is needed before designing interventions to build resilience. 
+Actions and program interventions should be inclusive of the actors (people and institutions) and address the factors (infrastructure, finances, policies and environmental conditions) that drive resilience of urban systems. Therefore, application of these building blocks should consider the local context to respond to the needs and conditions of the urban area under consideration. To form customized strategies, Section 3 of this Technical Guidance provides key questions and approaches to get started. 
+17 Martín and McTarnaghan 2018. 
+18 Sitko and Massella 2019.
+
+[Page 17]
+Approach 
+Description 
+Illustrative Actions 
+Inclusive 
+Planning 
+Formulate evidencebased plans and actions, in consultation with relevant communities, that consider past and future shocks and stresses 
+Strengthen city capacity for data collection, interpretation, and use in planning 
+Engage communities in data collection processes 
+Support locally led resilience planning process that incorporates context and local knowledge 
+Promote learning through monitoring of resilience activities 
+Build inter-ministerial coordination at national level for planning 
+Governance 
+Strengthen urban governance by aligning diverse actors, policies, and strategies for coordinated action 
+Map local government entities to mandates, authority, and funding to identify key focus area partners and cross-sector synergies 
+Support land-use planning, and development and enforcement of zoning regulations to address anticipated shocks and stresses 
+Align subnational and national resilience strategies and policies 
+Improve public participation, inclusion of marginalized and underrepresented groups, and enable demand-response links between the public and local governments through outreach to increase stakeholder knowledge and engagement
+
+[Page 18]
+Unlock financial capital and budget to initiate and sustain contextually appropriate actions to promote resilience 
+Strengthen municipal capacity to financially structure resilience projects, including blended finance solutions 
+Facilitate cities’ access to international finance 
+Support cities in integrating resilience into capital plans and budgets 
+Explore new financing instruments to support city action on resilience 
+Increase own-source revenue generation to support resilience measures 
+Social Capital 
+Build social capital and strengthen existing social bonds by deepening social systems that facilitate collective action in response to shocks and stresses 
+Strengthen the capacity of civil society organizations, including those serving youth, women, local religious communities, and marginalized populations, to be aware of, and respond directly to, community needs 
+Redesign public spaces to encourage interactions that build community among residents 
+Emphasize and leverage local expertise and networks in design and implementation of projects 
+Natural Capital 
+Restore and protect natural capital, and use natural assets to withstand shocks and address vulnerabilities 
+Assist cities to integrate nature-based solutions in urban planning and resilience strategies 
+Facilitate city access to funds needed to implement nature-based solutions, including blended finance 
+Promote nature-based solutions by translating location-specific evidence into actionable insights for policymakers
+
+[Page 19]
+BUILDING BLOCK: INCLUSIVE PLANNING 
+Hawassa, Ethiopia | Photo credit: Maya Misikir/Pierce Mill Media
+
+[Page 20]
+BUILDING BLOCK: INCLUSIVE PLANNING 
+BUILDING BLOCK: INCLUSIVE PLANNING 
+Locally led urban and regional planning processes can support households, communities, and cities by aligning action to address resilience needs. But cities need commensurate resources and capacity for municipal-level planning that can address household and community needs and priorities. The 
+Coalition for Urban Transitions estimates that national and state governments have primary authority over 35 percent of urban adaptation potential, while local governments have primary authority over 28 percent. The rest require collaborative climate action across multiple tiers of government.19 Inclusive, democratic, and innovative practices can be scaled by enabling cities with the authority, tools, and financial and technical resources to act. 
+To maximize action, local governments need increased authority, tools, and resources to act and coordinate with other levels of government. Direct support to cities can include tools for regional coordination to address the need for urban resilience beyond city boundaries. Strategies must be grounded in how systems (economic, physical, ecological, and political) within and beyond the city interact with relevant stakeholders at various scales.20 Smart city efforts may also be mobilized to connect local stakeholders with the necessary data and tools to support actions. 
+Action should be locally-driven. Cities have different risks based on their geography, social and economic systems, and other factors. In the case of 
+100 Resilient Cities initiative,21 cities that engaged in resilience planning efforts identified relevant shocks and stresses through various assessment tools that allowed cities to gather data and community input. As a result, each city identified very different challenges, and in turn solutions or actions to build resilience. This underscores the critical importance of supporting a locally led resilience planning process that incorporates context and local knowledge. 
+Experience illustrates that municipal governments and their private sector and civil society partners often lack information about risks and vulnerabilities, which are necessary for evidencebased locally-led resilience planning processes. 
+Addressing barriers to urban planning and data can be a foundational step for resilience action and can help unlock financial capital. By using data to identify and understand shocks and stresses, cities can plan and coordinate resources to address those shocks and stresses and build resilience. 
+19 Coalitions for Urban Transitions 2020. 
+20 ADB 2014. 
+LOCAL RISK DATA 
+While global data can help paint an overall picture of resilience (e.g., the heightened threat of sea level rise that coastal communities are exposed to), local-level data can shed light on specific communities and the hazards they face. 
+In the COVID-19 pandemic context, for instance, hyper-local statistics on disease burdens, behavioral risks, quality of care centers, as well as socio-economic outcomes have proven essential for identifying high-risk populations and geographies, understanding health impacts of the pandemic, and developing response strategies.
+
+[Page 21]
+BUILDING BLOCK: INCLUSIVE PLANNING 
+USAID can convene partners such as country-level ministries, locally focused civic organizations, multilateral organizations, and other donors to identify thematic areas of commonality and investment such as adaptation programming or funding. These convenings are critical because so many actors in this and other development spaces exert time and resources to connect with local governments and demonstrate their knowledge and leadership in applying solutions to specific development issues. With alignment and coordination, funding can be leveraged. Communication among partners is also critical to ensure that expectations are understood and achieved collaboratively. 
+However, many cities do not have the capacity to systematically gather data or use it to make policy, planning, or investment decisions. Identifying which data and information are needed, integrating different types of data or across data systems, making do without sufficiently granular or localized data, understanding user needs, presenting data in a usable format, and understanding how to use data systems are all challenges. Regular data collection and analysis can also be costly and time-intensive. 
+USAID and other development partners can help address these gaps through targeted technical assistance. One opportunity is to take advantage of resources for climate risk management22 and open data tools that offer cost-effective spatial data for risk assessments, emergency preparedness and planning, and post disaster planning.23 Donors can also help strengthen the capacity of, and catalyze partnerships with local non-profits and higher education institutions24 (HEI) to address the gaps in data and analysis through innovative data collection, curation, and reproduction. Collecting and vetting quality data and information with community members is critical to guide cross-sector planning and action to build resilient urban 
+22 Climatelinks. n.d.. 
+23 World Bank 2012. 
+24 International Centre for Climate Change and Development 2022. 
+Local Resilience Risks: Ciudad 
+Juárez’s (Mexico) resilience strategy highlights extreme weather and high unemployment as key challenges. Similarly, Dakar (Senegal) addresses urban resilience around stresses like chronic begging and irregular construction, and shocks like epidemics and tornadoes. Pune (India) identified lack of social cohesion and water management as key stresses, and terrorism and earthquakes as acute shocks. 
+Bangalore, India | Photo credit: Bonnie Carlson/USAID/India
+
+[Page 22]
+BUILDING BLOCK: INCLUSIVE PLANNING systems.25 USAID’s Higher Education Program Framework depicts how HEI systems can provide education and training, advance knowledge and research, and engage and strengthen networks and communities in a variety of sectors. 
+Building on this foundation of data and evidence, locally led resilience planning efforts are a key opportunity to identify priority actions, timeframes, and context-specific approaches that support resilience and align action. Many cities need support to build robust urban planning processes, especially long-range planning (6+ years), where climate data is particularly useful. Depending on the planning context, resilience planning may be integrated into existing comprehensive or other planning documents, or can exist as a standalone plan that complements other planning efforts. 
+Effective resilience plans should incorporate science and evidence on known shocks and stresses to form appropriate responses26 for potential future events, prioritize support for populations in vulnerable situations and seek integration with all relevant areas of city government.27 While certain aspects of resilience planning require technical resources and alignment, attention to governance conditions (authority and resources to subnational governments for planning) and political will is critical to identify meaningful entry points for action. 
+The resilience of an urban system is strengthened when all stakeholders, including individuals, households, and communities, recognize and internalize risks as well as their roles in mitigating them. This is why planning processes need to be inclusive and democratic, providing opportunities to align different perspectives and priorities for resilience actions and yielding plans better suited to the local context. An inclusive and democratic planning process should engage community members, including those in vulnerable situations, as experts in the local context, and bring them together with other experts. When collaborating as equals, new, contextually relevant, knowledge can be developed. 
+Finally, resilience planning is not an end state. It involves an iterative process of implementation, learning, and adaptive management. Capacity strengthening for city leaders and community members is an important part of ongoing support. Coordination between donors, national and local governments and civil society is needed to identify credible indicators for monitoring and measurement, determine whether planned investments are meeting desired outcomes, and ultimately support the growth of an evidence base. 
+Careful assessment of the impacts of interventions are critical for urban resilience and other transformative efforts in cities to support, rather than hurt, those most vulnerable. For example, the latest IPCC Assessment Report28 warns of growing global evidence of maladaptive practices in response to climate threats where intervention in one location or sector could increase the vulnerability of another location or sector, or increase the vulnerability of the target group to future climate change. One example of an intervention with potential maladaptive outcomes are flood walls or dykes that redirect rainwater from one area to another. 29 
+25 World Bank 2012. 
+26 IPCC 2022. 
+27 Martín and McTarnaghan 2018. 
+28 IPCC 2022. 
+29 Maladaptive practices reinforce and entrench existing inequalities, but global evidence finds that such outcomes can be avoided “by flexible, multi-sectoral, inclusive and long-term planning and implementation of adaptation actions with benefits to many sectors and systems.” IPCC, 2022, Summary for Policymakers.
+
+[Page 23]
+BUILDING BLOCK: INCLUSIVE PLANNING 
+POTENTIAL DATA, PLANNING, AND MONITORING ACTIONS 
+Possible Actions  Strengthen city capacity for data collection, interpretation, and use in planning  Engage communities in data collection processes  Enhance collaboration and coordination through digital services and products  Support locally led resilience planning processes that incorporate context and local knowledge  Co-design with local partners for visioning and collective goal-setting  Collect and analyze data on current and future trends in climate-related variables  Create transparent information system accessible by key decision-makers  Develop practical tools for risk assessments 
+Quezon City in the Philippines has built a City Risk Atlas that maps flood risks and estimates resulting human, social, economic, and physical losses. The project collected available data on relevant climate risks and validated findings through focus groups involving city government leaders, given the expectation that the findings would provide the scientific basis for the development of strategies, policies, projects, and decisions to enhance resilience of citizens and the city.30 
+30 Bendimerad 2013; Raza et al. 2020. 
+Example 
+The Philippines | Photo credit: Mark Navales/AFP Photo
+
+[Page 24]
+BUILDING BLOCK: INCLUSIVE PLANNING 
+Under its Urban Climate Change Resilience in Selected Asian Cities project, the Asian 
+Development Bank facilitated community-led resilience planning (CRP) processes designed to strengthen community voice in the design and implementation of urban resilience projects. Piloted in cities in Bangladesh, Pakistan, and the Philippines, the CRP approach included multi-stakeholder engagements that supported poor and marginalized groups to work with government and private sector stakeholders to assess climate and other risks affecting residents and their livelihoods, identify those populations in the most vulnerable situations, and articulate project ideas to address risks. In addition, the projected consolidated community-led initiatives generated through the CRP process to inform city-wide planning and development projects.31 
+Evidence 
+In order to support the resilience building effort, data on climate risks and vulnerabilities need to be communicated across actors and sectors, and considered as inputs into urban and development planning processes.32 Research and practice suggest that data and planning are low-cost actions to build urban resilience. Taken together, they can guide the development of projects that account for climate and other risks and, in turn, reduce the impact of shocks and stresses on the urban system when they materialize.33 
+31 Asian Development Bank 2021. 
+32 Harvey et al 2018. 
+33 Hudson and Boutzen 2019. 
+Example 
+Dhaka, Bangladesh | Photo credit: Kingshuk Partha/ActionAid Bangladesh
+
+[Page 25]
+BUILDING BLOCK: GOVERNANCE 
+BUILDING BLOCK: GOVERNANCE 
+The resilience of a city depends on the effective and inclusive delivery of basic services, especially water and sanitation, housing, food, transportation, healthcare, and public safety. 
+Individuals, households, businesses, and communities rely on core services provided daily by the municipal government and its civic partners for their well-being, as well as for survival during a shock (and for recovery following a shock). Strengthening urban governance, therefore, is central to building resilience.34 
+Weak governance often underlies urban systems that are not resilient. The absence of shared goals, the presence of corruption, insufficient information on problems and effective solutions, and a lack of transparency, broad public participation, and national-level enabling policy can all contribute to ineffective governance. Specifically, there is a need to improve urban governance through municipal policies and regulations as well as capacity for coordinated action across different levels of government and the public. 
+POLICIES AND REGULATIONS 
+Cities can build resilience through policies that target investment in people and places experiencing vulnerability and ensure a safer built environment.35 Importantly, land use plans can mark certain environmental assets (e.g., wetlands, riparian zones, and coastal vegetation) as needing protection, establish measures to control development, and help guide infrastructure development (like public transit and sustainable, resilient housing) to increase efficiency and economic growth, and improve human and environmental health.36 For example, zoning regulations determine allowable uses of land and can be used to halt development in places at risk of environmental shocks or that require ecological and cultural conservation. Where zoning regulations permit development in high risk areas, they can specify safeguards to help mitigate risks.37 Cities can also use building codes to ensure that building construction and technology is adapted to locally relevant shocks, and the specific needs of populations, thus reducing physical vulnerability. For example, they may require special roofing equipped to withstand extreme heat and winds. They can require efficient energy performance to address heat waves, including net-zero energy requirements. Or they may ensure the use of accessibility standards that embody principles of universal design to promote a built environment that is accessible for all, including persons with disabilities, older persons, children and youth, and others. 
+Since many cities have limited capacity to design and enforce such regulations, donors can help to strengthen the capacity of cities to improve land use policies, regulations, and strategies that guide urban growth in ways that reduce vulnerabilities and promote inclusion. In practice this could mean supporting cities to use geospatial data to assess and prioritize new investments in the built environment, or promoting policies that encourage desired behaviors (e.g., requiring developers to manage stormwater) and discourage risky ones (e.g., building in flood prone areas). Evidence-based policy advice could also be provided to guide provision of essential services 
+34 USAID 2013. 
+35 World Bank 2015; Spaliviero et al 2020; Sitko and Massella 2019. 
+36 Bahadur, Tanner and Pichon 2016. 
+37 Bahadur, Tanner and Pichon 2016; ADB 2015
+
+[Page 26]
+BUILDING BLOCK: GOVERNANCE to informal settlements, inform retrofitting of vulnerable housing infrastructure in settlements, and curb further construction in risky areas.38 
+The Urban Resilience Governance Sector Guidance outlines four key strategies for strengthening urban resilience. These include: improving capacity across governance types (national to local), integration of relevant policies and regulations, strengthening inclusion, and strengthening civil society. 
+CAPACITY FOR COORDINATED ACTION 
+When governments partner effectively with communities, the resilience of groups in vulnerable situations is enhanced and community needs are acknowledged and respected. There is no guarantee that the needs will be addressed fully and completely, but the effort will be done with as much information as possible. However, these community-focused efforts often fall short of tackling the structural drivers that make some people and communities more vulnerable than others to shocks. Taking a systems approach—by coordinating action across different levels of government, geographic scales (i.e., neighborhoods, cities, regions), services, functions, and stakeholders—can help to ensure that essential functions and services are maintained following a disruption. This approach also supports recovery and even improvement of services after a shock. 
+However, achieving it requires significant human, financial, and institutional capacity. Cities need adequately trained personnel to respond and engage with communities after a shock and effective communication between city officials, national government and city officials, and with the public. Furthermore, governments can create enabling environments that promote cohesion among stakeholders that support social capital. This is important because public trust is essential to the provision of goods and services needed by urban residents, which leads to adherence to fee and tax payments. 
+It is critical for national urban policy to support local resilience needs and empower subnational governments with sufficient authority, resources and tools. While local leaders are often well aware of the challenges and constraints, they frequently do not have a part in national and international policy dialogues. Donors and development partners can strengthen capacity and advocate for the adoption and implementation of policy frameworks that align national policy with city-level goals and action (for example, around land use). 
+Beyond government, citizens and communities also need capacity to respond to shocks. 
+Experience shows that “individuals and communities that know what to do during unexpected events are invaluable assets to a city,”39 enhancing the efficacy with which the overall urban system responds to shocks. 
+Capacity strengthening can take several forms, such as helping communities, including women, youth, persons with disabilities, local religious communities, and other marginalized or underrepresented groups, understand shocks before they happen and how to respond when they do (i.e., improve pre- and post-disaster knowledge and awareness). This can include working with community members to identify groups vulnerable to flood risk and ensuring plans for 
+38 100 Resilient Cities 2016 
+39 ARUP 2015.
+
+[Page 27]
+BUILDING BLOCK: GOVERNANCE their relocation, and motivating them to practice behaviors that build resilience such as adhering to evacuation notices and seeking information about hazards.40 
+POTENTIAL ACTIONS TO ADDRESS GOVERNANCE 
+CHALLENGES 
+Possible Actions:  Map local government and community entities to mandates, authority, and funding to identify key focus area partners/actors and cross-sector synergies  Develop/update city-level (macro) and neighborhood-level (micro) strategies and support implementation to build resilience  Designate climate resilience focal points in city institutions as well as within communities  Align subnational and national resilience strategies and policies  Improve public participation, inclusion of marginalized and underrepresented groups, and enable demand-response links between the public and local governments to give end users a voice and control of services when possible  Support land-use planning, and development and enforcement of zoning regulations to address anticipated shocks and stresses 
+In order to mobilize citizens to support efforts to address climate change in Dakar, Senegal, the city’s Climate and Energy Action Plan (PCET) process provided institutional support (from city leaders and scientific communities) for adaptation actions, mass communication of climate issues, and consultation meetings on climate-relevant topics, targeting key city stakeholders to build shared understanding of climate issues and possible responses.41 
+40 Valkengoed and Steg 2019. 
+41 City of Dakar 2020. 
+Example 
+Dakar, Senegal | Photo credit: Baobab+
+
+[Page 28]
+BUILDING BLOCK: GOVERNANCE 
+The global 100 Resilient Cities initiative aimed to build resilience in city government by creating resilience champions in city government, leading resilience planning processes and promoting more coordinated action across city government, private sector and civil society actors, and citizens. It did this by supporting cities to develop resilience strategies, financing and guiding the creation of a chief resilience officer role to lead cities’ resilience efforts, and facilitating access to resources for implementation.42 
+Evidence 
+Research indicates that coordinating systems to achieve resilience goals produces a range of benefits, such as integration of resilience principles in city planning and implementation, better alignment of planning strategies across city institutions, enhanced cross-sectoral coordination, more creative uses of existing funds for resilience-building investments, and better intergovernmental coordination (between neighborhood, city, state, and national actors) on resilience actions.43 In fact, the broader the scope of stakeholders involved in resilience planning, the more likely it is that plans will be implemented, with a caveat that the greater the number of stakeholders involved the more difficult it can be to coordinate activities across the urban system (potentially rendering certain actions infeasible).44 
+42 Rockefeller Foundation n.d.; Martín and McTarnaghan 2018; Rockefeller Foundation 2022. 
+43 Martín and McTarnaghan 2018. 
+44 City of Dakar 2020. 
+Example 
+Bangkok, Thailand | Photo credit: FACTS Reports
+
+[Page 29]
+BUILDING BLOCK: FINANCE 
+BUILDING BLOCK: FINANCE 
+Urban resilience rests on a foundation of economic resilience for all primary actors within the system, from city governments to businesses to households. At the city government level, actions to build resilience often require far more financial resources than city governments can mobilize on their own due to a variety of factors, such as lack of sufficient revenue, inability to incur debt, or insufficient fiscal management capacity. Cities can also experience difficulties in accessing climate adaptation funds45 due to concerns about their creditworthiness or to national policy frameworks that hinder them from mobilizing resources to finance resilience actions. Moreover, cities face significant financial costs during and after shocks, further straining city resources that are barely sufficient for investment in infrastructure and basic services needed to serve the rapidly growing urban population. 
+Strengthening the financial management capacity of cities can support efforts to build resilience over time. Some urban governments already have the basic financial management infrastructure to generate, manage, and deploy resources toward increased resilience. However, those systems can be strained when managing new sources of funding: for instance, cities often struggle to absorb and program resilience funds or comply with national and international financial management standards.46 Strengthening municipal finance capacity is one key step for development partners: it lays the foundation for cities to access financial capital and better use existing resources for resilience investments. However, financial management alone does not address the finance gap between what cities are expected (and aiming) to do to address resilience, and the budgetary resources available. 
+Increasing the finance and revenue base is critical. Local tax revenues, intergovernmental transfers, and global funding sources (e.g., development finance) are three of the primary options for cities to fund resilience actions. Development partners can help cities in various ways to raise and effectively utilize funds. One entry point is to help cities integrate resilience into development/capital planning processes by screening projects for resilience co-benefits or aligning to resilience planning efforts. Doing so elevates resilience as a priority in city budgets and can increase the chances that resilience measures will be funded.47 In addition, development partners can deploy credit guarantees and other risk management instruments, which provide third party credit risk mitigation to lenders to help cities mobilize local capital for investments in urban resilience.48 More broadly, development partners can play bigger roles in growing city resources for resilience activities by investing directly in cities. However, the ability of development partners to do so is constrained by financing rules that, in most cases, reserve their financial support exclusively for national government partners.49 
+Economic inclusion programs to bolster individual and household economic resilience may need to be considered, likely at the national level. Resilience depends on the ability of people to choose and act on a sufficient pool of options to adapt to changing conditions--this relies on a strong economic foundation. Economic inclusion programs often include a combination of cash or in-kind transfers, skills training, coaching, access to finance, and links to market support. 
+45 Watson, Schalatek, and Evéquoz 2021. 
+46 Climate Policy Initiative 2021. 
+47 Revi et al 2014. 
+48 World Bank 2015. 
+49 Morgan et al 2021.
+
+[Page 30]
+BUILDING BLOCK: FINANCE 
+Governments, NGOs, private sector, donors, and other actors all can play distinct roles in providing a full range of social protection interventions from providing funding for social safety nets to technical assistance and administration of economic inclusion programs. The ability of subnational and national level governments to provide sustainable economic inclusion programs, especially in response to shocks and stressors like the COVID-19 pandemic, is directly linked to the financial management and domestic resource mobilization points above. 
+POTENTIAL FINANCING ACTIONS 
+Possible Actions  Provide risk-sharing/ de-risking mechanisms to facilitate access to finance  Consult cities in development of Country Development Cooperation Strategies  Strengthen municipal capacity to financially structure resilience projects, including blended finance solutions  Provide technical assistance to help municipalities reform tax code and collection and other own-source revenue generation  Support conditional grant transfers for resilience investments  Facilitate cities’ access to international finance through issuance of specialized bonds (e.g., green bonds)  Develop evidence on costs and benefits, to make the economic case for investing in resilience  Support the design and administration of national or subnational economic inclusion programs
+
+[Page 31]
+BUILDING BLOCK: FINANCE 
+The Global Cities Fund (GCF) is a new resource to provide project funding directly to cities in response to the unmet needs of cities as they support migrants, refugees, and IDPs during Covid19. The GCF emerged due to city-level advocacy through the Mayor’s Migration Council and is designed to fill a critical gap for subnational funding on urban migration issues. Recent grants have been awarded to Accra, Ghana; Arua, Uganda; Beira, Mozambique; Johannesburg, South Africa; and 
+Monrovia, Liberia.50 
+The C40 Cities Finance Facility (CFF) partnered with eThekwini Municipality in Durban, South 
+Africa to devise a financing strategy for the Transformative River Management Programme (TRMP), a city effort to maintain riverbeds. The approach centered on three pillars: cost recovery, contributions from residents, as well as grant and debt financing. For cost recovery, the city developed forecasts of how much savings would be generated by its investments in flood management and then included those savings as additional resources in its budget. The city also collected river management fees from residents (including businesses). Cost recovery funds and resident contributions helped finance the operational expenses of the TRMP, while the city, with CFF support, used debts and grants to finance project infrastructure, such as drainage systems and riverbank reinforcements.51 
+50 Mayor’s Migration Council n.d.. 
+51 Lohmann 2020. 
+Durban, South Africa | Photo credit: C40 Cities 
+Ghana | Photo credit: Mayan Migration Council 
+Example
+
+[Page 32]
+BUILDING BLOCK: FINANCE 
+The government of Jakarta, Indonesia, has taken advantage of tax policy instruments for resilience-building action. For example, it is taxing the consumption of groundwater to finance its goal of reaching 100 percent water supply coverage by 2030. Although the central government exerts tight control over municipal borrowing, it encourages the city government to use publicprivate partnerships (PPPs) to carry out projects supporting the function of key city systems, like waste and transport.52 And because city governments are only allowed to use their budgets for projects that can be completed within one year, the World Bank and the Asian Infrastructure 
+Investment Bank provided $100 million in financing to improve creditworthiness of subnational governments and facilitate access to finance for infrastructure. 
+52 IFC 2018. 
+Jakarta, Indonesia | Photo credit: Farhana Ansap
+
+[Page 33]
+BUILDING BLOCK: FINANCE 
+The Sahel Adaptive Social Protection Program (SASPP) is a multi-donor trust fund managed by the World Bank that supports the strengthening of social protection systems in the Sahel to enhance the resilience of poor and vulnerable populations to the impacts of climate change. During the Covid-19 shock, the program was extended to urban populations to support the urban poor. 
+Over the last decade, the governments of Burkina Faso, Chad, Mali, Mauritania, Niger, and Senegal have established national Social Safety Net programs that provide regular and predictable cash transfers to households living in poverty and in vulnerable situations. More recently, complementary productive inclusion interventions like coaching, community savings and loan groups, and life skills and entrepreneurship training have also been implemented to help households diversify their livelihoods and reinforce their adaptive capabilities. As of 2019, nearly 2 million people across the Sahel had benefited directly from this program53. 
+Evidence 
+Research indicates that available financing to cities for resilience investments are limited, and that the bulk of financing for climate resilience is targeted at the national level.54 Although green bonds can help fill budget gaps for local and/or national governments with limited access to capital markets,55 proceeds from such bonds are rarely channeled into resilience investments and are instead more likely to be used for energy efficiency projects.56 Moreover, cities have used green bonds for projects that widen existing inequalities, increasing the financial and environmental risks borne by individuals and communities struggling with poverty.57 
+53 World Bank 2020. 
+54 Negreiros et al 2021. 
+55 OECD and Bloomberg Philanthropies 2015. 
+56 Nature Conservancy 2018a. 
+57 Bigger and Millington 2020. 
+Example 
+Tahoua, Niger | Photo credit: Sarah Farhat/World Bank
+
+[Page 34]
+BUILDING BLOCK: SOCIAL CAPITAL 
+BUILDING BLOCK: SOCIAL CAPITAL 
+Social capital is the trust and norms that enable urban residents to cope with shocks and stresses. It includes the networks connecting localities and groups of similar or different identities, as well as relationships between and among civil society, government and private sector. Building social capital promotes community members working together and helping each other when crisis hits. 
+Despite its potential to contribute to resilience, social capital is often ignored in development policy and practice.58 Social infrastructure, e.g. institutions such as faith-based groups and physical spaces like parks, shapes the way people relate with one another. It helps determine how well urban individuals, households, communities, institutions and systems can absorb, recover from, or emerge stronger from shocks and stresses.59 For instance, trust among community members emboldens next door neighbors to alert first responders to a fire incident in an urban neighborhood. Social ties help bring people together to grieve in the face of a devastating weather event, unforeseen terror attack or outburst of violence in the city. They also can facilitate the seamless transfer of critical information, such as safety protocols, that people need in order to navigate the crisis. 
+With an understanding of social bonds in communities, development organizations can design programs that do not ignore or disrupt social bonds in urban communities and, in some cases, may build that capital. For example, through community-led program design processes, programs can balance the needs and interests of different groups and strengthen social cohesion as a result.60 Taking this step might also point to actions to deepen social bonds in urban communities. As one example, USAID’s Municipal Waste Recycling Program (MWRP) supported grantees in Vietnamese cities to build on the strong bonds between socio political organizations (e.g., farmer cooperatives and women’s unions) and households to foster household buy-in to sustainable waste management practices. 
+However, community-level resilience activities in cities can be more challenging than similar work in rural areas, due to factors such as the variety and capacity of institutions involved, lower levels of social trust, and fewer social ties. 
+58 UN-Habitat 2017. 
+59 USAID n.d.. 
+60 USAID 2018; Wilson Center 2018. 
+Vietnam | Photo credit: USAID
+
+[Page 35]
+BUILDING BLOCK: SOCIAL CAPITAL 
+POTENTIAL ACTIONS TO BUILD SOCIAL CAPITAL 
+Possible Actions  Strengthen the capacity of civil society organizations, including those serving youth, women, local religious communities, and marginalized populations, to be aware of, and respond directly to, community needs  Strengthen capacity of community organizations to maintain and expand networks  Support informal safety nets  Redesign public spaces to encourage more interactions between community members  Emphasize and leverage local expertise and networks in design and implementation of projects  Include social capital in M&E framework of local governance projects 
+A Global Environment Facility (GEF) small grants program in Indonesia assisted communities in carrying out and coordinating landscaping projects. These projects included activities such as biodiversity monitoring, reforestation, awareness-raising and education, with a goal of enhancing ecological resilience, increasing social capital, and promoting sustainable local development.61 
+61 GEF 2020. 
+Indonesia | Photo credit: USAID/Indonesia
+
+[Page 36]
+BUILDING BLOCK: SOCIAL CAPITAL 
+Building on social capital developed through its cultural, political, and institutional development work, a local cooperative bank was able to continue providing services to people following the 2010 earthquake in Haiti.62 
+Singapore’s Housing and Development Board promoted the creation of common corridors, decks, and amenities in public housing in Singaporean cities. These spaces have helped social ties form organically; and by providing spaces for people to congregate safely, has supported the wellbeing of residents even during the COVID-19 pandemic.63 
+62 Cruz et al 2016. 
+63 Center for Livable Cities 2020. 
+Port-au-Prince, Haiti | Photo credit: Kendra Helmer/USAID 
+Example 
+Example 
+Singapore | Photo credit: Jnzl
+
+[Page 37]
+BUILDING BLOCK: SOCIAL CAPITAL 
+Evidence 
+Global evidence indicates that as social capital increases, socio-economic outcomes (e.g., health) improve. Conversely, insecurity/marginalization persists among individuals, households, and communities with weaker social capital.64 Furthermore, social capital plays an important role in helping people cope with a shock or stress, particularly in the short term.65 One study found that the lack of social capital has adverse consequences for the long-term resilience outcomes of migrants—because migrants lose social capital in the process of resettlement, which in turn limits their access to the economic and natural capital needed to adapt to shocks.66 However, the relationship between social capital and resilience can be nuanced - while aspects of social capital, such as trust, facilitate collaboration that can enhance the provision of public goods, they can also reduce incentives for individual adaptation action due to high reliance on others. 
+64 Cheshire, Esparcia, and Shucksmith 2015. 
+65 Béné 2016; Paul et al 2016; Tanner et al 2016. 
+66 Tilt and Gerkey 2016.
+
+[Page 38]
+BUILDING BLOCK: NATURAL CAPITAL 
+BUILDING BLOCK: NATURAL CAPITAL 
+A city’s natural capital of environmental assets—including open space, forests, biodiversity, and wetlands—can provide protection from shocks and stresses. Natural capital lies at the heart of nature-based solutions to resilience, which nurture and deploy urban green infrastructure. 
+Unlike “gray” infrastructure (human-engineered infrastructure such as dams, seawalls, roads) designed to serve a single purpose,67 nature-based solutions serve multiple functions that increase the resilience of an urban area, buffering the impact of floods on communities in vulnerable situations, mitigating heat stress, and improving urban air and water quality, as well as making cities more livable. For example, parks, green roofs and walls, tree-lined streets, and other green infrastructure can help cool the environment, reducing heat island effects along with lowering the energy needed for cooling.68 Wetlands can help curb flooding by retaining stormwater and reducing the impacts of storms on urban drainage systems and nearby communities.69 Sometimes, these green infrastructure and ecosystem services can even take the place of “gray infrastructure” in mitigating the many risks a city faces and delivering results at lower costs.70 
+USAID can work with city government partners to integrate and implement nature-based solutions in urban planning and resilience strategies (e.g., to design and implement regulations to maintain and restore wetlands within city boundaries to reduce water runoff pollution). Hybrid strategies that combine green and gray infrastructure may often be an effective and cost-efficient way to provide more resilient urban services. USAID and partners can also play a role by facilitating access to the funds needed to implement nature-based solutions. Nascent cost data on green infrastructure, rigorous enough to compare to gray infrastructure options, sometimes presents a challenge. Cities can develop protocols for assessing investments in green infrastructure and establish clear guidance for project proposals that can stand up to the detailed requirements typically demanded of engineering projects.71 
+As with the development of gray infrastructure, it is important to mitigate any potential negative impacts of nature-based solutions. For example, green and gray infrastructure investments may facilitate displacement of poorer urban populations, particularly if the improvements they bring to an area drive up land prices. 72 
+As such, it is essential to strive for meaningful representation of local stakeholders in the design and implementation of nature-based solutions in urban areas. Doing so promotes careful consideration of how a solution may help residents be resilient as well as any harms it may pose. 
+Intentional engagement of local stakeholders in nature-based solutions also presents opportunities to deploy local or indigenous knowledge, as needed, to ensure its success.73 
+67 ICLEI 2008. 
+68 Gill et al 2007; Pataki et al 2011. 
+69 World Bank and GFDRR n.d.; Ferreira 2021; Bush and Doyon 2019. 
+70 Bush and Doyon 2019. 
+71 Browder et al 2019. 
+72 Kabisch et al 2016. 
+73 World Wildlife Fund 2021.
+
+[Page 39]
+BUILDING BLOCK: NATURAL CAPITAL 
+POTENTIAL ACTIONS FOR RESTORING AND PROTECTING 
+NATURAL CAPITAL 
+Possible Actions  Emphasize protection of natural capital in land use planning and other urban development regulations  Support co-design processes for infrastructure decisions  Support development of clear guidance to allow green infrastructure to be clearly compared to gray infrastructure options  Construct and/or restore wetlands  Clean-up/restore rivers  Construct “green” roofs and walls 
+The city of Salvador in Brazil launched an urban forest rehabilitation project focused on preserving ecological ecosystems in the city and restoring degraded ones. It aimed to transform public spaces to make the city more livable and included activities such as planting of forest areas, distribution of tree seedlings, and introduction of birds in city parks. This initiative also addressed select climate hazards, including rains, floods, heatwaves and droughts and is expected to yield co-benefits for the environment and population (e.g., improved health).74 
+74 World Wildlife Fund 2021. 
+Example 
+Salvador, Brazil | Photo credit: cities4forests.com
+
+[Page 40]
+BUILDING BLOCK: NATURAL CAPITAL 
+The Global Facility for Disaster Reduction and Recovery (GFDRR) mechanism supported a postdisaster risk assessment that identified the crucial role of urban wetlands in reducing flood risks in Colombo, Sri Lanka. The assessment marked 2,000 hectares of Colombo’s urban wetlands for restoration. Building on the assessment’s findings, the city developed a comprehensive wetlands management strategy that aims to equip decision makers to incorporate wetlands into the city’s flood management system and master plans.75 
+The Cacheu River Mangroves Natural Park in Guinea-Bissau partnered with local communities and national authorities on an initiative focused on conserving existing mangrove resources and restoring degraded ones. About 200 hectares of mangroves have been restored through the initiative so far. Not only is this work helping mitigate floods and sea level rise, but it is also improving agriculture yields.76 The experience of this initiative also shows that awareness-raising activities can be an effective way to help community members understand the importance of mangrove conservation and restoration–and motivate them to support those efforts. 
+75 World Bank and GFDRR n.d.. 
+76 Wetlands International 2018. 
+Example 
+Example 
+Sri Lanka | Photo credit: Pradeep K. Pathirana Guinea-Bissau | Photo credit: Joana Melo
+
+[Page 41]
+BUILDING BLOCK: NATURAL CAPITAL 
+In Ho Chi Minh City, Vietnam, there is a growing trend toward construction of green buildings with green roofs, (i.e., plants and soils) designed to hold rainwater during storm events.77 
+Low-income residents in Lagos, Nigeria created low-cost, community-led vertical greening systems (specifically green walls covered with plants) that helped cool their immediate environment, reducing internal temperatures by an average of 2.3°C.78 
+77 ADB 2016. 
+78 Akinwolemiwa et al 2018. 
+Ho Chi Minh City, Vietnam | Photo credit: David Terrazas 
+Example 
+Example 
+Lagos, Nigeria | Image credit: MOE+ Art Architecture
+
+[Page 42]
+BUILDING BLOCK: NATURAL CAPITAL 
+Evidence 
+One review of 23 studies found that the effectiveness of nature-based solutions in reducing stormwater run-off ranged from 5 percent to almost 100 percent, depending on key site conditions, such as soil, climate and land use.79 Wetlands can store excess water during stormy seasons and release it during dry periods, although they may not be as effective in the case of intense rainfalls.80 Mangroves, in particular, have been found to prevent erosion and reduce the height and intensity of waves, resulting in the protection of coastal areas from flooding and even sea level rise.81 It is estimated that without mangroves, 39 percent more people globally would be affected by flooding each year. In this scenario, the financial loss from flood damage would be $82 billion higher.82 Beyond their flood mitigating function, mangroves provide ecosystem services (e.g., emissions reduction/regulation, water regulation, timber production, fuel, and food) that groups in vulnerable situations and the poor in coastal communities need for livelihood purposes and to cope with extreme events.83 
+79 Nylen and Kiparsky 2015. 
+80 Browder et al 2019. 
+81 Nature Conservancy 2018b. 
+82 Ibid. 
+83 Food and Agriculture Organization 2016.
+
+[Page 43]
+Tacloban City, Philippines | Photo credit: U.S. Department of State
+
+[Page 44]
+III. KEY QUESTIONS AND ILLUSTRATIVE ACTIVITIES TO 
+SUPPORT USAID URBAN RESILIENCE PROGRAMMING 
+Cities in USAID partner countries face increasingly intense and complex shocks and stresses, with causes and impacts that cut across traditional programming areas. Fortunately, there are opportunities to integrate approaches and actions into Agency programming that will contribute to more resilient cities while also improving outcomes in areas such as water, food security, economic growth, health, social cohesion and protection, education, climate change, and disaster risk reduction. 
+There are two broad approaches to consider. The first is to take an urban resilience “lens” to sector-based programming (e.g., energy, WASH). 
+Although USAID’s sector-based staffing and institutional structure, as well as its funding, is often bound by narrow uses and outcomes, single-sector programs that include urban resilience objectives can be successful, particularly when they intentionally connect to the expertise and actions of other sectors operating in the same urban area(s). 
+Secondly, there are opportunities to design cross-sectoral, integrated programs that combine resources from different funding streams. This aligns with the interdisciplinary challenges of urban resilience, including the need for diverse expertise, broad resources, and a holistic approach to addressing complex urban systems. USAID is positioned to take this type of approach to urban resilience, one that draws from its experience with systems-based work across governance, biodiversity, energy, food security, water and sanitation, health, education and other programming. 
+USAID’s Cities Development Initiative, working in eight secondary cities in the Philippines, provides an example of how USAID can blend funds and sectoral approaches to strengthening the economic competitiveness and resilience of cities. Depending on the most urgent needs of the city, USAID provides a range of technical assistance, drawing from resources in economic growth, health, energy, environment, governance and education, to help cities achieve inclusive and resilient growth.84 
+The remainder of this section outlines key questions to prompt initial thinking about urban resilience and programming, and provides illustrative activities to demonstrate how good practices and the building blocks discussed earlier (e.g., Governance, Social Bonds) can be applied by USAID 
+While USAID has focused much of its programming in rural areas, examples abound of USAID working in cities, often through programs that are cross-cutting in nature. For example, the President’s Emergency Plan for 
+AIDS Relief (PEPFAR) Urban Gardens program in Ethiopia provided women with the tools, land, and knowledge to plant vegetable gardens, feed their families, and sell the produce to increase household income, combining PEPFAR, Agriculture, and Food 
+Security programming to increase urban resilience to food insecurity among vulnerable women. Another example is the 2011 - 2016 
+CityLinks city partnership program which used water, global health, and climate adaptation funds to address community challenges in a variety of countries.
+
+[Page 45]
+in both cross-sectoral and single-sector programming. The Governance, Health, and Power sector guides provide additional guidance on integrating urban resilience into those sectors. 
+KEY QUESTIONS TO IDENTIFY AND ASSESS OPPORTUNITIES 
+Applying the five building blocks for strengthening urban resilience requires identification of key risks, assets, actors, capacities, change levers, and integration opportunities that exist in specific urban areas. While not exhaustive, the following questions can help USAID staff and partners working in any sector identify and analyze potential interventions. Available online tools such as 
+Think Hazard may provide useful inputs into answering these questions. 
+Resilience to what? ● What are the physical, financial, social, and natural assets (including services) of the identified intervention area? Are there urban-rural linkages (i.e., commuting, food or other supply chains) that should be considered? ● What are the primary shocks that could threaten these assets, whether natural or humancaused? (e.g., flooding, extreme heat, conflict, etc.) ● What are the chronic stresses that threaten urban resilience? (e.g., income inequality, lack of reliable energy, underdeveloped transportation or communications networks)? ● In what geographies do development challenges, including stresses and shocks, converge? (This can increase the likelihood that investments cut across sectors and yield co-benefits). 
+Resilience for whom? ● Which physical, financial, social, and natural assets, and which populations, are most at risk? 
+What specific considerations are required for these vulnerable people, places, and things? ● How can interventions be designed to enhance the resilience of urban systems, including the individuals, households, communities, institutions and systems that comprise those urban systems? ● What are the unique needs of populations who are marginalized and in vulnerable situations? 
+Resilience through what? ● What governance capacity exists in the potential intervention area (i.e., national, provincial, local)? ● What institutions have the authority to make the necessary decisions? Who are the key stakeholders and what capacity exists outside of government structures (e.g., private sector, citizen associations)? ● What are the sector- or system-level power dynamics and incentives among local actors? (See Thinking and Working Politically through Applied Political Economy Analysis). 
+Resilience to what end? ● What does success look like? How will urban resilience be measured? ● By whom and with what resources are those outcomes to be achieved?
+
+[Page 46]
+LEVERS OF CHANGE AND INTEGRATION OPPORTUNITIES ● Do any of USAID’s existing programs work in the identified urban areas? Which of these can strengthen urban resilience? How might they work together? How might new programming work with existing programs? Is there an opportunity to coordinate with other sectors also planning new programming? ● What has already been done, or is currently being done, related to improving urban resilience? (e.g., Have any other donors worked with the host country on this? Have local authorities addressed this as a priority?) ● What are the possible co-benefits to addressing urban resilience? (e.g., public health, disaster preparedness, reduced GHG emissions, etc.) ● Who are the leaders and champions among host government institutions, community organizations, or development agencies that can advocate for needed changes? 
+By considering these key questions up front, potential entry points to strengthen urban resilience through a defined USAID sector, or through cross-sectoral programming, may become clear. 
+ILLUSTRATIVE ACTIVITIES 
+Below are two illustrative scenarios that depict multi-sectoral entry points and possible interventions to improve urban resilience. These two scenarios provide examples of how different sectors can address and deliver urban resilience solutions. A multi-sectoral approach would combine interventions from multiple sectors. 
+Scenario 1: The USAID mission, through its Country Development Cooperation 
+Strategy (CDCS) process, decides to focus investments in three main population centers across the country. The country is low-income and experienced a civil war 40 years ago. 
+Many young people have left rural villages to look for work in the cities, and income opportunities exist mostly in the informal sector. Population growth in informal settlements is mostly co-located in areas vulnerable to flooding and sea level rise. 
+Governance ● Development and enforcement of zoning regulations and other land use to address shocks such as flooding ● Participatory consultations in target intervention areas ● Strengthening the capacity of urban and regional councils/legislative bodies and national legislatures to conduct budget and policy analysis on urban resilience risks and assets 
+Disaster Risk 
+Reduction ● Stormwater runoff management to address flooding in informal settlements, for example using bioswales, permeable pavement, or protection of open space ● Supporting governments and municipalities in planning ahead for disaster risk financing ● Nature-based Solutions such as greenways to reduce flooding and mangroves to reduce storm surge ● Facilitating sovereign backing of municipal bonds issuances that are disaster or climate contingent (e.g. weather deviates linked to rainfall data) where feasible
+
+[Page 47]
+Health ● Targeted community health programs that address the prevention of both communicable and non-communicable diseases among the urban poor, as these are expected to increase due to climate and related risks (e.g., air pollution and vector-borne diseases) 
+Gender ● Address female underrepresentation in urban planning and participatory budget processes, for example through female-led outreach to female-headed households ● Incorporate gender principles into transit planning 
+Economic Growth ● Large-scale employment programs that target unskilled youth and the mass unemployment challenge, e.g. Civilian Conservation Corps, 
+Climate Change Corps ● Loan portfolio guarantee to encourage lending to urban-based micro, small, and medium enterprises (MSMEs) that are threatened by shocks and stresses or that could provide services that build resilience 
+Security ● Implementation of environmental improvements such as increased LED or solar lighting and improved sight lines (using Crime Prevention 
+Through Environmental Design concepts) 
+Water, Sanitation, and Hygiene (WASH) ● Identify the sources of urban drinking water (i.e., utilities, kiosks, vendors) and promote their regulation to ensure safety, affordability, and protect groundwater resources ● Promote sanitation and hygiene practices that reduce public health risks by minimizing the probability of cholera, diarrhea, and other vector-borne disease outbreaks 
+Natural Resources 
+Management ● Ecosystem Services restoration for coastal systems (dunes, estuaries, marshes, woodlands, riparian zones, coral reefs, mangroves) combined with eco-friendly landscaping as an employment sector for youth and 
+Payment for Ecosystem Services scheme ● Nature-based solutions for climate adaptation and mitigation (bioswales, artificial reefs, mangroves); watershed management; soil conservation; eco-friendly zoning) 
+Energy & 
+Transportation ● Urban planning and finance for safe, affordable, accessible, and low 
+GHG emission mass transit systems ● Promotion of energy efficiency conservation and education through building codes and improved efficiency standards ● Utility programs to provide safe and legal electricity connections and energy efficient appliances to informal settlements
+
+[Page 48]
+Scenario 2: USAID would like to support a medium-income country in its stated priority to protect its two coastal cities. These secondary cities are important hubs of economic growth but are threatened by coastal erosion, increasingly severe storms, and aging infrastructure. The national government recently passed legislation that decentralized many authorities to local governments. 
+Governance ● Support citizen engagement with local governments in exercising their newly obtained authorities (e.g., creation and enforcement of land-use plans, zoning plans) ● Increase own-source revenue generation to support resilience measures ● Strengthen capacity of local governments to harmonize data across regions 
+Disaster Risk 
+Reduction ● Increase capacity of residents to respond and protect their neighborhoods in emergencies (i.e., community emergency response training and certification programs) ● Support mangrove restoration to protect coastal areas from storm surge ● Disaster contingent financing mechanisms 
+Health ● Promote safe and convenient modes of transportation to reduce emissions and promote public health, such as walking and biking 
+Gender ● Capacity strengthening activities that enable women to serve as effective agents for community preparedness for flooding and other urban disasters 
+Economic Growth ● Strengthen public private partnerships for municipal service delivery (e.g., municipal waste collection or energy utilities) 
+Security ● Community-based mapping exercises to identify high risk areas for improved lighting and community policing, and raise awareness on highrisk areas to make communities safer
+
+[Page 49]
+Water, Sanitation, and Hygiene (WASH) ● Develop water resource policies and strategic planning that consider future climate and disaster impacts on water quality and quantity at the national, regional, and sectoral levels ● Support municipal bond guarantees to support construction of resilient water resource infrastructure 
+Natural Resource 
+Management (NRM) ● Ecosystem Services restoration for coastal systems (dunes, estuaries, marshes, woodlands, riparian zones, coral reefs, mangroves) ● Nature-based solutions for climate adaptation and mitigation (bioswales, artificial reefs, mangroves); watershed management; soil conservation; eco-friendly zoning) 
+Energy & 
+Transportation ● Urban transportation planning and development of public-private partnership models to establish safe and reliable mass transit options and routes to reduce GHG emissions (carpool, busing, light rail, bikes/ebikes, scooters) ● Incentives for rooftop solar as an alternative energy source to diesel generators ● Promotion of energy efficiency and education through building codes and improved efficiency standards 
+LINKS TO SECTOR GUIDES 
+Governance Sector Guidance 
+Health Sector Guidance 
+Power Sector Guidance 
+BRINGING THIS TECHNICAL GUIDANCE TO LIFE 
+This technical guidance is an attempt to synthesize lessons learned from USAID and other work to advance urban resilience. We hope you will apply these Building Blocks and other approaches as you plan and implement development programming in your sector and in cross-sectoral programming. We invite you to share your experiences and lessons learned on Urbanlinks’ urban resilience platform. We hope to learn and improve on this technical guidance as we gain experience on this issue so critical to the success of current and future development efforts.
+
+[Page 50]
+GLOSSARY 
+Absorptive Resilience 
+Capacity 
+One of the three types of resilience capacities, it is the ability to minimize exposure and sensitivity to shocks and stresses through preventative measures and appropriate coping strategies that ensure short-term survival while trying to avoid permanent, negative impacts. For example, disaster risk reduction, financial services, and health insurance. 
+Adaptive Resilience 
+Capacity 
+One of the three types of resilience capacities, it is the ability to make informed choices and changes in livelihood and/or other strategies in response to longer-term social, economic, and environmental change. For example, income diversification, market information, and trade networks. 
+Climate Change 
+Adaptation 
+The process of adjusting to the actual or expected climate and its effects in order to moderate harm or exploit beneficial opportunities. In the context of this strategy, adaptation interventions seek to strengthen resilience to the unavoidable impacts of climate change.85 
+Regional/Country 
+Development Cooperation 
+Strategy (R/CDCS) 
+A strategy that defines a Mission’s chosen approach in their partner country and provides a focal point for the development of projects and activities. A R/CDCS presents expected results within a time-bound period, provides a common vision and an organizing framework, and summarizes the status of the ongoing portfolio and how that will be continued, updated, or revised to address new priorities, lessons learned, or circumstances that have changed. The R/CDCS is usually five years long. 
+Diversity And Flexibility 
+One of the six principles of a resilient urban system – the capability to supply urban services via multiple pathways in case one fails, using distributed resources and multifunctional equipment. 
+Equality And Equity 
+Fairness or justice in the way people are treated. The consistent and systematic, fair, and just treatment of all individuals, including individuals who belong to marginalized and underrepresented groups that have been denied such treatment. Equity addresses the specific and proportionate needs of certain persons or groups to attain fair and just treatment and outcomes, as opposed to equality, which when used to describe a process, emphasizes the same or equal treatment for all persons or groups regardless of specific circumstances or needs. Equality as a goal refers to the equal enjoyment of resources, opportunities, and rights.86 
+85 From IPCC WG1 AR6. 
+86 USAID Climate Strategy 2022-2030.
+
+[Page 51]
+Forced Displacement 
+The imposed removal or expulsion of a household or a community as a result of persecution, conflict, shocks, stressors, disaster, generalized violence or human rights violations. A forcibly displaced person may also be referred to as a "forced migrant," a "displaced person" (DP), or, if displaced within the home country, an "internally displaced person" (IDP).87 
+Green Bonds 
+A fixed-income debt instrument designed specifically to support climate-related or environmental projects. This specific use of the funds raised —to support the financing of specific projects— distinguishes green bonds from regular bonds. Green bonds typically come with tax incentives to enhance their attractiveness to investors.88 
+Green Urban Development 
+The practice of creating resilient communities that benefit both humans and the environment, including efforts to shape more sustainable places, communities and lifestyles, and consume less of the world's resources. 
+Gross Domestic Product 
+A monetary measure of the market value of all the final goods and services produced and sold in a specific time period by a country. 
+The percentage that GDP grew (or shrank) from one period to another is one way to gauge how an economy is doing.89 
+HumanitarianDevelopment-Peace (HDP) 
+Coherence 
+Aims to promote complementary collaboration across humanitarian, development, and peace actors in pursuit of a common agenda. Its goal is to maximize impact and sustainability of programs across different kinds of assistance and to reduce the need for humanitarian assistance (HA) over time.90 
+Inclusion 
+A dynamic state in which diversity is leveraged to create a fair, healthy, and high performing organization or community. An inclusive environment is safe, respectful, engaging, celebratory, and motivating and values the unique contributions of all individuals and communities.91 
+Modularity 
+One of the six principles of a resilient urban system–the flexibility to switch over damaged pieces of an urban system without having to shut down or replace the entire system. 
+National Urban Policy “A coherent set of decisions through a deliberate government-led process of coordinating and rallying various actors towards a common vision and goal that will promote more transformative, 
+87 Forced displacement - Wikipedia. 
+88 International Bank for Reconstruction and Development / The World Bank. 2015. What Are Green Bonds? Washington, DC. World Bank 
+Document. 
+89 Gross Domestic Product | U.S. Bureau of Economic Analysis (BEA). 
+90 Programming Considerations for Humanitarian-Development-Peace Coherence: A Note for USAID's Implementing Partners | ResilienceLinks. 
+91 USAID Climate Strategy 2022-2030.
+
+[Page 52]
+productive, inclusive and resilient urban development for the long term”.92 
+Natural Capital 
+The natural environment and the biodiversity contained within that is necessary for the provision of the ecosystem goods and services “essential to basic human needs such as survival, climate regulation, habitat for other species, water supply, food, fiber, fuel, recreation, cultural amenities, and the raw materials required for all economic production.”93 94 
+Redundancy 
+One of the six principles of a resilient urban system–the existence of back-up capacity within urban systems so they can absorb sudden surges in demand or a supply or output disruption. 
+Resilience 
+The ability of people, households, communities, countries, and systems to mitigate, adapt to, and recover from shocks and stresses in a manner that reduces chronic vulnerability and facilitates inclusive growth.95 
+Responsiveness 
+One of the six principles of a resilient urban system–the ability of urban individuals, households, communities, institutions and systems to anticipate and learn quickly, to solicit, encourage, and absorb feedback from stakeholders, e.g. through citizen reporting systems (CRS), and adjusting policy and practice in response to new information about changing climate impacts.96 
+Risk 
+The possibility of harm or losses resulting from natural or humaninduced shocks and stresses (or interactions between these). Risks are assessed according to their likelihood (probability) and impact (severity). 
+Robustness 
+One of the six principles of a resilient urban system–the physical or procedural strength of urban systems to tolerate shocks without significant loss of function and to continue to meet the needs of targeted populations, including those in vulnerable situations. 
+Safe Failure 
+One of the six principles of a resilient urban system–when system components are able to absorb sudden shocks or cumulative stress and fail safely, without catastrophic impacts that ripple through the whole system. For example, a fuse or circuit breaker provides safe failure for an electrical system. Also, used in agile governance principles, i.e. creating a space for policy responses to experiment and explore to find effective solutions. 
+92 National Urban Policy | UN-Habitat (unhabitat.org). 
+93 Costanza et al., 2013. Ecological Modeling. 
+94 Natural Capital - an overview | ScienceDirect Topics. 
+95 USAID Climate Strategy 2022-2030. 
+96 Why Citizen Feedback is Important for Healthy Urban Planning - JSI.
+
+[Page 53]
+Shocks 
+The external, short-term deviations from long-term trends that have substantial, negative effects on people’s current state of wellbeing, level of assets, livelihoods, safety, or their ability to withstand future shocks. An acute natural or human-made event or phenomenon. 
+Stressors 
+Long-term trends or pressures that undermine the stability of a system and increase vulnerability within it. A chronic, ongoing, or cyclical issue. 
+Social Capital Social capital refers to the networks of relationships and bonds within and across individuals, communities and institutions. 
+Systems-Based Approach 
+Systems approaches examine systems–a group of interdependent/interacting parts that form a unified whole to pursue a common goal. Such approaches are designed to focus holistically on a situation, exploring the relationships and interactions between different actors. Achieving and sustaining any development outcome depends on the contributions of multiple and interconnected actors.97 
+Transformative Resilience 
+Capacities 
+One of the three types of resilience capacities, it includes the governance mechanisms, policies and regulations, cultural and gender norms, community networks, and formal and informal social protection mechanisms that constitute the enabling environment for systemic change. For example, infrastructure, good governance, and formal safety nets. 
+Urban Resilience 
+The ability of urban systems to mitigate, adapt to, and recover from shocks and stressors in a manner that reduces chronic vulnerability while positively transforming towards sustainable, equitable, and inclusive development. 
+Urban Systems 
+The complex social, economic, and environmental relationships in urbanized areas (including metropolitan areas, secondary cities or towns and inclusive of urban-rural linkages). Urban systems include people, communities, infrastructure, the natural environment, and cultures, norms, and policies in cities and towns. 
+97 Local Systems: A Framework for Supporting Sustained Development (usaid.gov).
+
+[Page 54]
+REFERENCES 
+100 Resilient Cities. 2016. “Planning for 
+Resilience: Innovative Land Use Policies for 
+Building a Resilient City.” resilience-innovative-land-use-policies-buildingresilient-city 
+Akinwolemiwa, Oluwafeyikemi, Clarice Bleil de 
+Souza, Luigi De Luca, Julie Gwilliam. 2018. Building community-driven vertical greening systems for people living on less than £1 a day: A case study in 
+Nigeria. Building and Environment 131: 277 - 287 https://doi.org/10.1016/j.buildenv.2018.01.022 
+ARUP 2015. City Resilience Framework. London: content/uploads/City-Resilience-Framework2015.pdf 
+Asian Development Bank (ADB) 2014. Urban 
+Climate Change Resilience. 
+149164/urban-climate-change-resiliencesynopsis.pdf 
+Asian Development Bank (ADB). 2015. Urban 
+Planning for Building Resilient Mekong Towns, 
+Volume 3 of the Resource Kit for Building 
+Resilience and Sustainability in Mekong Towns. 
+Manila, Philippines: Asian Development Bank https://drive.google.com/file/d/1NH7R5oYUTTa0
+Hr8f8181L3MsAf2ngwEs/view 
+ADB 2016. Nature-based Solutions for Building 
+Resilience in Towns and Cities: Case Studies from the Greater Mekong Subregion. Manila, 
+Philippines: Asian Development Bank 
+215721/nature-based-solutions.pdf 
+ADB. 2021. Community-led Urban Resilience 
+Planning: A Practical Guide to Inclusive, 
+Community-Led Risk and Vulnerability 
+Assessment and Project Identification. Manila, 
+Philippines: Asian Development Bank documents/48317/48317-004-dpta-en.pdf 
+Bahadur, Aditya, Thomas Tanner, and Florence 
+Pichon. 2016. Enhancing Urban Climate Change 
+Resilience: Seven Entry Points for Action. Manila, 
+Philippines: Asian Development Bank 
+213291/sdwp-047.pdf 
+Bendimerad, Fouad, Bijan Khazai, Jerome Zayas, and James Daniell. 2013. Building a Disaster 
+Resilient Quezon City Project: Hazard, 
+Vulnerability and Risk Assessment Report. 
+Quezon City, Philippines: Earthquake and 
+Megacities Initiative (EMI) 
+94_Building_a_Disaster_Resilient_Quezon_City_
+Project_Hazard_Vulnerability_and_Risk_Assessm ent_Report 
+Béné, Christophe, Ramatu M. Al-Hassan, Oscar 
+Amarasinghe, Patrick Fong, Joseph Ocran, Edward 
+Onumah, Rusiata Ratuniata, Truong Van Tuyen, 
+Allister McGregor, and David Mills. 2016. Is 
+Resilience Socially Constructed? Empirical 
+Evidence from Fiji, Ghana, Sri Lanka, and Vietnam. 
+Global Environmental Change 38: 153-170 
+0959378016300267 
+Bicknell, Jane, Dodman, David, and David 
+Satterthwaite, eds. 2012. Adapting Cities to 
+Climate Change: Understanding and Addressing the Development Challenges. NewYork: 
+Routledge. 
+Bigger, Patrick and Nate Millington. 2020. Getting 
+Soaked? Climate Crisis, Adaptation Finance, and 
+Racialized Austerity. Environment and Planning E: 
+Nature and Space 3(3):601-623 https://journals.sagepub.com/doi/abs/10.1177/2514
+848619876539?journalCode=enea 
+Browder, Greg, Suzanne Ozment, Irene 
+Rehberger Bescos, Todd Gartner, and GlennMarie Lange. 2019. Integrating Green and Gray : 
+Creating Next Generation Infrastructure. 
+Washington, DC: World Bank and World 
+Resources Institute https://openknowledge.worldbank.org/handle/10986/3
+1430 
+Bush, Judy and Andréanne Doyon. 2019. Building 
+Urban Resilience with Nature-based Solutions: 
+How Can Urban Planning Contribute. Cities 95 
+0264275119313976
+
+[Page 55]
+Center for Livable Cities. 2020. Building 
+Community Resilience: Social Ties and 
+Connections. CLE Insights 59 http://apps2.coj.net/City_Council_Public_Notices _Repository/Aldrich_CLC_Insights2020_Issue59_
+250720.pdf 
+Cheshire, Lynda, Javier Esparcia, and Mark 
+Shucksmith. 2015. “Community Resilience, Social 
+Capital, and Territorial Governance.” Revista de 
+Estudios sobre Despoblación y Desarrollo Rural 
+18: 7 - 38 
+City of Dakar. 2020. Civic Engagement and 
+Participatory Governance in Climate Action. 
+Dakar, Senegal: City of Dakar https://cdn.locomotive.works/sites/5ab410c8a2f42
+204838f797e/content_entry5ae2f905a2f4220ae64
+5f026/5f914e82ffd7b000ad353909/files/City_of_D akar__Participatory_governance_EN.pdf?1615812588 
+Climate Policy Initiative. 2021. Accelerating 
+Renewable Energy Finance in Indonesia: The 
+Potential of Municipal Green Bonds. content/uploads/2021/07/The-potential-ofmunicipal-green-bonds.pdf 
+Climate and Development Knowledge Network. 
+2021. Urban Resilience in Bangladesh: Integrating 
+Local and National Processes. https://cdkn.org/sites/default/files/files/UrbanResilience-Planning-in-Bangladesh_Final.pdf 
+Climatelinks. n.d. “Climate Risk Management 
+Resources and Training.” management-resources-and-training 
+Climate Investment Funds. 2021. “Climate 
+Resilience.” mate-resilience 
+Climate Funds Update. n.d. “Pilot Program for 
+Climate Resilience.” https://climatefundsupdate.org/the-funds/pilotprogram-for-climate-resilience-2/ 
+Coalitions for Urban Transitions. 2020. Climate 
+Emergency, Climate Opportunity: How National 
+Governments Can Secure Economic Prosperity and Avert Climate Catastrophe by Transforming 
+Cities. Washington, DC: Coalition for Urban 
+Transitions https://urbantransitions.global/wpcontent/uploads/2019/09/Climate-EmergencyUrban-Opportunity-report.pdf 
+Cruz, Luciano, Natalia Delgado, Bernard Leca, and 
+Jean-Pascal Gond. 2016. “Institutional Resilience in 
+Extreme Operating Environments: The Role of 
+Institutional Work.” Business & Society 55(7): 
+970-1016. https://journals.sagepub.com/doi/abs/10.1177/0007
+650314567438?journalCode=basa 
+Cutter, Susan L., Christopher G. Burton, and 
+Christover T. Emrich. 2010.“Disaster Resilience 
+Indicators for Benchmarking Baseline Conditions.” 
+Journal of Homeland Security and Emergency 
+Management 7(1) 
+2/1547-7355.1732/html?lang=en 
+Ferreira, Carla, Kristina Potočki, Marijana 
+Kapović-Solomun, and Zahra Kalantari. 2021. 
+Nature-Based Solutions for Flood Mitigation and 
+Resilience in Urban Areas. In: The Handbook of 
+Environmental Chemistry. Springer, Berlin, 
+Germany https://link.springer.com/chapter/10.1007/698_202
+1_758 
+Food and Agriculture Organization (FAO). 2016. 
+Valuing Coastal Ecosystems as Economic Assets. 
+Rome, Italy: Food and Agriculture Organization f1-aec6-4847-9e22-8acd254c7b3f/ 
+Gill, S.E; Handley, J.F; Ennos, A.R; Pauleit, S. 2007. “Adapting Cities for Climate Change: The Role of the Green Infrastructure.” Built Environment 
+33(1): 115-133 v/2007/00000033/00000001/art00008 
+Global Environment Facility (GEF). 2020. Seventh 
+Operational Phase of the GEF Small Grants 
+Programme in Indonesia. documents/10510_MFA_PIF.pdf 
+Hallegatte, Stephane, Adrien Vogt-Schlib, Julie 
+Rozenberg, Mook Bangalore and Chloe Beaudet. 
+2020. “From Poverty to Disaster and Back: a 
+Review of the Literature.” Economics of Disasters and Climate Change 4: 223 - 247 https://link.springer.com/article/10.1007/s41885020-00060-5 
+Hallegatte, Stephane, AdrienVogt-Schilb, Mook 
+Bangalore, and Julie Rozenberg. 2017.
+
+[Page 56]
+Unbreakable: Building the Resilience of the Poor in the Face of Natural Disasters. Washington, 
+DC:World Bank Group https://openknowledge.worldbank.org/handle/109
+86/25335; 
+Harvey, Mark, Nuha Eltinay, Sarah Barnes, 
+Rebecca Guerriero, and Mathylde Caffa. 2018. 
+Open Data Infrastructure for City Resilience: A 
+Roadmap Showcase and Guide. http://resurgence.io/Downloads/ODIR%20Publicat ion%20Final%2016042018.pdf 
+Hudson, Paul and Wouter Botzen. 2019. “Cost– benefit Analysis of Flood-zoning Policies: A 
+Review of Current Practice.” WIREs Water 6 (1387) https://wires.onlinelibrary.wiley.com/doi/full/10.10
+02/wat2.1387 
+International Institute for Environment and 
+Development (IIED). 2014. “Introduction to 
+Urban Poverty” 
+International Finance Corporation (IFC). 2018. 
+Climate Investment Opportunities in Cities An 
+IFC Analysis. Washington, DC: IFC de49-460e-a66a-dd2664452840/201811-CIOCIFC-Analysis.pdf?MOD=AJPERES&CVID=mthPzYg 
+Local Governments for Sustainability (ICLEI). 
+2008. Nature-based Solutions for Sustainable 
+Urban Development. Bonn, Germany: ICLEI https://unfccc.int/files/parties_observers/submissio ns_from_observers/application/pdf/777.pdf 
+Lohmann, Max. 2020. “Resilient Urban 
+Infrastructure – Helping Cities Find the Right 
+Blend of Finance.” ClimateLinks infrastructure-helping-cities-find-right-blendfinance 
+Intergovernmental Panel on Climate Change (IPCC). 2022. Climate Change 2022: Impacts, 
+Adaptation and Vulnerability. Geneva, Switzerland: 
+IPCC https://report.ipcc.ch/ar6wg2/pdf/IPCC_AR6_WG
+II_SummaryForPolicymakers.pdf 
+IPCC. 2014. Climate Change 2014: 
+Impacts,Adaptation, and Vulnerability. Part A: 
+Global and Sectoral Aspects. Contribution of 
+Working Group II to the Fifth Assessment Report of the Intergovernmental Panel on Climate 
+Change. Cambridge: Cambridge University Press 
+IPCC. 2022. Summary for Policymakers. In: 
+Climate Change 2022: Impacts, Adaptation, and 
+Vulnerability. Contribution of Working Group II to the Sixth Assessment Report of the 
+Intergovernmental Panel on Climate Change. 
+Cambridge: Cambridge University Press https://report.ipcc.ch/ar6wg2/pdf/IPCC_AR6_WG
+II_SummaryForPolicymakers.pdf 
+International Centre for Climate Change and 
+Development. 2022. “Least Developed Countries 
+Universities Consortium on Climate Change 
+Kabisch, Nadja, Niki Frantzeskaki, Stephan Pauleit, 
+Sandra Naumann, McKenna Davis, Martina 
+Artmann, Dagmar Haase, Sonja Knapp, Horst 
+Korn, Jutta Stadler, Karin Zaunberger, and Aletta 
+Bonn. 2016. Nature-based solutions to climate change mitigation and adaptation in urban areas: perspectives on indicators, knowledge gaps, barriers, and opportunities for action. Ecology and 
+Society 21(2):39. 
+9/ 
+Martín, Carlos and Sara McTarnaghan. 2018. 
+Institutionalizing Urban Resilience.A Midterm 
+Monitoring and Evaluation Report of 100 Resilient 
+Cities.Washington, DC: Urban Institute content/uploads/Institutionalizing-UrbanResilience-A-Midterm-Monitoring-and-EvaluationReport-of-100-Resilient-Cities.pdf 
+Mayor’s Migration Council. n.d. “Global Cities 
+Fund for Inclusive Climate Action.” 
+Mpanje, Desire, Pat Gibbons, and Ronan 
+McDermott. 2018. “Social Capital in Vulnerable 
+Urban Settings: An Analytical Framework.” 
+Journal of International Humanitarian Action 3(4) https://jhumanitarianaction.springeropen.com/artic les/10.1186/s41018-018-0032-9 
+Nature Conservancy. 2018a. Innovative Finance 
+For Resilient Coasts and Communities. Arlington, 
+VA: Nature Conservancy and United Nations 
+Development Programme nature.org/content/dam/tnc/nature/en/documents/
+Innovative_Finance_Resilient_Coasts_and_Comm unities.pdf
+
+[Page 57]
+Nature Conservancy. 2018b. The Global Value of 
+Mangroves for Risk Reduction: Technical Report. 
+Berlin, Germany: Nature Conservancy onPractices/Marine/crr/library/Documents/Global
+MangrovesRiskReductionTechnicalReport10.7291/
+V9DV1H2S.pdf 
+Negreiros, Priscilla, Valérie Furio, Angela 
+Falconer, Morgan Richmond, Kristiina Yang, Laura 
+Jungman, Bella Tonkonogy, Aleksandra Novikova, 
+Marianne Pearson, Ian Skinner, Sandrine 
+Boukerche, David Mason, Jamie Boex and Jan 
+Whittington. 2021. The State of Cities Climate 
+Finance. Climate Policy Initiative the-state-of-cities-climate-finance/ 
+Nylen, Neil and Michael Kiparsky. 2015. 
+Accelerating Cost-Effective Green Stormwater 
+Infrastructure: Learning from Local 
+Implementation. Berkeley, CA: Center for Law, 
+Energy & the Environment, U.C. Berkeley School of Law ort_Full_2015-02-25.pdf 
+OECD and Bloomberg Philanthropies. 2015. 
+Green Bonds: Mobilising the Debt Capital 
+Markets for a low-carbon transition. Policy 
+Perspectives. onds%20PP%20%5Bf3%5D%20%5Blr%5D.pdf 
+Pataki, Diane, Margaret Carreiro, Jennifer 
+Cherrier, Nancy Grulke, Viniece Jennings, 
+Stephanie Pincetl, Richard Pouyat,Thomas 
+Whitlow, and Wayne Zipperer. 2011. “Coupling 
+Biogeochemical Cycles in Urban Environments: 
+Ecosystem Services, Green Solutions, and 
+Misconceptions.” Frontiers in Ecology and the 
+Environment 9: 27-36 https://esajournals.onlinelibrary.wiley.com/doi/full/
+10.1890/090220 
+Paul, Christopher, Erika Weinthal, Marc 
+Bellemare, Marc Jeuland . 2016. “Social Capital, 
+Trust, and Adaptation to Climate Change: 
+Evidence from Rural Ethiopia.” Global 
+Environmental Change 36: 124-138 pii/S0959378015300741 
+Raza, Tabassam,Carmelita Liwag, Andrea 
+Valentine Andres, Jun Castro, Aldrin Cuña, 
+Vincent Vinarao, Thess Raza, Karl Marasigan, 
+Ramon Espinosa, Frederika Rentoy, Bianca Perez, and Nisar Ahmed. 2020. “Extreme weather disasters challenges for sustainable development: 
+Innovating a science and policy framework for disaster-resilient and sustainable Quezon City, 
+Philippines,” Progress in Disaster Science 5 
+259006172030003X 
+ResilienceTools. 2022. “What is Resilience? 
+Definitions” http://resiliencetools.net/node/14 
+Revi, Aromar, David Satterthwaite, Fernando 
+Aragón-Durand, Jan Corfee-Morlot, Robert 
+Kiunsi, Mark Pelling, Debra Roberts, and William 
+Solecki. 2014. Urban areas. In: Climate Change 
+2014: Impacts, Adaptation, and Vulnerability. Part 
+A: Global and Sectoral Aspects. Contribution of 
+Working Group II to the Fifth Assessment Report of the Intergovernmental Panel on Climate 
+Change 
+WGIIAR5-Chap8_FINAL.pdf 
+Richmond, Morgan, Nidhi Upadhyaya, and Angela 
+Ortega Pastor. Cities Climate Finance Leadership 
+Alliance. 2021. An Analysis of Urban Climate 
+Adaptation Finance: A Report from the Cities 
+Climate Finance Leadership Alliance. content/uploads/2021/02/An-Analysis-of-UrbanClimate-Adaptation-Finance.pdf 
+Rockefeller Foundation. n.d. Independent 
+Evaluation Finds 100 Resilient Cities Moving 
+Transformation in Cities Across The Globe. New 
+York, NY: Rockefeller Foundation https://resilientcitiesnetwork.org/downloadable_r esources/UR/100-Resilient-Cities-MidtermEvaluation-Report-Summary.pdf 
+Rockefeller Foundation. 2022. “100 Resilient 
+Cities” resilient-cities/ 
+Sherrieb, Kathleen, Fran H. Norris, and Sandro 
+Galea. 2010.“Measuring Capacities for 
+Community Resilience.” Social Indicators 
+Research 99 (2): 227–47 https://link.springer.com/article/10.1007/s11205010-9576-9 
+Sitko, Pamela and Antonio Massella. 2019. Building 
+Urban Resilience in the Face of Crisis: A Focus on 
+People and Systems. Global Alliance for Urban
+
+[Page 58]
+Crises dingurbanresilienceinthefaceo.pdf 
+Spaliviero, Mathias, Mark Pelling, Luis Felipe 
+Lopes, Chiara Tomaselli, Katharina Rochell, and 
+Marcia Guambe. 2020. “Resilience planning under information scarcity in fast growing African cities and towns: The CityRAP approach.” International 
+Journal of Disaster Risk Reduction 44 
+2212420919301347 
+Tanner, Thomas, Emma Lovell, Florence Pichon, 
+Aditya Bahadur and Hani Morsi. 2016. Resilience 
+Scan January-March 2016: A Review of Literature, 
+Debates and Social Media Activity on Resilience. 
+London: Overseas Development Institute https://cdn.odi.org/media/documents/11260.pdf 
+Tilt, Bryan and Drew Gerkey. 2016. “Dams and 
+Population Displacement on China’s Upper 
+Mekong River: Implications for Social Capital and 
+Social–ecological Resilience.” Global 
+Environmental Change 36: 153 - 162 pii/S0959378016300024?via%3Dihub 
+UCCRN. 2018. The Future we Don’t Want: How 
+Climate Change Could Impact the World’s 
+Greatest Cities. UCCRN Technical Report. content/uploads/2021/08/1789_Future_We_Dont _Want_Report_1.4_hi-res_120618.original.pdf 
+United Nations Human Settlements Programme (UN-Habitat). 2017. Trends in Urban Resilience 
+2017. Nairobi, Kenya: UN-Habitat http://urbanresiliencehub.org/wpcontent/uploads/2017/11/Trends_in_Urban_Resili ence_2017.pdf 
+UNHCR. Global Trends in Forced Displacement in 2019. Copenhagen, Denmark: UNHCR content/uploads/sites/46/2020/07/Global-TrendsReport-2019.pdf 
+USAID. n.d. Urban Climate Adaptation: From Risk 
+Barriers to Results. https://icma.org/sites/default/files/305636_Full%20
+CLA%20Final%20Report%2010.24xx.pdf 
+USAID. 2020. Five Years’ Progress on Climate 
+Resilient Development: Final Report. Washington, 
+DC: USAID t/document/2020_USAID_ATLAS_Five-YearsProgress-on-Climate-Resilient-Development.pdf 
+USAID. 2013. USAID Policy: Sustainable Service 
+Delivery in an Increasingly Urbanized World. 
+Washington, DC: USAID s/1870/USAIDSustainableUrbanServicesPolicy.pdf 
+USAID. 2016a. Things to Know about Urban 
+Adaptation: From the USAID Adapt Asia-Pacific 
+Urban Climate Change Adaptation and Resilience 
+Training Course. Washington, DC: USAID https://urban-links.org/wp-content/uploads/6Things-to-Know-about-Urban-Adaptation.pdf 
+USAID. 2016b. Climate Risk Profile: Sierra Leone. risk-profile-sierra-leone 
+USAID. 2016c. Climate Risk Profile: Lebanon. risk-profile-lebanon 
+USAID. 2016d. Climate Risk Profile: Honduras. risk-profile-honduras 
+USAID. 2018. Resilience Evidence Forum Report. 
+Washington, DC: USAID. s/1867/0717118_Resilience.pdf 
+Van Valkengoed, Anne and Linda Steg. 2019. 
+Meta-analyses of Factors Motivating Climate 
+Change Adaptation Behaviour. Nature Climate 
+Change 9:158-163 
+0371-y 
+Watson, Charlene, Liane Schalatek, and Aurélien 
+Evéquoz. 2021. Climate Finance Thematic Briefing: 
+Adaptation Finance. Washington, DC: Heinrich 
+Böll Stiftung https://climatefundsupdate.org/wpcontent/uploads/2022/03/CFF3-AdaptationFinance_ENG-2021.pdf 
+Wetlands International. 2018. Conserving 
+Biodiversity of Cacheu Mangroves at Guinea 
+Bissau. biodiversity-cacheu-mangroves-national-parkguinea-bissau/ 
+Wilson Center. 2018. “Urban Risk or Resilience? 
+Improving Informal Settlements in Urban Africa”
+
+[Page 59]
+or-resilience-improving-informal-settlementsurban-africa 
+World Bank. 2020. The Sahel Adaptive Social 
+Protection Program. Annual Report 2020. https://socialprotection.org/sites/default/files/publi cations_files/SASPP%202020.pdf 
+World Bank. 2021. Advancing Climate Action and 
+Resilience through an Urban Lens. Washington, 
+DC: World Bank ment/brief/climate-action-through-an-urban-lens 
+World Bank and Global Facility for Disaster 
+Reduction and Recovery (GFDRR). n.d. Urban 
+Wetlands: A New Model for Urban Resilience in 
+Colombo /soi-colombo.pdf 
+World Bank. 2015. Investing in Urban Resilience: 
+Protecting and Promoting Development in a 
+Changing World. Washington, DC: World Bank /Urban%20Resilience%20Flagship%20Report%20FI
+NAL%20%2810%2012%2016%29.pdf 
+World Bank. 2012. Building Urban Resilience: 
+Principles, Tools, and Practice. Washington, 
+DC:World Bank /EAP_handbook_principles_tools_practice_web.p df 
+World Wildlife Fund. 2021. Urban Nature Based 
+Solutions: Cities Leading the Way. Gland, 
+Switzerland: World Wildlife Fund https://wwfint.awsassets.panda.org/downloads/exe _wwf_a4_template_sbn_final2.pdf
+
+[Page 60]
+ACKNOWLEDGEMENTS 
+The following individuals provided essential input and support for development of the USAID 
+Urban Resilience Technical Guidance: ● Becky Chacko, Senior Climate Change Integration Specialist, USAID DDI/EEI/Climate and 
+Cross-sectoral Strategy Branch ● Monica Bansal, Green Cities Division Lead, USAID DDI/EEI/Green Cities ● Kevin Nelson, Urban Governance Lead, USAID DDI/DRG/Governance ● Ken MacClune, Climate Change Specialist, USAID DDI/EEI/Climate and Cross-sectoral 
+Strategy Branch ● Micaela Arthur, Senior Health Advisor - Special Populations, Asia Bureau Office of Technical 
+Services ● Amit Chandra, Senior Emerging Health Challenges Advisor, Asia Bureau Office of Technical 
+Services ● Kara Reeve, Resilience and Climate Adaptation Advisor, Center for Resilience, Bureau for 
+Resilience and Food Security ● Jordan Kimball, Natural Resources & Environment Officer, USAID ● Sara McTarnaghan, Senior Research Associate, USAID CEL Project, Urban Institute ● Aleisha Khan, Chief of Party, USAID CEL Project, TRG ● Stanford Smith, Senior Communications Specialist, USAID CEL Project, TRG ● James Ladi Williams, Research Associate, USAID CEL Project, Urban Institute ● Nancy Leahy Martin, Senior Governance Consultant, USAID CEL Project, TRG

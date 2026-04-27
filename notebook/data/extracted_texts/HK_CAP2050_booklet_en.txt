@@ -1,0 +1,1375 @@
+[Page 2]
+Message from the Chief Executive 
+Foreword 
+Chapter 1 : Climate Emergency 
+Chapter 2 : Past Achievements in Decarbonisation 
+Chapter 3 : Challenges 
+Chapter 4 : Decarbonisation Strategies • Targets • Actions 
+Chapter 5 : Climate Change Adaptation and Resilience 
+Chapter 6 : Opportunities 
+Concluding Remarks 
+Annex : Decarbonisation Strategies and Actions
+
+[Page 3]
+Message from the Chief Executive 
+The world is struggling with the COVID-19 pandemic but we must also gear up to act to limit global warming and the catastrophic consequences it can have for us all. On both COVID-19 and climate change, governments all over the world must act in concert. 
+Our country is committed to achieving peak carbon dioxide emissions before 2030 and carbon neutrality before 
+2060. As an international city of China, Hong Kong has been an active participant in global efforts to combat climate change. To signify Hong Kong’s commitment, I announced last year our pledge to achieve carbon neutrality before 2050. 
+Hong Kong’s carbon emissions already peaked in 2014 through a series of measures, notably the significant reduction in coal for electricity generation. In our first Hong Kong’s Climate Action Plan 2030+ published in 
+2017, we pledged that by 2030, the total carbon emissions would reduce by 26-36% against the 2005 baseline. 
+I am pleased to report that good progress has been made: in 2020, our carbon emissions were about 20% lower than those in 2005. With the new pledge made last November to achieve carbon neutrality before 2050, a 
+Steering Committee personally chaired by me has been working on a new blueprint since the beginning of this year. 
+We are delighted to present the Hong Kong’s Climate Action Plan 2050 which sets the vision of “Zero-carbon 
+Emissions •Liveable City •Sustainable Development”, and commits to a more aggressive medium-term target to reduce total carbon emissions of Hong Kong by half against the 2005 level before 2035. 
+Over the last decade, we have allocated more than HK$47 billion to various carbon reduction measures. In the next 15 to 20 years, the Government will be investing another HK$240 billion to support a series of actions to combat climate change. Major actions will include developing distributed renewable energy, managing energy demand including enhancing energy efficiency and conservation in both new and existing buildings, decarbonising the vehicle fleet to reach zero vehicular emissions, and transforming our waste management system to cease landfilling of municipal wastes, etc. 
+Achieving carbon neutrality in less than 30 years is a tremendous challenge, but it will also open up new opportunities for Hong Kong. The many green initiatives put forward by the Government will create business prospects, nurture local talents and provide employment opportunities. The Government’s drive to reduce carbon emissions will also boost investment by the private sector, creating more business and more jobs. They will help 
+Hong Kong recover in a green way from the economic impact of the COVID-19 pandemic. As a leading international financial centre and innovation and technology hub, Hong Kong will capitalise on the opportunities to develop the city into a leading green financial centre and a new hub for smart and green technology. The Green and Sustainable Finance Cross-Agency Steering Group, led by the Hong Kong Monetary Authority and the 
+Securities and Futures Commission, was established last year to accelerate the growth of green and sustainable finance in Hong Kong. 
+In addition, Hong Kong aspires to integrate into the national development. Leveraging our position as a highly-connected international city, we will be a perfect gateway for foreign businesses to access the Mainland market and for Mainland enterprises to go global, especially to countries along the Belt and Road. Our efforts in decarbonisation as well as our professionals will be able to make a contribution to the global agenda beyond Hong 
+Kong. For this, we will continue to participate in and work with the international community to combat climate change. We will also partner with our neighbouring cities in the Guangdong-Hong Kong-Macao Greater Bay Area to develop this world-class city cluster into an exemplary liveable and sustainable region. 
+Carrie Lam 
+Chief Executive 
+Hong Kong Special Administrative Region
+
+[Page 4]
+Foreword 
+In its report released in August this year, the Intergovernmental Panel on Climate Change of the United Nations issued a global red alert, pointing out clearly that global warming caused by human activities had led to more frequent and intense extreme weather events around the world. To stabilise the global temperature in the next 20 to 30 years, concerted and timely actions are needed worldwide to reduce carbon emissions. To this end, the Chief 
+Executive announced in her 2020 Policy Address that Hong Kong would strive to achieve carbon neutrality before 
+2050. 
+Hong Kong is among the earliest cities in Asia taking actions to combat climate change. We stopped the construction of new coal-fired power plants in 1997, and since then have been gradually replacing coal with natural gas and zero-carbon sources for power generation. Due to efforts in the past, our carbon emissions peaked in 2014. 
+To respond to the Paris Agreement, we issued the first Hong Kong’s Climate Action Plan 2030+ in 2017, laying down plans and actions to reduce the carbon intensity by 65-70% by 2030 against the 2005 baseline. In 2020, our carbon emissions were about one-fifth below the baseline of 2005, with a per capita emission of about 4.5 tonnes per year, which had dropped by almost 30% from the peak level of 6.2 tonnes per capita in 2014. 
+Currently, about 66%, 18% and 7% of Hong Kong’s carbon emissions comes from power generation, transport and waste (mainly from landfills) respectively. To achieve carbon neutrality, our three major tasks are to go for net-zero carbon emissions for electricity supply and transport, and to cease landfilling of municipal wastes. This year, we have already published the Waste Blueprint for Hong Kong 2035, the Hong Kong Roadmap on Popularisation of Electric 
+Vehicles and the Clean Air Plan for Hong Kong 2035. They set out the strategies, targets and measures that lay a solid foundation for achieving carbon emissions reduction and other goals. 
+The Hong Kong’s Climate Action Plan 2050 is the fourth major environmental policy plan published this year. It brings together the overall strategies, plans, targets and actions for Hong Kong to achieve carbon neutrality before 
+2050. In searching for net-zero carbon electricity supply, various zero-carbon energy sources and power generation technologies are being developed around the world. For Hong Kong, the safety, reliability, affordability and environmental performance of energy supply are the major considerations. Equally important is reducing energy demand, as it will help lower the costs of achieving carbon neutrality. 
+The Hong Kong’s Climate Action Plan 2050 manifests the joint efforts of various government bureaux and departments. The strategies and targets intertwine with the financial, economic and technological developments as well as education and capacity building in Hong Kong. Although the implementation of these strategies and targets will be challenging, it will also bring many new opportunities that will not only help Hong Kong become a carbon neutral city, but also support a green recovery of the economy from the effects of COVID-19. 
+To help the Government develop a new plan to combat climate change, the Council for Sustainable Development conducted a comprehensive bottom-up public engagement exercise. The Council submitted in November 2020 a report on Hong Kong’s long-term decarbonisation strategy to the Government with many relevant recommendations and support for Hong Kong to achieve carbon neutrality before 2050. I would like to express my heartfelt gratitude to the Council members for their hard work and contribution. 
+To successfully combat climate change, the whole community must work hand-in-hand. The Government, the private sector and the general public must take proactive actions together. I look forward to working with all parties, including the commercial and industrial sectors, professionals and the youth, as we embark on Hong Kong’s deep decarbonisation journey. 
+Wong Kam-sing 
+Secretary for the Environment
+
+[Page 5]
+Summary of Hong Kong’s Climate Action Plan 2050
+Vision Zero-carbon Emissions • Liveable City • Sustainable Development
+Ret
+Decarbonisation ro
+Over the past decade, the Government has allocated over $47 billion to s implement various carbon reduction measures. The two power companies p have also allocated about $39 billion e to decarbonisation projects ct
+Reduce Coal for Electricity Generation a
+Reduce the share of coal in the fuel mix for electricity generation from n around half in 2015 to less than a d quarter P
+Energy Saving and Green Buildings ro
+About 2.1 billion kWh of electricity was saved in 2020 as compared s with 2015 (-4.7%) p
+Electric Vehicles (EVs) e
+In the first half of 2021, one out of ct every five newly registered private cars is EV
+Adaptation and Resilience
+The Climate Change Working Group on 
+Infrastructure: Major Studies 
+Strengthening Infrastructure 
+• Study on resilience of Government critical infrastructure in Hong Kong under extreme weather
+• Sensitivity test under direct hit by super typhoons 
+• Frequency analysis of extreme sea levels
+Tropical Cyclones
+• Projection of extreme winds
+Extreme Temperatures 
+• Study on potential impacts on Government infrastructure under extreme temperatures
+Reduce Flood Risk
+Eliminated 127 flooding blackspots, improvement works for the remaining 
+4 blackspots will be completed in phases
+Contingency Plan for Natural Disasters
+Inter-departmental 
+Steering
+Committee chaired by the Chief 
+Secretary for Administration to handle natural disasters of a substantial scale
+Contingency Plan for Transport System
+Update contingency plans to handle emergency situations at major transport infrastructure
+Emergency Alert System
+Disseminate messages to mobile users during emergency situations to remind the public to adopt contingency measures
+Strategies • Opportunities
+Moving towards carbon neutrality can bring ample and diverse development opportunities, enhance Hong Kong’s competitiveness and support sustainable development
+Steering and Coordination
+Climate Budget
+Office of Climate Change 
+Advisory Committee
+Public Engagement $240 billion and Carbon Neutrality
+The Steering Committee 
+Allocate ~ 
+Establish a dedicated 
+Government to work on Climate Change and to combat climate change 
+Set up a new office to advisory committee to together with different 
+Carbon Neutrality under in the next 15 to 20 years strenghten coordination and encourage public sectors to promote the chairmanship of the promote decarbonisation participation, including low-carbon lifestyle
+Chief Executive to formulate young people the overall strategy
+Green Finance
+Green Economy
+Technology and Innovation
+Capacity Building
+Carbon-neutral 
+Communities
+Accelerate the development 
+Facilitate the development 
+Promote I&T development 
+Climate change-related of green and sustainable of green industries, create and re-industrialisation, content to be incorporated 
+Develop strategic growth finance, develop 
+Hong investment and job facilitate the application of into the curricula of areas into carbon-neutral 
+Kong into a green financial opportunities decarbonisation technotertiary institutions communities hub in the region logies and green R&D 
+Net-zero Electricity Generation • Energy Saving and Green Buildings
+In 2019, electricity generation accounted for about 66% of total 
+Decarbonisation comes at a price. Buildings account for about 90% of carbon emissions. Hong Kong will gradually reduce the use of fossil 
+Hong Kong’s total electricity consumption. Promoting energy conservation fuel and expedite the use of clean zero-carbon energy and improving energy efficiency can help reduce the cost of transformation
+No Coal for Electricity Generation
+Zero-carbon Energy
+Electricity Saving in Buildings
+60-70%
+COMMERCIAL 
+RESIDENTIAL 
+2035
+2035
+2035
+BUILDINGS
+BUILDINGS
+15-20%
+10-15%
+Cease using coal for daily electricity 
+Trial of new energy and closer 
+Electricity generation, to be replaced by low to cooperation with neighbouring consumption (Reduce by 30-40% (Reduce by 20-30% zero-carbon energy areas to increase the supply of (Compared subsequently) subsequently) zero-carbon electricity with 2015)
+Renewable Energy (RE)
+Cooperation and Innovation
+Strengthening Regulation
+Smart Management
+7.5-10%
+Seek investment and development 
+Continuous enhancement of energy 
+Use smart technologies 
+2035 opportunities, participate in and performance of buildings to enhance energy saving operate zero-carbon energy 
+• Expand the scope of regulation to management and energy (Increase to 15% subsequently) projects near Hong Kong cover all buildings with high energy efficiency of buildings 
+Public and private sectors to develop consumption and infrastructure
+RE proactively to increase its share in 
+• Conduct more frequent energy audits the fuel mix for electricity generation
+• Implement the identified energy 
+Incorporate district management opportunities cooling systems in 
+• development projects Strengthen the promotion of retro-commissioning
+Explore setting a minimum energy efficiency requirement for specified appliances
+Green Transport
+Transport constituted about 18% of total carbon emissions in 2019. Popularisation of EVs and other new energy transport can help the transport sector achieve zero carbon emissions
+Clean Air Plan for Hong Kong 2035
+Hong Kong Roadmap on Popularisation of Electric Vehicles
+2035
+2050
+Implement strategies 
+Take forward in the Clean Air Plan to measures set forth promote adoption of in the EV Roadmap new energy transport to attain zero to expedite low-carbon vehicular emissions transformation before 2050
+Waste Reduction
+Waste accounted for about 7% of total carbon emissions in 2019. Developing waste-to-energy facilities and promoting waste reduction and recycling will enable us to move away from reliance on landfills for municipal waste disposal
+Municipal Solid 
+Regulation of Disposable
+Waste-toWaste Blueprint for Hong Kong 2035
+Waste Charging
+Plastic Tableware energy
+2035
+2023
+2025
+2035
+Implement the Waste Blueprint for 
+Prepare for implemenRegulate disposable 
+Develop adequate wasteHong Kong 2035 to realise the vision tation of waste charging, plastic tableware, etc. to-energy facilities, move of “Waste Reduction • Resources encourage waste reductin phases, reduce away from reliance on 
+Circulation • Zero Landfill” ion and recycling, and plastic at source landfills for municipal strengthen community waste disposal facilities and support
+Hydrogen Fuel Cell 
+Electric 
+New Energy 
+Private Cars
+Transport
+2035
+2035
+Vehicles
+Test out hydrogen 
+Cease the new 
+Progressively adopt fuel cell electric registration of new energy ferries buses and heavy fuel-propelled and vehicles hybrid private cars in 2035 or earlier
+Within 3 years
+Target
+Before
+2050
+50%
+Before
+2035
+Total carbon emissions
+Compared with 2005 level
+Review every five years In line with the spirit of the Paris Agreement, review decarbonisation strategies and targets about every five years
+
+[Page 7]
+Coastal areas like Heng Fa Chuen were seriously flooded during the passage of Super Typhoon Mangkhut in 2018 
+Climate Crisis 
+1.1 Climate change affects all regions around the world. Human activities, in particular burning of fossil fuels (such as coal, natural gas, town gas, etc.), deforestation and animal husband­ ry, contribute to the increase in atmospheric carbon dioxide (CO2) concentration, resulting in a rise in global temperature. 
+1.2 According to the World Meteorological Organisa­ tion, 2020 was one of the three warmest years of the world. Global warming has brought about more extreme weather events and caused crisis, such as more frequent heat waves, change in precipitation, rise in sea level, super typhoons, rainstorms, uneven distribution and scarcity of water resources, and disruption of ecological and environmental balance, etc. The heat waves in North America, as well as the floods in the Mainland and various parts of Europe that took place earlier this year, show that serious impacts brought by extreme weather conditions may happen in every part of the world. 
+1.3 Like other cities, Hong Kong is facing prob­ lems such as rising temperatures and more extreme weather phenomena. The scenes of the damages caused by Super Typhoons Hato in 2017 and Mangkhut in 2018 to Hong Kong are still vivid in our minds. The years of 2019 and 2020 are the two hottest years in Hong 
+Kong on record. In 2021, both the number of very hot days and the number of hot nights in 
+Hong Kong have broken the records. 
+Proactive Action without Delay 
+1.4 Climate experts have warned that without a substantial reduction in global greenhouse gas (GHG) emissions in the next 20 to 30 years, it would be difficult to achieve the important climate targets under the Paris Agreement, i.e. limiting the global temperature rise to 1.5ºC and 2ºC in the 21st century. As a global citizen, Hong Kong must take timely actions to tackle the carbon emissions problem at source and mitigate the temperature rise to protect ourselves and our future generations.
+
+[Page 8]
+China will scale up its Intended Nationally Determined 
+Contributions by adopting more vigorous policies and measures. We aim to have CO2 emissions peak before 2030 and achieve carbon neutrality before 
+2060. 
+Extracted from President Xi Jinping’s statement at the General Debate of the 75th Session of the 
+United Nations General Assembly 
+Our Country’s Targets 
+1.5 In September 2020, President Xi Jinping made it clear that China would endeavour to achieve the peak of carbon emissions before 2030 and carbon neutrality before 2060. These “dual carbon targets” are an important commitment made by our country in combating climate change. Being the largest developing country, 
+China is faced with the challenges of maintaining economic development, improving people’s livelihood, eradicating poverty, and controlling pollution, etc. In these circumstances, achieving carbon peak and carbon neutrality is a huge challenge that requires resolute and vigorous efforts. 
+1.6 The State Council has set up a leading group on carbon peak and carbon neutrality to draw up a timetable and roadmap. It mainly comprises ten specific areas: (1) optimise energy structure with a view to controlling and reducing the use of fossil fuel such as coal; (2) promote the upgrad­ ing of production and industries; (3) promote energy-saving and low-carbon buildings and infrastructure; (4) develop a green and low-car­ bon transportation system; (5) develop a circular economy to promote the efficient use of resourc­ es; (6) promote green and low-carbon techno­ logical innovations; (7) develop green finance; (8) introduce supporting economic policies and reforms; (9) establish a sound carbon trading market and carbon pricing mechanism; and (10) implement nature-based solutions. 
+Hong Kong’s Targets 
+1.7 The Chief Executive announced in the 2020 
+Policy Address that Hong Kong would strive to achieve carbon neutrality before 2050. In 
+2019, electricity generation was the largest source of carbon emissions, accounting for about two-thirds (66%) of the total emissions in 
+Hong Kong, followed by transport (about 18%), waste (about 7%, mainly from landfills), other end use of fuel (about 5%), and industrial processes and product use (about 4%). It is an extremely challenging target to achieve carbon neutrality before 2050, i.e. in less than 30 years. Hong Kong must formulate a proactive, forward-looking and targeted decarbonisa­ tion strategy, and strive to encourage the parti­ cipation of the whole community. 
+The community in general expects Hong 
+Kong to go further in deep decarbonisation… 
+The Hong Kong Special Administrative 
+Region will strive to achieve carbon neutrality before 2050. To this end, the Government will set out more proactive strategies and measures to reduce carbon emissions. 
+The Chief Executive, Mrs Carrie Lam, announced Hong Kong’s carbon neutrality target in the 2020 Policy Address
+
+[Page 9]
+Targets of achieving carbon neutrality set by cities 
+Hong 
+Kong 
+London 
+Singapore 
+New York 
+Tokyo 
+Seoul 
+Copenhagen 
+2025 
+2030 
+Before 2050 
+2050 
+After 2050 
+Strategies and Actions 
+1.8 Our top priority is to make careful planning so that Hong Kong can use zero-carbon energy for electricity generation extensively and achieve carbon neutrality before 2050. Not only will this address about two-thirds of the current carbon emissions in Hong Kong, it will also provide zero-carbon energy to an electrified transport system. In addition, if the waste-to-energy facilities required for replacing the development of new landfills are in place, we can reduce about 90% of our carbon emission. As for the remaining carbon emissions of less than 10%, they would be dealt with through the development and application of low-carbon technologies. 
+1.9 The low-carbon transformation of electricity generation in Hong Kong requires an enormous amount of financial resources. To lower the cost and minimise the financial burden, we must lay down clear strategies and specific action plans to reduce the demand for energy. For instance, we must set more stringent energy efficiency standards, enhance the energy efficiency of both new and existing buildings, and enlist the full support of various sectors in the society to save energy and reduce waste. 
+Challenges and
+Opportunities 
+1.10It is beyond doubt that achieving carbon neutrality before 2050 poses great challenges to Hong 
+Kong. However, vigorous low-carbon transfor­ mation will bring many economic and social devel­ opment opportunities, including a thriving and diversified green economy, green finance, green planning and innovation and technology (I&T), as well as abundant opportunities for regional cooperation and enhancing Hong Kong’s strength as an international city, thereby creat­ ing golden career prospects for our younger generations. 
+Hong Kong Carbon Emission 
+Sources @ 2019 18% 
+Transport 
+66% 
+Electricity 
+Generation 
+Waste and 
+Others ~90% 
+Buildings 
+What is carbon neutrality? 
+Carbon neutrality refers to achieving relative “zero-carbon emissions” in a place or by an organisation, etc. over a certain period of time. 
+This can be done by replacing conventional fossil energy, conserving energy, green commuting, “use less, waste less”, planting, afforestation, purchasing renewable energy (RE) certificates and carbon trading, etc. to reduce or offset the carbon emissions gener­ ated from the activities of the place or the organisation. Achieving carbon neutrality helps limit the rise in carbon concentration and global temperature, and reduce the risks and damages caused by climate change. 
+Carbon 
+Carbon emissions offset
+
+[Page 10]
+Chapter 2 
+ACHIEVEMENTS IN 
+DECARBONISATION
+
+[Page 11]
+Moving Steadily Towards 
+Decarbonisation Targets 
+2.1 In January 2017, we announced the Hong 
+Kong’s Climate Action Plan 2030+, setting out the target of reducing carbon intensity by 65% to 70% by 2030 using 2005 as the base, which is equivalent to a reduction in Hong Kong’s total carbon emissions by 26% to 36% from the 
+2005 level by 2030. 
+2.2 We are moving steadily towards our decarbonisation target. Hong Kong’s total carbon emissions have shown a downward trend after reaching its peak in 2014 (i.e. carbon emissions will decline after reaching the peak and will not rise again), with the per capita carbon emissions reduced from 6.2 tonnes in 
+2014 to 5.3 tonnes in 2019. The power companies have gradually replaced coal with natural gas in electricity generation. Based on preliminary estimation, the per capita carbon emissions in 2020 would be reduced to around 4.5 tonnes. 
+2.3 Energy, transport and waste account for more than 90% of Hong Kong’s total carbon emissions. The progress of our work on decarbonisation on these fronts are summarised as follows. 
+Hong Kong has been implementing the Hong Kong’s Climate 
+Action Plan 2030+ published in 2017 
+Per capita carbon emissions tonnes 
+6.2 tonnes 
+4.5 
+3.3~3.8 tonnes 
+2030
+2020 
+Carbon peak 
+2014 
+Progress and projection of 
+20% reduction in total carbon emissions 
+26-36% using 2005 as base year
+
+[Page 12]
+New gas-fired generation unit at Black Point Power Station 
+Fuel Mix 
+2.4 Electricity generation is the largest contributor to carbon emissions in Hong Kong, accounting for 66% of the total carbon emissions in 2019. 
+Hong Kong has been relying on imported fuel for electricity generation or imported electricity from the Mainland to meet its electricity demand. 
+Reduce the use of coal 
+2.5 Among the fuels in Hong Kong’s fuel mix, coal has the highest carbon emissions. The two power companies have gradually replaced coal with natural gas from 2015 to 2020 as required by the Government. The share of coal in the fuel mix has been reduced from around half to less than a quarter, while the share of natural gas has significantly increased from around a quarter to almost half. As a result, carbon emissions were reduced by around 
+7.3 million tonnes (about 18% of Hong Kong’s total carbon emissions) within f ive years. 
+Development of Renewable Energy 
+2.6 The Government introduced the Feed-in Tariff (FiT) Scheme with the power companies in 
+2018, in which the power companies purchase 
+RE generated by the private sector at a rate higher than the electricity tariff. The Govern­ ment has also rolled out the Solar Harvest 
+Scheme under which solar energy generation systems are installed at schools and social welfare organisations for free. 
+2.7 The Government has taken the lead in develop­ ing RE, and a number of waste-to-energy projects have been launched progressively or are under planning. We are also actively devel­ oping larger-scale RE projects in suitable reser­ voirs, sewage treatment and flood prevention facilities, as well as restored landfills. Besides, the Government has earmarked a total of $3 billion to install small-scale RE systems at government premises since 2017-18. About 
+130 projects have been approved so far, includ­ ing installation of solar energy generation systems at government offices, government quarters, schools, recreational grounds-cum-rest gardens, reservoirs and pedestrian links, as well as installation of waste-to-energy and hydro power systems at multiple sewage treatment plants. The projects are expected to generate a total of about 
+21 million kWh of electricity annually and reduce about 15 000 tonnes of carbon emissions. 
+2.8 With the implementation of the above-men­ tioned measures to develop RE in the public and the private sectors, around 300 million kWh of electricity can be generated each year which is sufficient for use by 90 000 households annually. A total of about 210 000 tonnes of carbon emissions can be reduced (i.e. 0.5% of 
+Hong Kong’s total carbon emissions). 
+Hong Kong’s Fuel Mix for Electricity Generation 
+2015 48% 
+27% 
+25% 
+2020 
+48% 
+28% 
+24% 
+Coal 
+Nuclear and RE 
+Natural gas
+
+[Page 13]
+FiT Scheme 
+The FiT Scheme is one of the important initiatives to promote the development of RE under the current Scheme of Control Agree­ ments. Under the Scheme, members of the public and non-governmental organisations who have installed solar photovoltaic (PV) or wind energy generation systems at their prem­ ises can sell the RE generated to the power companies at a rate higher than the electricity tariff. The FiT Scheme is well received by the public. The two power companies received a total of over 16 000 applications from October 
+2018 to June 2021, of which over 14 000 have been approved. Upon completion of the installation of all approved solar energy genera­ tion systems, about 200 million kWh of electricity is estimated to be generated each year, which is sufficient to meet the electricity demand of about 67 000 households, reduc­ ing about 140 000 tonnes of carbon emissions each year (i.e. about 0.4% of Hong Kong’s total carbon emissions). 
+Floating solar energy generation systems 
+The pilot schemes to install floating solar energy generation systems at Shek Pik 
+Reservoir and Plover Cove Reservoir were completed in 2017. The two 100 kW power generation systems can each generate up to 
+120 000 kWh of electricity annually, which is equivalent to the annual electricity consumption of 36 households. A total of 84 tonnes of carbon emissions can be reduced each year. Floating solar energy generation facilities can also protect our water resourc­ es, reduce water evaporation and control the growth of algae. 
+Engaging the community in 
+RE development 
+After the launch of the FiT Scheme, solar energy generation systems have been installed on the rooftops of many residential units 
+Solar Harvest 
+The Kowloon Motor Bus Company (1933) Limited and 
+Long Win Bus Company Limited have installed solar panels on bus shelters to supply electricity for lighting at bus stops 
+Under the Solar Harvest Scheme, the Electrical and 
+Mechanical Services Department (EMSD) installs solar energy generation systems for schools and social welfare organisations for free. Students can learn about carbon reduction from first-hand experience of the RE systems at their schools 
+The floating solar energy generation system at Plover Cove Reservoir. The cool and open environment of the reservoir can enhance the efficiency of the solar energy generation system in electricity generation by around 20% as compared with those normally installed on roofs or ground
+
+[Page 14]
+Energy Saving
+2.9 Buildings account for about 90% of Hong 
+Kong’s total electricity consumption, and over 
+60% of our carbon emissions is attributable to generating electricity for our buildings. The 
+Government is committed to managing electricity demand and promoting energy conservation. With the implementation of various energy saving measures, it is estimated that about 2.1 billion kWh of electricity was conserved in 2020 as compared with 2015 (-4.7%), and about 
+1.45 million tonnes of carbon emissions were reduced (i.e. about 3.6% of Hong Kong’s total carbon emissions).
+Electricity conserved from implementing energy saving measures (2020 as compared with 2015)
+Energy saving measures
+Electricity conserved (million kWh)
+Measures related to the 
+Buildings Energy Efficiency Ordinance 1 500 (72.3%)
+Measures related to the Mandatory
+Energy Efficiency Labelling Scheme
+450 (21.7%)
+Measures related to the 
+Government’s energy saving targets
+115 (5.5%)
+District cooling system
+9 (0.4%)
+Total
+2 074 (i.e. around 2.1 billion kWh of electricity)
+Note: Do not add up to 100% due to rounding
+Energy saving in government buildings
+2.10 The Government led by example and achieved the five-year (i.e. 2015-16 to 2019-20) target of reducing electricity consumption in government buildings by 5% in 2018-19, one year ahead of schedule, with a final electricity saving of about 7.8%. Over 110 million kWh of electricity was conserved in 2020 as compared with 2015, and about 77 000 tonnes of carbon emissions were reduced (i.e. about 
+0.2% of Hong Kong’s total carbon emissions). 
+As of 2020, a total of 41 new government buildings constructed by the Architectural 
+Services Department (ArchSD) have attained 
+Gold rating or above under the BEAM Plus, 14 of which have even reached Platinum rating, accounting for 13% of all projects rated 
+Platinum in Hong Kong. The new government buildings built by ArchSD have saved about 
+370 million kWh of electricity in total, which is sufficient for consumption by 110 000 households every year.
+The Hong Kong Children’s Hospital has incorporated a number of environmentally-friendly and energy-efficient installations, and has achieved Platinum rating under BEAM 
+Plus New Buildings Version 1.2. The cover of this blueprint is the RE installation of the Hong Kong Children’s Hospital
+
+[Page 15]
+West Kowloon Cultural District has achieved 
+Platinum rating under BEAM Plus Neighbourhood 
+Version 1.0 
+Advancing towards net zero buildings 
+Industry participation is important in towards net zero”. The HKGBC is discussing promoting and improving Hong Kong’s with the Government the development of a sustainable built environment. The Hong sustainability assessment system for 
+Kong 
+Green 
+Building Council Limited infrastructure projects, and is preparing a (HKGBC), a certification body for the building guidebook on urban sustainable built assessment tool BEAM Plus, promotes environment to be used as a basis for the green buildings with the aim to “advance building assessment of green finance. 
+Energy saving in private buildings 
+2.11 Since the implementation of the Buildings 
+Energy Efficiency Ordinance (Cap. 610) in 
+2012 that regulates the energy efficiency standards of four key types of building services installations (i.e. air-conditioning, lighting, electrical installations, lifts and escalators, etc.) in various types of buildings, the Government has reviewed the standards once every three years. With the implementation of the above ordinance, it is expected that all regulated new and existing buildings in Hong Kong can conserve about 1.5 billion kWh of electricity in 
+2020 (as compared with 2015), with around 
+1.05 million tonnes of carbon emissions reduced (i.e. about 2.6% of Hong Kong’s total carbon emissions). 
+Energy Efficiency Labelling Scheme 
+2.12 The Government has implemented the Mandatory Energy Efficiency Labelling Scheme (MEELS) since 2009, which currently covers eight types of electrical products including room air-conditioners and televisions. These electrical appliances account for about 50% of the total energy consumption in the residential sector. 
+The MEELS can save about 930 million kWh of electricity each year and reduce about 
+650 000 tonnes of carbon emissions (i.e. about 
+1.6% of Hong Kong’s total carbon emissions). 
+Our latest proposal is to expand the scope of the 
+MEELS to include three types of products, namely light emitting diode (LED) lamps, gas cookers and gas instantaneous water heaters. It is estimated that an additional 568.8 terajoules of energy (i.e. about 160 million kWh of electricity) can be saved each year and about 75 000 tonnes of carbon emissions (i.e. about 0.2% of Hong 
+Kong’s total carbon emissions) can be reduced. 
+By then, household appliances covered by the 
+MEELS will account for about 80% of the total energy consumption in the residential sector, a big jump from about 50%.
+
+[Page 16]
+Promoting retro-commissioning in the 
+Guangdong-Hong Kong-Macao Greater Bay Area 
+Retro-commissioning (RCx) is to timely check the energy performance of an existing building to identify energy saving potentials for operational improvement. Through tuning and adjusting building services systems and equipment, optimal operation efficiency can be achieved, thus saving energy and reducing carbon emissions. In 
+2018, EMSD signed a memorandum of cooperation with the engineering institutions and universities in Guangdong, Macao, 
+Beijing and Shanghai to enhance experience sharing by holding regular meetings and co-organising academic forums as well as training courses, and to jointly promote RCx and develop energy-efficient buildings. 
+The Government is pressing ahead with the promotion of 
+RCx in the 
+Guangdong-Hong Kong-Macao Greater Bay 
+Area (GBA) to further enhance the driving force for green development in the region. 
+Four stages of RCx: planning, investigation, implementation and ongoing commissioning “4T” Partnership 
+With a view to assisting various sectors to reduce electricity consumption of buildings, the 
+Environment 
+Bureau (ENB) has developed a concise “4T” framework. Under this framework, a carbon reduction “Target” with a “Timeline” should be set, the efforts made should be shown with appropriate metrics to ensure “Transparency”, and everyone should work “Together” towards the target. 
+So far, we have about 60 major “4T” partners who are developers, public utilities, financial institutions and professional organisations, etc. 
+In addition to energy saving, we are further encouraging them to set targets and timelines for the development of RE, the adoption of green transport, and waste reduction, etc., and share their measures as well as their achievements. In our bid to strive towards the goal of carbon neutrality, we will upgrade the “4T” Partnership to “Carbon Neutrality” Partnership. 
+District cooling system 
+2.13 District cooling system (DCS) can save up to 
+35% of electricity consumption when compared with conventional central air-conditioning system in individual buildings. It is estimated that since commissioning in 2013 and up till 
+2019-20, the DCS at Kai Tak Development has saved a total of over 20 million kWh of electricity, which is equivalent to a reduction of about 14 000 tonnes of carbon emissions (i.e. about 0.03% of Hong Kong’s total carbon emissions). Our DCS has won many local and international awards. For example, it was selected by Cities 100, a C40 publication, as one of the action plans that could proactively combat climate change in 2019. 
+Support for energy saving and carbon emissions reduction in various sectors 
+2.14 The Government has introduced the Green 
+Schools 2.0 - Energy Smart scheme and the 
+Green Welfare NGOs scheme to conduct energy audits and install energy-saving devices, etc. for primary and secondary schools and premises of social welfare organisations. It is estimated that the schemes will achieve an electricity saving of 45 million kWh annually, and reduce around 32 000 tonnes of carbon emissions (i.e. about 0.1% of 
+Hong 
+Kong’s total carbon emissions).
+
+[Page 17]
+Green Transport 
+2.15 Transport is the second largest source of carbon emissions in Hong Kong, accounting for about 
+18% of Hong Kong’s total carbon emissions in 
+2019. Despite population and economic growth, carbon emissions from transport have maintained at a relatively stable level in the past few years. Hong Kong has a well-developed public transport system with railway as the backbone. About 90% of daily passenger trips are made by public transport, therefore the per capita transport-related carbon emissions in 
+Hong Kong are relatively low compared to other major cities. 
+Popularisation of electric vehicles (EVs) 
+2.16 In recent years, the Government has been focusing on promoting new energy vehicles and vessels, as well as establishing ancillary facilities to accelerate the development of green transport in pursuit of zero-carbon transportation. Currently, the number of registered vehicles in Hong Kong has reached 920 000, of which private cars (PCs) account for more than 70% (about 
+660 000 vehicles). Their total carbon emissions are the highest among all types of vehicles, taking up one-fourth of the carbon emissions generated by the transport sector. Promoting the use of electric private cars (e-PCs) can help expedite decarbonisation. 
+2.17 The Government has been waiving the first registration tax (FRT) on electric commercial vehicles in full, and has introduced the “One-for-One Replacement” Scheme to provide higher FRT concessions to car owners who replace their old PCs with EVs. Vehicle licence fees for e-PCs are relatively low. The number of registered e-PCs has increased significantly from 60 in end-2010 to around 21 000 in mid-2021, making up over 3% of the existing 
+PCs in Hong Kong. In the first half of 2021, one out of every five newly registered PCs is an e-PC. 
+Carbon emissions of vehicles in Hong Kong in 2019 % of Hong Kong’s total carbon emissions 
+Private cars 
+Medium goods vehicles 
+Franchised buses 
+Light goods vehicles 
+Taxis 
+Heavy goods vehicles 
+Non-franchised buses 
+Public light buses 
+Private light buses 
+Motor cycles 
+1350 
+1800 
+4.5% 
+3.2% 
+2% 
+2% 
+1.9% 
+0.8% 
+0.8% 
+0.6% 
+0.2% 
+0.1% ’000 tonnes CO2-e 
+Distribution of registered vehicles in 
+Hong Kong in 2020 
+Private cars 
+Light goods vehicles 
+Medium goods vehicles 
+Heavy goods vehicles 
+Franchised buses 
+Non-franchised buses 
+Taxis <1% 
+Public light buses <1% <1% 
+2% 
+Private light buses 
+Others (Motor cycles, <1% special purpose vehicles and <1% government vehicles) 
+71% 
+8% 
+11% 
+4% 
+2021 
+First half of 
+One out of every ÿve newly registered PCs is an EV
+
+[Page 18]
+EV-charging at Home Subsidy Scheme (EHSS)
+To enhance the EV charging network in Hong 
+Kong and facilitate the switch to EVs by members of the public, the Environmental Protection Department (EPD) launched the $2 billion 
+EHSS in October 2020 to subsidise the installation of 
+EV charging-enabling infrastructure in the car parks of existing private residential buildings. It is expected to benefit more than 60 000 parking spaces. 
+The Scheme is well received, with over 490 applications received as of mid-September 
+2021, involving more than 105 000 parking spaces.
+ 
+Popularisation of EV charging in new buildings
+EV charging facilities at the car park of the residential project Grand Central
+New energy transport
+2.18 The New Energy Transport Fund (NET Fund) subsidises the transport sector to try out and apply green transport technologies. As of end-June 2021, the NET Fund had approved nearly 150 projects on electric commercial vehicles, over 70 projects on hybrid commercial vehicles and 8 projects on technologies upgrading conventional buses or ferries.
+2.19 The NET Fund has granted subsidies to two franchised bus companies to purchase double-deck electric buses, and the trials of these electric buses are expected to commence progressively within two years. Moreover, the 
+Government has earmarked $80 million for a pilot scheme for electric public light buses which is expected to commence in 2023; and is in parallel exploring the implementation of a trial scheme of electric taxis to subsidise the taxi trade to test the operation and business mode.
+Traffic management
+2.20 The Transport Department (TD) is undertaking a study on “congestion charging” to comprehensively review the toll levels of all government tolled tunnels. The objective of the study is to regulate traffic flow and alleviate traffic congestion through appropriate adjustment of tolls, thereby reducing the emissions caused by traffic congestion during peak hours.
+Railway development
+2.21 Our railway system serves as the backbone of low-carbon transport in Hong Kong. The 
+Transport and Housing Bureau has invited MTR 
+Corporation Limited (MTRCL) to work on the detailed planning and design for the Tung 
+Chung Line Extension, the Tuen Mun South 
+Extension, the Northern Link and the Hung 
+Shui Kiu Station to facilitate the use of public transport.
+Traffic condition during peak hours in Wan Chai
+
+[Page 19]
+Waste Reduction and Recycling
+2.22 Waste was the third largest source of Hong 
+Kong’s total carbon emissions in 2019. It accounted for about 7% of the total carbon emissions, and over 90% of such emissions came from decomposition of waste in landfills. 
+The Government has been reducing the carbon emissions from waste through the promotion of waste reduction and recycling, and the development of waste-to-energy facilities.
+Municipal solid waste charging
+2.23 The Legislative Council (LegCo) passed the bill on municipal solid waste (MSW) charging in August 2021. MSW charging will be the main driving force for various sectors and the public to practise waste reduction and recycling. The Government has already commenced the preparatory work for the implementation of MSW charging.
+Expansion of community recycling network
+2.24 The Government has been vigorously expanding its community recycling network in recent years to encourage the recovery of low-value recyclable wastes, thereby relieving the burden on landfills. To support smart city development, EPD launched a Pilot Programme on 
+Smart Recycling Systems in September 2020 to test in phases the local application of smart recycling facilities connected by Internet of 
+Things (IoT) technology. The Government also plays a proactive role by intervening in the market in an appropriate and timely manner, providing for the central collection of glass bottles, paper, plastics, and food waste, etc.
+Recycling stores and recycling spots
+Recycling Stores have commenced service gradually since November 2020. It adopts the number “6” as the logo, a homophone for the word “green” in Cantonese, symbolising circulation of resources in an endless cycle. 
+Currently, there are dozens of Recycling 
+Stores and over 100 Recycling Spots that operate regularly at designated locations in all districts across the territory. They have attracted hundreds of thousands of people to visit and participate in clean recycling every month, and collect plastics, waste paper, metals, glass bottles, small electrical appliances, regulated electrical equipment, compact fluorescent lamps/fluorescent light tubes and rechargeable batteries for recycling.
+Reverse Vending Machine 
+Pilot Scheme
+Recycling Spot
+Recycling Store
+
+[Page 20]
+Waste-to-energy
+2.25 To gradually move away from reliance on landfilling for direct waste disposal, waste management infrastructure which turns waste into energy has progressively come into operation over the past few years, including T• PARK with a treatment capacity of 2 000 tonnes of sludge per day, as well as O •PARK 1 (Organic 
+Resources Recovery Centre Phase 1) with a treatment capacity of 200 tonnes of food waste per day. More waste-to-energy facilities are under construction and planning. The construction works for O •PARK 2 (Organic 
+Resources Recovery Centre Phase 2) have commenced and the facility is expected to come into operation in 2023. I•PARK (Integrated Waste Management Facilities Phase 
+1) will also commence operation in 2025.
+T•PARK
+Commenced operation in 2015
+Food Waste/Sewage Sludge
+Anaerobic Co-digestion Trial Scheme (Tai Po Sewage Treatment Works)
+Commenced operation in 2019
+O•PARK 1
+Organic Resources Recovery
+Centre Phase 1
+Commenced operation in 2018
+O•PARK 2
+Organic Resources
+Recovery Centre Phase 2
+Under construction
+Artist’s Impression
+Artist’s Impression
+I•PARK
+Integrated Waste Management
+Facilities Phase 1
+Under construction
+Y•PARK
+Commenced operation in 2021
+
+[Page 22]
+Cost of Decarbonisation 
+3.1 More and more countries and cities have set their targets for achieving carbon neutrality and allocated substantial resources for imple­ menting decarbonisation measures. Hong 
+Kong should take action, too. Both the Govern­ ment and the private sector have to devote resources to further promote decarbonisation in electricity generation, transport, and waste management, etc. We all have a shared responsibility to reduce carbon emissions. 
+3.2 Decarbonisation comes at a price. Take electrici­ ty generation as an example. Hong Kong has relatively limited potential for developing large-scale RE (such as solar and wind energy) due to its geographical factors, scarce land resources and dense population. To promote net-zero electricity generation in Hong Kong, we have to explore different options, including regional cooperation, investing abroad, joint development or import of low-carbon and zero-carbon energy. In this connection, it is unavoidable that Hong Kong will need to invest a substantial amount of capital to build the infrastructure required for the production, reception and storage of zero-carbon energy, which will inevitably put upward pressure on electricity tariffs. 
+3.3 As new technologies become increasingly mature and advanced, the cost of decarbonisa­ tion measures is expected to go down gradual­ ly. Take electricity generation as an example. 
+According to a study published by the Internation­ al Renewable Energy Agency in 2021, the genera­ tion cost of utility-scale solar PV systems had fallen by more than 80% over the past decade. 
+As countries around the world are ramping up their investments in the development of RE and upgrading the technologies for low-carbon electricity generation, the cost of RE is expect­ ed to reduce further, and the stability of electricity supply will be further enhanced. 
+3.4 To lower the cost of decarbonisation, we must reduce Hong Kong’s carbon footprint. Mem­ bers of the public should seriously change their lifestyle and consumption pattern by, for exam­ ple, saving energy, using public transport, avoiding buying unnecessary products, and supporting waste reduction at source and clean recycling as far as possible. 
+Through actions such as energy saving for all, green mobility and waste reduction, we can reduce Hong Kong’s carbon footprint to lower the cost of decarbonisation
+
+[Page 23]
+Space Constraint 
+3.5 The development of decarbonisation infrastruc­ ture requires the support of land and space. 
+With its hilly terrain and limited sea area, Hong 
+Kong faces various constraints on the develop­ ment of large-scale RE. In addition, it would be more difficult to install charging and re-fuelling facilities for new energy vehicles in a densely populated city like Hong Kong. As for waste management, we need land for constructing adequate waste-to-energy and waste-to-re­ sources facilities so that Hong Kong can move away from over-reliance on landfills. We need the support of the whole community to allocate land resources and identify suitable locations for developing green infrastructure. 
+Extreme Weather 
+3.6 Like other coastal cities, Hong Kong is prone to the impacts of climate change. The mean sea level in Victoria Harbour went up at a rate of 31 mm per decade from 1954 to 2020 on average. Over the past century or so, the number of very hot days in Hong Kong increased by more than 7 times, and the number of hot nights increased by more than 
+38 times. We are facing more severe tropical cyclone threats caused by extreme weather. 
+For instance, the storm surge induced by 
+Super Typhoon Mangkhut wreaked havoc in 
+2018. We have to put in extra efforts to combat extreme weather. 
+A densely populated city like Hong Kong faces different constraints on the development of decarbonisation infrastructure. Like other coastal cities, Hong Kong has to cope with the impacts of extreme weather caused by climate change
+
+[Page 24]
+Technology Breakthrough
+Demand for Talents
+3.7 The pace of advancement in decarbonisation technologies around the world is one of the key factors in our pursuit of carbon neutrality before 
+2050. At present, many decarbonisation technologies are still at the development stage and are not ready for wide application in Hong 
+Kong in the near future. For instance, green hydrogen has developed rapidly in recent years, and is expected to facilitate the green transformation of energy for electricity generation and transport. However, before it is ready for large-scale application, further studies are required on ways to reduce the cost of production and transportation of green hydrogen, and minimise energy loss in the production process. The technologies on storage devices, such as storage batteries, that are critical to the application of RE requires further improvement. 
+In addition, development and application of smart management systems, making use of big data and artificial intelligence, can help reduce energy consumption and carbon emissions associated with buildings.
+3.8 The vigorous promotion of low-carbon transformation by the governments of various countries has stimulated the development and commercial application of green technologies. 
+Hong Kong must expedite the development of 
+I&T, nurture talents in technological research and provide them with support, and encourage enterprises to try out and apply decarbonisation technologies and projects.
+3.9 The development of green economy will create new industries and job opportunities. 
+Researchers, business management talent and technicians with the relevant knowledge and skills are required to meet the manpower needs of different industries during the green transformation.
+ENB has created jobs related to environmental protection and sponsored enterprises to provide green job opportunities for young people
+Participation for All
+3.10 Achieving carbon neutrality before 2050 requires the participation and support of the whole community. The Government, business sectors, schools and non-governmental organisations must work together and set an example by promoting and encouraging the public to adopt and practise a low-carbon lifestyle.
+E&M InnoPortal
+In June 2018, EMSD launched the E&M InnoPortal for matching the I&T solutions developed by start-ups and academic institutions with the service needs of government departments, public organisations and the electrical and mechanical trades, covering energy conservation and use of RE. Start-ups and academic institutions, etc. can make use of the online platform to propose I&T solutions for matching, with a view to promoting the commercialisation of their research and development (R&D) results. EMSD would provide government venues for suitable projects, take forward trials and pilot projects through collaboration, and upload the validated performance reports of trial cases onto the platform for sharing with the public, so as to jointly facilitate and promote the R&D and the application of I&T. The E&M InnoPortal has so far gathered over 
+360 service needs and over 800 solutions.
+Green Tech Fund
+The $200 million Green Tech 
+Fund was set up by EPD in 
+December 
+2020 to provide funding support for R&D projects which can promote decarbonisation and environmental protection in Hong Kong. As of early October 2021, 8 projects have been approved in the first round of applications, involving a total grant of around $39 million.
+
+[Page 25]
+Chapter 4 
+DECARBONISATION 
+STRATEGIES • 
+TARGETS • 
+ACTIONS
+
+[Page 26]
+Four decarbonisation strategies
+Medium-to-long-term decarbonisation targets
+Green Transport
+Energy Saving and
+Green Buildings
+Net-zero 
+Electricity Generation
+Waste Reduction
+50%
+Total carbon emissions
+Compared with
+2005 level
+Before
+2035
+Before
+2050
+Overall Strategies
+4.1.1 The Hong Kong economy is predominately supported by the tertiary industry without major energy-intensive industries. In 2019, electricity generation was the largest source of carbon emissions (66%), followed by transport (18%) and waste (7%). These three major emission sources together accounted for over 
+90% of the total emissions, and are therefore the three most critical areas of our decarbonisation work.
+4.1.2 Currently, the local fuel mix for electricity generation mainly relies on fossil fuels such as coal and natural gas. We can remove most of the carbon emissions if we increase the use of zero-carbon energy for electricity generation and gradually phase out fossil fuel vehicles by electrifying the transport sector. For carbon emissions from waste, they are mainly GHGs generated by the decomposition of municipal waste in landfills. As such, we will have to break away entirely from landfilling for municipal waste disposal in order to reduce carbon emissions and avoid utilising our precious land for developing new landfills. As for the remaining carbon emission sources, such as non-road vehicles and refrigerants, we have to identify suitable zero-carbon energy or alternative technologies.
+4.1.3 Increasing the use of zero-carbon energy requires the support of technologies as well as finance and land resources. On the other hand, reducing the energy demand can lower the total cost of switching to zero-carbon energy and lessen the financial burden on the public. 
+At present, buildings account for about 90% of the electricity consumption in Hong Kong. As such, improving energy efficiency of buildings to reduce the energy demand will be our top priority in future energy saving efforts.
+4.1.4 Based on the above analysis, the strategies for 
+Hong Kong to achieve carbon neutrality before 
+2050 should comprise: “net-zero electricity generation”, “energy saving and green buildings”, “green transport” and “waste reduction”.
+Medium-term 
+Decarbonisation Targets
+4.2.1 Between now and 2050, different technologies and zero-carbon energy that can help achieve carbon neutrality are being developed around the world. Examples include the application and storage technologies of various RE, blue and green hydrogen energy, ammonia nitrogen, carbon capture and storage, carbon-neutral natural gas, and various carbon sinks, etc. It is uncertain which of the technologies will eventually be developed into more mature, reliable and cost-effective ones suitable for large-scale application in Hong 
+Kong. To press ahead with deep decarbonisation for the purpose of proactively mitigating climate change, we need to set a more ambitious medium-term target. Adopting the prevailing technologies that are relatively mature and cost-effective, we aim to reduce the total carbon emissions by half before 2035 from the 2005 level, i.e. from about 40 million tonnes in 2005 to nearly 20 million tonnes in 
+2035. 
+4.2.2 In the meantime, we need to prepare for the development and trials of various technologies and solutions that may be suitable for Hong 
+Kong in future, with a view to achieving carbon neutrality before 2050 through the adoption of mature, reliable and cost-effective solutions in a timely manner.
+
+[Page 27]
+Hong Kong’s Roadmap to Carbon Neutrality 
+Carbon neutrality @before 2050 
+50% reduction @before 2035 
+Peak @2014 
+2005 
+2020 
+2035 
+2050 
+Total carbon emissions (kilotonnes) 
+40 000 
+30 000 
+20 000 
+10 000 
+Progress 
+Target 
+6.2 @2014 
+4.5 @2020 
+2~3 @2035 
+Per capita (tonnes) before 2050
+
+[Page 28]
+Environmental performance 
+Report on Long-term 
+Decarbonisation Strategy 
+At the invitation of the Government, the 
+Council for 
+Sustainable Develop­ ment(SDC) launched a territory-wide public engagement exercise on the long-term decar­ bonisation strategy of 
+Hong Kong by adopt­ ing a bottom-up and stakeholder-oriented approach, so as to enhance public awareness of the impact of carbon emissions and gauge the views of the community. 
+In November 2020, SDC submitted a report to the 
+Government, identifying six overarching objec­ tives for Hong Kong’s decarbonisation strategy, namely driving societal change towards low-car­ bon lifestyles; accelerating the shift to zero-car­ bon energy; promoting a sustainable built environ­ ment; promoting transitions towards low-car­ bon transport systems; unlocking green and sustainable finance potential for low-carbon transition; and steering innovations in climate change mitigation, adaptation and resilience. 
+SDC’s report provides important reference for 
+Hong Kong’s strategies on decarbonisation and climate change adaptation. 
+The Council for Sustainable Development published the 
+Report on Public Engagement on Long-term Decarbonisation 
+Strategy in November 2020 
+Net-zero 
+Electricity Generation 
+Long-term target°: 
+Net-zero carbon emissions in electricity generation before 2050 
+4.3.1 At present, fossil fuels, including natural gas and coal, account for over 70% of Hong Kong’s fuel mix for electricity generation. Under the overall strategy of achieving carbon neutrality, we must progressively increase the use of zero-carbon energy for electricity generation before 2050. In searching for suitable zero-carbon energy, four important factors should be taken into account : safety, reliability, affordability and environmental performance. 
+Safety 
+Reliability Affordability 
+4.3.2 Due to limitations of land and natural resourc­ es, many major cities in the world are unable to completely rely on zero-carbon electricity generated locally. For example, in many 
+European cities, the plans to achieve carbon neutrality in electricity generation focus on the following three areas: replacing the existing fossil fuels progressively with new zero-carbon energy for electricity generation, striving to develop RE such as solar energy, and importing zero-carbon electricity from surrounding areas. 
+We can also follow this direction in reducing carbon emissions from the electricity genera­ tion sector. 
+4.3.3 On RE development, we can increase RE supply through government-developed facili­ ties, investment by power companies and encouraging public participation. Our goal is to increase the share of RE in the fuel mix for electricity generation from the existing less than 1% to 15% before 2050. Specifically, the Government can strive to develop more advanced waste-to-energy facilities to turn waste into electricity. Moreover, in view of the limited land-based RE resources, we may explore the use of space and potential on the sea to build wind farms. The Government will also continue to take the lead in RE develop­ ment and create favourable conditions for the private sector to do so.
+
+[Page 29]
+4.3.4 As RE such as solar and wind energy is intermittent by nature, using RE as the main source for electricity generation has its shortcomings. 
+Setting up large-scale electricity storage facilities will take up additional land and reduce efficiency. 
+In view of this, many countries and cities have high hopes for the development of new zero-carbon energy, such as hydrogen produced by RE (green hydrogen). However, many technologies covering the production, transportation or application of zero-carbon energy are still at the R&D stage, and have yet to be developed into mature, reliable and price-competitive options. With the imminent threat of climate change supported by evidence, the whole world must act quickly to reduce carbon emissions, and cannot afford to just wait for the development of new technologies. 
+Having regard to considerations of maturity, reliability and affordability, many countries have included nuclear energy as one of the technologies for helping achieve carbon neutrality by the middle of this century. At present, about a quarter of Hong Kong’s electricity is generated from nuclear energy. 
+4.3.5 Apart from developing RE as far as possible, we will continue to increase the use of natural gas with lower carbon emissions and zero-carbon energy to replace coal for electricity generation in the medium term. We will also explore the supply of new zero-carbon energy by collaborating with neighbouring regions to participate in and operate zero-carbon energy projects near Hong Kong through joint ventures and joint development, etc. Priority will be given to 
+RE where practicable, noting the concern of some over the increased use of nuclear energy. 
+However, noting the limited potential of RE development in Hong Kong, the strong demand for RE by our country and neighbouring areas striving to achieve carbon neutrality as well as the uncertainties involved in new zero-carbon energy development, we must explore all practicable options and cannot rule out any kind of zero-carbon energy, including increasing the use of nuclear energy in the fuel mix as part of the transition to achieve carbon neutrality. 
+4.3.6 Maintaining a certain proportion of local power generation for reliable electricity supply is important. Therefore, we must, at the same time, explore and try out other types of zero-carbon energy (e.g. hydrogen energy) for electricity generation in Hong Kong, and progressively increase their application. The Government and the power companies are actively studying the development and application of new energy such as hydrogen, including importing hydrogen or other forms of new energy for use as fuels, so that they may be adopted for trial and application in Hong Kong when the technologies become relatively mature. We hope that technological advancement will allow Hong 
+Kong to achieve net-zero electricity generation before 2050 by the adoption of hydrogen or other forms of zero-carbon energy and technologies in local electricity generation. 
+What is zero-carbon energy ? 
+Zero-carbon energy refers to energy which does not generate carbon emissions during their production or usage. Zero-carbon energy under application in Hong Kong currently includes solar, wind and nuclear energy. We are also closely monitoring the development of new zero-carbon energy (e.g. green hydrogen), and will seize the opportunity to adopt such energy as the technologies become relatively mature. 
+The solar energy generation system installed by HK Electric at its Lamma Power Station
+
+[Page 30]
+Medium-term targets: 
+Phasing out coal for electricity generation • Developing RE 
+4.3.7 Coal, accounting for around a quarter in the current fuel mix for electricity generation, emits the highest level of carbon emissions. Hong 
+Kong has ceased to build coal-fired generation units since 1997 and has been gradually phasing out the existing units. By 2035, we will cease using coal for daily electricity generation and will only keep it for providing backup support. Coal will be replaced by natural gas with lower carbon emissions and zero-carbon energy (e.g. RE and nuclear energy) by then. 
+4.3.8 To expedite transformation to low-carbon energy, we are committed to increasing the share of RE in the fuel mix for electricity generation from less than 1% at present to 
+7.5% to 10% by 2035. 
+RE Potential (Until 2035) 
+Wind 
+3.5-4% + 
+Waste-toenergy 
+3-4% + 
+Solar 
+1-2% = 
+7.510% (Increase to 15% subsequently) 
+4.3.9 To achieve this target, we will strive to develop more advanced waste-to-energy facilities, including the infrastructure for recycling of food waste and construction of another large-scale integrated waste management facility. It is estimated that around 3% to 4% of Hong 
+Kong’s electricity demand would be met by the electricity generated by such facilities by 2035. 
+4.3.10 The Government and the two power companies are reviewing proposals to develop offshore wind farms. The two power companies expect that improvement in the design of wind farms and the adoption of new technologies can increase the amount of electricity generated and the economic benefits. Our preliminary estimate shows that by 2035, the wind energy generated would be able to meet around 3.5% to 4% of Hong Kong’s electricity demand. 
+4.3.11 The Government has introduced with the power companies the FiT Scheme in recent years to encourage the community to develop distributed RE, such as solar energy. The 
+Government has also developed a wide range of RE projects in various premises, such as reservoirs, restored landfills, government buildings and other suitable facilities. With the continuous technological advancement and the active participation of the community, we expect that solar energy would be able to meet around 1% to 2% of Hong Kong’s electricity demand by 2035, and the total share of RE in 
+Hong Kong’s fuel mix would reach 7.5% to 10%. 
+An offshore wind farm at the GBA
+
+[Page 31]
+4.3.12 The Government will continue to take the lead in developing RE and strive to incorporate RE technologies in all capital works projects. 
+We will update the Government circular on 
+Green Government Buildings and raise the requirements of applying RE technologies in new government buildings. For instance, the proportion of available roof space for installing 
+RE systems will be increased from the current 
+10% to 25%. We will also continue to install RE systems in existing government buildings (including outdoor parking lots) as far as possible. 
+4.3.13 Reservoirs in the open air offer more space and potential for installing solar energy generation systems. Building on the success of the pilot projects of floating solar energy generation systems at Shek Pik Reservoir and Plover 
+Cove Reservoir, the Water Supplies Department (WSD) plans to install larger floating solar energy generation systems with a generating capacity of 5-10 megawatts (MW) each at various reservoirs, including Plover Cove 
+Reservoir, Shek Pik Reservoir and Tai Lam 
+Chung Reservoir. In addition, WSD has embarked on a study on installing a floating solar energy generation system with a generating capacity of over 100 MW at Plover Cove 
+Reservoir. The project is estimated to generate more than 100 million kWh of electricity a year, meeting about 0.2% of Hong Kong’s electricity demand. The Government is also exploring the feasibility of installing floating or other appropriate types of solar energy generation systems in suitable water channels. 
+4.3.14 We will also make use of landfills to generate 
+RE. Apart from utilising landfill gas for electricity generation, we are actively exploring the installation of solar energy generation systems at restored landfills. For instance, EPD will launch a pilot scheme on solar energy generation at the South East New Territories Landfill in 
+Tseung Kwan O. 
+4.3.15 Since May 2011, the Housing Authority has been installing solar energy generation systems at domestic blocks of new public rental housing estates where it is technically feasible and the rooftop conditions permit, with the target to provide at least 1.5% of the communal electricity consumption. In addition to new domestic blocks, the Government will explore the installation of solar energy generation systems on the rooftops of domestic blocks of existing public rental housing estates where technically feasible. 
+The solar energy generation system installed by the Housing 
+Authority at Shui Chuen O Estate 
+4.3.16 To assist the private sector in developing and applying RE, the Government will explore ways to facilitate the installation of RE systems by the private sector on their land and properties, such as measures to facilitate installation of solar energy generation systems by the private sector in open car parks. Coupled with the 
+FiT Scheme, this can help foster the development of RE. 
+The floating solar energy generation system at Shek Pik Reservoir
+
+[Page 32]
+4.3.17 The Government, together with the power companies, will also explore ways to enhance regional cooperation on zero-carbon energy and identify sources of zero-carbon energy in neighbouring regions, including seeking joint investment and development opportunities for participating in and operating zero-carbon energy projects near Hong Kong. We will also keep abreast of developments in technologies that utilise RE for electricity generation. 
+4.3.18 To achieve the target of reducing the total carbon emissions by 50% from the 2005 level before 2035, more options are needed for raising the share of zero-carbon energy in the fuel mix for electricity generation to about 
+60% to 70%. 
+Implementation of food waste and sewage sludge co-digestion to enhance waste-to-energy transformation 
+The Food Waste/Sewage Sludge Anaerobic 
+Co-digestion Trial Scheme, jointly launched by Drainage Services Department (DSD) and EPD at Tai Po Sewage Treatment Works (STW), was commissioned in May 2019 to receive food waste for food waste/sewage sludge anaerobic co-digestion. Apart from increasing the biogas yield and reducing the amount of digestate and carbon emissions from the Tai Po STW, the pilot scheme can also enhance Hong Kong’s food waste treatment capacity and turn waste into electricity. Under this trial scheme, up to 50 tonnes of food waste can be treated per day, and the energy to be generated annually is estimated to be about 950 000 kWh. 
+Facility for food waste/sewage sludge anaerobic co-digestion at Tai Po STW 
+The second Food Waste/Sewage Sludge 
+Anaerobic Co-digestion Trial Scheme will be conducted at Shatin STW, in which the treatment of food waste from commercial, industrial and domestic sources will be tested. 
+The estimated food waste treatment capacity is 50 tonnes per day, and the relevant works are expected to be completed at the end of 2022. 
+Development of innovative 
+RE technology for better utilisation of existing resources 
+Flexible thin-film solar PV panels are malleable and suitable for application on curved surfaces and surfaces of different shapes, facilitating the wider application of solar PV systems. Starting from 2019, DSD has installed in phases the high-efficiency 
+Copper Indium Gallium Selenide (CIGS) thin-film solar PV system on the curved sedimentation tank covers, occupying an area of about 30 000 m² at Stonecutters 
+Island STW, to supply electricity for the plant. The works project will be completed in 2024-25. Upon completion, this thin-film solar PV installation will be the largest of its kind in Hong Kong, with a total installed generation capacity of over 1 MW. 
+The thin-film solar PV system at Stonecutters STW 
+Besides, through the water tunnel under the 
+Tolo Harbour Effluent Export Scheme, the effluent generated from DSD’s Tai Po STW and Shatin STW is discharged into Victoria 
+Harbour via Kai Tak River together with the collected rainwater, and the average flow rate is more than 4 m³/s. DSD is studying options for better utilisation of water flow by installing a hydro turbine system, with a view to generating electricity for use by suitable government facilities in the Wong Tai Sin 
+District.
+
+[Page 33]
+Energy Saving and Green Buildings 
+4.4.1Being an international financial and commercial centre, the majority of Hong Kong citizens’ daily activities take place in skyscrapers. The resulting use of air-conditioners, lifts, lighting and various electrical appliances consumes a large amount of energy. Buildings account for about 90% of Hong Kong’s total electricity consumption, and over 60% of our carbon emissions is attributable to generating electrici­ ty for our buildings. Achieving net-zero electricity generation requires enormous amount of capital and resources, and will increase the cost of electricity generation. 
+Various sectors of the community and mem­ bers of the public will inevitably have to share the cost. Through regulation as well as promo­ tion and public education in energy saving, we can reduce the overall electricity consumption of buildings, and hence lower the cost of adopting new zero-carbon energy. This is conducive to maintaining Hong Kong’s overall competitiveness in the global arena, in turn benefitting enterprises and citizens. The bene­ fits will be even more significant if the amount of energy conserved exceeds the increase in the cost of achieving net-zero electricity gener­ ation. 
+Hong Kong’s Electricity Consumption in 2019 
+2019 
+26.6% 
+66.9% 
+Commercial 
+Residential 
+Industrial 
+Transport 
+4.6%1.9% 
+Long-term targets: Reduce the electricity consumption of commercial buildings by 30% to 40%, and that of residential buildings by 20% to 30% by 2050 
+4.4.2 The Energy Saving Plan for Hong Kong’s Built 
+Environment 2015~2025+ promulgated by the Government in 2015 has set a target of reducing energy intensity by 40% by 2025. 
+So far, the energy intensity in Hong Kong has decreased by over 30%. We are also one of the best performers in terms of reduction in energy intensity among the member econo­ mies of the Asia-Pacific Economic Cooperation. 
+As mentioned above, buildings account for about 90% of Hong Kong’s total electricity consumption, and over 60% of our carbon emissions is attributable to generating electricity for our buildings. In order to achieve carbon neutrality, we need to step up efforts in promoting energy conserva­ tion in buildings, and set a more proactive and targeted energy saving goal. In this connection, we will strive to gradually reduce the elec­ tricity consump­ tion of new and existing commercial buildings by 30% to 40%, and that of residen­ tial buildings by 20% to 30% by 2050, using the operational conditions of 2015 as the comparison basis. 
+4.4.3 To achieve the above targets, we need to adopt a multi-pronged approach in planning for energy conservation. The Government will lead and coordinate efforts in the continuous refine­ ment of energy saving strategies. We will make use of the prevailing legal basis to continue to enhance the energy performance of buildings and appliances, and promote the systematic exploration and realisation of decarbonisation opportunities in buildings. Outside the legal framework, we will also consider encouraging the trades to proactively raise energy saving performance to a new level beyond the statuto­ ry requirements. 
+4.4.4 We will work on the infrastructure by integrating energy efficient facilities in development projects. We will study the feasibility of incorporating DCS in more new development areas, such as Hung Shui Kiu/Ha Tsuen New 
+Development Area and the artificial islands in the Central Waters, so as to promote energy efficiency and mitigate the heat island effect in the areas.
+
+[Page 34]
+4.4.5 We will also watch out for and make full use of the energy saving opportunities arising from green I&T development, and strive for breakthroughs in various fields. For exam­ ple, we will study innovative energy-saving technologies to further improve the energy efficiency performance of buildings and 
+DCSs, including the use of big data and artificial intelligence, etc., to optimise the operation of the facilities. 
+4.4.6 Government-led measures alone are not sufficient. To maximise the effectiveness of energy saving measures, we should pursue tripartite collaboration that involves the community, the business sector and the 
+Government. We will promote cross-sector cooperation through different platforms to pursue our shared vision in energy saving. 
+Medium-term targets: Reduce the electricity consumption of commercial buildings by 15% to 20%, and that of residential buildings by 10% to 15% by 2035 
+4.4.7 To promote continuous decarbonisation in buildings, we have also set a medium-term target of reducing the electricity consumption of new and existing commercial buildings by 
+15% to 20%, and that of residential buildings by 10% to 15% by 2035, using the operational conditions of 2015 as the comparison basis. 
+More green innovations and energy efficient elements will also be added to the design of new government buildings to achieve an energy efficiency performance of 10% better than statutory level, with a view to leading the trades to further optimise the energy efficiency perfor­ mance of new buildings. 
+4.4.8 To continuously improve the energy efficiency standards of buildings, we will make reference to the international standards and harness innova­ tive and intelligent technologies to ensure the energy efficiency standards of building services installations are up to date. We will actively explore the possibility of expanding the scope of regulation to cover all buildings with high energy consumption, such as data centres, so as to further enhance the overall energy efficiency performance of buildings in Hong Kong. 
+4.4.9 To explore and utilise decarbonisation opportunities in a systematic manner, we will consider conducting energy audits more frequently and mandating the implementation of identified energy management opportunities. At the same time, we will strengthen the promotion of RCx to check the performance of the existing buildings in energy and other areas and make appropriate adjustments to the systems, with a view to reducing electricity consumption. We will consider requiring large commercial buildings to carry out regular commissioning of air-condition­ ing systems and major building services installa­ tions to achieve optimal operational efficiency. 
+4.4.10 In addition, we will continue to encourage and promote enhancement of energy efficiency in buildings to outperform the statutory require­ ments through the Hong Kong Energy 
+Efficiency Registration Scheme for Buildings. 
+We will collaborate with the trades and stake­ holders to continue to explore acceptance of different forms and accredited certification schemes as registration requirements so that more buildings can achieve energy efficiency performance above the statutory requirements. 
+For energy saving, many a little makes a mickle 
+The Government has been taking the lead in energy saving. As mentioned in Chapter 2 above, the Government achieved the five-year target of reducing electricity consumption in government buildings by 5% in 2018-19, one year ahead of schedule, and achieved a final electricity saving of about 7.8%. We have also set a new Green Energy Target to further improve the energy performance of the whole 
+Government by 6% by 2024-25. 
+Carbon reduction cannot be achieved by the 
+Government alone. The active participation of every member of the society is essential. We will foster support for the carbon neutrality target in the business sector through the “Carbon Neutrality” Partnership. At the same time, we strive to encourage members of the community to practise low-carbon living in line with the spirit of energy saving. The Government has put in place the one-stop Energy Saving for diverse and practical information on energy saving for members of the public. We will continue to regularly update the website, includ­ ing various energy saving tips in daily lives. Let us work together to strive towards carbon neutrality!
+
+[Page 35]
+4.4.11To reduce electricity consumption on air-conditioning for commercial buildings and hotels, the Building (Energy Efficiency) 
+Regulation (Cap. 123M) and the relevant codes of practice and practice notes require the external walls and roofs of these build­ ings to be designed and constructed with suitable Overall Thermal Transfer Value (OTTV). The Government is conducting a review on the OTTV, and plans to complete the review for tightening up the statutory standards by 2025. The Government also plans to complete two reviews on the 
+Residential Thermal Transfer Value (RTTV) by 2023 and 2030. To lead by example, the 
+OTTV of new government buildings will be at least 10% above the statutory standards. 
+4.4.12 To strengthen the promotion of green build­ ings in the private sector, we will continue to share experience with stakeholders and explore strategies and measures to achieve deep decarbonisation of buildings. In pursu­ ance of carbon neutrality, we will upgrade the “4T” Partnership to “Carbon Neutrality” 
+Partnership to cover not only energy saving and green buildings but also other carbon reduc­ tion actions. 
+4.4.13 As for infrastructure, following the Kai Tak 
+Development, construction works of two more 
+DCS projects in the Tung Chung New Town 
+Extension (East) and Kwu Tung North New 
+Development Area have commenced. When the two DCSs come into full operation, it is estimated that about 70 million kWh of electricity can be saved annually, and about 
+49 000 tonnes of carbon emissions can be reduced (i.e. around 0.12% of Hong Kong’s total carbon emissions). 
+4.4.14 To mobilise the community to take collective actions to conserve energy, we need to enhance the transparency of data and benchmarks. We plan to, through releasing energy data and introducing energy benchmarking tools, facili­ tate the comparison of building energy consumption performance and establish a two-way partnership in carbon reduction. 
+Indeed, the two power companies are progressively installing smart meters for their customers across the territory according to their plans, so as to help their customers monitor and manage electricity consumption more effectively and encourage energy conservation. Smart meters also provide the smart infrastructure required for introduc­ ing demand-side management measures, such as consideration of setting time-of-use tariffs as in some other economies to encour­ age users to change their habits and reduce electricity consumption during peak demand hours. 
+DCS at Kai Tak Development 
+Smart meters can monitor and manage electricity consumption more effectively 
+4.4.15 The concise and easy-to-understand MEELS helps members of the public practise energy conservation in their consumption behaviour. We will keep the scheme under review. Apart from upgrading the grading standards, we will also consider setting a minimum energy efficiency requirement so that certain appliances must meet the minimum energy efficiency standards before they can be supplied in Hong Kong, with a view to further raising the energy efficiency performance of products. Moreover, we will consider expanding the scope of the scheme to cover non-domestic or commercial appliances. 
+Enjoy subsidy for energy saving, reduce expenditure with decarbonisation 
+Under the current Scheme of Control Agree­ ments, the two power companies have estab­ lished energy efficiency funds to provide subsidies of up to $0.5 million on a matching basis for energy-saving improvement works in various types of buildings. The two power companies received over 1 600 applications from October 2018 to August 2021. Over 1 280 applications have been approved for implementing energy-saving improvement works, such as replacement of air-conditioning and lighting, RCx projects and installation of smart equipment in over 
+2 000 buildings.
+
+[Page 36]
+Green Transport
+Long-term target: Zero carbon emissions from vehicles and transport sector before 2050
+4.5.1 As shown from the development plans of car 
+We expect to achieve the long-term target of manufacturers around the world, adoption of zero carbon emissions from vehicles and the electric transport is undoubtedly the trend. In transport sector before 2050 through the addition, many manufacturers are actively electrification of vehicles and ferries, development developing other forms of new energy of new energy transport and implementation of transport (e.g. hydrogen-powered heavy vehicles). measures to improve traffic management.
+Medium-term target: Set a concrete timetable for adopting new energy public transport
+4.5.2 The measures outlined in the Hong Kong 
+Roadmap on Popularisation of Electric Vehicles announced by the Government in 2021 cover various aspects, including ceasing the new registration of fuel-propelled and hybrid private cars in 2035 or earlier, as well as setting strategies and targets for providing charging facilities. Besides private cars, commercial vehicles, including goods vehicles, buses, light buses and taxis, are also major sources of carbon emissions. The Government will play an active role in developing new energy transport, and will partner with different sectors in the coming years to actively test the technological and commercial viability of various electric and new energy public transport and commercial vehicles, with a view to setting a more concrete way forward and timetable in around 2025.
+A full-fledged charging network is also indispensable for supporting the popularisation of EVs. In around 2025, we will review this year’s target for the installation of charging facilities to keep up with the latest developments in EV.
+4.5.3 Apart from promoting the use of EVs, the 
+Government announced the Clean Air Plan for Hong Kong 2035 in 2021, setting out the vision of “Healthy Living Low-carbon 
+Transformation World Class”. The Government will continue to push ahead with the work on reducing air pollutant emissions in 
+Hong Kong and its neighbouring areas. The 
+Plan also sets out policy directions to support application of green technologies in different areas to achieve low-carbon transformation, and the target of having air quality on a par with major international cities by 
+2035. Following the release of the Plan, the 
+Government has set up an Interdepartmental Working Group on the application of hydrogen energy in Hong Kong. We plan to collaborate with the franchised bus companies and other stakeholders in the next three years to test out hydrogen fuel cell electric buses and heavy vehicles.
+Hong Kong Roadmap on 
+Popularisation of Electric Vehicles
+Clean Air Plan for Hong Kong 2035
+
+[Page 37]
+Hydrogen fuel cell vehicles 
+Hydrogen fuel cell EVs are gaining traction, especially in application for medium to large as well as medium-haul and long-haul vehicles. 
+Cities in the Mainland, Europe and America have begun trials of hydrogen-fuelled single- deck and double-deck buses, and are planning for the establishment of hydrogen filling networks. Neighbouring Guangdong Province has established hydrogen production facilities which can provide a stable hydrogen supply to 
+Hong Kong. We will also study the feasibility of using hydrogen-fuelled transport in Hong Kong, and consider the necessary supporting facilities, including construction of hydrogen filling facilities that meet the specifications, and train relevant technicians in the safe use and mainte­ nance of hydrogen fuel cell EVs, etc. 
+Hydrogen-fuelled delivery vehicle in the Mainland 
+Overseas hydrogen-fuelled double-deck bus 
+Providing a convenient pedestrian network 
+Enhancing the pedestrian network: TD is taking forward walkability enhancement measures and will implement a comprehensive pedestrian planning framework in suitable new development areas and built-up areas. 
+Universal 
+Accessibility 
+Programme: 
+Launched in 2012 to retrofit more barrier-free access facilities (e.g. lifts) at public walkways. 
+As of July 2021, 171 items have been completed. 
+Harbourfront promenade: 
+Harbourfront enhancement projects can improve the pedestrian linkage system on both sides of the 
+Victoria 
+Harbour and create a pedestrian-friendly environment. 
+Facilitation Scheme for Provision of Pedestrian 
+Links by the Private Sector: Developers can construct pedestrian links at their own costs with premium waiver. 
+Harbourfront Promenade: Boardwalk underneath the Island Eastern Corridor 
+4.5.4 We will also keep track of the latest technological developments of other heavy vehicles (e.g. container trucks, heavy goods vehicles and refuse collection vehicles, etc.) and introduce electric or other new energy vehicles for trial in a timely manner. As regards ferries, the 
+Government will subsidise ferry operators to conduct trials for electric and hybrid ferries. 
+Subject to the trial results and relevant technological developments, the Government will explore with the ferry operators the possibility of progressively replacing traditional ferries with new energy ferries before 2035. To tie in with the application of new energy in various means of transport, government departments will step up efforts to support and facilitate the development of relevant infrastructure and ancillary facilities. 
+4.5.5 The Government will continue the current approach of maintaining a public transport system with railway as the backbone, and will adopt different new technologies as well as traffic management measures. For instance, the Free-flow Tolling System will be rolled out at government tolled tunnels and the Tsing Sha 
+Control Area, while “congestion charging” will be pressed ahead actively, with a view to charging different toll levels according to the traffic condition of the tunnels and the Control 
+Area during different time periods. We commenced a traffic survey in September 
+2021 to collect the latest data and draw up preliminary proposals for “congestion charging” in 2022. We hope the above traffic manage­ ment measures will be able to enhance the road network efficiency and reduce carbon emissions from traffic congestion. Furthermore, the Government will continue to promote cycling for short-distance commuting and enhance walkability.
+
+[Page 38]
+Waste Reduction
+4.6.1 Waste contributes to about 7% of carbon emissions in Hong Kong, with the bulk of them being the GHG generated from decomposition of waste in landfills. The Government promulgated the Waste Blueprint for Hong Kong 2035 (the Waste Blueprint) early this year, advocating the vision of “Waste Reduction•Resources 
+Circulation•Zero Landfill”. The Waste Blueprint sets out targets for per capita MSW disposal and recovery rate, and the goal of developing adequate waste-to-energy facilities, with the aim to move away from the reliance on landfills for municipal waste disposal by 2035. 
+Waste reduction and resources circulation will also help foster a low-carbon and sustainable lifestyle.
+Waste Blueprint for Hong Kong 2035
+Long-term target: 
+Carbon neutrality in waste management
+4.6.2 If we can develop adequate waste-to-energy facilities so as to move away from over-reliance on landfills for municipal waste disposal by 
+2035 as planned, there will be no more municipal waste disposal at landfills. By 2050, most of the landfilled waste will have been decomposed, which will significantly reduce GHG emissions, thus helping us achieve the target of carbon neutrality before 2050.
+4.6.3 As for specific actions, we have to take a multi-pronged approach by pressing ahead with our promotion of waste reduction in parallel with waste separation and recycling. We also need to develop another waste-to-energy facility to process municipal waste, continue to expand our food waste recycling infrastructure, and make use of the biogas generated during the food waste treatment process as an additional source of RE. Only by doing so can we move away from reliance on landfills for municipal waste disposal.
+4.6.4 Among the various types of waste, plastics in particular generate GHG in their entire life cycle, from the extraction of crude oil, the manufacturing process to post-disposal treatment. 
+Reducing the use of single-use plastics with readily available alternative can therefore reduce GHG emissions. Currently, plastics take up about 20% of the total amount of MSW disposed of at landfills. We will map out a long-term solution and go “plastic-free” by adopting a multi-pronged approach, which includes formulating suitable policies and regulations, stepping up publicity, and expanding waste plastics recycling supporting facilities for turning waste into resources, as well as encouraging the public to replace single-use plastics with reusable or alternative materials.
+Strengthening regulation on different plastic products 
+Public consultation on 
+Producer Responsibility 
+Scheme on Plastic Beverage 
+Containers
+Bye Bye Microbeads Charter
+Public consultation on 
+Scheme on Regulation of 
+Disposable Plastic Tableware
+Public engagement on control of single-use plastics
+
+[Page 39]
+Medium-term target: 
+Enhance waste reduction and recycling 
+Recycling Stores encourage the public to cultivate habits of waste reduction and recycling 
+4.6.5 Through implementing MSW charging and other waste reduction and recycling initiatives, and encouraging the whole community to work together, we aim to progressively reduce the per capita MSW disposal by 40% to 45% and raise the recovery rate to about 55%. 
+4.6.6 Enhancing recycling is also an integral part of decarbonisation at source. We will continue to expand and enhance the central collection services for food waste, waste plastics and waste paper. The community recycling network covering all districts in Hong Kong will be enhanced to cover more areas and target participants, thereby raising the effectiveness of recycling. Besides, we will further promote low-carbon transformation of the recycling trade by supporting the industry to apply technologies to produce high value-added products and achieve re-industrialisation as well as circular economy; and consolidating and strengthening downstream recovery, recycling and waste-to-resources capabilities, in order to achieve the targets of reducing waste and carbon emissions. 
+4.6.7 In the meantime, we will enhance the recovery of landfill gases from the three landfills current­ ly in operation for providing thermal energy and electricity to support landfill operation and export to the gas company and power grids to provide energy for the public. 
+Climate Budget 
+4.7.1 Over the past decade, the Government has allocated over $47 billion to implement various energy saving and RE measures, promote electric vehicles and vessels, and introduce innovative waste-to-energy and waste-to-resources facilities to help reduce waste and carbon emissions. 
+4.7.2 The Government plans to allocate about $240 billion in the next 15 to 20 years to imple­ ment mitigation and adaptation measures to combat climate change, including the four main actions mentioned in this Chapter, cover­ ing energy saving and green buildings, RE, green transport and waste management, etc. 
+Moreover, the Government will undertake measures to adapt to climate change, including strengthening coastal defences, stabilising slopes and conducting drainage improvement works, etc. The relevant government departments will ascertain the details and estimated expen­ diture of individual projects in due course. 
+In the next 15 to 20 years, devote about to support mitigation and adaptation measures to combat climate change billion 
+Climate budget 
+4.7.3 The Government Green Bond Programme (GGBP) established in 2018 provides funding for the Government’s green public works projects. 
+The Government successfully offered its inaugural green bond with a total issuance size of US$1 billion in May 2019, while the second Government green bond with a total issuance size of US$2.5 billion was successfully offered in 
+January 
+2021. 
+Proceeds from the bonds have been fully allocated to or earmarked for eligible public works projects, including RE power systems, waste-to-energy facilities, and DCSs which help save energy, etc.
+
+[Page 40]
+4.7.4 On the other hand, as Hong Kong moves towards the target of net-zero electricity generation, the power companies also have to develop and adopt more zero-carbon energy, and invest in and develop in phases the necessary equipment and infrastructure such as large-scale wind power generation and hydrogen power generation facilities. It would be difficult to ascertain at this stage the cost of such additional investment which would depend on a range of factors, such as the development of decarbonisation technologies and the scale of facilities. Early planning of and orderly investment in the relevant infrastructure can help spread the cost impact over a longer period of time. In addition, the overall energy efficiency can be enhanced through utilising innovative and smart technologies as well as promoting energy saving measures. This in turn reduces the costs of shifting to zero-carbon energy and alleviates the upward pressure on energy bills.
+Education and Training
+4.8.1 We will broaden school teachers’ knowledge about climate change. Schools may strengthen the relevant learning materials in different subjects and provide diversified learning experiences, so as to enhance students’ awareness of climate change and its impacts, encourage the students to practise what they have learned, and promote low-carbon transformation. To nurture professional talent, we need to incorporate learning materials relating to climate change, low-carbon technologies and green finance, etc. into the relevant curricula in universities and tertiary institutions in a timely manner, and enhance cooperation and exchange among universities and tertiary institutions, so that both teachers and students can keep abreast of the latest developments, and equip themselves with the relevant professional knowledge and skills. For instance, demand for EV technical and maintenance practitioners from the local automotive engineering sector has been increasing. The Hong Kong 
+Institute of Vocational Education has added elements of EV technologies and maintenance to the relevant programmes for students to keep up with the latest developments in the automotive engineering industry. The School of Business and 
+Management and the Division of Environment and 
+Sustainability at The Hong Kong University of 
+Science and Technology (HKUST) announced in 
+September this year that they would jointly offer the first Bachelor of Science in Sustainable and Green Finance Program in Hong Kong to equip students with interdisciplinary knowledge and nurture them to become sustainable and green finance talent.
+4.8.2 We will organise more educational activities of different nature to raise the awareness of the community about climate change, encourage them to practise low-carbon and sustainable lifestyles, and encourage young people to participate in the work of promoting environmental protection and awareness of climate change.
+Various educational activities can enhance public awareness of combating climate change and practising low-carbon lifestyle
+
+[Page 41]
+Steering and Coordination
+Public Engagement
+4.9.1 The Steering Committee on Climate Change and Carbon Neutrality under the chairmanship of the Chief Executive was established in mid-2021 to formulate the overall strategy at the highest level and oversee implementation and coordination. We will adopt a whole-government approach to formulate more holistic and proactive decarbonisation measures, and implement decarbonisation action plans in our pursuit of the carbon neutrality target.
+4.9.2 To ensure effective implementation of the measures and follow-up actions, ENB will set up the Office of Climate Change and Carbon 
+Neutrality to strengthen coordination and promote deep decarbonisation, etc. ENB had also set up an inter-departmental Carbon 
+Neutrality Task Force this year, bringing together the experts from relevant departments to explore forward-looking decarbonisation policies, having regard to the latest developments in advance decarbonisation technologies globally.
+4.10.1 The work of combating climate change is of such depth and breadth that requires advice from a dedicated advisory committee. We will explore ways to establish a dedicated advisory committee on climate change through the integration of the existing advisory platforms, with the aim to encourage different sectors in the community, including our young generation, to actively participate in climate actions. 
+On the basis of the existing “4T” dialogue platform, we will upgrade the “4T” Partnership to “Carbon Neutrality” Partnership. 
+Apart from energy saving, we encourage our partners from various sectors to set targets and timelines for the development of RE, adoption of green transport and waste reduction, etc., and share their measures and achievements. 
+Office of Climate 
+Change and Carbon 
+Neutrality
+Steering Committee on Climate Change and Carbon Neutrality
+Interdepartmental 
+Carbon Neutrality Task
+Force
+Dedicated advisory committee
+4.9.3 Combating climate change is a long-term task. 
+We will, in line with the spirit of the Paris Agreement, review Hong Kong’s Climate Action Plan about every five years to update the strategies and targets for decarbonisation and other actions to combat climate change.
+Universities’ development plans to achieve carbon neutrality
+A number of universities in Hong Kong have strived to make their campuses greener in order to achieve sustainable development. 
+The Chinese University of Hong Kong has set a target of achieving carbon neutrality by 
+2038, while HKUST has established a number of performance targets with respect to reduction in energy consumption, GHG emissions and wasteloads, and has also made great efforts in developing RE by installing a total of 8 000 solar panels in over 50 locations on the campus since 
+2020. The project is estimated to generate around 3 million kWh of electricity per year, which is equivalent to the electricity consumption of 900 three-person families in Hong Kong per year.
+Solar panels have been installed in many places on the campus of HKUST
+
+[Page 42]
+Chapter 5 
+CLIMATE CHANGE 
+ADAPTATION AND 
+RESILIENCE
+
+[Page 43]
+5.1 To combat climate change effectively, apart from implementing ambitious decarbonisation strategies, we also need to adopt a comprehensive strategy on climate change adaptation and resilience to protect the life, health and property of the people from extreme weather and strengthen the resilience of the community. We will, on the basis of the Hong Kong’s Climate 
+Action Plan 2030+, explore the measures 
+Hong Kong must take before 2050 to enhance the adaptation and resilience capability. 
+Resilience
+Prepare for emergencies
+Raise community awareness
+Deal with extreme heat
+Adaptation
+Blue-green drainge infrastructure
+5.2 Hong Kong, being a coastal city, is susceptible to weather-related threats such as tropical cyclones, rainstorms and storm surges. Super 
+Typhoons Hato and Mangkhut hit Hong Kong in 2017 and 2018 respectively, causing extensive damage, such as severe backflow of sea water in some low-lying areas and damage to waterfront facilities, etc. Furthermore, climate change has resulted in a continuous rise in the sea level, posing a potential threat to certain low-lying areas in the long run. In the face of more frequent extreme weather events, the 
+Government must strengthen its critical public infrastructure, step up coastal protection, and continue to enhance the flood resilience of the city and stabilise slopes, etc., in order to brace for more frequent extreme weather events in the future.
+Hundreds of civil servants, volunteers and contractors worked together to remove the fallen trees after the onslaught of Super 
+Typhoon Mangkhut in 2018
+Adaptation
+5.3 With the accumulation of experience in combating extreme weather events, including tropical cyclones and rainstorms, Hong Kong has laid a solid foundation for strengthening the design of buildings and infrastructure facilities, and enhancing drainage management and landslip preventive measures. The public has become increasingly aware of climate change, and is supportive of more government investment in measures to adapt to climate change. In fact, with the advancement in technologies and approaches in combating climate change, projects that aim to adapt to extreme weather can also beautify the environment. For instance, incorporating the concept of revitalising water bodies with green and ecological conservation elements into drainage works can also promote greening, biodiversity and beautification of the environment while maintaining effective drainage.
+5.4 Hong Kong has been actively participating in international organisations on climate change to keep updated of the latest developments in policies and technologies for combating climate change. The Government will continue to formulate policies and plans to enhance the adaptive and resilience capabilities of the city in the light of the latest developments in climate science and relevant international standards, including the assessment reports published by the 
+Intergovernmental Panel on Climate Change (IPCC) of the United Nations (UN), projections of temperature and rainfall in Hong Kong, and projections of change in mean sea level. 
+Stakeholders in various sectors should also implement relevant adaptation and resilience measures on their premises and facilities to minimise the impacts and losses caused by extreme weather.
+
+[Page 44]
+Strengthening Infrastructure 
+5.5 The Government attaches great importance to the capability of Government’s infrastructure in combating climate change and extreme weather, and established in 2016 the Climate Change 
+Working Group on Infrastructure (CCWGI) under the leadership of the Civil Engineering and 
+Development Department (CEDD) to coordinate the efforts of the works departments in adapting to climate change. The Working Group has coordinated studies relating to the potential effects of extreme temperatures, extreme storm surges and super typhoons on government critical infrastructure (CI). The CCWGI will report its work plans and progress to the Steering Committee on Climate Change and Carbon 
+Neutrality chaired by the Chief Executive. 
+5.6 The CCWGI updates the design standards for various types of infrastructure in a timely manner, taking into account the relevant climate change parameters. With reference to the Fifth 
+Assessment Report published by the IPCC, the relevant government departments had in the past few years updated the design manuals and guidance notes, including Port Works Design 
+Manual, Stormwater Drainage Manual, Guidance 
+Notes on Road Pavement Drainage Design and the design guide for drainage installation for government buildings. 
+5.7 With the progressive release of the Sixth 
+Assessment Report by the IPCC since August 
+2021, the CCWGI will take into account the relevant assessment reports to review and update the relevant design standards for infrastructure in a timely manner as and when necessary. 
+5.8 The CCWGI also conducts a number of studies, such as the resilience study of government CI in 2017, covering coastal structures, government buildings, drainage, water supply and sewerage facilities, etc. The resilience study included strategic assessment and review to formulate scopes of enhancement works. The study was completed in 2020. The relevant government departments will formulate measures and implementation plans to enhance their CI’s resilience with reference to the recommendations of the study. The CCWGI also shares relevant experience and findings with public organisations and public utility undertakers through the relevant government departments, thereby facilitating the enhancement of the overall infrastructure resilience of our society. 
+Aberdeen South Breakwater
+
+[Page 45]
+Combating 
+Sea Level Rise and 
+Marine Protection 
+5.9 Sea level rise will increase flood risk at coastal and low-lying locations. To enhance the capability of coastal areas to withstand strong waves in the long run, CEDD commenced a consultancy study in 2019 to comprehensively review the low-lying coastal or windy locations in Hong 
+Kong, and to carry out investigations of related storm surges and waves in order to assess the impacts of extreme weather and climate change at those locations. The Government plans to implement suitable improvement works and formulate management measures for some of the concerned low-lying coastal or windy locations in order of priority.
+　　　 
+5.10 CEDD also plans to commence a strategic study on shoreline management to analyse the impacts of climate change on the development of coastal areas, so as to formulate suitable long-term strategies and protection measures, and to strengthen the capabilities of the 
+Government and relevant stakeholders in coping with climate change. 
+5.11 Some coastal cities like Copenhagen and Amster­ dam are considering the option of developing sponge cities and suitable artificial islands in their strategies for combating sea level rise and coastal floods arising from climate change. We will closely monitor the international strate­ gies and developments that can provide useful reference. 
+Combating 
+Extreme Rainstorms and 
+Tropical Cyclones 
+5.12 Climate change increases rainfall intensity and aggravates the pressure on the drainage system. Enhancing flood prevention and drain­ age management can reduce flood risks. DSD has updated the Stormwater Drainage Manual by including the impacts on the drainage system design caused by rainfall increase and sea level rise due to climate change. DSD will continue to review the Drainage Master Plan of various districts in Hong Kong to assess the flood risk, and allocate resources for implement­ ing drainage improvement works. 
+5.13 DSD has adopted the “three-pronged flood prevention strategy”, i.e. stormwater intercep­ tion at upstream, flood storage at midstream, and drainage improvement at downstream, to formulate appropriate flood prevention and drainage management measures. It has completed a number of major flood prevention projects, including four drainage tunnels in 
+Hong Kong Island West, Lai Chi Kok, Tsuen 
+Wan and Kai Tak; four stormwater storage schemes in Tai Hang Tung, Sheung Wan, 
+Happy Valley and On Sau Road; and improve­ ment works for rivers in the New Territories with a total length of over 100 kilometres, as well as the implementation of 27 village flood protection schemes in low-lying villages for combating extreme weather events such as tropical cyclones and rainstorms. Since 
+1995, DSD has eliminated 127 flooding 
+Chai Wan Breakwater
+
+[Page 46]
+blackspots. For the remaining four flooding blackspots, the drainage improvement works at 
+Pokfulam Village in Southern District have commenced and are expected to complete in 
+2024. The remaining three flooding blackspots are located at Shek Wu Wai in San Tin, Yuen 
+Long, Lam Tsuen Valley Basin in Tai Po and on 
+Chatham Road South in Tsim Sha Tsui. 
+Improvement works will be carried out as soon as the planning and design works are complet­ ed. To further enhance the flood prevention and flood resilience capabilities of the city, DSD is also planning, designing and constructing a number of drainage improvement works such as the Inter-reservoirs Transfer Scheme and the 
+Yuen Long Barrage Scheme, as well as actively promoting the introduction of stormwater storage tank, flood lake, floodable area, river revitalisation, bioretention system, and other sustainable drainage systems, etc. in new devel­ opment areas. 
+Inter-reservoirs Transfer Scheme 
+Through the construction of a 2.8 kilometres long water tunnel, the Inter-reservoirs Transfer 
+Scheme connects Kowloon Byewash 
+Reservoir and Lower Shing Mun Reservoir, reducing the flood risk caused by the overflow from Kowloon Byewash Reservoir to the downstream areas such as the Lai Chi 
+Kok, Cheung Sha Wan and Sham Shui Po areas. The project can also collect an average of around 3.4 million m³ of additional fresh water annually to achieve the dual goals of flood prevention and water conservation. 
+Happy Valley Underground Stormwater Storage Scheme: The stormwater storage tank has a capacity of 60 000 m³, which is equivalent to 24 standard swimming pools. It greatly reduces the flood risk to the low-lying areas of Wan Chai and Happy Valley
+
+[Page 47]
+MTRCL’s flood prevention measures 
+EMSD requires MTRCL to formulate measures to cope with various emergencies, and conducts regular site inspections. To tackle the threats of flooding at MTR stations and underwater tunnels caused by inclement weather, MTRCL has implemented the following measures: 
+• The entrances/exits of most MTR stations are by design at least 450 mm above street level and equipped with 1.2 m high flood boards; waterproof doors are installed at the underground entrances/ exits connecting MTR stations and other facilities as needed; intercepting ditches or floodgates are also installed at the entrances/exits connecting depots and railway tunnels where necessary to prevent ingress of flood water 
+• Underground stations and tunnels are equipped with water pumps 
+• Emergency procedures for coping with catastrophic floods have been formulated to evacuate passengers from MTR stations as soon as possible in case of emergency, and drills are conducted on a regular basis 
+New technologies to cope with extreme rainstorm events 
+CEDD proactively makes use of new technologies to collect data to enhance the efficiency of slope works and landslide warning and emergency actions. 
+CEDD has conducted airborne light detection and ranging surveys to produce territory-wide digital terrain models to identify landslide hazards 
+CEDD has introduced and developed quadruped robotic dogs, to assist engineers in conducting site exploited inspections and collecting field data at landslide sites. 
+The collected data can be used for analysing the cause of landslides and assessing residual landslide risk, so as to facilitate the design of emergency repair works 
+5.14 With regard to railway and road infrastructure, 
+MTRCL carries out the design, construction and maintenance of the flood protection and drainage systems of the railway and its facilities in accordance with the requirements stipulated by 
+DSD. MTRCL also reviews and formulates the preventive measures regularly, and strengthens the protective equipment as needed. As for road facilities, the Highways Department (HyD) regularly reviews and updates relevant design manuals and guidance notes. Public road facilities such as road tunnels and pedestrian subways under the purview of HyD should be equipped with proper drainage systems in accordance with the relevant design manuals and guidance notes to drain water ingress from various sources. 
+5.15 More frequent and intense rainstorm events increase landslide risk. CEDD will continue to implement the Landslip Prevention and 
+Mitigation Programme to upgrade government man-made slopes and to mitigate natural terrain landslide risk. CEDD also endeavours to enhance the slope drainage design standard to improve the slope surface drainage system with the aim of strengthening the resilience of the slopes against extreme rainstorms. 
+Rainstorms increase the landslide risk of natural terrain
+
+[Page 48]
+Combating Extreme Droughts and 
+Safeguarding Water Supply 
+5.16 WSD has updated the Total Water Management 
+Strategy to cater for the forecast water demand up to 2040. The updated Strategy adopts a two-pronged approach with emphasis on containing fresh water demand growth and building resilience in the fresh water supply to cope with the extreme effects of climate change with diversified water resources. 
+5.17 To achieve the goal of reducing the average fresh water per capita consumption by 10% in 
+2030, using 2016 as the base year, and containing the fresh water demand at the level of around 1 billion m³ per annum before 2040, 
+WSD is taking forward three major water demand management initiatives, namely water conservation, water loss management and expansion of the use of lower grade water (viz. seawater and recycled water) for non-potable purposes. 
+5.18 WSD enhances implementation of various water demand management initiatives through wide adoption of smart technologies, including establishment of the Water Intelligent Network and installation of the Automatic Meter Reading, etc. 
+Construction of the relevant infrastructure for expanding the use of lower grade water for non-potable purposes, including the reclaimed water supply system in 
+Sheung Shui and Fanling and the grey water recycling supply system at the Anderson Road 
+Quarry Development site, is in progress for supplying recycled water to the public in phases starting from 2024. WSD will continue to expand the use of recycled water to other new development areas and areas where fresh water is supplied for flushing wherever it is technically feasible and cost-effective. 
+5.19 On the other hand, WSD is enhancing resilience in the fresh water supply to cope with the impacts of climate change ﹙by constructing the first stage of the desalination plant in Tseung Kwan O. 
+Shek Wu Hui Effluent Polishing Plant and Water Reclamation Plant 
+DSD is implementing the reconstruction of the existing Shek Wu Hui 
+Sewage Treatment Works in phases to increase the treatment capacity to 
+190 000 m³ per day, and to upgrade the sewage treatment level to tertiary standard for upgrading to a “Shek Wu 
+Hui Effluent Polishing Plant”. 
+Upon the completion of the facility, 
+WSD will produce reclaimed water by further processing a portion of the tertiary treated sewage effluent and supply to the north-eastern part of the 
+New Territories, including Sheung Shui and Fanling, for non-potable purposes. 
+Shek Wu Hui Effluent Polishing Plant and Water 
+Reclamation Plant (artist’s impression) 
+Grey water recycling system for 
+Anderson Road Quarry Development 
+WSD is constructing a centralised grey water recycling system where grey water (viz. water collected from baths, showers, wash basins, kitchen sinks and washing machines etc.) collected from inhabitants at the Anderson Road 
+Quarry Development site will be treated and supplied for on-site flushing and other non-potable purposes. 
+The system will have a treatment capacity of 3 300 m³ per day. 
+Grey Water Treatment Plant for Anderson Road 
+Quarry Development (artist’s impression) 
+Tseung Kwan O 
+Desalination Plant 
+Hong Kong is a coastal city where seawater supply is abundant. To cope with the possible extreme dry weather, 
+WSD is constructing the first stage of 
+Tseung Kwan O Desalination Plant to exploit alternative water resources other than rainfall. The plant, targeted to be commissioned in 2023, will adopt the latest reverse osmosis technology in producing potable water that complies with the Hong Kong Drinking Water 
+Standards. It will have a daily capacity of about 135 000 m³ that will meet around 5% of the overall fresh water demand in Hong Kong, with provision for future expansion to a daily capacity of up to 270 000 m³. 
+Desalinated water is a strategic water resource for 
+Hong Kong that is not susceptible to the impacts of climate change. The above photo is Tseung Kwan O 
+Desalination Plant (artist’s impression)
+
+[Page 49]
+Combating Extreme Heat 
+5.20 We will continue to enhance building design and promote urban forestry with a view to alleviating and coping with temperature rise. Based on the recommendations of the Study of 
+Design Considerations for Government Infrastructures under Extreme Temperatures, 
+ArchSD is coordinating with relevant departments to follow up and review the design standards relating to public infrastructure and government buildings. The work is expected to be largely completed in 2023. The Buildings 
+Department (BD) is also reviewing the technical requirements on thermal expansion joints of building components in anticipation of extreme temperature in the future. 
+5.21 To further promote green buildings and to foster a quality and sustainable built environment, BD has commissioned a consultant to review the room to tighten the current mechanism of granting gross floor area (GFA) concessions for green and amenity features in new private development projects. BD is working closely with stakeholders to formulate the implementation details of the new GFA concession mechanism which is targeted to be launched in 
+2022. 
+5.22 Promoting urban forestry and increasing tree planting can lower urban temperature and attenuate the heat island effect. The Development 
+Bureau is studying and exploring feasible measures to improve the growing environment of urban trees, which include the application of smart technologies in tree management, review of soil volume for new roadside trees and improvement of soil quality for existing planting areas. The Government will continue to promote active planting, proper maintenance and preservation practices with a view to achieving a sustainable and healthy urban forest. 
+Kwun Tong Promenade 
+Hong Kong Velodrome Park in Tseung Kwan O
+
+[Page 50]
+Resilience 
+Contingency Plan for
+Natural Disasters 
+5.23 Extreme weather conditions are expected to become more frequent due to climate change. 
+The Government will continue to strengthen preparation for and response to natural disasters, and to enhance capabilities in post-disaster recovery. Relevant departments will enhance arrangements on the dissemination of information so that the public can make preparation for appropriate response to, and recovery from, natural disasters, with a view to mitigating the potential threats. 
+5.24 According to the Contingency Plan for Natural 
+Disasters formulated by the Security Bureau, the Government will act in preparedness, response and recovery to guard against natural disasters by enhancing situation assessment at the early stage, devising the response strategy and plan as well as redeploying resources and manpower in a timely manner. In the event of natural disasters of a substantial scale, such as severe rainstorm and serious flooding where extensive government emergency response operations are required, the Emergency Moni­ toring and Support Centre will be activated to provide a holistic response. 
+5.25 After the onslaught of Super Typhoon 
+Mangkhut in Hong Kong in September 2018, the 
+Government has conducted an inter-depart­ mental review of the handling mechanism to improve Hong Kong’s preparedness for, emer­ gency response to, and recovery from future super typhoons or other natural disasters of a substantial scale. One of the new measures requires that in the event of a super typhoon or other natural disasters of a substantial scale, a high-level inter-departmental Steering Commit­ tee chaired by the Chief Secretary for Admin­ istration (CS) will be set up, as and when necessary, to oversee the work of relevant bureaux and departments and to set priorities in a coordinated manner. Should a super typhoon or other natural disasters of a substan­ tial scale cause damages that paralyse the city and seriously affect the working public to resume work, the CS, having regard to the views of the Steering Committee, may make a territory-wide “Extreme Conditions” announce­ ment to extend the time for resumption of work so as to minimise possible injuries to members of the public. 
+5.26 In order to safeguard the life and property of the public, relevant bureaux and departments will conduct regular exercises of various forms to enhance preparedness and collaboration among the units concerned to cope with natural disasters. 
+Warning and Monitoring 
+5.27 The Hong Kong Observatory (HKO) closely monitors weather situation. HKO will issue weather warnings and bulletins for severe weather where necessary to remind members of the public, particularly those in vulnerable areas, to seek shelter in safe places and take corresponding precautionary measures to minimise losses. 
+5.28 Owing to the complex coastline of Hong Kong, the degree of impacts from storm surges associated with tropical cyclones can vary significantly across different locations. HKO, in collaboration with District Offices and DSD, has established an early alert mechanism. 
+Rainstorm forecast 
+HKO has been disseminating rainfall information through various channels to help the public get prepared. In May 2021, HKO launched the Localised Heavy Rain Advisory service, providing early alert on heavy rain in individual districts based on recorded rainfall and forecast rainfall from the nowcasting system. HKO plans to provide local weather forecast in greater detail through the use of technologies such as higher performance computer systems and artificial intelligence. 
+HKO launched the Localised 
+Heavy Rain Advisory service
+
+[Page 51]
+When the water level is forecast to reach the corresponding alert level under the influence of tropical cyclones, HKO will issue SMS alert messages to relevant government departments. 
+District Offices will inform local residents and property management offices to take appropri­ ate preparatory and precautionary measures, while DSD will mobilise manpower to provide assistance to the residents in the areas that are more vulnerable to flood risk. 
+5.29 In addition, DSD has set up an Emergency 
+Control Centre (ECC). The Flood Monitoring and 
+Reporting System in the ECC will monitor rainfall and water level of major rivers and channels in real-time. DSD has installed telemetry systems in more than 140 locations to collect data such as tide level and water level at the sites and send them to the monitoring centre. It can facilitate speedy analysis of the flooding situation and timely notification of other departments as and when necessary, so that the departments can be well prepared for rescue, evacuation and open­ ing of temporary shelter. 
+5.30 The Office of the Communications Authority has engaged local mobile network operators to set up an emergency alert system for dissemina­ tion of time-critical public announcements and messages by the Government via mobile networks to mobile service users during emer­ gency situations, such as extreme weather, so that the public can adopt contingency measures quickly. 
+Transport System 
+5.31 TD has formulated a series of contingency plans to handle various emergency situations at major transport infrastructure such as railways and road tunnels. In the event of an emergency, 
+TD’s Emergency Transport Coordination Centre will activate the relevant contingency plan to coordinate all parties concerned to implement temporary traffic and public transport arrange­ ments in response to the closure of the relevant facilities and suspension of services. 
+5.32 EMSD also requires MTRCL to formulate measures to cope with various emergencies, including procedures for evacuating passengers from the stations as quickly as possible during emergency situations, such as catastrophic flood, and to conduct site inspections and drills on a regular basis. HyD also regularly reviews and updates the emergency response plans for public road facilities under its purview. The operators of government road tunnels and control areas are responsible for the manage­ ment, operation and maintenance of the tunnels and control areas, including the drain­ age facilities and equipment, to ensure their normal operation. 
+The Government conducts inter-departmental exercises to strengthen emergency responses 
+Water level sensor can provide real-time monitoring of the water level at rivers and channels 
+TD’s Emergency Transport Coordination Centre monitors traffic conditions and handles various emergency situations
+
+[Page 53]
+Hong Kong’s target to achieve carbon neutrality in less than 30 years will undoubtedly bring a myriad of challenges and difficulties, but it will also open up new opportunities for Hong Kong. Measures to decarbonise and to adapt to climate change will not only bring about sustainable improvement to the environment, but will also drive the development of a green economy, create job opportunities and promote a green recovery. We estimate that the resources to be devoted by the Government in the next few years can create more than 10 000 job opportunities. Hong 
+Kong must grasp the new momentum for growth brought about by the low-carbon transformation, and seize the collaborative opportunities with neighbouring regions to foster more diversified and sustainable development. 
+Green Economy and Employment Opportunities 
+6.1 Countries around the world are promoting low-carbon transformation as the awareness of environmental protection among people continue to grow. This is driving the development of a green economy in areas such as the application of new energy, energy saving and environmental protection, new energy vehicles and other green industries, and has brought new investment and plentiful job opportunities. In pursuit of carbon neutrality in Hong Kong, the Government and all sectors of the society will allocate substantial financial resources to formulate and implement measures to promote energy saving, clean energy, green infrastructure, electrification of transport, waste reduction and recycling, etc., which will not only bring about continuous improvement to the environment, but also an array of opportunities in green economy. 
+6.2 We estimate that in the next 15 to 20 years, the Government’s expenditure on various measures to combat climate change may reach $240 billion. Various private enterprises are also expected to invest heavily in decarbonisation. The enormous demand for financing will accelerate the development of green bonds and other green and sustainable financial products in Hong Kong. Apart from encouraging investment from both the public and private sectors, the decarbonisation transformation will also stimulate and sustain the development of Hong 
+Kong’s green economy, support the emergence of green finance technology, expedite circular economy and re-industrialisation, and even create tens of thousands of job opportunities in green industries such as energy supply, recycling, EVs, new energy transport and their supporting industries. 
+The process of achieving carbon neutrality will stimulate and sustain the development of Hong Kong’s green economy
+
+[Page 54]
+Regional Centre for Green Finance 
+6.3 The Outline Development Plan for the 
+Guangdong-Hong Kong-Macao Greater Bay 
+Area released in 2019 supported Hong Kong to develop itself into a green finance centre in the GBA and set up internationally recognised green bond certification institutions. The 
+Outline of the 14th Five-Year Plan for National 
+Economic and Social Development of the 
+People’s 
+Republic of 
+China and the 
+Long-Range Objectives Through the Year 2035 (the 14th Five-Year Plan) approved this year also reaffirmed its support for Hong Kong to enhance its status as an international financial centre. In recent years, the flourishing green finance business and the increasing demand for green and sustainable financial products have brought new investment opportunities. 
+As an international financial centre, Hong 
+Kong has a large financial market and a sound world-class regulatory framework, bringing together global leading financial and professional institutions, green assessment and certification bodies as well as international investors. With these strengths and advantages, Hong Kong is well placed to develop into a green finance hub in the region and serve as a premier financing platform for green enterprises and projects, and play an important role in combating climate change. 
+6.4 Huge financial resources are required to achieve carbon neutrality. We should strive to develop various financing tools to attract more funds to projects that can help decarbonisation. The Government launched the GGBP in 
+2018 to provide funding for Government’s green projects. With the support from the 
+LegCo in July 2021, the Government doubled the borrowing ceiling from HK$100 billion to 
+HK$200 billion and expanded the funding scope to a wider variety of green projects not limited to public works projects. We plan to issue green bonds further, totalling some 
+HK$175.5 billion within the next five years from 2021-22, having regard to the market situation. We also plan to pilot the issuance of green bonds that involves more types of currencies, project types and issuance channels, thereby further enriching the green finance ecosystem in Hong Kong. In view of the growing interest of the general public in green and sustainable development, the Government is also planning to issue retail green bonds to provide opportunities for members of the public to take part in green finance, thereby raising public awareness of and interest in green and sustainable finance. The GGBP not only provides funding for Government’s green projects, but also consolidates Hong Kong’s position as a leading bond market in Asia and a green finance hub in the region. 
+HKSAR Government’s Green Bond Reports 
+As an international financial centre, Hong Kong has the conditions and advantages to develop into a green finance hub in the region
+
+[Page 55]
+The Green and Sustainable Finance Cross-Agency Steering Group 
+Established in May 2020, the Green and 
+Sustainable Finance Cross-Agency Steering 
+Group (the Steering Group) is co-chaired by the 
+Hong Kong Monetary Authority and the Securities and Futures Commission, with members comprising ENB, the Financial Services and the 
+Treasury Bureau, Hong Kong Exchanges and 
+Clearing Limited (HKEX), the Insurance Authori­ ty and the Mandatory Provident Fund Schemes 
+Authority. The Steering Group aims to coordi­ nate the management of climate and environ­ mental risks to the financial sector, accelerate the growth of green and sustainable finance in 
+Hong Kong and support the Government’s climate strategies. The Steering Group will focus its work on climate-related disclosures and sustainability reporting, carbon market opportu­ nities and the work of the Centre for Green and 
+Sustainable Finance, with a view to consolidat­ ing Hong Kong’s leading position in green and sustainable finance and assist in the transition of the financial ecosystem to carbon neutrality. 
+Hong Kong’s Green and Sustainable Finance Strategy 
+Carbon trading 
+Carbon markets are expected to grow significant­ ly as the Mainland and other key overseas markets pursue the transition to a green and low-carbon economy. There are currently a number of emission trading systems (ETS) in the world, including the European Union ETS, 
+Tokyo ETS, the eight pilot ETSs in the Main­ land (i.e. Beijing, Tianjin, Shanghai, Chongqing, 
+Hubei, Guangdong, Shenzhen and Fujian) and the country’s national ETS in Shanghai, which was officially launched in July 2021. 
+Carbon trading is a pricing tool to set the price for emissions based on market mechanism. It mainly controls the overall emissions by setting emission caps and allowing the market to trade limited emission permits. Voluntary carbon trading markets are mainly based on non-compliance goals such as fulfilling social responsibilities, building brands and expanding social benefits, or the self-motivated trading initiated by individuals to offset their carbon emissions, achieve carbon neutral lifestyle and reduce overall emissions. 
+The Steering Group has set up a Carbon Market 
+Work Stream to assess the feasibility of develop­ ing Hong Kong into a regional carbon trading centre, leveraging its unique advantages in financial services. Based on the existing pilot 
+ETSs in Guangdong, the development of a unified carbon market in GBA will also be explored, having regard to the opportunities presented by both the compliance carbon market and the voluntary carbon market in 
+China and overseas, including the potential size of the carbon product market and policy support needed. The study report is expected to be completed in December 2021. 
+Moreover, HKEX signed a Memorandum of 
+Understanding with the Guangzhou Futures 
+Exchange (GFEX) in August 2021 for strategic cooperation in promoting sustainability and facilitating the overall development of the GBA. 
+The two parties will focus on supporting the coun­ try to peak carbon emissions and reach carbon neutrality, and will jointly explore the feasibility of cooperation on product development in both onshore and offshore markets, facilitate collabo­ ration in areas such as clearing and technology, as well as share the resources on marketing and investor education. 
+HKEX
+
+[Page 56]
+Regional Cooperation in Innovation and Technology 
+6.5 Technological development plays a pivotal role in achieving carbon neutrality. The Government will continue to step up promotion of I&T development and re-industrialisation, encourage R&D on and trial of decarbonisation technologies with a view to facilitating their application in different areas. In 2020, the Government allocated $200 million for setting up the Green Tech Fund to provide better and more focused funding support for R&D projects which can help Hong 
+Kong decarbonise and enhance environmental protection, thereby helping Hong Kong pursue the target of striving to achieve carbon neutrality. 
+While supporting local I&T development, we may also explore growth opportunities through cooperation with neighbouring regions, such as strengthening exchanges and collaboration with cities in the GBA in building low-carbon communities, developing decarbonisation technologies, promoting low-carbon products and nurturing talent. 
+6.6 The 14th Five-Year Plan promulgated this year has put forward for the first time the support for Hong Kong to develop into a regional intellectual property (IP) trading centre and an international I&T hub, thereby recognising 
+Hong Kong’s potential for I&T development; and has named green and environmental protection technology as one of the strategic emerging industries. Hong Kong’s international business environment, comprehensive 
+IP protection regime, and well-developed service sectors such as financial, maritime, trading and legal services, have created extremely favourable conditions for developing green technologies. Hong Kong may continue to leverage its diverse strengths and unique position to seek further development. We have been striving to enhance I&T cooperation with the 
+Mainland, including R&D funding schemes and demonstration projects under the theme of green technology. Hong Kong and the adjoining GBA cities may complement one another with their own strengths to achieve synergy, with a view to developing an I&T upstream, midstream and downstream industrial chain, thus contributing to our country’s advancement towards carbon neutrality. 
+6.7 Regional cooperation is also the key to achieving low-carbon electricity generation in Hong 
+Kong. Hong Kong’s RE development has been limited by its geographical constraints. To increase the use of zero-carbon energy, we need to cooperate with neighbouring regions to develop more effective zero-carbon energy of a larger scale. With technological advancement and the large-scale development of RE in the 
+Mainland in particular, Hong Kong may explore the feasibility of developing new offshore projects, such as joint ventures in electricity projects by the power enterprises of Hong Kong and the Mainland. 
+Trial of hydrogen energy for electricity generation 
+To prepare for the future adoption of new energy for electricity generation, CLP and 
+GE have signed an agreement to jointly explore the feasibility of blending hydrogen and natural gas for electricity generation at Black Point Power Station with a view to using 100% hydrogen as fuel for electricity generation ultimately to support the decarbonisation plan of the power station. 
+Black Point Power Station
+
+[Page 57]
+The InnoCell located in the Science Park is Hong Kong’s first batch of high-rise building projects adopting MiC method 
+Green Planning and Carbon-neutral Community 
+6.8 The cityscape and development approach of 
+Hong Kong is expected to undergo transformation in tandem with the trend towards carbon neutrality. Currently, government departments would, apart from developing housing and community facilities, strive to build low-carbon liveable communities when implementing planned new development areas (NDAs), such as Hung Shui Kiu/Ha Tsuen, Kwu Tung North and Tung Chung New Town Extension. Examples include building DCSs to reduce energy demand; adopting green and sustainable design in buildings as far as possible to reduce energy consumption; providing railway services and installing charging networks for EVs at an early stage; saving energy through proper land use planning and building layout; providing the public with green mobility options, such as walking and cycling; and setting up waste separation and recycling facilities in the community. The two strategic growth areas (SGAs) under planning (i.e. New Territories North and artificial islands in the Central Waters) will indeed adopt the target of carbon neutrality. 
+As Hong Kong continues to switch to clean energy for electricity generation and electrify transport, all NDAs and the two SGAs are aspired to be further enhanced to carbon-neutral communities in the medium and long run. 
+6.9 In planning for new development areas and urban renewal projects, the choice of design and construction methods should be considered from the environmental perspective to reduce embodied carbon emissions during the construction process. The Government will continue to adopt, and encourage the construction sector to follow suit, Modular Integrated 
+Construction (MiC) method in suitable projects by carrying out most of the operations at construction sites in off-site prefabrication yards, thereby simplifying the construction process and reducing construction wastes. 
+More electrical machinery will also be used at construction sites to reduce carbon emissions and other pollution, with a view to alleviating the impact of buildings on the environment throughout their life cycle. 
+Fire Services Department Pak Shing Kok Married Quarters in 
+Tseung Kwan O is the first batch of high-rise concrete MiC buildings in Hong Kong
+
+[Page 58]
+“Hong Kong 2030+: Towards a Planning Vision and Strategy Transcending 2030” (Hong Kong 2030+) 
+Hong Kong 2030+ represents the Government's staunch commitment to responding to local needs and aspirations and fostering inclusive growth, while capitalising on the opportunities brought by the GBA development and at the same time contributing to a world-class GBA. 
+Our vision for Hong Kong is for it to be a liveable, competitive and sustainable "Asia's World City". At the strategic planning level, Hong Kong 2030+ advocates a capacity-creating approach to ensure sustainable growth. This approach is underpinned by the capacity to create developable land, transport and other essential infrastructure in a visionary manner alongside continuous efforts to enhance environmental capacity. During the planning and development process, the Government will ensure that our city is adequately supported by infrastructure that is smart, green and resilient, thereby provid­ ing uninterrupted and convenient services to the community, while at the same time achieving environmental sustainability and a future-proof city. For example, it will foster smart mobility through technologies and strive to explore wider use of RE and waste-to-energy initiatives to help reduce energy consumption and carbon emis­ sions, whilst enhancing the resilience of infrastructure to combat climate change. 
+The vision of Hong Kong 2030+ is for Hong Kong to be a liveable, competitive and sustainable city 
+Hong Kong-Shenzhen Innovation and Technology Park 
+Located in the Lok Ma Chau Loop, the Hong 
+Kong-Shenzhen Innovation and Technology Park has reserved about 30% of its area for greening to complement the ecological environment of the adjacent wetland and bird habitat. The design of the Park is in line with the target of achieving carbon neutrality before 2050 with adoption of smart and environmentally friendly features, such as a solid waste recycling system. A DCS will be built in the Park and it is expected that at least 
+50 million kWh of electricity can be saved each year upon its full commissioning. 
+Lok Ma Chau Loop
+
+[Page 59]
+Concluding Remarks 
+The UN’s IPCC had issued a global red alert in its report released in August this year. The world must take concerted actions to achieve deep decarbonisation without delay. As a member of the global village, Hong Kong must set for itself ambitious deep decarbonisation targets. 
+Achieving carbon neutrality before 2050 is extremely challenging. Among the various decarbonisation strategies, increasing the use of zero-carbon energy for electricity generation is the key. It can thoroughly address two-thirds of Hong Kong’s carbon emissions while providing zero-carbon energy for the electrified transport. With the provision of all necessary waste-to-energy facilities to replace the development of new landfills, Hong Kong would be able to achieve deep decarbonisation. That said, to achieve carbon neutrality, public support is necessary for the promotion of low-carbon transformation through energy saving and waste reduction and recycling, etc. in our daily lives. 
+Combating climate change is a long-term task requiring persistent efforts. We will, in line with the spirit of the Paris 
+Agreement, conduct a review every five years to finetune and improve the decarbonisation measures, having regard to the latest developments of various zero-carbon technologies. The Steering Committee on Climate Change and 
+Carbon Neutrality under the chairmanship of the Chief Executive will continue to steer various bureaux and depart­ ments in implementing policies and measures on decarbonisation and combating extreme weather, as well as the development of green finance, I&T and capacity building, etc., so as to provide the capital, technologies and talent necessary for combating climate change. 
+For the well-being of the future generations, the Government will work hand in hand with the public and various sectors to promote low-carbon transformation in Hong Kong in our quest for carbon neutrality before 2050.
+
+[Page 60]
+Annex: Decarbonisation Strategies and Actions 
+Decarbonisation Target 
+Setting a target for total carbon emissions 
+The Government is committed to achieving carbon neutrality before 2050 by implementing four main strategies of “net-zero electricity generation”, “energy saving and green buildings”, “green transport” and “waste reduction”. A new medium-term target of reducing the total carbon emissions by half from the 2005 level before 2035 (i.e. reducing the total carbon emissions from 40 million tonnes in 2005 to nearly 20 million tonnes in 2035) has been set. 
+Four Major Decarbonisation Strategies 
+Net-Zero Electricity Generation 
+Carbon neutrality in electricity generation 
+The Government will achieve the long-term target of net-zero electricity generation before 2050 by increasing zero-carbon electricity supply through renewable energy (RE) development, and exploring new energy sources for electricity generation and regional cooperation. 
+Phasing out coal-fired electricity generation 
+By 2035, we will cease using coal for daily electricity generation and will only keep it for providing backup support. Coal will be replaced by natural gas and zero-carbon energy (including RE and nuclear energy) for electricity generation. 
+Developing RE 
+The Government will strive to grapple with Hong Kong’s geographical and environmental constraints in driving the development of RE by taking the lead in installing RE systems at various buildings and facilities, and developing more advanced waste-to-energy facilities. The Government will further consider measures to facilitate the development of RE by the private sector which can, coupled with the 
+FiT Scheme, foster the development of RE. In addition, the Government and the two power companies are reviewing proposals to develop wind farms. 
+The Government will strive to increase the share of RE in the fuel mix for electricity generation from less than 1% at present to 7.5% to 10% by 2035, and further increase it to 15% subsequently through facilitating local projects, regional cooperation and joint ventures, etc. 
+Generating electricity with zero-carbon energy 
+The Government will explore and try out the use of different types of zero-carbon energy for electricity generation with a view to adopting them in Hong Kong when the technologies become relatively mature. The Government will also explore ways to enhance regional cooperation to increase the supply of zero-carbon energy. The target is to increase the share of zero-carbon energy in the fuel mix for electricity generation to around 60% to 70% before 2035, and to achieve net-zero electricity generation in Hong Kong before 2050 with the support of continuous technological advancement in using zero-carbon energy for electricity generation.
+
+[Page 61]
+Energy Saving and Green Buildings 
+Energy saving targets 
+The Government has set more ambitious energy saving targets for buildings. Using the operational conditions of 2015 as the comparison basis, we aim to gradually reduce the electricity consumption of new and existing commercial buildings by 
+30% to 40%, and that of residential buildings by 20% to 30% by 2050; and reduce the electricity consumption of new and existing commercial buildings by 
+15% to 20%, and that of residential buildings by 10% to 15% by 2035. 
+Enhancing 
+The Government will explore the possibility of expanding the scope of regulation to energy efficiency cover all buildings with high energy consumption, such as data centres, with performance of buildings reference to international standards and innovative and intelligent technologies. 
+The Government will collaborate with the trades and stakeholders to continue to explore acceptance of different forms and accredited certification schemes as registration requirements so that more buildings can achieve energy efficiency performance above the statutory requirements. More green innovations and energy efficient elements will also be added to the design of new government buildings to achieve an energy efficiency performance of 10% above the statutory standards. 
+Improving energy efficiency of commercial and residential buildings 
+To reduce electricity consumption of air-conditioning for commercial buildings and hotels, the Government plans to complete a review for tightening up the statutory standards of Overall Thermal Transfer Value (OTTV) before 2025. The Government also plans to complete two reviews on the Residential Thermal Transfer Value (RTTV) before 2023 and 2030. To lead by example, the OTTV of new government buildings will be at least 10% above the statutory standards. 
+Development of district cooling system (DCS) 
+On infrastructure development, the Government will integrate energy efficient facilities in development projects. Following the construction of DCS in the Kai Tak 
+Development, construction works of two more DCS projects in Tung Chung New 
+Town Extension (East) and Kwu Tung North New Development Area have commenced. The Government will study the feasibility of incorporating DCSs in more new development areas, such as the Hung Shui Kiu/Ha Tsuen New Develop- ment Area and the artificial islands in Central Waters, etc. Moreover, we will further enhance the energy efficiency performance of DCSs, including the application of big data and artificial intelligence to optimise the operation of the facilities. 
+Greater use of energy management tools 
+The Government will consider conducting energy audits more frequently and mandating the implementation of identified energy management opportunities, and strengthening the promotion of retro-commissioning.
+ We will consider requiring large commercial buildings to carry out regular commissioning for the air-conditioning systems and major building services installations to achieve the optimal operational efficiency. To mobilise the community to take collective actions to conserve energy, we also plan to facilitate the comparison of building energy consumption performance through releasing energy data and introducing energy benchmarking tools. 
+Keeping the 
+Mandatory Energy 
+Efficiency Labelling 
+Scheme (MEELS) under review 
+The Government will keep the MEELS under review. Apart from upgrading the grading standards, we will consider setting a minimum energy efficiency require- ment for specified appliances before they can be supplied in Hong Kong. We will also consider expanding the scope of MEELS to cover non-domestic or commercial appliances.
+
+[Page 62]
+Green Transport
+Zero carbon emissions from transport
+The Government strives to achieve the long-term target of zero carbon emissions from vehicles and the transport sector before 2050 through the electrification of vehicles and ferries, development of new energy public transport and measures to improve traffic management.
+Phasing out of fuel-propelled vehicles progressively
+In the Hong Kong Roadmap on Popularisation of Electric Vehicles announced in 
+2021, the Government set the target to cease the new registration of fuel-propelled and hybrid private cars in 2035 or earlier. The Government will proactively develop a charging network and supporting infrastructure to promote the development of EVs, and will phase out fuel-propelled vehicles progressively.
+Trial and application of new energy transport
+The Government will actively promote the development of various electric and other new energy public transport and commercial vehicles, with a view to setting a more concrete way forward and timetable in around 2025.
+The Government will collaborate with the franchised bus companies and other stakeholders in the next 3 years to test out hydrogen fuel cell electric buses and heavy vehicles. In addition, the Government will subsidise ferry operators to conduct trials for electric and hybrid ferries. Subject to the trial results and relevant technological developments, the Government will explore with the ferry operators the possibility of progressively replacing traditional ferries with new energy ferries before 2035. To tie in with the application of new energy in various means of transport, government departments will step up efforts to support and facilitate the development of relevant infrastructure and ancillary facilities.
+Maintaining a public transport system with railway as the backbone
+The Government will continue the current approach of maintaining a public transport system with railway as the backbone, and promote cycling for short-distance commuting and enhance walkability. The Government will also adopt different new technologies as well as traffic management measures, such as the Free-flow 
+Tolling System and “congestion charging” with a view to charging different toll levels according to the traffic condition of the tunnels and the control area at different times. The Government commenced a traffic survey in September 2021 to collect the latest data, and aim to draw up preliminary proposals for “congestion charging” in 2022.
+Waste Reduction
+Carbon neutrality in waste management
+Promoting waste reduction and recycling
+The Government will develop adequate waste-to-energy facilities, and press ahead with the promotion of waste reduction, separation and recycling with a view to moving away from reliance on landfills for municipal waste disposal. 
+This will significantly reduce the carbon emissions from landfills, contributing to achieving the target of carbon neutrality in waste management before 2050.
+The Government will implement MSW charging as well as other waste reduction and recycling initiatives, including expanding and enhancing the central collection and the community recycling network for food waste, waste plastics and waste paper to encourage different sectors and members of the public to practise waste reduction and recovery. Our medium-term target is to gradually reduce the per capita MSW disposal by 40% to 45% and raise the recovery rate to about 55%.
+
+[Page 63]
+Supporting low-carbon transformation of the recycling trade 
+The Government will further support the recycling trade to transform to higher value-added production and achieve re-industrialisation and circular economy through the adoption of technologies, with a view to consolidating and strengthening their downstream recovery, recycling and waste-to-resources capabilities. 
+Developing waste-to-energy facilities 
+The Government will strive to develop adequate advanced waste-to-energy facilities, including another integrated waste management facility, by 2035 with a view to moving away from reliance on landfills for municipal waste disposal. The 
+Government will continue to expand food waste recycling infrastructure, and make use of the biogas generated during the food waste treatment process as an additional source of RE. In addition, landfill gases from the three operating landfills will continue to be recycled to provide thermal energy and electricity for landfill operation and export to the town gas supply network and power grids to provide energy for the public. 
+Controlling the use of single-use plastics 
+The Government will continue to adopt a multi-pronged approach to support the turning of waste plastics into resources, including formulating suitable policies and regulations, stepping up publicity, and developing further waste plastics recycling supporting facilities, as well as promoting the replacement of single-use plastics with reusable or alternative materials. The Government will regulate disposable plastic tableware in phases from 2025. 
+Opportunities 
+Green economy 
+On the way to achieve carbon neutrality in Hong Kong, the Government and all sectors of society will allocate substantial financial resources to formulate and implement measures to promote energy saving, clean energy, green infrastructure, electrification of transport, waste reduction and recycling, etc., which will facilitate continuous improvement to the environment and create an array of green economic opportunities. 
+Green f inance 
+As an international financial centre, Hong Kong has a large financial market and a sound world-class regulatory framework, bringing together global leading financial and professional institutions, green assessment and certification bodies as well as international investors. Hong Kong is well placed to develop into a green finance hub in the region and serve as a premier financing platform for green enterprises and projects. 
+Innovation and technology (I&T) 
+The 14th Five-Year Plan has put forward for the first time the support for Hong 
+Kong to develop into an international I&T hub. The Government will step up efforts to promote I&T development and re-industrialisation, promote the R&D and trial of decarbonisation technologies to facilitate their application in different areas. We will also identify development opportunities through cooperation with neighbouring regions with a view to strengthening exchanges and collaborations in various areas, such as development of low-carbon communities with cities in the GBA, exploring decarbonisation technologies and nurturing talent. 
+Carbon-neutral community 
+The two strategic growth areas under planning, i.e. New Territories North and artificial islands in the Central Waters, will adopt the target of carbon neutrality. The 
+Government would also strive to build low-carbon liveable communities when implementing planned new development areas. Examples include building DCSs to reduce energy demand; adopting green and sustainable design in buildings as far as possible to reduce energy consumption; providing railway services and installing charging networks for EVs at an early stage; saving energy through proper land use planning and building layout; providing the public with green mobility options (such as walking and cycling); and setting up waste separation and recycling facilities in the community.
+
+[Page 64]
+Steering and Coordination 
+Whole-government approach 
+The Steering Committee on Climate Change and Carbon Neutrality under the chairmanship of the Chief Executive was established in mid-2021 to adopt a whole-government approach to formulate the holistic strategies and steer various actions and collaborations. To monitor the effective implementation of the follow-up actions, ENB will set up the Office of Climate Change and Carbon 
+Neutrality to strengthen the coordination and promotion of deep decarbonisation work. ENB set up an inter-departmental Carbon Neutrality Task Force in mid-2021 to keep abreast of the high-end development of decarbonisation technologies globally. 
+Climate Budget 
+Climate change mitigation and adaptation 
+The Government plans to devote about $240 billion in the next 15 to 20 years to implement the four major decarbonisation strategies of “net-zero electricity generation”, “energy saving and green buildings”, “green transport” and “waste reduction”, and take forward various measures to mitigate and adapt to climate change. 
+Participation for All 
+Dedicated advisory committee 
+The Government will explore the establishment of a dedicated advisory committee for tackling climate change through the integration of the existing advisory platforms, so as to encourage different sectors in the community, including our young generation, to actively participate in climate actions. 
+Practising low-carbon lifestyle
+The Government, business sectors, schools and non-governmental organisations must work together and set an example for promoting and encouraging the public to adopt and practise a low-carbon lifestyle. 
+Education and Training 
+Enriching learning 
+The Government will broaden school teachers’ knowledge about climate change. 
+Schools may strengthen the relevant learning materials in different subjects and provide diversified learning experiences to enhance students’ awareness of climate change and its impacts, encourage the students to practise what they have learned, and promote low-carbon transformation. 
+Capacity building 
+To nurture talent, learning materials relating to climate change, low-carbon technologies and green finance, etc. should be added to the relevant curricula of the universities and tertiary institutions. Cooperation and exchange among universities and tertiary institutions should be enhanced, so that both teachers and students can equip themselves with up-to-date and relevant professional knowledge and skills.
+
+[Page 65]
+Zero-carbon 
+Liveable 
+Sustainable 
+Emissions 
+City 
+Development
+
+[Page 66]
+Zero-carbon 
+Liveable 
+Sustainable 
+Emissions 
+City 
+Development

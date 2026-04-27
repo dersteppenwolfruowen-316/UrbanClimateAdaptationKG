@@ -1,0 +1,564 @@
+[Page 1]
+Climate-Neutral Berlin 2050
+Recommendations for a Berlin Energy and Climate Protection Programme (BEK)
+Climate Protection
+
+[Page 2]
+1. Starting Point and Challenges 
+Energy transition – Berlin‘s Energiewende policy .......................................... 
+Cities are crucial for energy and climate policy  ............................................ 
+Climate neutrality is an opportunity for Berlin  ............................................ 
+2. Participation Process and Approach 
+Gap between CO2 trends and targets highlights need for action  .................. 
+The BEK requires diverse methods  ................................................................. 
+3. Strategies and Measures for a BEK 
+Strategic principles for all fields of action  .................................................... 
+The public sector as role model  ...................................................................... 
+Added value and employment through climate protection and the 
+4. Overall effects: CO2 Reduction, Costs, Benefits 
+5. Conclusions and Outlook 
+Glossary 
+Sources of this brochure:
+Draft for a Berlin Energy and Climate Protection 
+Programme
+This brochure provides an overview of the draft for a Berlin Energy and Climate Protection Programme (BEK), which was developed on behalf of the Berlin 
+Senate Department for Urban Development and the 
+Environment with the participation of the public in 
+2014 and 2015. The final report was published in 
+December 2015 by a research project under the supervision of the Institute for Ecological Economy 
+Research (IÖW).
+Hirschl, Bernd et al.: Entwurf für ein Berliner 
+Energie- und Klimaschutzprogramm (BEK), 
+Endbericht, November 2015, Berlin, 418 pages.
+Feasability Study “Climate-Neutral Berlin 2050”
+Preceding the Berlin Energy and Climate Protection 
+Programme was the feasibility study “Climate-Neutral 
+Berlin 2050”. The study explored whether it is possible to reach the goal to make Berlin a climate-neutral city by 2050 and which requirements are necessary in order to do so. It was conducted on behalf of the 
+Berlin Senate Department for Urban Development and the Environment under the supervision of the Potsdam Institute for Climate Impact Research (PIK).
+Reusswig, Fritz et al.: Machbarkeitsstudie Klima­ neutrales Berlin 2050, Hauptbericht, March 2014, 
+Potsdam/Berlin, 224 pages. 
+Download: klimaschutz/bek_berlin
+
+[Page 3]
+Climate-Neutral Berlin 2050 | Forewords
+When we handed over the “Draft 
+Berlin Energy and Climate Protection Programme” to the Governing Mayor and the Senator for 
+Urban Development and the 
+Environment at a ceremony on 
+1 December 2015, it marked the – provisional – end of an intensive drafting phase. For over 
+15 months we looked into the question of what short and medium-term measures could be taken to ensure not only that Germany’s largest city can save more energy and avoid 
+CO2 but even achieve the ambitious goal of climate neutrality by 2050. In this brochure we present our key findings which show that this can be done and what is needed to do so.
+The measures presented here were enriched by an intensive participation process which is probably unprecedented in this form. It involved countless experts and players from the economy, administration, politics and civil society in various types of events. Numerous members of the public took part in urban dialogues and online forums. This not only improved the quality of the result through “swarm intelligence” but also contributed to a broad acceptance of the goal “Climate-Neutral Berlin 2050”. My thanks therefore go to everyone involved in the “urban community” but also to the dedicated project team and the supporting administration. The ball which was placed in our hands is now back in the court of the responsible authorities. I hope that they will implement these recommendations to a large extent and that they are copied by many other urban areas in Germany and throughout the world which are facing similar challenges.
+Prof. Dr. Bernd Hirschl
+Project Leader, Institute for Ecological Economy Research
+At the end of 2015, the international community for the first time entered into a joint undertaking on climate protection within the framework of the UN Climate Negotiations in Paris and adopted a global agreement. Underlying this is the realisation by all the countries on this planet that global warming, as a tangible sign of climate change, poses a serious threat to the quality of life on Earth and that efforts to protect the climate are urgently needed. Cities which cause a large part of the greenhouse gases responsible for the global greenhouse effect have a duty here. But they also profit from the various additional benefits of successful climate policy, such as for human health, air quality and as impetus for regional value added and employment.
+I am proud that Berlin has become aware of its responsibility at such an early stage and has adopted a pioneering role. We have not only reduced our CO2 emissions by about a third compared with 1990 levels but also made a clear commitment that Berlin must be a climate-neutral metropolis by the middle of this century. The challenges facing a growing city like Berlin in particular are huge but achievable. According to the findings of the final report for a Berlin Energy and Climate Protection Programme (BEK) and in my own personal opinion, investments in climate protection are linked to diverse positive effects for our city. I am delighted that the urban community has already been strongly involved in the process so far and I hope that we can also arouse your enthusiasm for the topic of climate protection and energy in the future.
+Andreas Geisel 
+Senator for Urban Development and the Environment
+Berlin on the Path to Climate Neutrality
+
+[Page 4]
+1. Starting Point and Challenges
+Berlin is to become climate neutral. That is the goal which the governing coalition in Berlin agreed in 2011. It emerged clearly from the 2014 feasibility study “Climate-Neutral 
+Berlin 2050” that the capital city can indeed achieve this goal. It is now a matter of translating theory into practice. 
+To accomplish this, the Berlin Senate is drawing up a Berlin 
+Energy and Climate Protection Programme (BEK).
+What short and medium-term measures must be implemented on the path to climate neutrality? Which sectors must contribute how much? Which consumer groups must become active? What conflicts may arise between climate protection and other policy targets such as social policy? In order to answer these complex questions, the Berlin Senate 
+Department for Urban Development and the Environment commissioned the Institute for Ecological Economy 
+Research (IÖW) in summer 2014 to draft recommendations for a BEK together with research partners, consultants, planning and engineering offices. On 1 December 2015, the 
+IÖW submitted to the Senate the final report entitled “Draft for a Berlin Energy and Climate Protection Programme (BEK)” which shows how Berlin can become climate-neutral by 2050. It serves as the basis for a proposed resolution. 
+This brochure sets out the contents of the final report.
+Energy transition – Berlin’s Energiewende policy
+In the Federal State of Berlin the total amount of carbon dioxide emissions is to be reduced by at least 40% by the year 2020, at least 60% by 2030 and at least 85% by 2050 compared with 1990 levels. This is set out in the Berlin 
+Energy Turnaround Act (Energiewendegesetz Berlin) which was adopted by the Berlin House of Representatives on 17 
+March 2016. The law calls upon the Berlin Senate to design an overall concept involving the general public in order to achieve these binding climate protection targets. The BEK takes account of this requirement. It describes strategies and measures for all relevant fields of action in the city which can and must contribute to climate protection but also to adapting to climate change: energy supply, buildings and urban development, industry, traffic and private households. In view of the wide spectrum of fields of action and the diverse range of those affected, the submission for the BEK was developed in a comprehensive participation process involving all the relevant specialist disciplines and practitioners as well as numerous participants from Berlin’s urban community.
+Cities are crucial for energy and climate policy
+The legally binding agreement on climate protection reached at the international Climate Conference (COP 21) in 
+Paris on 12 December 2015 strengthens efforts to combat climate change. The focus is increasingly on the responsibility of cities: over half the world’s population now lives in cities – with a strong upward trend. Cities already account for over 70% of anthropogenic greenhouse gases, i.e. those produced by human activities. A city like Berlin emits as 
+Tsd. t CO2
+1990
+1995
+2000
+2005
+2010
+2015
+2020
+2025
+2030
+2035
+2040
+2045
+2050
+Figure 1: The gap must be closed: Berlin’s CO2 emissions since 1990, trend and action required by 2050 (according to polluter balance) Real CO2 development 1990 to 2012 CO2 reduction needed to become climate neutral by 2050 Trend based on real CO2 emissions in the years since 2007 Political target for 2020: -40% compared with 1990
+30.000
+25.000
+20.000
+15.000
+10.000
+5.000
+
+[Page 5]
+Climate-Neutral Berlin 2050 | Starting Point and Challenges population is growing and the economy is currently also growing. The BEK cannot offer any patent remedies for dealing with this but must be dynamically adaptable. One essential strategy must therefore be to uncouple growth and CO2 emissions, which in turn means: considerably more renewables instead of fossil fuels.
+much CO2 as Croatia, Tokyo as much as Austria and even a small town like Eberswalde emits as much as the Central 
+African Republic. At the same time, there is an increasing struggle for the remaining areas of land to supply the growing global population. As a result, areas which could supply cities with renewables from the urban hinterland are growing scarcer. These are all reasons why cities must make a much greater contribution to climate protection and the energy transition than has previously been discussed. The feasibility study “Climate-Neutral Berlin 2050” shows that this can function in different ways and demonstrates how.
+Climate neutrality is an opportunity for Berlin
+The rule of thumb for becoming climate neutral is: first, consume less energy overall and second, generate the required energy from renewable rather than fossil sources. 
+Berlin’s starting point on the path to climate neutrality presents a varied picture as Figure 1 shows: on the one hand, the city has been successful in reducing its CO2 emissions since 1990 compared with the national average. The dramatic changes in industry following reunification but also increases in efficiency and building renovation helped Berlin make significant energy savings. On the other hand, emissions have displayed a slight upward trend once again in recent years. Urgent action is required here to return to the path of climate neutrality.
+Energy supply in particular presents considerable challenges: renewables still only account for a small percentage in 
+Berlin and have a lot of catching up to do (Figure 2). Fossil fuels are currently still dominant: natural gas for generating heat; mineral oil for transport or as heating oil; in the electricity sector beside natural gas above all hard coal and lignite in major power stations for generating electricity and district heating. Combined heat and power (CHP), i.e. the simultaneous generation of electricity and heat, will probably remain an important option in the future energy system for Berlin’s densely populated area. But solar power and heat pumps have enormous potential which the measures in the BEK aim to exploit in a targeted way.
+In particular, the most important current field of action – buildings – can make a great contribution to climate protection in the areas energy generation and energy saving. But the other fields of action – traffic, economy and private households – can and must reduce emissions to a significant degree (Figure 3). And it is worth making the effort – not just for the climate: all fields of action and many of the players can also share the economic benefit which can far outstrip the cost burden if distributed fairly. In addition to the above-mentioned challenges, there will be others in future which are already looming on the horizon: Berlin’s 
+Primary energy consumption
+Final energy consumption 59 % buildings 12 % economy 
+5 % households and consumption 25 % traffic
+Deviation from 100% due to rounding up or down
+Figure 2: Primary and final energy consumption in Berlin in 2012 in Petajoules (1 quadrillion Joules) 98.1 mineral oils 36.3 hard coal 13.1 lignite 123.6 gases 10.7 renewables 14.2 electricity 
+2.8 miscellaneous
+Total 298.9 94.2 mineral oils 
+0.5 lignite 81.4 gases 
+4.4 renewables 40.8 electricity 41.0 district heating
+Total 262.3
+Figure 3: Fields of action as percentage of final energy consumption 2012
+
+[Page 6]
+2. Participation Process and Approach
+Berlin will only become climate-neutral if all players and sectors make significant contributions and thus assume responsibility. The measures must therefore not only be effective but above all implementable and widely accepted. Consequently, the BEK was drafted in a broad participation process.
+Over the course of about a year, a large number of stakeholders from industry, civil society, administration and politics as well as numerous interested members of the public were involved in the debate as well as the development and establishment of measures for the BEK. They were able to take part in several urban dialogues, two series of five workshops each as well as online (Figure 4).
+Gap between CO2 trends and targets highlights need for action
+The project team first expanded the measures proposed in the feasibility study to produce an initial participation document. The status quo and likely trends were identified for all the key factors, such as the modal split in the “Traffic” field 
+BEK-Version 
+1.0
+BEK-Version 
+2.0
+BEK-Version 
+3.0
+Opening forum
+03.11.2014
+200 participants 
+Presentation of the feasibility study 
+17.03.2014
+First workshop series
+08.–09.12.2014
+5 workshops > specialists 
+First urban dialogue
+26.02.2015 > 200 participants
+Over 1,000 people made use of the various options for participating in the Berlin Energy and Climate 
+Protection Programme over a good 12-month period. The entire process and all documents can be 
+The project team introduced the BEK to various bodies, processes and networks and conducted a large number of bilateral talks with players from the economy, civil society and administration.
+Study Commission “New Energy for Berlin”
+The relevant Senate Department and Prof. Bernd Hirschl discuss the BEK with the Commission in several sessions and hearings.
+Monument Council of Berlin 
+20.02.2015 
+The BEK is presented at a meeting. 
+Participants agree that climate protection and monument conser­ vation are mutually compatible. 
+Figure 4: The participation process
+
+[Page 7]
+Climate-Neutral Berlin 2050 | Participation Process and Approach
+The BEK requires diverse methods
+In order to assess what impact the measures would have, the project team applied various methods and models. For example, a Berlin building model developed during the feasibility study was refined. The cost of measures, especially for the public sector, was estimated. The IÖW deployed specific models to ascertain the value added and employment effects from energy-efficient building renovation and the expansion of renewables. And the energy and 
+CO2 balances needed to calculate the climate protection effect were adapted to the fields of action of the BEK. 
+Account was also taken of social, architectural and other ecological aspects as well as interaction with adaption to climate change. of action or the renovation rate in the “Buildings” field of action. The short to medium-term requirement for action results from the difference between the trend values and the necessary reductions for the years 2020 and 2030 on the path to climate neutrality. Figure 1 (p. 4) demonstrates this basic methodological approach with the overall CO2 value for 
+Berlin. During the participation process the proposals were discussed and expanded several times. Major elements were taken into account from about a third of the over 100 new proposals. In conjunction with the high level of approval for the existing proposals, this can be regarded as a success of the participation process. 
+BEK-Version 
+4.0
+BEK-Version 
+5.0
+Online participation
+26.02.–16.04.2015
+- 503 ratings
+- 323 comments
+- 84 new proposals
+Second workshop series
+07.–08.09.2015
+5 workshops > 70 specialists
+Second urban dialogue
+28.09.2015 > 250 participants
+Concluding forum
+Presentation of the BEK
+01.12.2015
+300 participants
+Berlin Energy Days
+28.04.2015 
+BEK conference on the participation process and measures in the fields of action with 
+150 guests.
+Berlin City Forum
+05.11.2015 
+Senator Andreas Geisel and 
+Prof. Bernd Hirschl discuss a climate-neutral Berlin with 
+Peter Fox.
+A selection of other events:
+  A round table on building refurbishment hosted by the 
+Berlin Climate Protection Information Office (BIK)   The Berlin-Brandenburg information platform 
+Netzwerk Erdgas   Energy Forum hosted by the Berlin daily paper Tagesspiegel   And others
+
+[Page 8]
+3. Strategies and Measures for a BEK
+Whether one looks at energy generation in large or small power stations, energy consumption in buildings, traffic, the economy or private households – greenhouse gases are being emitted constantly and virtually everywhere. In order to become climate-neutral, it is important to become active in all these fields. The final report for a BEK proposes over one hundred measures for doing this.
+Figure 6 gives an overview of the overall strategy for the 
+BEK and the key measures. The next few pages set out the respective approach for the individual fields of action in greater detail:
+ 
+Energy supply  
+Buildings and urban development  
+Economy  
+Traffic  
+Private households and consumption
+Strategic principles for all fields of action
+The recommendations for the BEK are predominantly aimed at promoting voluntary climate protection activities. Overarching climate protection instruments, such as CO2 taxes or regulatory targets for renewables or energy efficiency are currently unenforceable and would be primarily a matter for national or international legislation. It is more a question of dismantling barriers, developing markets as well as introducing good examples and strategically or structurally significant activities for urban climate protection. Figure 5 shows the most important types of instruments which are combined in a specific way in each field of action. These are guided by the following basic strategic principles:
+  promote the dissemination of existing economic climate protection measures   extend positive climate protection trends from niche to mass markets   support innovative technologies, services and business models   identify target conflicts and minimise them as far as possible
+The public sector as role model
+The public sector has a special part to play here. The Federal 
+State of Berlin must assume a role model function as climate protector, for example by investing in the energyefficient refurbishment of public buildings or conducting public procurement according to climate protection criteria. 
+Both measures have “win-win” potential: with an annual turnover of more than 5 billion euros, the Federal State of 
+Berlin can boost climate protection markets. This will bring not only positive regional economic effects but also sustainably reduce Berlin’s operating costs. It is also strategically important to establish climate protection as a cross-cutting issue in administrative regulations and planning documents. Last but not least, an urban energy provider can perform numerous tasks and the public sector also has a role to play in the modernisation of infrastructures. 
+In addition, the Federal State of Berlin must undertake targeted programmes to strengthen knowledge transfer and advice for specific target groups as well as supporting other players in their own climate protection efforts. Attention must be paid when developing support programmes to ensure that these are linked as far as possible to existing support measures such as in the fields of innovation, environment, the economy or urban development. Berlin must 
+Figure 5: Instruments for promoting climate protection
+Information, communication, education and advice
+Support programmes and incentives for technologies, services and infrastructures
+Civic participation, networking and cooperation
+Role model effect of the public sector
+Improved planning instruments and administrative regulations, dismantling of barriers
+Cushioning social hardships, taking account of target conflicts
+Activities at national level
+EWG Bln (Energy Transition Act 
+Berlin) +
+BEK (Berlin Energy and 
+Climate Protection 
+Programme)
+Pilot and demonstration projects, promoting innovation
+
+[Page 9]
+Climate-Neutral Berlin 2050 | Strategies and Measures for a BEK also lend impetus at national level to efforts aimed at creating framework conditions for the energy transition in urban areas. This includes instruments such as the promoting of tenant electricity models, solar power or environmentally-friendly CHP which are of great significance not only for cities but for the energy transition as a whole.
+Since it is a long road to climate neutrality 2050, permanent institutional structures are especially important to ensure that the BEK is implemented and developed on a lasting basis. The administration must be able to act and organise participation effectively. The programme needs sustainable funding and comprehensive monitoring. 
+Figure 6: Overview of the BEK overall strategy   phase out coal and markedly reduce oil consumption   expand gas-based flexible CHP   intensify and convert district heating network, heat storage facilities   massively expand solar power   expand heat pumps and geothermal energy   use excess energy from renewables (P2X), virtual power stations, flexibility   promote urban energy transition innovations and business models
+Field of action: energy supply   increase average energy-related renovation rate to 2% per year by 2030   higher standards for new buildings   subsequent consolidation 5% by 2050   reduce per capita consumption of living space   take account of social and architectural aspects   district concepts as integrated approaches   role model effect of the public sector   create easily accessible information and advice options   maintain and upgrade strategically important green and open spaces   strengthen urban CO2 sinks
+Field of action: buildings and urban development   increase energy efficiency and replace fossil fuels   expand advice and networking of SMEs   gear climate protection agreements and public procurement to climate neutrality   create new funding possibilities   pilot projects/campaigns for key technologies and areas with multiplier function (e.g. tourism, retail trade, industrial estates)   improve training and qualifications of advisors
+Field of action: industry   further change in the transport system (modal split) in favour of the ecomobility alliance   operate more than one third of vehicles with non-fossil fuel by 2030   further reduction in fuel consumption   further develop sharing options   expand parking space management   shift goods traffic away from fossil lorries   use car pools (esp. in the public sector) as pioneers for Berlin fleet transformation
+Field of action: traffic   markedly increase appliance efficiency through incentives, advice and information   strengthen climate-friendly consumption through information, pilot projects and role models   network, strengthen and permanently establish climate education   markedly increase sufficiency, i.a. through expansion of sharing possibilities, incentives and good examples   develop climate neutrality into an umbrella brand and communicate it in various ways
+Field of action: private households and consumption   create institutional structures   build up funding architecture   establish climate protection as a cross-cutting issue   develop monitoring   permanently establish participation
+Overarching aspects
+
+[Page 10]
+Over 90% fossil fuels: that is how Berlin’s energy supply currently still looks. In order to become climate-neutral Berlin faces three central challenges: the city must first phase out fossil fuels, above all coal and oil; second, expand renewables and combined heat and power; and third, significantly reduce overall energy consumption by conducting a saving and efficiency offensive.
+Phase out coal and oil, increase combined heat and power
+The recommendations for the BEK contain a total of 30 measures which will make it possible to halve primary energy consumption and CO2 emissions by 2050 compared with 2012 (Figure 7). To achieve this, lignite must be phased out by 2020 and hard coal by 2030. These targets were confirmed in the participation process by numerous experts and players from the energy sector and also called for by the Study Commission “New Energy for Berlin” (EnqueteKommission “Neue Energie für Berlin”). To replace the coalfired power stations as they are closed down, gas-based 
+CHP plants will be built which will generate both electricity and district or local heating.
+Further measures ensure that infrastructures are adapted in a forward-looking way, e.g. by lowering the temperature levels of heating networks and increasingly integrating thermal energy storage. District heating remains an important pillar but the gas network will retain its importance at least in the medium term. The long-term future of the gas network will depend largely on whether fossil natural gas is increasingly replaced by renewably generated gases and how district heating and the decentralised energy supply of buildings develop. A separate dialogue process and further research are therefore recommended for the heat infrastructure sector.
+Tsd. t CO2
+8.000
+6.000
+4.000
+2.000
+2010
+2020
+2025
+2030
+2040
+2050 Current data Trend forecast Long-term target Trend and target value 2020 Target value 2050
+2012
+Figure 7: CO2 source balance for the field of action “Energy supply” 2010–2050 
+Study Commission “New Energy for Berlin”
+In 2014, Berlin’s House of Representatives appointed the 
+Study Commission “New Energy for Berlin – The Future of 
+Energy-Sector Structures” which presented its final report on 03.11.2015. The BEK process and the Study Commission were closely interlinked and the results and recommendations demonstrate a high degree of consensus. The Commission adopted a large majority of the recommendations across party lines; there were only differences of opinion over the remunicipalisation of the grids and energy supply.
+   Energy Supply
+
+[Page 11]
+Climate-Neutral Berlin 2050 | Energy Supply virtual power plants. Such measures will not only be important in Berlin but throughout the entire energy system to ensure the necessary flexibility and stability. At the same time, they open up a range of potential economic opportunities for Berlin.
+To win over the citizens of Berlin for the transformation of the energy system, the recommendations for the BEK contain some participatory measures, for example the strengthening of civic solar installations. But the involvement of Berlin companies – with or without state holdings – should be expanded in quantitative and qualitative terms by concluding corresponding climate protection agreements with the companies. Last but not least, the Federal 
+Government must act quickly to adapt certain framework conditions and support measures to urban needs in a more targeted way.
+These include, for example, flexible, decentralised gasbased CHP, solar domestic consumption, tenant electricity models and storage facilities.
+Berlin’s energy future: efficient, solar, flexible
+In addition to the more intensive use of efficient and lowemission CHP and district heating, Berlin also has a variety of possibilities for using renewables: in order to exploit the urban solar potential, a “masterplan” is proposed which bundles the various measures. The urban electricity grid can absorb large additional quantities of solar power so that, together with rising CHP output, Berlin has the prospect of becoming self-sufficient. By additionally expanding heat pumps and other uses of surplus renewable energy (Power-to-X, P2X), excess solar power and excess wind power from the hinterland can be utilised. A number of “smart” flexibility measures, i.e. controlled by information and communications technologies (ICT), have been proposed for this purpose. The P2X applications, those which convert electricity into e.g. a different storable source of energy, are primarily located in the city because they can be well integrated into the electricity, heat and gas network and there are sufficient customers. Support is also recommended for demand-side management, storage facilities and 
+Assembly of the solar roof on the Red City Hall
+
+[Page 12]
+Buildings account for the majority of urban greenhouse gas emissions. In Berlin they cause over half of all energy consumption and are thus a key to climate neutrality. To reduce 
+CO2 emissions from buildings, the BEK must pursue two strategies in parallel: first, a more efficient and more environmentally friendly technical supply of heat and second, a significant but socially and architecturally balanced reduction in the loss of heat via walls, roofs and windows.
+Unblock the renovation backlog
+Since current energy and CO2 accounts do not display separate figures for the greenhouse gas emissions of buildings, they were calculated especially for the BEK. Residential buildings make up about 60% of these emissions, non-residential buildings around 30% and industrial buildings only about 6%. A specific Berlin buildings model was developed to ascertain and adjust measures for the BEK since there is still insufficient data on the structural condition and heat consumption of buildings in Berlin (as well as nationwide). 
+Account was also taken here of Berlin’s architectural heritage with its numerous valuable existing buildings. The aim is to ensure that climate protection and the conservation of monuments and other structures worth preserving, such as 
+Berlin’s Wilhelminian-style buildings, go hand in hand.
+Buildings are so relevant for climate protection because on average they currently consume a lot of energy for heating. 
+This must change radically: to become climate-neutral, average annual consumption must be reduced from approx. 
+200 kWh per square metre of net floor area to under 80 kWh by 2050. Figure 8 shows that CO2 reductions in the housing sector must fall significantly more than energy consumption. In addition to renovation of the building shell, conversion to a climate-friendly form of energy generation with a high percentage of renewables is also necessary. However, renovation rates and standards are still too low and heating installations still operate to a high degree inefficiently and with fossil fuels.
+Measures for buildings and districts
+In this field of action, measures and strategies for a climateneutral Berlin 2050 were elaborated which relate to urban development as well as buildings. The focus is on further developing districts, renovating buildings and optimising new construction. These measures are accompanied by social and economic policy instruments.
+The measures pursue various goals: renovation rates and depths are to be increased, i.e. the percentage of modernised buildings per year as well as the standards of energyefficient refurbishment. It is also a matter of making plant technology more environmentally friendly and implementing ambitious new construction and renovation standards to a greater extent. In the existing housing stock, the annual 
+100 %
+75 %
+50 %
+25 %
+0 %
+2020
+2025
+2030
+2050
+2012
+Figure 8: Desired development of specific CO2 emissions and final energy consumption per square metre of heated net floor area by 2050   Buildings and Urban Development CO2 emissions (2012: 49 kg CO2/m2 I 2050: 7kg CO2/m2) Final energy consumption (2012: 207 kWh/m2 I 2050: 81 kWh/m2)
+
+[Page 13]
+Climate-Neutral Berlin 2050 | Buildings and Urban Development renovation rate based on the existing building stock of 2010 is to reach 2% by 2050. An appropriate re-densification of districts and the reduction of per capita living space also contribute to climate protection. 
+Increased and more comprehensive energy- efficient renovation
+The energy-efficient renovation of buildings is pivotal. To make progress in this sector various bundles of measures have been developed, depending on the type of building in question. Whether single-family house, multi-family house or non-residential building – it is evident that very different measures contribute to increasing the renovation rate. In the case of single-family houses, it is particularly important to inform and advise the home owners. Multi-family houses are also affected by district-related measures, economic incentives and advice as well as measures at the level of individual buildings – e.g. the renovation of buildings under a preservation order. In the case of non-residential buildings, the role model function of the public sector has a central influence on raising the renovation rate. District-related measures are also relevant here.
+Especially in the case of non-residential buildings the public sector must lead the way and renovate its own existing buildings in an exemplary manner, to a much greater degree and with ambitious efficiency standards. For Berlin’s rented accommodation, district solutions play a particular role for the existing housing stock and model districts for new construction.
+The following are specific recommendations for the BEK:
+ 
+Areas with low-income households should be targeted for support for energy-efficient renovation.
+ 
+Special care should be taken with the energy-efficient renovation of architecturally valuable and listed buildings.
+ 
+Information and advice for private home owners should be expanded – from the offer of a local service in residential areas to the establishment of an information centre.
+ 
+Finally, the topic of climate protection must be more strongly integrated into overall urban development and planning.
+Impacts and target conflicts
+In the short term, i.e. by 2020, the proposed measures can halt the increase in emissions in the housing sector noted between 2010 and 2012. In the long term, i.e. by 2050, they can achieve a CO2 reduction of almost 85% compared with 
+2012 (Figure 8). But in addition to buildings there are other uses of space which play an important role for climate protection yet which do not currently appear in the CO2 account: forests and moors serve as CO2 sinks and measures are therefore recommended to strengthen these functions. Furthermore, the final report for a BEK also takes account of interaction with the topic of adaptation to climate change since urban planning conflicts with climate protection may arise here, e.g. with regard to retaining open spaces versus re-densification or whether roofs can be used for solar energy and greening.
+Renovated windscreens on residential buildings in the settlement Haselhorst enable less heat loss
+
+[Page 14]
+Berlin’s economy is largely based on commerce, trade and services as well as small and medium-sized enterprises. In recent years, the economy in Berlin has grown continuously and is likely to do so for the next few years. Growing energy consumption and emissions from the economic sector present a structural challenge for the goal of climate neutrality. 
+However, in a city like Berlin the energy transition and climate protection offer enormous economic opportunities which can exceed the costs by far.
+New opportunities for established companies
+Implementation of the energy transition requires a lot of services – from savings contracting and decentralised energy generation to new business models for smart flexibility. This harbours enormous potential for local added value and employment, as the info-box on page 15 shows. Contrary to the previously dominant and expensive import of fossil raw materials, the value added of the energy transition remains here in Berlin. This creates new opportunities for established companies, for example in the energy industry, handicraft sector, architecture and planning. Furthermore, there are a lot of innovative start-ups in the Berlin economy, such as the digital sector, the manufacture of data processing and electrical appliances as well as in the science sector.
+Save energy, expand renewables
+The key goal in the “Economy” field of action is to ensure that companies save more energy and that more environmentally-friendly sources of energy are deployed. To that end, the previously successful instruments must be extended and upgraded to the new goal of climate neutrality. 
+This includes climate protection agreements between companies and the Federal State of Berlin, energy efficiency tables for networking within industry or energy-saving partnerships and with them the instrument of energy contracting. The public sector as the major consumer should use its Procurement Guideline to promote demand for climate protection technologies and services in a focused manner. Targeted programmes in the field of lighting are recommended, for example. A coordinating office for company climate protection as well as campaigns and competitions are designed to support Berlin’s economy in general together with a special support programme for smaller companies. Specific measures are proposed for selected sectors, such as tourism, the retail trade and industrial estates, since these can act as multipliers and encourage imitators. Advice as well as training and further education are to be intensified, whereby the quality must be secured via standards and certificates. It is recommended that the proposed measures are financed by establishing an overarching energy and climate protection fund within the framework of the BEK.
+  Economy 
+New business models for the digital energy world create new employment
+
+[Page 15]
+Climate-Neutral Berlin 2050 | Economy 
+Effects and interaction
+The proposed measures can at least serve to contain further energy consumption in the long term, even if it can only be reduced to a limited extent in view of economic growth. To achieve an almost 80% reduction in CO2 emissions by 2050, fossil energy sources must therefore be replaced much faster by renewables. But for this, companies also need corresponding latitude and guidelines, for example on consumption of self-generated renewable power. The measures in the “Economy” field of action are closely linked to those in other fields – as all the fields of action are interlinked in principle. They also build on existing strategies of the Federal State of Berlin.
+The proposed climate protection measures cause costs but in many cases these are offset by economic benefits for Berlin’s economy and the players concerned. Investment costs for renovation and renewables, spending on education and advice as well as direct subsidies flow as turnover to the private and public sector. Berlin’s economy can profit from this to a very high degree, creating both value added and jobs.
+The IÖW has taken the example of energy-efficient building renovation to calculate these effects – an area which is particularly cost-intensive and at the same time conflict-ridden. 
+Together with the effects of renewables, which the IÖW examined for the feasibility study “Climate-Neutral Berlin 2050”, value added worth over €90 million can be created in the year 
+2020 – despite the fact that the dynamics in both the renewables and renovation sectors will not have gathered full momentum by then. In the year 2030, energy-efficient building renovation alone can create value added worth almost €90 million (Figure 9). About €12 million of this will be generated in the form of tax revenue whilst the companies concerned will make a profit of nearly €22 million. But most of the value added, almost €52 million, will be created as employees’ income, which will in turn generate further consumption-based value added. A total of around 3,100 new full-time jobs in 720 companies, mainly in the handicraft sector, can be expected in 
+2030. It should be noted here that these figures are annual values and that in addition to the building renovation sector there will be many other climate protection investments with equally high value-added potential.
+Added value and employment through climate protection and the energy transition
+Figure 9: Achievable value added effects from energy-related building renovation in € millions tax revenue employees’ income company profits
+2015
+9.1
+21.3
+5.0
+2020
+13.8
+32.2
+7.6
+2030
+21.7
+51.6
+12.1
+Calculations refer to Euro 2015
+New tasks for Berlin’s handicraft
+
+[Page 16]
+Traffic accounts for a quarter of all CO2 emissions in Berlin and is thus the second-largest CO2 polluter after buildings. 
+Road traffic causes 70% of these emissions. Despite introducing a number of traffic measures, Berlin has hardly been able to reduce its CO2 emissions since 1990. And the challenges are getting greater: both the population and the economy are growing – all the more reason to take action in the short term and fairly distribute the cost burden caused by the conversion and maintenance of infrastructures. 
+Favourable trends for climate-neutral traffic
+There are already a number of favourable trends for achieving a much lower-emission traffic sector in Berlin. For example, the percentage of individual motorised traffic has fallen – with 342 cars per 1,000 inhabitants, Berlin’s level of motorisation is well below the national average and that of other major cities (Figure 10). This is due not only to differences in income but also to mobility behaviour. Use of the so-called “ecomobility” – local public passenger transport, walking and cycling – has increased correspondingly and now accounts for 70% of travel within Berlin. New mobility services, such as car-sharing, are becoming increasingly popular in Berlin and can further reduce the rate of cars in the city. But in total, these trends will probably not be sufficient in themselves to achieve the goal of reducing emissions by 40% by 2020.
+Building on existing concepts
+The final report for a BEK sets out 19 measures for the “Traffic” field of action, the majority of which are to be implemented in the short to medium-term. Several of these measures are based on existing Berlin transport policy programmes and plans and recommend that these be expanded and intensified (Urban Development Plan Transport, 
+Clean Air Plan for Berlin, Cycling Strategy for Berlin, Local 
+Transport Plan etc.). Due to its significance, the focus will remain on inner-city traffic. Berlin has only limited influence on long-distance road, rail, water and air traffic. But measures are also recommended for this sector.
+40 %
+30 %
+20 %
+10 %
+0 %
+Figure 11: Fewer cars: the percentage of individual car owners in Berlin is to fall
+2008
+33 %
+2030
+30 %
+2050
+2013
+22.5 %
+17 %
+Figure 10: Current level of cars per 1,000 inhabitants in selected major cities and on national average federal average 
+Hamburg
+Berlin
+Munich   Traffic 
+More present in the future’s cityscape: Chargers for electric cards
+
+[Page 17]
+Climate-Neutral Berlin 2050 | Traffic 
+Three strategies for climate-protecting traffic
+Essentially, three packages of measures are recommended for the BEK in order to reduce CO2 emissions from traffic:
+1. By changing the choice of transportation mode (modal split), the aim is to reduce individual car use by 17% in favour of ecomobility by 2050 (Figure 11). 
+2. Alternative, climate-friendly propulsion systems should replace engines run on fossil fuels. By the year 2030, petrol and diesel-powered vehicles will make up only about a third of all road vehicles and should be almost completely replaced by 2050. 
+3. More efficient propulsion systems and lower-consumption driving behaviour shall contribute to long-term fuel savings of 20% in the high-speed areas and 10% in 
+Berlin’s main road network. 
+More specifically, it is a matter of making pedestrian walkway networks more attractive, expanding the local supply chain, as well as improving the infrastructure for cyclists and the local public passenger transport system through mobility management. Car-sharing should also be supported and more closely integrated into the eco-modes of transport. Targeted parking space management can support such alternatives. It is also recommended that freight traffic should be shifted to ship and rail and that alternative forms of transport be used to deliver goods within the city. 
+Transport companies, the public sector and major enterprises all have a great potential in their vehicle fleets to take the lead with alternative fuels and charging stations for electric vehicles. In the BEK, air traffic emissions are attributed to Berlin’s CO2 account on the basis of current passenger levels. This applies also to the opening of the new BER airport on the fringes of Berlin. The final report for a BEK therefore also makes proposals for reducing air traffic emissions and recommends developing a joint strategy between the federal states concerned and the national government.
+More routes by bicycle: The final report for a BEK suggests expanding the cycling infrastructure
+
+[Page 18]
+Climate protection concerns us all. Everyone is just as affected by rising energy costs as by the consequences of climate change – albeit to a different degree. Our consumer behaviour directly determines our use of energy. Some households already generate their own heat or electricity. But public awareness of climate protection is still lacking. This must change. 
+Promote climate-aware behaviour
+Private households have a special role to play for climate protection: this is where parents teach their children – and vice versa. Partners and generations influence each other. 
+Education and communication, leading by example and trying new things – it all happens here. That is why the final report for a BEK recommends a broad spectrum of measures in this field: from subsidies to communication and education. Taken together, these measures must halt the current trend of rising energy consumption in the medium term and initiate a reversal of this trend in order to achieve an energy and climate-aware behaviour among the general public in the long term. 
+Promote efficiency and sufficiency
+The specific goal of the BEK for the field of action “Private 
+Households and Consumption” should be to promote efficient and sufficient (i.e. frugal, economical) behaviour more strongly. Targeted communication strategies and educational opportunities should also contribute to this. A “scrappage bonus” for white goods, such as refrigerators and washing machines, is among the proposals for increasing the efficiency of electrical appliances. But it is important to work towards ensuring that efficiency gains are not lost due to so-called rebound effects, whereby e.g. the more economical car is driven more often or the well-insulated house is heated to a higher degree. A “climate savings book” is to offer help here and encourage an overall more sufficient behaviour. It will contain tips about climate-friendly consumption and behaviour as well as coupons for the use of corresponding climate-protecting options. Promotion of the sharing economy, such as car sharing or barter exchange, can also help to make private consumption more climate-friendly. 
+Further measures support climate-neutral food supplies as well as a pilot project for climate-neutral lifestyles. A holistic approach is taken which reaches far beyond the accounting boundaries for Berlin but which is of major importance for the individual CO2 footprint. Some measures are also aimed at changing routines, everyday habits and patterns of consumption which are currently in conflict with climate protection. The people of Berlin could collect points for sustainable consumption using a green bonus card and then cash them in, for example when they repair defect products instead of throwing them away or when they use climatefriendly modes of transport.
+  Private Households and Consumption … to “smart meters” which intelligently control electricity consumption.
+In future, more and more households will be converted from traditional electricity meters …
+
+[Page 19]
+Climate-Neutral Berlin 2050 | Private Households and Consumption
+Education and communication for climate-friendly lifestyles
+To motivate people to act, it is important to establish the topic climate protection to a greater extent in the education system and address various age groups and school types. 
+Support should be given to players in Berlin’s educational landscape such as schools, nurseries and universities but also to environmental associations i.a. and a competence network established. A pilot project “climate-neutral campus” can have communicative and practical effects at universities. 
+To raise broad awareness for the goal of climate neutrality it is also recommended that a communications concept and an “umbrella brand” should be developed which would be located under the established brand BeBerlin. Various communication activities and campaigns aimed at different target groups can be brought together under this umbrella. 
+Her are two examples: the existing annual campaign week “Berlin saves energy” could be developed into a permanent “Energy Efficiency Campaign for Berlin” targeted at the wider general public. A “Berlin Green Club” label could support the more than 100 clubs in Germany’s party capital in taking a more climate-friendly approach and thereby reach the young visitors.
+Direct and indirect impacts difficult to measure
+If the proposed measures have the intended effects, energy consumption in households can be approximately halved in the long term. This is an ambitious goal – also in view of the growing population. Many of the measures in this field of action have strategic and long-term significance but the specific CO2 effects are difficult to measure with traditional monitoring. That is why extended monitoring approaches are necessary to ascertain the level of implementation of the measures and to enable fine tuning. To ensure that the measures are broadly accepted and all social groups can participate, the final report for a BEK also proposes how to include low-income households and relieve social hardships.
+Finally, recommendations from the “Buildings”, “Energy 
+Supply” and “Traffic” fields of action also apply to private households – such as measures for energy-efficient building renovation, private energy installations and environmentally-friendly mobility. Some recommendations for the “Economy” field of action also affect private individuals in their role as employees or self-employed. Conversely, many measures in the “Households and Consumption” field of action display farther-reaching integrative characteristics.
+Energy efficiency plays an ever greater role when shopping
+
+[Page 20]
+The BEK can contribute towards consistently reducing 
+Berlin’s greenhouse gas emissions and making Berlin a climate-neutral city by 2050. The costs of these measures over the next few years will be about €100 -170 million per annum. But at the same time, these investments will bring economic benefits to the Federal State of Berlin. Some climate-protection measures have ecological or social impacts; others can lead to architectural conflicts – which must therefore also be set out in the BEK.
+The impacts of all measures have been estimated using sound scientific methods – with a focus on energy consumption and emissions as well as costs and benefits. But in order to ensure that the programme is implementable in practice it is important also to know the additional impacts and consider possible conflicts from the outset. Consequently, everyone involved in the process has worked in an interdisciplinary way to analyse the proposed measures as comprehensively as possible.
+For example, not only aspects such as cost efficiency or emission reduction were examined but also the social and ecological impact of individual measures. It was thus possible to identify when climate-protection activities require accompanying measures in order to implement them. Conflicts between social and architectural goals were intensively discussed, especially in the “Buildings and Urban Development” field of action. As a result, measures were incorporated which directly support low-income households or additionally subsidise renovation areas with a high percentage of such households.
+CO2 reduction targets achievable
+An impact analysis examined how much CO2 can be saved. 
+The key result is that the political goals can be achieved: if the measures are implemented soon and on a broad scale, 
+CO2 emissions can be reduced by 40% by 2020, 60% by 2030 and 85% by 2050. Figure 12 shows which fields of action contribute how much. 
+In absolute terms, buildings must make the greatest contribution by continuously reducing primary energy consumption and by heating the buildings in future with more environmentally-friendly forms of energy. In the “Economy” and “Private Households” fields of action, it is possible to reverse the trend for energy consumption and form of energy used by 2030 and embark on the path towards energy neutrality by 2050.
+Consumption rates and CO2 emissions can also fall continuously in the traffic sector. Unlike in the buildings sector, where heating oil will no longer be used by 2050, oil is still likely to play a role in freight and air traffic.
+Primary energy based on 2012 figures in percent (Total 2012 = 100%)
+Figure 12: Fields of action as a percentage of primary energy consumption and CO2 polluter balance 2012–2050
+60 %
+50 %
+40 %
+30 %
+20 %
+10 %
+0 %
+Energy
+Economy
+Consumption 
+Buildings
+Traffic
+60 %
+50 %
+40 %
+30 %
+20 %
+10 %
+0 %
+Buildings
+Consumption
+Traffic
+Economy
+CO2 polluter balance based on 2012 figures in percent (Total 2012 = 100%) 2012 2020 2030 2050 2012 2020 2030 2050
+4. Overall Effects: 
+CO2 Reduction, Costs, Benefits
+
+[Page 21]
+Climate-Neutral Berlin 2050 | Overall Effects: CO2 Reduction, Costs, Benefits added – for example in the area of smart energy components or the “Internet of Energy” through which i.a. new services are created for Internet stability. 
+Berlin adapts to climate change
+Berlin not only wants to make a contribution to climate protection, it must also adapt to changes in climatic conditions in the city. In the use of building and open spaces in the city but also with regard to water supply and waste water disposal, conflicts may arise between climate adaptation and mitigation measures – but there may also be synergies. 
+Account has been taken of such interaction between climate protection and adaptation through cooperation with the parallel project “Concept for Adaptation to the Impacts of Climate Change” of the Senate Department for Urban 
+Development and the Environment. 
+Metropolis Berlin: important for the energy transition
+Figure 13 shows what target the final report for a BEK sets for the development of energy consumption. The key element is Berlin phasing out coal-based power generation by 
+2030. The electricity and district heating supply will be partially replaced by gas-based combined heat and power plants. This is why gas consumption will initially rise up to 
+2030. The CHP plants in Berlin also play an important role for the stability of Germany’s nationwide energy system. 
+For despite the very high future percentage of fluctuating wind and solar power, reliable power plants with a secured output will still be needed. These should only be operated in efficient and low-emission CHP, for which Berlin’s location is eminently suited. Calculations reveal that Berlin can reduce its CO2 emissions by 77% by 2050 (sources balance) and thus almost completely achieve the national government’s target of 80%. With a 55% share of renewables in its energy consumption by 2050, Berlin can come similarly close to the national target of 60%.
+Costs and benefits of climate protection
+The costs to the Federal State of Berlin ascertained for the recommended measures in all fields of action total approximately €100 – 170 million per annum on average by 2030. 
+The exact costs depend on the various parameters set by the Federal State of Berlin but also on framework conditions at national and European level. A major part of the costs for investments in infrastructure and buildings will not accrue until the period 2020–2030 due to longer planning horizons.
+The cost range is the equivalent of 0.4 – 0.7% of the current volume of Berlin’s budget. The lower cost value could even drop further if existing support programmes are tapped to finance individual measures which primarily pursue different goals (e.g. social, architectural, urban development, economic promotion).
+But aside from the costs, there is also a great potential for savings: Berlin currently imports fossil raw materials worth €3.3 billion (2012). By making less use of these sources in future, around €1.9 billion can be saved in 2030. This amount is an economic benefit to offset the necessary investment in climate protection measures by the public sector and third parties. Berlin also has high value added and employment potential in a number of future technologies and services from the energy transition and climate protection areas. For Berlin as a location for science, startups, IT and creative industries, there is also potential in other fields for innovation, business models and value 
+Final energy consumption in Petajoules per annum
+Coal
+Gas*
+Renewables**
+District 
+Heating*
+Oil
+Electricity*
+* including share of renewables  ** remaining renewable 2012 2020 2030 2050
+Figure 13: Target values for absolute primary and final energy consumption by energy source 2012–2050
+Primary energy consumption in Petajoules per annum
+Coal
+Gas*
+Renewables**
+Electricity*
+Oil
+* inc. share of renewables (negative values=balanced surplus)
+** remaining renewables inc. waste 2012 2020 2030
+
+[Page 22]
+5. Conclusions and 
+Outlook
+The final report for a Berlin Energy and Climate Protection 
+Programme (BEK) presents a set of measures with which 
+Berlin can achieve its CO2 targets for the next few decades and embark on the path to climate neutrality. An interdisciplinary project team has drawn up over one hundred measures for protecting the climate and involved numerous citizens of Berlin from the economy, civil society, politics and the administration in the process. The final report for a BEK serves Berlin’s politicians as the basis for a proposed resolution.
+The final report for a BEK contains proposed measures for saving CO2 in all fields of action – energy supply, buildings and urban development, traffic, economy as well as private households and consumption. The measures are geared to the respective starting position in each field of action. In particular, Berlin’s building stock, which is currently responsible for over half of the emissions, must make significant contributions to the reduction goals. The public sector must lead by good example.
+Climate protection may conflict with other interests – this also became clear during the participation process. Energyefficient renovations can cause costs for tenants and they also impact on architectural development. That is why proposed solutions were drawn up for such areas of potential conflict so that CO2 emissions can be reduced in these areas, too. Broad participation will remain important in future in order to successfully meet the major challenge of climate neutrality in the city of Berlin. Only then will it be possible to reverse the current trend of a slight increase in CO2 emissions back towards climate neutrality.
+Energy transition makes a contribution to the economy
+Implementation of the measures offers a number of economic opportunities for Berlin. By deploying environmentallyfriendly CHP plants, a high rate of solar energy and various flexibility options, Berlin can become an important building block in the overall energy system. Energy consumption can be reduced by one third by 2030 and by about a half by 
+2050. This will generate costs but also savings worth billions of euros. The technologies and services required for the energy transition also contain a high potential for local value added and employment which can be further expanded with additional innovation and business models.
+Successful implementation of the BEK sets international example
+The next step is for the Berlin Senate to adopt a BEK. The 
+Berlin Energy Turnaround Act, which entered into force on 
+6 April 2016, contains a commitment to this effect. The Act states that such a programme must be passed within three months of its entry into force. The recommendations of the final report for a BEK serve as the basis for proposing a resolution to the Senate and the House of Representatives. 
+When the resolution is passed, the effective implementation of the BEK and the building of the necessary structures, including monitoring and regular updating, will be crucial.
+If Berlin sets out on the path to climate neutrality, as set out in this brochure and in greater detail in the final report “Draft Berlin Energy and Climate Protection Programme”, this will also be an important signal for the energy transition in Germany. Berlin will thus become an important and critical success factor for the German energy transition which the entire world is watching very closely. If Berlin consistently implements the BEK, it will respond to one of the greatest challenges of our century: climate change. This will then also stand for a responsible, forward-looking policy – so that future crisis management can be avoided.
+
+[Page 23]
+Climate-Neutral Berlin 2050 | Conclusions and Outlook | Glossary
+Power-to-heat (P2H) – A form of use of (temporarily) excess electricity from renewable sources, by which heat and hot water are generated directly via electric heaters or heat pumps. P2H technologies are always used in combination with heat storage facilities.
+Power-to-X (P2X) – A form of use of (temporarily) excess electricity from renewable sources for various (X) areas (also fuels, products) which would otherwise have to be cut off.
+Primary Energy – The energy which is available naturally in the original forms of energy or energy sources, as fuel (e.g. coal or natural gas) but also through energy carriers like solar, wind or nuclear fuels.
+Rebound Effect – If products or services become more efficient in production or energy consumption, this often reduces costs. If this leads to higher consumption than before, this is known as the rebound effect.
+Sources Balance – see “Polluter Balance”.
+Sufficiency – “The right amount” or “frugality”. Points to necessary changes in prevalent patterns of consumption – away from quantity (“having a lot”) to quality (“living well”). 
+Is also described as “sustainable consumption”.
+Terajoule (TJ) – The basic unit of energy in the International 
+System of Units is one Joule (also known as watt second), which corresponds approximately to the work of the human heart per beat. One TJ equals 1012 Joules or 278 Megawatt hours (MWh).
+Virtual Power Plant – The interconnection of decentralised power generation plants but also storage facilities and flexible loads into a combined power plant linked up via ICT. Components can be photovoltaics, hydro power, biogas, wind energy, CHP plants, heat pumps, batteries and controllable industrial plants.
+CO2, Carbon Dioxide – Natural and vital component of air but also worldwide the main greenhouse gas contributing to global warming.
+Combined Heat and Power (CHP) – The cogeneration of heat and electricity, e.g. by larger or smaller thermal power plants. 
+Higher levels of efficiency can be achieved than by separate generation. 
+Contracting – A form of cooperation where the performance of a service is governed by contract, e.g. the supply of heat, cold or electricity in the energy sector. This often also includes operation of the corresponding facilities. 
+Demand Side Management – The control of demand for gridlinked services, e.g. electricity, by customers in industry, trade or private households.
+Final Energy – The remaining part of primary energy after losses from energy conversion and transmission and which has passed the supply boundary (e.g. house connection) of a consumer (private household, industry, transport). After further conversion losses, final energy is available for various uses (heating, cooling, transporting etc.).
+Multimodality (Multimodal Mobility, Modal Split) – The combination of various suitable forms of transport for a route, instead of becoming fixed on a single existing mode of transport.
+ 
+Polluter Balance – A measure of greenhouse gas emissions based on a country’s final energy consumption. Unlike the sources balance, the polluter balance does not separately display emissions from the conversion of primary energy into heat or power but ascribes them to the end consumer sectors according to the polluter pays principle. By contrast, the sources balance contains a country’s entire primary energy consumption, including that used e.g. for exported electricity.
+Power-to-gas (P2G) – A form of use of (temporarily) excess electricity from renewable sources. Hydrogen (H2) is split from water by electrolysis and directly used or injected into the gas grid. It can also be converted into methane (CH4) by adding CO2 – also for use or feeding into the natural gas infrastructure. P2G enables longer-term and seasonal storage of renewable energy.
+Glossary
+
+[Page 24]
+Publisher
+Senate Department for Urban Development and the Environment
+Württembergische Straße 6
+10707 Berlin
+Expert Department
+Special Unit for Climate Protection and Energy (SR KE)
+The Draft Berlin Energy and Climate Protection Programme (BEK) was produced by
+Institute for Ecological Economy Research (IÖW) (Project Coordinator)
+Potsdam Institute for Climate Impact Research (PIK)
+BLS Energieplan
+Planergemeinschaft Kohlbrenner
+UmbauStadt
+LUP – Luftbild Umwelt Planung
+VMZ Berlin Betreibergesellschaft
+Gaßner, Groth, Siedeler & Coll
+Participation Process
+The participation process was conducted by the Kommunikations- und Strategieberatung 
+IFOK GmbH
+Authors
+Bernd Hirschl, IÖW
+Richard Harnisch, IÖW
+Design
+Volker Haese, Dipl. Grafik-Designer, Bremen
+Photo Credits
+Cover: polidia GmbH; p.3 left: © Senate Department for Urban Development and the Environment; p.3 right: © Institute for Ecological Economy Research; p.6/7: © André Wagenzik (7), Stephan Roehl (3); p.9: polidia GmbH; p.11: © Dietmar Gust; p.13: © Gewobag; p.14: © Matthias Lüdecke; p15: © Claudia Hechtenberg – Caro; p.16: © CC BY-SA – Avda; p.17: © Marco Richter – 123rf.com; p.18 top: © Bartolomiej Pietrzyk – 123rf.com; p.18 bottom: © Rainer Weisflog; p.19: Kadmy – Fotolia.com; p.22: © seewhatmitchsee – Panthermedia.net
+May 2016

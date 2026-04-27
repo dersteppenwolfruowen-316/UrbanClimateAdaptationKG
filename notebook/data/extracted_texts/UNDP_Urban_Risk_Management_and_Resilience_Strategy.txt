@@ -1,0 +1,814 @@
+[Page 1]
+URBAN RISK MANAGEMENT 
+AND RESILIENCE STRATEGY
+UNITED NATIONS DEVELOPMENT PROGRAMME
+
+[Page 2]
+Copyright @ 2021
+United Nations Development Programme
+The United Nations Development Programme (UNDP) partners with people at all levels of society to help build nations that can withstand crisis, and drive and sustain the kind of growth that improves the quality of life for everyone. On the ground in nearly 170 countries and territories, UNDP offers global perspective and local insight to help empower lives and build resilient nations. UNDP helps countries to develop policies, partnerships, and institutional capabilities in order to effect lasting change.
+The views expressed in this publication are those of the author(s) and do not necessarily represent those of the United 
+Nations, including UNDP, or the UN Member States
+Photos: © UNDP October 2021
+United Nations Development Programme (UNDP)
+One United Nations Plaza
+New York, NY, 10017 USA
+
+[Page 3]
+URBAN RISK MANAGEMENT
+AND RESILIENCE STRATEGY
+Address multiple risks and build resilience in small and medium-sized cities to make them safe, inclusive and prosperous places that leave no one behind
+OCTOBER 2021
+
+[Page 5]
+Executive summary 
+1. Urban Resilience: Background and Context
+1.1 
+The evolving relationship between development and risks in cities 
+1.2 
+Urban resilience definitions and practice 
+1.3 
+Why focus on small and medium cities? 
+2. UNDP experience and thematic focus on urban resilience
+2.1 
+Experience working on urban issues 
+2.2 
+Internal opportunities for integrating work on urban resilience 
+3. Vision, mission, and strategic priorities
+3.1 
+Vision statement 
+3.2 
+Mission statement 
+3.3 
+Strategic priorities 
+4. Urban resilience delivery enablers
+4.1 
+Strategic partnership opportunities 
+4.2 
+Working with country offices 
+4.3 
+Country offices working with new partners at national and local level 35
+4.4 
+Adopting area-based approaches (with cross-collaboration) 
+4.5 
+Leadership and culture 
+5. Augmenting urban resilience support
+5.1 
+Modalities of support 
+5.2 
+Examples of programmatic interventions 
+References
+
+[Page 6]
+Urban Risk Management and Resilience Strategy
+CityRAP 
+City Resilience Action Planning (tool)
+CRI 
+City Resilience Index
+DRT 
+Disaster Risk Reduction and Recovery for Building Resilience Team
+ICLEI 
+International Council for Local Environmental Initiatives
+IURF 
+Integrated Urban Resilience Framework
+LDCs 
+Least developed countries
+LICs 
+Low-income countries
+LMICs 
+Lower-middle-income countries
+MCR2030 Making Cities Resilient Campaign
+NGOs 
+Non-governmental organizations
+OECD 
+Organization for Economic Cooperation and Development
+SDI 
+Slum Dwellers International
+SIDS 
+Small Island Developing States
+SDGs 
+Sustainable Development Goals
+UNCDF 
+United Nations Capital Development Fund
+UNDRR 
+United Nations Office for Disaster Risk Reduction
+UNDP 
+United Nations Development Programme
+Acronyms and abbreviations
+
+[Page 7]
+EXECUTIVE SUMMARY
+UNDP has extensive experience with development policy and practice in urban areas, although this has not been guided by an explicitly articulated strategy. Over the past decade, it has supported disaster risk reduction, climate mitigation, adaptation, governance, sustainable development, and socio-economic and livelihood interventions in cities through a variety of programmes, frameworks, methodologies and tools.
+This paper articulates a clear strategy for taking forward this work, building on UNDP’s experience and expertise and the different entry points of its various practice areas, and brings these together to offer a comprehensive, coordinated and multi-dimensional approach to urban resilience.
+The vision for this strategy is to create a future where small and medium-sized cities in particular, and urban areas in general, are resilient to multiple risks and are safe, inclusive and prosperous places to live and work. Over the next 
+10 years, UNDP will work principally in small and medium-sized cities in lowincome, lower-middle-income and least developed countries and Small Island 
+Developing States (LICs, LMICs, LDCs and SIDS) to strengthen their capacity to reduce multiple risks, protect development gains and create more resilient urban societies, laying the foundations for sustainable development in an increasingly urbanized world to ensure no one is left behind.
+UNDP will focus its efforts and activities around five Strategic Priorities, each of which responds to an identified gap in current support offered to countries and cities on urban resilience. These Strategic Priorities build on UNDP’s strengths and will help to achieve the Sustainable Development Goals (SDGs) by 2030:
+1. Prioritize locations where the greatest capacity gaps exist
+2. Enhance engagement of diverse stakeholders to strengthen urban governance
+3. Target the needs of marginalized communities for more equitable urban resilience
+4. Strengthen risk-informed development planning and investments to protect development gains
+5. Support application/adoption of new technologies and innovation to secure resilient urban futures.
+Executive summary
+
+[Page 8]
+Urban Risk Management and Resilience Strategy
+Engaging on the urban resilience agenda requires a shift in the way UNDP’s practice areas or its Global Policy Network engage with regional teams and country offices. At the global level, teams will need to come together to make three clear offers to regional bureaus and country offices:
+ ■To help drive common standards on urban resilience policy and practice ■To provide a joined-up offer of technical and programmatic support on request ■To facilitate the systematic and organic exchange of best practice and knowledge on urban resilience.
+UNDP’s work on urban resilience and risk management will be conducted in partnership with international and regional development partners and other stakeholders. It will build on existing work across practice areas and thematic teams, combining these efforts with new streams of work that can collectively contribute to more resilient cities.
+
+[Page 9]
+Growing faster than larger cities, small and medium-sized cities face bigger development challenges, complex risks and resilience deficits while having limited financial and human capacity to address them
+2. Exacerbated risks through rapid, uneven, and inequitable urban development
+3. An increasing incidence of systemic risks in urban areas, where one or more hazards triggers a chain of impacts that lead to failure of the system as a whole
+4. Lack of comprehensive risk analysis and actionable risk information to foster risk-informed development
+5. Absence of inclusive growth and holistic policies so that ‘no one is left behind’
+6. Disconnect between national policy, planning and budgeting and city-level implementation
+7. 
+Lack of innovation and adoption of new technologies and ways of doing things
+URBAN RESILIENCE DEFICITS, UNMET DEMANDS, AND CHALLENGES
+1. 
+Prioritize locations where the greatest capacity gaps exist
+2. Enhance engagement of diverse stakeholders to strengthen urban governance
+3. Target the needs of marginalized communities for more equitable urban resilience
+4. Strengthen risk-informed development planning and investments to protect development gains
+5. Support application/adoption of new technologies and innovation to secure resilient urban futures
+STRATEGIC PRIORITIES TO ADVANCE RESILIENCE ACTION
+At the global, regional and country level, foster cross-practice and thematic team engagement to provide integrated urban resilience policy and programmatic solutions:
+ » to help drive common standards on urban resilience policy and practice » to provide a joined-up offer of technical and programmatic support on request » to facilitate the systematic and organic exchange of best practice and knowledge
+UNDP’s work will be conducted in partnership with international and regional development partners and other stakeholders. It will build on existing work, combining these efforts with new streams of work to collectively contribute to more resilient cities.
+HOW WE WILL ACHIEVE OUR STRATEGIC PRIORITIES
+Over the next 10 years, UNDP will work principally in small and medium-sized cities in low-income and lower-middle-income countries, including SIDS, to strengthen their capacity to risk-inform development processes, reduce risks and create more resilient urban societies, laying the foundations for sustainable development in an increasingly urbanizing world to ensure no one is left behind. Our vision is for a future where small and medium-sized cities in particular, and urban areas in general, are resilient to multiple risks and are safe, inclusive and prosperous places to live and work.
+OUR MISSION
+Resilience deficits, unmet demands and challenges
+
+[Page 10]
+Urban Risk Management and Resilience Strategy
+This strategy paper is the result of a consultation and analytical process undertaken by UNDP’s Disaster Risk Reduction and Recovery for Building Resilience Team (DRT) in partnership with ODI. The team critically assessed extant policies and strategies, frameworks, projects and programmes relating to urban resilience and risk management, and analysed the tools and methodologies being applied. The aim was to diagnose urban resilience based on an extensive literature review alongside interviews with external stakeholders and UNDP’s global and regional teams from different practice and thematic areas.1
+Based on this analytical review, the strategy paper presents an evidencebased rationale, vision and structured approach for UNDP to further engage on urban resilience and risk management, and to contribute to a global goal (SDG 
+11 – Sustainable Cities and Communities) while advancing implementation of the Sendai Framework for Disaster Risk Reduction (DRR), the Paris Agreement and the New Urban Agenda. The strategy brings together UNDP’s work on disaster and climate risk management with its climate change (mitigation and adaptation) and development agenda, which includes (1) ‘Leaving no one behind’ (2) local governance and (3) addressing conflict and fragility. It focuses on particularly acute problems in small and medium-sized cities resulting from rapid, unplanned, uneven and inequitable development coupled with an increasingly complex mix of hazards, shocks and crises. Coupled with underlying risk drivers and structural socio-economic issues, these tend to exacerbate risks, challenge the maintenance of a good state of resilience and undermine developmental sustainability.
+1.1 
+The evolving relationship between development and risks in cities
+Over the past decade, urban resilience has gained prominence in the World 
+Economic Forum Global Risk Report and in international development discourse and practice. It is one of the core pillars of sustainable development and – particularly in the context of the climate crisis and increasing disaster risk – an urgent global priority.
+ See Cao, Y., Wilkinson, E., Pettinotti, L., Colenbrander, S. and Lovell, E. A Decade of Urban 
+Resilience: An Analytical Review, UNDP, (2021).
+1. Urban Resilience: 
+Background and
+
+[Page 11]
+Urban Resilience: Background and Context
+Section 1
+The total population living in cities, defined as urban areas having more than 
+50,000 inhabitants,2 is projected to grow rapidly from more than half the world’s population (3.5 billion) in 2015 to two-thirds (5 billion) by 2050.3 As of 
+2020, there are more than 10,000 cities in the world, including in SIDS, where 
+79 percent of urban centres are small (having one million or fewer inhabitants).4 
+Our collective ability to deliver the SDGs by 2030 will therefore depend on the performance of towns and cities, but recent progress has already been set back by the COVID-19 pandemic, disasters and conflict.
+A rapidly expanding urban landscape and the emergence of cities as centres of socio-economic development has led to concentrations of people, economic activities, development assets and critical infrastructure as well as a multitude of risks within small geographical areas. Consequent development deficits and accentuating vulnerabilities have resulted in an increasing manifestation of systemic risks marked by higher frequency, amplified magnitude and rising economic losses and impacts. This has put the achievement of SDGs at risk and has the potential to reverse human development gains given that urban centres are the major contributors to national socio-economic growth. There is a wide range of natural, man made and hybrid hazards or shocks, originating within and beyond city limits, that contribute to both intensive and extensive risks and can accumulate in urban areas resulting in large-scale disasters and extensive disruption. Urban centres can be environments of extremely low or extremely high environmental disaster risk, depending on a number of interrelated factors of which the presence of basic protective soft and hard infrastructure and the quality and capacity of local governance are usually the most important. In addition, many types of risk, including climate-related risks, are often exacerbated through rapid, uneven and inequitable urban development processes. Inequalities may be widening in the wake of the 
+COVID-19 pandemic, as lack of access to health care, economic safety nets and basic services create greater risks for the poor and vulnerable, particularly in dense and crowded neighbourhoods outside the ‘formal’ city. The interplay of vulnerabilities within cities and high exposure to physical threats – 65 percent of the world’s urban population lives in coastal zones that are highly exposed to a range of hydrometeorological hazards, a proportion that is likely to increase to 74 percent by 20255 – means that the incidence, frequency and magnitude of disasters is increasing.6 However, at present these factors are receiving insufficient attention from policymakers.
+OECD and EC, Cities in the World – A new perspective on urbanisation, (2020).
+OECD and EC, Cities in the World – A new perspective on urbanisation.
+OECD and EC, ‘Cities in the world database’, (2021).
+E. Gencer, R. Folorunsho, M. Linkin, X. Wang, C. E. Natenzon, S. Wajih, N. Mani, M. Esquivel, 
+S. A. Ibrahim, H. Tsuneki, R. Castro, M. F. Leone, P. Dilnoor, R.-L. Patricia, S. William, B. 
+Lin, and A. Panda, ‘Disasters and Risk in Cities’, in C. Rosenzweig, P. Romero-Lankao, 
+S. Mehrotra, S. Dhakal, S. Ali Ibrahim, W. D. Solecki (eds.), Climate Change and Cities: 
+Second Assessment Report of the Urban Climate Change Research Network, (Cambridge: 
+Cambridge University Press, 2018), pp. 61–98.
+S. Huq, S. Kovats, H. Reid, and D. Satterthwaite, ‘Reducing risks to cities from disasters and climate change’, Environment and Urbanization, 19/1 (2007), 3–15.
+
+[Page 12]
+Urban Risk Management and Resilience Strategy
+Established cities tend to have higher concentrations of people living in areas that are exposed to environmental hazards, such as floodplains, steep slopes or contamination — problems that smaller, rapidly growing urban centers will face in the future. Infrastructure development, upgrading and gentrification processes in cities result in high land and property prices, pushing poor people into less desirable, often hazardous locations on the margins and in periurban areas. This accelerates ecosystem degradation and further exacerbates environmental risk.7 It also results in over-built land with few green spaces that can have a cooling benefit, exacerbating the urban heat island effect.8 
+Inadequate water, sanitation and other basic services in informal settlements further increases risk, particularly in relation to health.9
+In city centres, inappropriately planned modern infrastructure can destroy rich and diverse cultural heritage. It can also negatively impact the community institutions and relationships that shape the quality and quantity of social interactions that are so critical in reducing the risk of social tension and conflict, and increasing people’s capacity to cope with disasters in urban settings.10 
+Similarly, the expansion of some cities around the world through poorly planned housing developments and unplanned suburban sprawl has created anonymous places that, often, results in low levels of trust and solidarity in the local community.11 As a result, poor and uneven access to basic services in urban settlements can be a source of tension and conflict. To address this, urban development plans can make effective links between urban and periurban spaces to meet the needs of all residents, including job creation and the supply of public services.12
+Cities have high concentrations of major capital assets such as power, education, medical, mass transit and commercial buildings, which require integrated planning, financing and construction approaches.13 Urban residents are heavily reliant on this infrastructure, so the damage to it caused by disasters, conflict or shocks of any kind can lead to disproportionate economic and humanitarian impacts. Urban areas are witnessing an increasing incidence of systemic risks, where one or more hazards triggers a chain of impacts that lead to negative effects not only in parts of the system but in the failure of the system as a whole, a problem often amplified by the private sector in relation D. Satterthwaite, D. Archer, S. Colenbrander, D. Dodman, J. Hardoy, D. Mitlin, and S. Patel, ‘Building Resilience to Climate Change in Informal Settlements’, One Earth, 2/2 (2020), 
+143–56.
+ F. Aram, E. Higueras García, E. Solgi, and S. Mansournia, ‘Urban green space cooling effect in cities’, Heliyon, 5/4 (2019), e01339.
+ D. Satterthwaite, ‘Missing the Millennium Development Goal targets for water and sanitation in urban areas’, Environment and Urbanization, 28/1 (2016), 99–118.
+10 D. P. Aldrich and R. Smith, Social Capital and Resilience: Informal Policy Brief for the World 
+Humanitarian Summit, (2015); Concern Worldwide and USAID, Indicator development for surveillance of urban emergencies-IDSUE, (2014).
+ R. Putnam, Bowling Alone: The Collapse and Revival of American Community, (Simon & Schuster, 2000).
+12 M. Buhigas San José and et al., The Implementation of the Principles of Planned 
+Urbanization: a UN-Habitat approach to sustainable urban development, (2017).
+13 I. Turok and G. McGranahan, ‘Urbanization and economic growth: the arguments and evidence for Africa and Asia’, Environment and Urbanization, 25/2 (2013), 465–82.
+
+[Page 13]
+Urban Resilience: Background and Context
+Section 1 to its activities.14 Systemic risks can be linked to understanding and managing complexity, and they can originate within or outside the city but lead to the collapse of an urban system or supply chain with cascading effects beyond city administrative boundaries. Urban governments need to consider their systemic risks and challenges and apply their jurisdictional powers, mandates, controls and resources to address them – e.g. through choices about infrastructure and basic services, as well as the provision of ecosystem services. Similarly, businesses are affected by systemic risks and the impacts on their operations, and often address these through specialized risk teams or health and safety departments.
+COVID-19 has had profound economic implications around the world. It has eroded years of progress on poverty reduction, winding back progress by four to 10 years in cities.15 The global COVID-19 crisis is bringing the growing wealth gap in societies and other socio-economic inequalities to the forefront, highlighting the need for inclusive growth and holistic policies that tackle issues of socio-economic vulnerability, safety nets, informality and social cohesion, and ensuring that no one is left behind. Disparities have been particularly stark in the world’s cities, where low-income and other marginalized groups have faced disproportionately high rates of exposure to the virus, through living in lockdown in more crowded, lower quality housing, a greater reliance on public transport and greater loss of livelihoods (many people in these situations cannot easily work from home).
+As well as posing challenges, cities are centres of dynamism and opportunity, and the impact of COVID-19 is enticing many to rethink the very nature and fabric of our urban environments. It is widely accepted that cities tend to have a greater diversity of people due to migration and this, alongside the concentration of capital, ideas and innovation, can be galvanized to ensure greater resilience to shocks and stresses. The distinctive nature of challenges faced by cities, and the unique opportunities they provide at the same time, need to be acknowledged and appropriately addressed. This is particularly so in places where risk is likely to accumulate, now and in the future, due to rapid unplanned development and inadequate provision of infrastructure and services, amplified by the effects of climate change. The United Nations 
+Climate Change Conference, at the upcoming 26th conference of the parties (COP26) and during subsequent meetings, may need to focus greater attention to specific climate-related opportunities for urban environments.
+14 See G. G. Kaufman and K. E. Scott, ‘What Is Systemic Risk, and Do Bank Regulators 
+Retard or Contribute to It?’, The Independent Review, VII/3 (2003); A. Klinke and O. Renn, ‘Systemic Risks as Challenge for Policy Making in Risk Governance’, Forum Qualitative 
+Sozialforschung, 7/1 (2006).
+15 S. Alkire, N. N. Quinn, R. Nogales, and N. Suppa, Global multidimensional poverty and 
+COVID-19: A decade of progress at risk?, (2021).
+
+[Page 14]
+Urban Risk Management and Resilience Strategy
+1.2 
+Urban resilience definitions and practice
+Urban resilience is defined by the UN-Habitat Urban Resilience Hub as:
+“The measurable ability of any urban system, with its inhabitants, to maintain continuity through all shocks and stresses, while positively adapting and transforming toward sustainability.”
+Urban resilience is often divided into core components or characteristics (see Characteristics of resilient cities on page 12). Most definitions of urban resilience refer in some way to ‘systems’ (as opposed to communities or individuals or entities separately) and to the ability or capacity of these systems to anticipate, assess, prevent, detect and respond to a shock or disturbance (often focusing on the ability to absorb and recover from a shock), or to take a more mutually reinforcing and complementary approach towards urban planning, development and functionality and advance long-term resilience and sustainability. These systems are conceived of in different ways but are broadly classified as (1) the physical / built environment, (2) social and economic and (3) ecological (see Figure 1. Cities as open systems). Cities are ‘open systems’ made up of inputs, processes and outputs, resource flows and assets and are shaped by complex feedback mechanisms.16
+Although the concept and application of systems thinking has been around since the 1950s, governments, businesses, academics and development actors in the urban space usually break issues into their separate parts and deal with each in isolation.17 In city governments, too, separate agencies, departments and organizations specialize in energy, land, food, water, the economy, finance, building regulations, technology, health and transportation as if each topic were unrelated to the others, which too often leads to disconnected silos of activity.18 Similarly, city governments tend to plan over timescales (often related to electoral cycles) that are shorter than those over which risks are usually generated and manifest and can be addressed. 
+Investments in risk reduction and resilience building are commonly seen to only pay dividends when a hazard materializes or a shock occurs. This disincentivizes political and administrative decision makers from investing in resilience in advance, even though there are potential economic, social and environmental benefits to doing so.19
+16 X. Bai, R. J. Dawson, D. Ürge-Vorsatz, G. C. Delgado, A. S. Barau, S. Dhakal, D. Dodman, L. 
+Leonardsen, V. Masson-Delmotte, D. Roberts, and S. Schultz, ‘Six research priorities for cities and climate change’, Nature Comment, 555 (2018), 3.
+17 D. Orr, ‘Systems Thinking and the Future of Cities’, (2016).
+18 Orr, ‘Systems Thinking and the Future of Cities’.
+19 T. Tanner, S. Surminski, E. Wilkinson, R. Reid, J. Rentschler, and S. Rajput, The Triple 
+Dividend of Resilience: Realising development goals through the multiple benefits of disaster risk management, (2015).
+
+[Page 15]
+Urban Resilience: Background and Context
+Section 1
+Figure 1. Cities as open systems
+P
+H
+Y
+SI
+C
+AL / B
+UI
+LT S
+Y
+S
+T
+E
+M
+S
+O
+C
+I
+A
+L/
+E
+C
+O
+NO
+M
+IC S
+Y
+S
+T
+E
+M
+E
+C
+O
+L
+O
+GI
+CA
+L 
+S
+Y
+S
+T
+E
+M
+Urban system
+Multiple:
+ ■Actors and constituents ■Structures ■Processes ■Linkages ■Functions
+Cities as open system
+Cities are open systems, influencing and influenced by the external world via complex linkages and feedbacks.
+D y n a m ic a n d e v ol vi n g
+CITIES
+Rural and peri-urban
+National, regional and global
+PLANET
+Source: Bai, et al.
+
+[Page 16]
+Urban Risk Management and Resilience Strategy
+Characteristics of resilient cities
+Reflective
+The capacity to learn from past experiences to inform future decisions, including lessons learned from the experiences of peers and partners.
+Resourceful
+The ability to identify and recognize multiple and alternative uses for available resources, which also introduces the idea of the fungibility of limited assets and resources.
+Inclusive
+Participatory processes that enable the development of shared objectives, goals and decision-making with urban stakeholders.
+Integrated
+The coordination between multiple and distinct systems, networks and institutions underpinning city functions, actions and priorities.
+Robust
+Conceptualizing, implementing and managing systems that can withstand and recover in the face of shocks and crises.
+Note: robust does not mean ‘rigid’.
+Flexible
+Ability to adapt to changing circumstances by adopting alternative and relevant strategies.
+Redundancy
+Purposefully designed reserve capacities (including with supply chains) to accommodate disruptions.
+Source: Adapted from Resilient Cities (2019)
+
+[Page 17]
+Urban Resilience: Background and Context
+Section 1
+Good urban resilience practice uses a systems approach to bring together a collaborative focus on managing risks (natural, man-made and hybrid) with development policy, planning and practice. This ensures that urban development is properly scalable for all sizes of cities. Applying this lens and understanding risk as a product of – and constraint on – urban development or accentuated by it, can enhance the performance of both development and risk reduction planning and programming. This explains why addressing urban risk management and fostering resilience has become essential for achieving the objectives of different strands of the United Nations’ development agenda including the SDGs, the New Urban Agenda, Paris Agreement, the Sendai 
+Framework for DRR and others.20 This improved understanding of risk in a complex system remains, however, constrained by political unwillingness to tackle the issue and make adequate resources (financial, technical, human and others) available.
+Strengthening urban resilience is a complex and multifaceted endeavour, and there has been a major focus on producing analytical frameworks that characterize and interpret urban resilience, helping to identify the qualities of urban systems, services, capacities, resources and other city-specific characteristics that determine how well they might respond to a variety of disturbances. This enables an evaluation of how the city will be able to prepare for, cope with and adapt to changing conditions.21
+Major analytical frameworks include:
+ ■The City Resilience Index, developed by Arup with support from the 
+Rockefeller Foundation, comprises 52 outcome indicators in four categories: leadership and strategy (knowledge); health and wellbeing (people); economy and society (organization); and infrastructure and ecosystems (place).22 ■The World Bank’s systems-level urban resilience framework identifies five characteristics that can be used to design interventions and provide a baseline: robustness, inclusion, coordination, reflectiveness and redundancy.23 The World Bank has also developed a resilience rating system of project outputs and outcomes which can be applied in urban settings to better inform decision makers on resilience monitoring.24 ■The UN-Habitat City Resilience Action Planning (CityRAP) tool, which has five pillars of city resilience: urban governance; urban planning and environment; 
+20 E. Wilkinson, Transforming disaster risk management: a political economy approach, (2012).
+21 S. Meerow, J. P. Newell, and M. Stults, ‘Defining urban resilience: A review’, Landscape and 
+Urban Planning, 147 (2016), 38–49.
+22 Arup, City Resilience Index, (2014).
+23 World Bank, Building Urban Resilience: An Evaluation of the World Bank Group’s Evolving 
+Experience (2007–17), (2019)
+24 World Bank Group, Resilience Rating System : A Methodology for Building and Tracking 
+Resilience to Climate Change, (2021).
+
+[Page 18]
+Urban Risk Management and Resilience Strategy resilient infrastructure and basic services; urban economy and society; and urban disaster risk management.25 ■The Doughnut Economic framework, which has been adapted to city contexts to provide a snapshot of where cities stand in relation to ecological ceilings and social wellbeing objectives as a way to start conversations about where they want to be.26 ■United Nations Common Guidance on Helping Build Resilient Societies which pursues a systems approach to resilience building at all levels across the three pillars of the United Nations: human rights, development, and peace and security.
+ ■The ‘TP4D’ alliance, a joint work by the Organization for Economic 
+Cooperation and Development (OECD), the United Nations Capital 
+Development Fund (UNCDF) ■The International Fund for Agriculture Development, the Food and 
+Agriculture Organization of the United Nations, Centre de coopération internationale en recherche agronomique pour le développement (The 
+French Agricultural Research Centre for International Development), the 
+Agence Française de Développement (French Development Agency) and the New Partnership for Africa’s Development, to foster a territorial approach to development based on eight principles to consider the dependencies of cities with peri-urban and rural spaces.
+The past decade has also seen a huge increase in the number of global and regional projects, programmes, networks and other initiatives aimed at building the resilience of cities.27 These include:
+ ■100 Resilient Cities Campaign (2013–2019) and subsequently the Resilient 
+Cities Network ■UN-Habitat’s Urban Resilience Hub ■C40 Cities Measuring Progress in Urban Climate Adaptation resource ■The United Nations Office for Disaster Risk Reduction (UNDRR) Making Cities 
+Resilient Campaign – now called Making Cities Resilient 2030 (MCR2030) ■The International Council for Local Environmental Initiatives (ICLEI) 
+Transformative Actions Program and Resilient Cities Congress ■The World Economic Forum’s cities and urbanization focal area ■The Circular Cities Hub.
+Most of these initiatives focus on assessing risks, building the capacity of stakeholders to develop resilience strategies and plans, and raising awareness. 
+25 UN-Habitat, CityRAP Tool: City Resilience Action Planning Tool, (2020).
+26 K. Raworth, ‘Introducing the Amsterdam City Doughnut | Kate Raworth’, (2020).
+27 Cao, Y., Wilkinson, E., Pettinotti, L., Colenbrander, S. and Lovell, E. A Decade of Urban 
+Resilience: An Analytical Review, UNDP, (2021).
+
+[Page 19]
+Urban Resilience: Background and Context
+Section 1
+Many provide planning support – for example, UN-Habitat uses the CityRAP tool for participatory planning and training exercises with municipal authorities, communities and local stakeholders. The 100 Resilient Cities programme financially supported a new post within municipal governments: a chief resilience officer tasked with championing and developing an integrated urban resilience strategy to address risks within and between urban systems. 
+The question of the sustainability of such a model is at stake now that the programme has ended.
+Many initiatives have focused on providing data for urban resilience planning. 
+These include: the UN-Habitat Global Urban Observatory Urban Indicators 
+Database; the Carbon Disclosure Project, which maintains a portal gathering datasets on emissions, climate actions and risks for 812 cities; the Global 
+Covenant of Mayors for Climate & Energy’s Data4Cities workstream; and data collected by the Slum Dwellers International (SDI) Know Your City campaign, among others.
+Other initiatives help cities to design, finance and implement resilience projects. Two financing vehicles from the Asian Development Bank, for example, invest in local stakeholder capacity to prepare resilience projects and engineering designs, and implement infrastructure investments. The C40 
+Cities Finance Facility supports cities in developing finance-ready low carbon and resilience projects. The ICLEI Transformative Actions Programme builds the capacity of local institutions to attract finance for the implementation of resilience projects. Similarly, the Cities Climate Finance Leadership Alliance brings major public and private institutions engaged in climate finance together to advance project preparation, deploy financial instruments and create an enabling environment for climate finance in cities.
+Analysis of policies and frameworks, programmes and initiatives implemented at global, regional, national and city level, as well as of the tools and methodologies deployed to diagnose urban resilience, has highlighted unmet demands and resilience-building needs. It also reveals gaps and constraints in current resilience programmes including:28 ■Urban resilience programmes have primarily addressed one aspect of resilience or another, either in a stand-alone (siloed) fashion or sectorally.
+ ■City administrations have struggled to implement urban resilience strategies beyond individual projects. One reason for this is the lack of fiscal and financial resources at municipal level, since in many countries tax revenues continue to be centrally collected and administered while a city’s ability to generate adequate revenues to meet resilience-building needs falls short (often significantly so) of their burgeoning requirements. In many cases this has been exacerbated by COVID-19, with cities going into extended periods of lockdown.
+28 Cao, Y., Wilkinson, E., Pettinotti, L., Colenbrander, S. and Lovell, E. 
+A Decade of Urban Resilience: An Analytical Review, UNDP, (2021).
+
+[Page 20]
+Urban Risk Management and Resilience Strategy ■There is a disconnect between national urban development policies and plans and their implementation at city level. Urban governance does not adequately address interactions and dependencies across scales and administrative boundaries in managing risks and harnessing opportunities.
+ ■Global initiatives have found sectoral interests and other considerations influencing risk prioritization, limiting the power of governments to make their own decisions.
+ ■Much of the attention in programming has been on strengthening infrastructure, which requires specialized engineering, legal and financial and other skills, with less focus on socio-economic issues and vulnerabilities.
+ ■Lack of good data and actionable risk information remains a huge impediment to urban planning generally, and specifically to the more challenging kind of cross-sectoral and forward-looking planning that takes into account future threats and potential impacts. A lot of data has been generated but little on the infrastructure and service needs of residents in informal settlements. These people are likely to be disproportionately exposed to disease, chemical pollutants and physical hazards, but this is not captured in datasets on health, disaster or climate risk.
+ ■Despite having comprehensive planning tools, projects have tended to be sectoral. This means they address a single issue, for example energy or transport.
+ ■Almost all the initiatives are missing a people-centred focus, failing to take into account issues such as the health, livelihoods and basic needs of vulnerable and excluded groups.
+ ■The focus has mainly been on large urban centres. Small and medium-sized cities with limited resources have received little attention even though they are the source of the vast proportion of unmet global demand.
+ ■Accountability and monitoring of resilience-building interventions has been weak and resilience benchmarking tools have proved inadequate.
+Each of these gaps can be addressed through UNDP’s urban risk management and resilience strategy.
+1.3 
+Why focus on small and medium cities?29
+Urban population growth and the spatial expansion of cities across the globe are heterogeneous. Between 1975 and 2015, small and medium cities (defined as having a population of less than one million) expanded much faster spatially than large metropolitan areas (defined as having a population greater than five million), expanding by 2.96 percent compared to 1.74 percent 30. There are various reasons for this, chief among them being that competition for land and 
+29 The explicit focus for this strategy is on cities with less than one million inhabitants, although UNDP can also respond to needs and demands from larger cities that have been excluded from urban resilience initiatives in the past.
+30 OECD and EC, ‘Cities in the world database’.
+
+[Page 21]
+Urban Resilience: Background and Context
+Section 1 the time costs of travel are lower in smaller urban centres. More than half of the world’s ‘new’ cities have developed in LICs and LMICs and the population of these small cities has grown more rapidly than in high-income countries. 
+LICs and LMICs have four and three times the population density of highincome countries respectively31, though again there is variation with African cities typically having lower population densities than those in Asia.
+While small cities are not more likely to face development challenges and complex risks than larger metropolitan areas, their financial and human capacity to deal with them is often more limited compared to larger cities in the same country. Small and medium-sized cities have limited capacity and resources to provide critical infrastructure and services. These local government administrations are small, often with low technical and urban planning capacity and inadequate tools to address the gaps that they face. 
+They have limited capacity to assess the multiple threats and risks their cities face, relative deficits in protective infrastructure, limited resources to respond to disasters and emergencies, higher gender inequalities and stricter cultural norms than larger cities.32 Furthermore, smaller cities have more difficulty attracting capital for investment, especially in LDCs, and even struggle to get their priorities adequately reflected under national budgetary allocations. 
+As a result, the imbalances between capital cities and smaller ones widen because the latter are unable to attract investments as they often do not have the credit rating needed to access international financing instruments or commercial capital.
+However, considering the underlying political economy and interdependencies between larger cities and their small and/or medium-sized counterparts, the interconnected nature of socio-economic and development imperatives between urban, peri-urban and rural areas will be explored to contribute more effectively towards resilience building.
+Low-income and low-skilled urban residents may be disproportionately represented in smaller cities, provincial towns and peri-urban areas, and many small cities are undergoing processes to structurally transform their societies and economies while having to address situations of conflict and fragility. 
+These issues tend to converge in small cities in lower income economies. 
+To date, research and initiatives supporting cities to address these development challenges and risks have tended to focus on medium-sized cities and megacities (more than one million inhabitants) and have been concentrated in many of the same geographies,33 neglecting smaller cities, provincial towns and peri-urban areas.
+31 OECD and EC, Cities in the World – A new perspective on urbanisation.
+32 UNDP, ‘Integrated urban resilience framework: an applied guide on UNDP integrated urban resilience (IUR) support’, (2020).
+33 W. F. Lamb, F. Creutzig, M. W. Callaghan, and J. C. Minx, ‘Learning about urban climate solutions from case studies’, Nature Climate Change, 9/4 (2019), 279–87.
+
+[Page 22]
+Urban Risk Management and Resilience Strategy
+Small and medium-sized cities are growing more rapidly than larger cities34 and hence there is an opportunity to get in early, before physical, environmental and socio-economic risks have been created (physically, environmentally and socio-economically) to better manage them. There is potential in small cities to avoid the mistakes made in larger cities. But they are in need of support, given their high numbers, rapid growth and rapid risk creation, weaker governance capacities, and challenging development contexts and socio-economic imperatives. These are exacerbated by the convergence of multiple different risk factors. Thus, capacity strengthening for urban resilience in small and transitioning cities can have huge potential benefits and offer greater opportunities for effective risk management, resilience building and sustainable development, in line with national framework strategies such as national adaptation plans, nationally determined contributions and the SDGs by 2030.
+34 OECD and EC, Cities in the World – A new perspective on urbanisation.
+
+[Page 23]
+UNDP experience and thematic focus on urban resilience
+Section 2
+2.1 
+Experience working on urban issues
+UNDP has extensive experience supporting development policy and practice in the urban space,35 although this has not been guided by an explicitly articulated strategy. Over the last decade, it has supported disaster risk reduction, climate adaptation, governance, sustainable development, inclusive growth, poverty eradication, socio-economic and livelihood resilience, among a host of interventions in cities through a variety of programmes, frameworks, methodologies and tools.
+UNDP has developed some flagship projects on urban resilience, focusing primarily on managing disaster and climate risks in urban areas, offering services in support of local disaster risk governance, hazard and vulnerability diagnostics, adaptation, DRR policy and planning, and related knowledge management and capacity-strengthening interventions. To be more effective in the future, these types of interventions will need to be based within an overall strategy for managing risk and strengthening resilience in cities. They will need to be part of integrated programmes of work that contribute towards resilience building outcomes, augmenting the capacity of urban governments and their partners to build upon short-term successes, and generate learnings on what works and does not work in building sustainable urban resilience.
+35 Project include: South-East Europe Urban Resilience Building Action Network (2017–2018); 
+Building local disaster risk governance capacities in Ain Draham; Integrating resilience into city development plans in the city of Saida; Land-use planning for effective urban resilience in the city of Aqaba (Jordan); Increasing Urban Resilience by use of information and communications technology for mainstreaming disaster and climate risk reduction in Armenia, FYR of Macedonia and Moldova (2014–016); Strengthening capacities for disaster risk reduction and adaptation for Resilience in the Sahel Region (2019–2021); 
+The Arab cities disaster resilience programme (2014–2019); Global Centre for Technology, 
+Innovation and Sustainable Development (Ongoing); Matching Platform for Cities and the Private Sector (Ongoing); Preparatory assistance phase of the DRR of Megacities and 
+Complex Urban Metropolises project (2005–2007); African Urban Risk Analysis Network (AURAN) project (phase I and II) (2004–2009) Contribution to increasing Urban Resilience in the major Cuban cities (2014–2016); Comprehensive Disaster Management Programme (CDMP) (2010-2015); Urban Climate Risk Management (2013–2014) – under the umbrella project “Safer Communities through Disaster Risk Reduction in Development – Phase II”.
+2. UNDP experience and thematic focus on urban resilience
+
+[Page 24]
+Urban Risk Management and Resilience Strategy
+Projects delivered by different UNDP practice areas or global thematic teams in urban settings, where urban resilience was a secondary objective or a co-benefit, will need to go beyond a focus on reducing the vulnerability and exposure of critical services and physical infrastructure. 
+These interventions have improved municipal and building energy efficiency, sustainable transportation schemes, and developed and enforced construction standards. But they now need to pay greater attention to the socio-economic risks faced by marginalized and often vulnerable people at the intersection of different characteristics, such as LGBTQ+, youth, women, marginalized, migrants and ethnic groups. Not explicitly considering the needs of marginalized and/or vulnerable groups runs the risk of directly undermining the investment made, because restrictive social norms can mean not all segments of society benefit.
+Overall, several lessons for future programming have emerged from an analysis of UNDP urban resilience initiatives, some of which are highlighted in the UNDP internal rapid review ‘Overview of Urban Initiatives in Disaster 
+Risk Management, Climate Change and Energy programmes and projects’ 36 (see Lessons learnt from UNDP urban resilience projects on page 21.)
+UNDP has relevant skills, relationships and expertise grounded in an extensive track record of work on – or related to – urban resilience, but its full potential to drive disaster/climate risk reduction and adaptation objectives or to enhance the resilience of urban centres has perhaps not been fully optimized in the absence of a clear strategy or framework to guide its interventions.37 
+Hence, the development of an overall strategy with an inherent potential to advance organization-wide application will be an essential step in taking urban resilience work to the next level.
+2.2 
+Internal opportunities for integrating work on urban resilience
+UNDP work under an urban resilience strategy will need to build on the experience, expertise and different entry points of various practice areas, and bring these together to offer a coordinated, multi-dimensional approach. 
+UNDP recognizes the importance of urban resilience and the need to address aspects of risk and development in urban areas through its thematic work on disaster risk reduction and resilience, SDG localization, climate, transport and 
+36 UNDP, ‘Overview of Urban Initiatives in Disaster Risk Management, Climate Change and 
+Energy programmes and projects’, (2015).
+37 Cao, Y., Wilkinson, E., Pettinotti, L., Colenbrander, S. and Lovell, E. 
+A Decade of Urban Resilience: An Analytical Review, UNDP, (2021).
+
+[Page 25]
+UNDP experience and thematic focus on urban resilience
+Section 2
+Lessons learnt from UNDP urban resilience projects
+Initiatives have included creating pipelines of projects, securing the necessary funding, creating quantifiable value propositions for urban resilience to involve the private sector, and evaluating and learning from the outcomes of plans and investments. They have had less influence on the implementation of projects.
+They are all individual projects with an end date. Little consideration has been given to sustainability or institutional capacity strengthening.
+UNDP could be more effective at leveraging institutional partnerships with UN-Habitat, the World Bank, The Rockefeller Foundation, the 
+UNCDF and ICLEI. This could allow different programmes to be linked or complement each other for sustained outcomes by providing support throughout all stages of the resilience-building process.
+Limited attention has been paid to social and digital innovation for urban resilience, although the importance of this is recognized in UNDP policy documents. In collaboration with the Government of Singapore, UNDP has also launched the Global Centre for Technology, Innovation and 
+Sustainable Development, which has a dedicated programme on smart cities and digitalization and explores disruptive technologies to transform urban resilience.
+Most of these initiatives were delivered without an explicit systems approach, often resulting in siloed, sectoral programmes aimed at addressing specific urban development and risk management issues. 
+The lack of a coherent framework means that potential synergies and multiplier effects are missed. UNDP is shifting towards more joined-up thinking to deliver on urban resilience. The Asia Pacific team has adopted a systems approach through the formulation and implementation of 
+Integrated urban resilience (IUR), but this does not appear to be more widely adopted across regional and country offices yet.
+
+[Page 26]
+Urban Risk Management and Resilience Strategy energy, crisis and fragility, nature-based solutions, gender empowerment, local governance, health, human mobility, livelihoods and economic recovery, and ‘smart cities’.
+Some of the entry points currently being articulated and pursued by thematic teams are summarized briefly in ten points below:
+ ■Disaster Risk Reduction and Resilience DRT’s work on urban risk management has been primarily focused on addressing the incidence and impact of natural hazards in cities, and to addressing one or the other dimension in a linear manner. The key areas of programmatic interventions have been related to disaster data and risk assessment, awareness raising and advocacy, institutional and regulatory mechanisms for DRR and training programs for capacity building. Despite successful interventions to address specific hazards or risk typologies, a more overarching investment in resilience building has not been advanced at scale. Hence, an approach that centres comprehensive disaster risk and climate adaptation is needed to reduce and manage risks effectively.
+ ■SDGs Integration The success of the SDGs depends on their roll-out in cities. 
+Many of today’s and tomorrow’s risks will need to be addressed in cities due to their concentration of people, economic activities, assets and knowledge. 
+At the same time, cities’ characteristics provide opportunities to deliver on all development priorities. Hence, the SDGs’ successful delivery hinges on ‘localization’ at city level. This will require integrated approaches to human development and risk reduction, which is what urban resilience seeks to deliver.
+ ■Nature, climate and energy Climate and environmental risks are heightened in cities due to concentrations of infrastructure and populations. In addition, many cities are coastal and/or riparian. This means they already have high exposure to storm surge and flooding, which will intensify as sea levels rise. Climate and environmental risks in cities cascade across systems (transport, utilities etc), often with reinforcing feedback loops. Managing these cascading risks and fostering resilience is therefore a precondition to unlocking development opportunities. Coupled with this, the issue of how city transportation and energy needs are addressed now is key to achieving the SDGs by 2030. UNDP is supporting the design and implementation of nationally determined contributions and national adaptation plans, linking these national plans to local urban projects.
+ ■Crisis and fragility These can be more intense in urban spaces because of the concentration of people, stark inequality, forced in-migration and exposure to new ideas. Much of the existing work to build resilience to violence, crime and corruption has focused on the national level and in rural areas. There is, however, an opportunity to work directly with cities where governments may not be strong and private and non-state actors may be more easily engaged to find solutions to fragility problems. It may also be more cost-effective to address some grievances – such as lack of access to services – in urban centres.
+
+[Page 27]
+UNDP experience and thematic focus on urban resilience
+Section 2 ■Nature-based solutions These solutions are critical to urban resilience. 
+Protecting, restoring and sustainably managing natural resources such as forest cover in river basins, for example, is key to making cities safer (because they help to ensure water security and urban cooling) and provide the services that city inhabitants depend on. Actions are also required outside of city boundaries to make nature-based supply chains more resilient. For example, food security, water and energy are essential services to consider in the event of a crisis, disaster or a shock.
+ ■Gender empowerment Addressing gender empowerment in cities requires looking at the intersecting inequalities, injustices and constraints faced by different people in terms of their safety, mobility and access to labour markets (Chant, 2013). The emergence of new risks in urban areas underscores the need to focus on socio-economic resilience, for example through social protection. There is an opportunity to work more closely with local governments to strengthen participatory governance, so the needs of all excluded, weaker and marginalized groups can be better represented in urban resilience decisions to help empower them further.
+ ■Local governance UNDP has been working with city administrations to build their capacity to strengthen coordination across departments and to foster a more cross-sectoral approach to urban development issues. This has involved working with community representative groups to promote their engagement with city administrations and to encourage them to proactively contribute to decision-making and implementation at city level. Strong local governance capacities are needed to adopt system approaches to urban resilience problems and for the delivery of urban services to meet the specific needs and requirements of vulnerable, marginalized and disempowered people, and groups that are left behind. Taking the needs of these groups on board will be critical for urban resilience-building efforts.
+ ■Health The COVID-19 pandemic has underscored the importance of addressing health – including nutrition, food security and well-being dimensions – as part of urban resilience. As a primarily urban disaster, the pandemic has had cross-sectoral and wide-ranging socio-economic impacts. 
+Projections of the increasing disruptions likely to be caused by health risks highlight the need to treat these not purely as health issues but as critical risks with potential for widespread human and socio-economic or ‘systemic’ impacts.
+ ■Human mobility, livelihoods and economic recovery work This recognizes that resilience needs to go beyond sectoral prisms to include governance, social, human and physical capital as well as environmental aspects. Context analysis is needed to better understand city and stakeholder needs and address gaps related to the lack of integrated programming, piecemeal application and excluded groups. These common elements should be addressed in a holistic way, bringing diverse elements together and ensur­ ing that no one is left behind in urban resilience programming, particularly where high rural-to-urban migration and cross-border migration is occurring due to economic, livelihood and other pressures.
+
+[Page 28]
+Urban Risk Management and Resilience Strategy ■Smart cities Technology plays an increasingly important role in urban sustainability and resilience, linked to all nine points above. From vertical farming techniques through to intelligent modes of transport and solutions for good waste management, the smart city is a resilient and sustainable city for the physical social and ecological environment.
+Adopting an integrated approach to urban resilience means addressing all dimensions of resilience including environmental, social, economic, infrastructure and health risks. It will mean UNDP working simultaneously on issues across the physical/built environment, social and economic, and ecological systems, taking a mutually reinforcing and complementary approach.
+Focusing on specific blind spots and identified gaps in urban resilience policy and programming will have to be central to this approach. UNDP’s expertise in all the complex urban issues identified above represents a solid base from which to develop this strategic approach.
+UNDP’s key strengths in concentrating, tailoring and coordinating work around urban resilience lie in its experience in engaging with national and sub-national governments (to support development planning and improve governance systems) and implementing activities directly with communities (to expand socio-economic opportunities, services and welfare for people affected by poverty, inequality and marginalization). Connecting UNDP’s work on governance (at national and sub-national level) with communities at the city level, through its country offices, will bridge the current divide between the macro and the micro dimensions. UNDP is well positioned to elevate urban resilience in national agendas, connect city planning to national planning, and mobilize political attention and resources towards national approaches to urban resilience, supported by international linkages and coordination.
+The entry points for working on urban resilience and risk reduction therefore already exist. They lie in the experience that UNDP already has working on urban issues from different sectoral perspectives, and in the many years of expertise working on governance – in particular, local governance. This UNDP urban resilience strategy proposes stronger collaboration between thematic teams and an integrated way of working with country offices, which is required to address complex urban resilience challenges.
+
+[Page 30]
+Urban Risk Management and Resilience Strategy
+UNDP’s work on urban risk management and resilience will be conducted in partnership with international and regional development partners, national and city administrations, civil society, the private sector and other stakeholders. It will build on UNDP’s existing work across practice areas and thematic teams, combining these efforts with new streams of work that can collectively contribute to more resilient cities.
+UNDP’s vision, mission and Strategic Priorities are outlined below.
+3.1 
+Vision statement
+A future where small and medium-sized cities in particular, and urban areas in general, are resilient to multiple risks and are safe, inclusive and prosperous places to live and work.
+3.2 
+Mission statement
+Over the next 10 years, UNDP will work principally in small and medium-sized cities in low-income and lower-middle-income countries to strengthen their capacity to manage development processes, reduce risks and create more resilient urban societies, laying the foundations for sustainable development in an increasingly urbanized world to ensure no one is left behind.
+3.3 
+Strategic priorities
+UNDP will focus its efforts and activities around five Strategic Priorities, each of which responds to an identified gap in current support being offered on urban resilience, builds on the strengths of UNDP’s global policy teams and relationships to regional bureau and country offices, and is linked to achieving the SDGs by 2030. Figure 2 on page 27 introduces the five Strategic 
+Priorities, which together will deliver improved urban resilience.
+3. Vision, mission, and strategic priorities
+
+[Page 31]
+Vision, mission, and strategic priorities
+Section 3
+Figure 2. The five Strategic Priorities for improved urban resilience
+Prioritize locations where the greatest capacity gaps exist
+Improved urban resilience
+Support adoption of new technologies and innovation to secure resilient urban futures
+Strengthen risk-informed development planning and investment to protect development gains
+Target the needs of marginalized communities for more equitable urban resilience
+Enhanced engagement of diverse stakeholders to strengthen urban governance
+
+[Page 32]
+Urban Risk Management and Resilience Strategy
+Strategic Priority 1: Prioritize locations with the greatest capacity gaps
+UNDP’s priority work on urban resilience will be focused on small and mediumsized cities and towns in LICs, LDCs, SIDS and some other LMICs. With nearly 
+43 percent of the people living in cities today being in fragile, conflict-prone contexts, attention will be directed towards cities that face crises and/or conflict, high exposure to disaster/climate risks and vulnerability to shocks of multiple hues. The decisions on which cities to prioritize our efforts on and the types of partnerships and services most needed, will be arrived at through a risk-informed prioritization process involving discussions with national and provincial governments, and all other key stakeholders and partners.
+For the reasons described in this paper, small and medium-sized cities have particular vulnerabilities and capacity constraints, and face distinctive challenges in managing the multiple, dynamic risks that are generated as they grow and expand. Smaller cities often have rapidly growing service sectors, and city governments have problems investing in infrastructure to support these services, which poses significant risks now and in the future. These smaller urban centres have generally been neglected by large international programmes and networks that offer support to urban governments to enhance resilience. For these reasons, and because of the vast experience and expertise of UNDP working on local governance in small municipalities in developing countries, a focus on these neglected geographies would add the most value. In particular, it would help these places develop a risk-informed planning and development process to address existing risks while preventing or reducing the potential impact of newer risks (identified through tools and techniques such as horizon scanning, foresight, etc.).
+It is important to note that lessons from implementing resilience programmes in large cities in higher income countries, as well as in LICs and LMICs, can and should be leveraged in our focus on small and medium-sized cities.
+Also, when deemed appropriate, effort and support will be provided to designated large cities classified at Tier 1 and Tier 2 as well as cities in uppermiddle-income countries.
+Strategic Priority 2: Enhanced engagement of diverse stakeholders to strengthen urban governance
+COVID-19 and climate change impacts underscore the fact that urban areas cannot insulate or isolate themselves from systemic risks, and that managing systemic interconnected risks effectively requires broad and effective stakeholder engagement and collaboration, high levels of trust and social cohesion. Engaging and mobilizing diverse stakeholder groups will be critical to navigating and overcoming the political economy barriers to risk management, and risk-informed planning and development that particularly arise in cities. These include weak political incentives, rent-seeking and corruption, loss of tax revenues and moral hazard (particularly for disaster risk management).38 Urban governance focuses on how governments (local, 
+38 Wilkinson, Transforming disaster risk management: a political economy approach.
+
+[Page 33]
+Vision, mission, and strategic priorities
+Section 3 regional and national) and other actors (the private sector, civil society, technical institutions etc.) shape urban planning and development through connected and coordinated policies and collective actions. Key players include property developers, professional groups (urban planners, engineers, architects, construction and building suppliers, civic groups etc.), investors, household associations, industry associations, social and youth movements, representative organizations and other groups.
+UNDP’s work on urban resilience will need to start by acknowledging different groups’ diverse interests, drivers and perceptions of risk. It will then need to find ways of brokering relationships and supporting dialogue between them to find urban resilience pathways that strengthen social capital, in order to better manage risks and to make risk-informed decisions to achieve the best outcomes. A systems approach will likely be valuable for this activity.
+The objective will be to address existing risks and, where possible, to prevent the creation of newer and ‘novel’ risks (novel risks are those that are new to us) through improved decision-making while also bridging the disconnect between national or supra-national decisions and municipal-level application by overcoming existing barriers. Strengthening urban governance (systems, capacities, services, coordination, etc.) and facilitating multi-stakeholder participation that enhances social cohesion, among other interventions, will receive more attention.
+Strategic Priority 3: Target the needs of marginalized communities for more equitable urban resilience
+Low-income and marginalized groups almost always face higher risks, and therefore demand particular attention in risk reduction programming. However, inclusive land-use policies and affordable service provision for informal settlements and low-income neighbourhoods (including through naturebased solutions and smart use of technology) are rarely a priority for city governments. Nonetheless, city governments are of course in closer contact with their residents than higher levels of government (national or provincial), and they have responsibility for the provision of everyday services and local infrastructure (such as local roads and transportation and waste collection). 
+There are opportunities for more participatory and ‘pro-poor’ forms of governance, with greater accountability in services and infrastructure provision.
+UNDP’s urban resilience work will therefore have an explicit focus on enhancing citizen participation and amplifying marginalized voices in decisionmaking on urban needs to enhance social cohesion, address intersectional inequalities in urban development processes, promote gender equality and empower marginalized and migrant groups – ensuring no one is left behind. 
+This requires a focus on the physical/built system, the social/economic system and the ecological system of the urban environment. Based on experiences with participatory budgeting, such a focus is likely to increase political attention and public spending on ‘everyday’ risks relating to health (for example, water,
+
+[Page 34]
+Urban Risk Management and Resilience Strategy sanitation and hygiene), security and local environmental quality.39 
+It will include addressing localized, smaller-scale ‘disaster’ events which tend to impede the day-to-day socio-economic lives and prosperity of poor and marginalized groups, disrupting their livelihoods and eroding their assets and ability to cope with subsequent shocks.
+Addressing these chronic and everyday risks will help limit risk accumulation and reduce underlying vulnerabilities related to health, poverty, access to services etc., by mitigating the circumstances that create these conditions. 
+It will also ensure that urban development and services cater to the particular needs and vulnerabilities of weaker, marginalized and unrepresented segments of urban communities. This will help reduce underlying risk drivers and address socio-economic vulnerabilities that amplify risks with cascading impacts across sectors, as evidenced by COVID-19 pandemic.
+Strategic Priority 4: Strengthen risk-informed development planning and investment to protect development gains
+Small cities, and many medium-sized ones too, lack the skills and resources to take risk-informed decisions about land use, infrastructure and services, as well as the capital to invest in resilient local infrastructure, including the socio-economic assets on which people’s lives and livelihoods depend. 
+Urban development instruments, such as land-use plans and infrastructure investments, are often risk-blind. UNDP can support these low-resource cities by providing tools and training to undertake risk-informed development planning and investment (applying DRT’s Risk Informed Development offer and other tools and guidance notes), so that they ultimately become more self-sufficient in managing their own risks. Linkages with other actors may also be relevant (e.g. development banks). This includes developing capacities or facilitating access to risk data/information and analysis, forecasting and anticipating shocks and impacts, and developing effective ‘end-to-end’ early warning systems oriented to meeting city-specific risk management and response needs. This will help strengthen risk governance and risk-informed development planning and investment to protect development gains and build local level resilience.
+There is particular demand from urban stakeholders for support with raising and steering finance, including augmenting domestic revenue streams, in ways that help mitigate risks. This is a crowded space and smaller, lower income cities have limited capacity to mobilize investment at scale and to access appropriate financial instruments. However, UNDP can support city governments in these locations by highlighting low-cost opportunities to enhance resilience, fostering an enabling environment that aligns private and public finance, and helping cities access appropriate financing instruments for meeting their development priorities.
+39 G. Ziervogel, M. Pelling, A. Cartwright, E. Chu, T. Deshpande, L. Harris, K. Hyams, J. 
+Kaunda, B. Klaus, K. Michael, L. Pasquini, R. Pharoah, L. Rodina, D. Scott, and P. Zweig, ‘Inserting rights and justice into urban resilience: a focus on everyday risk’, Environment and Urbanization, 29/1 (2017), 123–38.
+
+[Page 35]
+Vision, mission, and strategic priorities
+Section 4
+Strategic Priority 5: Support adoption of new technologies and innovation to secure resilient urban futures
+Improving access to – and adoption of – new technologies and innovations that can improve urban governance and service delivery and can vastly enhance the functioning of a city through planning and crisis management without compromising on social cohesion is key.
+Methodologies such as modelling, foresight, scenario planning, digital and crowd sourcing will be used for identifying break-points in a system. 
+Opportunities for ‘smart city’ initiatives are increasingly available and accessible, often at low cost, and can be implemented in low-resource cities just as much as in large cities and in developed countries. Resilience metrics and benchmarking solutions (tied to the SDGs) will be used to measure progress and ensure accountability. UNDP has capacities in specialized offices and teams to directly provide some of these tools to cities that are most in need and/or broker relationships with private sector providers, including through the Accelerator Labs, SDG Artificial Intelligence Lab, and the 
+Singapore-based Global Centre’s smart cities initiative, to devise contextually appropriate development and risk management solutions.
+This Strategic Priority is important for urban resilience and risk management because of the focus on small and medium cities, particularly in LICs/LDCs and 
+LMICs, which could otherwise be left behind in the technological advances being made by larger and wealthier urban centres. In some LICs and LMICs, the adoption of new technologies in urban centres might be new, even if these are not ‘new’ elsewhere.
+The dynamic and evolving urban development context presents opportunities for harnessing new and evolving digital tools and innovations – for example, to engage citizens, deepen participatory governance, improve urban services delivery, and speed up disaster and crisis awareness, detection, response and recovery. This Strategic Priority will seek to harness the potential of innovation and digital technologies to reduce, detect, respond to and recover from the ‘known’ risks and crises of today while also building capabilities and devising tools and approaches to prepare for the unknown challenges and ‘novel risks’ that are likely to be faced over the coming years.
+For each of the five Strategic Priorities outlined above, UNDP’s work on urban risk management and resilience will seek to advance integrated approaches drawing on guidance reflected in the 2030 Agenda, including the New Urban 
+Agenda, the Sendai Framework for DRR, the Paris Agreement and the SDG agenda, and to leverage the skills, knowledge and (where applicable) technical resources of other stakeholders.
+
+[Page 36]
+Urban Risk Management and Resilience Strategy
+This section outlines how UNDP will work towards improved urban resilience. UNDP’s approach will be to strengthen strategic collaborations with internal and external partners and to shift to a territorial approach to resilience building.
+4.1 
+Strategic partnership opportunities
+There is great potential for UNDP to become a strategic and valued partner in the urban resilience community, working with diverse organizations that focus explicitly on this topic. Global partnerships that may be of particular value are :
+ ■City networks, such as C40 Cities Climate Leadership Group, the Resilient 
+Cities Network, the Global Covenant of Mayors for Climate & Energy, 
+MCR2030 and ICLEI. UNDP can play an important role in transferring policy and planning innovations, frameworks and guidelines from these networks to their city partners – who may not be network members, may not be active or may face barriers to full participation.40 In particular, UNDP may be well placed to circumvent some of the more politically charged narratives emerging from city networks (such as those concerning the relative track records and responsibilities of different tiers of government) to enable urban governments to pursue resilience strategies effectively. This could also be an opportunity for city networks to focus on smaller cities, in support of 
+UNDP’s more direct support to local governments in these cities.
+ ■Development agencies, such as Cities Alliance, UN-Habitat, UNCDF, the Swedish International Development Agency, the World Bank and 
+International Finance Corporation (with initiatives such as the Climate 
+Change Resilience Initiative), the Green Climate Fund and other development banks such as the Asian Development Bank. The first three have a strong record of urban programming for resilience (and UNCDF has done important work helping urban governments to access climate finance through its LoCAL programme). The other examples are potentially important sources of funding that urban governments, particularly those running 
+40 S.Geldin, ‘Advancing urban adaptation where it counts: reshaping unequal knowledge and resource diffusion in networked Indonesian cities’, Environment and Urbanization, 31/1 (2019), 13–32.
+4. Urban resilience delivery enablers
+
+[Page 37]
+Urban resilience delivery enablers
+Section 4 small and medium-sized cities, have yet to tap into.41 UNDP can support urban governments to conceptualize a long-term resilience pathway to be implemented in a phased manner by adopting a portfolio approach. This will entail developing proposals and delivering benchmarked programmes with these partners, so they are better aligned and can collectively contribute to the resilience priorities negotiated and agreed by city stakeholders.
+ ■UN Partners As key development actor within the UN system, UNDP is committed to working with sister UN agencies to foster a system-wide approach. UNDP and UN-Habitat have already developed a mutually agreed enhanced framework for collaboration to foster synergies of action addressing five key areas:
+ » Support to national urban policies » Innovative financing frameworks » Climate action » Urban resilience » Digital transformation.
+ ■Similarly, UNDP will contribute towards and draw upon advocacy, knowledge and technical expertise under the MCR2030 to network with partners, stakeholders and city administrations to advance action on urban resilience.
+ ■Knowledge networks and academic/technical institutions Advancing urban resilience will require bringing in latest knowledge and expertise to bear on UNDP’s work in this area. There are many academic institutions around the world that could bring valuable expertise and resources to initiatives, including sponsored research projects.
+ ■Private sector and community groups Over the years, the private sector has emerged as the catalyst for investment in urban infrastructure, built environment and services. Their stake in ensuring the resilience of urban areas and inhabitants is key, along with that of community groups like youth, cultural and other representative organizations. UNDP has a strong policy and programmatic experience of working with these stakeholders across thematic teams and especially through its Connecting Business Initiative and the Istanbul International Center for Private Sector in Development.
+More partnerships will need to be revamped and new ones created to deliver on this ambitious new urban resilience strategy. New partnerships may include other agencies in the UN network, such as: (1) UNDRR, which has initiated the second phase of MCR2030; (2) UNCDF, which is supporting post-COVID-19 recovery and economic resilience in cities; and (3) the United Nations Office for 
+Project Services (UNOPS), which has been promoting integrated approaches to infrastructure planning and delivery. Private sector and civil society organizations may also represent potential (see subsection 4.5 below).
+41 Colenbrander et al., 2017
+
+[Page 38]
+Urban Risk Management and Resilience Strategy
+For UNDP to work effectively at scale on urban resilience, it will need to leverage its partnerships to complement its strengths in planning and governance with outside expertise on creating project pipelines and sourcing financial, technical and communications resources, structuring public-private partnerships, monitoring and evaluating performance, and knowledge sharing.
+Beyond the global actors that have a specific urban resilience remit, there are many more whose work has a bearing on urban risk and resilience but who do not use this specific term or move within this epistemic community. 
+Many powerful private actors fall into this category, including global and national property developers, utilities, insurance companies and institutional investors. Given global competition among cities for infrastructure and real estate investment combined with the importance of the built environment for managing or exacerbating risk, they have a valuable role to play in sustainability and innovation. Insurance companies, for example, can provide valuable advice and solutions for dealing with disaster and climate risk. They are also key to ensuring that contractual arrangements for urban development throughout the supply chain incorporate the right sustainability and resilience requirements to ensure that the right outcomes are achieved (i.e. that wellmeaning intentions at a strategy level are not lost in the practical detail). 
+Such contractual arrangements are key in upholding minimum standards for the built environment.
+Private sector organizations have fundamentally different incentives and ways of working to the UN or government agencies. Moreover, larger private sector actors may be less present (though no less sought after by policymakers) in lower income and smaller urban centres, where much development is informal. 
+It may also be valid to consider linkages – direct or indirect – to the many small private firms that are involved in creating and maintaining urban environments. 
+UNDP can enable and mediate partnerships between urban governments and private sector firms and investors (a focus of Strategic Priority 2), in particular by supporting country offices to convene spaces where these private sector actors engage substantively with social movements, NGOs and municipal staff. 
+UNDP’s new private sector strategy can be used to guide such interactions.
+4.2 
+Working with country offices
+Engaging on the urban resilience agenda requires a shift in the way UNDP’s practice areas or the Global Policy Network engages with regional teams and country offices. At the global level, teams will need to come together to make three clear offers on urban resilience to regional bureaus and country offices, and to establish who is responsible, accountable, consulted and informed in implementing the strategy:
+1. To help drive common standards on urban resilience policy and practice
+
+[Page 39]
+Urban resilience delivery enablers
+Section 4
+2. To provide a joined-up offer of technical and programmatic support on request
+3. To facilitate the systematic and organic exchange of best practice and knowledge in urban resilience.
+The challenge is to establish consistent and common standards and make a joint programmatic offer, dismantling some of the siloes that inevitably emerge in an organization working across so many development issues and geographies. This will be achieved by establishing:
+ ■An adopted checklist, framework or guidance derived from the existing relevant policy and practice standards on urban resilience (such as the 
+MCR2030 campaign and the ISO standard on Urban Resilience ISO/TR 
+22370:2020) that country offices can refer to as they design and implement programmes and projects. Some options are summarized and evaluated in 
+Cao et al. (2021).
+ ■A menu of interlinked technical assistance options available from the regional and global practice team that can be provided to country offices on demand. This menu of options should be collectively developed by a cross-cutting group with representatives at global and regional levels (see 
+Task Force description below) and consulted on and tested with frontrunning country offices before being circulated more widely. The key to making this work will be collective ownership through a community of practice or a ‘Squad’ that consists of people who have an interest in and passion for working on urban resilience issues.
+The policy checklist and menu of options should spell out the clear links between urban resilience and the SDGs to encourage broad-based uptake of the same by UNDP country offices.
+4.3 
+Country offices working with new partners at national and local level
+Cities comprise many interlinked physical systems (buildings, power, industry, transport, water, waste, and information and communications technology), social and economic systems, and ecological systems. Some are specific to urban locations (typically municipal revenues or metropolitan transport), while others exist at different scales (housing associations, banking sectors, international climate agreements). All these exist within environmental systems, such as water catchments and climatic zones, which often go beyond urban boundaries. These interconnections and interdependencies across scales and sectors influence the risks and vulnerabilities of a city, and this has implications for UNDP’s country offices’ work as they seek to enhance urban resilience.
+Long-term effective urban risk governance requires country offices to link the global, national, metropolitan and local scales and to engage a broad network of stakeholders whose decisions and actions can have a strong bearing on risk and vulnerabilities. Municipal governments, real estate agencies, public and private utility companies, NGOs, social movements, financiers and reinsurers, property developers, urban service firms (architects, engineers, planners),
+
+[Page 40]
+Urban Risk Management and Resilience Strategy
+Cross-practice Urban Resilience Task Team
+Given the cross-practice relevance of the urban resilience agenda for 
+UNDP, with different thematic teams well-positioned to address different aspects, an integrated and demand-driven approach should be pursued. 
+This would provide contextual solutions to risk management, urban planning and development, and resilience building. One way to respond to potential demand more effectively would be to create a cross-practice 
+Urban Resilience Task Team drawn from across practice areas/thematic teams including representation from regional teams to help reflect their experience to inform global policy and programmatic approach.
+Without an additional institutional structure, such a task team could help coordinate, harmonize and mobilize technical, policy and programmatic support that could be made available to regional and country teams as required. This would include supporting country offices to develop programmes and projects that address the resilience-building needs articulated by national, sub-national or city authorities (for example, support to the Lao People’s Democratic Republic country office was provided by global and regional teams to develop an urban resilience project and mobilize funding). The task team could also help mobilize resources by facilitating linkages with potential technical and resource support from expertise available within UNDP as well as from development partners and stakeholders.
+
+[Page 41]
+Urban resilience delivery enablers
+Section 4
+The task team would be responsible for linking demand from country offices to relevant expertise, analytical and planning tools, and technology and innovation being generated throughout UNDP, the wider UN family and other international networks, organizations and actors working on urban resilience. It could also proactively disseminate relevant resources and tools relating to urban resilience to regional bureaus and country offices.
+Finally, in consultation and cooperation with the Inclusive Growth 
+Team’s Urban Policy Cluster and others, the proposed task team would proactively foster systematic and organic learning about urban resilience across UNDP. This can include: facilitating knowledge transfer among 
+UNDP country officers, with a particular emphasis on regional and south– south learning; and the dissemination of resources and events such as webinars or brown bag lunches for UNDP staff, bringing in international partners where they can add value. The existing City-to-City Network platform could be augmented and organized to address informationsharing and knowledge-networking needs. This cross-fertilization of ideas would help ensure continuous improvement in the approach to building sustainable urban resilience.
+
+[Page 42]
+Urban Risk Management and Resilience Strategy and science and technology institutes all have a stake in the diverse risks and opportunities facing urban dwellers, firms and infrastructure. These are the true enablers of action internationally and locally, and they will need to be engaged at each of these levels. Successfully convening or engaging diverse actors is important to build a shared understanding of vulnerability and resilience for sustained outcomes over timelines beyond the shorter political or project cycles. It can also inject political momentum and new capabilities that would allow UNDP to support urban governments in anticipating and preparing for a wider range of threats and would help them articulate these in risk-informed urban development agendas. This engagement can be coordinated through country offices working with the global policy teams via the Urban Resilience 
+Task Team. A broad network also equips UNDP to respond flexibly to changes in the external political and economic environment.
+4.4 
+Adopting area-based approaches (with cross-collaboration)
+To ensure UNDP works in an integrated manner on urban issues and in urban areas, a concerted effort across the organization is needed to adopt a spatial lens as well as a sectoral lens. This shift can also be described as adopting an ‘area-based approach’ to complement UNDP’s existing issues-based approach.
+Area-based approaches42 are considered appropriate when residents in a particular geographical setting face complex, inter-related and multisectoral needs that are not being adequately addressed through top-down, sectorally driven and targeted interventions. Addressing complex and systemic risks in rapidly expanding urban areas is a challenge and requires support that strengthens environmental, social, economic, physical/infrastructure systems concurrently and in a concerted manner. Similarly, the prevalence of inter-connected and mutually reinforcing risks in urban contexts calls for engagement across risk typologies; addressing only one type of risk can tend to elevate the others while diluting the mitigation efforts on ongoing ones. In such a context, addressing all typologies of risks and bringing in all dimensions of resilience building becomes essential.
+An area-based approach will require different thematic teams and practice areas to work in tandem on different aspects of the same problem, leveraging and combining their thematic expertise. This provides a more comprehensive portfolio approach to addressing risks arising in cities given their ‘complex system’ characteristics.
+The approach could draw on successful experiences from different regions and country offices as well as the cross-team approaches of flagship UNDP 
+42 The increasing application of area-based approaches to urban development and risk management builds on experiences of urban and regional planners working on community renewal through ‘area-based initiatives’ in poor and vulnerable locations since the 1960s and 1970s. This approach gained further traction in the 2000s for responding to humanitarian crises in urban areas (Urban Settlements Working Group, 2019).
+
+[Page 43]
+Urban resilience delivery enablers
+Section 4 initiatives like the Climate Promise and others. The existing Integrated Urban 
+Resilience Framework (IURF) developed by the Asia Pacific Regional Hub, where support requests to the regional office leads to initial dialogues with local governments and public-private stakeholders, illustrates the approach. 
+These dialogues are supported by different thematic teams in UNDP to understand issues pertaining to the geographic area beyond the immediate issues raised in the support request. This process ensures that a subsequent diagnostic step considers multiple, relevant types of risks pertaining to the area, breaking away from a siloed approach. Different policy teams can be brought in at different stages for assessments, stakeholder consultation, prioritization, resilience roadmap formulation, implementation and so on. Furthermore, by moving out of silos and sectors, an area-based approach has the potential to strengthen the role of urban institutions by giving them access to data, diverse stakeholders (including community and private actors) in their spatial remit and beyond, and potentially stretching them further than their official mandate and time horizons.
+To operationalize this, the corresponding principles and processes could be included in the checklist of policy and practice standards described in subsection 4.3. It will ensure that members of the most relevant global policy teams will participate in the initial engagements once the support request is communicated from country or regional offices to the focal point.
+4.5 
+Leadership and culture
+Given the dynamic nature of urban areas, UNDP will support developing leadership at city level to champion dedicated investments in and a concerted focus on resilience-building needs. Identifying and creating champions within city entities and stakeholders will help create buy-in for longer term investments in resilience building. This will be complemented by working with communities, local representatives, cultural groups, academics and thought leaders to bring about a cultural and behavioural shift in attitudes and approaches towards urban spaces and services. Effective use of social media and influencers will be promoted to communicate messages and ideas to bring about the desired change in perceptions, thinking and behaviour at all levels. Ideating exercises with students and change catalysts will be organized to re-imagine urban spaces and their functionality, keeping in mind peculiar contextual needs. This will help to institutionalize as well as internalize the imperatives of an ‘all hands on deck’ approach to meeting urban resilience and sustainability-building priorities.
+
+[Page 44]
+Urban Risk Management and Resilience Strategy
+UNDP can deploy a range of services to advance the five priority areas of urban resilience and risk management strategy. This section describes the kinds of activities that UNDP can engage in to achieve its urban resilience goal. These are classified into three modalities of support below, before some examples of each are offered.
+5.1 
+Modalities of support
+Modalities are types of activities or ‘inputs’ that UNDP can offer in line with its mission to strengthen the capacity of small and medium-sized cities to manage their development and reduce risks, in order to create more equal urban societies. The modalities are flexible and should be tailored to the context, the priorities that emerge from risk assessments, and demand from diverse stakeholders for effective implementation.
+Application of knowledge and data
+Understanding risk in an integrated way is essential for resilient urban planning and development, especially in small cities where capacities to deal with urban resilience are reduced (Strategic Priority 1). Analysing the socio-economic, physical and ecological systems and how they are – or could be – affected by shocks originating within city limits and beyond, and helping city government authorities and their partners (including private enterprises) identify how vulnerability, exposure and risk interact, can improve development outcomes. 
+Diagnostics, evaluations and assessments, such as the ones promoted in the IURF, are all tools and frameworks that can be applied in small cities to analyse risks, with appropriate, sustained support in their application. 
+Capacity development on risk analysis in small cities could have huge benefits, especially for marginalised communities (Strategic Priority 3) because a lack of data – i.e. at an appropriate scale, operational at the city-level and covering marginalised geographies and groups – hampers risk-informed planning and investment in cities.
+UNDP has not yet put in place a data provision offer for cities. But the core support services of the IURF gather and use data, while through its partnership with UN-Habitat, UNDP can support data collection needed for planning via the CityRAP tool. This Strategic Priority can also be served by partnerships with organisations of low-income groups (to capture their data and perspectives) or 
+5. Augmenting urban resilience
+
+[Page 45]
+Augmenting urban resilience support
+Section 5 the collective commissioning and review of data by diverse stakeholders (to strengthen urban governance and visioning) for delivering on Strategic Priority 
+4. Furthermore, UNDP has committed to support the development of quality data, tapping into technological and social innovation (see UNDP Issues Brief on Urban Climate Resilience, 2020), and this would directly feed into Strategic 
+Priority 5. Beyond UNDP, a few large-scale projects focus specifically on data provision for cities from different angles. For example, the UN-Habitat Global 
+Urban Observatory Urban Indicators Database gathers a multi-dimensional dataset (see other examples in Cao et al., 2021). UNDP could build on these initiatives acting as a knowledge manager to identify for cities what data is available and its caveats and uses, given the fragmented data platform landscape.
+Dialogue facilitation
+Support with aligning different stakeholder views and interests for shared buy-in and collective action is a critical offer UNDP can make. This will require effective leadership and a culture in place that promotes shared priorities and values across stakeholders to foster change. Brokering agendas and seeking alignment between different stakeholder groups is far-reaching and multifaceted. It encompasses the inclusion of marginalised groups in participatory approaches to project planning and implementation, but also supporting city government authorities in accessing finance opportunities and engaging local businesses and contractors to support implementation. While perhaps speaking most intuitively to Strategic Priority 2 (Enhance urban governance), dialogues are a building block to effective, inclusive and risk-informed local governance, and accordingly to advancing all Strategic Priorities. For example, local governance and risk-informed development support services rely on dialogue and participation of a broad set of actors. In a similar way, UNDP’s committed offer on horizontal and vertical integration of resilience policies and de-risking city resilience investments will rely on having a strong dialogue mechanism (see UNDP Issues Brief on Urban Climate Resilience, 2020).
+UNDP is set to deliver on convening and creating partnerships to strengthen urban risk governance and to support financing frameworks and city investment facilities, as part of the UNDP-UN Habitat Enhanced Collaborative 
+Framework 2020. This urban resilience strategy reinforces that framework. 
+Implementation of this strategy will also require public-private partnerships to deliver on Strategic Priority 5, the adoption of digital technologies and innovations. These will need to be built on engagement and dialogue between a wide range of actors, and can draw on efforts under the MCR2030 initiative, which relies on cross-sectoral partnerships, peer learning and top-down/ bottom-up dialogue with communities to improve urban resilience.
+Ensuring inclusive dialogue that brings in community participation and active involvement will be key in sustaining resilience strengthening initiatives.
+
+[Page 46]
+Urban Risk Management and Resilience Strategy
+UNDP is well placed to facilitate inclusive and transparent dialogues on the trade-offs between different policies and investments, as well as to bring to the surface areas where stakeholders may be discounting certain risks, or where risk appetite and tolerance may diverge between stakeholders (for example, between communities and other stakeholders). These dialogues can help to strengthen accountabilities across the urban ecosystem, which furthers not only the goal of urban resilience but the fundamental premise of the SDGs: to leave no one behind.
+Learning and accountability
+Urban resilience now has a decade of interventions under its belt, yet projects have given much greater attention to diagnostics and planning, and far less on implementation and outcomes against anticipated benefits. As a result, there is limited understanding of what works and what does not, in what context and who for. Horizontal (peer-to-peer) and vertical (local to national to global) learning would improve understanding on implementation effectiveness and associated governance issues as per Strategic Priority 2. This kind of exchange is critical if UNDP is to leverage learning from pilot projects and small-scale initiatives for accelerating and scaling ambitions on urban resilience.43 In the drive to harness digital transformation and given the new challenges associated with it, shared learning between stakeholders can help enhance local governance and generate urban transformations (Strategic Priority 5). 
+Horizontal learning can be promoted through site visits, regional fora and other dialogue platforms such as the City2City peer learning network facilitated by UNDP to share knowledge on inclusive solutions to urban challenges. 
+Vertical learning can take place through local and national results reporting mechanisms (dashboards, town hall meetings and other formats to advance learning and accountability). UNDP may not work directly at that scale but should be able to provide advice and tools to city governments to facilitate that process and improve knowledge of what works in building urban resilience (Strategic Priority 4).
+Interlinkages
+All three modalities have evident interlinkages because they can inform and build on each other in a sequential or parallel approach, depending on the demand for UNDP services. For example, the ‘application of knowledge and data’ has a direct end in itself — responding to deficits in resilience planning, but can also be tapped into as needed for the facilitation of learning and dialogue e.g. concerning what data other technical assistance projects considered (Learning and accountability modality); and who was engaged in the design and the implementation phase (Dialogue facilitation modality). 
+43 Brief on Urban Climate Resilience, 2020
+
+[Page 47]
+Augmenting urban resilience support
+Section 5
+Capturing this knowledge can input back into the ‘Knowledge and data’ modality.
+Similarly, articulating what makes effective resilience outcomes (Learning and accountability modality) can input back into the ‘Knowledge and data’ modality. For example, SDI’s Know your city campaign in informal settlements is underpinned by this notion of sharing what works, who for and where, and sharing it across the SDI network. This type of learning can feed into the ‘Knowledge and data’ and ‘Dialogue facilitation’ modalities (see annex to this strategy). The modalities underpin the delivery of the Strategic Priorities and support overcoming barriers to progress on urban resilience. Depending on context, one or all modalities might be set up to respond to relevant needs and requirements.
+Because all modalities feed into each Strategic Priority, it can be argued that any Strategic Priority cannot be successfully delivered without contextual knowledge, learning from other experiences and sectors, and convening dialogues.
+5.2 
+Examples of programmatic interventions
+Modalities are different dimensions that cut across the delivery of programmatic interventions. An intervention may rely more on one modality but, to some degree, it is expected all modalities would come into play, perhaps at different stage of the intervention cycle and/or in an iterative way. The selected proposed UNDP interventions in Interventions for urban resilience on page 45 are classified according to the modality they rely on most. Particularly relevant Strategic Priorities are also highlighted.
+
+[Page 48]
+Urban Risk Management and Resilience Strategy
+Figure 3. Linking modalities, strategic priorities and UNDP’s vision
+MODALITIES
+STRATEGIC PRIORITIES
+VISION
+Application of knowledge and data
+Modalities input into the strategic priorities
+SP1. Focus on neglected geographies where greatest capacity gaps exist
+Strategic priorities enable UNDP’s vision
+A future where small and mediumsized cities are safe, inclusive and prosperous places to live and work
+SP2. Enhance urban governance through the engagement of diverse interest groups to address existing and prevent new risks
+SP3. Target the needs of marginalized communities for more equitable urban resilience
+Dialogue facilitation
+SP4. Strengthen riskinformed development planning and investment to protect development gains
+SP5. Support adoption of digital technologies and innovations to secure resilient urban futures
+Learning and accountability
+
+[Page 49]
+Augmenting urban resilience support
+Section 5
+Interventions for urban resilience
+Selected examples from the DRT team
+Application of knowledge and data
+Risk analysis Identify and assess at-risk and hazard-prone (multi-risk perspective) vulnerable areas and segments of society with special reference to vulnerabilities related to gender, disability, inequality, marginalization, leaving no one behind, poverty, social exclusion, etc. (SP1; SP3; SP5)
+Data Establish and/or facilitate access to city-level multi-hazard risk data, information and analysis through establishment of comprehensive databases with close interface with national-level databases. (SP4; SP2)
+Dialogue facilitation » Support design and operationalization of city-level emergency operation centres addressing all typologies of risks and hazards including their standard operating procedures, roles and responsibilities and other operational processes. (SP4; SP2) » Establish/strengthen city-level coordination platforms/mechanisms to foster cross-sectoral and multi-stakeholder engagement and participation. (SP2; SP3) » Foster access to greater public and private finance for risk management and resilience building along the lines of climate finance instruments. (SPSP4; SP5)
+Learning and accountability » Foster understanding of multi-dimensional aspects of systemic resilience at city level including socio-economic, political and governance resilience. (SP5; SP2) » Promote better understanding of risk-development nexus. (SP1; SP5) » Harness the potential of digital platforms to assess and plot at-risk areas and populations along with typologies, seasonality and other characteristics of risks. (SP5; SP4)
+
+[Page 50]
+Urban Risk Management and Resilience Strategy
+Aldrich, D.P. and Smith, R. (2015) Social Capital and Resilience: Informal 
+Policy Brief for the World Humanitarian Summit. [Informal Policy Brief for the World Humanitarian Summit] Available at: http://daldrich.weebly.com/ uploads/1/5/5/0/15507740/aldrich_and_smith_social_capital_whs_policy_ brief_version_1.1.pdf [Accessed 20 Aug. 2021].
+Alkire, S., Nogales, R., Quinn, N. N. and Suppa, N. (2021) ‘Global multidimensional poverty and COVID-19: A decade of progress at risk?’, OPHI 
+Research in Progress 61a, Oxford Poverty and Human Development Initiative, 
+University of Oxford.
+Aram, F. et al (2019) ‘Urban green space cooling effect in cities’, Heliyon, 5(4). doi: 10.1016/j.heliyon.2019.e01339.
+arup.com/perspectives/publications/research/section/city-resilience-index [Accessed 27 Dec. 2020].
+Bai, X. et al. (2016) ‘Defining and advancing a systems approach for sustainable cities’, Current Opinion in Environmental Sustainability, 23, pp.69–78. doi: 10.1016/j.cosust.2016.11.010.
+Buhigas San Jose, M. and et al (2017) The Implementation of the Principles of Planned Urbanization: a UN-Habitat approach to sustainable urban development. Working Paper. Nairobi, Kenya: UN-Habitat, p. 31. Available at: https://unhabitat.org/sites/default/files/documents/2019-05/the_ implementation_of_the_principles_of_planned_urbanization_0.pdf (Accessed: 17 May 2021).
+Cao, Y., Wilkinson, E., Pettinotti, L., Colenbrander, S. and Lovell, E. A Decade of Urban Resilience: An Analytical Review, UNDP, (2021). 
+Chant, S. (2013) Cities through a “gender lens”: a golden “urban age” for women in the global South? Environment and Urbanization. 25(1) 9–29
+City2City network (2020) ‘City2City website’, United Nations Development 
+Programme., https://city2city.network/home
+References
+
+[Page 51]
+REFERENCES
+Colenbrander, S., Dodman, D. and Mitlin, D. (2017) Using climate finance to advance climate justice: the politics and practice of channelling resources to the local level. Climate Policy. 18(7) 1–14
+Concern Worldwide & USAID (2014) Indicator development for surveillance of urban emergencies-IDSUE. Year 4 annual research report. Concern 
+Worldwide, Dublin
+Geldin, S. (2018) Advancing urban adaptation where it counts: reshaping unequal knowledge and resource diffusion in networked Indonesian cities. 
+Environment and Urbanization. 31(1) 13–32
+Gencer, E., Folorunsho, R., Linkin , M. , Wang , X., Natenzon, C. E. ,Wajih, S., 
+Mani, M., Esquivel, M., Ali Ibrahim, S., Tsuneki, H., Castro, R., Leone, M. F., 
+Dilnoor, P., Romero – Lankao, P., Solecki, W., Lin, B. and Panda, A. (2018) 
+Disasters and risk in cities, In C. Rosenzweig, W. D. Solecki, P. Romero – Lankao, 
+S. Mehrotra, S.Dhakal and S. Ali Ibrahim (eds), Climate Change and Cities 
+New York: Cambridge University Press, 61–98.
+Huq, S. et al. (2007) ‘Reducing Risks to Cities from Disasters and Climate 
+Change’, Environment and Urbanization – ENVIRON URBAN, 19, pp. 3–15. doi: 10.1177/0956247807078058.
+Kaufman, G.G. and K.E. Scott (2003) What is systemic risk, and do bank regulators retard or contribute to it? Independent Review 7(3) 371–91.
+Klinke, A. and Renn, O. (2006) “Systemic Risks as Challenge for Policy Making in Risk Governance”, Forum Qualitative Sozialforschung 7(1).
+Lamb, W.F., Creutzig, F., Callaghan, M.W. and Minx, J.C. (2019) Learning about urban climate solutions from case studies. Nature Climate Change. 9 279–287
+Meerow, S., Newell, J.P. and Stults, M., (2016) Defining urban resilience: A review. Landscape and Urban Planning, 147, pp.38–49.
+OECD and EC (2020) Cities in the World – A new perspective on urbanisation. oecd.org/regional/regional-statistics/Cities-in-the-World-Policy-Highlights.pdf (Accessed: 9 March 2021).
+
+[Page 52]
+STRATEGY PAPER
+Urban Risk Management and Resilience Strategy worldcitiestool.org (Accessed: 18 March 2021).
+Orr, D. (2014) “Systems Thinking and the Future of Cities”, Solutions 5(1), 54–61.
+Putnam, R. (2000) Bowling Alone: The Collapse and Revival of American 
+Community. New York: Simon & Schuster.
+Raworth, K. (2017) Doughnut Economics: Seven Ways to Think Like a 
+21st-Century Economist. Random House.
+Raworth, K. (2020) Introducing the Amsterdam City Doughnut | Kate Raworth. doughnut/ [Accessed 29 Jan. 2021].
+Resilient Cities (2019) “What is urban resilience?” medium.com. Available at: https://medium.com/100-resilient-cities/what-is-urban-resilience-4d4300fd783e
+Satterthwaite, D. (2016) “Missing the Millennium Development Goal targets for water and sanitation in urban areas”, Environment and Urbanization 28(1), 
+99–118.
+Satterthwaite D, Archer D, Colenbrander S, Dodman D, Hardoy J, Mitlin D, 
+Patel S. (2020) “Building Resilience to Climate Change in Informal Settlements”, 
+One Earth 2(2), 143-156
+Turok I., McGranahan G. (2013) “Urbanization and economic growth: the arguments and evidence for Africa and Asia” Environment and Urbanization 
+25(2) 465–482
+Tanner, T., S. Surminski, E. Wilkinson, R. Reid, J. Rentschler, S. Rajput (2015) “The Triple Dividend of Resilience: Realising development goals through the multiple benefits of disaster risk management”, London: Overseas 
+Development Institute.
+UNDP (2020) Integrated urban resilience framework: an applied guide on 
+UNDP integrated urban resilience (iur) support. United Nations Development 
+Programme.
+
+[Page 53]
+REFERENCES
+UN-Habitat (2020) City RAP Tool: City Resilience Action Planning Tool. [online] 
+Available at: http://dimsur.org/wp-content/uploads/2020/09/CityRAP-Tool_
+Booklet-2020_Sep.pdf
+Urban Settlements Working Group (2019) Area-based approaches in urban settlements: compendium of case studies. Global Shelter Cluster.
+Wilkinson, E. (2012) Transforming disaster risk management: a political economy approach. ODI Background Paper.
+World Bank (2019) Building Urban Resilience: An Evaluation of the World 
+Bank Group’s Evolving Experience (2007–17). Washington, D.C.: Independent 
+Evaluation Group.
+World Bank Group (2021) ‘Resilience Rating System: A Methodology for Building and Tracking Resilience to Climate Change’. World Bank, 
+Washington, DC. © World Bank. https://openknowledge.worldbank.org/ handle/10986/35039 License: CC BY 3.0 IGO.
+Ziervogel G., Pelling M., Cartwright A., Chu E., Deshpande T., Harris L., Hyams 
+K., Kaunda J., Klaus B., Michael K., Pasquini L., Pharaoh R., Rodina L., Scott 
+D., Zweig P. (2017) “Inserting rights and justice into urban resilience: a focus on everyday risk”, Environment and Urbanization 29(1), 123–138.
+
+[Page 54]
+Urban Risk Management and Resilience Strategy
+Cover photos: UNDP
+Acknowledgements: The preparation of the Urban Risk Management and 
+Resilience Strategy Paper was led by Rajeev Issar, Policy Specialist, Disaster and Climate Risk Governance, DRT, Crisis Bureau under the overall supervision and day-to-day guidance of Ronald Jackson, Head, DRT and Angelika Planitz, 
+Team Leader, DRR who helped develop the overall methodological and analytical framework.
+The analytical review of urban resilience policies and frameworks, programmes and initiatives, tools and methodologies informing the formulation of the strategy paper was supported by the ODI team comprising Emily Wilkinson, 
+Yue Cao, Emma Lovell, Sarah Colenbrander and Laetitia Pettinoti. The literature review was complemented by an extensive consultative process involving 
+United Nations entities, international organizations, civil society, International financial institutions, private sector, academia and key development partners.
+Special acknowledgements are also due to the eminent panel of experts — 
+Prof. Bharat Dahiya, Manisha Gulati, Tehmina Akhtar, Kamal Kishore, Gareth 
+Byatt, Soojeong Meong, Renata Rubian, Amita Gill and Zoe Pelter for their valuable technical advice throughout the process and for peer reviewing the strategy paper. Special thanks are due to Prof. Bharat Dahiya for supporting the framing of the analytical framework, valuable insights on urban systems and governance, supporting the consultative process, and bringing in the requisite background research and futuristic vision to help shape the strategic vision and priorities.
+From UNDP, Sanny Jegillos, Armen Grigoryan, Stanislav Kim, Rajesh Sharma, 
+Walid Ali, Jeannette Fernandez, Rita Missal, Ioana Creitaru, Paul Conrad, 
+Samuel Akera, Muhibuddin Usamah, Ruben Vargas, Laura Hammett, Patrick 
+Doung, Asami Okahashi, Khurshid Alam and Moortaza Jiwanji pro-actively engaged with the process and provided practical insights to inform the deliberations and the strategy formulation process.
+Contact information
+Ronald Jackson, Head, Disaster Risk Reduction and Recovery for Building 
+Resilience Team » ronald.jackson@undp.org
+Angelika Planitz, Team Leader, Disaster Risk Reduction » angelika.planitz@undp.org
+Rajeev Issar, Policy Specialist, Disaster and Climate Risk Governance, DRT » rajeev.issar@undp.org

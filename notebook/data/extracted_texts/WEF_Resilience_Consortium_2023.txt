@@ -1,0 +1,1185 @@
+[Page 1]
+Seizing the Momentum to Build Resilience for a Future of Sustainable 
+Inclusive Growth
+W H I T E P A P E R
+J A N U A R Y 2 0 2 3
+In collaboration with 
+McKinsey & Company
+
+[Page 2]
+Foreword
+Executive summary
+Introduction
+1 Six resilience areas: act now and invest in the future
+1.1 Geopolitical resilience
+1.2 Climate, food and energy resilience
+1.3 Trade and supply-chain resilience
+1.4 People, education and organizational resilience
+1.5 Healthcare resilience
+1.6 Digital and technological resilience
+2 Four resilience enablers
+2.1 New resilience leadership and organizational capabilities
+2.2 Resilience funding
+2.3 Sustainable economic development
+2.4 Public-private collaboration
+Conclusion: A call to action
+Resilience Consortium
+Contributors
+Endnotes
+Cover: bazilfoto, Getty Images – Inside: Getty Images, Shutterstock reserved. No part of this publication may be reproduced or transmitted in any form or by any means, including photocopying and recording, or by any information storage and retrieval system.
+Disclaimer
+This document is published by the World 
+Economic Forum as a contribution to a project, insight area or interaction. The findings, interpretations and conclusions expressed herein are a result of a collaborative process facilitated and endorsed by the World Economic Forum but whose results do not necessarily represent the views of the World Economic 
+Forum, nor the entirety of its Members, 
+Partners or other stakeholders.
+Seizing the Momentum to Build Resilience for a Future of Sustainable Inclusive Growth
+
+[Page 3]
+Foreword
+Facing a world of continuous, overlapping disruptions, leaders are recognizing resilience as the imperative condition for securing a sustainable, inclusive future. At the World Economic Forum 
+Annual Meeting in Davos in May 2022, government, business and non-profit leaders came together resolutely around this theme. Amid severe climate events, a still-smouldering pandemic and a tragic war in Europe, we launched the Resilience 
+Consortium. The consortium is a catalyst for coordinating public and private-sector efforts to build and strengthen resilience. Leading organizations have joined the consortium steering committee, which is supported by the World 
+Economic Forum and McKinsey & Company.
+In our earlier paper, Resilience for Sustainable, 
+Inclusive Growth, we defined the strategic resilience areas, including climate, food, supply chains, technology, organization, education, and healthcare. All are subject to continual change and disruption. We must manage them as never before if we are to grow and prosper sustainably. 
+The Resilience Consortium emphasizes that resilience building must be accomplished jointly and in a coordinated effort by the public and private sectors. The coordination must extend as well across the resilience areas. These have become deeply interconnected in ways that are not always apparent until crisis strikes. We must therefore explore the interconnections and the vulnerabilities they might hide to ensure that efforts in one resilience area are aligned with the goals in the others and accelerate progress towards them. 
+Finally, the long-term view must prevail. Leaders must avoid being overwhelmed by immediate issues. They need to protect resources devoted to long-term, sustainable growth goals.
+The consortium and its members have worked together with numerous Forum initiatives. Based on the insights from this work, we are now able to present the first holistic resilience agenda. Our resilience agenda identifies necessary actions and proposes deeper collaboration across the strategic resilience areas. We also discuss how organizations can build resilience “muscle” – the enablers needed to endure crises and pivot into growth. In our previous paper, we estimated that the cost of failure to build resilience is between 1% and 5% of annual global GDP growth. Leading research presented in this paper shows that in the coming decades, action or inaction on these resilience areas will affect gross domestic product (GDP) by plus or minus percentages that translate into trillions of dollars. When measured in terms of the quality of human life – or its very preservation – the values are much higher. 
+We thank all Resilience Consortium members and 
+Forum initiative leaders for their work and their invaluable contributions to this second report. We hope it provides helpful guidance and insight to public and private-sector leaders as we collectively think through the future directions of organized life on our planet. We look forward to fruitful discussions in our January 2023 meeting in Davos.
+Børge Brende 
+President, 
+World Economic Forum
+Seizing the Momentum to Build Resilience for a Future of Sustainable Inclusive Growth
+January 2023
+Bob Sternfels 
+Global Managing Partner, 
+McKinsey & Company
+Seizing the Momentum to Build Resilience for a Future of Sustainable Inclusive Growth
+
+[Page 4]
+Executive summary
+In the past year, leaders of public and privatesector organizations have been confronted with a lifetime’s worth of disruption and crises. They are now recognizing that societies and institutions must function in an environment defined by continuous natural and man-made disruptions. The disruptions, furthermore, cannot be adequately addressed in isolation – they are all interconnected. 
+It is vital to strengthen the resilience of organizations beyond a survival capacity to enable long-term, sustainable and inclusive growth. 
+Resilience is the ability to deal with adversity, withstand shocks, and continuously adapt and accelerate as disruptions and crises arise. The time to act on this understanding has come. The cost of inaction is too high. Where to begin?
+Enter the “resilience agenda”. This is a complex effort by the Resilience Consortium – ministers, executives and heads of international organizations – working with ongoing World Economic Forum initiatives. It is the first serious programme to coordinate long-term solutions throughout the broad fabric of the disrupted world.
+Six resilience action areas
+The agenda addresses six themes, which become the areas of action. All are interconnected and inextricable (see Figure 1).
+The linkages and the vulnerabilities within the themes must be explored so that actions in one area are aligned with the goals in the others and even accelerate progress towards them.
+Six resilience action areas
+F I G U R E 1
+Source: World Economic Forum; 
+McKinsey & Company 
+Geopolitical resilience – 
+Adapt business strategies to act ﬂexibly in different geopolitical spheres – 
+Enhance foresight capabilities and scenario planning – 
+Collaborate with policy-makers based on a deeper understanding of economic and geopolitical interdependencies
+Climate, food and energy resilience – 
+Accelerate energy transition towards renewables on all fronts – 
+Work on transitional solutions like blue hydrogen and carbon capture, use and storage (CCUS) – 
+Decarbonize by preserving and recuperating the natural environment – 
+Provide incentives for transition funding and decarbonization – 
+Prioritize food and basic needs in the transition for inclusive growth
+Trade and supply chain resilience – 
+Understand supply chain dependencies – 
+Reduce geopolitical, technological, and single-sourcing vulnerabilities – 
+Preserve beneﬁcial supplier relationships and prosperous global interconnections – 
+Spot over-the-horizon risks with early sensing and scenario planning – 
+Provide fair trade opportunities for smaller, developing economies
+People, education and organizational resilience – 
+Cultivate ﬂexible operating models and adaptable leadership, capable of embracing uncertainty – 
+Decentralize decision-making, supported by self-sufﬁcient teams – 
+Focus on long-term talent development; upskill and reskill existing workforce – 
+Invest in education, to reduce growing talent gap and social inequality
+Healthcare resilience – 
+Prioritize preventative and holistic health – 
+Increase capacity and productivity of the healthcare system – 
+Enhance resistance against future pandemics and health crises – 
+Ensure inclusion and equitable care
+Digitial and technological resilience – 
+Increased operational expenditure – 
+Additional capital expenditure for demonstration pilots and industrial deployment – 
+Perception that technologies are too expensive – 
+Limited access to funding – 
+Lack of awareness of technologies and their potential ﬁnancial beneﬁts
+Seizing the Momentum to Build Resilience for a Future of Sustainable Inclusive Growth
+
+[Page 5]
+Four resilience enablers
+The actions within the themes of the resilience agenda need four vital enablers: –
+Leadership and capabilities. A new resilience leadership mindset that leans into uncertainty – extending foresight – is needed to steer the resilience agenda. –
+Financing. Public institutions alone cannot and should not provide universal funding; private capital will be the key driver for effective capital allocation. –
+Sustainable economic development. 
+Housing, healthcare and energy can be made more available and affordable; a good investment environment is needed to support youth education, employment, technology and small business.
+ –
+Public-private sector collaboration. The underdeveloped potential of public-private sector collaboration to strengthen resilience must be realized.
+Seizing the momentum to drive the resilience agenda
+Many leaders and institutions are thinking about a longer-term resilience strategy and the need for a resilience muscle to carry it through. Governments are developing resilience agendas, often centred around climate risk and economic topics. Company leaders are rethinking strategy and traditional riskmanagement practices. The resilience agenda also includes new foresight and adaptation capabilities for geopolitical, supply-chain and energy risks, as well as strategic risks.
+To strengthen the momentum for resilience, governmental and company leaders still need to significantly strengthen their resilience capabilities by: 
+1. Focusing on long-term resilience, looking beyond necessary short-term actions. The long-term structural shifts will provide the biggest growth opportunities.
+2. Developing a more proactive, holistic resilience view. A purely reactive stance will neither mitigate risks nor allow organizations to best capture long-term opportunities.
+3. Achieving progress through international public-private collaboration. The long-term investments needed will require full alignment between public policies and private sector commitments.
+The value at stake in the resilience agenda for long-term growth is enormous. Leading research presented in this paper shows that in the coming decades, action or inaction on these resilience areas will affect gross domestic product (GDP) by plus or minus percentages that translate into trillions of dollars. When measured in terms of the quality of human life – or its very preservation – the values are much higher.
+Seizing the Momentum to Build Resilience for a Future of Sustainable Inclusive Growth
+
+[Page 6]
+Introduction
+Resilience is the key challenge in a world of continuous disruption and rising uncertainty.
+A year ago, global economic prospects were brightening. Industrial output was expanding, and forward indicators in both developed and emerging economies were broadly positive. Yet, the economic cycle in 2020-2021 had been profoundly shaped by the COVID-19 pandemic, with its stimulus spending, mobility restrictions and supply disruptions. Overall demand was strong a year ago, but economists warned that commodity prices were historically high and inflation was beginning to climb.
+Since then, the world has moved from a demand slump to supply-driven inflation at 40-year highs. Oil prices collapsed early in the COVID-19 pandemic, then rose above $120 per barrel after the RussiaUkraine war began. A quick recovery from the pandemic shock gave way to recession fears, a tense geopolitical environment, strains on the workforce and labour shortages. The environment in which societies and organizations must function is now defined by series of natural and man-made disruptions whose effects reverberate beyond borders and across sectors. The COVID-19 pandemic began as a public health crisis, putting a severe strain on care facilities, medical equipment providers and health workers. It touched off a global economic crisis that exposed vulnerable networks and triggered policy decisions whose effects will be felt for years to come. One further effect of no small importance, however, was that the pandemic set in motion a massive public-private effort to develop and distribute effective vaccines. Much about that effort can and has been criticized, especially the slow progress made in supplying vaccine doses to poorer countries. Yet, this largely successful collaboration of governments and companies offers a starting point for how societies and organizations can go forward in the present maelstrom. 
+The Resilience Consortium brings together ministers, chief executives and heads of international organizations to accelerate collective action across key resilience themes. It is a crucial mechanism for achieving alignment on long-term objectives – those that will preserve and strengthen the natural environment, societies and organizations so that they may flourish through this century. 
+The consortium draws upon the support of many ongoing Forum initiatives in pursuing an integrated resilience agenda. This complex effort is the first serious effort to coordinate long-term solutions across climate, food and energy, education, healthcare, economic development, trade and supply chains, technology, and finance. To help orient leadership thinking and enable real progress in alignment with these objectives, three key concepts must be recognized:
+1. The resilience agenda is a complex, continuous effort, that will extend through years and decades. Given the level of disruption and the interconnectedness of the issues, current times demand the integrated resilience agenda that this paper is advancing for the first time. The Ukrainian-Russian war has revealed links between supply-chain vulnerabilities, energy security and an affordable energy transition. Technology has to become a growth engine for business as well as providing new answers for better healthcare and a smoother energy transition. Intersectoral links can seemingly be adduced ad infinitum.
+2. The long-term perspective is imperative. 
+Given the current crisis, many governments and companies are naturally focused on finding solutions to immediate problems. However, of equal – or even paramount – importance is a long-term focus. Its importance is glaring in terms of climate risk but extends to the global supply chain, the geopolitical environment, technology, people and education, and healthcare. In addition to climate change, further long-term risks include trends in demographics, data-driven technology, rising energy consumption and behavioural health issues, to name a few.
+3. Progress will only come through international public-private collaboration. 
+Individual governments and companies cannot by themselves resolve the world’s problems or open an individual path to sustained growth. 
+The private and public sectors have never needed each other more to define the long-term parameters of economic growth than they do right now. Given the disrupted world, success can only come from international cooperation and engagement in economic development and ensure sustainable and inclusive growth. 
+This paper lays out the key elements of the resilience agenda and actions that the public and private sectors must undertake to strengthen global resilience. They represent a starting point rather than a checklist of discrete topics and were The cost of inaction is much greater than the cost of investing today.
+Svein Tore Holsether, 
+President and Chief 
+Executive Officer, 
+Yara International
+Seizing the Momentum to Build Resilience for a Future of Sustainable Inclusive Growth
+
+[Page 7]
+developed using two holistic resilience frameworks, one for private-sector and one for public-sector actions. Leaders should use these frameworks to continuously challenge their strategies and organizations (see Figures 5 and 6). 
+Six themes currently dominate the resilience agenda. They are interconnected and inextricable. 
+The value at stake in the resilience agenda for longterm growth is enormous. Leading research shows that resilience themes have short-term and longterm gross domestic product (GDP) impact ranging between -8% and +15% (see Figure 2).
+To prevent damage and capture opportunities, resilience leaders are needed. Only leaders who understand its importance will be able to steer the resilience agenda. They will deliberately seek to secure long-term solutions while managing shortterm issues; they will promote new public-private sector dialogues that can shape a new international environment. They will do these things because they understand that the cost of inaction is already incomparably greater than the cost of actions outlined in the resilience agenda.
+Potential GDP impact across resilience action areas by 2030
+F I G U R E 2
+Resilience theme
+Impact drivers
+Potential GDP impact (%)
+Climate, food and energy 
+Energy cost/shortage impact Ukraine invasion*
+Leveraging of renewable energy sources
+Reversal of climate impact globally and regionally
+Trade and supply chain
+Supply chain issues including Ukraine invasion* 
+People, education and organizational 
+Learning loss due to COVID-19
+Gender employment inequality due to COVID-19
+Advancing gender equality
+-7.2% to +9.4%
+Digital and technological 
+Economic costs of cyber breaches*
+Improving race-based gaps in digital connectivity
+Beneﬁts of AI
+Healthcare
+COVID-19 health effects*
+Impact of air pollution
+Better population health
+Increased workforce productivity
+Eliminating patient harm and unsafe care 
+Funding and economic development 
+Greater ﬁnancial inclusion in developing economies
+5%
+-1.0% to +7.4%
+-7.7%
+-5.0% to + 14.5% 
+-8.0% to +5.6%
+4.0%
+-10%
+-5%
+10%
+15%
+One-time impact
+Cumulative impact at stake by 2030
+* Driver for one-time impact – – – – – – – – – – – – – – –
+Source: Accenture; EY; Global Panel on Agriculture and Food Systems for Nutrition; International Renewable Energy 
+Agency; McKinsey Global Institute; McKinsey & Company; Organisation for Economic Co-operation and Development (OECD); Swiss RE Institute; UNESCO; UNICEF; World Bank; World Economic Forum
+Seizing the Momentum to Build Resilience for a Future of Sustainable Inclusive Growth
+
+[Page 8]
+Six resilience areas: act now and invest in the future
+Seizing the Momentum to Build Resilience for a Future of Sustainable Inclusive Growth
+
+[Page 9]
+Institutions are facing increasing risk from an evolving, more fragmented geopolitical landscape. 
+As global enterprises increasingly experience the impact of more volatile political dynamics, geopolitical risk has climbed to the top of the agenda for CEOs and policy-makers. To navigate geopolitical disruptions better, leadership from the private and public sectors should: 
+Enable the organization to operate with flexibility across geopolitical spheres
+Multinational institutions should adapt strategies and develop the flexibility to reconfigure business models across multiple geopolitical spheres. As one recent example, Ukrainian businesses diversified their supply sources, manufacturing locations, end customers and shipping paths after the attacks in 2014. This diversification gave them a far greater ability to withstand the invasion in 2022. Shifting to greater in-region localization, either by establishing a network of partnerships with companies or driving greater localization in product design, development and production can be challenging for companies that are more used to concentrating operations in one region. 
+However, such local hubs can provide a bulwark against competing trends and make future portfolio decisions easier to navigate. Such localization can extend to financing and talent as well.
+Base market access on coherent values and a global ethos 
+Institutions active in sensitive regions need to know what they stand for and what they are against. Region-specific compacts that fuse risk management and corporate strategy can help clarify an organization’s goals in the region and the rationale and criteria for continued operations there. 
+These decisions usually involve the board, with input from and communication with internal and external stakeholders. 
+Deepen understanding of economic and geopolitical dependencies
+Governments and companies have to remain flexible under conditions of geopolitical uncertainty or change. Future resilient growth will depend on the public-private sector alignment of interests and standards against disequilibrium created by political and economic competition and continuing uncertainty. Governments should lead with a longer-term view on strategic and geopolitical alignment, defining clear parameters for global trade within which companies and industries can act. To support sectors of national strategic importance, policy-makers can set incentives to encourage private-sector investment in R&D, manufacturing and distribution. Policies and standards on sensitive business areas such as trade, intellectual property (IP), R&D, data, and environmental, social and governance (ESG) can shift industry dynamics and affect country-level competitiveness.
+Companies and governments should use scenario planning for geopolitics 
+While many companies use scenario planning at very high levels, boards and management teams can do more to craft detailed, analytical scenarios that clarify concrete future actions for the company – the “so what” and “now what”. In particular, crafting scenarios for highly probable, high-impact threats and developing an agenda of actions for each one is essential. This can only be done correctly when boards allot regular agenda time to understanding material geopolitical developments. 
+Public-private sector cooperation in such scenario planning is essential since their interests are highly interdependent.1 
+Geopolitical resilience
+1.1
+Building geopolitical resilience amid a fragmenting global order.
+At COP26 in 2021, net-zero ambitions introduced new climate considerations for policy-makers and businesses. In the following year, surging inflation and the war in Ukraine raised questions about how to achieve an energy transition that is secure, affordable and clean.
+Energy costs may remain elevated for several years, a trend that will affect the competitiveness of energyintensive sectors and make life even more difficult for vulnerable populations. Indeed, the poorer the family, the greater the share of the household budget must be given over to energy costs.2 As a percentage of global economic output, energy 
+Climate, food, and energy resilience
+1.2
+The transition to net zero includes energy, climate, food and environmental resilience.
+ Geopolitics and short-termism are critical issues that negatively impact all areas of resilience. We need to redouble our efforts to enhance global collaboration and to put people at the heart of the resilience agenda.
+Mohammed Al-Jadaan, 
+Minister of Finance, 
+Saudi Arabia
+Seizing the Momentum to Build Resilience for a Future of Sustainable Inclusive Growth
+
+[Page 10]
+investment since 2015 has been more or less static at 2.2% to 2.6% (the high point in 2019).3 Coupled with insufficiently diversified supply chains as well as scarcity in labour and raw materials essential for the energy transition, static investment is putting the availability and security of energy at risk.
+Food and water security are linked intrinsically to energy availability and climate change. Global food prices increased by an average of 40% in 2022, a year when the United Nations (UN) announced that nearly 830 million people were suffering hunger.4 
+Feeding the population sustainably will require major upgrades to today’s global food system,5 including addressing numerous interlinked issues such as land, energy, health or supply chains.
+Environmental degradation has accelerated, adversely affecting global economic activity. Healthy ecosystems contribute to resilience in the face of rising sea levels, adverse weather events and ocean acidification. Eroding biodiversity is causing harm in numerous ways, not least in agriculture, where 75% of crops depend to some extent on pollinators, whose populations are in decline.6 Research indicates that $700 billion a year is needed to reverse the global biodiversity crisis. Over the next two decades, a nature-positive transition could generate trillions in wealth and hundreds of millions of jobs.7 
+To ensure sustainable and inclusive growth, organizations need a mindset towards the power of “and”; that squares resilience and net-zero commitments. This will mean relying on existing energy assets for a time, though to a diminishing extent, as they are repurposed and increase the share of renewables.8 Measures need to be taken to reduce uncertainty and enable an orderly, affordable and secure transition to a net-zero economy and food security.
+Increase energy independence and sustainability 
+Attaining energy independence and availability requires diversifying energy sources and accelerating the use of renewables and clean power. Organizations should invest in grid electrification and acquire needed new minerals and materials while improving the diversity of sources and supply chains.9 Countries can take additional autonomy-building measures and ensure availability by streamlining access to land, collaborating with international partners, encouraging storage innovation and building reservoirs. National electrification will require the public and private sectors to improve grid efficiency and reliability and invest in digital technology to boost grid flexibility (electricity demand will climb more than 250% by 
+2050 on a net-zero emissions basis).10 The energy transition is also, by definition, a materials and minerals transition. Among other things, this means reliance on certain scarce minerals produced in only a few countries will have greater importance: demand for some rare earth minerals is already greater than the known supply. Addressing such challenges requires R&D investment to find substitute minerals, accelerate materials recycling and rethinking of supply chains.
+The First Movers Coalition, a Forum initiative, harnesses the purchasing power of companies to decarbonize industrial sectors and to send a powerful market signal to commercialize zero-carbon technologies.
+Innovating to tackle the climate crisis
+B O X 1
+Repurpose existing systems and invest in new technologies such as carbon capture, use and storage (CCUS) and hydrogen 
+New infrastructure will sit alongside legacy systems during the transition. Enabling technologies to reduce emissions from legacy systems will be crucial to achieving net zero. Existing facilities for 
+CCUS can be brought up to date; direct air capture (DAC) technologies have to be accelerated, and natural gas facilities can be adapted to decrease use or repurposed to use a cleaner fuel mix. Now is the time to invest at scale in new promising technologies that can transform the energy system. 
+By 2050, for example, blue hydrogen could account for 20% of emissions reduction.
+Develop new sources of capital to invest in netzero opportunities 
+Both public and private sector organizations should invest in a diversified portfolio of promising opportunities in an approach to the green energy transition akin to a private-equity firm. A recent 
+SwissRe report found that the investment gap has been closing, but slowly. At the current pace of investments, net zero would be attainable only by 2069 – almost 20 years behind target.11 
+Capital deployment towards net zero will require investments in new minerals and materials, equipment and processes, technology, more adaptive supply chains, and green business opportunities. Leaders should invest now as the untapped net-zero opportunity could become a market worth trillions by 2030 (see Figure 3).
+ The transition to a net zero economy is already achievable with the technology we have today. The main challenge is trust, which is a must to achieve the required collaboration to solve global problems that companies or governments cannot solve standalone.
+Svein Tore Holsether, 
+President and Chief 
+Executive Officer, 
+Yara International 
+Seizing the Momentum to Build Resilience for a Future of Sustainable Inclusive Growth
+
+[Page 11]
+The Coalition for Climate Resilient Investment, a private-sector-led and Forum supported initiative, develops and pilots practical tools, solutions and financial instruments to support a more efficient integration of physical climate risks in investment decision-making.
+Transforming infrastructure investment
+B O X 2
+Actions taken to advance the net-zero transition and GDP impact
+F I G U R E 3
+Annual net-zero transition revenue by 2030, selected categories $ billion 
+850 to 1,200
+100 to 200
+550 to 1,200
+250 to 300
+300 to 400
+650 to 850
+650 to 1,150
+1,100 to 1,200
+1,000 to 1,500
+1,300 to 1,800
+2,300 to 2,700
+Carbon management
+Carbon capture, utilization and storage
+Carbon offset markets
+Carbon tracking and measurement – – –
+Industrials
+Steels
+Aluminum
+Cement
+Mining 
+Chemicals – – –
+Waste
+Enablers if materials reuse
+Industrial and maturematerials processing 
+Materials processing innovation – – –
+Hydrogen
+Production 
+Transmission 
+End use – – – – –
+Oil, gas and fuels
+Electriﬁcation of upstream and downstream 
+Efﬁciency improvements 
+Direct-emissions elimination 
+Sustainable fuels – – –
+Agriculture and land use
+Land and forest management 
+Agricultural production 
+Alternative proteins 
+Food waster reduction
+Sustainable agricultural inputs
+Sustainable agricultural equipment – – –
+Consumer
+Consumer electronics 
+Sustainable packaging 
+Sustainable fashion – – –
+Water
+Municipal water supply 
+Industrial water supply – – – – – –
+Power
+Renewable-power generation 
+Grid modernization and resiliency 
+Flexibility and energy storage
+Power system tech and analytics
+Decommissioning and thermal conversion – – –
+Buildings
+Sustainable design, engineering and construction advisory
+Green building materials
+High-efﬁciency equipment 
+Green building tech/operations – –
+Transport
+Electriﬁcation 
+Micro mobility
+Infrastructure for electric vehicles 
+Sustainable aviation – – – – – – – –
+Source: “A devilish duality: How CEOs can square resilience with net-zero promises”, McKinsey Sustainability, 1 November 2022, 
+Seizing the Momentum to Build Resilience for a Future of Sustainable Inclusive Growth
+
+[Page 12]
+Decarbonize through nature
+Achieving net-zero greenhouse-gas emissions goals requires massive carbon removal from emissions. Currently, the only cost-effective way to remove CO2 at scale is through the natural environment. Promoting this process has numerous additional benefits, including flood control and food resilience.12 Natural climate solutions could provide up to one-third of the emissions reduction required to achieve the 1.5°C pathway.13 Governments can use regulatory frameworks to prevent harm to the environment, while companies can begin evaluating environmental risk as part of their investment criteria. Natural assets need to be valued: for instance, pricing carbon or water fairly to influence use where voluntary carbon markets can play a key role. These need to be expanded rapidly but in ways that ensure high-quality criteria for carbon credits. Companies should consider nature-based solutions as part of their bottom-line strategies. 
+Governments can tap into the long-term economic potential of these projects: for example, Africa’s ambitious Great Green Wall, besides capturing large amounts of carbon, will offer fertile land and food security to vulnerable populations.
+The Alliance of CEO Climate Leaders, a Forum initiative, is a CEO-led community committed to raising bold climate ambition and accelerating the net-zero transition by setting science-based targets, disclosing emissions and catalysing decarbonization and partnerships across global value chains.
+Supercharging net-zero targets
+B O X 3
+Enable affordable energy and food and water security 
+Food, water, energy and climate change are fundamentally linked. Not solving the resilience equation will result in increased physical risk impact,14 as the floods in Pakistan, tropical storms in East Asia, and droughts in the US, Africa, Europe and China have had a negative impact on food availability and prices.15 Food-system resilience, together with nutrition security, is necessary for populations to live healthily. To address this, diverse stakeholders will have to work together to transition to more productive agriculture, make healthier food more plentiful, and support a green farming transition. Energy availability and decarbonization are needed to contain climate change, which in turn will enable all countries to produce food sustainably. 
+The public and private sectors must think through these interconnected issues together and ensure efforts are aligned to create food and water security along with energy availability.
+The Food Action Alliance, a Forum initiative, seeks to produce food in a way that is efficient, inclusive and accessible to all in support of a transition to healthier diets and improved environmental outcomes. 
+Driving food system transformation
+B O X 4
+Seizing the Momentum to Build Resilience for a Future of Sustainable Inclusive Growth
+
+[Page 13]
+The global context is new, but supply-chain disruptions are not. The COVID-19 pandemic and the war in Europe have recently demonstrated that supply chains are also vulnerable to non-economic shocks as well. These kinds of shocks are not expected to slow in the coming period.16 
+Shifting demand is one familiar cause of supply disruptions. Geopolitical factors may drive a deglobalizing trend in trade, and supplier relationships could become increasingly politicized. 
+Yet such pressures will also come up against the established realities of the interdependent world, creating regulatory challenges and increased costs.17 No region in the world is close to being self-sufficient; all import at least 25% of one or more important resources or manufactured goods. 
+Leaders and their organizations will need to draw upon their recent experiences in navigating supply chain disruptions. To build resilient supply chains, they should emphasize themes in three areas.
+The sourcing footprint
+Moves to reconfigure sourcing footprints should be measured against the value of retaining existing sources of supply. Vertical integration, where appropriate, can also be considered. The potential benefits of adding new sourcing locations should be weighed against the challenges inherent in unwinding long-held supplier relationships. Given the organic growth of supply chains in the 21st century, with their many interconnected elements, this won’t come easy.18 In disengaging from existing sources, organizations can incur losses due to IP sharing and long-term investment benefits. 
+While carefully considering more ambitious reconfiguration plans, organizations can nonetheless make a few no-regrets moves quickly.
+ –
+Consider targeted vertical integration to build competitive advantage. Conventional setups that retain production of stable, highvolume products in-house, while using comanufacturers for niche products and special projects, are no longer always the most appropriate options. Instead, investing in fastmoving, low-reliability categories that are critical to growth may be more important. –
+Increase buffers in the supply chain where needed. In anticipation of potential supply disruptions, such as input shortages, companies can deploy multi-sourcing strategies and stock up on raw materials and other inventory. To succeed, companies can adopt a strategic approach to identify the critical inputs and rare raw materials they wish to multi-source and accumulate. 
+Trade and supply-chain resilience
+1.3
+Resetting supply chains in the new global context. 
+Trade Shocks and Tensions, a Forum initiative, maintains a drumbeat for urgent dialogue and action, engaging business and policy-makers on short and long-term steps towards a global economic architecture fit to tackle current challenges. 
+Securing trade and investment response, recovery and resilience
+B O X 5
+Early sensing and scenario planning
+In planning, prediction and forecasting are giving way to deeper, early “sensing” and scenario planning, with trigger-based escalation and action protocols. Agile, flexible responses are dependent on the visibility of “over the horizon” risks and trends.19 For end-to-end visibility efforts in the supply chain, including mapping of “tier-n” suppliers (those beyond tier two), top-quality data are vital. 
+In the recent period of disruption, many more organizations are making these improvements,20 although tier-n maps remain an underused tool in supply chain management. Greater end-to-end supply-chain visibility is critical for defining and enforcing long-term sustainability goals.
+Navigating Global Value Chain Disruption, a Forum initiative, supports organizations in navigating global value chain disruption from megatrends related to climate change, geopolitical tensions and emerging technologies. The associated Resiliency Compass provides a framework to help organizations accelerate the resilience-building process across eight dimensions: portfolio excellence, customer orientation, financial viability, go-to-market versatility, logistics flexibility, manufacturing adaptability, supplier diversity and advanced planning. 
+The newly launched Global Value Chains Barometer monitors on a quarterly basis the disruptions affecting global value chains, provides an outlook on the expected implications for operations over the next six months and highlights winning strategies to navigate those.
+Building resilient value chains
+B O X 6
+Seizing the Momentum to Build Resilience for a Future of Sustainable Inclusive Growth
+
+[Page 14]
+Building capabilities in the supply-chain organization
+Companies need to invest in building advanced capabilities for navigating disruptions within their supply chain. Techniques for doing this include practising disruptive scenarios and rehearsing lessons from past mistakes and near misses. 
+Demand sensing and dynamic forecasting require advanced machine learning techniques supported by rounded capability building. As companies prepare to use technology and data to meet variable customer demands, they should seek to attract and incentivize in-house talent to work on their supply-chain digital teams.
+The Global Supply Resilience Initiative (GSRI) develops an open-source, pre-competitive Global Supply 
+System Dashboard (GSSD), using elements of near real-time, anonymized, aggregated public-private data to provide visibility of global supply system performance, indicating ongoing and anticipated disruptions. 
+Scaling the aggregation of such elements of data requires an impartial, neutral hosting entity to mitigate risk related specifically to data governance (i.e. use, storage, etc.).
+Enabling supply chain resilience 
+B O X 7
+Greater clarity on collaboration and competition in the public- and private-sector arenas will help make investment choices more predictable and reduce unintended consequences. Competing priorities arise between the need to de-link certain supply chain categories while maintaining links between others. A clear rules-based framework for collaboration and competition will help remove uncertainty and improve conditions for long-term investments and resilient growth. Ensuring the inclusion of less developed countries will also be critical in helping them succeed.
+Trade Tech, a Forum initiative, aims to understand how Fourth Industrial Revolution technologies can facilitate global trade and develop forward-looking policy and business strategies.
+Harnessing trade digitalization
+B O X 8
+Organizational dynamics are changing rapidly as crises and disruptions accelerate. Demographic trends and technological innovation, which date from before the COVID-19 pandemic, have become more pronounced. Labour shortages and skill gaps add to the uncertainty.21 In this context, speed and agility are demanded, as disruptions require fast changes in strategic direction and allocation of resources, while organizations and their processes and structures are often too rigid to respond effectively.
+Where to begin to change the equation? A good place to start is leadership. Public- and private-sector organizations lack needed leadership capabilities. 
+Research shows that in the COVID-19 pandemic and its aftermath, significant numbers of employees in many sectors planned to leave their jobs due to issues with management and leadership. Many efforts at improving the quality of leadership fall short, however, mainly because they fail to embed leadership creation systematically through the organization. 
+Meanwhile, talent gaps are directly impinging on company growth and public welfare.22 Threequarters of companies report talent scarcities and hiring difficulties, with shortages reaching a 16-yearhigh.23 One study calculated that 375 million workers globally will need significant new skills by 2030.24 At the same time, employees are quitting or planning to quit their jobs in greater numbers than ever before.
+People, education and organizational resilience
+1.4
+Preparing people and organizations for the future of work.
+Seizing the Momentum to Build Resilience for a Future of Sustainable Inclusive Growth
+
+[Page 15]
+The talent supply-demand gap is even wider in low- and middle-income countries, where the pandemic depressed education. According to UNICEF, the share of 10-year-olds unable to understand a simple written text went from 57% to 70% during this time,25 and only 40% of youths are on track to attaining secondary-level reading and math skills.26 
+This level of poverty in education can imply a $21 trillion loss in potential lifetime earnings.27 It also suggests that talent shortages are likely to become more acute.
+The Jobs Consortium, a Forum initiative, promotes a better future of work by enabling job creation and job transitions.
+Creating a better future of work for all 
+B O X 9
+To overcome these challenges, organizations must invest in organizational resilience, matching talent to strategy. That is a proven means to create value. 
+Resilient organizations absorb shocks and turn them into opportunities, “bouncing forward” during crisis times. To build resilience in talent, leadership and education, organizations need to act on a number of themes. 
+Promote more flexible and agile organizations with decentralized decision-making
+To become more flexible and agile, organizations need to enable decentralized decision-making and self-sufficient, empowered teams. Operating models must be capable of adapting quickly in volatile environments and flexibly responding to rapidly evolving challenges. An agile organization responds to disruptions quickly by testing, learning and adjusting a “good enough” solution. Slower processes of planning and control can follow, but initial work can be done in rapid cycles of exploration, execution and learning. The governing mindset should be one of discovery, with fewer layers between top leadership and the field of action. 
+The approach depends on a resilient and entrepreneurial middle layer, skilled to make decisions locally, with on-the-spot knowledge. A flexible talent structure is needed as well. This can be developed through skills mapping to identify talent needs and reallocate the right people as priorities change. 
+Teams should be empowered to make strategic decisions when faced with new or incomplete information while being responsible for outcomes. 
+An important move will be from command to collaboration: from siloed, inflexible and opaque hierarchies to open, transparent and collaborative networks with a mindset of partnership. Providing support systems that encourage a virtuous flow of debate and feedback will help teams learn from experience and better adapt to new challenges.28 
+Cultivate adaptable leaders
+Speaking of adaptation to new challenges, organizations need leaders who can embrace the new level of uncertainty and complexity. Leadership development should begin with a clear definition of the resilient, adaptable leadership roles the organization needs. Valued qualities include willingness to move forward, taking decisions under uncertainty and being prepared to revisit these to change direction quickly as circumstances change. People skills are perhaps most important: adaptable leaders collaborate and build up strong trust-based support networks. 
+The organization can support its leaders by having guardrails in place to challenge biases, protect against overreaction in crises and keep the focus on the path ahead. Organizations should aim at developing leaders who can go beyond one-dimensional reactions when faced with crises to inspire, support and unlock potential in others. Leaders are needed that can embrace paradoxes and ambiguity while taking time to listen and coach team members.29 They should be able to identify opportunities where others see problems, with developed capabilities to manage short-term responses while staying focused on longterm resiliency.
+Support diversity and inclusion 
+Diversity and inclusion are now fundamental attributes of successful organizations. The most diverse organizations perform significantly better than the least diverse.30 Inclusive and diverse workforces and leadership teams encourage diverse ideas and encourage the ability to question, change and think differently. These are priceless capabilities that help organizations adapt and emerge strengthened from crises.31 Among the workforce, an environment of psychological safety should be cultivated. This allows for creative diversity of thought and collaboration, as people will bring their authentic selves to work. Diverse talent representation is a start, but organizations must go further. Employees need to feel and perceive equality of opportunity through fairness, transparency and meritocracy.
+Closing the Gender Gap Accelerators, which are Forum initiatives, aim to create global and national public-private collaboration platforms to address current gender gaps and reshape gender parity for the future. The Global Parity Alliance, promoted by the Forum, galvanizes leadership commitment towards diversity, equity and inclusion, highlighting lighthouse examples from the community and around the world. 
+Advancing gender parity 
+B O X 1 0 Resilience should be approached as a three-component equation squaring organization, stakeholder and people with a common denominator of a purpose that matters, embedded in a strong company culture.
+Katherine Garrett-Cox, 
+Chief Executive Officer, 
+GIB Asset Management 
+Seizing the Momentum to Build Resilience for a Future of Sustainable Inclusive Growth
+
+[Page 16]
+Develop talent-management capabilities and continuous skill development
+Organizations need to prepare today for tomorrow’s skills. Taking a longer-term view of talent management, they should invest in hiring, developing and retaining talent more effectively. 
+Without abandoning traditional levers for attracting and retaining talent – compensation, titles and advancement opportunities – organizations can also become more creative.32 A skills-based hiring approach is a vital way to tap previously overlooked talent pools, for example. Organizations should also invest in upskilling and reskilling their existing workforce, moves that enable flexibility around capacity requirements and capital in a volatile environment. New job profiles will require additional “meta-skills”, such as building cognitive strategies to handle new and rapidly changing information. 
+Successful capability-building programmes are founded on a clear understanding of exactly which individuals need which skills to meet organizational goals.33 
+The Reskilling Revolution Initiative prepares the global workforce with the skills needed to future-proof their careers, as technologies such as artificial intelligence enable greater automation. 
+Future-proofing people’s skills and livelihoods
+B O X 1 1
+Address the learning crisis
+Economies need new skills. Foundational education needs to be broadened to close skill gaps and realize the full potential of the future workforce. 
+As workforce needs evolve with technological changes, some countries and population segments are better situated than others. The education transformation must include precisely the less well-situated developing countries and lowincome populations within developed countries to ensure equality and full participation in the global economy. To ready the future workforce, countries need education systems that will serve the earliest stages of education. Governments participating in the United Nations Educational, Scientific and 
+Cultural Organization’s (UNESCO) World Early 
+Childhood Education and Care conference stressed that universal access to early childhood education was a critical foundation for future learning. The public and private sectors should each bring their unique perspectives in collaborating on education improvements and a skills agenda for the future. 
+Societies and businesses can succeed best by adopting a culture of life-long learning and supporting both children and adults in formal and informal educational opportunities.
+Public and private organizations that focus on building resilient leadership and talent can create a virtuous circle of improvement: an adaptable organizational environment will attract needed talent and be better placed for resilience to achieve sustainable growth.
+Seizing the Momentum to Build Resilience for a Future of Sustainable Inclusive Growth
+
+[Page 17]
+The COVID-19 pandemic revealed a lack of readiness in the healthcare system and highlighted wider questions of healthcare resilience and longterm sustainability. To build a far more resilient and sustainable healthcare system, the public and private sectors will need to collaborate to overcome a number of challenges, spanning from stress on the healthcare system, vaccine availability and delivery, and productivity challenges. 
+The stresses on healthcare systems are expected to increase in coming decades, and the demand-oversupply gap is expected to widen. Demand is expected to increase for a number of reasons, including treatment innovations, increasing life expectancy, an ageing population, rising incidence of mental and behavioural disorders, and climate change. 
+For example, the segment of the world’s population over the age of 60 is expected to double, to 
+2.1 billion, by 2050. This trend will generate considerable added healthcare demand.34 A further factor is that mental health conditions and substance use disorders increased by 13% in the years 2008-2017, according to the World Health 
+Organization (WHO), which also reports that treating those afflicted with depression and anxiety costs $1 trillion annually.35 These and other challenges are exacerbated due to the global shortage of health workers. The WHO estimates a global shortfall of 15 million health workers by 2030, mostly in low- and lower-middle-income countries.36 
+Leaders dedicated to enhancing healthcare resilience will have to adopt a multifaceted approach, with massive public- and private-sector coordination, that will prioritize preventative and holistic care, expand capacity, improve shock preparedness and ensure equitable access to care. 
+Prioritize preventative care and holistic health 
+Research indicates that by investing in preventative and chronic care, healthcare systems can reduce the global disease burden by 25%. Investment areas include improving environmental sustainability, encouraging healthier behaviours, making healthier food and clean water more available, and improving access to vaccines and preventive treatments generally. Technology such as AI, automation and big data can help in preventing, diagnosing and treating diseases. 
+These initiatives can provide a positive return on investment: for each dollar invested in improving health, an economic return of two to four times is possible (see Figure 4).37 The economic benefits from the health improvements could add trillions to global GDP by 2040. Healthier populations allow for higher labour-force participation and a better overall quality of life.
+Healthcare resilience
+1.5
+Prioritize preventative care to improve the quality of life and bridge life-expectancy gaps.
+GDP opportunity from healthcare investments in addition to quality of life improvements
+F I G U R E 4
+Source: McKinsey & Company
+Healthy growth scenario, 2040 $ trillion 
+High-income countries 
+Upper-middle-income countries
+Lower-middle-income countries
+Low-income countries
+Additional healthcare spending 
+GDP impact 
+Welfare gains
+1.5
+4.6
+3x
+1.4
+2.8
+2x
+1.4
+4x
+2x
+18.6
+41.0
+54.2
+16.4
+0.4
+0.1
+0.2
+Seizing the Momentum to Build Resilience for a Future of Sustainable Inclusive Growth
+
+[Page 18]
+Greater overall availability of preventative healthcare can also help reduce incidence of mental health disorders. Government and employersponsored mental-health programmes, along with payer coverage of mental health, can increase awareness, reduce stigmas and open access to treatment.38 Research suggests that prioritizing preventative and holistic health will increase healthcare-system resilience while adding years of higher-quality life to all. 
+Increase healthcare system capacity and productivity
+Societies need to increase the capacity and productivity of the healthcare system and expand the workforce. While these improvements will come at a cost, the cost burden can be reduced in other ways, especially digitization, by up to 15%. 
+The causes of workforce shortages differ by country and locality. Weak education pipelines, long recruitment timelines, and compensation gaps between the public and private sectors are all contributing factors. Another issue is the heavy impact of the COVID-19 pandemic on women workers. In many societies, the burden of childcare (and elder care) disproportionately fall on women. 
+During the pandemic, many women were forced to exit the workforce, including the healthcare workforce.39 
+Although the challenge is daunting, five types of actions can expand the public health and healthcare workforces: 1) supporting and retaining the current workforce by equally emphasizing mission and people, 2) meeting evolving capability needs by strategically hiring and training, 3) flexibly extending the workforce with proactive hiring measures; 4) accelerating healthcare talent development, and 
+5) training more women to be doctors, nurses and other caregivers, providing equal pay for equal work. 
+Digital transformation is a key enabler for increasing the capacity and productivity of healthcare systems. 
+Analysis of the impact of digitizing healthcare systems in several countries reveals efficiency improvements that freed up resources and time. 
+These can be reinvested in patient-focused activities. 
+The Partnership for Health System Sustainability and Resilience organizes global collaboration between academic, non-governmental, life sciences, healthcare and business organizations. 
+Advancing a framework for health system resilience 
+B O X 1 2
+Resistance against future global health crises
+Investment is needed now to enhance global resistance against the certainty of future pandemics. 
+To prepare for the coming threat, policy-makers and society can invest in five areas. First, build “always on” systems that are ready as soon as an outbreak starts. Second, improve disease surveillance; robust surveillance mechanisms help stop chains of transmission sooner. Third, invest in flexible capacity to prepare healthcare systems to handle surges in demand while still delivering essential services. Fourth, change the epidemic-response agenda from waiting for outbreaks to an active prevention agenda. Fifth, build healthcare supplychain capacity across the global south for vaccine and pharmaceutical manufacturing. It is estimated that spending approximately $85 billion to $130 billion over the next two years and approximately $20 billion to $50 billion annually after that – in the aforementioned areas – could substantially reduce the impact of future pandemics. This equates to an average of about $5 per person per year for the world’s population.40 
+Equitable care
+Adequate healthcare has to be extended to vulnerable populations without it. The average life expectancy in the world’s high-income countries is 
+18 years longer than that of low-income countries.41 
+Within high-income countries, furthermore, the differential can be even greater between richer and poorer population segments. Three sets of actions will be particularly important in addressing health inequities. First, addressing social determinants of health such as food, housing, transport and workplace wellness. These factors can influence up to 70% of health outcomes.42 Second, investing to ensure that innovation in health and healthcare is equitably distributed. Third, working to better engage underserved communities and helping them establish trust-based relationships with healthcare providers is vitally important. Advancing to reduce health inequity across social groups strengthens healthcare systems and contributes significantly to economic growth.43
+The Global Health Equity Network aims to help businesses and all organizations make sense of the evolving global health equity space, convening leaders across industries, sectors and geographies to support and accelerate multistakeholder action towards health equity. Rallying global leaders around a shared goal of Zero Health Gaps, the Network works with experts to develop high-impact action pathways, measurement tools and reporting structures for advancing health equity across any organization’s workforce, offerings, community investments and partnerships. 
+Shaping a more equitable world for health and well-being
+B O X 1 3
+Seizing the Momentum to Build Resilience for a Future of Sustainable Inclusive Growth
+
+[Page 19]
+In 2021, $1.2 trillion in investment, equivalent to 1.3% of global GDP, was made in 14 technologies.44 By 2030, $13 trillion could be added to global GDP digitization and technology adoption.45 Countries and regions are pursuing digitization and technological innovation to strengthen competitiveness, emphasizing the importance of “transversal” technologies such as 
+AI and quantum computing. As they accelerate adoption to the forefront of their strategies, business leaders and policy-makers should consider three critical factors.
+Public and private sector companies need to make proactive bets on AI, big data and automation
+The productivity growth that digitization and technology have enabled over the last few decades looks set to continue as a new wave of technologies – from AI to big data to automation – creates the possibility of driving continued leaps in productivity. This wave of productivity growth also offers potential paths for economies to grow without proportionate increases in carbon consumption.
+However, not all institutions are set up to take advantage of these innovations and navigate them in a way that enables competitive advantage. In many cases, early bets on AI and associated data collection for training can be difficult to catch up on for other organizations. Given the complexity of today’s technology landscape, companies sometimes find it challenging to decide which technologies to make proprietary and which ones to outsource or develop in open-source environments. Ensuring access to the right talent and nurturing innovation successfully across remote work and in-person preferences can be challenging for many organizations. 
+Not thinking through the impact of these innovations on society is also challenging. In some cases, AI can replace the skills of even some advanced workers in the workforce. Not considering alternative strategies to upskill or provide alternative careers to these workers can mean disadvantaging sections of the workforce. 
+Governments can profit from a more nuanced approach to technology investment as well. The idea is to maintain flexibility without disproportionally draining capital, increasing dependencies or exposing the organization to excessive risk.
+New risks and new dependencies 
+The rapid adoption of new technology can add new risks and dependencies. Cybersecurity breaches can come with technology innovation and adoption. 
+In a 2022 survey, 57% of executives reported at least one data breach in the past three years; 42% reported financial losses.46 Organizations, both public and private, can mitigate cybersecurity risks with effective strategic cybersecurity strategies. 
+Governments and private-sector cyber leaders can learn from each other on how to create the security organization of the future.47
+Digital and technological resilience
+1.6
+Deepening digitization to drive secure, ethical and inclusive growth.
+The Forum’s Digital Trust initiative convenes leaders and experts from across industries, governments, regulators and academic institutions, with the aim of encouraging all stakeholders involved in the development of trustworthy technology to prioritize cybersecurity (including cyber resilience and securityby-design) and responsibility in technology use (including privacy protection, ethical and values-driven innovation, transparency and accountability). 
+Prioritizing cybersecurity and developing digital trust
+B O X 1 4
+Nations with less robust infrastructure risk being victimized by cybercriminals. Cybersecurity must therefore be a top agenda item for policy-makers. 
+The aspiration must be a national cybersecurity strategy that protects critical infrastructure, applying effective governance, robust laws and regulations, a strong cybersecurity talent pipeline, wellcoordinated incident response, and partnerships with other countries and between the public and private sectors. 
+The Global Coalition for Digital Safety aims to accelerate public-private cooperation to tackle harmful content online and will serve to exchange best practices for new online safety regulations, take coordinated action to reduce the risk of online harms, and drive forward collaboration on programmes to enhance digital media literacy.
+Building a safer internet for all 
+B O X 1 5
+Seizing the Momentum to Build Resilience for a Future of Sustainable Inclusive Growth
+
+[Page 20]
+To manage tech risk effectively, including the dependencies they create, governments should collaborate with the private sector on strategic planning. Technology will be one of the biggest economic development factors, and it can be affected significantly by geopolitical trends. Policymakers should provide guidance to the private sector on acceptable dependencies versus those that should be reduced. Optimal guidance should be undertaken as a public-private collaboration using scenario-based planning. As parameters are set, policy-makers can support innovation through policies and funding. 
+Societal impact, ethics and inclusivity
+Companies and policy-makers need clear ethical frameworks for technology adoption, which take societal impact and inclusivity into account. New technology frequently raises questions with social implications, such as access or privacy rights. 
+Companies can move beyond merely complying with regulations by developing their own ethical frameworks to address evolving issues, such as data privacy and the application of AI. Policymakers should establish clear ethical rules around societal impact. Regulation in relation to data privacy, the ethical use of AI and digital inclusion should protect society while helping guide governments and private-sector organizations. 
+Another problem is that technology improvements in business and society are mainly enjoyed by wealthier population segments. Policies that aim to equip all of society with the tools and capabilities needed to share in the economic gains can make a difference. They must ensure that education systems for children, youth and adults are wellfunded and adapted to the needs of the future. 
+The workforce of the future will need new skills, and special care and attention should be devoted to historically underserved segments to ensure that they are adequately represented in all reskilling programmes. Economic development activities generally should be led from a perspective of equity.
+The EDISON Alliance mobilizes a global movement to prioritize digital inclusion as foundational to the achievement of the Sustainable Development Goals.
+The 1 Billion Lives Challenge, a Forum initiative, accelerates digital inclusion solutions for 1 billion people through harnessing commitments from governments, companies and other organizations globally. 
+Shaping a more equitable world for health and well-being
+B O X 1 6
+Seizing the Momentum to Build Resilience for a Future of Sustainable Inclusive Growth
+
+[Page 21]
+Four resilience enablers
+Seizing the Momentum to Build Resilience for a Future of Sustainable Inclusive Growth
+
+[Page 22]
+To adequately address the myriad of crises laid out in the previous chapter, organizations need to not only strengthen their crisis management capabilities but also develop mindsets and capabilities for foresight, preparation, response and reorientation.
+Look beyond the short-term and address the long-term 
+Short-term, day-to-day interventions and management have of course been needed to address some of these recent crises (including multiple COVID-19 pandemic waves, supply shortages, and domestic and international political tensions). However, short-term interventions and management are insufficient to address longer-term uncertainties and the potential disruptions outlined in previous chapters, such as climate change, continuing geopolitical tensions, shifts in customer demand, availability of labour and the need for updated skills. Tackling long-term challenges while mitigating short-term impacts will be vital.
+Move past continuous-crisis mode to alleviate organizational exhaustion 
+It is not uncommon for leadership and their teams to become exhausted by extensive periods of “firefighting” and crisis management – a phenomenon exacerbated in recent years by an unprecedented wave of disruptions. Developing efficient approaches to mitigating and adapting to uncertainty and disruption (over and above the traditional task-force structure) will help address this problem. This entails more than freeing management capacity to deal with crises. Leaders must also make room for discussions about potential future states as they develop strategic plans to prepare for events over the horizon.
+Develop a new resilience leadership mindset 
+Developing a resilience mindset involves defining strategies to weather uncertainties and embracing the challenges of the evolving environment. Leading with vision (whether politically or in business) entails formulating an inspiring and ambitious future vision beyond the crisis. Where action is needed, CEOs should act decisively and swiftly, reallocating resources as needed. Constant renewal, the origination of new ideas at a fast pace, agility, adaptability, resilience and innovativeness are the principal determinants of success. Where uncertainty remains high, optionality, as well as the timing of decisions, will be important. 
+Embed resilience thinking within the organization 
+New resilience capabilities need to be embedded within many functional areas, including supply-chain management and sourcing, data and technology, 
+R&D, production and sales. Capabilities that increase flexibility to work in the face of rising levels of uncertainty are especially desirable. For example, supply-chain management can move beyond global sourcing focused only on costoptimization, R&D and technology can explore a broader portfolio of potential future technologies and sales can consider regionalization of market access. In addition, organizations must make efforts to eradicate isolating, siloed structures with more horizontal, cross-functional thinking to better align procurement, production and sales against geopolitical challenges.
+Extend foresight capabilities and analytical support 
+Leaders need more information of higher quality as they work to anticipate potential disruptions, interpret evolving uncertainties and make more informed decisions to navigate disruptive events. 
+This requires a wide frame of reference, extending beyond immediate supply and distribution markets, to consider geopolitical, technology and societal factors, with an emphasis on how these impact supply chains, business opportunities, climate change and the energy transition, social standards and customer demand expectations. A holistic resilience framework can assess resilience capabilities as well as improvement areas, as represented by Figure 5.
+In addition, organizations must be looking to undertake robust scenario testing and impact assessments across the various elements of the business model, with impact assessments delivered within shorter time frames than the typical budgeting cycle. At the same time, leaders will likely wish to consider a greater variety of scenarios beyond the traditional upside-downside perspective.
+New resilience leadership and organizational capabilities
+2.1
+Developing mindsets and capabilities for foresight, preparation, response and reorientation.
+Seizing the Momentum to Build Resilience for a Future of Sustainable Inclusive Growth
+
+[Page 23]
+Private sector resilience framework
+F I G U R E 5
+Resilience action areas
+Organizational resilience
+Agility of business units
+Access to talent
+Workforce churn rate
+Clarity of roles and responsibilities
+Financial resilience
+Access to capital
+Debt to liquidity ratio
+Projected revenue
+Stakeholder representation in governance
+ESG accreditation
+Employer inclusivity accreditation
+Workplace safety accreditation
+Living wage
+Brand perception
+Societal alignment and purpose
+Market position and demand resilience
+Alignment with consumer price sensitivity and preferences
+Time to market
+R&D/Capability spend yield
+Business model adaptability
+Operational resilience
+Ratio of offshore/onshore in supply chain
+Time supply chain can function on domestic resources
+Ratio of domestic/ international workforce
+Digital and technological resilience
+Cybersecurity
+System coverage rate
+Fitness for purpose
+Malware scanning and security conformance
+Frequency and severity of outages
+Mean time to resolution
+Preparation
+Risk-reduction conversation at the executive level
+Resilience agenda-setting based on scenario-planning
+Strategic reorientation
+Ability to self-examine
+Mechanism to implement learnings
+Dynamic strategy embedding 
+Strategic adaption capability
+Foresight
+Information gathering and dashboard
+Scenario-planning
+Stress-testing
+Disruption and crisis response
+Crisis response task force and mechanisms
+Long-term change programmes
+Communication capabilities
+Scalability of response
+Resilience capabilities
+Financial resilience
+Operational resilience
+Market position and demand resilience
+Organizational resilience
+Digital and technological resilience
+Societal alignment and purpose
+Private sector resilience
+Source: McKinsey & Company
+Seizing the Momentum to Build Resilience for a Future of Sustainable Inclusive Growth
+
+[Page 24]
+Similarly, policy-makers and public-sector leaders can strengthen and embed resilience leadership and capabilities within government and public institutions.
+Set a long-term, holistic resilience agenda 
+The public agenda can frequently be dominated by competing short-term political concerns within tight public-expenditure constraints. Effective resilience leadership balances short-term imperatives alongside long-term needs across all relevant policy areas, including but not limited to geopolitics, the environment, socio-demographic issues, technology disruptions for critical infrastructure, trade and supply-chain dependencies, industrial policies, healthcare, education and labour, and national security. Examples of initiatives in some of these areas include Japan’s move to reduce dependency on raw-materials imports from China by operationalizing three institutions to enhance supply-chain resilience; it succeeded in reducing 
+Chinese imports from 90% in 2010 to 60% in 
+2022. Meanwhile, Singapore developed two statutory boards across two ministries (Ministry of 
+Education and Ministry of Manpower) to develop and implement a skills transformation programme to meet future needs through reskilling and upskilling, and the United Arab Emirates has launched its 
+National Food Security Strategy 2051, aiming to achieve zero hunger by ensuring all-year-round access to sufficient safe and nutritious food throughout the world. 
+Importantly, resilience leadership needs to be shown at all levels: mayors who invest in city and local resilience – this is often where the highest vulnerabilities reside and sometimes also the weakest capabilities – CEOs of state-owned enterprises, government agents in the private sector, business leaders who can channel state resources and FDI incentives to businesses that strengthen resilience, and NGOs and community leaders. Given interdependencies across countries, resilience agendas need to be internationally aligned, at least at the intergovernmental level. 
+Define resilience as a distinct policy area with a central stakeholder
+Driving a resilience agenda will require collaboration across ministerial departments as well as international alignment. Currently, the resilience agenda is usually set within individual policy areas, with cross-collaboration often confined to emergencies (such as the recent COVID-19 pandemic), energy crises and natural disasters. 
+Multiple local, state, regional and national governments are well advised to engage in active dialogue with the private sector. This requires a central stakeholder with access to government leadership at the highest level (president, prime minister, chancellor). This central stakeholder will benefit from an integrated view across all levels: at the centre of government, across individual agencies, and at regional, city and local levels. At the centre of government, the stakeholder can develop a whole-of-government, whole-of-society perspective to avoid contradictory policy choices at varying levels of the system. 
+Establish systematic foresight intelligence and scenario analysis
+Enhance the preparedness muscle, including through systematic foresight intelligence, scenario analyses and review of resilience capabilities. 
+Governments and public-sector organizations have several ways to train their preparedness muscle for potential crises. Harnessing data and analytics, they can develop robust economic data systems to explore events on a systemic basis, using scenario planning and risk-benefit analysis to help identify how best to support local economies, firms and vulnerable communities. They can implement risk registers and vulnerability assessments, as the United Kingdom and Singapore have done, to assess potential disruptions while creating preparedness plans within all agencies. To avoid simply being reactive, better anticipate the implications of disruptive events and proactively mitigate crises, governments can work across policy areas, translating information into scenarios for “war-gaming” and stress-testing. Governments should also systematically review their crisismanagement capabilities against such scenarios and seek to define longer-term resilience plans. 
+Figure 6 presents a framework for policy-makers and public-sector leaders to conduct a systematic review of resilience across governments and publicsector organizations.
+Seizing the Momentum to Build Resilience for a Future of Sustainable Inclusive Growth
+
+[Page 25]
+Public sector resilience framework
+F I G U R E 6
+Resilience action areas
+Preparation
+Cross-ministerial execution teams by resilience topic
+Policy agenda-setting based on scenario-planning
+Strategic reorientation
+Ability to self-examine
+Mechanism to implement learnings
+Dynamic strategy embedding 
+Strategic adaption capability
+Foresight
+Information gathering and dashboard
+Scenario-planning
+Stress-testing
+Disruption and crisis response
+Crisis response task force and mechanisms
+Long-term change programmes
+Communication capabilities
+Scalability of response
+Resilience capabilities
+Trade dependencies and economic resilience
+Human capital resilience
+Energy, nutrition and water supply
+Fiscal resilience
+Equitable society and political resilience
+Critical infrastructure and security
+Public sector resilience
+Trade dependencies and economic resilience
+Macroeconomic stability
+GDP and GDP growth
+Inﬂation
+Inequality index
+Ease of doing business
+Innovation
+R&D spend yield
+Patent rate
+Human capital resilience
+Education
+Access to education
+Completion rate of primary/ secondary education
+Access to skilled domestic labour 
+Healthcare
+Access to healthcare
+Healthcare quality index
+Healthcare affordability
+Energy
+Domestic energy production share
+Diversiﬁed energy sources
+Share of renewables
+Nutrition and water supply
+Internal production of staple foods
+Water security
+Energy nutrition and water supply
+Transportation and infrastructure
+Rail, road and airport connectivity
+Mitigation for temperature and sea level change
+Climate and environment
+Carbon footprint
+Resource availability
+Performance against climate and nature commitments
+Societal inclusiveness
+Quality of social support system social, gender and racial-ethnic inequalities
+Geopolitical resilience 
+Human rights
+Rule of law 
+Internal security 
+External defence
+Public trust
+Governmental transparency
+Judiciary independence
+Anti-corruption measures
+Equitable society and political resilience
+Political stability
+Uninterrupted availability of essential services
+Quality of policy formulation
+Transportation Infrastructure
+Rail, road and airport connectivity
+Critical infrastructure and security
+Infrastructure
+Mitigation for temperature and sea level change
+Fiscal resilience
+Fiscal
+Debt to GDP ratio
+Access to capital
+Source: McKinsey & Company
+
+[Page 26]
+Building resilient companies and societies that ensure sustainable and inclusive growth will require one of the largest capital allocations in history: each of the six critical areas identified in this paper requires a step change in public and private investment. For example, achieving the global transition to be carbon-neutral by 2050 will require an equivalent to 7.5% of world GDP spent annually on physical assets for energy and landuse systems.48 The need to address and prepare for uncertainties (such as health outbreaks) and disruptive, low-probability, high-impact events will add even more to the amount of resilience funding needed. However, resilience investment is a positive investment since adaptation measures are usually less costly than recovery measures and lead to a faster recovery from an unforeseen event. The 
+Global Commission on Adaptations estimates that spending $800 million on early-warning systems in developing countries could reduce climate-related disaster losses by $3 billion to $16 billion per year.
+Resilience funding
+2.2
+Funding resilience requires one of the largest capital allocations in history.
+The global financial system is the cornerstone of economic activity and critical for long-term economic growth and development. Three Forum initiatives address related questions, including resilience, under the umbrella of the system initiative on Shaping the Future of Financial and Monetary Systems. In its most recent report, Risk Proof: A Framework for Building Organizational Resilience in an Uncertain Future, the 
+Forum’s Industry Community for Insurance and Asset Management developed a framework to help businesses define, identify and develop resilience in their organizations so they are prepared to overcome shocks, grasp new opportunities and tackle any crisis in the future. 
+Building a more efficient, resilient, inclusive and equitable financial system
+B O X 1 7
+Despite the benefits and the pressing need for resilience funding, resilience efforts currently remain underfunded. On the one hand, current levels of indebtedness across developed countries raise questions about funding sustainability, with government debts over GDP peaking above 
+100% and private indebtedness with little room for manoeuvre above 200% levels (see Figure 7). 
+On the other hand, developing countries face the greatest asymmetry between resilience-funding need and supply; currently, capital is not flowing at the speed required. For example, according to the 
+UN, combined adaptation and mitigation finance flows in 2020 fell at least $17 billion short of the $100 billion pledged to developing countries.49
+Seizing the Momentum to Build Resilience for a Future of Sustainable Inclusive Growth
+
+[Page 27]
+Levels of public- and private-sector indebtedness by six country clusters
+F I G U R E 7
+Seizing the Momentum to Build Resilience for a Future of Sustainable Inclusive Growth
+Notes on classification:
+– Public debt: IMF, total stock of debt liabilities issued by the general government as a percentage of GDP (except Argentina, Bangladesh, Ghana, 
+Kenya, Mexico, New Zealand, Pakistan and South Africa where central government was used). Classification: Low: 0 to 50%, Middle Low: 50 to 
+75%, Middle High: 75 to 100%, High: >100% – Private debt: IMF, total stock of loans and debt securities issued by households and non financial corporations as % of GDP. Classification: Low: 
+0 to 50%, Middle Low: 50 to 125%, Middle High: 125 to 200%, High: >200%.
+– Finance access: S&P credit ratings. Classification: Low: D to B, Middle Low: BB- to BBB+, Middle High: A- to A+, High: AA- to AAA.
+– GDP per capita and population: World Bank. All data as of 2021 except for rating, based on latest data available as of December 2022. 
+Source: International Monetary Fund; S&P Global; World Bank situation
+Example countries
+Public debt
+Private debt
+Finance access
+Indebtedness level
+High
+Low
+Population (millions)
+GDP per capita ($, thousands)
+Percentage of countries under analysis*
+1. High access to private and public indebtedness
+United States
+France with low public and high private indebtedness with low and middle public and private indebtedness
+Switzerland
+Norway
+China
+1.411
+United Arab Emirates
+Israel
+Japan
+Poland
+4. Medium access to high public and private indebtedness
+5. Low access to and private indebtedness with high public indebtedness
+India
+1.380
+Brazil
+Thailand
+Nigeria
+Congo
+0.5
+Kenya
+Argentina
+Egypt
+Ghana
+46% GDP
+11% population
+11% countries
+32% GDP
+26% population
+18% countries
+2% GDP
+1% population
+8% countries
+16% GDP
+45% population
+38% countries
+2% GDP
+10% population
+16% countries
+2% GDP
+7% population
+9% countries
+*Based on 91 countries with complete information of three variables under analysis, representing 88% of global GDP and 66% of global population
+
+[Page 28]
+To capture those benefits and meet the global need for substantial resilience, inclusive and innovative funding solutions are needed. These actions can help: 
+A long-term cost-benefit view of resilience 
+Developing scenarios and quantitative stress testing of disruptions (versus deterministic situations) to create credible finance priorities and plans will facilitate an understanding of growth option values, as well as downside mitigation measures such as vaccination campaigns or climate-adaptation investments. Cost-benefit analysis offers the transparency and information needed to raise funds. 
+This empirical approach needs to be taken at country, sector, company and individual levels to maximize its potential as a resiliency lever. Besides scenarios and stress testing, public and private sectors should work on developing early warning systems to monitor and predict future events that enable them to react quickly and effectively to new disruptions.
+Increasing financial and fiscal capacity
+To increase financial and fiscal capacity for resilience, new mechanisms are needed that ensure sufficient capital flows towards resilience projects. 
+First, frameworks to encourage private capital flows have to be created. Public institutions don’t have the standalone capacity to fund the large capital allocation needed to achieve resilience and, therefore, will have to play a key role in enabling private capital to flow at the required scale and time. Three main barriers are preventing private investments from happening: lack of country-level data, clarity on where investments are needed and low perceived returns on investment – and these barriers are even higher for developing countries. 
+Public institutions can play a role by addressing these barriers through legal frameworks and subsidies to reduce risk and facilitate new funding, which in turn results in GDP expansion. Addressing those challenges will attract capital at scale for all those projects that will yield a positive return. 
+Additional public intervention will be required to attract private capital for underfunded areas where business models are less proven – climate adaptation finance is a clear example, where only 
+1.6% of funding comes from private investment. 
+Governments can consider ensuring sufficient fiscal capacity to take on the risks private insurance is unable to cover without government intervention. 
+With growing risks, governments will have to increase fiscal income to not incur fiscal imbalances when intervening. 
+Second, new capital markets and insurance structures50 are required both to ensure financing supply and to develop mitigation actions of last resort. Similar to green and social bonds, new structures such as “broader resilience bonds” or “catastrophe bonds” can be explored as a source of funding and risk mitigation. Additionally, a critical pillar of enabling net zero and financing asset decarbonization is the ability to value carbon with liquidity. Carbon markets could play a role as a financing mechanism: besides incentivizing companies to lower CO2 emissions, it is estimated that carbon markets can reduce the cost of implementing national determined contributions (NDCs) goals by over half. Although the situation is unsettled now, there have been multiple announcements looking to establish credible carbon trading hubs across the world (e.g. Saudi 
+Arabia launched a carbon offsets trading platform, and the Malaysian government announced its intention to set up a voluntary carbon market by the end of 2022).
+Financing the Transition to a Net Zero Future, a Forum initiative, accelerates the mobilization of capital towards these breakthrough decarbonization solutions. 
+Collective action to close the financing gap
+B O X 1 8
+Importantly, economies and populations with fewer financial resources need more support. Capital flows to developing economies can be ensured by developing and fulfilling international commitments to support the most vulnerable in line with the pledges, for example, in energy adaptation or education access. Notably, the cost of ensuring inclusive and equitable quality education will require annual spending of over $500 billion; with the COVID-19 pandemic situation aggravating education access, the funding gap can go up to $200 billion yearly. 
+To maximize the impact of transferred capital in developing countries, funds will need to the core of the economy with a focus on small and growing businesses, which generate up to 70% of GDP, as well as the more vulnerable families. This will require accelerating financial inclusion – globally, 1.4 billion adults still don’t use a financial institution.
+While developing a resilience muscle may require a hefty investment up front, investing the appropriate amount, and doing so now rather than later, will result in high payoffs that more than recoup the cost of investment. The benefits of resilience funding have always outweighed the costs, but as disruptive global events become increasingly frequent, the value of resilience funding will only increase as time passes.
+ Resilience solutions and their funding are not one-size-fits-all. 
+It is important to reflect on how any work on resilience is going to be useful to lowincome countries, who are really going through difficult times.
+Mohammed Al-Jadaan, 
+Minister of Finance, 
+Saudi Arabia
+Seizing the Momentum to Build Resilience for a Future of Sustainable Inclusive Growth
+
+[Page 29]
+Economic development is a key contributor to a nation’s resilience and its ability to prevent, withstand and quickly recover from major disruptions. Poor economic structures undermine resilience. For example, when faced with demand shocks, supply shortages, inflationary spikes or social crises, a country with weaker economic structures can suffer up to twice the annual loss in output, on average, compared with a country that has best-practice economic institutions.51 A superior economic development model increases resilience when it is able to achieve sustained growth with fiscal prudence. Such a model would provide the financial resources to promote equitable achievement, empower lower-income households with higher-income opportunities, limit climate change and develop natural resources sustainably. 
+As leaders seek to enable sustainable and inclusive economic development, they are well advised to consider some challenges.
+Rising disparities and inequitable growth create systemic vulnerabilities globally 
+While global growth has tripled over the past two decades, this growth has not been equitable. The richest 1% of the global population captured 38% of global wealth accumulated over the last two decades.52 Seven out of ten people live in countries where income inequality is growing.53 Rising income inequalities are reflected by the gap between the average incomes of the top 10% and the bottom 
+50% of individuals, which has expanded from 8.5 times to 15 times. In the United States, the median wealth of white families expanded by more than 
+50% from 1992 to 2016, reaching a level ten times that of Black and Hispanic families, whose wealth remained essentially unchanged during this period. 
+Recent research suggests that this gross disparity will cost the US economy at least a trillion dollars in lost consumption and investment in the next decade.54 The impact of rising inequality within countries manifests in five areas: reduced health outcomes and impaired social cohesion; lower human capital development, literacy and innovation; restricted economic progress; and higher sustainability barriers.55 
+A global affordability crisis
+The costs of basic necessities are rising, and household purchasing power is falling. This dynamic is leading to a global affordability crisis. The cost of life’s basics has risen fast and is absorbing a substantial part of household income. Housing is the largest spending category, accounting for 
+24% of household consumption. In a sample of 22 member countries of the Organization for Economic 
+Co-operation and Development (OECD), housing costs rose by an average of 21% from 2002 to 
+2018. Education costs have gone up even faster, by 5%, while healthcare costs increased by 10%. 
+In combination, these rising costs have eroded household income by up to 29%, putting more families and communities in a vulnerable status. 
+A United Nations Development Programme (UNDP) analysis of 159 developing economies estimates that price spikes in key commodities are having devastating effects on the poorest households: 
+71 million people in these countries have fallen into poverty in just three months as a direct consequence of surges in global food and energy prices.56
+Developing economies
+Developing economies are much more vulnerable to disruptions and have greater difficulty recovering from them. The main obstacles to increased resilience and recovery capacity are overconcentration in specific industries or value chains, rigidities in labour markets, weak social safety nets and a high proportion of youth unemployment – conditions that impede the entry and development of small and medium-sized enterprises (SMEs) and the quality of government services and institutions. To address these challenges, economic development leaders can make efforts to coordinate action in five areas to move towards a sustainable economic development model that increases long-term resilience.
+Sustainable economic development
+2.3
+Drive sustainable and inclusive growth for long-term resilience.
+The Humanitarian and Resilience Investing Initiative (HRI) seeks to help strengthen fragile economies and increase the self-reliance and resilience of communities that are at heightened risk of or have suffered from forced displacement, fragility, conflict, violence or natural disasters.
+Catalysing private capital to strengthen the resilience of the most vulnerable
+B O X 1 9
+Seizing the Momentum to Build Resilience for a Future of Sustainable Inclusive Growth
+
+[Page 30]
+1. Reduce housing, healthcare and energy costs through scalable interventions 
+Economic development leaders should strike a balance between direct subsidies to bridge the gaps to the most vulnerable in the immediate term and interventions that reduce costs in the long run. Initiatives across four dimensions can lower the cost of affordable housing by 20 to 
+50%.57 These dimensions include finding available land and adapting land use regulations, reducing construction costs through value engineering and industrial approaches, increasing operations and maintenance efficiency, and decreasing financing costs for buyers and developers. Healthcare affordability initiatives should focus on using technology such as automation and AI to reduce administrative expenses and preventative care that lowers long-term costs. Energy affordability initiatives should prioritize investments that lower the costs of renewable energy sources and electrification. The latter alone is projected to cut household energy bills by approximately 75% by 
+2030.58
+2. Build a resilient youth workforce
+Young people are three times more likely to be unemployed than older adults, with the global count of unemployed youth reaching 73 million in 2022.59 
+The issue of youth unemployment is significantly pressing for developing economies, where 90% of the world’s young people reside. Economic development leaders should focus on policies, programmes and investments that increase access to early education, target market-relevant skills development and enhance the socio-occupational orientation of youth. For example, in the Middle 
+East, North Africa and Pakistan (MENAP) region, which is home to more than 200 million youth, increasing enrolment in early childhood education and reskilling and upskilling existing workers could generate an additional economic output of $197 billion by 2040.60
+3. Enhance productivity in an inclusive future of work
+Productivity enhancements can be achieved through balanced investments in technology and an inclusive future of work. Investments in technology, such as automation, AI and universal broadband, can fuel dramatic productivity improvements. The 
+International Labour Organization (ILO) estimates that achieving universal broadband coverage by 
+2030 would connect three billion people who have no internet access and could create 24 million new jobs, including 6.4 million jobs for young people.61 
+Furthermore, the International Telecommunication 
+Union’s (ITU) economic model projects that a 10% increase in broadband penetration can lead to an increase in GDP per capita ranging from 1.6-2.0% in low- and middle-income countries.62 
+To ensure inclusive growth, technology innovations need to be balanced with labour measures, such as reskilling and upskilling workers affected by these disruptions. Wide-scale global investment in reskilling and upskilling workers to transition into emerging jobs would add $5 trillion to global GDP by 2030.63 
+4. Support small businesses 
+SMEs represent about 90% of businesses and more than 50% of employment worldwide, making them a foundational asset for resilient economies. 
+Economic development leaders should focus on three key initiatives to support small businesses: access to financing, capability building and scaleup programmes. For example, in Morocco, a public-private partnership for building functional capabilities generated economic returns equal to about 1.5% of national GDP.
+5. Improve the investment environment 
+A favourable investment environment is crucial for attracting productive private investments – a critical driver for growth and poverty reduction. 
+According to the World Bank, governments can create a favourable investment climate by improving government effectiveness, including regulatory quality, labour market regulations and reducing corruption.64 An analysis of 80 countries showed a significant improvement in economic growth from increasing government effectiveness – one unit increase in the Government Effectiveness 
+Indicator led to a 0.68 percentage points increase in real GDP growth rate.65 An example of how a favourable investment environment can drive private investments has been demonstrated in the West 
+Balkans, where harmonizing investment policies and implementing a regional investment promotion initiative generated over $130 million in foreign direct investment (FDI) for the region, creating more than 3,000 jobs, including 2,000 for women.66 The recipe for building resilience is three-fold. 
+First, we need to build strong and inclusive political commitment. 
+Second, we need country ownership –while respecting developing countries’ right to development and industrialization through equitable pathways. Third, we need balanced multi-stakeholder participation which leverages international partnerships.
+Rania Al-Mashat, 
+Minister of International 
+Cooperation, Egypt
+Seizing the Momentum to Build Resilience for a Future of Sustainable Inclusive Growth
+
+[Page 31]
+Building resilient economies would be one of the most capital-intensive endeavours the world has seen and would require specialized expertise. The infrastructure spending gap alone is an annual $5.5 trillion globally between 2017 and 2035.67 With the right partnerships and risk-sharing models, public-private collaborations can bridge the gaps for budget constraints, expertise and innovation while becoming good investment opportunities that maximize resilience outcomes for society. The unprecedented public and private actions during the COVID-19 pandemic have provided evidence of innovative partnerships across areas where building resilience is crucial. However, despite such examples in extraordinary times, public-private collaboration presents challenges that global leaders need to consider.
+Thus far, global public-private projects addressing large-scale resilience issues have been rare occurrences. The Oxford-AstraZeneca COVID-19 vaccine effort was a good example of the kind of partnership the resilience agenda seeks to encourage in all resilience areas.68 Public-private collaboration is usually focused on non-social sectors and heavy infrastructure. The need is growing, however, to increase resilience in social dimensions as well, including education, skills development and healthcare. Globally, social sector public-private projects formed only 5% of projects financed in the last 15 years (20052021). A further point is that large public-privatesector collaborations involving governments and large organizations receive most of the funding and attention. However, smaller-scale projects addressing underserved populations are collectively important. These projects, of $10,000 to $50 million, typically last two years and today form 40% of the reported global public-private project deals.69 
+Maximizing public-private-sector impact
+There are four key challenges in maximizing publicprivate projects’ value across their life cycle: lack of a consistent portfolio of projects aligned with national development plans, inefficient prioritization of projects, ineffective project pipeline management and misallocation of risk between public and private entities. Public-private projects that do not overcome these challenges face cost overruns, delays and increased complexity – and can potentially fail.70 
+To address these challenges, global leaders must take coordinated action to drive public-private collaborations that increase long-term resilience. 
+Create a global resilience agenda powered by a pipeline of scalable public-private projects
+To build resilience, leaders will have to come together to fund a pipeline of projects that collectively address shared resilience vulnerabilities and needs. The most pressing resilience challenges – energy security, food availability or air quality – must be addressed on a global scale.
+Develop innovative collaboration models
+Innovative collaboration models need to be developed to scale up public-private resilience partnerships across a broad variety of sectors and stakeholders. The needed innovation should be based on proactive approaches, where government and private sector leaders collaborate in partnerships that anticipate longer-term needs. 
+Development and dissemination of standards that could help national procurement authorities maintain competition while protecting the IP of the solicitors could be helpful. 
+Collaboration models that cut across several sectors and asset classes are also needed, pulling public and private-sector expertise across the entire resilience value chain. Instead of building a wastetreatment plant, for example, government agencies and private sector companies can collaborate to provide integrated waste-to-energy solutions. 
+Integrated value propositions can enable better outcomes and increased scalability by enhancing project replicability and sustainability. 
+More potential and opportunities to scale publicprivate-sector projects can be derived by involving local and municipal organizations. Actions could include ensuring sponsorship from local government, building capacity and providing dedicated local support, engaging local investors, sponsors and technical partners, ensuring local coordination, and exploring non-traditional sectors and new asset classes, such as municipal infrastructure agencies.
+Create innovative measurements to capture value
+Unlocking public-private collaboration potential in resilience topics requires the creation of innovative measurements that can truly capture value. For example, international financial institutions active in the public-private collaboration space may develop natural capital accounting and wealth accounting principles and help national authorities integrate them into the value-for-money assessments in a practical and consistent way while preventing poor practices such as green-washing.
+Public-private collaboration
+2.4
+Public-private collaboration is essential to the resilience agenda.
+ There is an unmet need of scaling PPPs. 
+Nowadays there are many PPPs at country level, but there are few global partnerships that tackle the largest issues. 
+The question is, how do we focus time, attention and money on areas that matter most?
+Katherine Garrett-Cox, 
+Chief Executive Officer, 
+GIB Asset Management 
+Seizing the Momentum to Build Resilience for a Future of Sustainable Inclusive Growth
+
+[Page 32]
+Ensure excellence in public-private project implementation
+Ensuring excellence in public-private project implementation requires an enhanced focus on five key levers that can enhance the chances of success: careful early selection of projects, structuring risk allocation based on successful global precedents of public-private projects, effective government-stakeholder engagement, maximizing value extraction from the engagement, and simplifying payment mechanisms and ensuring timely payments. 
+Specifically, the effectiveness and efficiency of any project is most often determined by ensuring the optimal level of private sector participation, risk transfer and incentive alignment. To do so, policymakers should align with the private sector on how to consider and price risks across the entire life cycle of a project and how to align incentives, with a particular focus on potential commercial and financial effects. This would make private sector expertise in commercial and financial riskmanagement available to the public partner, while providing the right level of incentives to ensure a successful outcome, generate efficiency gains and capture value.71
+Seizing the Momentum to Build Resilience for a Future of Sustainable Inclusive Growth
+
+[Page 33]
+Conclusion: 
+A call to action
+The World Economic Forum, with McKinsey & 
+Company, has presented in this paper the first integrated view of the resilience agenda. It is hoped that light has been shed on the crucial resilience areas where transformative efforts must focus, as well as on the enablers that will facilitate this. 
+Indeed, this agenda points to a global public-private sector undertaking on a scale not seen in a long time. The confluence of crises and disruptions that have been experienced, however, demands nothing less. The world must act now on this agenda, building on the collective momentum of recent ongoing work by many organizations to repair and improve societies and economies.
+It is crucial to acknowledge the Resilience 
+Consortium, which brings together leaders from the public and private sectors committed to building resilience globally, and across regions, economies and industries. New members are encouraged to join this effort. Now is indeed the time for action. 
+The decisions and financial commitments made today will determine the future course of the planet, economies and societies. With the resilience agenda, policy-makers and business leaders together can seize opportunities and act to realize sustainable, inclusive and long-term global growth.
+Seizing the Momentum to Build Resilience for a Future of Sustainable Inclusive Growth
+
+[Page 34]
+Resilience Consortium
+The World Economic Forum and its Resilience Consortium are pleased to acknowledge and express special thanks to member organizations and governments.
+Resilience Consortium Steering Committee 
+As of 5 January 2023
+Nikesh Arora 
+Chief Executive Officer and Chairman, Palo Alto 
+Networks
+Børge Brende 
+President, World Economic Forum
+Katherine Garrett-Cox 
+Chief Executive Officer, GIB Asset Management, 
+Gulf International Bank
+Roy Gori 
+President and Chief Executive Officer, Manulife
+Svein Tore Holsether
+President and Chief Executive Officer, Yara 
+International ASA
+Paula Ingabire
+Minister of Information Communication Technology and Innovation, Ministry of Information Communication 
+Technology and Innovation of Rwanda
+Mohammed Al-Jadaan 
+Minister of Finance, Ministry of Finance of Saudi Arabia
+Leif Johansson
+Chairman of the Board, AstraZeneca
+Christian Lanng 
+Chief Executive Officer, Chairman and Co-Founder, 
+Tradeshift
+Rania A. Al-Mashat 
+Minister of International Cooperation, 
+Ministry of International Cooperation of Egypt
+Peter Maurer
+President of the Board, Basel Institute on Governance
+Mariam Mohammed Saeed Al Mheiri
+Minister of Climate Change and the Environment, 
+Ministry of Climate Change and Environment of the United Arab Emirates
+Christian Mumenthaler
+Group Chief Executive Officer, Swiss Reinsurance
+Catherine Russell
+Executive Director, United Nations Children’s Fund (UNICEF)
+Bob Sternfels 
+Global Managing Partner, McKinsey & Company
+It is the policy of the World Economic Forum to safeguard the privacy of its members and participants by preventing any misuse of personal information provided to us for the purpose of facilitating contact and dialogue in furtherance of the Forum’s mission.
+ –
+All participants in any World Economic Forum activity agree to treat any information related to the list of participants and participant contact information as strictly confidential and to use it solely to facilitate personal communication among participants of World Economic Forum activities.
+ –
+They agree that this information shall not be used for any other purpose, including solicitation for commercial endeavours.
+In case of violation of this rule, the World Economic Forum reserves the right to take any action it deems appropriate and necessary to protect the nature and the confidentiality of its activities.
+Seizing the Momentum to Build Resilience for a Future of Sustainable Inclusive Growth
+
+[Page 35]
+Contributors
+World Economic Forum 
+Andre Belelieu
+Head, Insurance, Asset Management and Institutional Investors
+Andrej Kirn
+Head, International Organizations and Humanitarian Agenda
+Miriam Schive
+Deputy Head, International Organizations and Humanitarian Agenda
+McKinsey & Company
+Rima Assi
+Senior Partner, Social, Healthcare and Public Entities Practice
+Richard Bucci
+Senior Editor
+David Frances
+Partner
+Maria Martinez
+Senior Partner, Global Co-leader Risk and Resilience Practice
+Mihir Mysore
+Partner, Risk and Resilience Practice
+Alfonso Natale
+Partner, Risk and Resilience Practice
+Daniel Pacthod
+Senior Partner and Global Head, Sustainability Practice
+Thomas Poppensieker
+Senior Partner, Risk and Resilience Practice
+Sven Smit
+Senior Partner, Chair, McKinsey Global Institute
+Michael Thun
+Senior Expert, Risk and Resilience Practice
+Andreea Zugravu
+Partner, Social, Healthcare, and Public Entities Practice
+Seizing the Momentum to Build Resilience for a Future of Sustainable Inclusive Growth
+
+[Page 36]
+Acknowledgements 
+This paper is based on numerous consultations and inputs from World Economic Forum colleagues leading resilience-related initiatives. Sincere thanks are given to all those who contributed their insights via interviews or written contributions, including those not captured here.
+McKinsey & Company 
+Chiara Cuminale
+Consultant
+Fatema Hajeeh
+Consultant
+P.J. Huang
+Project Manager
+Areej Irfan
+Consultant
+Ines Jaworski
+Consultant
+Jake Milner
+Consultant
+Konstantinos Papakostas
+Project Manager
+Iris Roelens
+Consultant
+Jose Tellechea
+Consultant
+Sherif Youssef
+Consultant
+Nicole Zhen
+Consultant
+Sharon Zhou
+Consultant
+Seizing the Momentum to Build Resilience for a Future of Sustainable Inclusive Growth
+
+[Page 37]
+Endnotes and-transportation. 
+2. “018 Renewable Energy Data Book”, United States Office of Energy Efficiency and Renewable Energy, 18 February 2020, 
+3. 
+International Energy Agency (IEA), World Energy Investment 2022, 2022, https://iea.blob.core.windows.net/assets/ b0beda65-8a1d-46ae-87a2-f95947ec2714/WorldEnergyInvestment2022.pdf; IEA, World Energy Investment 2016, 2016, 
+4. “UN Report: Global hunger numbers rose to as many as 828 million in 2021”, World Health Organization, 6 July 2022, 
+5. 
+6. org/agenda/2021/08/how-essential-are-pollinators-for-global-food-security. 
+7. 
+World Economic Forum, Half of World’s GDP Moderately or Highly Dependent on Nature, Says New Report [Press dependent-on-nature-says-new-report/. 
+8. mckinsey.com/capabilities/sustainability/our-insights/sustainability-blog/reflections-from-cop27-ten-takeaways-for-ceos.
+9. 
+The International Energy Agency (IEA) estimates that the European Union could spend €65 billion a year through 2030 to reduce its dependence on Russian gas.
+10. 
+11. 
+Haegeli, Jerome Jean and Hendre Garbers, “Decarbonisation tracker: progress to net zero through the lens of climate-and-natural-catastrophe-risk/decarbonisation-tracker.html. 
+12. 
+World Economic Forum, Scaling investments in nature: The next critical frontier for private sector leadership, 2022, leadership/. 
+13. 
+14. “A reflection on global food security challenges amid the war in Ukraine and the early impact of climate change”, agriculture/our-insights/a-reflection-on-global-food-security-challenges-amid-the-war-in-ukraine-and-the-early-impact-ofclimate-change. 
+15. “Food and climate change: the vital, but often overlooked links between the two,” World Economic Forum, 10 October heres-how-the-food-and-energy-crises-are-connected/. 
+16. org/whitepapers/a-global-rewiring-redefining-global-value-chains-for-the-future. 
+17. capabilities/strategy-and-corporate-finance/our-insights/global-flows-the-ties-that-bind-in-an-interconnected-world. 
+18. for-trade-facilitation.
+19. shaping-the-future-of-trade-and-global-economic-interdependence. 
+20. capabilities/operations/our-insights/taking-the-pulse-of-shifting-supply-chains. 
+21. 
+Maor, Dana, Michael Park and Brooke Weddle, “Raising the resilience of your organisation”, McKinsey & Company, the-resilience-of-your-organisation. 
+22. jobs-report-2020/. 
+23. “The talent shortage survey”, ManpowerGroup, 2022, https://go.manpowergroup.com/talent-shortage. 
+24. 
+Agrawal, Sapana, Aaron De Smet, Sébastien Lacroix and Angelika Reich, “To emerge stronger from the COVID-19 crisis, com/capabilities/people-and-organizational-performance/our-insights/to-emerge-stronger-from-the-covid-19-crisiscompanies-should-start-reskilling-their-workforces-now. 
+Seizing the Momentum to Build Resilience for a Future of Sustainable Inclusive Growth
+
+[Page 38]
+“70 per cent of 10-year-olds in ‘learning poverty’, unable to read and understand a simple text”, UNICEF, June 2022, 
+26. 
+27. ”70% of 10-Year-Olds now in Learning Poverty, Unable to Read and Understand a Simple Text”, World Bank, 23 June 2022, read-and-understand-a-simple-text.
+28. 
+World Economic Forum, Risk Proof: A Framework for Building Organizational Resilience in an Uncertain Future, 2022, 
+29. 
+Wagner, Renate, “What does leadership mean in an age of perpetual change?”, World Economic Forum, 20 January 2020, 
+30. diversity-and-inclusion/diversity-wins-how-inclusion-matters.
+31. 
+Masiga, Juliet, “Why diversity, equity and inclusion should be at the heart of economic recovery”, World Economic Forum, 
+32. 
+De Smet, Aaron, Bonnie Dowling, Bryan Hancock and Bill Schaninger, “The Great Attrition is making hiring harder. Are people-and-organisational-performance/our-insights/the-great-attrition-is-making-hiring-harder-are-you-searching-theright-talent-pools. 
+33. 
+Whiting, Kate, “These are the top 10 job skills of tomorrow – and how long it takes to learn them”, World Economic to-learn-them/. 
+34. 
+World Economic Forum, Shaping the Global Agenda on Ageing: Meeting the Needs of Cognitive Decline, 2016, https://www3.weforum.org/docs/WEF_Meeting_Needs_Cognitive_Decline_070916.pdf. 
+35. file/0004/404851/MNH_FactSheet_ENG.pdf.
+36. 
+37. healthcare-systems-and-services/our-insights/prioritizing-health-a-prescription-for-prosperity.
+38. “Prioritizing brain health: Scaling what works to add years to life and life to years”, McKinsey Health Institute, 8 November 2022, 
+39. 
+Ghouaibi, Amira, and Mbali Motsoeneng, “How to protect healthcare workers – and improve pandemic preparedness”, workers-improving-pandemic-preparedness-jobs-reset-summit-2021/. 
+40. “Not the last pandemic: Investing now to reimagine public-health systems”, McKinsey & Company, 21 May 2021, reimagine-public-health-systems.
+41. “Uneven access to health services drives life expectancy gaps: WHO”, World Health Organization, 4 April 2019, 
+42. 
+World Economic Forum, Time to Act: Investing in Addressing Social Determinants to Improve Health, 2021, https://www3.weforum.org/docs/WEF_Investing_in_Addressing_Social_Determinants_to_Improve_Health_2021.pdf. 
+43. health/health-at-a-glance-2017_health_glance-2017-en.
+44. 
+Chui, Michael, Roger Roberts and Lareina Yee, “McKinsey Technology Trends Outlook 2022”, McKinsey & Company, 
+45. “Twenty-five years of digitization: Ten insights into how to play it right”, McKinsey Global Institute, 21 May 2019, how-to-play-it-right.
+46. 
+Boehm, Jim, Liz Grennan, Alex Singla and Kate Smaje, “Why digital trust truly matters”, McKinsey & Company, 
+47. 
+World Economic Forum, State of Quantum Computing: Building a Quantum Economy, 2022, https://www3.weforum.org/ docs/WEF_State_of_Quantum_Computing_2022.pdf.
+48. “The net-zero transition: What it would cost, what it could bring”, McKinsey & Company, January 2022, could-bring. 
+49. 
+United Nations Environment Programme, Adaptation Gap Report 2022: Too Little, Too Slow – Climate adaptation failure 
+50. 
+SwissRe has shown the critical role insurance will play in maintaining resilience as the global economy undergoes fundamental changes: see “Maintaining resilience as a new world order takes shape”, SwissRE Research Institute, 
+Seizing the Momentum to Build Resilience for a Future of Sustainable Inclusive Growth
+
+[Page 39]
+Sondermann, David, Towards More Resilient Economies: The role of well-functioning economic structures, European 
+52. 
+World Inequality Lab, World Inequality Report 2022, https://wir2022.wid.world/executive-summary/.
+53. “Rising inequality affecting more than two-thirds of the globe, but it’s not inevitable: new UN report”, United Nations, 
+21 January 2020, https://news.un.org/en/story/2020/01/1055681. 
+54. 
+Noel Nick, Duwain Pinder, Shelley Stewart, and Jason Wright, The economic impact of closing the racial wealth gap, impact-of-closing-the-racial-wealth-gap.
+55. 
+Pickett, Kate, “5 reasons why we need to reduce global inequality”, World Economic Forum, 22 September 2015, 
+56. “Global cost-of-living crisis catalyzed by war in Ukraine sending tens of millions into poverty, warns UN Development sending-tens-millions-poverty-warns-un-development-programme. 
+57. 
+McKinsey Global Institute, A blueprint for addressing the global affordable housing challenge, 2014, affordable%20housing%20challenge/mgi_affordable_housing_executive%20summary_october%202014.ashx.
+58. “The energy affordability crisis: Quantification, solutions, implications”, Goldman Sachs, 6 September 2022, 
+59. “Global employment trends for youth 2022: Investing in transforming futures for young people”, International Labour 
+60. com/~/media/mckinsey/locations/Europe%20and%20middle%20east/middle%20east/our%20insights/opportunity%20 youth%20imagining%20a%20bright%20future%20for%20the%20next%20generation/opportunity-youth-imagining-abright-future-for-the-next-generation.pdf.
+61. 
+International Labour Organization, Global employment trends for youth 2022: Investing in transforming futures for young 
+62. 
+Katz, Raul and Juan Jung, The economic impact of broadband and digitization through the COVID-19 pandemic: 
+IMPACT_B-202.
+63. for-shared-prosperity/.
+64. 
+World Bank, World Development Report 2005: A Better Investment Climate for Everyone, 2004, pp. 19-35, http://web.worldbank.org/archive/website01503/WEB/IMAGES/WDR_20-2.PDF.
+65. 
+Alam, Rafayet, et al., “Government effectiveness and economic growth”, Economics Bulletin, vol. 37, no. 1, 
+66. 
+67. “Bridging infrastructure gaps: Has the world made progress?”, McKinsey Global Institute, 13 October 2017, progress
+68. “Public-private alliance drives historic vaccination programme”, World Economic Forum, 10 March 2021, 
+69. 
+Ahmad, Aijaz and Shyamala Shukla, “Small public-private partnerships: inevitable and essential”, World Bank, 
+1 March 2016, https://blogs.worldbank.org/ppps/small-public-private-partnerships-inevitable-and-essential. 
+70. 
+Beckers, Frank and Uwe Stegemann, “A Smarter Way to Think About Public-Private Partnerships”, McKinsey & to-think-about-public-private-partnerships. 
+71. 
+Beckers, Frank and Uwe Stegemann, “A Smarter Way to Think About Public-Private Partnerships”, McKinsey & to-think-about-public-private-partnerships.
+Seizing the Momentum to Build Resilience for a Future of Sustainable Inclusive Growth
+
+[Page 40]
+World Economic Forum
+91–93 route de la Capite
+CH-1223 Cologny/Geneva
+Switzerland 
+Tel.: +41 (0) 22 869 1212
+Fax: +41 (0) 22 786 2744 contact@weforum.org
+The World Economic Forum, committed to improving the state of the world, is the 
+International Organization for 
+Public-Private Cooperation.
+ 
+The Forum engages the foremost political, business and other leaders of society to shape global, regional and industry agendas.
+Seizing the Momentum to Build Resilience for a Future of Sustainable Inclusive Growth

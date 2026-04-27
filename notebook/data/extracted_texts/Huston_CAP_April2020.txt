@@ -1,0 +1,3018 @@
+[Page 5]
+HOUSTON CLIMATE ACTION PLAN
+Letters 
+How to Read this Plan 
+Focus Areas and Goals 
+Introduction 
+Community Baseline GHG Inventory 
+Goals and Targets 
+Strategies 
+Leading by Example 
+Transportation 
+Energy Transition 
+Building Optimization 
+Materials Management 
+Implementation 
+Appendix I: Glossary 
+Appendix II: Methodology 
+Appendix III: Baseline Inventory 
+References 
+Acknowledgments
+
+[Page 6]
+HOUSTON CLIMATE ACTION PLAN
+Houstonians have experienced the effects of climate change. Hurricane Harvey was larger, slower, and had 40% more rain than it would have if it had occurred 100 years ago. 
+In Houston, spring arrives three weeks earlier than it did even a generation ago and our already hot summers keep getting hotter. We are adapting to climate change by raising buildings, increasing detention, and promoting green stormwater infrastructure. But 
+Houston can’t build our way out of this challenge. We also have an obligation to do our part to reduce the severity and frequency of future storms and heat waves on our people and property through the reduction of carbon emissions.
+Houston is a global city and climate change is a global challenge, which is why as a member of C40 Cities Global Climate Leadership Group and Vice Chair of U.S. Climate 
+Mayors, I am committed to doing our part to make Houston carbon neutral by 2050 in accordance with the Paris Climate Agreement. 
+I am proud to be Houston’s first Mayor to accept this challenge head-on by releasing 
+Houston’s first Climate Action Plan (CAP)—a science-based, community-driven strategy for our transportation networks, building operations, and waste systems to be as clean and efficient as possible. 
+The CAP also outlines Houston’s role as the Energy Capital of the World to lead in the global energy transition. For decades, Houston and the energy industry have been linked. 
+As a life-long Houstonian and Mayor of our city, I am proud of this history of innovation, growth and prosperity the energy industry has brought to our community. As leaders of the energy industry, it is our responsibility to continue this legacy to develop innovative technologies and practices that will reduce carbon emissions. No other city is better suited to tackle climate change than Houston. And Houstonians already understand the consequences to our lives and our economy if we do nothing—larger, slower hurricanes, stronger rain events, longer, hotter summers and the safety, health and property impacts that come with them. 
+We can’t fix the problem overnight—but if we take bold, transformative action to lead our city down a more sustainable path, we’ll leave behind a better Houston, and a better world, for future generations. 
+Mayor Sylvester Turner
+
+[Page 7]
+HOUSTON CLIMATE ACTION PLAN
+It has been an honor to lead the incredible team that made Houston’s first Climate 
+Action Plan possible. 
+And while it bears the City seal, I cannot stress enough that this is a plan for our entire community. Our plan is designed to be a living document that fits the diverse, unique and ever-changing needs of our city. 
+To the City Departments, students, professors, non-profits, civic associations, friends, neighbors, small-businesses, and multi-national corporations that participated in the planning process—thank you for joining us in this mission. A special thanks to the 
+Houston Advanced Research Center for your unwavering technical support and 
+CenterPoint Energy and the Jacob & Terese Hershey Foundation for funding our efforts. 
+We could not have created these goals or a plan to reach them without your leadership in our city.
+I hope those of you who have been with us from the beginning and those joining us for the first time can appreciate this historic moment. It is no small feat for a city that prides itself on being the “energy capital of the world” to make a public commitment to climate action. As Houstonians, we are proud of our past and we should be equally proud of our future. Every day more companies in Houston are committing to cleaner energy, establishing climate goals, and developing technology that will power a low-carbon economy. 
+The Climate Action Plan is a good combination of ambitious goals and common-sense solutions. We don’t have all the answers, and that’s ok. We do know that science is behind us and technology is on our side. What is important is that every single one of us does our part. I invite everyone to read the plan, learn about what climate action means for 
+Houston, and join us as we try to build a more sustainable and resilient city.
+Chief Sustainability Officer Lara Cottingham
+
+[Page 8]
+TARGETS
+CO-BENEFITS
+COMPLEMENTARY 
+INITIATIVES
+HOUSTON CLIMATE ACTION PLAN
+PURPOSE
+In 2017, Mayor Sylvester Turner commissioned the City’s Office of Sustainability to create Houston’s first Climate Action Plan—a high-level greenhouse gas (GHG) emissions reduction strategy for the City of Houston to meet the Paris Climate Agreement goal of carbon neutrality by 2050.
+SCOPE
+The scope of the Climate Action Plan includes all emissions generated inside city limits and establishes a baseline of greenhouse gas emissions using 2014 data (see 
+Appendix III: Houston GHG Baseline Inventory).
+AUDIENCE AND VOICE
+The Climate Action Plan (“the CAP” or “the Plan”) is written using a collective voice to represent the diverse range of stakeholders who worked for more than a year to draft the 
+Plan, including the business sector; academia; City of Houston departments; neighborhood, community, and non-profit organizations; students; and residents. The CAP includes strategies and actions directed at both the private and public sectors. Goals, strategies, and actions are community-driven, and will require support from individuals and organizations throughout the community, unless specifically noted as a municipal action requiring 
+Houston City Council approval. 
+The CAP is a living document—regularly measured, verified, and updated—providing an opportunity for continual community feedback as to how Houston can best achieve a carbon neutral future.
+HOW TO READ THIS PLAN
+ORGANIZATION AND STYLE
+The CAP is organized into four focus areas: Transportation, Energy 
+Transition, Building Optimization, and Materials Management. > Each focus area has three goals to be achieved through strategies and actions. > Each goal highlights a target and the top three potential co-benefits and complementary initiatives.
+> Goals, strategies, and actions are summarized in the Implementation section with: 
+- Targeted year of completion
+- Key stakeholders and partners
+- Estimated impact on greenhouse gas emissions
+Throughout the document, glossary terms are highlighted in green text. 
+Their definitions can be found in Appendix I.
+
+[Page 9]
+HOUSTON CLIMATE ACTION PLAN
+FOCUS AREAS & GOALS
+The Climate Action Plan consists of 4 FOCUS AREAS, with 3 GOALS each
+TRANSPORTATION
+Goal 1: Shift regional fleet to electric and low-emission vehicles.
+Goal 2: Reduce vehicle miles traveled (VMT) per capita.
+Goal 3: Provide equitable and safe mobility choices.
+ENERGY TRANSITION
+Goal 1: Grow Houston’s investment in renewable and resilient energy.
+Goal 2: Make Houston the leader in carbon capture technology and energy innovation.
+Goal 3: Restore, protect, and enhance Houston’s natural ability to capture and store carbon.
+BUILDING OPTIMIZATION
+Goal 1: Reduce building energy use and maximize savings.
+Goal 2: Expand investment in energy efficiency.
+Goal 3: Invest in skilled local jobs to optimize building operations. 
+MATERIALS MANAGEMENT
+Goal 1: Reduce waste and transform the circular economy.
+Goal 2: Optimize waste operations and create power from waste.
+Goal 3: Ensure safe and cost-effective long-term disposal capacity.
+
+[Page 10]
+HOUSTON CLIMATE ACTION PLAN
+Street flooding during Hurricane Harvey
+
+[Page 11]
+Imagination and innovation are central to Houston’s success and reputation as the Space City, 
+Bayou City, and Energy Capital of the World. Houston’s high quality of life and economic opportunity attract immense growth—making it the fourth-largest and most-diverse city in the United States. 
+As a community, we look forward to continued growth and prosperity as the long-term outlook for the region’s economy remains strong. 
+Climate change presents an unprecedented challenge that threatens the safety and prosperity of our community. As the atmosphere and oceans warm, Houston is seeing increased rainfall from hurricanes and extreme flooding events that cause extensive damage and disruption. The largest rain event in North American history and one of the costliest hurricanes on record, Hurricane Harvey became a catalyst for our community to consider actions that better prepare us for future climate events and lessen the intensity of the effects of a warmer, wetter climate. 
+An overwhelming majority of scientists agree that recent climate-warming trends are due to modern human activities. As recommended by the 
+Intergovernmental Panel on Climate Change (IPCC), preventing global temperatures from rising more than 1.5 degrees Celsius by 2050 will avert the worst consequences of climate change. 
+Without any action to reduce global greenhouse gas (GHG) emissions, we can expect greater frequency and severity of extreme weather events like heat waves, floods, and droughts. 
+Climate change also impacts our air quality, water quality, food security, and the transmission of vector-borne and water-borne diseases, prompting the City to undertake a climate impact assessment to obtain more specific information about Houston climate projections and scenarios.
+As cities like Houston grow, the associated GHG emissions that cause our atmosphere to warm are also expected to grow. Nations, cities, and companies across the world are setting ambitious targets to reduce GHG emissions and limit warming in order to reduce climate risk. Following the announcement of the U.S. withdrawal from the 
+Paris Climate Agreement, Mayor Sylvester Turner made a commitment for Houston to adopt, honor, and uphold the goals of the climate accord, which includes becoming carbon neutral by 2050. As co-chair of the Climate Mayors network, Mayor 
+Turner and a bi-partisan coalition of more than 425 mayors across 49 states continue to demonstrate commitment and leadership to strengthen local efforts to accelerate GHG emission reductions.
+INTRODUCTION
+
+[Page 12]
+HOUSTON CLIMATE ACTION PLAN
+Developed by the City of Houston in partnership with residents and stakeholders, this first community-wide Climate Action Plan (CAP) includes strategies and actions that are evidencebased, practical, and cost-effective. Actions were prioritized based on possible emissions reductions and potential to improve community equity and resilience, reduce pollution and waste, and boost the local economy. Although the geographic scope of the CAP is the city’s general-purpose jurisdictional boundary, demonstrating local leadership and innovation in reducing GHG emissions will accelerate climate action across the region and the world. As a city, as a community, and as individual members of society, we must go beyond simply doing “our part” and lead by example.
+ENERGY CAPITAL OF 
+THE WORLD
+Houston is a global city that is dynamic, diverse, and rich in cultural and natural resources. We are the city that put man on the moon and home to the largest medical complex in the world. Our strong history of implementing ambitious and innovative programs combined with effective and market-driven policies has led to a strong local economy with a distinctive mix of world-renowned companies, academic institutions, and philanthropic partnerships. Home to 22 Fortune 500 companies and over 4,600 energy-related firms, 
+Houston is proudly known as the “Energy Capital of the World.” Our leadership and innovation in the energy industry has helped fuel decades of prosperity and economic growth. Building on this legacy of energy innovation, Houston is uniquely positioned to lead a global energy transition, build a low-carbon economy, and reduce greenhouse gas (GHG) emissions in cities around the world.
+As the global energy capital, Houston is already pioneering how energy is generated, delivered, and used from both renewable and traditional carbon sources. Like other international cities with emissions-reduction goals, we promote best practices wherever possible, such as use of renewable energy and nature-based solutions. However, we must also embrace a path forward to reduce emissions generated from fossil fuel systems through carbon capture, utilization, and storage (CCUS) and other emissions reduction technologies. 
+While continuing to advance renewable use in the global energy portfolio, Houston has unmatched resources and potential to innovate in the fields of research and technology development, clean-tech investment, and emissions-reducing infrastructure required to develop low-carbon solutions. 
+The primary purpose of this first Climate Action Plan (CAP) is to provide a framework that will stimulate 
+INTRODUCTION
+
+[Page 13]
+HOUSTON CLIMATE ACTION PLAN
+CAP Stakeholder and Community Meetings
+A Data- and Stakeholder-Driven Process
+Data measurement is completed on current emissions
+Data is analyzed by sector to better understand citywide footprint
+Stakeholders evaluate and propose potential actions for likelihood of adoption, accessibility, and local impact
+City and community take measures to support science-based targets
+Outputs and recommendations are summarized in policy brief
+Data is input into the C40 
+Pathways tool to drive scenario planning and action steps collaboration across industry sectors to minimize our contribution to global GHG emissions. The CAP defines bold goals for the community as a whole and sets subsequent strategies that complement other 
+City and private sector initiatives. The CAP will not only position Houston as a leader of the global energy transition, but also drive economic opportunity, promote environmental sustainability, and secure Houston’s status as a thriving, equitable, and global city. 
+DESIGN
+The CAP is a product of cross-sector collaboration between subject-matter experts, local businesses, community stakeholders, residents, and City departments designed to put Houston on the path to carbon neutrality. The development of the 
+CAP was an iterative process, driven by data, and shaped by continuous review and feedback from stakeholders and the general public. A pathway of equitable and inclusive initiatives based on data, best practices, and local expertise was modeled to estimate the results that the proposed actions would have on reducing GHG emissions each year. Priority was placed on actions with community support that could be implemented quickly and achieve long-lasting positive impacts.
+INTRODUCTION
+
+[Page 14]
+HOUSTON CLIMATE ACTION PLAN
+-10
+-20
+-30
+FLOODING
+HEAT
+POOR AIR QUALITY
+FOSSIL-FUELED
+POWER PLANTS
+DEVELOPMENT
+SPRAWL
+LANDFILL WASTE
+TRAFFIC
+GROCERIES
+ROOM FOR
+THE BAYOU
+MULTIMODAL & EFFICIENT
+TRANSPORTATION
+FLOOD
+PROOFING
+RENEWABLE
+ENERGY
+MITIGATION: Process that help to reduce the impact and rate of future climate change by minimizing emissions of heat-trapping gasses and removing them from the atmosphere.
+ADAPTATION: Adjustments to various systems in response to the anticipated eﬀects or impacts of climate change.
+URBAN
+GARDENS
+WASTE
+SOLUTIONS
+ENERGY EFFICIENT 
+BUILDINGS
+TREES
+COMPLETE
+COMMUNITIES
+CLIMATE CHANGE CAUSES & IMPACTS
+SOLUTIONS: MITIGATION & ADAPTATION
+SUSTAINABILITY AND 
+RESILIENCE GO HAND IN HAND
+Houston has experienced six federally declared flooding disasters during the past five years, which produced 100-year and 500-year floods—
+Memorial Day, 2015; Halloween, 2015; Tax Day, 
+2016; Hurricane Harvey, 2017; and Tropical 
+Depression Imelda, 2019.1 This has prompted the 
+City to undertake a climate impact assessment to better predict and plan for hazards associated with the changing frequency, severity, and scale of extreme weather events. This assessment will help evaluate the impacts of climate change on Houston residents, businesses, and vital infrastructure (e.g. utilities, hospitals, and roads) and will further define how we will address our changing climate through both mitigation and adaptation. By limiting global temperature rise through emissions mitigation, we reduce the pace in which we will need to adapt to increasingly extreme weather.2
+The CAP was developed as a companion document to Resilient Houston, the City’s resilience strategy. 
+Resilient Houston’s five thematic visions illustrate 
+Houston as a healthy place to live; an equitable, inclusive, and affordable city; a leader in climate adaptation; a city that grows up, not out; and a transformative economy that builds forward. 
+For a more comprehensive review of Houston’s social and economic context, we refer you to 
+Resilient Houston.
+Since several of the CAP actions also build resilience, we have included a designation of which CAP actions can be cross-referenced to particular actions in Resilient Houston later in the Implementation section.
+Source: Resilient Houston
+INTRODUCTION
+
+[Page 15]
+HOUSTON CLIMATE ACTION PLAN
+PARIS CLIMATE AGREEMENT: 
+COMPLIANT BY 2050
+When the federal government announced its intent to withdraw from the Paris Climate 
+Agreement in 2017, Houston and other cities came together to support bold efforts to limit the temperature increase to 1.5 degrees Celsius above pre-industrial levels. If current rates of warming continue, global temperatures will reach 
+1.5 degrees Celsius by 2040, which will result in unprecedented social, environmental, and economic impacts.3 As mutually agreed by countries participating in the 2016 accord, it is imperative to establish pathways to achieve short-, medium-, and long-term GHG reduction targets as overall global emissions continue to increase.4 The sooner emissions are reduced, the higher the probability that we can prevent global temperatures from rising more than 1.5 degrees Celsius by 2100. 
+Taking practical, cost-effective steps to develop global low-carbon energy, transportation, and waste solutions will allow Houston to lead this global effort and improve quality of life for the local community. 
+Global cities, including Houston, are aligning local actions with the Sustainable Development Goals (SDGs), a collection of 17 goals established by the United Nations General Assembly in 2015 for the year 2030. 
+All 17 SDGs are represented in Resilient Houston, the City’s comprehensive resilience strategy. Many actions in the CAP are coordinated with the SDGs; the CAP is in greatest alignment with:
+MAXIMIZING CLIMATE ACTION FOR 
+SUSTAINABLE DEVELOPMENT
+7. Affordable and Clean Energy
+11. Sustainable Cities and Communities
+12. Responsible Consumption and Production
+13. Climate Action
+At current rates, global temperatures would reach 
+1.5°C around 2040. Stylized 1.5°C pathway shown here involves global emission reductions beginning immediately, and global CO2 emissions reaching net zero by 2055. Source: IPCC, FAQ1.2, Figure 1
+How close are we to 1.5˚C? 
+Human-induced warming reached approximately 
+1˚C above pre-industrial levels in 2017.
+INTRODUCTION
+
+[Page 16]
+Accessibility >
+Affordability >
+Resilience >
+Cost-Savings >
+Economic Growth >
+Improved 
+Environmental 
+Quality >
+Better Health and 
+Well-being >
+Workforce 
+Development
+CO-BENEFITS OF 
+CLIMATE ACTION
+HOUSTON CLIMATE ACTION PLAN
+EQUITABLE AND INCLUSIVE 
+SOLUTIONS
+The diversity of cultures within our city sets 
+Houston apart, making us a strong, vibrant, and cosmopolitan city. In order to achieve the goal of a sustainable, equitable, and resilient Houston, however, we must ensure that diversity and social vulnerability are proactively addressed. 
+As a community, we must develop solutions to address a climate transition and promote economic growth in an inclusive and transparent manner that addresses historic disparities, as well as those which exist in the present day. The effects of climate change are already impacting our communities and climate-related risks will intensify without additional action.4 Houstonians who have the means to save for a potential emergency and reduce risks to their homes and businesses will likely find a way to adapt to the negative impacts of climate change, but many households and communities do not have the same access to necessary resources. Thus, we must make sure that our mitigation strategies prioritize supporting those who need the most help. 
+In 2017, the median annual income of households in Houston was approximately 15% less than median annual household incomes across Harris 
+County, the state, and the nation.5 Houston’s population is aging. The percentage of residents aged 65 and over currently comprises 10% of our population. By 2040, that population will be nearly 
+10% larger than it is today.6 Through the CAP, we are committed to accelerating the transition to a low-carbon economy and hope to establish and implement equitable solutions that meet community needs and do not place additional burdens on traditionally disenfranchised, lowincome, or vulnerable populations.
+PARTNERSHIPS AND 
+JOINT ACTION: 
+COMPLEMENTARY 
+INITIATIVES
+It is important to understand that climate change is a challenge that the City of Houston cannot tackle alone. To achieve these ambitious climate goals, additional collaboration and leadership from stakeholders will be necessary to accelerate emissions reductions from sectors where the City has limited control.
+The good news is that a wide range of resilience and sustainability initiatives are already underway across our community. In addition to launching new climate initiatives, the CAP integrates and aligns existing community initiatives and City of 
+Houston planning efforts with GHG reduction goals. In order to promote and build upon the great work that is already happening throughout the city and region, examples of complementary initiatives that have been recommended by stakeholders, community members, and subject-matter experts are referenced throughout the CAP. By highlighting these initiatives, the CAP is not endorsing any specific community initiative, but hopes to inspire collaboration and awareness to build community capacity to achieve emissions reductions.
+SOLVING MULTIPLE 
+PROBLEMS AT ONCE: 
+CO-BENEFITS
+Houston is a city of opportunity. As competition in the global marketplace increases, we need to ensure that our communities, our ecosystems, and our economy are prepared for changes in climate conditions. Many of the actions in the CAP have numerous co-benefits in addition to reducing greenhouse gas emissions. For example, actions that reduce vehicle miles traveled (VMT) may also result in cost-savings by lowering transportation expenses and improve environmental quality by decreasing vehicle emissions. Consideration of these added benefits is an opportunity to prioritize actions that also positively impact other community needs.
+INTRODUCTION
+
+[Page 17]
+“I am committed to making sure that we do not have two cities in one: of haves and have-nots. We are all Houstonians and we deserve the right to improve and move forward together.”
+Mayor Sylvester Turner’s Inauguration Speech, January 4, 2016
+The Sunnyside Energy Project includes many community opportunities that will turn an unmaintained, methane-leaking landfill into a vibrant, clean, economically viable, maintained, health-inspiring good neighbor. Source: Sunnyside Energy, LLC
+HOUSTON CLIMATE ACTION PLAN
+Mural located on the corner of Holman St. & Ennis St. at Blackshear elementary school. Artist: Anat Ronen. Source: @lefchek
+
+[Page 18]
+HOUSTON CLIMATE ACTION PLAN
+COMMUNITY GHG 
+BASELINE INVENTORY
+The development of the Climate Action Plan (CAP) has been guided by the best available science and data. The City worked with C40 Cities to conduct a community-wide baseline inventory using the standard reporting method, Global 
+Protocol for Community-Scale Greenhouse Gas 
+Emissions (GPC), to better understand the sources of Houston’s GHG emissions and track progress over time. Based on the availability and quality of existing data, 2014 was selected as the baseline year using the city’s general-purpose boundary and excluding the extraterritorial jurisdiction and limited-purpose boundary (such as the Houston 
+Ship Channel). The methodology and complete baseline inventory (2014) are both included as appendices to this report.
+Houston has one of the largest rates of per capita GHG emissions in the U.S., counting 14.9 metric tonnes of Carbon dioxide equivalent (CO2e) per capita per year. This section outlines our energy, transportation, and waste GHG emissions. In the baseline year 2014, Houston emitted 34,316,303 metric tonnes of CO2e. Nearly half of these emissions (49%) are linked to the energy generated to power our homes, businesses, institutions, and industry. The next largest source of emissions come from transportation fuel sources—mostly gasoline and diesel (47%). Most of these emissions are from private sector vehicles, with a fraction coming from railway emissions and public sector aviation activity. The remaining emissions (4%) result from landfilled waste and wastewater treatment. 
+ENERGY EMISSIONS
+Energy is the key to modern living—we use it to light our streets, cool our buildings, cook our food, and power our devices. This energy use encompasses the largest proportion (49%) of our 
+GHG emissions. The majority of building energy emissions (83%) comes from electricity consumption. Natural gas, which is largely used for building heating and industrial purposes, comprises the remaining 17% of emissions. Commercial, institutional, and municipal buildings account for 60% of building emissions, followed by 33% from residential buildings and 7% from industrial operations. 
+Since electricity consumption drives building energy emissions, we must consider the composition of the power grid that delivers this electricity to our buildings, lighting, and appliances. In 2014, more than one-third of the fuel mixture used to supply the Texas power grid used in Houston was generated from coal (36%). Cleaner-burning natural gas supplied 41% of the grid, with nuclear and wind supplying the rest (12% and 11%, respectively). For a comparison of fuel sources used in 2014 and 2018 grid mixtures, see the discussion in the Energy Transition section. 
+TOTAL GHGs (metric tonnes CO2e)
+1 million
+5 million
+10 million
+15 million
+16,140,987
+1,301,322
+16,873,994
+ENERGY
+49%
+47%
+4%
+TRANSPORTATION
+WASTE
+GHG EMISSIONS SOURCE (BY SECTOR)
+Over 26 million megawatt hours of electricity were consumed in 2014.
+
+[Page 19]
+HOUSTON CLIMATE ACTION PLAN
+TRANSPORTATION EMISSIONS
+Houston is a car-centric city with 94% of passenger trips taken in automobiles. Almost 80% of on-road emissions came from passenger cars and light duty trucks in 2014. Approximately 20% of on-road emissions came from commercial hauling and freight vehicles. Buses (intercity, transit, and school) made up 1% of the transportation emissions inventory.
+More than 220,000 non-Houston residents commuted into the city for work each day in 2014.7 
+The typical commute distance for residents in the Greater Houston area was 12.2 miles and low-wage workers were more likely to live in neighborhoods less connected to job centers by transit.8 The Metropolitan Transit Authority of 
+Harris County (METRO) is the major public transportation agency in Houston that operates local and commuter bus service, light rail, paratransit (METROLift), and express lanes. In 2014, METRO bus and rail had a combined average weekday ridership of 315,663 passengers.9
+Houstonians drive 
+33,075,213,027 miles per year.
+Manufacturing Industries and Construction
+60%
+33%
+17%
+Commercial and Institutional
+Buildings and Facilities
+Residential Buildings
+Source: CenterPoint Energy
+ENERGY USE BY SECTOR (ELECTRICITY + NATURAL GAS), 2014
+Source: H-GAC
+55%
+24%
+14%
+1%
+6%
+Passenger Cars
+Buses (Intercity,
+Transit, and School)
+Combination Trucks (Combination Short-Haul & Combination Long-Haul)
+Passenger & Light
+Commercial Trucks
+Single Unit Trucks (Refuse, Single-Unit
+Short Haul,Single-Unit Long Haul, and Motor Home)
+PERCENTAGE OF ON-ROAD TRANSPORTATION 
+GHG EMISSIONS BY VEHICLE TYPE
+COMMUNITY GHG BASELINE INVENTORY
+
+[Page 20]
+HOUSTON CLIMATE ACTION PLAN
+WASTE EMISSIONS
+Houstonians throw away roughly seven pounds of waste per person each day.10 Landfilled solid waste represents 1,043,337 metric tonnes of CO2e, or 
+3% of our total community inventory; wastewater emissions make up the other 1% of waste labeled as waste emissions in the inventory. The City of 
+Houston Solid Waste Management Department (SWMD) serviced approximately 387,000 singlefamily residences with curbside garbage and recycling services in 2014. Commercial, multifamily, and other single-family residences not served by the City contract with private haulers for solid waste disposal. Although the City owns and operates several neighborhood depositories and recycling centers, the City does not own or operate any landfills. Since most of the waste generated in Houston, including from commercial and multi-family properties, is served by a complex market of private haulers and a regional network of landfill, recycling, and composting facilities, the 
+City’s analysis of waste emissions was limited by available data.
+Waste Generation:
+47% Residential
+53% Commercial
+City SWMD Collection Services and Operations
+LANDFILL
+COMPOSTING
+FACILITY
+MATERIALS
+RECOVERY
+FACILITY (MRF)
+Private Waste Collection Services:
+Commercial, multi-family, and other single-family residences not served by the 
+City are contracted by private haulers.
+Any recycled material that is contaminated is taken to landﬁll.
+HOUSTON WASTE GENERATION, PROCESSING, AND DISPOSAL
+McCarty Road Landfill. Source: Google Earth
+COMMUNITY GHG BASELINE INVENTORY
+MCCARTY ROAD LANDFILL
+McCarty Road Landfill, privately owned and operated by Republic Services, is one of three landfills used by the City and has less than 16 years of estimated capacity remaining. In 2014, the McCarty 
+Road facility had a 79% landfill gas collection efficiency, of which only 3% was flared to the atmosphere as waste and 97% was used to generate pipeline quality renewable natural gas—producing 
+419,308 metric tonnes of CO2e (See Appendix III: 
+Inventory I.4.4). This biogas generated at McCarty 
+Road Landfill is carried six miles to the AnheuserBusch brewery in Houston and supplies more than 
+55% of the brewery’s fuel demand.
+
+[Page 21]
+HOUSTON CLIMATE ACTION PLAN
+In 2014, City facilities and operations accounted for 3% of the total community GHG inventory, using 1,209,401,139 kilowatt-hours (kWh) electricity and 1,083,580 MMBTU natural gas.
+MUNICIPAL GHG BASELINE INVENTORY
+44%
+15%
+22%
+8%
+7%
+3% 2%
+WASTEWATER TREATMENT - 44%: 
+In 2014, wastewater treatment made up 29% of the total electricity and 56% of the natural gas used by the City of Houston. The City’s 
+39 wastewater treatment facilities used aerobic digestion to stabilize the waste-activated sludge produced from the aeration processes, generating an estimated 217,443 metric tonnes of CO2e in 2014 (See 
+III.4.1/2 of Appendix III: Inventory). 
+DRINKING WATER OPERATIONS - 15%: 
+The City of Houston is the regional water provider for Harris County and portions of three surrounding counties. In 2014, three surface water purification plants consumed 23% of the City’s electric bill for pumping and conveyance of more than 160 billion gallons of water. The percentage of water lost through distribution in 2014 was 13.4%, equating to a loss of nearly 21 billion gallons. 
+PUBLIC LIGHTING - 8%: Streetlights, traffic lights, and freeway lighting accounted for 12% of municipal electricity usage. To ensure public safety and save energy, the City began converting more than 170,000 high-pressure-sodium and metal- halide streetlamps to LED bulbs in 2014. 
+SOLID WASTE OPERATIONS - 2%: The 
+City of Houston SWMD used 351 diesel and 
+11 hybrid diesel waste collection trucks to collect waste across the city and transport it to recycling or waste stations where the materials were processed or disposed. In 
+2014, these trucks traveled 4,069,431 miles, averaging 3 miles per gallon fuel efficiency. 
+The heavy waste equipment at transfer stations consumed 1,470,568 gallons of diesel in 2014.
+PARK OPERATIONS - 3%: The City of 
+Houston Parks and Recreation Department (HPARD) operations used 4% of total electricity and 3% of natural gas used by the City in 2014. Consuming more than 1.2 billion gallons of water per year for irrigation and swimming pools, HPARD is the largest municipal user of water. 
+MUNICIPAL FLEET - 7%: With more than 
+12,000 vehicles—including emergency and special use vehicles—the municipal fleet drove an estimated 72,400,000 miles in 2014, of which more than 10% were from the City’s 724 hybrid and 27 electric vehicles. 
+BUILDING ENERGY USE - 22%: The municipal building portfolio comprises a variety of building types, encompassing more than 23,000,000 square feet. The municipal building portfolio, including Houston Airport System, accounted for 37% of electricity and 39% of natural gas utility bills paid by the City of Houston in 2014. 
+Source: City of Houston
+COMMUNITY GHG BASELINE INVENTORY
+
+[Page 22]
+HOUSTON CLIMATE ACTION PLAN
+GOALS AND TARGETS
+The City worked with the Houston Advanced 
+Research Center (HARC) and C40 Cities to evaluate the proposed CAP actions and estimate how the Houston community will reach the goal of carbon neutrality by 2050. Before actions were modeled, future GHG emissions were projected for 2030, 2040, and 2050 by accounting for anticipated changes from the baseline inventory due to population growth and energy demand trends (See Appendix II: Methodology). According to this analysis, if nothing is done to curb our emissions, Houston could expect annual community-wide emissions to grow to nearly 
+46 million metric tonnes of CO2e by 2050. 
+In order to comply with the Paris Climate 
+Agreement and achieve our long-term goal of carbon neutrality by 2050, ambitious, interim targets were established to keep us on track. 
+Using these targets as a roadmap, the CAP aims to reduce Houston’s base year emissions (33,414,134 tonnes CO2e in 2014; city-induced framework) by at least 40% by 2030 and at least 75% by 2040. 
+Many of the strategies and actions in the CAP are proven to enable the success of larger strategies or have indirect but positive cumulative impact. 
+Remaining emissions from transportation, building, and waste sectors will be reduced through carbon offsets as new advances in clean energy technologies and ecosystem credit markets for carbon capture emerge. 
+INTERIM GOALS
+40% BY 2030 or 18 million tonnes CO2e 
+75% BY 2040 or 33 million tonnes CO2e 
+100% BY 2050 or 45.5 million tonnes CO2e
+50,000,000
+45,000,000
+40,000,000
+35,000,000
+30,000,000
+25,000,000
+20,000,000
+15,000,000
+10,000,000
+5,000,000 tonnes CO2e/year
+*Base Year = Measured
+2014
+2020
+2030
+2040
+2050
+Baseline Projection (NO ACTION)
+Baseline Projection (NO ACTION)
+Energy Transition
+Energy 
+Demand and 
+Generation
+100% 
+Reduction/
+Oﬀset Target
+40% 
+Reduction/
+Oﬀset Target
+40% 
+Reduction/
+Oﬀset Target
+Building Optimization
+Transportation
+Materials
+Management
+Oﬀsets
+75% 
+Reduction/
+Oﬀset Target
+75% 
+Reduction/
+Oﬀset Target
+MODELING EMISSIONS REDUCTION POTENTIAL OF CAP ACTIONS
+
+[Page 23]
+HOUSTON CLIMATE ACTION PLAN
+TRANSPORTATION
+TARGET
+Goal 1: Shift regional fleet to electric and low-emission vehicles.
+Convert non-emergency, light-duty municipal fleet to 100% EV by 2030.
+Goal 2: Reduce vehicle miles traveled (VMT) per capita.
+Reduce VMT per capita 20% by 2050.
+Goal 3: Provide equitable and safe mobility choices.
+Zero traffic-related fatalities and serious injuries on Houston streets by 2030. 
+500 miles of high-comfort bike lanes by 2025.
+ENERGY TRANSITION
+TARGET
+Goal 1: Grow Houston’s investment in renewable and resilient energy.
+5 million MWh local solar per year by 2050.
+Goal 2: Make Houston the leader in carbon capture technology and energy innovation.
+Attract or incubate 50 Energy 2.0 companies in 
+Greater Houston by 2025.
+Goal 3: Restore, protect, and enhance Houston’s natural ability to capture and store carbon.
+4.6 million new native trees planted by 2030.
+BUILDING OPTIMIZATION
+TARGET
+Goal 1: Reduce building energy use and maximize savings.
+Adopt the 2021 ICC model building code by 2025 with a minimum 5-year update.
+Goal 2: Expand investment in energy efficiency.
+Double the current number of PACE projects by 
+2025.
+Goal 3: Invest in skilled local jobs to optimize building operations.
+70% of non-residential buildings operated by trained building operator by 2030.
+MATERIALS MANAGEMENT
+TARGET
+Goal 1: Reduce waste and transform the circular economy.
+Reduce residential waste 50% by 2040.
+Goal 2: Optimize waste operations and create power from waste.
+Convert municipal solid waste fleet to low-emission vehicles by 2030.
+Goal 3: Ensure safe and cost-effective long-term disposal capacity.
+Adopt Long Range Solid Waste Plan in 2020.
+GHG REDUCTION POTENTIAL BY 2050
+Indirect
+Contributing to significant emissions reductions in ways that are indirect, cumulative, and difficult to quantify 
+Low
+Less than 10,000 tonnes CO2e per year
+Medium
+10,000–100,000 tonnes CO2e per year
+High
+More than 100,000 tonnes CO2e per year
+Some actions have immediate, direct GHG emissions reduction impacts while others have indirect impacts by enabling or building capacity for longer-term actions. For example, the development of incentives for low-emission vehicles does not directly reduce GHG emissions, but indirectly reduces them by making it more feasible for the members of the community to adopt cleaner vehicles.
+GOALS AND TARGETS
+
+[Page 24]
+HOUSTON CLIMATE ACTION PLAN
+DESCRIPTION OF STRATEGIES
+GHG 
+IMPACT
+CITY LEADS
+KEY STAKEHOLDERS
+TRANSPORTATION
+GOAL 1: SHIFT REGIONAL FLEET TO ELECTRIC AND LOW-EMISSION VEHICLES.
+T1.1
+Increase commercial and private sector infrastructure and incentives.
+High
+ARA, FMD, SPD, HAS, 
+HPARD, HHD, HPL, MYREconomic Development 
+CenterPoint, EVolve Houston, private sector, Harris County, H-GAC, CBOs, Port of Houston, TxDOT, METRO
+T1.2
+Convert 100% of the non-emergency, light-duty municipal fleet to EV technologies.
+Medium
+FMD, HAS, HPW 
+GOAL 2: REDUCE VEHICLE MILES TRAVELED (VMT) PER CAPITA.
+T2.1
+Implement integrated multi-modal transportation systems.
+High
+PD, ARA, MYR 
+H-GAC, Harris County, METRO, 
+TxDOT, TIRZs, management districts, private sector
+T2.2
+Build and retrofit complete, transit-oriented neighborhoods.
+High
+PD, HCDD, MYR- 
+Economic Development, 
+MYR-Complete 
+Communities 
+TIRZs, management districts, private sector
+GOAL 3: PROVIDE EQUITABLE AND SAFE MOBILITY CHOICES.
+T3.1
+Reduce barriers for using multi-modal transportation.
+Indirect
+MYR-Economic 
+Development, MYRComplete Communities, 
+DON; ARA
+H-GAC, Harris County, METRO, TxDOT, private sector
+T3.2
+Improve interconnectedness and safety of pedestrian and transit networks.
+Indirect
+PD, HPW 
+H-GAC, Harris County, METRO, TxDOT, private sector, Houston Parks Board, Bike 
+Houston, Greater Houston Coalition for 
+Complete Streets
+ENERGY TRANSITION
+GOAL 1: GROW HOUSTON’S INVESTMENT IN RENEWABLE AND RESILIENT ENERGY.
+E1.1
+Support and promote the use and development of renewable energy.
+High
+ARA, GSD, HPW, FIN
+CenterPoint, Harris County, private sector, non-profit organizations
+E1.2
+Support and promote retail renewable energy opportunities. 
+Indirect
+ARA
+Retail electric providers, renewable energy companies
+E1.3
+Advocate for renewable energy policies at the local, state, and federal levels.
+High
+MYR-Government 
+Relations, ARA
+Climate Mayors, C40 Cities
+GOAL 2: MAKE HOUSTON THE LEADER IN CARBON CAPTURE TECHNOLOGY AND ENERGY INNOVATION. 
+E2.1
+Promote carbon capture, utilization, and storage (CCUS).
+Indirect
+MYR, ARA
+Private sector, Greater Houston 
+Partnership, Center for Houston’s Future
+E2.2
+Develop an energy innovation ecosystem.
+Indirect
+MYR-Economic 
+Development, ARA 
+Private sector, research institutions, 
+Greater Houston Partnership, Center for 
+Houston’s Future
+E2.3
+Prepare future generations for highly skilled jobs in the energy transition.
+Indirect
+MYR-Education, CRO, 
+ARA
+HISD, higher educational institutions, 
+Hire Houston Youth, Greater Houston 
+Partnership, Center for Houston’s Future
+GOAL 3: RESTORE, PROTECT, AND ENHANCE HOUSTON’S NATURAL ABILITY TO CAPTURE AND STORE CARBON. 
+E3.1
+Implement nature-based solutions that increase carbon storage.
+Medium
+HPARD, ARA, 
+MYR-Recovery 
+Private sector, Nonprofit & Advocacy groups, Houston Parks Board, 
+CenterPoint, Buffalo Bayou Partnership
+E3.2
+Protect, expand, and manage municipal park assets to maximize environmental and recreational benefits.
+Indirect
+HPARD, ARA
+Private sector, non-profit & advocacy groups, Houston Parks Board, The Nature 
+Conservancy, Buffalo Bayou Partnership
+E3.3
+Support carbon offset projects that protect and restore the 
+Houston area’s natural resources.
+Indirect
+FIN, HPARD, ARA 
+Private sector, non-profit & advocacy groups, The Nature Conservancy, Katy 
+Prairie Conservancy
+STRATEGIES
+
+[Page 25]
+HOUSTON CLIMATE ACTION PLAN
+DESCRIPTION OF STRATEGIES
+GHG 
+IMPACT
+CITY LEADS
+KEY STAKEHOLDERS
+BUILDING OPTIMIZATION
+GOAL 1: REDUCE BUILDING ENERGY USE AND MAXIMIZE SAVINGS. 
+B1.1
+Update energy code and increase compliance.
+High
+HPW, ARA, MYR 
+Private sector, non-profit & advocacy groups
+B1.2
+Develop programs that improve building energy efficiency.
+High
+ARA, GSD 
+BOMA, private sector, non-profit & advocacy groups
+B1.3
+Reduce water and wastewater energy consumption by 10% through optimization of facility operations and water conservation.
+Medium
+HPW 
+Regional water providers, municipal utility districts, private sector, HOAs, non-profit & advocacy groups
+GOAL 2: EXPAND INVESTMENT IN ENERGY EFFICIENCY. 
+B2.1
+Promote clean energy financing programs.
+High
+MYR-Economic 
+Development, HPW, ARA 
+Private sector, non-profit & advocacy groups
+B2.2
+Expand utility energy financing and incentive programs.
+High
+ARA, MYR 
+CenterPoint, electricity providers 
+GOAL 3: INVEST IN SKILLED LOCAL JOBS TO OPTIMIZE BUILDING OPERATIONS.
+B3.1
+Provide training in the operation, management, and maintenance of relevant building systems.
+High
+HPW
+Private Sector, higher education institutions, non-profit & advocacy groups
+MATERIALS MANAGEMENT
+GOAL 1: REDUCE WASTE AND TRANSFORM THE CIRCULAR ECONOMY. 
+M1.1
+Engage public on upstream solutions for waste reduction.
+Indirect
+SWMD, ARA, SPD 
+H-GAC, private sector
+M1.2
+Support organizations that expand capacity for waste reduction through entrepreneurship.
+Indirect
+SWMD, ARA 
+Private sector, H-GAC
+M1.3
+Strengthen and support efforts to collect and compost food organics.
+High
+SWMD, HHD, ARA 
+H-GAC, private sector
+GOAL 2: OPTIMIZE WASTE OPERATIONS AND CREATE POWER FROM WASTE. 
+M2.1
+Optimize waste collection and transfer.
+Medium
+SWMD, FMD 
+Private sector, TCEQ, EPA
+M2.2
+Increase landfill gas capture and opportunities for waste conversion.
+Medium
+SWMD 
+Private sector, TCEQ, EPA
+GOAL 3: ENSURE SAFE AND COST-EFFECTIVE LONG-TERM DISPOSAL CAPACITY. 
+M3.1
+Increase long-term landfill sustainability.
+Indirect
+SWMD
+Private sector, H-GAC
+M3.2
+Advance multi-family and commercial recycling.
+Medium
+SWMD 
+Private sector, H-GAC
+M3.3
+Promote upstream solutions to reduce disaster debris.
+Indirect
+SWMD, OEM, CRO 
+Private sector
+STRATEGIES
+
+[Page 26]
+Alpine Solar Farm. Source: Bing Maps
+HOUSTON CLIMATE ACTION PLAN
+The City of Houston is leading by example in increasing energy efficiency, reducing waste, and improving public health. City policies and operations are actively demonstrating a path forward to carbon neutrality by: > requiring new municipal buildings to be more efficient; > choosing an electric power portfolio comprised of 92% clean energy; > building a greener and more cost-effective municipal fleet; > reducing waste streams through recycling; > improving the efficiency and cost- effective operation of water treatment and distribution system; > and supporting transportation and land-use planning that promotes equitable and low carbon mobility. 
+The City will continue to lead by example as we work toward the goals outlined in Resilient Houston and the Climate Action Plan.
+A LEADER IN RENEWABLE 
+ENERGY USE
+RENEWABLE ENERGY PURCHASING: With more than 92% of the municipal electricity supply sourced from wind and solar, the City of Houston is the largest municipal purchaser of green power in the nation. In 2017, the City added a power purchase agreement (PPA) for a 50-megawatt (MW) solar facility in Alpine, TX to the municipal power portfolio. In exchange for increasing the 
+PPA from 30 to 50 MW, the overall contract price was reduced by 8%, resulting in an estimated $40 million savings over the 20-year term of the 
+PPA. The City has also installed solar panels on multiple municipal buildings including the Houston 
+Permitting Center, City Hall Annex, and George R. 
+Brown Convention Center. 
+COMMUNITY SOLAR PROJECTS ON 
+MUNICIPAL LAND: Through participation in the 
+C40 Reinventing Cities program, the City is making plans to re-imagine how under-utilized public assets can be used in a sustainable way. Starting in Sunnyside, a neighborhood in the Complete 
+Communities program, the City will work with 
+Sunnyside Energy to convert the 240-acre Holmes 
+Road landfill into a 70 MW solar farm, which will be one of the largest urban solar farms in the US. 
+The proposal by Sunnyside Energy (a partnership between EDF Renewables, MP2 Energy, and 
+Wolfe Energy) was selected through a competitive process and includes other potential benefits such as jobs and training, energy discounts for lower-income residents in the neighborhood, and reduced flooding. 
+FAST-TRACK SOLAR PERMITTING: The Houston 
+Permitting Center offers expedited solar panel permitting for residential properties. This incentive has helped encourage the increased adoption of solar panel installations over the past four years. 
+LEADING BY EXAMPLE: 
+MUNICIPAL OPERATIONS
+
+[Page 27]
+HOUSTON CLIMATE ACTION PLAN
+ENERGY EFFICIENCY AND 
+NATURAL RESOURCE 
+CONSERVATION
+LEED DESIGNED BUILDINGS: Since 2004, the 
+City of Houston has required all new municipal buildings larger than 10,000 square feet to be LEED 
+Certified.11 The City now has 37 LEED municipal buildings and is investing in energy efficiency upgrades to 6 million square feet of city facilities through energy performance contracting. This effort has reduced energy use by 30%, saving more than 22 million kWh of electricity every year. A retro-commissioning audit of the Houston 
+Permitting Center in 2019 identified $9,000 of energy-efficiency updates that will result in more than 1.3 million kWh saved per year.
+AIRPORT ENERGY EFFICIENCY: The Houston 
+Airport System (HAS) is currently implementing a 2018 sustainability management plan made possible through a multi-year planning grant from the Federal Aviation Administration. HAS is also working with Texas A&M University to implement capital-improvement and energy-efficiency upgrades at William P. Hobby Airport and George 
+Bush Intercontinental Airport. Projects include installing four new chillers, improving building operations, and installing solar arrays to reduce the annual energy consumption by more than 
+24 million kWh. 
+FIRE STATION ENERGY CHALLENGE: Sponsored by IKEA, this friendly competition between participating Houston Fire Stations resulted in reduced energy consumption by motivating simple behavior changes around lighting and electronics use. 
+GREEN BUILDING RESOURCE CENTER: Located within the Houston Permitting Center, this program promotes economical, sustainable building solutions for the public including solar panel installation, low-impact development techniques, energy-efficient windows and lighting, heating and cooling technologies, and water conservation methods (including discounted rain and compost barrel sales).
+CITIES CONNECTING CHILDREN TO NATURE: 
+Launched in 2018, the Mayor’s Office of Education leads the Houston Cities Connecting Children to 
+Nature Program, a collaboration of organizations and individuals championing the health, happiness, education, and success of all our area children through equitable access to nature.
+URBAN FORESTRY: The Houston Parks and 
+Recreation Department (HPARD) is planning a 
+Legacy Tree Program to propagate native seedlings for installation into restoration sites and other tree plantings around the city and is developing a tree nursery to hold 10,000 trees annually. 
+Planned to launch in 2020, the Linear Forests 
+Initiative will tie into the current adoption program to create a plan to reforest esplanades across the city. These programs will prioritize tree planting in underserved communities and increase the city’s overall tree canopy.
+PROPERTY ASSESSED CLEAN ENERGY (PACE) 
+PROGRAM: The City has an active commercial 
+PACE program that has resulted in more than $25 million invested in the past five years to finance energy-efficiency, renewable-energy, and water-conservation projects. 
+WATER CONSERVATION: Houston Public Works recently updated the City’s Water Conservation 
+Plan to include a wide range of water conservation programs to educate and engage customers about the importance of water and what they can do to protect and preserve this essential resource.
+WASTEWATER OPERATIONS: Houston Public 
+Works plans to consolidate 39 wastewater treatment facilities into 30 and to include energy efficiency upgrades and resource recovery at all remaining sites. 
+LONG-RANGE SOLID WASTE PLAN: The Solid 
+Waste Management Department (SWMD) is developing a 20-year, long-range plan for the sustainable management of solid waste and recycling within city limits. The plan includes a gap analysis of current operations and provides recommendations for increased landfill diversion as well as environmentally sound and financially stable future actions.
+
+[Page 28]
+HOUSTON CLIMATE ACTION PLAN
+CHAMPIONING EQUITABLE 
+AND LOW-EMISSION 
+MOBILITY
+MUNICIPAL FLEET: The municipal fleet currently includes 23 electric and plug-in-hybrid vehicles and 505 hybrid vehicles. Fleet Management 
+Department (FMD) is working with Rice University to evaluate how to electrify the City’s nonemergency passenger fleet. 
+FMD is also conducting pilot projects to evaluate opportunities to deploy alternative fuels such as ethanol and biodiesel. In partnership with HPW, 
+FMD is piloting a 5,000-gallon ethanol (E-85) alternative fuel tank and dispenser to use with ethanol/gasoline-capable flexible fuel vehicles. 
+Planned for 2020, FMD will test the integration of biodiesel (B-20) in heavy- and medium-duty diesel equipment.
+EV CHARGING: Since 2010, the City worked to help 
+Houston “drive electric”, creating a network of 
+65 public electric vehicle charging stations at parks, libraries, theaters, and city buildings throughout the community. The City is working with EVolve Houston to expand public and private charging options across the city. 
+SMART CITIES: The City’s Office of Innovation is supporting numerous “Smart Cities” initiatives that pilot new technologies to reduce local vehicle emissions while increasing mobility. Examples of initiatives include working with METRO to streamline rider apps, bus tracking, and route optimization; reduce traffic downtown through parking guidance systems; and use smart trash bins in parks to optimize trash collection. 
+MOBILE AIR QUALITY PROGRAMS: The City’s 
+Health Department (HHD) educates Houstonians about the public health impacts of transportation emissions and promotes outreach efforts with the non-profit organization Air Alliance Houston. 
+This includes placing bumper stickers on school buses to remind drivers of Houston’s five-minute idling limit12 and the health impacts of air pollution. 
+HHD developed and uses the Rapid Alert Benzene 
+Information: Time Sensitive, or RABITS, system to inform where and when elevated benzene concentrations are detected so HHD can respond more quickly with more specific monitoring or enforcement. The City also supports legislation to limit placement of concrete batch plants and is conducting research on the source of hot spots of formaldehyde toxic air pollution in Houston.
+BAYOU GREENWAYS 2020 PROJECT: This public-private partnership between the Houston 
+Parks Board and the City of Houston is converting 
+3,000 acres of land along bayous into linear parks, including 150 miles of hike and bike trails that connect communities.
+HOUSTON BIKE PLAN IMPLEMENTATION: Starting in Fiscal Year 2018, the City of Houston allocated $1.1 million each year for five years for bicycle infrastructure through its Capital Improvement 
+Projects Plan.
+BIKE SHARE: Houston B-Cycle is a bike share program that initially began as a pilot project funded by an EPA grant to the City of Houston in 2012 to encourage biking in Houston. 
+Now a 501(c)(3), Houston B-Cycle continues to partner with the Planning and Development 
+Department to secure additional funding to expand bike stations across the city. 
+REDUCING PARKING REQUIREMENTS: Minimum parking requirements result in the creation of excessive parking facilities and encourage car dependence. In July 2019, City Council approved 
+Planning and Development’s proposal to expand exemptions for minimum parking requirements to two additional neighborhoods in Houston— 
+East Downtown and Midtown. This will allow for higher-density development and fewer impervious surfaces in the city.
+VISION ZERO ACTION PLAN: Improving roadway safety for all users, especially pedestrians and bicyclists, is an important first step to encourage greater use of active and multi-modal transportation. To eliminate traffic-related fatalities and improve road safety by 2030, this plan will identify mechanisms to ensure accountability and funding to reach its goals. The Planning and Development 
+Department is currently working with stakeholders to develop short-term safety actions. 
+WALKABLE PLACES AND TRANSIT ORIENTED 
+DEVELOPMENT: The City of Houston Proposed 
+Walkable Places and Transit-Oriented 
+Development Amendment and Transit Corridor 
+Ordinance are designed to encourage higherdensity and mixed uses, reduce sidewalk interruptions and obstructions, promote multimodal transportation, and encourage walkability.
+LEADING BY EXAMPLE
+
+[Page 29]
+HOUSTON CLIMATE ACTION PLAN
+CITY PLANS AND POLICIES THAT SUPPORT CLIMATE ACTION 
+PLANS:
+ > Houston Active Living Plan > Houston Airport System 
+Sustainable Management 
+Plan (2018) > Houston Bike Plan (2017)* > Long-Range Solid Waste Plan** > Plan Houston (2015)* > Resilient Houston (2020) > Vision Zero Action Plan** > Water Conservation Plan (2019)*
+POLICIES AND ORDINANCES:
+ > Anti-Idling Ordinance (2015)* > City Energy Efficiency Policy 
+A.P. No. 7–1 (2011)* > City Transit Corridor 
+Ordinance (2009)* > Green Building Resolution 
+No. 2004–15 (2004)* > Proposed Walkable Places and 
+Transit-Oriented Development 
+Ordinance Amendment (2020)** > Resilient Houston Executive Order 
+EO No. EO 1–66 (2020)
+*Adopted by City Council **Underway
+ACRONYMS FOR CITY DEPARTMENTS AND KEY STAKEHOLDERS
+ARA
+City of Houston Administration and Regulatory Affairs 
+Department
+HPL
+City of Houston Public Library
+BOMA
+Building Owners and Managers Association
+HPW
+City of Houston Public Works Department
+CBO
+Community Based Organizations
+HCDD 
+Housing and Community Development 
+Department
+CRO
+City of Houston Chief Resilience Officer
+FIN
+City of Houston Finance Department
+DON
+Department of Neighborhoods
+FMD
+City of Houston Fleet Management Department
+EPA
+Environmental Protection Agency
+METRO
+Metropolitan Transit Authority of Harris County
+GSD
+City of Houston General Services Department
+MPO
+Metropolitan Planning Organization
+HAS
+City of Houston Airport System
+MYR
+City of Houston Office of the Mayor
+HFD
+City of Houston Fire Department
+OEM
+City of Houston Office of Emergency 
+Management
+H-GAC
+Houston-Galveston Area Council
+PD
+City of Houston Planning and Development 
+Department
+HHD
+City of Houston Health Department
+SPD
+City of Houston Strategic Procurement Division
+HISD
+Houston Independent School District
+SWMD
+City of Houston Solid Waste Management 
+Department
+HOA 
+Homeowners Association
+TCEQ
+Texas Commission on Environmental Quality
+HPARD
+City of Houston Parks and Recreation Department
+TIRZ
+Tax Increment Reinvestment Zone
+HPD
+City of Houston Police Department
+TxDOT
+Texas Department of Transportation
+LEADING BY EXAMPLE
+
+[Page 31]
+TRANSPORTATION 
+GOAL 1 Shift Regional Fleet to Electric and Low-Emission Vehicles.
+ 
+GOAL 2 Reduce Vehicle Miles Traveled (VMT) Per Capita.
+ 
+GOAL 3 Provide Equitable and Safe 
+Mobility Choices.
+HOUSTON CLIMATE ACTION PLAN
+
+[Page 32]
+A strong job market, a high quality of life, and a low cost of living attract 100,000 new residents to Greater Houston each year. According to the Houston-Galveston Area 
+Council (H-GAC), 4 million residents, including 1 million within Houston city limits, will join our region by 2040.6 As the population increases, development patterns are evolving from a centralized hub-spoke city to a region with multiple commercial centers, reducing trip distances. Unfortunately, unless action is taken quickly, more people living in Houston means more cars driving in Houston and more transportation-related emissions. Tailpipe emissions from our primary mode of transportation—conventional, fossil-fueled vehicles—worsen air quality and threaten public health. Addressing transportation emissions, which comprise 47% of Houston’s total GHG emissions, is critically important not only to our success as a leading 21st century city, but also to our goal of carbon neutrality by 2050.
+It is important to note that there is no one-size-fitsall solution to reducing transportation emissions. 
+Emissions reductions can also be achieved through the use of various fuels and technologies, some of which are already available and others that are still in development. As the fourth largest city in the 
+United States, home to more than 16,200 miles of city streets and more than 4,000 miles of highways and expressways, Houston is the perfect testing ground for innovative vehicle technologies that will help reduce transportation emissions.13, 14 We must take care, however, that any rapid advancement in technology is adopted equitably, and does not leave anyone behind. This is especially true for electric and alternate fuel vehicles, which require a higher upfront capital investment than traditional fuels. 
+The City of Houston is committed to developing solutions to ensure that all Houstonians can benefit from clean, low-emission vehicles and that our community can access the infrastructure necessary to increase the fuel efficiency of our regional fleet.
+In addition to driving cleaner, more fuel-efficient personal vehicles, Houston needs more transit options that provide attractive alternatives to single-occupancy vehicles. Although nearly 
+4 million trips taken in Houston each day are less than two miles in length, only 1–3% of these trips are made by biking or walking.15 In order to effectively shift how Houstonians think about mobility, there must be multiple safe, reliable, and convenient options that can quickly, affordably, and efficiently get people to where they need to go. 
+To reduce vehicle miles traveled (VMT) per capita, we, as a community, must do everything we can to fund and promote the use of multi-modal transportation, including transit, biking, and walking. Improving micro-mobility options, such as bike share, can facilitate first- and last-mile connections and improve access to public transit. 
+Complementary initiatives are starting to guide the region toward more mobility choices, sustainable land use planning, and active living opportunities, leading ultimately to a healthier and lower- emissions Houston. 
+Houston’s transportation system is large and complex, requiring massive annual investments in infrastructure and operations. These investments are coordinated across several jurisdictions with input from multiple planning organizations, stakeholders, and funding agencies. As we consider actions that improve the energy efficiency of our transportation system, retrofitting and replacing our infrastructure is a long-term strategy that simply cannot happen overnight. Near-term strategies involving operations and management offer more immediate impact, while mid-term strategies allow us to begin layering the necessary infrastructure, such as charging infrastructure for electric vehicles, to support our future energy and transit needs.
+IMPROVED AIR QUALITY
+This shift toward high-performance personal and public transportation vehicles with minimal emissions is critical for reducing not only GHG emissions released to the atmosphere, but other air pollutants such as nitrogen oxides (NOX) and volatile organic carbon (VOC) emissions that drive ground level ozone formation. Although the 
+Houston region has seen drastic improvements in ozone concentrations since the 1990’s,16 further reductions are necessary to meet National Ambient Air Quality Standards (NAAQS), which would help prevent a significant number of early deaths and asthma cases per year in Houston.17
+HOUSTON CLIMATE ACTION PLAN
+TRANSPORTATION
+
+[Page 33]
+GOAL 1 SHIFT REGIONAL 
+FLEET TO ELECTRIC AND 
+LOW-EMISSION VEHICLES. 
+The transportation sector is a large source of Houston’s emissions, which will continue to grow as long as traditional fossil fuels are used to power our vehicles. The average car on the road is now 12 years old.18 This means that older, dirtier vehicles are being driven longer, placing an even greater importance on increasing state and federal vehicle fuel-efficiency standards to a minimum 40 MPG equivalent for new passenger cars and light-duty trucks by 2025. Electric vehicles are one of the most promising opportunities for Houston to lead in transportation emissions reductions. 
+Electric vehicles could also save Houstonians money, as they have a lower cost of ownership compared to internal combustion vehicles.19
+A future shift to electric buses will require substantial planning to overcome current range limitations and determine a new structure for operations, infrastructure, and charging systems. METRO, Houston’s regional transit authority, currently operates a fleet of over 1,200 buses, including more than 400 diesel-electric hybrid buses and 50 compressed natural gas (CNG) buses.20 METRO understands the promising role electric vehicles offer to public transportation systems and is undertaking a study on electric bus charging infrastructure. The City has received grant funding to electrify buses at the Houston Airport System.
+Commercial fleet and freight vehicles, such as combination and singleunit trucks, are another significant opportunity to reduce transportation emissions—one that will likely not be realized until vehicle options and charging infrastructure becomes more affordable and available. 
+EVolve Houston is laying the groundwork to engage fleet managers to address market factors that will influence truck electrification, including identification of local demonstration projects.
+ 
+TARGET:
+Convert nonemergency, light-duty municipal fleet to 
+100% EV by 2030.
+CO-BENEFITS:
+Economic Growth
+Cost-savings 
+Improved 
+Environmental Quality
+COMPLEMENTARY 
+INITIATIVES:
+EVolve Houston 
+Coalition
+Sustainable Fleet 
+Vehicle Options for the 
+City of Houston
+HOUSTON CLIMATE ACTION PLAN
+TRANSPORTATION
+
+[Page 34]
+THE HOUSTON ART CAR PARADE: 
+A RICH TRADITION OF 
+CELEBRATING CREATIVE 
+TRANSPORTATION
+More than 240 mobile art pieces submitted to the annual Art Car Parade glorify anything on wheels—from cars to bicycles and more—and have engaged Houston’s community spirit for over three decades. Many entries from students and school groups use the vehicles as vessels to bridge the studies of science, math, engineering, technology, electric vehicles, and biofuels with art and history. Houston’s Art Car Parade is one of the many ways Houston’s unique culture of creativity supports innovation, education, and new and efficient ways to put wheels in motion.
+TRANSPORTATION
+INCREASE COMMERCIAL AND PRIVATE 
+SECTOR INFRASTRUCTURE AND INCENTIVES
+EV drivers without easy access to charging facilities at home or work must rely on outside options, including public charging, to power their vehicles. The good news is that newer EVs can drive longer distances between charges, reducing “range anxiety”—the fear that an EV does not have enough charge to make it to the next destination. The current lack of a cohesive charging network in Houston is a problem for those looking to purchase more affordable, pre-owned EVs that have less range and require more frequent charging. EV charging is often not available nor affordable in apartment complexes, senior living facilities, student housing, or low-income communities. These barriers can prevent the air-quality and cost-savings benefits of EV ownership from being realized by the communities that could benefit the most. One of EVolve Houston’s top priorities is to work with stakeholders to help identify and develop financing opportunities, incentives, charging infrastructure, consumer education resources, and establish markets for used EVs and second-life batteries. 
+To continue to lead by example, the City of 
+Houston plans to expand public EV charging stations opportunities at public-facing City facilities, such as libraries, parks, and community multi-service centers. 
+While electric vehicles present a promising opportunity to shift Houston’s regional fleet to zero-emissions vehicles, it is still an emerging technology. For many vehicle types, no commercially viable electric alternative exists, especially for special-use and heavy-duty vehicles. 
+At the state level, the Texas Emissions Reduction 
+Plan (TERP) provides incentives for eligible individuals, businesses, and local governments to reduce emissions by upgrading or replacing vehicles and equipment with newer, cleaner technologies that reduce pollution in Texas. The program is funded by registration, title transfer, lease, and equipment purchase fees and charges to the tune of almost $250 million per year. TERP funds represent an opportunity to accelerate vehicle electrification and adoption of low emissions technology by offering grants that may significantly defray the cost of both new vehicles and associated fueling infrastructure.
+
+[Page 35]
+Source: City of Houston
+HOUSTON CLIMATE ACTION PLAN
+CONVERT 100% OF THE NON-EMERGENCY, 
+LIGHT-DUTY MUNICIPAL FLEET TO EV 
+TECHNOLOGIES
+The City is working to expand its Green Fleet 
+Program, which has created one of the largest low-emission municipal fleets in the country. Fleet 
+Department studies show that 90% of City trips by employees are less than 40 miles, many between 
+20 and 30 miles round trip, making EVs a great fit for City needs. The City has already begun converting its non-emergency, light-duty fleet—more than 
+8,000 vehicles—to electric vehicles, beginning with the purchase of 12 Chevy Bolts in early 2020. 
+The City recognizes that there are many cases where electrification is not yet feasible or cost effective. For all other fleet vehicles, the lowestemissions and viable fuel technology will be used wherever possible to maximize emissions reduction. The City has also commissioned Rice 
+University, with support from the Kinder Institute’s 
+Houston Solutions Lab, to create the Sustainable 
+Fleet Vehicle Options for the City of Houston report. 
+This report analyzes how and where to begin fleet electrification and aid in the creation of an official Green Fleet Procurement Policy. 
+T1.2
+ELECTRIC VEHICLE ROADMAP: 
+30 BY 30 
+EVolve Houston is a public-private coalition founded by Mayor Turner, Shell, NRG Energy, CenterPoint Energy, the University of Houston, and LDR that is dedicated to improving air quality and reducing GHG emissions by electrifying transportation in Houston. Launched in late 2019, EVolve Houston has set a “30 by 30” goal: for electric vehicles to reach a 30% share of annual new car sales in Houston by 2030. To achieve this goal, 
+EVolve Houston developed an Electric Vehicle Roadmap, which focuses on strategically increasing the awareness, availability, and affordability of electric vehicles. EVolve 
+Houston is already implementing these initiatives through pilot projects, demonstrations, and educational outreach to accelerate EV adoption.
+TRANSPORTATION
+
+[Page 36]
+TRANSPORTATION
+HOUSTON CLIMATE ACTION PLAN
+GOAL 2 REDUCE VEHICLE 
+MILES TRAVELED (VMT) 
+PER CAPITA.
+Most Houston commuters drive alone and only 4% use public transit, with an average commute time around 30 minutes. An analysis of commuting patterns in our city concluded that higherwage earners tend to live closer to their workplace and have more public transportation options than lower-wage earners.21 
+Affordable housing is often not near public transit, making it particularly difficult to access job centers and further increases household transportation costs. Designing and retrofitting complete communities with an emphasis on convenient public transportation, safe streets, and walkable places is essential to our success in reducing GHG emissions and ensuring Houstonians can reduce private vehicle use. 
+TARGET:
+Reduce VMT per capita 
+20% by 2050. 
+CO-BENEFITS:
+Cost-Savings
+Better Health and 
+Well-being
+Improved Environmental 
+Quality 
+COMPLEMENTARY 
+INITIATIVES:
+Complete Communities 
+Action Plans
+H-GAC 2045 Regional 
+Transportation Plan
+H-GAC Livable Centers 
+Program
+Houston ConnectSmart (TxDOT)
+METRONext Plan
+Walkable Places 
+Committee
+Users’ Guide for Walkable 
+Places and TransitOriented Development
+When asked, “What would you say is the biggest problem facing people in the 
+Houston area today?”, more than one-third of Houstonians responded with concerns of traffic congestion.
+— Kinder Houston Area Survey (2019)22
+
+[Page 37]
+HOUSTON CLIMATE ACTION PLAN
+METRONEXT TRANSIT PLAN
+In November 2019, Houstonians overwhelmingly voiced their support for increasing transit service by approving METRONext, a $7.5 billion bond referendum to fund transit investments over the next 
+20 years along with federal funding. The METRONext plan will shape and attract new development in the region, including 21 new or improved park-and-ride systems, 16 additional miles of light rail, 75 miles of new bus rapid transit, and expanded two-way HOV lanes that provide additional regional connectivity.
+Source: METRO
+IMPLEMENT INTEGRATED MULTI-MODAL 
+TRANSPORTATION SYSTEMS
+As a voting member of the Transportation Policy 
+Council, the City helps coordinate transportation planning activities within the regional metropolitan planning organization (MPO), which decides how to spend federal transportation dollars. In order to extend and integrate reliable transit systems like bus rapid transit (BRT), light rail, park and ride, high occupancy vehicle (HOV) lanes, shuttles, etc., we, as a community, must prioritize and align existing funding mechanisms—especially MPO funding—toward multi-modal transportation. 
+While the Mayor and the City do not directly control regional transportation planning, the City will actively promote integration of multi-modal transportation systems with other economic development and planning organizations, such as 
+Houston-Galveston Area Council (H-GAC) and the 
+Texas Department of Transportation (TxDOT). The 
+City will also coordinate with local tax increment reinvestment zones (TIRZ) to align transportation improvements and investments that champion multi-modal transportation.
+T2.1
+Courtesy of the East End District
+
+[Page 38]
+COMPLETE COMMUNITIES DRIVE CLIMATE ACTION
+One of Mayor Turner’s signature initiatives, the Complete Communities program supports 
+10 historically under-resourced neighborhoods across the city with enhanced access to quality affordable homes, jobs, well-maintained parks and greenspace, improved streets and sidewalks, grocery stores and other retail, schools, and transit options. The development and implementation of community-driven action plans in these first Complete Communities will help embed equitable, low-carbon best practices that are transferable to other neighborhoods in Houston. For example, The Gulfton Complete Communities Action Plan23 identified health, environmental, mobility, and infrastructure goals that will also reduce GHG emissions.
+HOUSTON CLIMATE ACTION PLAN
+BUILD AND RETROFIT COMPLETE, 
+TRANSIT-ORIENTED NEIGHBORHOODS
+Mayor Turner has issued the call for a paradigm shift in the way we view transportation and mobility in Houston, stating we need to build forward—not back. To further reduce Houston’s transportation emissions, we must also build up—rather than out. Our built environment must continue to become denser by supporting the development of underused and vacant land within the city. 
+Through prioritization of infill and redevelopment projects, we will see a greater return on our existing infrastructure investments and build more complete communities. The City will work with partners to develop specific recommendations for how to incentivize denser urban infill development and reduce pressure on undeveloped areas.
+Coupled with additional transportation options, denser transit-oriented development (TOD) will make it easier for Houstonians to reduce emissions when traveling to and from work, school, and other parts of the city. 
+The City will coordinate funding and update policies and standards to incentivize development of housing and services near transit stops and trails. City of Houston’s Planning Department is already working to support transit-oriented development, reduced parking requirements, and densification through the Proposed Walkable 
+Places and Transit-Oriented Development 
+Ordinance Amendment. 
+T2.2
+Source: City of Houston add street trees to provide shade and create a more pleasant streetscape.
+add buffer zones to increase pedestrian comfort and safety.
+add well-marked crosswalks to provide safer crossings for pedestrians.
+TRANSIT-ORIENTED DEVELOPMENT WILL...
+
+[Page 39]
+TRANSPORTATION
+HOUSTON CLIMATE ACTION PLAN
+GOAL 3 PROVIDE 
+EQUITABLE AND SAFE 
+MOBILITY CHOICES.
+The growth of more energy-efficient vehicles, multi-modal transportation, and transit-oriented development could transform our city, but they will not succeed if they are not deployed in a safe and equitable fashion. We, as a community, must ensure that mobility options are safe and accessible for all Houstonians regardless of age, ability, or ZIP code. Many complementary regional planning initiatives have stressed the importance of connectivity between transit and pedestrian networks. Now is the time to prioritize pedestrian and bicyclist safety in future planning and infrastructure investments and to put these ideas into practice.
+ 
+TARGET:
+Zero traffic-related fatalities and serious injuries on Houston streets by 2030. 
+500 miles of high-comfort bike lanes by 2025. 
+CO-BENEFITS:
+Better Health and 
+Well-being
+Affordability
+Resilience 
+COMPLEMENTARY 
+INITIATIVES:
+Houston Active 
+Living Plan
+Houston Bike Plan
+Bayou Greenways 2020
+Beyond the Bayous
+Complete Streets 
+Initiative
+Vision Zero Action Plan
+H-GAC’s Commute 
+Solutions
+We, as a community, must ensure that mobility options are safe and accessible for all Houstonians regardless of age, ability, or ZIP code.
+
+[Page 40]
+HOUSTON B-CYCLE: PROVIDING 
+EQUITABLE MICRO-MOBILITY
+Expanding access to safe and active transportation systems is important for the livability of our city. As the 
+B-Cycle program continues to grow, new stations and a small number of e-bikes are being brought to Houston communities that have previously lacked a variety of easily accessible transportation options. A new GO Pass membership program also aims to increase usage time, maintain a cash payment system, and reduce fees for qualified Houstonians. 
+By situating networks of stations near light rail, bus stops, parks, and trails, Houston B-Cycle will help alleviate transportation costs, reduce GHG emissions, and encourage health and economic growth across our community. 
+HOUSTON CLIMATE ACTION PLAN
+Source: METRO
+REDUCE BARRIERS FOR USING 
+MULTI-MODAL TRANSPORTATION
+Although technology is key to enhancing the user experience, we must ensure that Houstonians are still able to access transit options without requiring personal technology. By working with transit partners and employers, transit ridership can be encouraged through cost offsets and other types of incentives. 
+The Commute Solutions program run by H-GAC is one example which helps regional employers understand how to develop financial incentives to promote transit use, teleworking, and alternative work schedule programs. Employers are encouraged to support biking and walking to work by offering amenities such as bicycle parking and access to shower facilities.
+
+[Page 41]
+BAYOUS AS CONNECTORS
+More Houstonians are enjoying the outdoors thanks to the growing number of parks and greenspaces. 
+The Bayou Greenways 2020 initiative will significantly enhance Houston’s park system by creating a 150-mile network of parks and trails, giving Houstonians access to approximately 3,000 acres of greenspace. Using paths along the bayous to create contiguous trail segments, we are seamlessly combining the urban and natural environment in a manner that provides not only recreation but also alternative transportation corridors adjacent to major transportation passages. The Houston Parks 
+Board is now moving Houston “Beyond the Bayous” with a vision to expand park and greenway spaces throughout the region to create further connections within our built environment and with nature. Developing these bayou networks makes it easier for neighborhoods to reduce tailpipe emissions and makes it possible to travel more safely on bike or by foot.
+Hunting Bayou at Kashmere Gardens. 
+Source: Houston Parks Board
+HOUSTON CLIMATE ACTION PLAN
+IMPROVE INTERCONNECTEDNESS 
+AND SAFETY OF PEDESTRIAN AND 
+TRANSIT NETWORKS
+Several transit-related plans and programs are already underway, and we should maximize these opportunities to integrate environmentally sustainable transit modes across our city. By incorporating climate risk and GHG emissions data proactively into transit planning, we can ensure Houston is investing in transit that is both sustainable and resilient and protects the health of our communities. With the addition of bike lanes and trail connectors, the B-Cycle program, and pedestrian safety campaigns such as Goal 
+Zero Bike Safety and Vision Zero, Houston is becoming a more pedestrian and bike-friendly community. By adopting the Houston Bike Plan in 
+2017, Houston City Council established the visions and goals of biking in Houston and identified future projects to help develop a citywide bicycle network. The Bike Plan will advance cyclists’ and motorists’ awareness, increase opportunities for bike sharing, and ensure that access to infrastructure is widely available.
+
+[Page 42]
+HOUSTON CLIMATE ACTION PLAN
+NET Power’s La Porte facility is the world’s first industrial-scale power plant that runs on supercritical-CO2. Source: NET Power
+
+[Page 43]
+TRANSITION
+GOAL 1 Grow Houston’s Investment in Renewable and Resilient Energy Systems. 
+GOAL 2 Make Houston The Leader 
+In Carbon Capture Technology and 
+Energy Innovation. 
+GOAL 3 Restore, Protect, and Enhance Houston’s Natural Ability to 
+Capture and Store Carbon.
+HOUSTON CLIMATE ACTION PLAN
+
+[Page 44]
+Across the globe, a shift to cleaner, more affordable, and resilient energy sources is already underway. Central to this energy transition is the dual challenge of providing power to meet a growing population while simultaneously reducing GHG emissions from the power sector. The transition began by shifting power generation from coal to natural gas, a move which has greatly helped the United States reduce GHG emissions over the past decade. However, to meet the goals of the Paris Climate 
+Agreement, the public and private sectors must work together to accelerate GHG emissions reductions from our energy sources. 
+As coal-fired power plants become too costly to operate compared to natural gas plants and the large-scale deployment of renewable energy, the Electric Reliability Council of Texas (ERCOT) expects that the Texas power grid will largely consist of natural gas and renewables by 2050.24 
+Texas has more wind capacity installed than any other state, with 24.2 gigawatts (GW) of installed capacity in 2019 and several large utility-scale renewable energy plants continuing to develop.25 
+Since the Texas electricity market is driven by competition, the best way to increase the share of carbon-free energy supplied to the grid is to encourage residents and businesses to buy and generate power from renewable sources. 
+To account for and offset the emissions from existing fossil-fuel power generation, however, the global energy industry—much of which is based in Houston—must continue to develop new, cost-effective emissions-reduction technologies and strategies. Carbon capture, utilization, and storage (CCUS) and other negative emissions technologies are a key area of focus to reduce emissions at the industrial scale. 
+At the local scale, we can also offset emissions naturally, sequestering carbon by restoring urban forests and by protecting and increasing the amount of greenspace within the city and surrounding region. Houston has 56,405 acres of park space—more than any major city in the country. Following Hurricane Harvey, a coordinated effort emerged to better leverage 
+Houston’s greenspaces to reduce flooding, capture carbon emissions, and improve citywide resilience. 
+No other city is as uniquely suited to embrace and lead the energy transition as Houston, the Energy 
+Capital of the World. Far from the boom-and-bust oil town of the 1980s, Houston’s economy has diversified to focus on all aspects of the energy sector, as well as healthcare, manufacturing, and technology. Today, Greater Houston is home to 
+4,600 energy companies, with a growing number dedicated to solar, wind, and clean energy. 
+Houston has the natural resources, the scientific expertise, and the investment capabilities necessary to spark the technological innovations needed to make industrial and nature-based carbon management programs cost-effective and deployable on an international scale. By leading the energy transition, Houston’s energy industry has the promise to dramatically reduce emissions in Houston, contributing to the overall reduction in cities across the globe. 
+Source: ERCOT
+Changes in Texas Grid Power Generation (2014 vs 2018)
+50%
+40%
+30%
+20%
+10%
+0%
+Natural
+Gas
+Coal
+2014 (*OTHER includes solar, hydro, biomass, landﬁll gas, coke, etc.)
+2018 +3% +8% +1%
+-11%
+-1%
+Nuclear
+Wind
+Other
+HOUSTON CLIMATE ACTION PLAN
+ENERGY TRANSITION
+
+[Page 45]
+GOAL 1 GROW 
+HOUSTON’S INVESTMENT 
+IN RENEWABLE AND 
+RESILIENT ENERGY 
+SYSTEMS.
+Globally, demand for onsite power generation from renewable sources is growing. Here in Houston, the number of solar installations is on the rise thanks to the decreasing cost of solar panels, the development of cost-effective leasing options, as well as new opportunities to participate, such as solar cooperatives and community solar projects. Based on projections of Houston’s solar potential, we have set a community goal of generating 5 million MWh from local rooftop and community solar projects per year by 2050.
+Distributed energy resources include rooftop solar and storage projects, community solar, microgrids, combined heat and power (CHP), and new technologies. Microgrids are typically made up of multiple onsite generation resources, including solar, battery, natural gas generators, or CHP. Microgrids include smart controllers that use real-time data to optimize how power is supplied from different energy sources in the microgrid to meet and anticipate the energy demand of a site or building. The deployment of distributed resources will not only decrease emissions, but also make Houston’s electric power system more resilient to natural disasters or brownouts that disrupt power transmission from the grid. 
+TARGET:
+5 million MWh local solar per year by 2050. 
+CO-BENEFITS:
+Resilience
+Improved Environmental 
+Quality
+Accessibility 
+COMPLEMENTARY 
+INITIATIVES:
+City’s fast-track solar permitting
+Climate Mayors program
+City’s Green Power 
+Program
+Solar United Neighbors (SUN)
+TEPRI’s “Pathways for Distributed Energy 
+Resources to Reduce 
+Energy Burdens: Houston”
+HOUSTON CLIMATE ACTION PLAN
+ENERGY TRANSITION
+
+[Page 46]
+The map above demonstrates the number of buildings across Houston census tracts that are viable for solar according to Google’s 
+Project Sunroof analysis.26 Project Sunroof will help inform our community’s ability to utilize 
+Houston’s solar potential, which is estimated to be 10 million megawatt hours (MWh) of electricity per year for small building rooftops and up to 18 million MWh of electricity generated per year when also considering the potential to develop solar on larger buildings.1, 27
+BUILDINGS SUITABLE FOR SOLAR
+Within two years—from 
+2017 to 2018—the number of City of Houston solar installation permits increased 150%. 
+HOUSTON SOLAR PERMITS
+2008 TO 2018
+2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018
+Source: City of Houston §¨¦
+I 45 §¨¦
+I 10 §¨¦
+I 610 §¨¦
+I 69 §¨¦
+I 45 §¨¦
+I 10 §¨¦
+I 45 §¨¦
+I 610 £ ¤
+US 290 £ ¤
+US 90 £ ¤
+US 90 £ ¤
+US 290 £ ¤
+US 290 µ
+2.5
+Miles
+Major Roads
+County Boundaries
+Buildings Suitable for Solar
+800 or Fewer
+800 to 1,600
+1,600 to 3,000
+Greater Than 3,000
+Buildings Suitable for Solar
+800 or Fewer
+800 to 1,600
+1,600 to 3,000
+Greater Than 3,000 µ
+2.5
+Miles µ
+HOUSTON CLIMATE ACTION PLAN
+ENERGY TRANSITION
+
+[Page 47]
+GREEN MOUNTAIN 
+ENERGY SUN CLUB 
+Since 2002, Green Mountain Energy’s (GME) Sun Club has been working within the region to develop solar installations on non-profit rooftops, as well as promote energy efficiency, clean transportation, resource conservation, and sustainable agriculture practices. 
+Sun Club is a non-profit 501(c)3 that is funded by retail energy customers and GME employees. Since its inception, the program has funded 111 projects across the United States, with 79 of those installed in Texas. 
+Sun Club’s solar installations have totaled 530 kW at schools, universities, community outreach centers, parks, zoos, and cultural centers.
+70 kW solar array at Houston Food Bank. 
+Source: Green Mountain Energy
+HOUSTON CLIMATE ACTION PLAN
+SUPPORT AND PROMOTE THE USE AND 
+DEVELOPMENT OF RENEWABLE ENERGY
+While the Houston area’s potential for solar energy is high, we must make sure that solar programs are accessible and affordable for residents across the income spectrum. Increasingly high utility bills are a concern for many families in Houston, making it more difficult to afford necessities such as food, medicine, and childcare. The Texas Energy Poverty 
+Research Institute (TEPRI) is currently developing a rooftop solar study in Houston to improve low- to moderate-income communities’ access to clean energy resources that will lower their energy expenses and improve resilience. 
+E1.1
+Source: Solar United Neighbors
+SOLARIZE HOUSTON: 
+SOLAR UNITED NEIGHBORS
+Solarize Houston and Solar United Neighbors work to improve access to solar energy by facilitating group purchasing of rooftop solar systems for Houston area residents. The two organizations joined forces in 2019 to further promote solar and develop additional bulk purchase or “solar co-ops” around the region. 
+Allowing multiple homeowners to come together and aggregate their purchase reduces costs dramatically, making solar affordable for many more households. Since 2016, bulk purchase efforts have led to 78 installations in Houston and 
+The Woodlands with a total capacity of 689 kW.
+
+[Page 48]
+HOUSTON CLIMATE ACTION PLAN
+SUPPORT AND PROMOTE RETAIL 
+RENEWABLE ENERGY OPPORTUNITIES 
+Increasing community demand for clean energy products will result in greater investment in clean energy across the state. The City will work with retail electricity providers (REPs) to help better educate our community on the availability of green retail electricity products. In Houston, 
+REPs develop and sell retail electricity products to residential, commercial, and industrial customers. 
+Options range from conventional products where the consumer buys power that reflects the existing grid portfolio to products that provide a greater share of—up to 100%—renewable energy. 
+When purchasing renewable energy products, consumers can purchase renewable energy credits (RECs) or in some cases, as in the Local 
+Sun example, purchase power directly from one or more solar or wind farms. 
+There are also products that support rooftop solar installations by paying consumers for sending their extra power back to the grid, as well as products that provide time-of-use rates, such as free nights and weekends. The time-of-use products can encourage power consumption during times when a larger percentage of clean energy resources are operating, particularly wind power, as wind tends to blow more at night. 
+For municipal operations, the City will achieve 
+100% renewable energy consumption by 2025 and will continue to evaluate opportunities for additional power purchase agreements (PPAs), 
+REC purchases, and onsite solar generation. 
+E1.2
+A MODEL FOR COMMUNITY 
+SOLAR PROGRAMS: LOCAL SUN 
+Local Sun was the first community solar program for 
+Houston residents to enable those who were unable to put solar at their home to have ownership in a solar project. Working with partners like MP2 Energy, 
+Local Sun aims to expand access to solar power to all area residents with retail electric offers powered by projects like its 1.4 MW, 12-acre solar farm in Sealy, 
+TX. Community solar programs, like Local Sun, benefit consumers by placing more solar onto the local grid and creating renewable energy credits. 
+Source: Local Sun
+ENERGY TRANSITION
+
+[Page 49]
+HOUSTON CLIMATE ACTION PLAN
+ADVOCATE FOR RENEWABLE ENERGY 
+POLICIES AT THE LOCAL, STATE, AND 
+FEDERAL LEVELS
+Renewable Portfolio Standards (RPS) have been adopted across 29 states. In 1999, Texas adopted an RPS and set a goal for 10,000 MW of renewable energy capacity in the state by 2025. Because of favorable market and policy conditions, the state already surpassed the adopted standards, more than doubling the 2025 goal with more than 24,000 MW of wind28 and 1,791 MW of solar installed.29 The City will work with lawmakers and agencies across Texas to stimulate greater diversity of renewable energy types installed on the grid, including updating the RPS or introducing a new state clean energy standard that better aligns with our carbon neutral goal by 2050.
+E1.3
+UNDERSTANDING HOUSTON’S 
+POWER MARKET
+Twenty years ago, the State of Texas deregulated its electricity market. Some cities, such as Austin and San 
+Antonio, chose to retain control of their municipal electric utility. Others, such as Houston and Dallas, chose to enter the deregulated market. Today, in Houston’s deregulated power market, separate companies are responsible for the generation, distribution, and retail sale of electricity.* 
+CenterPoint Energy is the sole provider of natural gas to residential customers in the Houston market.
+The Electric Reliability Council of Texas (ERCOT) is responsible for scheduling and managing power on the Texas grid and works with generators to determine power availability from each resource—natural gas, wind, solar, coal, or nuclear—based on market conditions. In Greater Houston, 
+CenterPoint Energy is responsible for the maintenance and operation of the transmission and distribution grid, from the large power lines that transport power across the region to the wires that feed into your home. The third component of our deregulated market, retail electricity providers (REPs), buy power from the grid and sell it directly to the customer. REPs make a variety of services available that vary based on pricing, duration of contract, and source of electricity (i.e. 100% renewable energy). 
+Together these organizations work to ensure electric power is reliable and affordable for our entire community. 
+*A small subset of City of Houston residents (fewer than 1%) receive their power from Entergy Texas, which is not served by ERCOT and operates its own grid.
+Alpine Solar Farm. 
+Source: ENGIE
+
+[Page 50]
+HOUSTON CLIMATE ACTION PLAN “We need to publicly commit to lowering emissions that come from our own businesses.”
+-Bobby Tudor, Chair, Greater Houston Partnership, 
+January 22, 2020
+ENERGY TRANSITION
+GOAL 2 MAKE HOUSTON 
+THE LEADER IN CARBON 
+CAPTURE TECHNOLOGY 
+AND ENERGY INNOVATION.
+Houston has a long history of energy innovation. No other city in the world has the critical combination of engineering and technological know-how. Leading carbon management and negative emissions technology development is essential to Houston becoming carbon neutral by 2050.
+As the low-carbon economy continues to develop, the entrepreneurial nature of our community is perfectly positioned to lead. Existing and emerging hubs, partnerships, and accelerator programs will advance and deliberately build upon our strong energy, aerospace, and biomedical research foundation to solve big problems. In coordination with Resilient Houston, we have set a community goal of attracting 50 Energy 2.0 companies in greater Houston by 2025. 
+TARGET:
+Attract or incubate 50 
+Energy 2.0 companies in 
+Greater Houston by 2025.
+ 
+CO-BENEFITS:
+Economic Growth
+Workforce Development
+Resilience
+COMPLEMENTARY 
+INITIATIVES:
+UH Center for Carbon 
+Management in Energy
+Hire Houston Youth
+Rice Ion Innovation Hub
+Center for Houston’s 
+Future Energy Initiative
+Rice Carbon Hub
+ENERGY TRANSITION
+
+[Page 51]
+HOUSTON CLIMATE ACTION PLAN
+PROMOTE CARBON CAPTURE, UTILIZATION, 
+AND STORAGE (CCUS)
+CCUS offers a solution for reducing GHG emissions from industrial processes and power plant operations. Significant technological research and financial resources are being invested into making 
+CCUS scalable. One significant opportunity is to capture CO2 and utilize it to enhance oil recovery (EOR) in oil and gas drilling and production. When injecting CO2 for EOR, underground geology is assessed to identify where it is appropriate and safe to inject CO2 and store over long periods. 
+CCUS also presents opportunities to utilize captured CO2 to create value-added products— cement and concrete—to keep additional CO2 out of the atmosphere. However, we must be careful in how these products are used to ensure that sequestered carbon is not released back into the atmosphere.30 Developing these technologies at scale could bring countless new business opportunities to Houston’s energy, manufacturing, and technology sectors. 
+To make CCUS applications more financially feasible, developers can take advantage of the 
+45Q tax credit.31 Additional incentives or programs are needed and 45Q has a retirement date set for 
+2022, which has placed some uncertainty in the market. An expansion of 45Q and carbon pricing mechanisms are currently being considered at the federal level as potential incentives for carbon storage.32 Regardless of the financial model to make it cost effective, we look to the private sector and our research universities to develop and advance the technologies that will allow 
+CCUS to become a powerful tool for global emissions reduction. 
+E2.1
+TARGETING METHANE 
+EMISSIONS: BAKER HUGHES 
+Houston-based firm Baker Hughes offers many technologies for identifying and reducing emissions, including the Lumen methane monitoring and inspection system for detecting leaks and process upsets. The system consists of a continuous ground-based wireless sensor network that is connected with a drone-based system for aerial monitoring. Real-time alerts appear on a userfriendly dashboard that enables operators to quickly collaborate and take immediate action. This is one of several solutions helping the oil and gas industry to decrease emissions while improving efficiency and cost. Baker Hughes also recently announced an agreement to purchase 100% renewable energy at its 170 Texas facilities, which will eliminate 12% of the company’s global carbon footprint.
+World’s largest carbon capture facility at the coal-powered Petra Nova plant. 
+Source: NRG Energy
+Source: Baker Hughes
+
+[Page 52]
+HOUSTON CLIMATE ACTION PLAN
+Source: The Ion, Rice University
+DEVELOP AN ENERGY INNOVATION 
+ECOSYSTEM 
+Houston’s local research and higher educational institutions are leading the development of CCUS and other negative emission strategies to increase carbon offsets. The mission of the University of Houston’s Center for Carbon Management in Energy is to be a pioneer in identifying and developing carbon management strategies for both energy production and generation. Rice University has launched the Carbon Hub in partnership with 
+Shell and a growing number of industry leaders to direct $100 million for scientific and engineering research on efficient, deployable carbon technologies that will enable a zero-emissions future. Rice 
+Energy and Clean Technology Venture Forum as well as Ion Houston are also leading the development of “clean tech” in Houston.
+The City will continue to expand and strengthen 
+Houston’s new business ecosystems and innovation districts by supporting investments in public infrastructure, real estate, research, and academic programs. The City will also facilitate planning exercises that bring together a broad array of key stakeholders to discuss potential pathways Houston could take to develop emissions reduction technology, economic development policies and tax incentives. Through coalition building and information sharing, Houston’s leaders from the public and private sectors can develop a consortium to advocate for policies at the state and federal levels to enable a transition to greener and cleaner energy solutions while preserving our economic interests in the energy industry. 
+The following graph represents the proposed framework to guide energy transition stakeholder engagement and strategic planning:
+E2.2
+Technical Barriers and Solutions
+Market 
+Sectors
+Industry 
+Consensus
+Infrastructure and 
+Technology Development
+Policy, Regulatory, and Legal Issues
+Coalition/Consortium 
+Development and 
+Information Sharing
+Training and 
+Education
+Funding Options and 
+Implementation Costs
+Advocacy
+ENERGY TRANSITION
+
+[Page 53]
+HOUSTON CLIMATE ACTION PLAN
+PREPARE FUTURE GENERATIONS FOR 
+HIGHLY SKILLED JOBS IN THE ENERGY 
+TRANSITION
+The energy transition will create many business opportunities that will require specialized expertise and training. We, as a community, are committed to fostering an equitable learning environment where diversity and quality of life can flourish in a low-carbon economy. The participation of our entire community, including marginalized or minority groups, is crucial to the future of these energy fields. As the energy industry moves forward and explores new sources and methods of producing clean energy, the workforce must also transform. 
+One major priority is to partner and collaborate with area K-12 and higher education institutions to develop the curriculum and degree plans that will prepare future leaders of the clean energy transition. Houston Independent School District’s 
+Energy Institute High School is a shining example of how public schools are training the next generation of energy leaders. Local community colleges are already seeing this opportunity and creating programs to develop professional clean energy expertise, including Lone Star Community 
+College’s Energy and Manufacturing Institute33 and Houston Community College’s Engineering 
+Technology—Sustainable and Renewable 
+Energy degree.34
+Inspiring current and future generations is necessary to fully realize and lead the energy transition. By expanding Mayor Turner’s Hire Houston 
+Youth program, which provides internship and job opportunities for young adults aged 16–24 at public and private companies throughout the area, the City can help build a high-quality workforce of the future.
+E2.3
+OUTDOOR SOLAR 
+CLASSROOM 
+IN SUNNYSIDE 
+The Outdoor Solar Classroom at the South 
+Union Community Development Corporation (SUCDC) launched in 2018 to enable K-12 students to actively engage in solar-related experiments and become “Youth Solar and 
+Agricultural Ambassadors.” Part of a larger 
+Science, Technology, Engineering and Math (STEM) program at SUCDC, which introduces local youth to a wide variety of STEM-related careers through weekly presentations and monthly field trips, the Outdoor Solar 
+Classroom allows students to apply learned knowledge through a growing collection of solar and agriculture projects. 
+Source: SUCDC
+ENERGY TRANSITION
+
+[Page 54]
+HOUSTON CLIMATE ACTION PLAN
+GOAL 3 RESTORE, 
+PROTECT, AND 
+ENHANCE HOUSTON’S 
+NATURAL ABILITY TO 
+CAPTURE AND STORE 
+CARBON.
+Before Houston developed into a major metropolis, it was largely wetland, forested land, and prairie habitat. Today, only 
+18% of the city is covered by a canopy of 33 million trees—most of which are located on private land.35 In addition to reducing the urban heat island effect and annual residential energy costs by $53.9 million per year, these trees currently remove more than 
+500,000 tons of CO2 per year in Houston, according to a 2015 study by the US Department of Agriculture.35 In coordination with 
+Resilient Houston, we have set a community goal of improving tree canopy coverage by planting 4.6 million new native trees in 
+Houston by 2030.
+ 
+TARGET:
+4.6 million new native trees planted by 2030.
+ 
+CO-BENEFITS:
+Improved Environmental 
+Quality
+Better Health and 
+Well-being
+Resilience
+COMPLEMENTARY 
+INITIATIVES:
+Houston Parks Board
+TREES for Houston
+City’s Riparian 
+Restoration Initiative
+City’s 50/50 Park Partners initiative
+Beyond the Bayous
+Houston Cities Connecting 
+Children to Nature
+Incentives for Green 
+Development 
+ENERGY TRANSITION
+ENERGY TRANSITION
+ENERGY TRANSITION
+
+[Page 55]
+HOUSTON CLIMATE ACTION PLAN
+IMPLEMENT NATURE-BASED SOLUTIONS 
+THAT INCREASE CARBON STORAGE
+Incorporating native trees and plants, bioswales, rain gardens, green roofs, urban gardens, and other types of green stormwater infrastructure (GSI) into residential, commercial, and municipal landscaping is a natural way to remove CO2 from the atmosphere. These conservation, restoration, and improved land management measures are critical in mitigating our emissions and improving quality of life. The Mayor’s Office of Recovery evaluated programs to encourage adoption of GSI and recommended the adoption of four incentives including integrated development rules, property tax abatements, award and recognition programs, and streamlined permitting processes.36 Another way to help reduce CO2 emissions, reduce urban heat island effect, and minimize the downstream impacts of development is by revising and strengthening the City’s existing Tree, Shrub, and 
+Screening Fences Ordinance (Chapter 33). This could increase much-needed vegetative cover and encourage native plantings. 
+Numerous partners including Katy Prairie 
+Conservancy, Bayou Land Conservancy, The 
+Nature Conservancy, and Houston Parks Board are working with private landowners and the Houston 
+Parks and Recreation Department (HPARD) to make our communities more livable by enhancing, conserving, and expanding nature through land preservation. Utility easements can also be used to support additional nature-based infrastructure, such as prairie restoration projects within the 
+CenterPoint right of way.
+E3.1
+Prairie restoration within CenterPoint easement. 
+Source: The Nature Conservancy in Texas
+ENERGY TRANSITION
+
+[Page 56]
+HOUSTON CLIMATE ACTION PLAN
+PROTECT, EXPAND, AND MANAGE 
+MUNICIPAL PARK ASSETS TO MAXIMIZE 
+ENVIRONMENTAL AND RECREATIONAL 
+BENEFITS 
+Houston is embracing the nickname, “The Bayou 
+City,” as we reconceive and reclaim waterways, greenways and greenspaces across the city. 
+Through the Riparian Restoration Initiative, 
+HPARD is targeting all parks adjacent to bayous and tributaries for the restoration of forested riparian buffers, many of which have been removed or degraded due to development or stream channelization. This project will ultimately result in the restoration of more than 1,000 acres of habitat across 70 city parks, with an installation of more than 200,000 native trees. 
+Also featured in Resilient Houston, the City will adopt a Nature Preserve Policy to preserve approximately 7,000 acres of natural habitat— 
+20% of the City’s total park space by 2020— with a call to external organizations and private landowners to preserve the equivalent number of acres or more. Through the development of a management plan for municipal nature preserves, riparian buffers, and linear forests on street medians, the City will increase tree canopy coverage 25% on City property by 2040 and assess additional opportunities to acquire new municipal park land for conservation or stormwater mitigation. Revising the City’s Open Space 
+Ordinance to prioritize nature-based solutions and expand nature preserves would strengthen community-wide efforts to mitigate flooding and sequester additional carbon.
+E3.2
+Source: City of Houston
+ENERGY TRANSITION
+
+[Page 57]
+HOUSTON CLIMATE ACTION PLAN
+SUPPORT CARBON OFFSET PROJECTS THAT 
+PROTECT AND RESTORE THE HOUSTON 
+AREA’S NATURAL RESOURCES
+The development of local ecosystem credit markets for carbon and stormwater capture will provide opportunities to further diminish carbon emissions. These are currently voluntary systems where residents and businesses can offset their GHG emissions by contributing to CO2 sequestration and land conservation projects. 
+The Texas Coastal Exchange is a local nonprofit working with Texas coastal landowners to award annual grants based on the carbon storage capacity of the land. These grants come from donations from individuals, organizations, and businesses that wish to minimize their own carbon footprints and sponsor local land conservation. 
+In addition to reducing municipal emissions through energy-saving measures and renewable energy purchases, the City will evaluate offsetting remaining emissions, such as fuel used by City vehicles, with offset credits generated from Texasbased CO2 sequestration projects. 
+E3.3
+Riparian restoration at Milby Park. 
+Source: City of Houston
+ENERGY TRANSITION
+
+[Page 59]
+HOUSTON CLIMATE ACTION PLAN
+BUILDING 
+OPTIMIZATION
+GOAL 1 Reduce Building 
+Energy Use and Maximize Savings.
+ 
+GOAL 2 Expand Investment in 
+Energy Efficiency.
+ 
+GOAL 3 Invest in Skilled Local 
+Jobs to Optimize Building Operations.
+
+[Page 60]
+Powering the places where we live, work, and play takes a lot of energy and money. 
+The energy used in buildings currently accounts for the largest portion of Houston’s 
+GHG emissions, comprising 49% or 16,873,994 metric tonnes CO2e. As Houston’s population and economy are expected to grow rapidly in the coming years, additional energy demands from buildings that are powered predominantly by fossil fuel sources will continue to contribute significantly to our GHG emissions. Current transmission and distribution systems of electricity over power lines experience energy losses and the average building wastes 30% of the energy it consumes due to inefficiencies.37 
+Over the next 50 years, Houston can expect more extreme weather events and higher utility rates to change how buildings are designed. In addition to efficient design, construction, and equipment upgrades, behavioral changes made by owners and tenants can save energy and water. Optimizing 
+Houston’s building stock will help reduce GHG emissions, improve quality of life for residents, and generate savings that can be reinvested in our communities. 
+The largest barrier to implementing energy efficiency projects is the combination of high upfront costs and low availability of financing. 
+Traditional financing has limits, and we must help bridge that gap to encourage energy-efficiency investments. Programs such as Property Assessed 
+Clean Energy (PACE) help owners and occupants overcome the upfront costs to realize numerous benefits including increased property value, lower operating costs, and better financing terms.40 
+The City will continue to develop and improve upon municipal programs and policies that increase energy management, efficiency, and resource conservation in a cost-effective manner. In collaboration with industry partners, the City will advance energy efficiency programs that help building owners and operators measure and understand building energy use, identify challenges, and quantify opportunities to optimize operations. From changes in behavior to physical improvements, equipping the community with strategies and advanced technologies is key to improving resource efficiency and reducing our building GHG emissions. 
+HOUSTON CLIMATE ACTION PLAN
+Houston at night, astronaut photograph taken August 9, 2014. Source: NASA/JSC
+BUILDING OPTIMIZATION
+
+[Page 61]
+HOUSTON CLIMATE ACTION PLAN
+GOAL 1 REDUCE BUILDING 
+ENERGY USE AND 
+MAXIMIZE SAVINGS.
+Energy waste costs Houston residents and businesses millions of dollars annually. Energy efficiency is a powerful economic opportunity as well as a resource to meet our sustainability and climate goals. For a building to be energy efficient, it must perform at the same level— or better—with less energy. As technology becomes more embedded into our daily lives, we are placing unprecedented demands on the electricity grid. By improving the efficiency of our building stock, we can ensure our growing energy demand does not outpace current capacity. Efficient buildings are not only more cost-effective to operate and maintain value longer, they also provide healthier and more comfortable spaces to enjoy. 
+We take it for granted that when we open the faucet, clean water flows. 
+Although Houston’s water supply is currently not at risk, it is becoming more apparent that we need to increase our conservation efforts to ensure its security in the future. Traditional efforts to improve energy and water efficiency have been pursued separately, even though energy and water usage are linked. It takes a lot of energy to purchase, pump, treat, and store potable water and these processes need to be factored in when evaluating energy usage. Drinking water and wastewater treatment facilities are the largest consumers of energy in the City’s energy portfolio, accounting for 68% of the City’s electricity bill in 
+FY2019, or approximately $50 million.
+ 
+TARGET:
+Adopt the 2021 ICC model building code by 
+2025 with a minimum 
+5-year update.
+CO-BENEFITS:
+Cost-Savings
+Better Health and 
+Well-being
+Resilience
+COMPLEMENTARY 
+INITIATIVES:
+Green Building 
+Resource Center
+Water Conservation 
+Plan
+BUILDING OPTIMIZATION
+
+[Page 62]
+HOUSTON CLIMATE ACTION PLAN
+UPDATE ENERGY CODE AND INCREASE 
+COMPLIANCE 
+Energy codes establish minimum performance requirements for design, construction, and building components that must be met by new and renovated buildings. Buildings that are code-compliant reduce power demand and are more cost-effective to operate. Updated national building energy codes from 2006 to 2012 have increased potential energy savings by nearly 30% for building occupants.41 Studies from the Institute for Market Transformation show for each dollar spent on energy code enforcement, there is a $6 return on investment from energy savings.42 In order to achieve these savings, buildings must be designed and constructed to meet the locally adopted code.
+In collaboration with the building community, including building architects, developers, engineers, and operators, Houston Public Works comprehensively reviews and updates building codes and standards. As part of a larger push to adopt the 2021 International Code Council (ICC) model codes by 2025 in Resilient Houston, the City will adopt the 2021 energy code no later than 2025 and will continue to review and update energy codes.. The City will also adopt a minimum five-year update frequency for building codes. This will ensure the most recent resource efficiency measures are adopted and applied to buildings throughout Houston. 
+Energy savings are only realized when the codes are enforced, so the City will also establish a plan to achieve 85% energy code compliance by 2030. 
+By ensuring compliance with building energy codes, we can increase the energy efficiency of our building stock without passing additional policies. 
+Working closely with code enforcement officials, the City will increase capacity and training for plan review and code inspectors. Along with increasing education opportunities for industry groups, this will help building owners comply with energy codes and meet building energy management goals.
+B1.1
+ENERGY STAR AND LEED 
+BUILDINGS IN HOUSTON
+Increasing demand for more efficient, highperforming buildings by owners and tenants has led to Houston’s continued ranking among the top 10 on both the ENERGY STAR Top Cities38 and Green Building Adoption Index39 lists. This demand is driven by large energy companies, 
+Class A developers, and municipal initiatives. 
+While much progress has been made, energy and water efficiency practices need to expand to all buildings.
+Historic distribution of LEED and Energy Star certified buildings in Houston. Source: Energy Star; US Green 
+Building Council
+BUILDING OPTIMIZATION
+
+[Page 63]
+HOUSTON CLIMATE ACTION PLAN
+DEVELOP PROGRAMS THAT IMPROVE 
+BUILDING ENERGY EFFICIENCY
+Commercial, multi-family, and industrial building owners and managers often do not have enough information on how energy is used in their building, making energy management nearly impossible. 
+Practices that provide data on building energy performance, such as benchmarking, help owners to track energy use trends and effectively manage the impact of energy-efficiency improvements. 
+According to Energy Star, properties that benchmark see an average reduction in energy use of 2.4% per year and a two-point increase annually in their Energy Star score.43 Based on the 
+City’s experience over the past 10 years, the City will lead by example and develop a comprehensive municipal building policy that includes benchmarking and disclosure for all municipal buildings by 2021. The City will also work with the Building Owners and Managers Association (BOMA) and industry partners to develop benchmarking and energy audit programs for commercial, multi-family, and industrial buildings. 
+Building audits provide a more detailed analysis of energy use and are powerful ways to improve the energy efficiency and comfort of a facility. Audit information directly informs building owners of concrete steps and retrofitting measures, including low- and no-cost opportunities, which can lead to higher code compliance rates. These initiatives provide practical actions to achieving greater energy efficiency.
+The City will bring together partners to engage and educate Houstonians about the opportunities and benefits of energy conservation and efficiency strategies. This will include support for residential energy retrofitting and weatherization programs (further described in Building Optimization Goal 
+2). Updating building codes will also help to ensure that new and retrofitted residential projects are designed to achieve high levels of energy efficiency and resilience. 
+REDUCE WATER AND WASTEWATER ENERGY 
+CONSUMPTION BY 10% THROUGH 
+OPTIMIZATION OF FACILITY OPERATIONS 
+AND WATER CONSERVATION
+The City released a new, five-year Water 
+Conservation Plan in July 2019. This plan not only promotes consumption awareness to reduce energy use, but also promotes “water-wise building standards.” As with the energy code, these standards include regular updates to the building and plumbing codes and will continue a review process with members of the building community to focus on water and plumbing. The City will also continue to work with industry partners to support consumption awareness programs, encourage rainwater and greywater use where feasible, and promote green stormwater infrastructure (GSI) and low-impact development. The more strategic we, as a community, can be about water consumption, the less water that will require treatment. 
+The City’s wastewater treatment utility, Houston 
+Public Works (HPW), has been proactively identifying and considering a variety of system improvements that could generate significant energy efficiency savings. HPW has developed a cost-benefit matrix that considers the financial cost, the technical and operational feasibility, and the societal benefit associated with each major upgrade to wastewater infrastructure and equipment. As the City plans to consolidate 
+39 wastewater treatment facilities into 30, it will evaluate cost-effective operational modifications and facility upgrades that optimize energy use and achieve the additional capacity for wastewater treatment required for Houston’s growing population. 
+B1.2
+B1.3
+BUILDING OPTIMIZATION
+
+[Page 64]
+HOUSTON CLIMATE ACTION PLAN
+Source: Modified from Department of Energy
+The Beneﬁts of a Weatherized Home
+Lower Loan
+Interest
+Payments
+Less Utility
+Bills Late
+Payment & Fees
+Less
+Out-of-Pocket
+Health Costs
+Water
+Cost
+Savings
+Energy
+Costs
+Savings
+GOAL 2 EXPAND 
+INVESTMENT IN 
+ENERGY EFFICIENCY.
+Access to capital and information are key for building owners to successfully implement energy efficiency upgrades and overcome market barriers. The availability of diverse energy-efficiency financing mechanisms is fundamental to achieving broad-scale market investment throughout all parts of our community and is a crucial component to the success of our climate goals. 
+Since the City of Houston is in a deregulated electric market, it is challenging for the City to incentivize or subsidize energy efficiency projects. Instead, several energy efficiency and rebate programs, including weatherization assistance programs, are offered by 
+CenterPoint Energy as well as retail electric providers (REPs). These programs are required by the State of Texas to ensure utilities provide reliable power during periods of peak demand. To truly optimize 
+Houston’s building stock, however, more programs are needed. By installing building materials that make homes and businesses more comfortable and energy efficient, weatherization helps reduce energy burdens and creates more equitable and resilient communities. 
+TARGET:
+Double the current number of PACE projects by 2025.
+ 
+CO-BENEFITS:
+Economic Growth
+Affordability
+Workforce 
+Development
+COMPLEMENTARY 
+INITIATIVES:
+PACE program
+USGBC LEED 
+Certification
+Weatherization 
+Assistance Programs (WAP)
+CenterPoint’s utility energy efficiency programs
+BUILDING OPTIMIZATION
+
+[Page 65]
+HOUSTON CLIMATE ACTION PLAN
+PROMOTE CLEAN ENERGY FINANCING 
+PROGRAMS
+Adopted in 2015 as an economic development tool, Houston’s commercial Property Assessed 
+Clean Energy (PACE) Program incentivizes private building owners to upgrade facility infrastructure with little or no upfront capital. 
+Eligible commercial, multi-family, and industrial property owners can decrease operating costs and use the savings to pay for energy efficiency, water conservation, distributed energy, and resilience upgrades. Owners gain access to private, affordable, and long-term—typically 10–20 years— financing that is not available through traditional funding avenues. To date, four projects have been completed in Houston, resulting in more than $25 million in investment and saving 5,541 metric tonnes of CO2e emissions each year. The City will continue to support the development of the PACE market in Houston with the goal of doubling the current number of PACE projects by 2025.
+Private-sector energy service companies (ESCOs) finance and implement energy-efficiency projects based on energy savings. These companies provide a guarantee of savings, which is specified in the terms of a services performance contract. 
+Growing private investment in efficiency programs is opening the market for new tools—on-bill financing and revolving loan funds—that can help customers overcome cost barriers by financing upgrades over time.
+In addition to private capital markets, the 
+City adopted a property tax incentive for new construction green buildings in 2009. This program establishes a partial tax abatement for U.S. Green Building Council (USGBC) LEEDcertified commercial buildings. Harris County also adopted a property tax incentive for new construction green buildings in 2018. Similar to the City’s, this program establishes a partial tax abatement for LEED-certified commercial buildings. Through partnerships with community and industry organizations, the City will continue to actively create and ensure the expansion of financing avenues for energy efficiency projects. 
+B2.1
+G.T. Mickey Leland Federal Building. 
+Source: Gensler. Photographed by: Joe Aker.
+BUILDING OPTIMIZATION
+
+[Page 66]
+BUILDING OPTIMIZATION
+HOUSTON CLIMATE ACTION PLAN
+PICKING UP THE HOUSTON PACE
+Property Assessed Clean Energy (PACE) enables building owners to modernize building infrastructure with little or no capital upgrade. This financial tool, approved by the state and adopted by the City, empowers owners of eligible commercial, industrial, and multifamily properties to lower operating costs by saving energy. The savings can be used to update property infrastructure and pay for qualified energy efficiency, water conservation, distributed generation and resilience projects. Owners gain access to 
+100% up-front, private, long-term, low-cost financing with a positive cash flow.
+1225 North Loop West Investments, Inc. used PACE to invest $1.3 million in property upgrades to modernize the infrastructure of a 35-year old multi-tenant office building.
+Property Manager Seth Eslami explains, “Our priority was the mechanical equipment upgrade. The efficiency component was just an added benefit. I am hopeful that this project will help more people see that TX-PACE is not a typical ‘green’ program focused solely on saving the environment, but instead has a focus on improving the financial side of a business. TX-PACE can upgrade a building and can pay for itself.” $25,388,374
+Dollars
+Invested
+Jobs
+Created
+5,541
+CO2 Reduced (tonnes/yr)
+16,185,924
+Water Saved (gallons/yr)
+10,274,166
+Energy Saved (kWh/yr)
+3,677,000
+Natural Gas Saved (BTU/yr)
+Projects
+Completed
+Houston PACE – by the numbers:
+PACE FUNDED MEASURES: 
+HVAC, Building Automation System, 
+LED Lighting 
+ASSESSMENT TOTAL: $1.3M 
+TERM: 
+20 years 
+UTILITY INCENTIVES: $30,000 
+IMPACT: 
+38% annual utility reduction 
+ANNUAL SAVINGS: $185,000
+Source: Texas Pace Authority
+
+[Page 67]
+HOUSTON CLIMATE ACTION PLAN
+EXPAND PARTICIPATION IN UTILITY 
+ENERGY INCENTIVE PROGRAMS
+Texas was the first state to offer an Energy 
+Efficiency Resource Standard (EERS) and require regulated utilities to provide load management and demand response programs that encourage building owners to modify building operations to save energy. Through the EERS, CenterPoint Energy offers various incentive programs to help property owners of all types optimize building operations and reduce peak energy demand. 
+Cost effective energy efficiency programs— utility incentives and rebates—are critical to ensuring that investments in energy efficiency are accessible to all property owners. Hard-to-Reach (HTR) customers are customers with an annual household income at or below 200% of federal poverty guidelines, or who meet certain other qualifications. 
+In 2018, CenterPoint Energy spent $30,509,259 on incentive programs, saving more than 162 million kWh; 78% of these savings were from 
+Harris County. The City will continue to support and participate in the CenterPoint Energy Portfolio of energy efficiency programs.
+Homes that are weatherized continue to save money and energy year after year, helping families pay for other living expenses, such as healthcare, medicine, groceries, and childcare. 
+The U.S. Department of Energy (DOE) estimates that for every dollar invested in weatherization, $1.72 is generated in energy savings and $2.78 in non-energy benefits such as fewer sick days and doctor visits from having more livable homes and businesses.44 In Houston and Harris County, 
+BakerRipley is currently the only subrecipient of federal weatherization funding. Although Texas does not directly fund residential weatherization programs, utility companies spend more than $25 million each year to supplement federal weatherization funding for low-income families.45
+B2.2
+BAKERRIPLEY RESIDENTIAL 
+WEATHERIZATION 
+ASSISTANCE PROGRAM 
+Since the mid 1990’s, BakerRipley, formerly 
+Neighborhood Centers and Sheltering Arms, has provided weatherization assistance to eligible low-income households in Harris County. In the past five years, BakerRipley expended an average of $5,529 per home installing weatherization measures in 1,877 single family and multi-family homes, resulting in an average estimated savings of $984 annually per home.45 BakerRipley works directly with renters and homeowners, overseeing contractors and inspectors throughout the entire weatherization process. BakerRipley’s weatherization work has a profound and immediate impact on the families they serve. Increasing funding for weatherization is a promising opportunity for the City and County to work together to increase community resilience and reduce GHG emissions. 
+Source: BakerRipley
+BUILDING OPTIMIZATION
+
+[Page 68]
+HOUSTON CLIMATE ACTION PLAN
+GOAL 3 INVEST IN 
+SKILLED LOCAL JOBS 
+TO OPTIMIZE BUILDING 
+OPERATIONS.
+To have more energy and water efficient buildings, we must have a workforce that is able to design, build, and operate these buildings as efficiently as possible. Our local educational and vocational institutions are great partners who can make additional training available throughout our community. Potential training opportunities include new and existing buildings efficiency, heating, ventilation, and air conditioning (HVAC) repair and maintenance, and high-performance building construction and design.
+As the market transforms and the demand for reducing GHG emissions increases, the need for trained building operators will continue to grow. 
+Smart technologies, design characteristics, and complex systems are becoming standard components of buildings. When building systems are not operated efficiently or maintained effectively, energy and water loss can be quite high. Training building operators is a costeffective way for building owners to improve energy efficiency with savings averaging approximately $11,000 per year, or up to 20% of energy costs.46 This is leading to new career path opportunities for 
+Houstonians as highly skilled—and highly paid—facility managers are needed to implement a strategic approach to building operations and maintenance that will achieve the desired performance levels. Building owners and operators need to join forces with K-12 and higher learning institutions to develop curriculum and degree plans that will prepare the next generation of Houstonians to be building-efficiency leaders.
+ 
+TARGET:
+70% of non-residential buildings operated by trained building operator by 2030.
+CO-BENEFITS:
+Workforce 
+Development
+Economic Growth
+Cost-Savings
+COMPLEMENTARY 
+INITIATIVES:
+Building Operator 
+Certification Program offered by SPEER
+City’s Hire Houston 
+Youth program
+BUILDING OPTIMIZATION
+BUILDING OPTIMIZATION
+
+[Page 69]
+HOUSTON CLIMATE ACTION PLAN
+PROVIDE TRAINING IN THE OPERATION, 
+MANAGEMENT AND MAINTENANCE OF 
+RELEVANT BUILDING SYSTEMS
+Across the city, technician training and apprentice programs offered by community colleges need to be expanded to make sure high-demand skills are locally available. Accredited facility management degree programs need to be added to our universities and educational institutions. Industry associations, such as South-central Partnership for Energy Efficiency as a Resource (SPEER) and 
+BOMA, also provide a variety of certifications that develop professional expertise. 
+There is opportunity to further grow these offerings to extend beyond the classroom to meet market needs. Developing performance-based training programs that combine on-the-job training with classroom instruction will enable individuals to learn a skilled trade (potentially in the areas of HVAC, electrician, solar installation, plumbing). 
+The City will explore additional strategies, including expanding Mayor Turner’s Hire Houston 
+Youth program, to educate young Houstonians on careers in high-performance and resilient building operations.
+B3.1
+BOMA BEEP© PROGRAM 
+Houston Building Owners and Managers Association (BOMA), a local collaborative commercial real estate association, understands that a well-trained workforce of building managers and operators is critical to maintain facility assets and ensure successful implementation of energy efficiency programs. To support energy management training, the BOMA Energy Efficiency Program (BEEP) teaches commercial real estate professionals how to keep properties competitive and reduce energy consumption and costs with proven no- and lowcost strategies. One of several programs addressing the need in this market, BEEP enables property owners and operators to better understand technical solutions and implement transformative and practical energy efficiency business practices.
+Source: BOMA
+BUILDING OPTIMIZATION
+
+[Page 71]
+HOUSTON CLIMATE ACTION PLAN
+MATERIALS 
+MANAGEMENT
+GOAL 1 Reduce Waste and Transform the Circular Economy. 
+GOAL 2 Optimize Waste Operations and Create Power From Waste. 
+GOAL 3 Ensure Safe and 
+Cost-Effective Long-Term Disposal Capacity.
+
+[Page 72]
+According to H-GAC, the commercial sector generates more than half of the waste stream in Greater Houston and multi-family and single-family residences generate 22% and 25%, respectively.47 Increasing waste diversion and reduction through reusing, recycling, refusing, repairing, and composting is critical to Houston as area landfills are reaching capacity. Based on population projections from H-GAC and current rates of disposal, the three landfills we currently depend on—McCarty Road, Blue Ridge, and 
+Atascocita—are expected to fill up in 37 years.48 Once that capacity is met, public and private waste haulers will have to transport waste greater distances, which increases transportation GHG emissions, and create new landfills, which takes around 15 years to site, permit, and construct. We, as a community, need to find more innovative ways to manage our waste. 
+Luckily, there are many actions Houstonians can take to prevent or delay materials from ending up in a landfill or, even worse, illegally dumped in our communities. Sustainable materials management is a holistic, systemic approach to maximize productivity and minimize environmental impacts across the full life cycle of materials. Each stage of a product’s life cycle—from extraction, to production and manufacturing, to transportation and distribution, to home and business use, and ultimately to disposal—carries some degree of environmental impact. Since energy is expended throughout every step of this process, reusing and recycling can help to conserve energy and decrease GHG emissions. Items such as plastic, metal, and glass do not decompose easily but are recyclable. Sending these items to the landfill is a lost opportunity to recycle them into other products and lessen the demand for new manufacturing and production materials. 
+To reduce the GHG emissions associated with managing materials and solid waste, Houstonians need to start thinking beyond the traditional purchase, use, and disposal cycle. 
+In addition to traditional recycling and composting, we encourage new value-added options for diverting waste that enable multiple industries to extract worth from otherwise-landfilled material. 
+The circular economy is an economic system designed to eliminate waste by extracting the maximum value of resources during their use, then recovering and regenerating products at the end of each use. The development and expansion of an effective after-use economy also provides opportunities for new technologies and new businesses. In addition to reducing GHG emissions, we can also create value from solid waste by transforming sustainable packaging, food waste management, and landfill gas energy recovery in ways that will position Houston as a global leader in the circular economy. 
+HOUSTON CLIMATE ACTION PLAN
+Based on population projections from H-GAC and current rates of disposal, the three landfills we currently depend on—McCarty Road, Blue 
+Ridge, and Atascocita—are expected to fill up in 
+37 years.
+MATERIALS MANAGEMENT
+
+[Page 73]
+Source: EPA
+LIFE CYCLE APPROACH TO MATERIALS MANAGEMENT
+HOUSTON CLIMATE ACTION PLAN
+Post-consumer resin plant. Source: Avangard Innovative
+CIRCULAR ECONOMY IN 
+ACTION: AVANGARD 
+Houston-based firm Avangard Innovative is demonstrating how a major stream of commercial plastic waste can be recovered and save companies money instead of being sent to a landfill. In 2017, they opened their first facility in Houston to process plastic film commonly used by retail companies to wrap goods, such as furniture and mattresses, into pellets that have an aftermarket use. 
+This facility currently produces 50 million pounds of pellets per year, with a second plant expected to open next year. Recycled pellets provide a new source of revenue for companies and offer greater environmental benefits compared to virgin plastic when used to make new products. Avangard also uses technology to help companies track how much recyclable material ends up in the trash and works to identify solutions to improve recycling and circularity. 
+MATERIALS MANAGEMENT
+
+[Page 74]
+HOUSTON CLIMATE ACTION PLAN
+GOAL 1 REDUCE WASTE 
+AND TRANSFORM 
+THE CIRCULAR ECONOMY.
+Reducing the availability of single-use items represents an opportunity to avoid the need for diversion and disposal. Unfortunately, Texas, along with 13 other states, has passed legislation which preempts municipalities from banning single-use plastics. This means that the City of Houston is not able to adopt ordinances that regulate or ban specific materials—including single-use plastics, plastic bags, and polystyrene—from being used in the private sector. The City can still raise public awareness of the issue through leading by example, with the establishment of a municipal Green Procurement Policy by 2022. The goal of this policy will be to minimize waste, decrease operating costs, and conserve natural resources within City departments and encourage municipal purchases of socially preferred and recycled products. Houston businesses and residents need to embrace opportunities to move away from single-use materials and recycle items that cannot be reused.
+ 
+TARGET:
+Reduce residential waste 50% by 2040.
+CO-BENEFITS:
+Economic Growth
+Improved 
+Environmental Quality
+Accessibility
+COMPLEMENTARY 
+INITIATIVES:
+Long-Range Solid 
+Waste Plan (in preparation)
+H-GAC Solid Waste 
+Program
+H-GAC Commercial 
+Food Waste Collection 
+Study (2015)
+Repair Café
+City Reuse Warehouse
+State of Texas Alliance for Recycling (STAR)
+MATERIALS MANAGEMENT
+
+[Page 75]
+Source: City of Houston
+Metal & Cans (rinsed & drained)
+Plastics #1-5 & #7
+Cardboard &
+Cartons
+Paper &
+Newspaper
+Glass (rinsed & drained)
+MATERIALS ACCEPTED BY CITY OF HOUSTON RECYCLING
+Source: City of Houston
+HOUSTON CLIMATE ACTION PLAN
+ENGAGE PUBLIC ON UPSTREAM SOLUTIONS 
+FOR WASTE REDUCTION
+Reducing waste is a community-wide effort and will require participation, commitment, and innovation from businesses, industry, consumers, and regional governments. To achieve this goal, educating the public on upstream solutions that prioritize waste reduction and diversion over landfill disposal is essential. Although a recycler may have good intentions, “wish-cycling” or putting non-recyclable material in recycle bins, increases contamination and results in potentiallyrecyclable materials going to the landfill. Tools such as residential recycling guides and cart audits help people better understand which items cannot be recycled. The City’s SWMD is pursuing grants to expand educational opportunities around community and residential recycling.
+M1.1
+Source: City of Houston
+MATERIALS MANAGEMENT
+
+[Page 76]
+HOUSTON CLIMATE ACTION PLAN
+SUPPORT ORGANIZATIONS THAT EXPAND 
+CAPACITY FOR WASTE REDUCTION 
+THROUGH ENTREPRENEURSHIP
+As consumers, we can reduce waste by prioritizing reuse and repair of existing products or taking unwanted products to businesses that can give them a second life. The City’s Reuse Warehouse accepts material from individuals, supply companies, and builders, and makes it freely available for reuse by any non-profit organization. 
+Transition Houston’s Repair Café is another option, where residents can bring their broken, nonfunctioning electronics, small appliances, toys, bicycles, clothing, and jewelry for assessment and repair by a group of dedicated volunteers.
+M1.2
+Source: TX/RX Labs
+
+[Page 77]
+HOUSTON CLIMATE ACTION PLAN
+STRENGTHEN AND SUPPORT EFFORTS TO 
+COLLECT AND COMPOST FOOD ORGANICS
+According to the EPA, commercial food wholesalers, retailers, manufacturers, and processors produce close to 75% of the estimated 309,941 tons of excess food in Houston each year.49 
+Improving food supply chains and facilitating food donations for human consumption or animal-feed consumption is an important way to reduce retail and consumer food waste. 
+When food is no longer fit for human or animal consumption, composting is a natural solution for diverting food organics from the landfill. 
+Although there has been a significant increase in commercial composting and mulching facilities in the past 15 years, only a small proportion of these facilities accept food organics.50 Due to current infrastructure and finance constraints, the development of a City-sponsored residential food organics collection program is a longer-term goal. In the near-term, the City will seek to build public-private partnerships and incentivize private programs that increase access to community gardens and residential composting.
+M1.3 (309.941 tons per year total)
+2% 1%
+43%
+31%
+10%
+7%
+6%
+Food Wholesale and Retail
+Correctional
+Institutions
+Healthcare Facilities
+Restaurants and
+Food Services
+Hospital
+Industry
+Public Elementary & Secondary
+Food Manufacturers and Processors
+HOUSTON EXCESS FOOD ESTIMATE, HIGH
+Source: EPA Food Waste Opportunities Map
+Source: 
+City of Houston
+MATERIALS MANAGEMENT
+
+[Page 78]
+HOUSTON CLIMATE ACTION PLAN
+GOAL 2 OPTIMIZE WASTE 
+OPERATIONS AND CREATE 
+POWER FROM WASTE.
+In addition to GHG reduction strategies that divert and reduce waste from landfills, the City can also lead by example and optimize how municipal solid waste is collected, transferred, and processed. By improving our understanding of municipal waste streams—especially through the visualization of data—the City can improve collection and track how waste is transported throughout the region. Entrepreneurs and private materials management companies can expand these efforts by adopting new technologies. Low-emission solid waste vehicles, landfill gas capture, and anaerobic digestion systems improve air quality and reduce GHG emissions from the waste system. Waste-toenergy projects could also grow Houston’s energy innovation economy and utilize waste streams to generate new sources of revenue.
+ 
+TARGET:
+Convert municipal solid waste fleet to low emission vehicles by 2030. 
+CO-BENEFITS:
+Improved 
+Environmental Quality
+Cost-Savings
+Economic Growth
+COMPLEMENTARY 
+INITIATIVES:
+Long-Range Solid 
+Waste Plan
+Smart Cities
+McCarty Road landfill gas collection system
+MATERIALS MANAGEMENT
+
+[Page 79]
+HOUSTON CLIMATE ACTION PLAN
+HOUSTON CLIMATE ACTION PLAN
+OPTIMIZE WASTE COLLECTION 
+AND TRANSFER
+As the City’s solid waste fleet ages, older diesel trucks are being replaced with newer, cleaner technologies. Part of this process is the continued monitoring and evaluation of the technical and economic feasibility of converting this special-duty fleet to low-emission vehicles. Moving forward, all new solid waste fleet purchases will be evaluated on cost-effectiveness and best-available GHG reduction technology. 
+Locating solid waste transfer stations to minimize distances traveled by collection trucks is critical to reducing both waste transportation emissions and fuel costs. The City will continue to optimize the collection and transfer of municipal waste by using a combination of smaller, short-haul collection vehicles and larger, more-efficient transfer trucks to deliver the waste to the closest disposal facility. Expanding on the Smart Cities initiative, municipal and private sector haulers will collaborate to design a data management program to recommend performance standards that improve collection and transfer route efficiency. 
+Landfill diversion, recycling efficiency, and pre-consumer waste reduction goals will have far greater impact if their results can be measured and shared. The City will coordinate with private contractors and haulers to develop mechanisms, such as benchmarking and reporting, that improve tracking of waste volumes and contamination rates throughout our region. 
+M2.1
+INCREASE LANDFILL GAS CAPTURE AND 
+OPPORTUNITIES FOR WASTE CONVERSION
+As waste decomposes in a landfill, it produces methane—natural gas—and CO2 gas. Instead of allowing methane, a highly potent GHG, to leak into the atmosphere, it can, and should, be captured and used for energy generation (See McCarty 
+Road landfill example on p.18). Regulations have been established by state and federal agencies to decrease fugitive methane emissions through landfill gas capture and flaring. The City will consider mechanisms that maximize the capture of landfill gas at City of Houston-contracted landfills by 2025. Public-private partnership opportunities to deploy waste conversion technologies for economic and technical feasibility at City-contracted landfills and other municipal facilities will be assessed and deployed where feasible. Developing and encouraging projects that regenerate energy and value from otherwise landfilled organic material, such as food waste, wastewater treatment sludge, and plastics, is a City priority.
+M2.2
+Source: EPA
+MATERIALS MANAGEMENT
+
+[Page 80]
+HOUSTON CLIMATE ACTION PLAN
+GOAL 3 ENSURE SAFE 
+AND COST-EFFECTIVE 
+LONG-TERM DISPOSAL 
+CAPACITY. 
+To protect public health, our environment, and our communities, we must prioritize waste diversion to improve the capacity of Houston’s current landfill assets, which are projected to fill up before 2050. A comprehensive and integrated 20-year long-range solid waste plan has been developed by the City’s Solid Waste Management Department (SWMD) to address all components of Houston’s integrated solid waste system, including strategies for the community to increase landfill diversion across commercial and residential sectors. In alignment with the GHG reduction goals of the CAP, this SWMD plan established a goal to reduce residential waste 50% by 2040. To achieve this goal, educating and engaging the public on upstream solutions that prioritize waste reduction and diversion over landfill disposal is essential. 
+TARGET:
+Adopt Long-Range 
+Solid Waste Plan in 
+2020. 
+CO-BENEFITS:
+Improved 
+Environmental Quality
+Resilience
+Better Health and 
+Well-being
+COMPLEMENTARY 
+INITIATIVES:
+Long-Range Solid 
+Waste Plan 
+Disaster Debris 
+Management Plan
+MATERIALS MANAGEMENT
+
+[Page 81]
+HOUSTON CLIMATE ACTION PLAN
+INCREASE LONG-TERM LANDFILL 
+SUSTAINABILITY
+Through recycling and other municipal waste services, the City is able to support and enhance waste diversion. The City of Houston SWMD serves twice as many households per full-time SWMD employee compared to peer cities.
+A comprehensive cost recovery plan would enable the City to offer higher quality services related to waste collection, transfer, processing, disposal, treatment, and recycling, and would achieve an acceptable operating margin for the City. 
+ADVANCE MULTI-FAMILY AND 
+COMMERCIAL RECYCLING
+The City’s curbside recycling collection service is currently limited to single-family residences and apartment communities containing eight or fewer units. Through the development of a long-range solid waste plan, SWMD is currently evaluating policy options to encourage multi-family and commercial property owners to offer recycling as part of their services. Improving the amount of waste diverted from landfills through expanding recycling programs also provides opportunity for financial gain for the City in the form of revenue generated from recycled commodities and the monetary savings associated with avoiding disposal costs. These advancements will make it easier for all Houstonians to participate in recycling.
+PROMOTE UPSTREAM SOLUTIONS TO 
+REDUCE DISASTER DEBRIS
+More frequent and intense storm events in our region are creating additional waste that needs to be managed. This presents a significant opportunity to develop proactive solutions that increase recycling and maximize diversion of all recoverable and harmful materials from landfills before the next disaster strikes. One strategy is to construct buildings that are better able to withstand disaster events. Codifying requirements for new construction and redevelopment projects through the implementation of a “Green Building Code” will promote resilient building materials, support certain environmental criteria, including management of refrigerants and hazardous materials, and increase recyclability of disaster debris. The City will also improve and expand the emergency debris removal plan to advance capacity for managing and recovering disaster debris by 2030. 
+M3.1
+M3.2
+M3.3
+MATERIALS MANAGEMENT
+
+[Page 82]
+HOUSTON CLIMATE ACTION PLAN
+IMPLEMENTATION
+The Houston Climate Action Plan (CAP) is a living document that will evolve—just as our city does—as new technology, partnerships, and opportunities arise. Periodic updates of the CAP will be required as technologies improve, costs decrease, and regulations change. Updates will be based on a greater understanding and observation of the current plan efforts as they are implemented. In order to measure the GHG impact of the CAP, the City will update the 
+Houston Community-wide GHG emissions inventory in 2021 using best available data (2018 or later), with a minimum update frequency of every four years. The CAP and progress report on key performance indicators will be updated every five years, starting in 2025. Progress will be reported to the Mayor’s Office and to the public.
+It is important we begin implementing the CAP as quickly as possible. With support from City Council and members of the community, the City will begin to update internal policies that provide direction and necessary authority for City Departments to implement the CAP. The City will also convene working groups as necessary to assist with the selection of key performance indicators, including wider, inclusive benefits, to track progress and prioritize community-driven actions. The working groups as well as key implementation partners who helped draft or contribute to the CAP will also assist in community outreach to ensure that all Houstonians are aware of the CAP and can take part. 
+In this section, we summarize the proposed actions—to be taken either by the City of Houston and City 
+Council, implementation partners, or the community at large—to reduce GHG emissions and achieve carbon neutrality by 2050. 
+Although the actions outlined in the CAP are designed to demonstrate a pathway for Houston to achieve carbon neutrality by 2050, there is much uncertainty in predicting future technologies, costs, and regulations. For this reason, a full cost-benefit analysis of every action is not possible at this time. Any 
+City of Houston action using taxpayer dollars will go through the standard City Council approval process and include a full financial impact analysis. As new technologies emerge and mature, associated costs as well as benefits will be adjusted accordingly. Many actions are currently underway; therefore, special designations are given to strategies that still require creative financing mechanisms. 
+LEAD
+City of Houston or Community-led
+PARTNERSHIP
+The City will advance these actions in collaboration with individuals, neighborhood groups, climate stewards, businesses, scientists and researchers, advocates, community-based organizations, and local, state, and federal partners.
+POLICY
+Updates to local, state, or federal policy. 
+FINANCE
+New funding and financing tools are needed to improve current funding processes. 
+TIMEFRAME
+Immediate (2020), Near Term (2025), 
+Medium Term (2030), Long Term (2050). 
+RESILIENT HOUSTON 
+ACTION #
+Actions also related to Resilient Houston can be cross referenced using the corresponding Resilient Houston (RH) action number (RH Action #).
+IMPLEMENTATION
+
+[Page 83]
+HOUSTON CLIMATE ACTION PLAN
+ACTION DESCRIPTION
+LEAD
+PARTNERSHIP
+POLICY
+FINANCE
+TIMEFRAME
+RH 
+ACTION # 
+TRANSPORTATION
+GOAL 1: SHIFT REGIONAL FLEET TO ELECTRIC AND LOW-EMISSION VEHICLES.
+T1.1 INCREASE COMMERCIAL AND PRIVATE SECTOR INFRASTRUCTURE AND INCENTIVES.
+1.  Install EV charging stations at public-facing City facilities.
+City 
+•
+•
+2025
+2.  Adopt EV-ready building codes and streamline permitting for 
+EV charging.
+City 
+• 
+2025
+3.  Work with EVolve Houston Coalition to advance EV awareness, availability, and affordability across public and private sectors.
+Community
+• 
+•
+2020
+4.  Pursue state, federal, and local incentives.
+Community 
+• 
+2020 
+T1.2 CONVERT 100% OF THE NON-EMERGENCY, LIGHT-DUTY MUNICIPAL FLEET TO EV TECHNOLOGIES.
+1.  Publish and implement recommendations from Sustainable Fleet 
+Vehicle Options for the City of Houston.
+City 
+2020
+2.  Convert non-emergency, light-duty municipal fleet to 100% EV.
+City 
+• 
+2030
+3.  Adopt Green Fleet Procurement Policy.
+City 
+• 
+2025
+GOAL 2: REDUCE VEHICLE MILES TRAVELED (VMT) PER CAPITA.
+T2.1 IMPLEMENT INTEGRATED MULTI-MODAL TRANSPORTATION SYSTEMS.
+1.  Expand the use of micro-mobility devices.
+City
+•
+•
+•
+2025
+2.  Support METRONext Moving Forward Plan implementation, particularly BRT and two-way HOV lanes.
+Community
+• 
+•
+2025
+3.  Empower TIRZ and management districts to champion multi-modal transportation.
+Community
+•
+•
+•
+2025
+4.  Coordinate regional transit operations and payment systems.
+Community
+• 
+•
+2025
+5.  Prioritize funding mechanisms toward multi-modal transportation.
+Community
+•
+•
+•
+2025
+T2.2 BUILD AND RETROFIT COMPLETE, TRANSIT-ORIENTED NEIGHBORHOODS.
+1.  Adopt Proposed Walkable Places and Transit-Oriented 
+Development Ordinance Amendment.
+City 
+• 
+2020
+2.  Phase out parking minimum requirements.
+City 
+•
+•
+2030
+3.  Implement pricing strategies for public parking.
+City 
+•
+2020
+4.  Support infill development.
+City
+•
+•
+•
+2030
+5.  Broaden geography of Transit Corridor Ordinance, Complete 
+Communities, and H-GAC Livable Centers Programs.
+City
+•
+•
+2030
+12, 23
+IMPLEMENTATION
+
+[Page 84]
+HOUSTON CLIMATE ACTION PLAN
+ENERGY TRANSITION
+GOAL 1: GROW HOUSTON’S INVESTMENT IN RENEWABLE AND RESILIENT ENERGY.
+E1.1 SUPPORT AND PROMOTE THE USE AND DEVELOPMENT OF RENEWABLE ENERGY.
+1.  Power municipal operations with 100% renewable energy.
+City 
+• 
+2025
+2.  Assess opportunities for microgrids, solar, and battery storage at municipal properties and under-used land. 
+City
+• 
+2025
+3.  Develop and enforce standards to accommodate solar and battery installation in new commercial and industrial buildings.
+City 
+• 
+2025
+4.  Work with partners to identify available potential solar/storage rebates and incentives.
+City
+• 
+•
+2025
+5.  Provide property owners with Houston-specific educational resources for adopting rooftop and community solar.
+Community
+• 
+2025
+6.  Support financing mechanisms to promote investment in renewable energy.
+City
+• 
+•
+2025
+E1.2 SUPPORT AND PROMOTE RETAIL RENEWABLE ENERGY OPPORTUNITIES. 
+1.  Connect Houston-area businesses to learn about renewable energy providers, available technologies, and financing options.
+Community
+• 
+2020
+45,46
+2.  Provide Houston-specific educational resources about renewable retail product options.
+Community
+• 
+2025
+E1.3 ADVOCATE FOR RENEWABLE ENERGY POLICIES AT THE LOCAL, STATE, AND FEDERAL LEVELS.
+1.  Organize Texas mayors and community leaders to lobby state legislature to increase the Texas RPS to achieve 80% zero carbon electricity by 2050.
+City
+•
+• 
+2025
+2.  Lobby for federal policies that facilitate renewable energy for the 
+US Power Sector.
+City
+•
+• 
+2025
+ACTION DESCRIPTION
+LEAD
+PARTNERSHIP
+POLICY
+FINANCE
+TIMEFRAME
+RH 
+ACTION # 
+GOAL 3: PROVIDE EQUITABLE AND SAFE MOBILITY CHOICES.
+T3.1 REDUCE BARRIERS FOR USING MULTI-MODAL TRANSPORTATION.
+1.  Encourage employers to offer financial incentives for transit use, implement flex time, and expand bicycle parking/showers.
+Community
+• 
+•
+2025
+2.  Reduce costs and barriers for alternative transportation among vulnerable populations.
+Community
+•
+•
+•
+2025
+3.  Promote pre-owned EVs and low-emission vehicle markets.
+Community
+• 
+2025
+T3.2 IMPROVE INTERCONNECTEDNESS AND SAFETY OF PEDESTRIAN AND TRANSIT NETWORKS.
+1.  Continue to update and implement sidewalk plan and 
+Complete Streets initiative.
+City
+•
+•
+•
+2050
+8,35
+2.  Support and fully implement Houston Bike Plan, 
+Bayou Greenways 2020, and Beyond the Bayous initiatives.
+Community
+• 
+•
+2030
+29,30,48
+3.  Implement Vision Zero Action Plan.
+City
+•
+•
+•
+2030
+4.  Evaluate the climate impacts of proposed transportation projects.
+Community
+•
+• 
+2025
+IMPLEMENTATION
+
+[Page 85]
+HOUSTON CLIMATE ACTION PLAN
+ACTION DESCRIPTION
+LEAD
+PARTNERSHIP
+POLICY
+FINANCE
+TIMEFRAME
+RH 
+ACTION # 
+GOAL 2: MAKE HOUSTON THE LEADER IN CARBON CAPTURE TECHNOLOGY AND ENERGY INNOVATION.
+E2.1 PROMOTE CARBON CAPTURE, UTILIZATION, AND STORAGE (CCUS).
+1.  Convene and host national and global discussions on how CCUS and future energy innovations can be deployed.
+City
+• 
+2025
+2.  Lobby for federal policies and funding to incentivize development and deployment of CCUS.
+City
+•
+• 
+2025
+3.  Foster industry and private sector initiatives to investigate the economic impacts of CCUS sector development.
+Community
+• 
+•
+2025
+E2.2 DEVELOP AN ENERGY INNOVATION ECOSYSTEM.
+1.  Develop economic and tax incentive proposal for companies using or developing emissions reduction technology.
+City 
+•
+•
+2025
+2.  Promote Houston as an innovation hub and research center for new energy technologies.
+Community
+• 
+•
+2025
+E2.3 PREPARE FUTURE GENERATIONS FOR HIGHLY SKILLED JOBS IN THE ENERGY TRANSITION.
+1.  Support Rice University and University of Houston’s Energy and 
+Carbon Management Programs.
+Community
+• 
+2025
+2.  Partner with community colleges, local schools, and Hire 
+Houston Youth to train young Houstonians for employment in energy innovation.
+Community
+• 
+2025
+GOAL 3: RESTORE, PROTECT, AND ENHANCE HOUSTON’S NATURAL ABILITY TO CAPTURE AND STORE CARBON.
+E3.1 IMPLEMENT NATURE-BASED SOLUTIONS THAT INCREASE CARBON STORAGE.
+1.  Revise and strengthen existing Tree and Shrub Ordinance and provide incentives to landscape with native plants.
+City 
+•
+•
+2025
+2,34
+2.  Accelerate tree planting.
+Community
+• 
+2030
+3.  Educate and engage the public on how to incorporate native plants, bioswales, rain gardens, green roofs, and urban gardens into residential and commercial landscaping.
+City
+• 
+•
+2025
+2,34
+4.  Conserve and restore existing native landscapes.
+Community
+• 
+•
+2050
+E3.2 PROTECT, EXPAND, AND MANAGE MUNICIPAL PARK ASSETS TO MAXIMIZE ENVIRONMENTAL AND RECREATIONAL BENEFITS.
+1.  Adopt a municipal nature preserve policy.
+City 
+•
+•
+2020
+2.  Create a management plan for municipal nature preserves, riparian buffers, and linear forests on street medians.
+City 
+• 
+2025
+16,26
+3.  Revise Open Space Ordinance to prioritize nature-based solutions and expansion of nature preserves.
+City 
+• 
+2025 
+4.  Assess opportunities to acquire new city park land for conservation or mitigation.
+City
+• 
+•
+2025
+E3.3 SUPPORT CARBON OFFSET PROJECTS THAT PROTECT AND RESTORE THE HOUSTON AREA’S NATURAL RESOURCES.
+1.  Support development of regional and local ecosystem credit markets for carbon and storm water capture.
+Community
+• 
+•
+2030
+2.  Develop a plan to offset municipal emissions (e.g. Fleet) with offset credits generated from Texas-based CO2 sequestration projects.
+City 
+•
+•
+2030
+IMPLEMENTATION
+
+[Page 86]
+HOUSTON CLIMATE ACTION PLAN
+ACTION DESCRIPTION
+LEAD
+PARTNERSHIP
+POLICY
+FINANCE
+TIMEFRAME
+RH 
+ACTION # 
+BUILDING OPTIMIZATION
+GOAL 1: REDUCE BUILDING ENERGY USE AND MAXIMIZE SAVINGS.
+B1.1 UPDATE ENERGY CODE AND INCREASE COMPLIANCE.
+1.  Increase capacity and training for plan review and code inspection staff.
+City 
+2025
+2.  Evaluate, improve, and update municipal code enforcement procedures.
+City 
+2025
+3.  Accelerate energy code adoption.
+City
+•
+• 
+2025
+B1.2 DEVELOP PROGRAMS THAT IMPROVE BUILDING ENERGY EFFICIENCY.
+1.  Adopt a municipal benchmarking and disclosure policy for municipal buildings by 2021.
+City 
+• 
+2025
+2.  Develop benchmarking and audit programs for commercial, industrial, and residential buildings.
+City
+• 
+2030 
+B1.3 
+REDUCE WATER AND WASTEWATER ENERGY CONSUMPTION BY 10% THROUGH OPTIMIZATION OF FACILITY OPERATIONS AND WATER CONSERVATION.
+1.  Implement water conservation education campaigns.
+City 
+•
+2030
+2.  Consider water rates that encourage water conservation.
+City 
+•
+•
+2030
+3.  Implement technologies and programs to reduce water loss and waste.
+City
+• 
+•
+2030
+4.  Implement water reuse strategies to use non-potable water where appropriate.
+City
+• 
+•
+2030
+GOAL 2: EXPAND INVESTMENT IN ENERGY EFFICIENCY.
+B2.1 PROMOTE CLEAN ENERGY FINANCING PROGRAMS.
+1.  Provide training and education resources on building optimization and available finance mechanisms, such as PACE, green leases, on-bill financing, etc.
+City
+• 
+•
+2025
+5,6
+2.  Promote tools that identify financial incentives and assistance with efficiency programs.
+Community 
+• 
+2025
+5,6
+B2.2 EXPAND UTILITY ENERGY FINANCING AND INCENTIVE PROGRAMS.
+1.  Promote weatherization programs to reduce residential energy consumption and focus on reducing energy burden of low-income populations.
+City
+• 
+•
+2025
+2.  Support and participate in CenterPoint’s portfolio of energy efficiency programs.
+Community
+• 
+2025 
+GOAL 3: INVEST IN SKILLED LOCAL JOBS TO OPTIMIZE BUILDING OPERATIONS
+B3.1 PROVIDE TRAINING IN THE OPERATION, MANAGEMENT, AND MAINTENANCE OF RELEVANT BUILDING SYSTEMS.
+1.  Promote existing building owner/operator trainings and certifications and identify programs that need to be developed.
+City
+• 
+2025
+2.  Educate, engage, and connect the community about career pathway opportunities.
+City
+• 
+2025
+3.  Provide training and education resources for single and multifamily residences.
+City
+• 
+2025
+4. Educate owners/operators on the Federal Rules governing refrigerant management.
+Community
+• 
+2025 
+IMPLEMENTATION
+
+[Page 87]
+HOUSTON CLIMATE ACTION PLAN
+ACTION DESCRIPTION
+LEAD
+PARTNERSHIP
+POLICY
+FINANCE
+TIMEFRAME
+RH 
+ACTION # 
+MATERIALS MANAGEMENT
+GOAL 1: REDUCE WASTE AND TRANSFORM THE CIRCULAR ECONOMY.
+ M1.1 ENGAGE PUBLIC ON UPSTREAM SOLUTIONS FOR WASTE REDUCTION.
+1. Provide training and education resources for single and multifamily residences.
+City
+• 
+2025 
+2. Develop multimedia campaign with local talent and promote existing recycling initiatives.
+City
+• 
+2025 
+3. Establish an Environmental Preferable Purchasing Policy (EPPP) by 2022.
+City 
+• 
+2025
+4. Adopt a green events policy.
+City
+•
+•
+2025
+5. Support and incentivize producers and suppliers who offer goods with low GHG impacts.
+City
+• 
+2025 
+M1.2 SUPPORT ORGANIZATIONS THAT EXPAND CAPACITY FOR WASTE REDUCTION THROUGH ENTREPRENEURSHIP.
+1. Expand programs like Repair Café for appliance/electronics reuse and repair.
+Community
+• 
+•
+2025
+2. Promote awareness of end markets for commercial and consumer waste products and take-back programs. 
+Community
+• 
+•
+2025
+3. Increase visibility of businesses and services that sell or repair used goods.
+City
+• 
+•
+2025
+M1.3 STRENGTHEN AND SUPPORT EFFORTS TO COLLECT AND COMPOST FOOD ORGANICS.
+1.  Phase in requirement for source-separated food-waste collection from large, commercial food-waste generators.
+City
+•
+• 
+2025 
+2.  Develop food organics residential collection pilot program.
+City
+• 
+•
+2025 
+3.  Create a network platform for partnership between large food waste generators with local composting companies.
+Community
+• 
+2025
+4.  Increase community gardens, fruit forests, and community compost through partnerships.
+City
+• 
+•
+2025
+5.  Facilitate food donation for human consumption and animal-feed production.
+City
+• 
+•
+2025
+6.  Facilitate the development of commercial composting facilities and food waste haulers.
+City
+•
+•
+•
+2025 
+GOAL 2: OPTIMIZE WASTE OPERATIONS AND CREATE POWER FROM WASTE.
+M2.1 OPTIMIZE WASTE COLLECTION AND TRANSFER.
+1.  City of Houston to convert solid waste fleet to low-emission vehicles by 2030.
+City 
+•
+•
+2030 
+2.  Create performance standards for maximizing transfer route efficiency.
+City 
+• 
+2025
+3.  Monitor and track all Houston-generated waste volumes and their waste-types through anonymous reporting.
+City
+•
+• 
+2030
+M2.2 INCREASE LANDFILL GAS CAPTURE AND OPPORTUNITIES FOR WASTE CONVERSION.
+1.  Encourage capture and beneficial reuse of landfill gas in City of 
+Houston-contracted landfills.
+City
+• 
+2025 
+2.  Investigate economic and technical feasibility of public-private waste conversion technologies.
+City
+• 
+2025 
+IMPLEMENTATION
+
+[Page 88]
+HOUSTON CLIMATE ACTION PLAN
+ACTION DESCRIPTION
+LEAD
+PARTNERSHIP
+POLICY
+FINANCE
+TIMEFRAME
+RH 
+ACTION # 
+GOAL 3: ENSURE SAFE AND COST-EFFECTIVE LONG-TERM DISPOSAL CAPACITY.
+M3.1 INCREASE LONG-TERM LANDFILL SUSTAINABILITY.
+1.  Develop cost recovery plan.
+City 
+•
+•
+2025
+2.  Adopt a long range solid waste plan.
+City 
+•
+•
+2020
+M3.2 ADVANCE MULTI-FAMILY AND COMMERCIAL RECYCLING.
+1.  Implement a phased “universal” recycling ordinance for businesses and multi-family apartment buildings.
+City
+•
+•
+•
+2030
+2.  Encourage recycling building materials with permitting incentives.
+City
+• 
+•
+2030
+3.  Increase the number of drop-off locations and pick up services, expanding materials accepted.
+City
+• 
+•
+2030
+4.  Measure contamination rates for all commercial, residential, and industrial recycling.
+City
+•
+• 
+2025
+M3.3 PROMOTE UPSTREAM SOLUTIONS TO REDUCE DISASTER DEBRIS.
+1.  Improve capacity for managing and recovering disaster debris.
+City
+• 
+•
+2025
+2.  Require proper disposal of organic storm debris.
+City
+•
+• 
+2025
+3.  Promote spring cleaning of hazardous materials in advance of hurricane season.
+City
+• 
+2025
+IMPLEMENTATION
+
+[Page 89]
+HOUSTON CLIMATE ACTION PLAN
+GLOSSARY
+Accessibility (CAP co-benefit): Modifying the availability of information, services, and other resources so that people who need them are more able to access them
+Adaptation: Modifications to various systems (ecological, social, and economic) in response to the anticipated effects or impacts of climate change (See Mitigation)
+Affordability (CAP co-benefit): Having an upfront and continued cost that is not too high for people and organizations with limited means
+Benchmarking: A way of measuring the performance of a resource, service, or process against a comparison standard to identify internal opportunities for improvement (e.g. building energy use per square foot)
+Building optimization: A way to help ensure that a building is designed and/or operated in a manner that maximizes the function and efficiency of its processes and resources, resulting in cost and energy savings
+Carbon capture, utilization, and storage (CCUS): 
+Methods and technologies that remove, recycle, and store waste carbon dioxide emitted from industrial processes and electricity generation from fossil fuels
+Carbon dioxide equivalent (CO2e): Standard unit for reporting GHG concentrations
+Carbon offset: Emissions reduction projects that compensate for or counteract emissions made elsewhere
+Carbon: A naturally occurring chemical element that exists in the atmosphere, ocean, rocks, and soil
+Carbon-neutral: The result of reducing and/or offsetting carbon dioxide emissions so that the net amount released to the atmosphere is zero
+Circular economy/circularity: An economic system designed to eliminate waste, reduce pollution, and promote the use of natural systems and renewable/ recyclable resources
+Climate change: A long-term change in global or regional climate patterns which can include changes in temperature, precipitation, sea-level and other environmental and atmospheric factors
+Climate risk: Hazards associated with changes and variability in long-term climate, such as temperature and precipitation extremes, that impact populations, physical facilities, production processes, markets, and supply chains
+Climate: The average weather pattern for a region over a timescale of 30 years or more
+Community solar: A solar facility shared by community members who receive a credit toward their electric bills for their share of power produced
+Composting: The method of recycling organic matter to create nutrient-rich soil that promotes the growth of one’s lawn and/or garden 
+Cost-savings (CAP co-benefit): A reduction in expenses
+Distributed energy/generation: Small-scale systems, usually onsite, that consist of power generation and/ or battery storage technology used as an alternative or addition to an existing power system
+Economic growth (CAP co-benefit): New business and technological ideas that spur economic development and regional prosperity
+Energy audit: The evaluation of a building’s energy need, use, and efficiency
+Environmental quality (CAP co-benefit): Improvement to overall environmental conditions related to air, water, and soil
+Equity: A commitment to ensure an individual’s ZIP code, race, ethnicity, gender identity, sexual orientation, age, social class, physical abilities or attributes, religious or ethical values system, national origin, linguistic ability, or immigrant status should not limit their choices, opportunity, and freedom
+Green stormwater infrastructure (GSI): A resilient approach to aid water management on multiple scales by incorporating the natural and built systems to better implement and utilize natural solutions 
+Greenhouse gases (GHGs): Heat-trapping gases in the atmosphere, primarily carbon dioxide (CO2), methane (CH4), nitrous oxide (N2O), hydrofluorocarbons (HFCs), perfluorocarbons (PFCs) and sulfur hexafluoride (SF6)
+GHG reduction potential: The projected amount of emissions that could be decreased by limiting and offsetting greenhouse gases using impactful and equitable actions
+Health and well-being (CAP Co-benefit): Holistic approach to disease prevention and health promotion that incorporates mental health (mind) and physical health (body)
+APPENDIX I: GLOSSARY
+
+[Page 90]
+HOUSTON CLIMATE ACTION PLAN
+Infill development: The process of optimizing locations that are vacant within urban areas for further development
+International Code Council (ICC): A non-profit association that oversees a wide array of building safety solutions and develops and provides building codes and standards
+Microgrid: An energy grid that can be powered by batteries, distributed generators, and renewable sources that normally operates in connection to a traditional power grid but can be disconnected and used separately
+Micro-mobility: Types of modes of transportation like electric scooters, electric bikes, and shared bikes that can be used short distances or combined with public transit
+Mitigation: Processes that help to reduce the impact and rate of future climate change by minimizing GHG emissions and removing them from the atmosphere (See Adaptation)
+Multi-modal transportation: The integration of multiple modes of transportation such as walking, bicycling, public transportation systems, and driving into public infrastructure
+On-bill financing: A financing system where the utility incurs the cost of the clean energy upgrade, which is then repaid by the customer on the utility bill
+Paris Climate Agreement: A landmark international agreement initiated in 2015 to combat climate change by keeping global temperature rise well below two degrees 
+Celsius above pre-industrial levels and to pursue efforts to limit further temperature increase to 1.5 degrees Celsius
+Power purchase agreement (PPA): A financial contract between a developer and a power purchaser (customer) that arranges the design, permitting, financing, and installation of a solar energy system
+Renewable energy credit (REC): A commodity representing electricity produced from renewable energy sources that can be bought and sold at market value
+Renewable energy: Energy that is produced from resources which can be naturally replenished within our lifetime
+Renewable portfolio standard (RPS): Regulations that require the increased production of energy from renewable energy sources, such as wind, solar, biomass, and geothermal
+Resilience (CAP co-benefit): The capacity of individuals, communities, institutions, businesses, and systems within a city to survive, adapt, and thrive no matter what kinds of chronic stresses and/or acute shocks they experience
+Retail electricity provider (REP): A person or company that sells electricity to retail customers where the sale of electricity is open to retail competition
+Retrofit: Modifying existing designs to improve overall function and efficiency
+Riparian buffers: A wooded area that lies adjacent to a body of water
+Sustainable Development Goals (SDGs): A collection of 
+17 global goals established in 2015 by the United Nations 
+General Assembly to be a “blueprint to achieve a better and more sustainable future for all” 
+Transit-oriented development: A process that works to develop and maximize the use of industrial, residential, and commercial space in urban areas that is within walking distance of public transportation
+Vehicle miles traveled (VMT) per capita: The total number of miles traveled by vehicles across a certain geographic region or area during a specific time period divided by the population of that area
+Vulnerable: An area, group, or population that is more susceptible to negative impacts from different economic and environmental changes
+Weatherization: Relatively inexpensive alterations/ retrofits made to a building that result in increased energy efficiency and savings as well as thermal comfort
+Workforce development (CAP co-benefit): 
+Growth of meaningful employment opportunities and human resources
+APPENDIX I: GLOSSARY
+
+[Page 91]
+HOUSTON CLIMATE ACTION PLAN
+METHODOLOGY
+GHG BASELINE INVENTORY
+To establish Houston’s baseline year (2014) emissions inventory, the City of Houston used the City Inventory Reporting and Information 
+System (CIRIS) tool developed by C40 Cities. 
+CIRIS was developed following the Global 
+Protocol for Community-scale Greenhouse Gas 
+Emission Inventories (GPC). The GPC is a standard methodology and framework used by cities to support climate action planning and develop consistent GHG inventories.51 Based on the GPC standard, CIRIS estimated the contribution of activities from different sources and sectors to the overall emissions within the city’s general-purpose jurisdictional boundary. This does not include the extra-territorial jurisdiction or special purpose boundaries of the city. 
+The GHG inventory breaks down emissions into the following three sectors: stationary energy emissions, transportation emissions, and waste emissions, which are further broken down by scope. Scopes 1, 2, and 3 refer to categories that distinguish emissions based on where they occur. 
+For example, Scope 1 emissions physically occur within the city boundary and Scope 3 emissions occur outside the city, but are driven by activities taking place within the City’s boundaries. Scope 
+2 emissions result from the use of grid-supplied electricity, heat, steam and/or cooling within city’s boundaries. The data sources used to develop the 
+GHG inventory are detailed on the next page. 
+Regarding landfilled solid waste, because detailed reports from private waste contractors were not available, the following assumptions were made based on available information. In 2014, the City of Houston’s Solid Waste Management 
+Department (SWMD) hauled 110,223 tons of solid waste (equivalent to 29,416 metric tonnes of CO2e) from 387,000 single-family homes to McCarty 
+Road Landfill, which is located within the city limits. McCarty Road Landfill received a total of 
+1,919,539 tons of solid waste in 2014, of which non-SWMD waste deposits contributed 482,861 metric tonnes of CO2e (see Inventory III.1.3). Based on solid waste generation and diversion (recycling/ composting) factors, the City also estimated that commercial and multi-family properties located inside the city generated an additional 1,989,919 tons of solid waste (equivalent to 531,060 metric tonnes of CO2e) that was sent to landfills outside of the City limits (e.g. not McCarty Road; see 
+Inventory III.1.1/2). Using an estimated 20% diversion rate (SWMD), the City also estimated that 525,276 tons of the total waste generated by residents were recycled or composted, thus avoiding the landfill. Private composting of food waste (including backyard composting) was not included in this analysis but using a yard and wood waste composting rate of 9%, the City estimated 
+40,543 metric tonnes of CO2e emitted as biological waste (see Appendix III: Inventory III.2.1/2)
+GHG INVENTORY SECTORS >
+Stationary energy emissions: Emissions resulting from electricity generation and fuel use in buildings, including residential, commercial, and institutional; manufacturing industries and construction; and fugitive emissions from oil and natural gas systems.
+ >
+Transportation emissions: This category includes on-road vehicles, including buses, cars, taxis, trucks, motorcycles, and on-road waste collection and transfer; railways, water transportation; and civil aviation. >
+Waste emissions: This category includes emissions resulting from solid waste disposal and wastewater treatment. 
+APPENDIX II: METHODOLOGY
+
+[Page 92]
+HOUSTON CLIMATE ACTION PLAN
+GHG INVENTORY DATA SOURCES
+Data
+Source
+Link
+SET UP
+City Boundary
+City of Houston Planning and Development 
+Department http://mycity.houstontx.gov/home/maps.html
+Population
+U.S. Census Bureau popest/total-cities-and-towns.html
+STATIONARY ENERGY
+Electricity Emission Factor
+National Electricity Emission Factor Database, U.S. 
+EPA resource-integrated-database-egrid
+Emission Factors (Natural gas)
+National Emission Factor Database, U.S. EPA documents/emission-factors_nov_2015_v2.pdf
+Natural Gas Use
+CenterPoint Energy
+Electricity Use
+CenterPoint Energy
+Emissions From Energy Generation 
+Supplied to Grid
+U.S. EPA FLIGHT Tool https://ghgdata.epa.gov/ghgp/main.do
+TRANSPORTATION
+Vehicle Miles Traveled (VMT)
+HGAC, Texas A&M Transportation 
+Institute (TTI) https://tti.tamu.edu/
+On-Road Vehicle 
+Emission Factors
+Houston-Galveston Area Council (H-GAC) - 
+MOVES Model
+Emission Factors (Rail)
+National Emission Factor Database, U.S. EPA documents/emission-factors_nov_2015_v2.pdf
+Commuter Rail Activity
+Metropolitan Transit Authority of Harris County, Texas docs/60008_0.pdf
+Aviation Activity
+City of Houston Fleet Management Department
+Freight Rail Activity
+Eastern Research Group, Inc. (Contractor to TCEQ)
+WASTE
+Wastewater
+City of Houston Public Works Department
+WWTP Characteristics
+City of Houston community-inventory.pdf
+Landfill
+City of Houston Solid Waste Management Department
+Solid Waste Generation
+Texas Commission on Environmental Quality exec/pubs/as/187-16.pdf
+Solid Waste Composition
+EPA Report: Advancing Sustainable Materials 
+Management: 2014 Tables and Figures documents/2014_smm_tablesfigures_508.pdf
+Landfill Facility
+U.S. EPA FLIGHT tool https://ghgdata.epa.gov/ghgp/service/
+City Waste Sent to McCarty Road 
+Landfill
+City of Houston Solid Waste Management Department
+APPENDIX II: METHODOLOGY
+
+[Page 93]
+GHG AND CO2 
+EQUIVALENCIES
+The 2014 GHG inventory accounts for the following greenhouse gases:
+Carbon Dioxide (CO₂) 
+Methane (CH₄)
+Nitrous Oxide (N₂O)
+GHGs all differ in their ability to contribute to the greenhouse effect based on the amount of energy they can absorb and their lifetime in the atmosphere. To help facilitate the impact of emissions reductions in the Climate Action Plan (CAP), all gases were converted to carbon dioxide equivalent (CO2e). This conversion is based on the gas-specific global warming potential (GWP). The standard GWPs used for the 2014 GHG inventory are the 100-year GWPs from the Intergovernmental 
+Panel on Climate Change (IPCC) 5th assessment.
+GHG EMISSION PROJECTIONS: 
+BUSINESS AS USUAL
+Assuming no action is taken to reduce emissions, the City forecast business as usual GHG emissions to 2030, 2040, and 2050 by applying projected annual average growth rates (see table below) for specific energy, transportation, and waste emissions activities.
+tonnes CO2e
+Stationary Energy (Energy & Building Sector)
+Transportation
+Waste
+20,000,000
+40,000,000
+60,000,000
+2014
+2030
+2040
+2050
+ANNUAL AVERAGE GROWTH RATES FOR EMISSION PROJECTIONS
+2014-2030
+2030-2040
+2040-2050
+Source
+Residential Natural Gas
+1.30%
+0.10%
+0.40%
+U.S. Energy Information Administration (EIA) - Energy 
+Consumption by Sector and Source
+Residential Electricity
+1.40%
+1.30%
+1.10%
+Commercial Natural Gas
+1.10%
+1.00%
+1.30%
+Commercial Electricity
+0.50%
+0.60%
+0.90%
+Diesel Oil
+-0.50%
+-0.10%
+0.50%
+Motor Gasoline
+1.07%
+1.25%
+1.07%
+H-GAC Regional Population Growth Forecast (2017) for 
+City of Houston
+Waste and Wastewater
+1.07%
+1.25%
+1.07%
+HOUSTON CLIMATE ACTION PLAN
+PROJECTED EMISSIONS BASED ON ANTICIPATED SECTOR GROWTH
+APPENDIX II: METHODOLOGY
+
+[Page 94]
+HOUSTON CLIMATE ACTION PLAN
+TIMELINE: STAKEHOLDER 
+ENGAGEMENT AND DIALOGUE
+The initial set of recommendations released for public comment on July 25, 2019 was a result of stakeholder engagement and input from the community. There were different ways that the community could participate in the initial stages of the CAP development, including working groups, public meetings, surveys, and a “host-a-meeting” toolbox to facilitate and share dialogue on the CAP. 
+The timeline on the next page indicates the key meetings and milestones from launch to final release. 
+Starting in March 2019, the City of Houston convened a multi-sector working group consisting of approximately 160 subject-matter experts and stakeholders to help draft the CAP. After this initial convening, smaller working groups dedicated to the four focus areas—transportation, building optimization, energy transition, and materials management—were formed. Meeting regularly until 
+May 2019, each focus area group was facilitated by two working group leaders who maintained an agenda and organized the final recommendations for their respective working groups. 
+During this same time period, the City of Houston also hosted a series of public community meetings at neighborhood multi-service centers across the 
+City to introduce community members to the CAP development process and obtain feedback on proposed strategies and actions. The map on the next page demonstrates the wide, comprehensive geographic reach included in the outreach effort. 
+The Office of Sustainability also participated in 
+City of Houston Capital Improvement Plan (CIP) public meetings to encourage residents to learn more about the CAP and how to get involved. 
+City participation in community events and workshops throughout the year provided additional opportunities to engage students, residents, and businesses. The City also held numerous individual discussions and interviews with private sector stakeholders and subject matter experts that helped to socialize the CAP and garner additional feedback and input.
+MODELING AND EVALUATING 
+ACTIONS
+The strategies and actions recommended by the working groups were primarily evaluated based on their emissions reduction potential. Beyond emissions reduction potential, the City also considered the technical feasibility and likelihood of adoption of each recommended item. The likelihood of adoption by both the community and government agencies is the key success factor for the CAP. Co-benefits—benefits that extend beyond non-emissions-related improvements to public health, job creation, greater community equity, and economic development—were also closely taken into consideration. 
+The GHG emissions reduction potential of actions was estimated using the Pathways tool developed by C40 Cities. Pathways is a decision support tool developed to help cities define the strategies necessary to achieve carbon neutrality or other ambitious climate protection targets. The model uses city-specific context data and robust quantification methods to estimate emission reduction potential of a wide range of actions in the stationary energy, transport and waste sectors. 
+When the actions were not able to be evaluated using Pathways, the GHG reduction potential was modeled in accordance with best available research including market trends, industry reports, federally supported estimation tools (DOE, EPA, etc.), and peer-reviewed literature. 
+Some measures are difficult to quantify and/or are considered enabling measures. These enabling measures indirectly help emissions reduction measures to occur and increase their likelihood of successful implementation. For example, requiring all commercial buildings to be built solar-ready would action enable the deployment of solar, but it does not directly cause or guarantee that an actual emission reduction measure will take place.
+APPENDIX II: METHODOLOGY
+
+[Page 95]
+CAP PROGRAM
+OFFICIALLY BEGINS
+CAP RELEASED IN 
+APRIL 2020
+CITY FEEDBACK
+AND REVISIONS
+COMMUNITY
+MEETINGS
+WORKING GROUPS
+PROVIDE INITIAL
+RECOMMENDATIONS
+DRAFT OUTLINE
+RELEASED FOR
+PUBLIC COMMENT
+WORKING
+GROUPS BEGIN
+KICKOFF
+STAKEHOLDER
+MEETINGS
+Apr
+2020
+HOUSTON CLIMATE ACTION PLAN
+APPENDIX II: METHODOLOGY
+CAP COMMUNITY MEETINGS
+
+[Page 96]
+HOUSTON CLIMATE ACTION PLAN
+BASELINE INVENTORY
+The following table is the summary output from the City Inventory Reporting and Information 
+System (CIRIS) tool developed by C40 for the City of Houston’s community-wide emissions inventory. 
+The baseline year is 2014. 
+A further description of the process can be found in the Methodology section. The complete invengov/climateactionplan/resources.html.
+GHG EMISSIONS SOURCE (BY SECTOR)
+TOTAL GHGS (METRIC TONNES CO2e)
+SCOPE 1
+SCOPE 2
+SCOPE 3
+BASIC
+STATIONARY ENERGY
+Energy Use (All Emissions Except I.4.4)
+2,876,173
+13,578,513
+16,454,686
+Energy Generation Supplied to the Grid (I.4.4)
+419,308
+TRANSPORTATION (All II Emissions)
+16,140,987
+16,140,987
+WASTE
+Waste Generated in the City (III.X.1 and III.X.2)
+246,859
+571,602
+818,461
+Waste Generated Outside the City (III.X.3)
+482,861
+TOTAL
+20,166,188
+13,578,513
+571,602
+33,414,134
+GPC 
+REF 
+NO.
+GHG EMISSIONS SOURCE (BY SECTOR AND 
+SUB-SECTOR)
+TOTAL GHGS (METRIC TONNES CO2e)
+SCOPE 1
+SCOPE 2
+SCOPE 3
+TOTAL
+I
+STATIONARY ENERGY
+I.1 Residential Buildings
+1,120,913
+4,301,936
+NE
+5,422,849
+I.2 Commercial and Institutional Buildings and Facilities
+548,931
+9,276,576
+NE
+9,825,507
+I.3 Manufacturing Industries and Construction
+1,165,759
+IE
+NE
+1,165,759
+I.4.1/2/3 Energy Industries
+IE
+IE
+NE
+I.4.4 Energy Generation Supplied to the Grid
+419,308
+I.5 Agriculture, Forestry and Fishing Activities
+IE
+IE
+NE
+I.6 Non-Specified Sources
+NO
+NO
+NE
+I.7 Fugitive Emissions from Mining, Processing, Storage, and Transportation of Coal
+NO
+I.8 Fugitive Emissions from Oil and Natural Gas Systems
+40,570
+40,570
+Sub-Total (City Induced Framework Only)
+2,876,173
+13,578,512
+16,454,685
+II
+TRANSPORTATION
+II.1 On-Road Transportation
+15,932,882
+IE
+NE
+15,932,882
+II.2 Railways
+207,451
+IE
+NE
+207,451
+II.3 Waterborne Navigation
+NO
+NO
+NE
+II.4 Aviation
+NO
+NE
+II.5 Off-Road Transportation
+NO
+NO
+NE
+Sub-Total (City Induced Framework Only)
+16,140,987
+16,140,987
+III
+WASTE
+III.1.1/2 Solid Waste Generated in the City
+29,416
+531,060
+560,476
+III.2.1/2 Biological Waste Generated in the City
+NO
+40,543
+40,543
+III.3.1/2 Incinerated and Burned Waste Generated in the City
+NO
+NO
+III.4.1/2 Wastewater Generated in the City
+217,443
+NO
+217,443
+III.1.3 Solid Waste Generated Outside the City
+482,861
+III.2.3 Biological Waste Generated Outside the City
+NO
+III.3.3 Incinerated and Burned Waste Generated Outside the City
+NO
+III.4.3 Wastewater Generated Outside the City
+NO
+Sub-Total (City Induced Framework Only)
+246,859
+571,603
+818,462
+TOTAL (City Induced Framework Only)
+19,264,019
+13,578,512
+571,603
+33,414,134
+APPENDIX III: BASELINE INVENTORY
+
+[Page 97]
+HOUSTON CLIMATE ACTION PLAN
+Source: Greenhouse Gas Protocol; “Global Protocol for Community-Scale Greenhouse Gas 
+Emission Inventories: An Accounting and Reporting Standard for Cities” agriculture, forestry & other land use industrial processes & product use
+Inventory boundary (including scopes 1, 2 and 3) Geographic city boundary (including scope 1) Grid-supplied energy from a regional grid (scope 2) in-boundary transportation stationary fuel combustion in-boundary waste & wastewater out-of-boundary waste & wastewater out-of-boundary transportation
+Scope 1
+Scope 2
+Scope 3 grid-supplied energy other indirect emissions transmission & distribution
+APPENDIX III: BASELINE INVENTORY
+NOTATION KEYS
+NO: “Not occurring”; Activity or process does not occur or is negligible within the city.
+IE: “Included elsewhere”; GHG emissions for this activity are estimated and presented in another category of the inventory. For example, Landfill gas is captured and burned as energy source.
+NE: “Not estimated”; Emissions occur but have not been estimated or reported. No data available or activity not required for BASIC inventory.
+
+[Page 98]
+HOUSTON CLIMATE ACTION PLAN
+REFERENCES
+REFERENCES
+1. frequency-values
+2. 
+3. https://rhg.com/research/preliminary-us-emissions-estimatesfor-2018/
+4. https://nca2018.globalchange.gov/chapter/1/
+5. programs-surveys/acs/
+6. demographics.aspx
+7. 
+8. https://kinder.rice.edu/sites/g/files/bxs1676/f/documents/FINAL%20
+KI%20Research%20Report-LEHD%205.pdf
+9. 
+16.pdf
+12. https://library.municode.com/tx/houston/codes/code_of_ ordinances?nodeId=COOR_CH21HE_ARTXREEMIDMOVE_S21302IDPR
+13. https://abc13.com/2991165/
+Houston-s-roads-drivers-are-nation-s-most-12865072.php#
+15. https://censusreporter.org/profiles/16000US4835000-houston-tx/ plot sota-2019-full.pdf
+18. https://news.ihsmarkit.com/press-release/automotive/average-agecars-and-light-trucks-us-rises-again-2019-118-years-ihs-markit19. https://doi.org/10.1016/j.apenergy.2017.10.089
+Highlights-2019.pdf#search=CNG
+21. https://kinder.rice.edu/sites/g/files/bxs1676/f/documents/KI%20
+2019%20Houston%20Area%20Survey%20Report.pdf
+22. https://kinder.rice.edu/research/accessing-opportunity-employmentand-commuting-patterns-among-low-medium-and-high-wage
+Action-Plan-English.pdf pdf
+ChIJAYWNSLS4QIYROwVl894CDco/
+27. https://environmentamerica.org/sites/environment/files/reports/
+WEB_AME_Shining-Cities_2019_040919-v1.pdf
+Facts_02.4.19.pdf
+30. https://blogs.ei.columbia.edu/2019/05/29/co2-utilization-profits/ amendments-to-45q-carbon-sequestration-tax-credit
+32. https://dualchallenge.npc.org/files/NPC%20CCUS%20ExecSummDec12-postmeeting.pdf engineering-technology---sustainable-and-renewable-energy---aas/
+39. http://cbre.vo.llnwd.net/grgservices/secure/GBAI%20Office%202019.
+pdf?e=1573708510&h=fc5146e2d8262c1ba7ff7dc7e1be35ed
+Of_Model_Energy_Codes.pdf
+PolicymakerFactsheet-EnergyCodeCompliance.pdf
+DataTrends_Savings_20121002.pdf
+Sheet-2019.pdf
+Rider14Report.pdf
+46. https://eepartnership.org/program-areas/high-performance-buildings/ building-operator-certification-courses/ documents/2017-10-10MSWGenerationAndDiversionFinalReport.pdf
+48. City of Houston Solid Waste Department Draft Facility Report (2019) opportunities-map documents/2017-10-10MSWGenerationAndDiversionFinalReport.pdf
+51. C40, World Resources Institute, and ICLEI-Local Governments for Sustainability, 2014 https://ghgprotocol.org/greenhouse-gasprotocol-accounting-reporting-standard-cities
+
+[Page 99]
+HOUSTON CLIMATE ACTION PLAN
+ACKNOWLEDGMENTS
+Thank you to the working group members and City departments who dedicated their subject-matter expertise, leadership, and time to provide recommendations that were foundational to the development of the CAP. We also thank the residents, organizations, and institutions who shared their ideas and support throughout the planning process. 
+WORKING GROUP LEADERS
+Rosanne Barone, Marlene Gafrick, Harris Humphreys, Jamie Lawson, Will 
+Matthews, Rachel Powers, Bruce Race, Angela Shen, Rives Taylor, Bruce Wilcoxon, and Wesley Yland 
+TECHNICAL ASSISTANCE 
+FINANCIAL SUPPORT 
+ACKNOWLEDGMENTS
+Publication design: placeandpage.la

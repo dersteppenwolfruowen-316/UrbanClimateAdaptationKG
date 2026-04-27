@@ -1,0 +1,747 @@
+[Page 1]
+City Resilience Framework 
+2024 Edition
+Preparing for the next decade
+
+[Page 2]
+Foreword 
+A decade of city resilience practice 
+City resilience recapped 
+Learning from a changing world 
+A CRF for the next decade 
+CRF’24 
+How has CRF’24 simplified city resilience goals? 
+Health & Wellbeing 
+Economy & Society 
+Infrastructure & Environment 
+Leadership & Planning 
+How can CRF’24 improve the resilience of your city? 
+Strategy development 
+Masterplanning 
+Investment planning 
+Summary 
+Further reading 
+Acknowledgements 
+City Resilience Framework 2024 Edition – Preparing for the next decade
+
+[Page 3]
+Ten years ago, with support from The Rockefeller 
+Foundation, we published the City Resilience 
+Framework which was the outcome of extensive research to identify what enables cities to respond and adapt to significant events and underlying stresses. 
+In the decade that has followed, the concept of resilience has become more familiar across society and culture; but given its complexity, taking action to achieve it remains as challenging a task as ever. 
+Today, more people live in cities, resources are scarcer, competition for investment greater, and the pace of change is faster. Pandemics, climate change, AI, migration, infrastructure deficits and increasing inequity, pose increasing threats to the urban living. There is growing awareness of ‘physical risk’ to assets and supply chains; and concern about ‘stranded assets’ which are not able to adapt fast enough to changing regulations, temperatures, or technology. 
+Strengthening city resilience is central to how such risks are managed and how a city evolves and endures, remaining relevant and enabling its citizens and businesses to thrive.
+A more accessible guide to resilience 
+The City Resilience Framework 2024 edition (CRF’24) draws on a decade of collaboration with the Resilient Cities Network, and others including C40 Cities, the World Bank, the Asian Development Bank and World Resources Institute. It is informed by the experiences of over a hundred cities from across the world, who have used the original City Resilience Framework (CRF’14) to inform their resilience thinking, planning and investment decisions. 
+Their experiences, some of which feature in this report, provide valuable insights into how resilience is best approached and realised. 
+Resilience cannot be simply ‘procured’ – it’s an outcome manifested in combinations of quality infrastructure, operational culture and good governance. It’s also a continuous process, a form of city evolution in the face of changing threats. 
+Jo da Silva 
+Global Sustainable Development Leader
+Foreword
+Our goal is to provide a more accesssible tool, one that will help leaders to embrace collaborative and coordinated action, whatever issues their city faces. It has been created with cities for cities, but also for urban planners and designers, developers and investors. It provides a common language that is relevant at a city scale to inform strategy; at a sub-city scale to shape masterplans, neighbourhoods, and precinct developments; and at a project level to attract funding for adaptation and resilience from both public and private sector. Together we can create a safe, resilient and regenerative future.
+City Resilience Framework 2024 Edition – Preparing for the next decade
+
+[Page 4]
+The City Resilience Framework, initially launched in 2014 by Arup and The Rockefeller Foundation at the World Urban Forum in Medellin, Colombia, has significantly shaped the narrative around city resilience, influencing urban practice globally. 
+Over the past ten years, CRF’14 has guided more than 100 cities in integrating resilience into their planning and investment strategies and inspired a variety of approaches and tools targeting specific sectors and different scales, as well as global programmes that foster resilience.
+As we navigate an increasingly urbanised and unpredictable world, it is essential to reflect on the transformations of the past decade, identify emerging resilience challenges, and refine our framework to better address contemporary needs. This publication examines global events and trends from the last ten years that have shaped our collective understanding and practice of city resilience.
+The insights presented here are drawn from extensive research and consultations with urban practitioners and Chief Resilience 
+Officers (CROs). These discussions highlight the necessity for a more accessible and practical framework that aids urban planners and decision-makers in embedding resilience into city plans and investments. The revised framework aims to fulfil these requirements.
+Figure 1 – The CRF has been used by over 100 cities globally to inform urban planning and investment decisions
+A decade of city resilience practice
+City Resilience Framework 2024 Edition – Preparing for the next decade
+
+[Page 5]
+Hunter’s Point South, New York City – designed to mitigate sea level rise and stormwater surges, it has successfully served as a prototype for sustainable urban development.
+1The Rockefeller Foundation 2013
+What is city resilience?
+City resilience is the capacity of cities (individuals, communities, institutions, businesses and systems) to survive, adapt, and thrive no matter what kinds of chronic stresses and acute shocks they experience1.
+City resilience is underpinned by seven qualities that apply both at city and at individual system scales:
+ – Reflectiveness and resourcefulness are the ability to learn from the past and act in times of crisis. – Robustness, redundancy and flexibility shape systems and assets that can withstand shocks and stresses, coupled with the willingness to use alternative strategies to facilitate rapid recovery.
+ – Inclusive and integrated relate to the processes of good governance and effective leadership, ensuring decisions are appropriate, and address the needs of everyone, by bringing together systems and institutions to achieve greater goals.
+How is the CRF’24 structured?
+CRF’24 remains structured around four dimensions that relate to broad areas that impact cities’ resilience ability:
+ – Health & Wellbeing: systems that guarantee the health and wellbeing of everyone living and working in the city.
+ – Economy & Society: the social and financial systems that enable urban populations to thrive.
+ – Infrastructure & Environment: human and natural systems that provide critical services, protect and connect urban citizens; and – Local Governance & Planning: the need for informed, inclusive and integrated decision making.
+City resilience recapped
+City Resilience Framework 2024 Edition – Preparing for the next decade
+
+[Page 6]
+Our understanding of city resilience has evolved since CRF’14 was first launched. 
+Cities’ priorities and concerns about issues like equality, environmental sustainability, data privacy and public health also continue to develop. The increasing frequency of events with global impact, such as Covid-19, climate change or armed conflicts, has highlighted the growing levels of interdependency between populations, organisations, government bodies and the environment. 
+Cities are having to learn to respond and adapt to a diverse range of events while often having little control over the causes. Every dimension of a city – be it leadership, health, infrastructure, or economy – has been increasingly affected by, and has had to support, adapt to, or facilitate, all other dimensions, while facing new and unfamiliar challenges. We have reviewed the most impactful global events and trends of the past decade that have shifted the understanding of city resilience. 
+Ecology, natural hazards & climate
+Driven by an increase in extreme weather events such as droughts, floods, extreme heat and rising sea levels, the impacts of climate change have become a globally recognised priority for all cities on the planet. The impact of manmade activities is also now evidenced by a catastrophic rise in planetary species loss. The past decade has seen historic commitments made, from the UN Sustainable Development Goals and Paris Climate Accord in 2015, to the more recent Glasgow Climate Pact, COP28 
+Loss and Damage Fund and the KunmingMontreal Global Biodiversity Framework (GBF). Cities are now asked to accelerate emission reductions, to develop sustainable urban planning, to bring nature back, to transition to green economies and adapt to climate impacts. 
+Social movements, politics & leadership
+Large scale social activism has had a huge impact on political and social systems around the world since 2014. Social media has enabled the amplification of movements such as Black Lives Matter, School Strike for Climate and ‘MeToo’. Despite the increasing digitisation of such movements, and social media’s role in bringing elected officials under greater scrutiny, the streets of cities still serve as an essential stage for political expression. Amid such political instability, changing leadership and social unrest, city leaders need to connect with the priorities of their communities while providing effective participation for what are often rapidly growing and changing populations. 
+Healthcare
+In recent years, cities have also had to deal with the impact of major events on residents’ physical and mental health. While certain longstanding public health issues like HIV have been improved by medical advances, other political, environmental, and economic factors have strained populations’ access to healthy food, healthcare and housing. The 
+Covid-19 virus and its related lockdown and restrictions had a large impact on people’s mental health which is now recognised as a global health priority. The design of neighbourhoods is increasingly important in fostering relationships, keeping people active, well-connected to health services and with access to natural environments. 
+Learning from a changing world
+City Resilience Framework 2024 Edition – Preparing for the next decade
+
+[Page 7]
+Economy, trade & finance
+Global trade routes are increasingly interconnected, enabling the circulation of goods and food but also leaving city supply chains vulnerable to disruption – as seen by events such as the war in Ukraine or the 
+Suez Canal blockage. The unprecedented 
+Covid-19 lockdowns took a large toll on economic and financial systems; many cities are still recovering from their effects, with the current cost of living crisis exacerbated by them, and leading to rising wealth inequality. Cities are required to consider new approaches to providing adequate housing, services and goods for all, at the same time attempting to make use of new developments in green finance and social investment funds. 
+War, terror, conflict & migration
+State-based conflict has been on the rise, and with it, increasing instability through disrupted supply chains and food systems, a doubling in forced displacement, and the destruction of housing and critical infrastructure. Cities are having to learn to rapidly absorb newly displaced populations, or organise the evacuation of their own, all while maintaining adequate shelter with access to food and water. Some cities are also contending with reconstruction efforts, which sometimes provides opportunities for the implementation of new, climate resilient infrastructure, but can be costly and often rely on coordinated international support. 
+Conflicts are rapidly changing city populations, and cities hosting displaced communities need to deal with legal, economic and socio-cultural issues to ensure social cohesion. 
+Digital technology & innovation
+Technological innovation has been accelerating at an ever-increasing pace. 
+The rise in e-commerce and direct-toconsumer models, for example, have reduced the economic sustainability of physical stores, redefining the role of high streets and how we access goods. 
+Ride sharing apps and social media have additionally changed how we move and communicate within a city. With digital innovation continuing to accelerate, and the implementation of artificial intelligence at scale, there is a clear need for rapid and coordinated, global and city level technology regulation. Cities need to ensure technology produces social and environmental good for residents to access public and private services while keeping data protected. 
+City Resilience Framework 2024 Edition – Preparing for the next decade
+
+[Page 8]
+Health & Wellbeing
+Economy & Society
+Leadership & Planning
+Infrastructure & Environment
+Health & Wellbeing
+Economy & Society
+Leadership & Planning
+Infrastructure & Environment
+01 Minimal human vulnerability
+02 Diverse livelihoods and employment
+03 Effective safeguards to human health and life
+04 Collective identity & community support
+05 Comprehensive security and rule of law
+06 Sustainable economy
+07 Reduced exposure & fragility
+08 Effective provision of critical services
+09 Reliable mobility and communications
+10 Effective leadership and management
+11 Empowered stakeholders
+12 Integrated development planning
+CRF’14 Goals (12)
+01.1 Safe and affordable housing
+01.2 Adequate affordable energy supply
+01.3 Inclusive access to safe drinking water
+01.4 Effective Sanitation
+01.5 Sufficient affordable food supply
+02.1 Inclusive labour policies
+02.2 Relevant skills and training
+02.3 Local business development and innovation
+02.4 Supportive financing mechanisms
+02.5 Diverse protection of livelihoods following a shock
+03.1 Robust public health systems
+03.2 Adequate access to quality healthcare
+03.3 Emergency medical care
+03.4 Effective emergency response services
+04.1 Local Community Support
+04.2 Cohesive communities
+04.3 Strong city-wide identity and culture
+04.4Actively engaged citizens
+05.1 Effective systems to deter crime
+05.2 Proactive corruption prevention
+05.3 Competent policing
+05.4 Accessible criminal and civil justice
+06.1 Well-managed public finances
+06.2 Comprehensive business continuity planning
+06.3 Diverse economic base
+06.4 Attractive business environment
+06.5 Strong integration with regional and global economies
+07.1 Comprehensive hazard and exposure mapping
+07.2 Appropriate codes, standards and enforcement
+07.3 Effectively managed protective ecosystems
+07.4 Robust protective infrastructure
+08.1 Effective stewardship of ecosystems
+08.2 Flexible infrastructure
+08.3. Retained spare capacity
+08.4 Diligent maintenance and continuity
+CRF’14 Indicators (56)
+08.5 Adequate continuity for critical assets and services
+09.1 Diverse and affordable transport networks
+09.2 Effective transport operation & maintenance
+09.3 Reliable communications technology
+09.4 Secure technology networks
+10.1 Appropriate government decision-making
+10.2 Effective co-ordination with other government bodies
+10.3 Proactive multi-stakeholder collaboration
+10.4 Comprehensive hazard monitoring and risk assessment
+10.5 Comprehensive government emergency management
+11.1 Adequate education for all
+11.2 Widespread community awareness and preparedness
+11.3 Effective mechanisms for communities to engage with government
+12.1 Comprehensive city monitoring and data management
+12.2 Consultative planning process
+12.3 Appropriate land use and zoning
+12.4 Robust planning approval process
+01 Safe, adequate and affordable housing
+02 Clean, affordable and reliable energy
+03 Safe water and sanitation
+04 Secure, affordable & sustainable food supplies
+05 Sustainable waste & resource management
+06 Universal healthcare & social services
+07 Effective education & skills
+08 Community cohesion, equity & inclusion
+09 Security & public safety
+10 Sustainable economy & livelihoods
+11 Fair rule of law
+12 Healthy ecosystems, green spaces & biodiversity
+13 Effective operation & maintenance of utilities
+14 Sustainable transport & active mobility
+15 Protective infrastructure
+16 Accessible digital services
+17 Accountable local government
+18 Inclusive civic engagement & participation
+19 Robust municipal finance & city management 
+20 Secure & effective data management
+21 Effective emergency preparedness 
+22 Evidence-based planning 
+CRF’24 Goals (22)
+We consulted with Chief Resilience Officers (CROs) and technical experts to understand what elements of CRF’14 could be improved, what could be added, how it could be made more practical and actionable, to speak more directly to the needs and priorities of cities today. 
+It became clear that while the four dimensions of resilience remained relevant, we needed to simplify the other components of the framework. 
+Fig 2 shows how CRF’24 reframes the 12 goals and 56 indicators of CRF’14 by redirecting indicators towards 22 updated goals that align more closely with city departments. 
+This way cities can clearly identify priority areas for actions, making the framework more accessible, action-orientated and able to attract investment. 
+Figure 2 – CRF’24 removes a layer of complexity compared to CRF’14 and aligns its goals more closely to city departments.
+A CRF for the next decade
+City Resilience Framework 2024 Edition – Preparing for the next decade
+
+[Page 9]
+Prioritisation 
+Cities are faced with responding to crises, ensuring wellbeing today while also preparing for the future. 
+They have numerous plans which can be mapped against CRF’24 to identify gaps and prioritise action. 
+The description of each goal incorporates the seven qualities of resilience, as well as cross-cutting concerns such as decarbonisation, social equity, and climate impacts. 
+Implementation 
+Projects that are conceived as part of a city resilience strategy have the potential to deliver multiple benefits, in the short- and longer- term. 
+Communication 
+A challenge for CROs globally is how to effectively communicate their city’s complexity and interdependencies between systems to get buy-in and validation from different city departments. CRF’24 adopts a simpler language that is recognisable to cities’ governance and help city practitioners disseminate key concepts. It also removes one layer of the framework structure, helping cities to present resilience priorities more effectively.
+City Resilience 
+Framework 
+2024 Edition
+CRF’24
+In updating CRF’14, we looked to align with the priorities of city practitioners, who are the main users of this tool. Keeping the concept of connected city systems, 
+CRF’24 aims to help cities prioritise investment, support implementation, and aid community participation and communication.
+City Resilience Framework 2024 Edition – Preparing for the next decade
+
+[Page 10]
+In this section we describe each of the 22 goals, grouped by dimension. These descriptions define the desired outcomes for each goal and will guide future applications of CRF’24, such as masterplanning, strategy development, investment planning and communications.
+How has CRF’24 redefined city resilience goals?
+City Resilience Framework 2024 Edition – Preparing for the next decade
+
+[Page 11]
+This dimension focuses on the essential elements to ensure the health and wellbeing of everyone living and working in the city.
+1. Safe, adequate & affordable housing
+The city has an accessible and adequate supply of affordable housing for all. Residential buildings comply with reinforced codes and regulations and are adapted to the changing climate conditions. 
+2. Clean, affordable & reliable energy
+All areas of the city are served by clean, affordable, and reliable energy supplies with infrastructure prepared to withstand disruptive scenarios. 
+The city has energy goals and plans to transition towards clean energy sources.
+3. Safe water & sanitation
+All households are connected to a safe, affordable, quality potable water supply and sewage network, with redundant sources prepared to withstand present and future shocks and climate conditions. There is an effective coordinated flood management with 
+Nature-based Solutions (NbS) prioritised over grey infrastructure. 
+4. Secure, affordable & sustainable food supplies
+All households have access to healthy and affordable food from environmentally sustainable sources, and healthy diets are promoted by the city. There are strong strategies to ensure supply chain continuity.
+5. Sustainable waste & resource management
+Waste generation is reduced by reusing, repurposing, composting or recycling, following circular economy principles and waste management is well-coordinated following a long-term plan for managing solid waste services. 
+The city promotes campaigns to change waste and resource management behaviours.
+6. Universal healthcare & social services
+General healthcare services are accessible for all and do not regularly operate at maximum capacity. The city is prepared to respond to public health emergencies and local communities have access to local social services such as such as child protection, mental health services and elderly care among others.
+© ©Flickr_Province of British Columbia © Flickr_Elliott Brown © Flickr_Alabama Extension © Flickr_Liam Quinn © Flickr_CityofStPete © Flickr_World Bank Photo Collection
+Health & Wellbeing
+City Resilience Framework 2024 Edition – Preparing for the next decade
+Read more
+
+[Page 12]
+This dimension focuses on the organisation of social and financial systems that enable urban populations to live peacefully, and act collectively.
+7. Effective education & skills
+There is access to free, quality education at all stages and high secondary education completion and literacy rates among the population. Education providers are continually well-funded, supported and regulated. The city promotes alternative education routes, is aware of market and labour needs, and provides aligned educational programmes.
+8. Community cohesion, equity & inclusion
+Communities integrate well, with high levels of tolerance between different backgrounds. 
+A strong sense of identity and belonging exists, and the city formally supports emerging and displaced communities to integrate positively. Wealth distribution is considered as fair and everyone feels they have equal opportunities, regardless of social background. 
+9. Security & public safety
+Violent crime rates are very low, the city operates a diverse range of formal and informal crime prevention practices and the public feel safe across the city. 
+Policing institutions are trusted, engaging positively with local communities. Strategies and policies support rehabilitation and reintegration of criminals into civic society. 
+10. Sustainable economy & livelihoods
+There are diverse, formally regulated activities supporting the city’s economy. Good opportunities for small and medium sized local businesses to exist with support in place to respond to shocks. All parts of the population have access to fair and well-regulated employment and support mechanisms are in place to find work.
+11. Fair rule of law
+There are robust, comprehensive and contextually appropriate mechanisms in place which deliver and enforce a transparent and accessible justice system and fights corruption. Individuals have access to affordable legal advice and representation, with alternative dispute mechanisms in place before bringing cases to court.
+© Flickr_Global partnership for education © Flickr_Los Angeles Fire Department © Flickr_West Midlands Police © Flickr_Joe Passe © Flickr_Blogtrepreneur
+Economy & Society
+City Resilience Framework 2024 Edition – Preparing for the next decade
+Read more
+
+[Page 13]
+This dimension focuses the manmade and natural systems that provide critical services, protect and connect residents.
+12. Healthy ecosystems, green spaces & biodiversity
+The city provides a healthy environment for people to live in, including clean air, land, water and access to well-designed and maintained green public spaces. 
+The city has comprehensive programmes in place to reduce carbon emissions and pollution, and to promote and restore healthy ecosystems. 
+13. Effective operation & maintenance of utilities
+Utilities providers always operate within capacity and are legally bound to regularly monitor, maintain and upgrade infrastructure. Comprehensive strategies, policies and programmes to reduce loss, increase efficiency and balance demand exist across all systems. 
+Utility systems are operated by certified, skilled and knowledgeable staff. 
+14. Sustainable transport & active mobility
+Public transport is safe, affordable, reliable and universally accessible. There is investment in low emissions transportation and there are comprehensive plans and protected budgets for long-term maintenance and renewal of core transport infrastructure. Across the city, last mile deliveries use sustainable, local solutions.
+15. Protective infrastructure
+The city maintains a full and complete register and conducts frequent risk assessments of its protective grey, blue and green infrastructure assets. Upgrade, operation and maintenance programmes for all the city’s protective infrastructure are adequately funded and resourced.
+16. Accessible digital services
+The city maintains a regularly updated and reviewed digital security strategy. Online and digital city services, apps and platforms are secure, reliable, and inclusive, with programmes in place to support digital accessibility.
+© Flickr_Kevin M Klerks © ICMA Photos © Flickr_CityofStPete © Flickr_ Geoff Henson © Flickr_ Ryan Adams
+Infrastructure & Environment
+City Resilience Framework 2024 Edition – Preparing for the next decade
+Read more
+
+[Page 14]
+This dimension focuses on informed, inclusive, and integrated decision making.
+17. Accountable local government
+Local government elections are done through a fair and transparent political system. 
+Decision making processes are transparent, inclusive and integrated and residents feel they can trust local leadership and are able to hold them accountable for their commitments. 
+18. Inclusive civic engagement & participation
+Diverse, accessible engagement mechanisms exist for communication and meaningful participation between local authorities and the public, including with disadvantaged and minority groups. A strong network of community-based organisations exists, and residents can air grievances and actively influence the future of their local area.
+19. Robust municipal finance & city management
+A robust city budgeting framework exists, with climate and carbon emissions a priority criterion for resource allocation. 
+Municipal budgets are designed transparently with a degree of participation, there is effective interdepartmental collaboration, and public servants in position are appropriately skilled and trained.
+20. Secure & effective data management
+The city has a secure data management policy and communicates its collection and use openly. The privacy of data managed by the city is protected through state-of-theart IT protocols, plans, strategies and mechanisms. Collection, processing and analysis systems are in place which enable data informed decision-making. 
+21. Effective emergency preparedness
+Local government institutions and the general public are well-informed of their risks and vulnerabilities. The city maintains multi-agency emergency plans, robust plans for the mobilisation of critical financial and non-financial resources, and regularly tests response procedures through training and drills. 
+22. Evidence-based planning
+Core urban planning guidelines and strategies align to a shared city vision, are backed by a strong consultation process, and look to advance the principles of safe urban design. Urban development instruments are clear and updated, with formal, transparent approval processes for new developments.
+© Flickr_ OEA - OAS © Arup © Flickr_ David Park © Flickr_ WOCinTech Chat © Flickr_ Gobierno de Chile © Flickr_ Carlos Felipe Pardo
+Leadership & Planning
+City Resilience Framework 2024 Edition – Preparing for the next decade
+Read more
+
+[Page 15]
+CRF’24 improve the resilience of your city?
+In this section we explore different ways in which CRF’24 can be used by city practitioners to embed urban resilience in specific activities: strategy development; masterplanning and financing implementation. These practical examples show how CRF’24 facilitates an integrated approach to resilience across different city systems and stakeholders which can be tailored to the local context and resources.
+City Resilience Framework 2024 Edition – Preparing for the next decade
+
+[Page 16]
+Cities rely on a wide range of strategies to establish clear and structured roadmaps to help them achieve objectives. These need to ensure the future prosperity of their residents, while addressing multiple, complex challenges. Such strategies generally respond to the needs of sectoral city departments, eg. housing; services, eg. household waste collection; or specific hazards, eg. flooding. Cities must understand how different sectoral efforts align or can be mutually beneficial and where gaps exist to effectively face these complex challenges.
+Over the past decade, CRF’14 has supported cities globally in developing resilience strategies by establishing a framework for conducting baseline assessments and understanding key priorities for building resilience. CRF’24 will continue to do that, with clearer and more inclusive language. We are presenting two applications that can further support cities embed resilience into their strategies and plans.
+Application 1: Alignment and gaps in existing strategies and plans
+As a framework, CRF’24 can help cities develop a consistent approach to resilience across the complex structure of city governance, enabling leaders to see where there are synergies between strategies, where the goals of one strategy could support another, or where they might be at odds. This can help cities to better understand where resources can be shared, where coordination between city departments needs to take place, and how to integrate technical methodologies with city systems.
+CRF’24 can be used to understand how a specific city system is linked to other systems and trigger conversations about how to achieve efficiencies. A suggested exercise might include:
+ – Mapping existing city strategies, plans, and projects against CRF’24 goals. This will help identify opportunities for alignment and optimisation of resources.
+ – Identify how a specific sectoral strategy or plan mapped to one resilience goal is linked to and can also strengthen other goals.
+ – Agree which goals should be prioritised and where coordination between strategies and plans should be strengthened. This will help the city make decisions toward formal integration and coordination of city systems.
+Lo ca l 
+Go ve rn an ce & P la nn in g
+In fr as tr uc tu re & E nv ir on me nt
+Ec on o my & S oc ie ty
+He alt h & 
+W ell be in g
+En erg y & rel iable
+Clea n, aff orda ble & so cial serv ices
+He alt hca re
+Univ ersal
+Fair
+Rul e o f L aw
+Prot ectiv e
+Inf ras tru ctu re
+Go ver nm ent
+Lo cal
+Acco unta ble
+Co mm uni ty
+Co hes ion equit y & i nclu sion
+Effe ctive ope ratio n &
+Mai nte na nc e of 
+Util itie s
+Acce ssib le
+Dig ita l
+Ser vic es
+Ma na ge me nt
+Dat a
+Secu re & effec tive
+Sa nit ati on
+Ho usi ng and affor dabl e
+Wa ter &
+Safe, ade quat e
+Safe man age ment & re sour ce
+Wa ste
+Sust aina ble
+Effe ctive
+Ed uc ati on & ski lls
+Se cur ity & pu blic safet y
+Sust aina ble
+Ec on om y & liv eliho ods
+Heal thy
+Ec os yst em s gree n sp aces & bio diver sity
+Par tic ipa tio n enga gem ent &
+Inclu sive civic
+Pre par ed ne ss
+Effec tive emer genc y
+Pla nni ng
+Evid ence
+-bas ed supp lies
+Fo od & su stain able
+Secu re, a fford able
+Sust aina ble
+Tra ns por t & act ive m obilit y & cit y ma nage ment
+Fin an ce
+Mu nic ipa l
+Robu st
+Sector with a specific city strategy or plan
+Interdependencies
+Priority coordination gaps
+Strategy development
+Figure 3 – Graphic example: Is the city housing strategy aligned to other urban systems?
+City Resilience Framework 2024 Edition – Preparing for the next decade
+
+[Page 17]
+Application 2: Stakeholder engagement: surveys to understand residents’ priorities 
+A key strength of CRF’24 is that it provides a common language around resilience. This promotes a shared understanding and facilitates engagement of a diverse range of stakeholders, increasing their ability to contribute to the city’s resilience priorities. Additionally, the common language works to facilitate engagement between and within cities, allowing knowledge and best practices to be more widely accessible, and therefore used. 
+The flexibility of the updated CRF also allows it to be adapted to specific city purposes and audiences. The City of Sydney recently adapted CRF’24 to structure an online survey for residents to share perceptions of resilience. The survey was responded to by 
+1,501 people and results will feed into a new resilience strategy for 
+Greater Sydney.
+“ Resilient Sydney has recently used the 
+CRF to structure our city-wide community engagement and risk assessment for the second Resilient Sydney Strategy. 
+Using the CRF in this way has helped us develop purposeful actions across the four dimensions of resilience”.
+ 
+Beck Dawson, Chief Resilience Officer, Greater Sydney
+Figure 4 – Survey questions used by City of Sydney, adapting 
+CRF’24 to create the survey structure and questions
+City Resilience Framework 2024 Edition – Preparing for the next decade
+
+[Page 18]
+How can cities ensure that significant precinct-level developments and regeneration projects strengthen resilience at the neighbourhood scale, and contribute to wider city resilience? 
+Masterplanning is one of the key methodologies cities have to create sustainable and resilient neighbourhoods and districts. This may entail working with developers to realise the city’s ambitions around growth. 
+City planners need to manage limited resources, account for diverse stakeholders’ interests and needs, alongside addressing the interdependencies between projects.
+Projects must be able to adapt to changing conditions such as economic and political shifts, public demands, and climate change, while ensuring that all plans support a cohesive, long-term vision for the city’s growth and resilience.
+ 
+The CRF tool can support those involved in masterplanning by: – Providing a holistic view of a project in relation to other city systems and sectors.
+ – Explaining the interdependencies of a project to enable the production of a more efficient masterplan, optimising project and city benefits. – Facilitating discussions and collaboration between city departments, developers, project design teams and community members. – Providing a consistent approach to embedding resilience across masterplanning, aligning with the city’s vision, strategy and objectives. 
+On the following pages we show three examples of different applications of CRF’24 to the masterplanning process.
+Brief definition
+Baseline definition
+Vision
+Optioneering
+Masterplan design
+Detailed design
+Application 1
+Application 2
+Application 3
+Masterplanning
+Figure 5 – Where can CRF’24 help the masterplanning process?
+City Resilience Framework 2024 Edition – Preparing for the next decade
+
+[Page 19]
+Application 1: Structuring the brief 
+By using CRF’24 from the outset, urban developers, city planners and urban designers can ensure masterplanning projects align with the city-wide agenda and contribute to the resilience of the city. CRF’24 provides a focus for complex resilience discussions, helps identify interdependencies between goals and demonstrates how resilience benefits can be amplified across multiple sectors / goals.
+Specifically, CRF’24 can be used to:
+ – Illustrate that resilience, by definition, requires a holistic approach.
+ – Identify which goals to prioritise, based on city-wide and local challenges (see Figure 6). This can inform decisions which elements are key to realising a project’s objectives.
+ – Encourage systemic thinking by identifying interdependencies between objectives. For example, providing a car-free development to respond to mobility objectives would reduce carbon emissions and provide more space for housing. This reveals the mutual benefits between housing, energy and transport goals, and should be reflected in the brief.
+City scale
+1. Context: review city policies, vision, strategy, plan and objectives. Identify areas of focus.
+2. Select and prioritise CRF goals based on context and long-term vision – provides a simplified framework for all masterplanning projects to be reviewed against.
+Neighbourhood scale
+1. Context: understand the neighbourhood’s challenges and opportunities (SWOT analysis).
+2. Engage with local communities and stakeholders.
+3. Select and prioritise CRF goals based on the neighbourhood’s needs.
+Lo ca l 
+Go ve rn an ce & P la nn in g
+In fr as tr uc tu re & E nv ir on me nt
+Ec on o my & S oc ie ty
+He alt h & 
+W ell be in g
+En erg y & rel iable
+Clea n, aff orda ble & so cial serv ices
+He alt hca re
+Univ ersal
+Fair
+Rul e o f L aw
+Prot ectiv e
+Inf ras tru ctu re
+Go ver nm ent
+Lo cal
+Acco unta ble
+Co mm uni ty
+Co hes ion equit y & i nclu sion
+Effe ctive ope ratio n &
+Mai nte na nc e of 
+Util itie s
+Acce ssib le
+Dig ita l
+Ser vic es
+Ma na ge me nt
+Dat a
+Secu re & effec tive
+Sa nit ati on
+Ho usi ng and affor dabl e
+Wa ter &
+Safe, ade quat e
+Safe man age ment & re sour ce
+Wa ste
+Sust aina ble
+Effe ctive
+Ed uc ati on & ski lls
+Se cur ity & pu blic safet y
+Sust aina ble
+Ec on om y & liv eliho ods
+Heal thy
+Ec os yst em s gree n sp aces & bio diver sity
+Par tic ipa tio n enga gem ent &
+Inclu sive civic
+Pre par ed ne ss
+Effec tive emer genc y
+Pla nni ng
+Evid ence
+-bas ed supp lies
+Fo od & su stain able
+Secu re, a fford able
+Sust aina ble
+Tra ns por t & act ive m obilit y & cit y ma nage ment
+Fin an ce
+Mu nic ipa l
+Robu st
+Lo ca l 
+Go ve rn an ce & P la nn in g
+In fr as tr uc tu re & E nv ir on me nt
+Ec on o my & S oc ie ty
+He alt h & 
+W ell be in g
+En erg y & rel iable
+Clea n, aff orda ble & so cial serv ices
+He alt hca re
+Univ ersal
+Fair
+Rul e o f L aw
+Prot ectiv e
+Inf ras tru ctu re
+Go ver nm ent
+Lo cal
+Acco unta ble
+Co mm uni ty
+Co hes ion equit y & i nclu sion
+Effe ctive ope ratio n &
+Mai nte na nc e of 
+Util itie s
+Acce ssib le
+Dig ita l
+Ser vic es
+Ma na ge me nt
+Dat a
+Secu re & effec tive
+Sa nit ati on
+Ho usi ng and affor dabl e
+Wa ter &
+Safe, ade quat e
+Safe man age ment & re sour ce
+Wa ste
+Sust aina ble
+Effe ctive
+Ed uc ati on & ski lls
+Se cur ity & pu blic safet y
+Sust aina ble
+Ec on om y & liv eliho ods
+Heal thy
+Ec os yst em s gree n sp aces & bio diver sity
+Par tic ipa tio n enga gem ent &
+Inclu sive civic
+Pre par ed ne ss
+Effec tive emer genc y
+Pla nni ng
+Evid ence
+-bas ed supp lies
+Fo od & su stain able
+Secu re, a fford able
+Sust aina ble
+Tra ns por t & act ive m obilit y & cit y ma nage ment
+Fin an ce
+Mu nic ipa l
+Robu st
+Figure 6 - CRF’24 enables identifiaction of goals that align with city and neighbourhood priorities
+City Resilience Framework 2024 Edition – Preparing for the next decade
+
+[Page 20]
+Application 3: Evaluate options through a resilience lens 
+At the optioneering stage, CRF’24 can be used to evaluate each option against a holistic approach to resilience and in light of a project or city’s other priorities. This will help to identify the cascading effects one project can have on other systems and projects across the city (system of systems).
+This exercise will inform the selection of optimal masterplan options i.e. which project responds best to the prioritised resilience goals.
+Ultimately, CRF’24 provides a straightforward methodology to assess a masterplan’s potential performance. A score can be given to rate each option against the relevant goals on a scale of 0 to 5 (Figure 7). 
+Each option would need to answer to the following question for each goal: to what extent does this masterplanning option address this specific goal?
+Final scores will help identify the most resilient masterplan option and areas for improvement.
+Lo ca l 
+Go ve rn an ce & P la nn in g
+In fr as tr uc tu re & E nv ir on me nt
+Ec on o my & S oc ie ty
+He alt h & 
+W ell be in g
+Sa nit ati on
+Ho usi ng and affor dabl e
+Wa ter &
+Safe, ade quat e
+Safe man age ment & re sour ce
+Wa ste
+Sust aina ble
+Effe ctive
+Ed uc ati on & ski lls
+Se cur ity & pu blic safet y
+Sust aina ble
+Ec on om y & liv eliho ods
+Heal thy
+Ec os yst em s gree n sp aces & bio diver sity
+Par tic ipa tio n enga gem ent &
+Inclu sive civic
+Pre par ed ne ss
+Effec tive emer genc y
+Pla nni ng
+Evid ence
+-bas ed supp lies
+Fo od & su stain able
+Secu re, a fford able
+Sust aina ble
+Tra ns por t & act ive m obilit y & cit y ma nage ment
+Fin an ce
+Mu nic ipa l
+Robu st
+En erg y & rel iable
+Clea n, aff orda ble & so cial serv ices
+He alt hca re
+Univ ersal
+Fair
+Rul e o f L aw
+Prot ectiv e
+Inf ras tru ctu re
+Go ver nm ent
+Lo cal
+Acco unta ble
+Co mm uni ty
+Co hes ion equit y & i nclu sion
+Effe ctive ope ratio n &
+Mai nte na nc e of 
+Util itie s
+Acce ssib le
+Dig ita l
+Ser vic es
+Ma na ge me nt
+Dat a
+Secu re & effec tive
+0 - Not applicable
+1 - Not addressed
+2 - Minimum standards
+3 - Partly addressed
+4 - Mostly addressed
+5 - Fully addressed
+Application 2: Define design principles that facilitate resilience
+Once CRF’24 goals have been identified for the site and surrounding neighbourhood, the vision for the project needs to be defined, along with high level design principles and objectives. At this stage, CRF’24 will need to be translated into design principles that will promote resilience within the project.
+Each CRF’24 goal has a ‘desired outcome’ description based on best practice and industry standards. Design principles for the masterplan can be informed by these descriptions, the city-wide strategy and objectives, aligned to the relevant goals.
+Figure 7 - CRF’24 can be used to evaluate masterplanning options
+City Resilience Framework 2024 Edition – Preparing for the next decade
+
+[Page 21]
+While appetite from both public and private investors for resilience projects appears to be growing, cities continue to face difficulties funding local infrastructure projects. Often, sources of climate financing or grants are conditional on the ability to demonstrate resilience outcomes. It can be challenging for cities to articulate, and crucially place a value on, how well their proposed projects will meet these resilience outcomes. 
+Investment planning
+City barriers to accessing capital
+Generally, climate funds and international financial institutions (IFIs) have specific frameworks or typologies of projects they finance. 
+For a project to be “bankable”, whether from public or private sources, its risk-return profile must meet investors’ criteria. For many cities, particularly in emerging economies, projects often lack ‘market readiness’, undermining their bankability. 
+Key criteria for bankability can include: – The probability of meeting the project’s financial, environmental, and social goals (including delivering resilience impacts).
+ – Sufficient estimated cash flows to cover costs and produce returns that meet investor expectations. – Implementation by a creditworthy entity.
+ – A project seeking finance from public sources generally must demonstrate very high levels of economic benefit to justify concessional financing, alongside other important indicators such as creditworthiness, administrative and technical capacity, and political support.
+ – Providing greater evidence of resilience benefits will enhance the ability of cities to seek greater financial support for project ideation, technical assistance and partnerships for development.
+© Reconstrucción con Cambios
+City Resilience Framework 2024 Edition – Preparing for the next decade
+
+[Page 22]
+Application 1: Supporting investment prioritisation 
+CRF’24 can help cities to evaluate projects to ensure that they demonstrate cross-cutting resilience outcomes and better meet the funding criteria of IFIs or climate funds. This will help to mobilise financing from different technical assistance resources, including 
+Green Climate Fund (GCF) Readiness and Project Preparation Facility modalities. This would benefit by: – Providing more economic credentials that demonstrate catalytic effects of projects, particularly around health & wellbeing, and economy & society. – Improved engagement with the private sector to understand how resilience benefits could be embedded in the project’s design and development, leading to greater community and government support, which in turn will strengthen project applications. – Greater opportunity for diversification of risk by targeting a wider range of benefits. 
+Where grants or borrowing are necessary, the use of CRF’24 can be used to explore specific climate financing options. The real value of it is in the engagement with providers of grants or climate finance, ensuring that the wider resilience of the city is also considered.
+For example, a city council can use CRF’24 to develop a resilience focused proposal for retrofitting street lighting with energy-efficient 
+LED bulbs. 
+Cities can work with National Designated Authorities or Accredited 
+GCF Entities to apply to the GCF Simplified Approval Process (SAP) for support for projects under $25 million that promote lowemission and climate-resilient development and are ready for scaling up. CRF’24 can help to guide cities in shaping their SAP application to align with the GCF’s core investment criteria: impact potential, paradigm shift, sustainable development, needs of recipients, country ownership, and efficiency. 
+The CRF can help simplify the SAP, providing a contextualised narrative around resilience outcomes aligned with GCF criteria, potentially reducing the need for extensive background studies while supporting a resilient, low-carbon urban future. 
+Using the CRF to apply for climate finance for city lighting upgrades
+Health & Wellbeing
+Improved street lighting will use low consumption technology, promoting energy savings and being prepared to face energy disruptions, while waste is minimised by reducing the frequency of bulb replacement. 
+Economy & Society
+By reducing energy costs, city funds can be reallocated to other community services, stimulating local businesses by encouraging outdoor evening activities and improving security.
+Infrastructure & Environment
+The switch to LED technology extends the lifespan of the lighting infrastructure and enhances environmental resilience by lowering the city’s carbon footprint and energy dependency. 
+Local Governance & Planning
+The project promotes resilient governance by embedding energy efficiency into city operations, requiring training of city officials and planners, ensuring that teams are equipped to scale up similar initiatives. 
+City Resilience Framework 2024 Edition – Preparing for the next decade
+
+[Page 23]
+Cities face a growing number of challenges, from climate change but also other shocks and stresses. 
+Cities must prioritise climate resilience by taking a consistent and holistic approach to urban planning and investment decisions. 
+This refreshed version of the CRF will help cities to: – Foster engagement with a wide range of stakeholders to ensure inclusive planning, supporting this challenging task that city practitioners regularly face. – Collaborate with regional and national authorities to align strategies and share resources. – Create a consistent narrative that supports cities to mobilise investment. – Review interventions and initiatives to ensure resilience is embedded. 
+The refreshed CRF’24 is intended to be more accessible and inclusive to anyone involved in city planning. In this report we have suggested some initial approaches for using CRF’24 in projects related to city strategies, masterplans, and to help access investment capital: – CRF’24 can help identify interdependencies between city systems within a specific sector strategy, in order to generate efficiencies and promote collaboration. In addition, it continues to support cities in the process of developing resilience strategies through, for example, its use in qualitative resilience assessment activities during participatory workshops. – For urban regeneration and masterplan projects, CRF’24 can help visualise and identify resilience components that need to be strengthened at various phases of the project. – CRF’24 is also proposed as a tool to help cities mobilise investment funds for projects that build resilience, by supporting the creation of a robust narrative when applying for funds, demonstrating the holistic impact of projects on various city systems. 
+With the release of this publicly available updated framework, we hope that cities globally will continue to collaborate and build on the knowledge gained over the past decade, tailoring it to meet their needs and challenges and sharing their experiences. Together, we can shape a better world.
+Summary
+City Resilience Framework 2024 Edition – Preparing for the next decade
+
+[Page 24]
+Cities Resilience Index
+The Rail Resilience 
+Framework 
+City Water Resilience 
+Approach 
+The Pandemic 
+Resilient Hospital 
+Energy Resilience 
+Framework 
+Port Resilience 
+Framework for Action 
+Digital Cities, 
+Resilient Cities 
+BiodiverCities by 2030: transforming cities relationship with nature
+Strengthening urban resilience through play 
+Post-Cop27: Building a more climate resilient Asia
+A Universal Taxonomy for Natural Hazard and 
+Climate Risk and
+Resilience Assessments
+Global Sponge 
+Cities Snapshot
+Measuring Resilience: A guide to tracking progress 
+Urban Heat Snapshot
+Further reading
+City Resilience Framework 2024 Edition – Preparing for the next decade
+Click to download
+Click to download
+Click to download
+Click to download
+Click to download
+Click to download
+Click to download
+Click to download
+Click to download
+Click to download
+Click to download
+Click to download
+Click to download
+Click to download
+
+[Page 25]
+We sincerely thank all contributors for their invaluable efforts and dedication to strengthening city resilience worldwide. 
+We would like to especially highlight the support provided by the Resilient Cities Network in facilitating engagement with City 
+Resilience Officers and their teams. We are indebted to Lina Liakou and Alvaro Soldevila from RCN and to the cities of Calgary, Milan, 
+Penang, Broward County, Sydney.
+The Arup team
+Jo da Silva, Mike Henderson, Jose Ahumada, Ed Persson, Laura Frost, 
+Kieran Birtill, Pedro Contrucci, Sadhbh Sheeran, Victoria Caffyn, 
+Matt Cox, Eddie Ion, Charlotte Middleton, Alex Mayor, Kathryn Firth, 
+Manon Dangelser, Luke Thompson.
+Chief Resilience Officers, urban practitioners and experts
+Dr. Jeniffer Jurado and Adrienne Aiken (Broward County), Katie 
+Van Dyke and Rex Brown (Berkley), Krystal Reyes (Tulsa), Arnoud 
+Molenaar (Rotterdam), Beck Dawson and Sam Kernaghan (Sydney), 
+Gareth Morgan and Tamsin Faragher (Cape Town), Kathy Oldham and Rachel Berman (Greater Manchester), Seth Schultz and Rebecca 
+Laberenne (Resilience Rising), Sachin Bhoite (C40), Denise Carbol, 
+Heather Galbraith, Toby Bellis, M. Sadlowski, Denise Carbol and 
+Jeny Mathews-Thusoo (Calgary), Ilaria Giuliani (Milan), Muhamad 
+Husni Bin Mahmud (Penang).
+Arup experts
+Amy Leitch, Ann Cousins, Ben Smith, Brian Swett, Chintan Raveshia, 
+Peter Vangsbo, Stine Kolding, Isobel Vernon-Avery, Anna Surgenor, 
+Max Russell, Aurel von Richthofen, Dima Zogheib, Eike Sindlinger, 
+Heather Rosenberg, Ibbi Almufti, Juliet Mian, Kaitlin Shilling, Martin 
+Shouler, Matthew Free, Pasquale Capizzi, Paula Kirk, Richard Bond, 
+Rishi Parajuli, Sarah Gillhespy, Shruti Rathore, Tammy Tse, Tony 
+Chan, Chintan Raveshia, Ilana Judah, Hannah Wilson, Alice Vincent, 
+Cobus van Rooyen, George Beane, Inigo Ruiz-Apilanez, Kristian 
+Winther, Serena Girani, Shanshan Wang, Stephen Cook, Alastair 
+Howcroft, James Tunney, Peter Harrington.
+About Arup
+Dedicated to sustainable development, Arup is a collective of 18,000 designers, advisors and experts working across 140 countries. 
+Founded to strive for humanity and excellence in everything that we do, we collaborate with our clients and partners, using imagination, technology and rigour to shape a better world.
+For further information, please contact:
+Mike Henderson mike.henderson@arup.com 
+Jose Ahumada jose.ahumada@arup.com
+Acknowledgements
+City Resilience Framework 2024 Edition – Preparing for the next decade

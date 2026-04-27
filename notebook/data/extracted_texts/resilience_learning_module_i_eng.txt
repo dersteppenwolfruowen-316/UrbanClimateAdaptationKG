@@ -1,0 +1,2197 @@
+[Page 1]
+Localizing the Sendai Framework for 
+Disaster Risk Reduction to ensure resilience-based sustainable and inclusive development
+Fundamentals of Resilient 
+Governance & 
+Development 
+Localizing the Sendai Framework for 
+Disaster Risk Reduction to ensure resilience-based sustainable and inclusive development
+Resilience 
+Learning 
+Module I:
+
+[Page 2]
+This publication was produced with the financial support of the European Union. Its contents are the sole responsibility of UCLG and do not necessarily reflect the views of the European Union.
+European Union
+This project is funded by:
+This document has been financed by the Swedish International Development Cooperation 
+Agency, Sida. Sida does not necessarily share the views expressed in this material. Responsibility for its content rests entirely with the author.
+October 2020
+Localizing the Sendai Framework for Disaster Risk Reduction to ensure resilience-based sustainable and inclusive development
+Resilience 
+Learning 
+Module I:
+Fundamentals of Resilient 
+Governance & 
+Development
+
+[Page 3]
+Presentation 
+Target Audience 
+Methodology 
+Iconography 
+Complementary Materials 
+Glossary 
+Chapter 1: Localizing the Sendai Framework to achieve Resilient Cities and Territories 
+Warm-up: Introduction 
+Lecture 1: Disaster Risk Reduction (DRR) and Resilience Building 
+Dynamic: Person & City 
+Exercise: Risk & Resilience 
+Lecture 2: The Sendai Framework for DRR (SFDRR) and the 
+Sustainable Development Goals (SDGs) 
+Exercise: Resilience & the SDGs 
+Lecture 3: Localizing the Sendai Framework for DRR in Cities & Territories 
+Chapter 2: Fundamentals of Resilience Building and DRR for LRGs 
+Lecture 1: Urban resilience principles and the policy cycle 
+Lecture 2: Disaster Risk Governance 
+Dynamic: Governance after a disaster 
+Lecture 3: Assessing Risk and Resilience 
+Lecture 4: Financing for DRR and Resilience 
+Dynamic: Futurilities 
+Lecture 5: Local Resilience Strategies and Action Plans 
+Exercise: Strategies & Financing
+
+[Page 4]
+Chapter 3: Fostering an enabling environment through LRG Associations 
+Lecture 1: Five key lines of actions for LRGAs to support resilience building 
+Exercise: Contributions of LRGAs 
+Acknowledgments 
+References 
+Handouts
+
+[Page 5]
+Learning Module 
+Presentation
+Disaster risk and resilience are complex, systemic, and dynamic; just like the urban areas and communities that are exposed to it. This complexity requires local and regional governments to understand what constitutes and shapes disaster risk, and to provide solutions that will not only reduce it, but also build resilience to ensure equitable and sustainable development in their communities. 
+Despite their crucial role in achieving the resilience of their cities and territories, local and regional governments’ actions in this realm have been limited due to a multitude of challenges they face. Local and regional governments (LRGs) need, among others, enhanced capacity as well as enabling institutional, technical, and financial environments to fulfill the localization of the Sendai Framework for Disaster Risk 
+Reduction (Sendai Framework or SFDRR). 
+This learning module on the localization of the Sendai Framework, developed by United Cities and Local Governments (UCLG), in partnership with the United Nations Office for Disaster Risk Reduction (UNDRR) and the United Nations Human Settlements Program (UN-Habitat), aims to support local authorities in the creation of an enabling environment for disaster risk reduction (DRR) and resilience building. The module aims to foster learning and raising awareness about the links between local action and the achievement of the global agendas, particularly that of the Sendai Framework for DRR. 
+This first volume of the learning module on the localization of the 
+Sendai Framework discusses the fundamentals of resilience building and their potential integration into LRGs’ policy cycle, providing a base framework for LRGs to understand risk and resilience, enhance risk governance, identify available finance mechanisms and opportunities, and formulate their DRR and resilience building strategies and action plans while building capacities for implementation. 
+The second volume of the learning module will discuss implementation of the action plans at the local and regional levels through the use of actions such as risk-based planning, enhancing social resilience, or using nature-based solutions and innovative design strategies for resilience building. The module builds on the experiences of LRGs confronting the COVID-19 pandemic, presenting a systemic approach to disaster risk management, and recognizing the important role local and regional government associations must play to push for an enabling environment at the national and international levels for LRGs to be able to implement locally-sensible and responsive resilience strategies.
+
+[Page 6]
+Learning Module 
+Target Audience
+This module aims to provide a base structure for workshops to empower 
+LRGs with the basic understanding, knowledge and tools necessary to integrate DRR and resilience building into their policy cycle, strategies and development plans. It has been developed to support all relevant stakeholders at the local, regional, and even national levels; such as political leaders, technical public officers in different departments, and local government associations. The module provides the basis for capacity building workshops through a training of trainers’ approach. 
+Methodology
+This learning module follows the same structure as previous modules developed by UCLG on the localization of the SDGs, serving as a guide for facilitators to adapt and organize their own workshops and trainings, based on their target audience.
+The theoretical part of the module is based on lectures, case studies, and additional resources based on the experiences of LRGs and existing research. Interactive exercises aim to facilitate knowledge exchange and build on the theoretical part, providing opportunities for reflection on concepts, as well as integration of context specific experiences and knowledge from participants’ own cities and territories. They are designed to allow participants to start using some of the tools explored in the module in order to build resilience and integrate DRR into their daily work.
+Iconography
+Throughout the module you will find a series of icons that will help you find the information more easily and move around the different activities and resources available for your workshop.
+Lecture
+Exercise
+Dynamic
+Resources 
+Handout 
+Apart from the icons, on the left margin you will also find key messages, tips and information as to whether any previous preparation is needed, like printing, cutting materials etc.
+
+[Page 7]
+Learning Module 
+Complementary Materials
+This module can be further complimented using some of the existing tools developed by UCLG, UN-Habitat, UNDRR, and other partners, building particularly on the following resources:
+ UCLG, UN-Habitat & UNDP. Learning Module on Localizing the SDGs.
+ UNISDR 2017. How to Make Cities More Resilient: A Handbook for Local 
+Government Leaders  UNDRR 2019. Words into Action guidelines: Implementation guide for local disaster risk reduction and resilience strategies  UN-HABITAT / CRGP. 2018. City Resilience Profiling Tool Guide  UCLG Taskforce for Territorial Prevention and Management of Crisis, 
+2019. Guidance for Local Authorities on Effective Working with 
+Humanitarian Actors.
+Glossary
+CRGP — City Resilience Global Programme
+CRPT — City Resilience Profiling Tool
+DRM — Disaster Risk Management
+DRR — Disaster Risk Reduction
+HFA — Hyogo Framework of Action 2005-2015
+LRGs — Local and regional governments
+LRGAs — Local and regional government associations
+MCR — Making Cities Resilient campaign
+NUA — New Urban Agenda
+SDGs — Sustainable Development Goals
+SFDRR — Sendai Framework for Disaster Risk Reduction
+UCLG — United Cities and Local Governments
+UN-HABITAT — United Nations Human Settlement Programme
+UNDRR — United Nations Office for Disaster Risk Reduction
+
+[Page 8]
+Chapter 1: 
+Localizing the Sendai Framework to achieve Resilient Cities and Territories 
+Chapter 1: Localizing the Sendai 
+Framework to achieve Resilient 
+Cities and Territories 
+The lectures in this Chapter provide an introduction to the Sendai 
+Framework for Disaster Risk Reduction (SFDRR), its key concepts, and the importance of resilience building for local and regional governments. It discusses the important link disaster risk reduction (DRR) and resilience building have with other global agendas, illustrating how DRR and resilience action supports and should be integrated into the equitable and sustainable development of cities and territories. 
+Warm-up: Introduction
+Video
+For an introduction to the module and the localization of the Sendai 
+Framework for Disaster Risk Reduction, please use the video developed by UCLG, UNDRR, and UN-Habitat: 
+Self-introduction & discussion 
+After the video, invite participants to introduce themselves. The aim in this introductory section should be:
+• 
+Brief presentation of the participants
+• 
+Learning in what way participants are involved in disaster risk reduction and resilience in their cities and territories
+• 
+Learning what they would like to achieve from this training/learning module
+Lectures 1 and 2 expand on the ideas presented in the video, providing further information to facilitate a discussion with participants or expand on specific concepts, following the introduction of participants.
+WARM-UP
+15-20 min
+Video: Localizing the
+
+[Page 9]
+Chapter 1: 
+Localizing the Sendai Framework to achieve Resilient Cities and Territories 
+Lecture 1: Disaster Risk Reduction and Resilience 
+Building
+This lecture provides a brief introduction to the material covered in the learning module; arguing that local and regional governments are faced with multiple stresses and shocks in their communities and urban areas, and have a crucial role to play to reduce risk and build resilience in their cities and territories. 
+Risks & Resilience in Cities and Territories 
+Communities around the world are increasingly being exposed and vulnerable to a variety of hazards and pressures leading to stresses and shocks that impact their everyday lives and set back any sustainable development gains. Cities and territories are challenged not only with risks rising from everyday stresses, such as pluvial flooding resulting from inadequate drainage systems, or drought due to inadequate supply of water, but also with shocks such as earthquakes, hurricanes, or pandemics.
+From 1998 to 2018, climate-related and geophysical disasters killed 1.3 million people and left 4.4 billion injured, homeless or displaced. During the same period, disasters led to direct damages of over US$3 billion, with climate-related disasters causing about 75% of the total loss (UNISDR and CRED 2018). 
+As the world has become more urban, disasters increasingly impact urban areas and further stress inherent socio-economic inequalities, substandard physical structures, disappearing ecosystems, and inefficient institutional systems. However, disasters affect territories and their specific systems and development models differently. An earthquake in 
+Beira does not lead to the same impact and losses as one in Tokyo, nor does a fire in Kangaroo Island have the same impacts as one in Beirut. This is particularly important as it signifies the immediate need for locally sensitive multi-level disaster risk reduction and resilience building strategies with active engagement of local and regional governments, and coordination and cooperation among them.
+Local and regional governments (LRGs) play a central role in DRR and resilience building, as the main responsible body for the provision of basic services, coordination of daily functions, and provision of information and regulation. They are also the leading actors during recovery and reconstruction processes. Successful initiatives at the local and regional levels can influence national level policy, actions, and outcomes. However, many local and regional governments also face a series of challenges that limit their efforts. Among others, they are hindered by insufficient authorities, inadequate budget allocations to maintain and provide services for all, unclear competences and division of task between spheres of government, and limited technical and knowledge-based capacities and data to understand, prevent, and manage stresses, shocks, and disasters. 
+LECTURE 1
+Local and regional governments play a central role in DRR and resilience building, as the main responsible body for the provision of basic services, coordination of daily functions, and provision of information and regulation.
+
+[Page 10]
+Chapter 1: 
+Localizing the Sendai Framework to achieve Resilient Cities and Territories 
+With a better understanding and analysis of the urban systems in which exposure and vulnerabilities occur, the available tools, and the right competences and resources, LRGs can develop comprehensive systemsbased strategies for DRR and resilience building. In addition to building resilience, this process can support the development of livable communities with balanced ecosystems, better urban planning and design, and active citizen participation and help create a successful platform for urban governance.
+Dynamic: Person & City
+The purpose of this dynamic is for participants to understand the importance of strengthening the “immune system” and the support systems of a city in order to be ready to confront potential shocks. In the handout, you will find four different cards with a brief description of a shock.
+1. Hand out one card to each participant or group of participants (if you want to simplify the dynamic, you can choose one shock and present it to the whole group).
+Ask participants to close their eyes and imagine that they have been affected by this shock. Invite them to think of the impacts it might have had in them as individuals. How would they confront this shock? 
+What would they need to overcome it? Who/what would they rely/ depend on?
+After a minute of self-reflection, open the floor for each participant to share what and who they would rely on.
+At the right moment during the discussion, introduce these two concepts:
+• Immune system: A set of agents and internal processes in our bodies that are prepared and organized to act quickly to confront a shock.
+• Support systems: Beyond our own body, we also rely on our relationships and social systems to confront and overcome shocks. 
+This might include support from our families, as well as municipal services.
+2. Following the previous discussion, invite participants to think how their city (rather than them as individuals) would confront the same shock. Use the following guiding questions to facilitate the discussion:
+• What happens when the shock hits a city? How is it affected?
+• Is there an immune system in the city? What is it composed of?
+• Are there any support systems? Which ones?
+DYNAMIC
+15-20 min
+Person & City: Shock cards
+Person & City: Analysis 
+Chart
+Print and cut out the 
+Shock Cards beforehand. If you divide in groups, we suggest groups of 4-6 persons.
+Introduce examples
+
+[Page 11]
+Chapter 1: 
+Localizing the Sendai Framework to achieve Resilient Cities and Territories 
+If necessary, introduce examples of elements of a city’s immune system (firefighters, hospitals, parks/open spaces, etc.), and its support systems (other cities, national government, humanitarian actors, etc.).
+3. Close the dynamic with a final group reflection on the approaches to confronting the different type of shocks, highlighting some of the learnings that will be further developed in the module. 
+An important learning from this dynamic is to understand the complexity of cities and regions as a system of systems, both internal and external. Local and regional governments themselves are composed by individual persons who are impacted personally by the different shocks. The continued function of public services also depends on dealing with the impacts a shock has on the people that make up the government institutions. 
+Defining Risk and Resilience1
+According to the Sendai Framework (UN 2015a), resilience is “the ability of a system, community or society exposed to hazards to resist, absorb, accommodate, adapt to, transform and recover from the effects of a hazard in a timely and efficient manner, including through the preservation and restoration of its essential basic structures and functions through risk management.” The New Urban Agenda further describes the resilient city as a city “that is able to absorb, adapt, and recover from the shocks and stresses that are likely to happen, transforming itself in a positive way toward sustainability” [UN-Habitat 2018). 
+Disaster risk is defined as “[t]he potential loss of life, injury, or destroyed or damaged assets which could occur to a system, society or a community in a specific period of time” (UNISDR 2017a). In simplistic terms, disaster risk is determined as a function of hazard, exposure, and vulnerability and shown with the equation:
+1. Risk and Resilience are defined by different organizations and fields through different lenses and perspectives. This learning module will use the terms from the perspective of the Sendai 
+Framework for Disaster Risk 
+Reduction (SFDRR) and of the 
+New Urban Agenda (NUA).
+Fig 1. In simple terms, risk can be understood as a combination of an existing hazard with exposure, vulnerability, and the capacity to confront it or overcome it.
+Hazard is defined as a process, phenomenon or human activity that may cause loss of life, injury or other health impacts, property damage, social and economic disruption or environmental degradation. Hazards may be natural, anthropogenic, or socio-natural in origin. Exposure is the 
+RISK
+Capacity
+Exposure
+Vulnerability
+Hazard
+Understanding each of the components of risk, and their likely trends, can help identify and prioritize specific actions to reduce risk and build resilience.
+
+[Page 12]
+Chapter 1: 
+Localizing the Sendai Framework to achieve Resilient Cities and Territories 
+Fig 2. A more systemic understanding of risk and resilience includes different types of shocks, stresses, and considers the effect of environmental, socio-economic and political processes and trends. Source: Developed by UCLG Learning situation of people, infrastructure, housing, production capacities and other tangible human assets located in hazard-prone areas. Vulnerability (ies) are the conditions determined by physical, social, economic and environmental factors or processes which increase the susceptibility of an individual, a community, assets or systems to the impacts of hazards. 
+For instance, a community can be vulnerable due to the physical structure of its buildings and infrastructure, the social inequality of its citizens, and lack of coordination between its institutions among other factors or processes.
+In the more systemic analysis of resilience, shocks are defined as “sudden onset events, leading, potentially, to adverse impacts unfolded within hours or days in the urban areas, while stresses are defined as chronic pressures whose cumulative impacts undermine city’s capacity for resilience” (UN-Habitat 2018). Environmental and climate trends, socio-economic processes, and political decisions and actions further define how all these different elements change and interact over time, as illustrated in the following graphic.
+Understanding each of the components of risk, and their likely trends, can help identify and prioritize specific actions to reduce risk and build resilience. Each of these components are further explored in this 
+Learning Module, and can be discussed through the following exercise, helping participants reflect on and better understand each of them. 
+Hazards
+RISKS
+TIME
+TIME
+TIME
+Stresses
+Shocks
+Systems
+Exposure
+Vulnerability
+Environmental & Climate trends
+Climate change
+Natural trends
+Socio-economic processes
+Population growth
+Economic development & distribution
+Governance & Decision making
+City vision
+Adaptation & mitigation
+Policies & incentives
+
+[Page 13]
+Chapter 1: 
+Localizing the Sendai Framework to achieve Resilient Cities and Territories 
+Exercise: Risk & Resilience 
+This exercise aims for participants to get familiar with the concepts used in analyzing risks and resilience; and understand the similarities and differences among the different perspectives. 
+1. Divide participants in small groups. Handout a copy of the Key 
+Concepts, Sample City Profile, and Analysis Chart handouts to each group.
+2. After reading and explaining each concept, invite each group to analyze the profile of their sample city from (a) a Disaster Risk 
+Reduction (DRR) perspective, identifying hazards and vulnerabilities, and from (b) a resilience perspective, identifying stresses and shocks. 
+3. Open up a debate among all participants to share their reflections on the differences and similarities among each perspective and their concepts. 
+Following this reflection, you can invite each group to analyze their own city’s risk and resilience. 
+4. Ask each group to fill up their own city’s profile, using the format on 
+Your City Profile handout. If participants are from different cities/ regions, you can ask them to choose the city/region they are most familiar with. 
+5. Once done, invite each group to share their city’s profile using one of the two perspectives (or the one you prefer them to work with). 
+Template for Analysis of DRR & Resilience perspectives
+EXERCISE
+30-45 min
+Divide participants in small groups 
+Key Concepts: Risk & 
+Resilience 
+Risk & Resilience: City 
+Profile Example
+Risk & Resilience: 
+Analysis Chart
+Risk & Resilience: Your 
+City Profile
+You can assign each group a different city profile, or the same sample city for all groups. The first option will bring up multiple risk/resilience scenarios, while the second one will foster a deeper debate on the concepts.
+DRR PERSPECTIVE
+Hazards 
+Vulnerabilities
+RESILIENCE PERSPECTIVE
+Shocks
+Stresses
+
+[Page 14]
+Chapter 1: 
+Localizing the Sendai Framework to achieve Resilient Cities and Territories 
+Lecture 2: The Sendai Framework for DRR and the 
+Sustainable Development Goals (SDGs)
+This lecture examines the Sendai Framework for Disaster Risk 
+Reduction and its synergies with the 2030 Agenda for Sustainable 
+Development, the Paris Climate Agreement, and the New Urban 
+Agenda in addition to the priorities set up by local and regional governments, particularly in response to the COVID-19 pandemic and for the post COVID-19 era. 
+The Sendai Framework for Disaster Risk Reduction 2015-2030 
+The Sendai Framework for Disaster Risk Reduction (SFDRR) was adopted at the Third UN World Conference on Disaster Risk Reduction in Sendai 
+City, Japan, in 2015. The agreement followed a review of its predecessor, the Hyogo Framework of Action (HFA) 2005-2015, as well as stakeholder consultations in which local and regional governments were represented through the Global Taskforce of Local and Regional Governments. 
+Different than its predecessor HFA, SFDRR takes into account both the risk of small-scale and large-scale, frequent and infrequent, sudden and slow-onset disasters, caused by natural or manmade hazards as well as related environmental, technological and biological hazards and risks. 
+It aims to guide the multi-hazard management of disaster risk in development at all levels as well as within and across all sectors. 
+In order to facilitate “the substantial reduction of disaster risk and losses in lives, livelihoods and health and in the economic, physical, social, cultural and environmental assets of persons, businesses, communities, and countries”, the Sendai Framework sets up seven targets, thirteen principles, and four priorities of action (UN 2015a). 
+Fig 3. The Seven Targets of the Sendai Framework for Disaster Risk Reduction 2015-2030 (UN 2015a) 
+LECTURE 2
+SUBSTANTIALLY INCREASE
+SUBSTANTIALLY REDUCE a. Global disaster mortality b. Number of affected people c. Economic loss in relation to GDP d. Damage to critical infrastructure and service disruption e. Number of countries with national and local 
+DRR strategies by 2020 f. International cooperation to developing countries g. Availability and access to early warning systems and DRR information
+The Sendai Framework aims to guide the multi-hazard management of disaster risk in development at all levels as well as within and across all sectors.
+
+[Page 15]
+Chapter 1: 
+Localizing the Sendai Framework to achieve Resilient Cities and Territories 
+Target E is of particular importance for LRGs. The adoption of this target, which specifically refers to local DRR strategies, pushing national governments to support their elaboration and set up multi-level mechanisms for their coordination, is an important achievement made possible by the work of UCLG and the global constituency of LRGs. This target provides a clear framework for local governments to develop and implement strategies that are acknowledged, supported, and aligned with national and international strategies and programs, and pushes for an enabling policy and governance environment at the national level to do so.
+In order to achieve its targets and expected outcome and goal, the Sendai 
+Framework sets up four priority areas to guide action within and across sectors at local, national, regional and global levels. The priority areas provide guidance for governments and stakeholders at all levels to act, taking into consideration their respective capacities and capabilities in line with national laws and regulations. 
+Fig 4: The Four Priorities of the SFDRR (UN 2015a) 
+Target E: Number of countries with national and local DRR strategies by 2020
+Priority 1
+Understanting disaster risk
+Priority 3
+Investing in disaster risk reduction for resilience
+Priority 2
+Strengthening disaster risk governance to manage disaster risk
+Priority 4
+Enhancing disaster preparedness for effective response and "Build 
+Back Better" in recovery, rehabilitation and reconstruction
+
+[Page 16]
+Chapter 1: 
+Localizing the Sendai Framework to achieve Resilient Cities and Territories 
+Synergies of the Sendai Framework with other Global Agendas in the post COVID-19 era 
+The COVID-19 pandemic has highlighted the importance of taking efficient preventive and risk mitigating measures and building systemic resilience in our cities and territories. It has forced societies around the world to confront engrained inequalities, vulnerabilities, and dependence on certain economic models, showcasing the risk these fractures can have for the whole of society and the stress under which many of our economic, environmental, social, spatial and public health systems currently exist. At the same time, it has invited reflection on alternative models and futures, and how global collaboration, multilevel-governance, political commitment, and science- and evidence-based policy making are crucial to confront the challenges of our era. 
+An effective disaster risk reduction and resilience building strategy can provide significant effects, and goes in fact hand to hand with the wellbeing of communities, protection of the environment, local and regional economic development, and quality of life in cities and territories, indicating that the Sendai Framework has direct linkages to all the other 
+Global Agendas (see Fig 5).
+Fig 5. Linkages of relevant Global Agendas to resilience-based sustainable development 
+Sendai Framework
+March 2015
+Global framework for Disaster 
+Risk Reduction, building on 
+Hyogo Framework for Action and aligned with broader post-2015 development agenda
+Paris Agreement on 
+Climate Change
+December 2015
+Developing adaptation and building resilience towards climate change creates synergies, policies, and finance frameworks and mechanisms towards DRR, adaptation and mitigation
+Decalogue for 
+COVID-19 aftermath
+May 2020
+Reflected and supported by local strategies, practices, and policies that will further support the resilience of cities and regions
+2030 Agenda 
+Sustainable 
+Development 
+September 2015
+25 SDG targets are related to 
+DRR in 10 out of the 
+17 SDGs, target 11 having a direct framework reference to DRR. Localization efforts include support in the reporting and monitoring processes
+New Urban Agenda
+October 2016
+Strengthens the resilience of cities and human settlements, including policies, plans and approaches in line with the 
+Sendai Framework for DRR
+
+[Page 17]
+Chapter 1: 
+Localizing the Sendai Framework to achieve Resilient Cities and Territories 
+The 2030 Agenda for Sustainable Development: 
+Transforming Our World 
+The 2030 Agenda for Sustainable Development and its 17 Sustainable 
+Development Goals (SDGs) have been embraced by local and regional governments since they were adopted in September 2015 in New York. 
+Localization efforts have included support in the reporting and monitoring processes. 
+The overarching recognition of the 2030 Agenda is to harmonize social, economic, and environmental issues into one universal development agenda. Disaster risk reduction and achieving resilient cities and human settlements cut across different aspects of the 2030 Sustainable 
+Development Agenda. There are 25 SDG targets related to DRR in 10 of the 17 SDGs, with target 11.b making direct reference to the DRR framework (UN 2015b).
+The targets set by Agenda 2030 and the Sustainable Developments Goals could be seen as stemming from the need to address deficiencies in actual systems that render the cities fragile and undermine their capacities. The current urban stresses indeed act as these targets’ hidden and unwanted reflections in terms of risk (UN-Habitat/CRGP 2020). Several actions taken to achieve various SDGs at the local and regional levels, ranging from gender equality and empowerment to poverty reduction, or securing access to water or sanitation and health services, minimize stresses and enhance the resilience of cities, regions, and communities.
+The Paris Agreement on Climate Change 
+The central aim of the Paris Agreement on Climate Change (CC) adopted in Paris, in December 2015 is to strengthen the global response to the threat of climate change, in the context of resilience-based sustainable development and efforts to eradicate poverty. Climate change is expected not only to affect the intensity and the frequency of extreme climatological and hydro-meteorological events, but also to “amplify existing risks and create new risks for natural and human systems,” that result from “the interaction of climate-related hazards (including hazardous events and trends) with the vulnerability and exposure of human and natural systems, including their ability to adapt” (IPCC 2014). As such, developing adaptation and building resilience to climate change is directly related to localizing the Sendai Framework, opening the possibility for synergies, policy and finance frameworks, and mechanisms that respond and facilitate action towards DRR, adaptation, and mitigation.
+The New Urban Agenda 
+The vision of the New Urban Agenda (NUA), adopted in Quito, Ecuador in October 2016, is to ensure just, safe, healthy, accessible, affordable, resilient, and sustainable cities and human settlements to foster prosperity and quality of life for all by 2030. Implementing the NUA can help 
+An effective disaster risk reduction and resilience building strategy can provide significant effects, and goes hand to hand with the well-being of communities, protection of the environment, economic development, and quality of life in cities and territories.
+
+[Page 18]
+Chapter 1: 
+Localizing the Sendai Framework to achieve Resilient Cities and Territories societies achieve the 2030 Agenda as adopting its targets and principles can accelerate the realization of the SDGs in cities and territories.
+The New Urban Agenda has several links with the Sendai Framework as it recognizes that “urban centers worldwide, especially in countries of the global south, often have characteristics that make them and their inhabitants especially vulnerable to the adverse impacts of climate change and other natural and human-made hazards” (UN 2016). Among others, the NUA envisions cities and human settlements that “[a]dopt and implement disaster risk reduction and management, reduce vulnerability, build resilience and responsiveness to natural and human-made hazards and foster mitigation of and adaptation to climate change” (UN 
+2016). Furthermore, the NUA commits to strengthening the resilience of cities and human settlements, including through the policies, plans, and approaches in line with the Sendai Framework for DRR. 
+Fig 6. Actions for Resilience and NUA (UN-HABITAT/CRGP 2018)
+The Decalogue of UCLG for the COVID-19 aftermath 
+Building systemic resilience will be even more critical to achieve the implementation of global agendas at the local level in the post COVID-19 era. The UCLG Decalogue for the post COVID-19 era provides a map for the years to come as the world continues to be shaped and affected by the outbreak. The Decalogue is inspired from the lessons learned from its membership during the live learning experience exchanges that were held during the pandemic. Its recommendations acknowledge the universal agendas, and in particular the SDGs, as valuable frameworks to transform our society towards a more sustainable future.
+The COVID-19 pandemic changed the view of development and can become a catalyzer for the transformations needed for the resilient development of cities and territories. The crisis highlighted the interVideo youtube.com/ watch?v=2f6xEM8PE9o
+ACTIONS FOR 
+RESILIENCE
+Local implementation
+• Identify implementable actions
+• Identify barriers to sustainable urban development
+Financing urbanization
+• Strengthen municipal finance
+• Increase creditworthiness
+• Identify PPP investment
+National urban planning
+• Multi-stakeholder decision making
+• Align actions with SDG indicators
+Rules and regulation
+• Integrated with existing legal frameworks
+• Created monitoring strategy
+Planning and design
+• Thematic strategies
+• Resilience-based planning
+ARTICULATION WITH 
+THE NEW URBAN AGENDA
+
+[Page 19]
+Chapter 1: 
+Localizing the Sendai Framework to achieve Resilient Cities and Territories dependences of markets and global movement and acknowledged the territorial capacity of production and consumption, solidarity, and public service provision as more relevant for survival. The implementation of the Decalogue is ongoing in numerous local and regional governments and will be reflected and supported by local strategies, practices, and policies, that will increase the resilience of cities and regions.
+Fig 7. The UCLG Decalogue for the COVID-19 Aftermath
+Resources  Sendai Framework at a Glance  UCLG, 2015. The Sustainable Development Goals. What local governments need to know  The New Urban Agenda Platform  UCLG Decalogue for the COVID-19 aftermath
+Exercise: Resilience & the SDGs 
+This exercise is an extension of the Risk & Resilience exercise. It should be done in the same groups. 
+1. Give out a copy of the handouts to each group. 
+2. Invite participants to analyze from a sustainable development approach the results of the second part of the Risk & Resilience exercise. The objective is to identify which SDGs and targets can help to solve or relieve the shocks and stresses, or hazards and vulnerabilities, defined in the previous exercise. 
+Follow up each group’s discussion, providing elements of reflection, such as inviting them to look at other SDGs not directly related to the risk factors they had defined, but which might contribute to a more resilient city.
+3. If you have time, invite groups to share their findings and reflections with the rest of the room. 
+EXERCISE
+20-30 min
+Resilience & the 
+SDGs: The Goals
+Resilience & the 
+SDGs: Stresses & 
+Stressors
+Resilience & the 
+SDGs: Analysis Chart
+Provide elements of reflection
+
+[Page 20]
+Chapter 1: 
+Localizing the Sendai Framework to achieve Resilient Cities and Territories 
+Localizing the Sendai Framework in Cities and 
+Territories
+This lecture examines what localization of the Sendai Framework means for local and regional governments, and how its implementation at the local level goes beyond DRR with resilience building intrinsically integrated into sustainable development. It also presents 
+Making Cities Resilient Campaign as an initiative that supports local and regional governments in the localization of the Sendai Framework and resilience building in their cities and territories. 
+Localization of the Sendai Framework 
+The achievement of the Global Agendas, including that of the Sendai 
+Framework, relies on local level action, especially in urban areas where majority of the world’s population live. Understanding the importance of local level action, the Sendai Framework gives particular attention to the role of local and regional governments and calls for the “[e]mpowerment of local authorities and communities through resources, incentives and decision-making responsibilities as appropriate” (UN 2015a). 
+In addition, the Framework provides action points for local levels in all its priorities of action; and Target E calls on to “substantially increase the number of countries with local DRR Strategies” (UN 2015a).
+In order to localize the Global Agendas successfully, all targets and indicators need to be adapted, implemented and monitored at the local and regional level. During the UN World Conference in Sendai where nation states adopted SFDRR, local and regional governments committed to adopting local DRR strategies and plans, targets, indicators, and timeframes as outlined in the Sendai Declaration of Local and Subnational 
+Governments.2
+On the other hand, localization is not limited solely to the process of implementing Global Agendas in cities and regions. It is a bidirectional dialogue to make global agendas responsive to local realities, and to make local policies globally relevant. Taking this into consideration, the localization of the Sendai Framework refers to:
+• 
+How local and regional governments can support the achievement of the SFDRR at national level by means of action carried out from the bottom up and;
+• 
+How the Sendai Framework can provide a framework, tools, indicators and actions that can reduce risk and build resilience at the local and regional level and trigger synergies with the localization of the 
+SDGs.
+2. ICLEI & UCLG, 2015. Sendai 
+Declaration of Local and Subnational 
+Governments “Ensuring Enhanced 
+Resilience to Disasters in the Urban 
+World”.
+LECTURE 3
+The Sendai Framework calls for the empowerment of local authorities and communities through resources, incentives and decisionmaking responsibilities as appropriate.
+
+[Page 21]
+Chapter 1: 
+Localizing the Sendai Framework to achieve Resilient Cities and Territories 
+Making Cities Resilient 2030 
+There are several initiatives to support local and regional governments for the localization of the Sendai Framework. These initiatives increase awareness to risk reduction and resilience building and provide tools and capacity building for the development of Local DRR Strategies and hence fulfill the achievement of Target E. Among these initiatives is the 
+Making Cities Resilient Campaign (MCR), which was initially launched in 2010 by UNISDR, together with other partners including the global constituency of local and regional governments. 
+Since its launch, UCLG has been a key partner of the Campaign, mobilizing many cities, mainly through associations, to join the Campaign and take advantage of its tools and capacity building mechanisms. 
+For example, the Association of Chilean Municipalities (ACHM) alone have motivated around 120 local governments to join the campaign and helped them build their capacities towards the resilience agenda. The regional section UCLG Asia Pacific (ASPAC) also raised awareness and campaigned with cities and local and regional government associations in the region, as well within the world organization. 
+Fig 8. The New Ten Essentials for Making Cities Resilient (UNISDR 2017b)
+ACTION
+PLAN
+RESILIENCE 
+STRATEGY
+CITY
+PLAN
+CORPORATE/ CITY GOVERNANCE
+INTEGRATED PLANNING
+RESPONSE PLANNING
+1. Organize for disaster resilience 
+2. Identify, understand and use current and future risk scenarios
+3. Strengthen financial capacity for resilience
+4. Pursue resilient urban development and design
+5. Safeguard natural buffers to enhance the protective functions offered by natural ecosystems
+6. Strengthen institutional capacity for resilience 
+7. Understand and strengthen societal capacity for resilience 
+8. Increase infrastructure resilience 
+9. Ensure effective preparedness and disaster response 
+10. Expedite recovery and build back better 
+UCLG has been a key partner of the Campaign, mobilizing many cities, mainly through associations, to join the Campaign and take advantage of its tools and capacity building mechanisms.
+
+[Page 22]
+The MCR Campaign provides key tools to support of the implementation of the Sendai Framework at local level. The “Ten Essentials for Making 
+Cities Resilient” provide clear guidance as building blocks for risk reduction at the local level. In addition, the “Disaster Resilience Scorecard for 
+Cities” gives a framework of local level indicators for cities to do their own assessment. The Scorecard has been further updated with a Public 
+Health addendum in response to the COVID-19 crisis. UN-Habitat’s “City 
+Resilience Profiling Tool” (CRPT) is also included in the MCR campaign as another tool for building urban resilience. These tools are further elaborated in Chapter II of this module.
+As of the writing of this volume, over 4000 cities have joined the 
+Campaign, which is entering a new phase (MCR2030) looking towards the implementation decade of the 2030 Global Agendas. This Learning 
+Module on the Localization of the Sendai Framework is one of the contributions of UCLG to move from awareness raising into implementation, building the capacity of LRGs and their associations to undertake actions that build the resilience of their cities and territories while continuing to contribute to the SDGs and other global agendas. 
+Final Reflection: Resilience of local territories and the global agenda 
+If you want participants to reflect on their current situation and the potential of the global agenda you can address some questions to close the chapter 1. 
+1. Global Agenda and trends: In view of the latest disaster participants have felt, how informative and helpful are global agendas? Is the Sendai Framework well embedded into other global agendas? 
+2. Resilient development: Can crises become opportunities for change, in which direction? 
+3. What would be a key message for a campaign to promote resilience and DRR in your territory? 
+Resources  ICLEI & UCLG, 2015. Sendai Declaration of Local and Subnational 
+Governments “Ensuring Enhanced Resilience to Disasters in the Urban 
+World”.
+ UNISDR 2017. How to Make Cities More Resilient: A Handbook for Local 
+Government Leaders  Making Cities Resilient 2030 Campaign  UN-HABITAT / CRGP. 2018. City Resilience Profiling Tool Guide
+Chapter 1: 
+Localizing the Sendai Framework to achieve Resilient Cities and Territories
+
+[Page 23]
+Chapter 2: 
+Fundamentals of Resilience Building and DRR for LRGs
+Chapter 2: Fundamentals of 
+Resilience Building and DRR for 
+LRGs
+This chapter will examine the fundamental elements of building resilient cities and territories effectively. To this effect, it is organized around three of the four priority lines for actions of the SFDRR, with lectures focusing on multi-level and multi-stakeholder disaster risk governance, risk and resilience assessment, financing mechanisms for resilience, and DRR policies, strategies and action plans. The lectures aim to go beyond disaster risk reduction, providing tools for resilience-based sustainable urban development in line with LRGs ongoing commitment to inclusive, resilient and sustainable communities. The fourth priority line for action, response and Building Back Better, is explored in the second volume of this module. 
+Urban Resilience Principles and the Policy Cycle
+As discussed above, DRR and resilience building should be an integral part of a city or region’s planning towards sustainable development. 
+As such, they can be integrated into the policy cycle, which provides multiple entry points for DRR and resilience action. 
+Fig 9. Entry points for DRR and Resilience building in Policy Cycle
+LECTURE 1
+Prioritizing
+Programming
+Needs assessment
+Assigning resources
+Evaluating
+Executing
+Monitoring
+P
+L
+A
+N
+N
+I
+N
+G
+I
+M
+P
+L
+E
+M
+E
+N
+TI
+N
+G
+PUBLIC POLICY 
+CYCLE
+DRR & Resilience financing
+DRR & Resilience 
+Actions
+Monitoring of risks (stresses & shocks) and vulnerabilities
+DRR & Resilience strategies & actions plans
+Risk & Resilience assessment
+DRR governance mechanism & policies
+
+[Page 24]
+Chapter 2: 
+Fundamentals of Resilience Building and DRR for LRGs
+The SDG Principles for planning discussed in our Localizing the SDGs modules remain equally relevant when integrating DRR and resilience building into development plans and strategies.
+1. Leave no one behind: account for the needs of all, and specially the different vulnerable groups of society, which might include people with disabilities, minorities, children, or women. The focus on inclusiveness from a DRR and resilience perspective underscores the need to address patterns of exclusion and reduce inequalities, including territorial ones, which otherwise can expose and reinforce underlying stresses and shocks. 
+2. Integrated nature: Resilience is not a condition but a transforming and evolving state, responsive to current and future circumstances and trends. As such, DRR and resilience building need to take into account local planning, mobility, climate, culture, economy, health, security, technology, gender, social needs, and other issues and needs in a multi-dimensional approach, recognizing the interconnectedness and interdependencies between the different systems.
+3. Partnership-based approach: DRR and resilience building require alliances with local stakeholders (citizenship, academia, private companies, associations, international organizations, etc.) by promoting inclusiveness, comprehensive and meaningful participation which ensures a sense of ownership and responsibility towards the implementation of plans and actions. 
+4. Multilevel governance: Clear division of responsibilities, and appropriate competences and resources among different levels of government are critical for DRR and resilience building. Alliances, coordination and joint work with other levels of government and neighboring territories are equally important.
+5. Accountability: Approaches to resilience should ensure that efforts to reduce risk and alleviate certain vulnerabilities do not generate others. Monitoring and evaluation mechanisms, as well as transparent reporting and clear communication towards stakeholders reinforces trust and facilitates action.
+Just like the SDGs, DRR and resilience building require good governance mechanisms through an enabling institutional environment, coordination mechanisms, and multi-stakeholder partnerships supported with financial resources. It also needs adequate technical and knowledge-based capacity in order to undertake multi-hazard risk assessments and understand systemic and contextual risk and develop appropriate DRR and resilience building strategies and action plans. 
+These enabling institutional, technical, and financial conditions are discussed in the following lectures.
+DRR and resilience building require good governance mechanisms through an enabling institutional environment, coordination mechanisms, and multistakeholder partnerships supported with financial resources. 
+For further information on categories of vulnerable populations, please see UN-Habitat / CRGP. 2019. Social 
+Resilience Guide
+
+[Page 25]
+Chapter 2: 
+Fundamentals of Resilience Building and DRR for LRGs
+Disaster Risk & Resilience Governance 
+This lecture will discuss the quintessential part of risk reduction and resilience building at the local level: disaster risk governance. The lecture will start by discussing why it is important to have a strong ‘risk governance’, with an enabling institutional environment and coordination mechanisms for DRR and resilience at the local level. The discussion will include the challenges and opportunities of achieving strong risk governance, including showcasing the importance of multilevel and multi-stakeholder involvement. The lecture includes examples of organization and coordination in several cities. 
+Disaster Risk Governance 
+Creating an enabling environment and having an effective disaster risk governance for the coordination of DRR and resilience building activities are key for achieving sustainable, resilient, and inclusive development. 
+A strong governance system is characterized by laws and policies, institution and coordination mechanisms, strong leadership, clear roles and responsibility, resources, monitoring and accountability that is set up across all sectors, all actors, and at all levels.
+While an enabling institutional environment with authorities and capacities, and clear coordination systems are a must, disaster risk governance also requires broad participation across sectors and institutions. These include different governmental organizations and sectors, private sector, academic and research organizations, and civil society organizations. Local risk governance that brings forth stakeholder participation across different governmental levels and agencies (vertical governance), as well as amongst different sectors and networks of the society (horizontal governance) and incorporates formal and informal urban contexts is conducive to the success of local-level DRR action (Gencer 2019a). 
+In addition to multi-stakeholder partnerships at the local level, the 
+Sendai Framework, just like the SDGs, has also stressed the importance of the role of international cooperation and global partnership. The exchange of practices, tools, and expertise among cities and partners within an expanding network provides a broader knowledge base to support the resilience building process. Local Government Associations and networks like UCLG and ICLEI, have a critical role to play in strengthening capacity of cities and territories and facilitating international cooperation. 
+Challenges 
+Many local and regional governments have strong leadership and coordination mechanisms to undertake DRR actions. On the other hand, they 
+LECTURE 2
+Risk governance should bring forth stakeholder participation across different governmental levels (vertical governance), as well as amongst different sectors of society (horizontal governance).
+
+[Page 26]
+Chapter 2: 
+Fundamentals of Resilience Building and DRR for LRGs still need necessary authorities and resources to execute their responsibilities. The provision of clear mandates regarding DRR and decentralization of powers among national and local authorities remains limited (Gencer 2019a). Crises are often being used for re-centralizing power, starting with communications, all the way through delivery and regulation. 
+In a study undertaken by UNDRR and CUDRR+R (2017) among 151 cities and local authorities, it was found that most local governments have limited authority and capacities to undertake DRR actions. In this study, only 46.7% of the surveyed local governments were found to have full authority and capacities to undertake DRR actions; whereas 39.7% had partial powers (limited or distributed among other institutions), and 13.5% of the local governments did not have any powers to undertake them. 
+Fig 10. Local Governments’ Authorities, Capacities and Responsibilities for DRR (UNISDR and CUDRR+R 2017). 
+While shared responsibilities for DRR and coordination between the national and subnational levels are often common, lack of adequate local powers is still an issue, particularly in small nations “where authority to intervene mostly lies at the national level” leading to gaps in understanding city needs (Gencer et. al. 2018). 
+Vertical integration and multi-level governance in DRR are essential for building resilience. Often decentralization favors an enabling environment regarding disaster risk management. However, it must be accompanied by fiscal decentralization and technical support from national authorities. Lack of coordination among multiple layers of government and horizontal agencies and sectors can lead to inefficient use of time and resources and lead to incoherent strategies. 
+Responsible to carry out this action
+Own or operate assets or services
+Authority to access or build data
+Adequate and capable technical staff
+Legal authority to undertake DRR action
+Authority to develop plans, policies, ...
+Authority to develop partnerships
+Authority to develop and control budget
+60%
+50%
+40%
+30%
+20%
+10% 0%
+Lack of coordination among multiple layers of government and horizontal agencies and sectors can lead to inefficient use of time and resources and lead to incoherent strategies.
+
+[Page 27]
+Chapter 2: 
+Fundamentals of Resilience Building and DRR for LRGs
+Emergency Governance lessons from LRGs’ response to COVID-19 
+The response to the COVID-19 pandemic provides a very good case of analysis and learning in regards to emergency governance practices. UCLG, Metropolis and the London School of Economics, LSE, have launched a series of analytic notes and policy briefs based on the Live Learning Experiences hosted by 
+UCLG, Metropolis, and UN-Habitat. 
+The first policy brief highlights emergency governance innovations on trial over the past months in four Metropolitan cities: Barcelona (stakeholder engagement), Bogotá (communication), Gauteng (multi-level governance) and Seoul (big data and technology). The brief draws lessons ranging from cooperation and collaboration across stakeholders, information technology and data management, responsiveness and effectiveness, and administrative capacity and organisational resilience. Additional innovation and insights laid in sectors like finance, resources, gender, governance, and legal frameworks.
+The first profile highlights the Barcelona Deal, launched by the municipality, which developed a collective strategic plan to guide the economic recovery and municipal budget for the next 18 months. Its success lays on the consensus across a wide variety of city stakeholders, and its co-creative, participatory, and inclusive process. The stakeholders included deputy mayors, representatives of all seven political parties in the city council, and more than 200 actors from economic, social, cultural, educational, and scientific sectors and were managed through five thematic working groups.
+The second profile focuses on Bogota’s communication strategy between the city government and the public which aimed to increase awareness and individual responsibility towards the new measures. The strategy consisted on a “lockdown drill” to prepare for the implications, surveys and interviews to understand people’s behaviour, regular updates on the situation through a web portal and the Mayor hosting regular online sessions taking on board citizens’ feedback about new measures. By adopting a communications approach that is embedded in ideals of honesty, transparency and accountability, the city government invested in its relationship with citizens, seeking to strengthen mutual trust and a sense of co-responsibility.
+The third profile features Gauteng, South Africa with a new operational model for multi-level emergency governance. The basic foundations for the emergence of coordination mechanisms and vertical reporting structures had been in place prior to the outbreak through the Disaster Management 
+Act of 2002.Therefore, the new model addresses the challenge of coordinating the emergency response across a heavily decentralised system of governance and provides clear strategic leadership at the provincial level through the establishment of institutional systems and multi-level reporting structures. Additionally, a data-driven approach and ward-based response to decision-making enabled strategic responses to be appropriately tailored to local needs. 
+To read full policy brief, visit the 
+Emergency Governance Initiative for 
+Cities & Regions
+
+[Page 28]
+Chapter 2: 
+Fundamentals of Resilience Building and DRR for LRGs
+What can LRGs do? 
+Multi-level coordination in cities and territories support DRR and resilience building from the ground, but requires systems-level thinking as well as new approaches, tools, and partnerships. While coordination for DRR and resilience building at the local level is essential for the success of disaster risk governance and implementation of the 
+Sendai Framework, it cannot be a one size fits approach. Indeed, local authorities take different approaches in developing multi-stakeholder and global partnerships and coordinate to develop an effective risk governance and build resilience in their cities and territories. While capacities are sometimes limited at local levels, many local authorities enhance capacities by tapping into the resources of the private sector, academic and research organizations, as well as civil society organizations. 
+Below are some examples on how cities organize and coordinate for 
+DRR and resilience. 
+Regional planning and multi-level governance in Santa Fe, Argentina 
+The Santa Fe province in Argentina is characterized by its wealth of natural resources and immense cultural diversity. However, due to its sustained population growth, absence of proper territorial planning, and inadequate regulatory instruments in the late 20th century, urban sprawl in its territory has led to segregation, land tenure informality and irregularity. Since 2008, the province has worked to foster a radical transformation of its governance mechanisms to improve its resilience, based on regionalization, administrative decentralization, strategic planning as a collective decision-making tool, and citizens’ participation to foster plural dialogs in horizontal and democratic public spaces. 
+ARGENTINA
+Santa Fe
+Lastly, the fourth profile emphasizes on Seoul, South Korea deploying big data and technology to avoid a mass COVID-19 outbreak. The Seoul Metropolitan 
+Government (SMG) mobilised internal resources and technological capacities to develop a rapid and transparent contact tracing strategy. The Seoul 
+Smart City Platform (SSCP) became the central dashboard. This allowed the 
+SMG to analyse data near real-time, inform and coordinate emergency strategies across government departments, and inform the public about current risks across the city. The success of the strategy lies in a combination of big data analysis, swiftly pivoting existing mechanisms, public participation and engagement, and institutional flexibility and absence of excessive bureaucracy.
+
+[Page 29]
+Chapter 2: 
+Fundamentals of Resilience Building and DRR for LRGs
+Multi-level Governance 
+Setting an institutional regulatory framework for land use was essential for local development. The Provincial Strategic Plan - Vision 2030, is a clear example of the coordination between different levels of the State and the need to consolidate strategic planning as “Five regions, one province”. It identified diversities, acknowledged peculiarities, gave new value to the undeniable dialog between the community and the environment, and established a new intermediate level of belonging and intervention for the 51 municipalities and 
+312 communes in the province. 
+Finally, increasing capabilities, raising the bar, and giving the proper place to the role of the local technical teams in territorial and urban planning became fundamental factors. The goal is to promote their leadership in implementing the decisions that progressively move the city to a more sustainable and resilient destination.
+Box 1. Source: Regional Planning Based on Intermediate Cities.Peer learning in the province of Santa Fe, Argentina. UCLG 2017.
+Disaster Risk Governance and Coordination in Makati, Philippines 
+Philippines Disaster Risk Reduction and Management Act of 2010 (DRMM 
+Act) mandates the institutionalization of the DRR and Management System at the local level through the establishment of a DRR and Management Office (DRRMO). It provides for the reorganization of the Disaster Coordinating 
+Councils (DCC), known as the DRRM Council (DRRMC). 
+PHILIPPINES
+Makati
+Population
+Connectivity
+Prospective Vision
+TO DEVELOPING
+TO QUALITY
+TO ENHANCE
+Strengthening 
+North-South integration
+Interprovincial connectivity
+Transversal flows connectivity
+Waterway
+More than 200,000 inhabitants
+1st category municipalities
+From 10,000 to 200,000 inhabitants
+2nd category municipalities
+To 10,000 inhabitants
+Communes
+Routes
+Railway
+Highways
+Interprovincial connection
+
+[Page 30]
+Chapter 2: 
+Fundamentals of Resilience Building and DRR for LRGs
+As the main coordinating body and secretariat of the DRMMC, the Makati DRMMO is responsible for organizing and setting the direction of the city’s DRRM initiatives. At the community level, all of the city’s 33 barangays (smallest administrative unit in the Philippines) have established their respective barangay DRRM committees. Through the Makati DRMMC and the barangay DRMM committees, relevant laws and policies are enacted to provide legal basis for mainstreaming 
+DRR in local development plans and budget. 
+However, the Makati DRMMC was made as multi-sectoral as possible. The Makati 
+DRMMC is comprised of representatives from the city and the Philippines Red 
+Cross – Makati, civil society organizations (CSOs), faith-based organizations, professional associations, academia and the private sector. 
+Box 2. Source: UNISDR and CUDRR+r 2017 and UNDRR 2019b. Diagram:Makati DRRM 
+Structure and Partners (Courtesy of Makati City). 
+Final Reflection: Analyzing DRR & Resilience Governance 
+Use the following questions to discuss with participants the challenges and opportunities in multi-level governance for resilience and DRR.
+1. Institutional environment: Is there a clear point of coordination for DRR and resilience building in your city/territory? Does the city or region have the necessary institutional environment (relevant authority, resources, and policies)?
+Regional DRRM Council
+Makati DRRM Council
+Makati DRRM Office
+Barangay DRRM Council
+Neighborhood associations, women’s groups, others
+• 
+Urban Development Dept.
+• 
+Makati Social Welfare Dept.
+• 
+Other City Office/Depts.
+• 
+National Government Agencies
+• 
+Local Red Cross Chapter
+• 
+Civil Society Organization
+• 
+Faith-based Organization
+• 
+Academic/Professional 
+Organizations
+• 
+Private Sector
+National DRRM Council
+International 
+Agencies
+International 
+NGOs
+National Red 
+Cross 
+Volunteer networks
+Consultants and other external partners/ stakeholders
+
+[Page 31]
+Chapter 2: 
+Fundamentals of Resilience Building and DRR for LRGs
+2. Internal Coordination: Who are the stakeholders and departments that are engaged with risk reduction and resilience building, in your city? Define responsibilities of local agencies for various aspects of disaster resilience within the city, and ensure that processes are in place to strengthen and share the knowledge and skills among the stakeholders involved in DRR and resilience.
+3. Multi-level Governance: How does vertical governance (between local/regional level and the national level) function around DRR and resilience? What lines of communication and coordination exist? Is the LRG Association involved? 
+4. Engaging the community: How are different sectors and stakeholders such as civil society organizations, the private sector, academia, faith groups, and others engaged in DRR and resilience governance? Are there processes in place to facilitate top-down and bottom-up communication that strengthens the knowledge and awareness of the general public?
+Resources  UCLG. 2018. Local and Regional Disaster Risk Reduction: Peer Learning about localization of the Sendai Framework for Disaster Risk Reduction 
+2015-2030. Peer Learning #24. Surabaya, September 2018  UCLG, Metropolis & LSE Cities, 2020. Policy Brief #01 Emergency 
+Governance For Cities And Regions. Emergency Governance Initiative  UNISDR and Center for Urban Disaster Risk Reduction and Resilience (CUDRR+R). 2017. Local Government Powers for Disaster Risk Reduction. 
+UNISDR: Geneva
+Dynamic: Governance After a Disaster
+This dynamic aims to invite a reflection among participants on the capacity and needs of local governments immediately after a disaster. 
+For this purpose, you will find in the handout for this dynamic a description of a city hit by a shock. It details the impact it has had in the city and its inhabitants, and invites participants to analyze the situation from the perspective of a local public officer.
+Most of the impact assessments that are done after a disaster occurs refer to measuring the losses, whether these are physical, economic, social, or losses of lives. The local government as a system of people, tasks, and places may be severely affected in its functionality too, including through losses of staff, buildings, or changes in the working conditions. Usual working structures may change, and unexpected capacity may be either blocked or set free in several ways. 
+DYNAMIC
+30-45 min
+Divide participants in 
+3 groups
+Governance After a 
+Disaster
+
+[Page 32]
+Chapter 1: The role
+The dynamic follows these steps: 
+1. Share the situation of the city with all participants. 
+2. Divide participants in three groups for them to discuss what they would do in the situation described, with each group focusing on one of the following issues:
+• 
+What needs to be done? Discuss the most crucial tasks that the local team needs to do, and evaluate the capacity and needs of the local government 
+• 
+Who can help? Discuss the different stakeholders engaged in disaster response, and the multilevel governance processes and actions that might occur. 
+• 
+What do I need? Discuss the human dimension of the local administration, analyzing what actions can help workers confront their personal and work demands after a disaster.
+3. Invite each group to present their conclusions. Invite the other groups to find synergies and new ideas that connect their question with the other questions being presented. For example, if the first group (What needs to be done?) has not referred to the emotional state of public workers, the last group (What do I need?) can provide ideas of how this can be done. This final discussion will help shape a global vision of the situation, and understand the different perspectives at play when responding to a disaster. 
+As part of the dynamic, make sure participants touch upon the following impacts a disaster may have in its governance systems:
+• 
+Physically, as offices may not work, connections break down, delivery systems may be interrupted 
+• 
+Human capacity may be affected by shocks and trauma of relatives, at the same time the request of community overwhelming 
+• 
+Emotional capacity and leadership be unfold in crises situation, as local leaders are available, tangible and wanting to help out 
+• 
+Financial capacity, as priorities for financial support change , and also new opportunities arise 
+• 
+Governance: the emergency may require immediate policy to be set up or set out. Law enforcement or regulations may be perceived as hurdles for response 
+• 
+Management: other spheres of government can support, but entrance point (when national government can start to assist), as well as exit strategy (for example military and health support for the first emergency are handed over once programs are in place...
+DYNAMIC
+30-45 min
+Divide participants in 
+3 groups
+Governance After a 
+Disaster
+
+[Page 33]
+Chapter 2: 
+Fundamentals of Resilience Building and DRR for LRGs
+Assessing Risk and Resilience 
+This lecture will examine how to identify gaps, needs, and risks and undertake prioritizing through risk and resilience assessments. 
+Resilience assessments provide a baseline analysis for the development of DRR and resilience strategies. At the same time, they help local and regional authorities identify their state of resilience helping them monitor progress during the implementation of actions. Risk assessments on the other hand, while can vary between qualitative or quantitative assessments, can provide site-specific assessments with numerical and dynamic modeling that can be geo-referenced and provide high-resolution risk information that can support the estimation of losses and development of DRR strategies. 
+Resilience Assessments 
+This section will examine two resilience assessment tools, the Disaster 
+Resilience Scorecard and the City Resilience Profiling Tool, and present how LRGs have been using them to understand the state of resilience in their cities, helping them develop DRR and Resilience Strategies and 
+Action Plans.
+Disaster Resilience Scorecard for Cities 
+UNDRR’s Disaster Resilience Scorecard provides a set of assessments that allow local governments to assess their disaster resilience, structuring around the Ten Essentials for Making Cities Resilient. It also helps to monitor and review progress and challenges in the implementation of the Sendai Framework and supports the baseline analysis for preparation of the disaster risk reduction and resilience strategies.
+Using the Disaster Resilience Scorecard includes conducting an internal and external analysis of the city-wide situation, analyzing the key actors and stakeholders, resources and capacities for DRR and resilience building. Using stakeholder consultations and workshops and through the bi-dialogue of the localization process, the Disaster Resilience 
+Scorecard assessment leads to the development of mechanisms that integrate risks and their impacts as a decision-making tool across all city departments for their planning and strengthening processes. 
+The Scorecard offers the potential for analyzing resilience and scoring at two levels:
+• Level 1: Preliminary level responding to key Sendai Framework targets and indicators, and with some critical sub-questions. This approach is suggested for use in a 1 to 2-day city multi-stakeholder workshop. In total there are 47 questions/ indicators.
+UNDRR's Disaster Resilience is org/campaign/resilientcities/ toolkit/article/disaster-resiliencescorecard-for-cities
+LECTURE 3
+The Scorecard can expose the gaps that may exist but may have been overlooked, and hidden conflicts and assumptions that could destabilize an administration.
+
+[Page 34]
+Chapter 2: 
+Fundamentals of Resilience Building and DRR for LRGs
+• Level 2: Detailed assessment. This approach is a multi-stakeholder exercise that may take 1 –4 months and can be a basis for a detailed city resilience action plan. The detailed assessment includes 117 indicator criteria.
+While the Scorecard can be used as a stand-alone tool, it does require cities to consider hazards and risks. Specifically, the Scorecard prompts cities to identify “most probable” and “most severe” risk scenarios for each of the identified city hazards or for a potential multi-hazard event.
+The biggest single contribution that the Scorecard can make is exposing the gaps that may exist but may have been overlooked, the conflicts hidden in assumptions, and plans that could derail a response to a disaster. This is made possible in the context of collaboration and multi-stakeholder dialogue. Implementing the Scorecard allows cities to develop prioritized actions to improve resilience. 
+Resilience Strategy Development in Greater Manchester, U.K.
+One of the first steps in developing a resilience strategy is to conduct an assessment of the city’s present state of resilience. This serves as a basis for setting priorities and targets for the creation of a resilience strategy and implementation plan. It can help to identify gaps in the city’s understanding of its resilience and areas to explore further as the resilience strategy is developed. This assessment should also provide an analysis of the shocks and chronic pressures that a city or place faces, as well as a high-level assessment of the impacts those challenges have on various parts of the society, economy, and the environment.
+Greater Manchester joined the Making Cities Resilient Campaign in 2014. 
+Using a robust self-assessment tool led to the development of a resilience strategy in Greater Manchester and an associated action plan. Using the Disaster Resilience Scorecard and then further developing it with 
+100RC (Rockfeller Foundation’s) City Resilience Framework have offered the metropolitan region an opportunity to develop a comprehensive, evidence-based, baseline of its current resilience. Developing this resilience assessment required a cross-sector, multi-stakeholder approach that included the organizations that prepare for and respond to disasters, such as first responders, together with a wide range of stakeholders that address the longer-term pressures affecting the city-region. 
+This multi-stakeholder collaboration reflected the understanding that resilience is not only about the capacity to navigate one-time shocks, but also how the city addresses the chronic stresses that weaken a city’s fabric and which can undermine attempts to respond to crises. Long-term pressures such as income and health inequality, ageing infrastructure and the effects of climate change can slowly reduce living standards and quality for life for everyone, creating a disaster in their own right. By looking at these complex challenges Greater Manchester found opportunities for: 
+ENGLAND
+Manchester
+
+[Page 35]
+Chapter 2: 
+Fundamentals of Resilience Building and DRR for LRGs
+• 
+Understanding cascading impacts of risks 
+• 
+Closer collaboration in exploring the development of innovative adaptive programmes which can give stakeholders and communities the opportunity to think differently about the way in which Greater 
+Manchester should and could work.
+Box 3. Source: Greater Manchester Combined Authority. April 2018.
+City Resilience Profiling Tool 
+UN-Habitat partners with local governments to implement the City 
+Resilience Profiling Tool (CRPT), a process developed with local governments, and shaped by UN-Habitat’s expertise in urban issues, to gather and analyse data about a city’s specific context and performance. 
+The City Resilience Profiling Tool view cities in a holistic manner, identify weaknesses, vulnerabilities, and strengths with metrics and using a diagnostic methodology to determine shocks and stresses leading to the development of strategies and prioritized actions. Preliminary results of 
+Actions for Resilience are shared with the stakeholders in a workshop setting in order to have a bi-directional dialogue and have a common consensus that will lead to prioritized actions. 
+The CRPT can be implemented in all cities, regardless of their size, culture, location, economy, and/or political environment. UN-Habitat developed the urban system methodology as a model through which 
+Fig 11. CRPT Methodology and steps (UN-Habitat / CRGP. 2018)
+For more information on the CRPT: http://urbanresiliencehub.org/wpcontent/uploads/2018/02/CRPTGuide.pdf
+Actions
+Diagnosis
+Analysis
+Data
+SET 1
+City ID
+SET 4
+Urban elements
+SET 2
+Local government and stakeholders
+SET 3
+Shocks, stresses and challenges
+WHO?
+WHAT?
+WHY?
+HOW?
+Policies, plans and initiatives
+ACTIONS FOR RESILIENCE
+Current scenario
+Trend scenario
+Trend scenario
+The City Resilience Profiling 
+Tool works on urban systems, considering five critical dimensions: Spatial; 
+Organizational; Physical; 
+Functional; and Time.
+
+[Page 36]
+Chapter 2: 
+Fundamentals of Resilience Building and DRR for LRGs a comprehensive diagnosis of the city can be achieved. The approach and subsequent diagnosis results in an understanding of the interaction, interdependency, and integration of several parts of the different systems as they are exposed to shocks and stresses and compose the city. 
+The urban system approach considers five critical and interdependent dimensions common to all human settlements: 1) Spatial; 2) 
+Organizational; 3) Physical; 4) Functional; and 5) Time. 
+The advantage of this model is that it can be universally applied to any city, all-the while capturing the uniqueness of each city.
+The Integrated and Collaborative Resilient Building Strategy in Maputo 
+Maputo is the largest city in Mozambique and the main financial, corporate, and commercial center of the country. Due to its location, the city is exposed to flooding and cyclones, which is expected to worsen with the increasing effects of climate change. As the city is undergoing a process of rapid urbanization, the local government is challenged to deliver basic services, provide food and improve the city’s infrastructure, which creates increased vulnerabilities and exposure to risk.
+UN-Habitat, with its initiative, the City Resilience Profiling Tool (CRPT), has worked with the Municipality of Maputo to better understand urban hazards and their impacts on inhabitants and functionality through in-depth data collection, resilience analysis, identification of key actors and development of priority actions. Through the metrics provided in 
+CRPT, Maputo has been able to conduct an analysis of its data along a resilience baseline. The result is the city’s own “resilience profile”, which highlights vulnerabilities, risks, data gaps and capacity bottlenecks. In 
+Maputo, initial analysis has indicated that epidemics and pandemics such as malaria, natural hazard risks such as heat-waves, floods, drought and tropical cyclones, and environmental risks such as coastal erosion are the most pressing for the city. 
+Through CRPT, the city has an evidence base to support action and an in-depth understanding of pressure points, stressors and key actors that should drive transformational and sustainable change. By providing robust guidance and assistance in creating a policy to be called Actions for Resilience, the CRPT process is attracting resources and other support to the local government to improve decision-making and to contribute to long-term, resilience-based sustainable urban development. As the data collection, analysis and diagnosis stages take into account ongoing plans, policies and programmes in the city, the resulting Actions for Resilience will be more easily integrated into existing urban development strategies as opposed to an isolated resilience action plan that might not be joined with other initiatives in the city. 
+Box 4. Source: Urbanresiliencehub.org, UN-Habitat 2019a and UNDRR 2019a 
+MOZAMBIQUE
+
+[Page 37]
+Chapter 2: 
+Fundamentals of Resilience Building and DRR for LRGs
+Risk Assessments 
+Risk assessments provide the scientific base for developing DRR strategies and integrating DRR into urban and territorial development. They can provide the quantitative measure of the possible impacts of natural hazards and the impacts of climate change, answer questions about their characteristics (such as frequency and severity), and it can range from probabilistic assessments with uncertainty over current and future risks, to deterministic ones with worse-case scenarios (Dickson et. al. 2012). 
+Risk Assessments should cover multiple hazards to which people are simultaneously exposed, multiple sectors that are vulnerable and exposed to, and multiple scales of which risk is felt and responded to. Following risk assessments, risk evaluation can help prioritize DRR actions taking into account among others, the probability and impact of events, cost-effectiveness of preventative measures, and resource availability (ibid). 
+There are several risk models for undertaking single hazard /risk assessments, such as earthquake risk assessments or flood risk assessments. 
+On the other hand, there is a lack of consolidated risk analysis methodologies and tools, for multi-hazard risk assessment or to model the cascading effects of disasters (such as the cascading effects of natural hazards on technological side events) (UNDRR 2019a). Furthermore, the uncertainties of climate change and the lack of localized data adds to the challenges to properly address risk at the local level.
+What can LRGs do ? 
+One of the main challenges for local authorities to undertake multihazard risk and resilience assessments is the availability of technical capacity, technology, and financial resources. In order to overcome these challenges, local and regional governments can partner at horizontal level with academic centers or the private sector, or at vertical level with other governmental agencies, especially to gain access to data, which may not be locally available. For instance, the City of Karlstad in Sweden collaborates with national and regional authorities to gain access to relevant climate data. In Senegal, local governments are legally responsible to undertake risk analysis, but the national level is obliged to provide support (UNISDR and CUDRR+R 2017). 
+Another challenge that local authorities face is the availability of local data, particularly data that reflects the extent and characteristics of informal settlements.3 Inadequate coordination and lack of stakeholder partnerships can also impede access to existing data or lead to multiple data in incompatible formats making it difficult to share and process (Gencer 2019a). 
+When data and financial resources are limited, local governments can use a tiered risk assessment approach, which can provide preliminary information to start developing DRR and resilience strategies and action 
+A key for local governments is securing and coordinating updated local data, including on informal settlements and climate trends in the territory.
+3. See for instance UN-HABITAT/
+CRGP, 2019b. Upgrading from informality enhancer.
+
+[Page 38]
+Chapter 2: 
+Fundamentals of Resilience Building and DRR for LRGs plans. A tiered risk assessment approach can allow cities to think about risk reduction before all data is collected and georeferenced to display information in a spatial manner with a GIS Framework (ADB 2016). A 
+GIS Framework has many advantages such as ability to add new layers, ability to display multi-hazard assessments, ability to update information and others. However, developing and operating these frameworks require financial and technical capacities (see Fig 12).
+Local governments can enhance their capacities by partnering with the private sector, academic and research organizations, and get support for the collection of data from communities and civil society. For instance, the city of Paraná in Argentina has established consultative and planning mechanisms with residents and community groups along its water basins, allowing it to gain access to data gathered by local environmental groups, assess flood risks with the community, and work with them to identify possible solutions (UCLG 2019b). 
+These participatory approaches act as a mechanism to engage and inform community members and allow local governments to simultaneously change behavior and support community action. For example, the combination of informing community members on the impact of solid waste being dumped into drains and the provision of locally accessibly solid waste processing sites, facilitate a reduction in the severity of flooding. At the broader city level, this allows for a streamlined focus on the larger underlying drivers of risk, including stresses and vulnerable systems. 
+Fig 12. Tiered approach to disaster risk assessment. Source: Asian Development Bank (ADB). 2016. (Courtesy of ADB). 
+Exposure
+Vulnerability
+Hazard
+Coarse assessment based on:
+• community knowlegge
+• national and global database
+• rule of thumb
+• Qualitative assessment based on simple assumptions (e.g., altitude or distance to shoreline for coastal flooding 
+• Qualitative description based on expert judgment and stakeholder feedback 
+• Qualitative description based on risk scenarios
+• Maps
+Risk
+Tier 1 
+Detailed site specific assessment with:
+• long time series of observation data
+• high resolution hazard maps
+• numerical and dynamic modeling 
+Comprenhensive exposure assessment with
+• mapping of individual properties and assets
+• documented attributes of exposed properties and assets
+• georeferences
+Vulnerability assessment with:
+• socioeconomic data
+• biophysical data
+• Building construction data 
+• Detailed and high-resolution risk information
+• Probabilistic risk modeling with estimate of losses
+
+[Page 39]
+Chapter 2: 
+Fundamentals of Resilience Building and DRR for LRGs
+Systematizing Geographical Information for Risk Assessment in Niteroi 
+After decades of using multiple outdated management systems across the government, the City of Niterói, in Brasil needed to increase the efficiency of its municipal management and generate benefits for the community with better infrastructure investments. In order to do this, the city decided to invest in the development of a Geo-infomation Management System, looking for a tool to integrate, manage and coordinate data and actions across different departments. 
+Initiated in 2014, the system is under constant development, and provides open access to the city government’s geoinformation. This includes information about the different public services, land use, projects, businesses, as well as the base geo-information and orthophotos of the city. The system has facilitated the monitoring of data regarding urban mobility, water quality, among other key indicators, which help guide decision making.
+The system has fostered closer coordination among the different departments. It has also simplified plot mapping processes, by connecting to the municipal land registry, with a mobile application which allows city staff to carry out updates directly from the field, upload pictures of buildings and plots, and immediately verify the city’s data base. The system also facilitates the simulation of flooding patterns, the monitoring of forest fire risk, on top of having other uses directly related to risk management and resilience. 
+Box 5. Source: UCLG. 2019b
+Observatory of Urban Resilience of Dakar
+Dakar is one of the largest cities in Africa. Its population growth, driven largely by rural exodus, has been significant, going from a population of 
+400,000 inhabitants in the 1970s, to a metropolitan population of over 2.4 million today. Due to the demands for democracy and new economic and technological challenges, Senegal has opted for full communalization by turning rural communities and districts into municipalities, and raising some former neighborhoods into local authorities, redefining the roles and competences orientations through Law No. 2013-10 of December 28, 
+2013 called “Act III of decentralization”.
+As a large metropolis aiming to promote viable, competitive and resilience-based sustainable development, local governments in the region need to rely on evidence to develop structuring policies and strengthen their capacity, as well as that of their inhabitants, to absorb endogenous and exogenous stresses and shocks. In order to provide this evidence, institutionalize resilience into the region’s governance from a broad perspective, and implement integrative and strategic actions, the Observatory of 
+Urban Resilience of Dakar and its inter-communities (ORUD) was created. 
+BRASIL
+Niteroi
+SENEGAL
+
+[Page 40]
+Chapter 2: 
+Fundamentals of Resilience Building and DRR for LRGs
+ORUD works as a technical steering tool intended for elected officials, managers and technicians in charge of urban development in Dakar, as well as for the academy and private sector. The general mandate of the 
+ORUD is to contribute to greater synergy and efficiency in the design, implementation, control, monitoring and evaluation of resilience-based urban development policies in Dakar with the aim of strengthening resilience capacities of the city and its inhabitants. The main functions would include fostering the vision of a resilient Dakar, raising awareness of issues that are critical to improving resilience in the face of unforeseen events (climatic and other), and coordinating the implementation of the roadmap for the actions proposed as a result of the City Resilience Profile 
+Tool’s implementation in Dakar.
+More specifically, ORUD’s missions are to:
+• 
+Collect, systematize and manage information related to the implementation of policies, initiatives and strategies of urban development carried out in Dakar by local, regional, national and international levels
+• 
+Share and disseminate the information collected using defined indicators affecting the various urban functions;
+• 
+Support the project monitoring and evaluation processes;
+• 
+Promote communication and dissemination of information from the various stakeholders for an efficient implementation of actions / projects for resilience
+• 
+Formulate opinions to the City of Dakar for the institutionalization of resilience in municipal policies;
+• 
+Constitute a framework for reflection for the establishment of an early warning mechanism for the City of Dakar;
+• 
+Provide a common space for interaction and exchange between the different actors involved in the development in Dakar.
+Box 6. Source: UN-Habitat 2019 and UN-Habitat / CRG 2020
+Reflection: Understanding the State of Assessments 
+Use some of the following questions for participants to reflect on their current situation and the potential to undertake a multi-hazard risk and resilience assessment in their city/territory. 
+1. Considering multiple hazards and trends: Does your city/territory have an existing risk assessment of current and future threats, hazards, shocks and stresses to identify city-wide exposure and vulnerability? How often is this assessment being updated? Who is involved?
+2. Socio-economic and cultural dimensions: Does your city/territory have access to socio-economic data such as those from
+
+[Page 41]
+Chapter 2: 
+Fundamentals of Resilience Building and DRR for LRGs census in order to undertake vulnerability assessments? Are you considering cultural and social dimensions in your risk assessment (ex. how have different communities dealt with risk and disasters; what role do traditional or faith groups play)?
+3. Territorial dimension: Does your city/territory have a system in place to identify the territorial dimensions of risks (map where hazards might occur, where exposure and vulnerability are high, where critical man-made or natural infrastructures are located)? 
+What tools (GIS, etc.) could you use to improve collection, coordination, analysis, and access to this data?
+4. Administrative dimension: Does your city’s assessment consider the impact shocks or hazards might have on the local government’s functions, including staff availability, access to resources (data, offices, etc.), bureaucratic processes, local finances, and other elements necessary for the continued provision of key public services?
+Resources  UN-Habitat. City Resilience Profiling Tool  UNDRR. Disaster Resilience Scorecard  UNDRR. Quick Risk Estimation Guide
+
+[Page 42]
+Chapter 2: 
+Fundamentals of Resilience Building and DRR for LRGs
+Financing for DRR and Resilience 
+This lecture focuses on the importance of developing a financing mechanism in order to be able to implement DRR and Resilience Action 
+Plans and undertake long-term resilience building activities in cities and territories. The first part of the lecture will discuss why it is important to invest in resilience and develop financing mechanisms for DRR. 
+The second section will examine challenges local authorities face in financing DRR and resilience actions; and the final section will showcase instruments and examples to develop financing mechanisms for these actions. 
+The Cost of Doing Nothing4 
+Financing is one of the main challenges for local authorities in order to implement DRR and resilience building actions. Many local authorities report financial constraints as the main barrier to undertake DRR actions and mainstream it into development planning. However, evidence has shown that DRR investments that lead to an increase in long-term resilience can reduce the losses from disasters that hamper development gains. The direct and indirect impacts of disasters, whether they are due to recurring stresses or shocks, can have adverse effects on sustainable development, many times wiping out any positive development gains. 
+The recent COVID-19 pandemic has globally shown the dire effects of a disaster, where governments were caught off guard with little to no preparedness measures and inherent vulnerabilities in their communities. The pandemic has caused significant challenges for governments which have faced an unprecedented financial pressure: they have experienced a substantial drop in their current income due to deferred property taxes and utility fees, the reduction of economic activities, and closed-down revenue-generating infrastructure and services in their territories, while simultaneously their expenses have increased to deal with the emergency and continue to provide basic public services to their communities in a safe manner. 
+When evaluating financial plans and investments on DRR and resilience building, local and regional governments need to take into account the impact on lives, assets (such as infrastructure), and processes (such as the local economy, food chain, decision making) of shocks and stresses, and consider how ignoring environmental, socio-economic, and development trends might increase their likelihood and economic impacts. 
+Investing on DRR and resilience not only prevents losses when disasters strike, but also help with long-term resiliene building. As climate change exasperates the climatic shocks and stresses that the territories are exposed to, building resilience goes hand in hand with adaptation. 
+LECTURE 4
+When making the case for investing in DRR and resilience, consider how ignoring environmental, socio-economic, and development trends might increase the likelihood of shocks and stresses, and their impact on lives, assets, and processes, including setbacks and mayor disruptions in the local economy.
+4. This section is based upon 
+UN-Habitat 2019a and UCLG 2020.
+
+[Page 43]
+Chapter 2: 
+Fundamentals of Resilience Building and DRR for LRGs
+In financial terms, even small investment in preparedness and resilience pays back, as the risk exposure is constantly increasing in urban areas. For example, flooding and heavy rainfalls can be mitigated with green infrastructure (forests, natural conservation areas, wetland regeneration) which can be relatively low cost (through land regulation and community work) in comparison with single shock events that can lead to losses in assets and lives, for instance due to landslides and/ or floods. The same environmental policies might at the same time also mitigate other vulnerabilities, including those often overlooked from a planning perspective (for example public health). On the contrary, if wetlands, riverbanks or geo-sensitive areas are urbanized, they lose their mitigation capacities and increase current and future risks. The cost of restoring them will also be much higher. It is therefore important to share lessons learned from previous disasters, including the costs of recovery and post-disaster reconstruction. 
+Other benefits of budgeting for DRR and resilience include stimulating economic activity associated with reduced risk, ensuring protection for the most vulnerable segments of the population and avoiding reinforced inequalities, and “win-win” situations for development, including facilitating wealth, health, green, and sustainable development (ODI 2015; 
+UNDRR 2020).
+Dynamic: Futurilities
+This dynamic aims to foster reflection on the importance of investing in 
+DRR and resilience. In it, participants will play the role of local government officials making decisions on the allocation of their budget. Their decisions will have short and long term effects which might impact the future of the city.
+A set of materials (included in the handouts) are used for this dynamic, which is further described below.
+Roles 
+Each participant is given a card with a concrete role inside the local government. The card describes their priorities and preferences in the decision-making process. Roles available include: 
+• 
+Mayor
+• 
+Economy Secretary 
+• 
+Health Secretary 
+• 
+Environment Secretary 
+• 
+Labour Secretary
+The mayor is a player with an overall management perspective who takes decisions based on the advice and opinions of his/her team. His/ her decision is key as it might determine the route taken by the city. 
+DYNAMIC
+60-75 min
+Divide the participants in groups
+Futurilities
+Review the handouts and prepare beforehand as they include all materials (role cards, city profile, options for debate, hazard cards, progress table, and possible outcomes) for you to guide the dynamic.
+
+[Page 44]
+Chapter 2: 
+Fundamentals of Resilience Building and DRR for LRGs
+If the groups have more than five members, assign the same role to more than one person. If a group has less than five members, you can eliminate some of the roles. Make sure you keep the balance between those roles that tend to prioritize economic grow/stability (economy and labour secretaries), the roles that tend to prioritize human and nature well-being (health and environment secretaries), and the role(s) that have an overall perspective (mayor, vice-mayor, etc.).
+Steps and flow of the dynamic 
+Hand out the description of the city, with information on its characteristics, available budget, and level of resilience. 
+The dynamic starts in 2020, and is structure around three rounds (2030, 
+2050, and 2100) that simulate the passing of time, as well as environmental and socio-economic trends. According to current forecasts, the hazards in the dynamic will increase in frequency and severity in each round, increasing the number of persons affected and the economic costs of recovery if no measures are taken. The complexity and ambiguity of the decision to be made also increases in each round.
+Debate
+A specific situation is presented in each round, towards which the local government needs to make a decision. This decision will have shortterm consequences which will be known by local officials, and which should be used as arguments to convince the mayor. 
+Voting and recount
+Once the debate time has passed, the group must decide which option they will pursue. Each group has a sheet in which they will adjust the budget and level of resilience of the city based on the choice made. 
+After the decision has been made and the profile of the city adjusted, the group will pick up a hazard card.
+Hazard Card 
+The mayor picks up a Hazard Card which describes a hazard and the impact it has in the city depending on its level of resilience. The impact is measured in economic terms, which is deducted from the city’s 
+Budget, and in the number of people affected.
+Elections
+To make the game more dynamic, the roles are changed in each round. 
+This allows participants to assume different perspectives. It also provides a level of reality in terms of time, reflecting changes in power at the local level. 
+Final debate
+At the end of the game, following the three rounds, look at the final results of each group and invite participants to reflect on the different posible outcomes of the game, the decisions made, and the information available.
+
+[Page 45]
+Chapter 2: 
+Fundamentals of Resilience Building and DRR for LRGs
+Challenges 
+Understanding the economic impact of disasters and developing financial mechanisms are essential for local and regional governments to implement DRR activities and plan for resilience. However, many local governments do not have legal authorities to develop financial planning for resilience in their cities and territories. For instance, in Seychelles, responsibility for financing for DRR lies with the Department of Risk and Disaster Management and the Ministry of Environment; in Japan, it lies with the national government institutions; and in the Philippines, responsibilities are distributed between the local and national government (UNISDR and CUDRR+R 2017). 
+In addition to the legal barriers, local and regional governments are often budget constrained and have to address many urgent needs with limited resources. When a disaster strikes, local and regional governments are increasingly expected to pay for the damages not covered by insurance and to finance reconstruction efforts. Indeed, as the COVID19 outbreak has shown, local and regional authorities may not always be financial support recipients, in contrast to other local actors, such as small and medium-sized enterprises, local businesses and even individuals, all of whom primarily receive targeted financial support by most national governments. Moreover, transfers are in most cases ring-fenced grant funding and do not provide local authorities with the necessary leeway to tailor their response, depending on the phase of the crisis and their capacity to design their own local financing arrangements.
+This challenge is compounded by the fact that local governments usually have little fiscal autonomy to set taxes, are heavily dependent on intergovernmental fiscal transfers, and in most developing economies, have limited access to capital markets. These are the main sources of revenue for local and regional governments, and are critical levers to enable them to direct their funding towards DRR and resilience-building projects. 
+National level governments also have more direct connection to accessing international aid for DRR, although research shows that such aid is usually directed for emergency aid, recovery and post-disaster reconstruction. Local and regional governments most times do not have direct access to these funds in order to use it for activities they have planned for (Smith et. al. 2014). 
+In addition, inadequate borrowing frameworks and regulations often prevent local and regional governments from accessing public and private markets adapted to their different levels of financial maturity (OECD and UCLG 2019).
+What can LRGs do? 
+The mismatch between revenue and expenditures requires local and regional governments to develop a range of creative options for increasing financial resources to be able to implement DRR Action plans. Leveraging local governments’ own resources – including land value capture and sound urban and territorial asset management – can help attract new sources of funding. However, these fiscal strategies alone are unlikely to 
+Local governments usually have little fiscal autonomy, are heavily dependent on intergovernmental fiscal transfers, and in most developing economies, have limited access to capital markets and international aid for DRR.
+
+[Page 46]
+Chapter 2: 
+Fundamentals of Resilience Building and DRR for LRGs mobilize resources at sufficient scale to finance DRR and resilience. Local governments may struggle to find additional resources for reducing risk and building resilience.
+Two main revenue options available to local and regional governments faced by a disaster or a crisis are intergovernmental fiscal transfers and international aid. Local and regional governments can work together, often through their national associations, to advocate for stable and predictable intergovernmental transfers that are flexible enough to allow them to address the different stages of a crisis – from preparedness and emergency to reconstruction and recovery phases. Capacity building is another key aspect for local and regional governments to formulate and plan for adequate applications in order to channel funds.
+International support is crucial particularly for local and regional authorities in developing economies, land-locked developing countries and Small 
+Island Developing States. National and international credit windows are often set up to support local actors in coping with the socioeconomic impacts of a crisis. Such national or international support packages might include more flexible mechanisms for local authorities to access borrowing and repay current loans. In Colombia, for instance, the French 
+Development Agency channels funds to local governments through financial intermediaries such as Findeter and local banks to help them finance their local development projects. Taking stock of the losses of assets and assessing the city’s financial capacity remains essential especially when seeking support or back up from the national government. 
+An efficient way of financing DRR activities within limited budgets is the distribution of financial resources for DRR among different sectors and departments. As proposed by the Words into Action Guide on Local DRR 
+Strategies (UNDRR 2019b), this means to integrate DRR thematically and financially in all sectors and departments as below: 
+• 
+Incorporating DRR in the daily job of different areas goes a step beyond the design and implementation of individual projects and programmes. It is about making DRR part of the ‘normal’ and ‘everyday’ work of each area.
+• 
+Each department has its own functions and responsibilities and has a different role to play in DRR. Some departments/sectors might have more tangible (‘structural’) functions in reducing disaster risk (e.g. an infrastructure department) whereas others might have a more unnoticed role (e.g. department of education).
+• 
+The role of each department/sector might also greatly vary depending on the type of disaster risk under consideration, its frequency and severity.
+• 
+Each sector can embed a disaster risk lens into existing project appraisal mechanisms to account for the cost and benefits of DRR measures and to ensure that sectoral development considers disaster risk. 
+Words into Action 
+Guide on Local DRR 
+Strategies
+Local governments can leverage their own resources – including land value capture and sound urban and territorial asset management – together with other creative financing mechanisms including fiscal incentives, private sector mobilization, and risk insurances.
+
+[Page 47]
+Chapter 2: 
+Fundamentals of Resilience Building and DRR for LRGs
+This kind of sectoral embedded budget can get DRR activities going but will require continuous monitoring, strategic programming per department, as well as intensive communication and follow-up. From there, “a way forward might be to start with the allocation of a specific budget for preparedness, response, and recovery at sectoral level; and to start thinking about more integral ways of mainstreaming and embedding 
+DRR across departments” (UNDRR 2019b).
+Another indirect financing mechanism cities and regions can use is to finance DRR by seeking to develop partnerships with other actors or by providing incentives for homeowners and businesses to invest in avoiding and reducing the risks, such as:
+• 
+Personal and corporate tax reductions for infrastructure built in low-risk zones or to particular disaster-resilient standards;
+• 
+Subsidies for commerce, manufacturing and industrial enterprises located in lower risk areas;
+• 
+Easing of height restrictions and floor area ratios for property developers that adopt strong resilience features;
+• 
+Risk-based insurance premiums and deduction differentials for properties that incorporate DRR measures in their design;
+• 
+Provision of secured land tenure and enhanced social services for informal settlers that relocate to lower risk zones (Benson 2016; 
+UNDRR 2020).
+Most of these fiscal incentives require public financing or a loss of public funds when reducing taxes. However, particularly in fast-growing cities, they might be a bureaucratic “shortcut” to the management of raising income through tax collection and later providing subsidies or investing in public infrastructure to reduce risks. 
+DRR Incentives in Santa Fe, Argentina 
+The City of Santa Fe, Argentina has devised a number of incentives for its citizens to undertake DRR activities. Among them are:
+• 
+System of contributions for improvements. A group of homeowners from the same block (‘frentistas’) can arrange with the municipal government for sharing the cost of certain improvements in the area (e.g. pavement, open drainage, etc.).
+• 
+Municipal ordinance project on incentives to developers for investing in public devices to retard water runoff. By law, every new development needs to pass an assessment test of built area impermeability and install the mandated devices for retarding water runoff. This ordinance project proposes that instead of installing devices in new private buildings, developers could assign the equivalent amount of money to a joint fund that would be used to install devices for water runoff retardation in public spaces (e.g. streets, parks, boulevards, etc.). This reduces the burden on developers for adding a new device in their projects, while at the same time increases the efficiency of 
+ARGENTINA
+Santa Fe
+
+[Page 48]
+Chapter 2: 
+Fundamentals of Resilience Building and DRR for LRGs devices for retarding water runoff (it seems to be more efficient to have them installed in public spaces rather than in individual new private constructions/developments).
+Box 7. DRR Incentives in Santa Fe, Argentina. Source: UNDRR 2019b. 
+One way of developing stakeholder partnerships and having greatest impact on the most vulnerable is by undertaking participatory budgeting. 
+Some communities have also successfully use community-driven finance mechanisms. These mechanisms drive from the understanding that “a demand rather than a supply-driven approach would respond more effectively to the needs and priorities of the urban poor and would eliminate further inequalities” in DRR spending (Smith et. al. 2014). For instance, the Community Development Resilience Fund (CDRF), created in Nepal in 2012, provides grants and loans with 2% interest rates. The CDRF will be piloted in eight of the most vulnerable communities in Kathmandu 
+Valley. Each recipient community has savings groups that pool their resources and mobilize collective action. The decentralized management structure of the CDRF and other urban poor funds shows the “effectiveness of community-driven finance mechanisms in reaching the poorest and most vulnerable groups in urban areas” (ibid). 
+Developing private sector partnerships is another way how local and regional governments can increase financing mechanisms for DRR and resilience building. The private sector can support local authorities in reducing the cost of actions such as risk analysis and assessments, early warning, cost-benefit analyses. Private sector are often also owners of critical infrastructure, provide public services, and has a major role to play in real-estate development. Risk informed construction and development can significantly support DRR and resilience building efforts in cities, as well as reduce the financial losses acquired from disasters. 
+Mobilizing Resources from the Private Sector to Increase Resilience: 
+Adaptur Project in Mexico 
+The Adaptur Project, coordinated by GIZ in the Mexican regions of Riviera 
+Nayarit-Jalisco, Riviera Maya, and San Miguel de Allende, aims to mobilize the private sector and its resources to bolster and finance climate adaptation measures. The project seeks to incorporate the concept of 
+Climate Proofing in the investment calculations (prior to construction) of the companies, cities, and regional governments. This means considering the risk and opportunities of climate change in their projects: potential damage to strategic infrastructure, market shocks, new regulations and policies, and others. Doing so brings a climatic perspective to investment and risk analysis, inducing companies to invest in adaptation measures, rethink their projects, and revalue the external social, environmental, and financial factors that protect their investments.
+MEXICO
+San Miguel de Allende
+Riviera 
+Nayarit-Jalisto
+Riviera
+
+[Page 49]
+Chapter 2: 
+Fundamentals of Resilience Building and DRR for LRGs
+The project has also identified finance options and instruments for ecosystem-based adaptation which local governments can implement, often with the support of the private sector. These options go from international funds to local fiscal mechanisms such as: certification schemes, environmental levies or fines, tourism promotion trusts, fees for environmental compensation, CSR contributions, and sanitation rights, among others.
+Box 8. UCLG 2019b.
+Risk transfer mechanisms are crucial for cities and territories which are challenged by the lack of adequate funds for DRR and resilience building activities. Compensatory risk management, which is defined in advance for specific emergency activities, related to emergency response and relief operations is also associated with various types of insurance, reinsurance and other risk-transfer instruments, such as resilience bonds, or catastrophe bonds (cat bonds) – although the last ones tend to be clustered in cities of high-income countries (UNDRR 2019b). Local and regional governments can make use of the financial resources allocated for compensatory risk management for ‘building back better’(ibid.). For instance, the Philippines developed a small programme for local governments based on climate and resilient funds (People Survival Fund). 
+Risk insurance in public and private sectors can help to reduce the contingent liability of governments (WB 2012; WB and AUS Aid 2012). For instance, in Indonesia, the municipality of Yogyakarta has insured its public assets since 2003, including government buildings, schools, hospitals, traditional market-places, and motor vehicles. After a 2006 earthquake, the municipality received a payout which was 14 times the annual premium paid (WB and AUS Aid 2012). Private catastrophe insurance can also help owners, small and medium businesses shift the burden of disaster liability (ibid.). Some countries and insurance programs have put in place incentives for residents to take preparedness measures rewarded by lower premiums, or in some cases, they have been made compulsory in order to increase formal housing stock.
+Turkish Catastrophe Insurance Program (TCIP)
+Following the 1999 Marmara Earthquakes, the Turkish Catastrophe Insurance 
+Pool (TCIP) was established with assistance from the World Bank. The objectives of TCIP were to: a) Ensure that all property tax-paying dwellings had earthquake insurance cover; b) Reduce government fiscal exposure to the impact of earthquakes; c) Transfer catastrophe risk to the international reinsurance market; d) Encourage physical risk mitigation through insurance.
+The establishment of the TCIP helped the Government of Turkey reduce its contingent liability by promoting domestic property catastrophe insurance for private dwellings. Making it possible for homeowners to purchase insurance, the Government of Turkey increased the number of citizens who would be compensated by the private sector in case of an earthquake.
+
+[Page 50]
+Chapter 2: 
+Fundamentals of Resilience Building and DRR for LRGs
+In addition, by making insurance compulsory for middle- and high-income urban households, the Government significantly reduced the number of homeowners likely to require financial assistance after a disaster. 
+Premium rates were based on the construction type and property location. The policy was distributed to existing Turkish insurance companies, which receive a commission. The Government invested heavily in insurance awareness campaigns and made earthquake insurance compulsory for homeowners in urban areas. Earthquake insurance is also now compulsory for homeowners seeking mortgages and purchasing a flat or a house.
+Box 9. Source: UNISDR 2017b
+Final reflection: Investing in Resilience 
+Use the following questions to reflect on the challenges and opportunities for financing DRR and resilience at the local level. 
+• Embedding resilience: Using an integrated development perspective and the relationship between resilience building, sustainable development and climate adaptation, what current projects/ programs could further contribute to DRR and resilience building?
+• Financing mechanisms: What instruments does your city use for financing DRR and resilience currently? Based on this lecture, what other instruments can you potentially explore? What alliances and innovative strategies (including through timely consultations with national government, as well as engagement of local community, private sector, NGOs and donors) can be used to implement actions?
+• Cost of inaction: What would be the cost of inaction if climatic trends, increasing stresses, and exposure to risks is not addressed? 
+Do you have instruments to measure it? How are these costs being considered when analyzing investments to prevent future loses?
+• Contingency plans: Has the city established contingency fund arrangements in case a disaster hits it? Are there means in place to provide adequate financial support to protect vulnerable segments of the city’s population?
+Resources  OECD/UCLG, 2019 Report of the World Observatory on Subnational 
+Government Finance and Investment  Cities Climate Finance Leadership Alliance, 2017. Localizing Climate 
+Finance, Mapping Gaps and Opportunities, Designing Solutions CCFLA 
+Mapping Report  UNISDR. 2013. Global Assessment Report on Disaster Risk Reduction 
+2013: From Shared Risk to Shared Value. The Business Case for Disaster 
+Risk Reduction. UNISDR: Geneva
+
+[Page 51]
+Chapter 2: 
+Fundamentals of Resilience Building and DRR for LRGs
+Local Resilience Strategies and Action Plans 
+This lecture will discuss how local and regional governments can undertake DRR action and build their resilience by developing local strategies, what type of challenges they might encounter and what opportunities and examples are available in cities and territories. 
+Local DRR & Resilience Strategies and Action Plans 
+Target E of the Sendai Framework calls to substantially increase national and local disaster risk reduction (DRR) strategies by 2020, as these strategies will make the basis of actions that will be taken to reduce existing risk, prevent future risk, and build resilience. Indeed, achievement of Target E by 2020 is thought to be a marker of progress and an essential element of the enabling environment to achieve all the 
+Sendai Framework targets and its goal by 2030 (UNDRR 2019a). 
+The Sendai Framework stresses the understanding of risk drivers such as poverty, climate change, improper land-use planning, environmental degradation, weak building codes and governance, many of which undermine and relate to other development agendas. As such, DRR and resilience strategies should not be thought of independently and are more effective when mainstreamed into the overall city vision and all sectorial plans. Systems-based thinking can support the mainstreaming of risk and resilience in different sectors of development and in coherence with the targets and principles of other development agendas. 
+The previous lectures provided an introduction to the importance and tools available for LRGs to undertake resilience and risk assessments, analyze their multilevel and multi-stakeholder governance mechanisms and policies, and understand available financing instruments as well as the potential costs of inaction. Applying these tools to assess the city or region’s main challenges, understand systemic stresses and potential shocks, and prioritize points of intervention, is the first step towards developing a city-wide DRR & Resilience Strategy.
+LECTURE 5
+Target E: Number of countries with national and local DRR strategies by 2020
+Fig 13. Possible elements of a DRR & Resilience Strategy integrated into the policy cycle.
+Assess & Prioritize
+Programming & Planning
+Executing & Monitoring
+Risk & Resilience assessment
+Governance & 
+Policies
+Financial resources & cost of inaction
+Social & Public health resilience
+Urban development & land-use planning
+Protecting ecosystems & 
+Nature-based solutions
+Adequate & Resilient critical infrastructure
+Effective response &
+Building back better
+Volume II of this module will provide insights into programmatic and technical approaches: social resilience, development and land-use planning, naturebased solutions, resilient infrastructure, and building back better.
+
+[Page 52]
+Chapter 2: 
+Fundamentals of Resilience Building and DRR for LRGs
+Following this process of assessment and prioritization, which is best carried out with the engagement of multiple stakeholders, and in accordance with the key principles highlighted at the beginning of this chapter, LRGs can develop specific solutions, programs and plans for the key challenges they have identified. Volume II of this Sendai 
+Module provides insights into the different programmatic and technical approaches LRGs have taken in five areas: building social and public health resilience (including local economic resilience), mainstreaming 
+DRR & resilience into their urban development and land-use planning mechanisms, using nature-based solutions and ecosystems services to build resilience, protect, retrofit and build critical infrastructure, and prepare for an effective response, recovery and reconstruction leading to strengthened resilience and sustainability.
+Actions targeting DRR and resilience building are often cross-cutting in nature, going beyond the departmental task divisions often found in local and regional governments. As such, it is critical to institutionalize the defined action plans, strategies and programs, delegating clear responsibilities, allocating budgets, and developing monitoring and evaluation tools, such as performance indicators, to measure impact and success.
+Jakarta Resilient Strategy 
+Jakarta’s effort in building resilience got a new momentum in May 2016 when the city was selected to be a member of 100 Resilient Cities (100 
+RC) Network. Led by The Deputy Governor of DKI Jakarta for Spatial 
+Planning and Environment as Chief Resilience Officer (CRO), Jakarta has begun involving a broad range of stakeholders in the processes. Having involved more than 1000 stakeholders, conducted more than 50 interviews, discussions, workshops, and FGDs while also analyzing more than 
+20.000 programs and projects in DKI Jakarta. Many people from government bodies, private sectors, academicians, and communities have collaborated in the discussion on the Jakarta’s resilience condition and worked together in developing the City Resilience Strategy that will help the city to prepare for every shocks and stresses that may come.
+Jakarta resilience building process culminated to the 3 (three) pillars. 
+Those 3 (three) pillars are: WELL-PREPARED Jakarta; HEALTHY Jakarta; and CONNECTED Jakarta. WELL-PREPARED Jakarta is focusing on how 
+Jakarta get ready in the events of shocks and stresses. HEALTHY Jakarta is focusing on creating a healthier environment for the people through better water, wastewater, and waste management. While CONNECTED 
+Jakarta is focusing on enhancing the connectivity for the people to do their daily routines. These 3 (three) pillars become the main components of Jakarta’s Resilience Strategy.
+Box 10. Courtesy of UCLG ASPAC.
+INDONESIA
+
+[Page 53]
+Chapter 2: 
+Fundamentals of Resilience Building and DRR for LRGs
+Strengthening Resilience in Belize’s Cayo District 
+Belize is among the countries most at risk from the impacts of climate change, ranked as the 8th most affected country in the world in 2015. The main risks are related to storms and consequential heavy rainfall, strong winds, and flooding. This puts municipalities in a difficult situation, especially as they depend largely on climate sensitive industries, namely tourism and agriculture.
+The twin towns of San Ignacio and Santa Ana established a network with experienced national and international partners to develop a mixedmethod approach to tackle the local risk of flooding. On the one hand, they organized workshops for awareness raising and community-based education regarding disaster risk, in parallel to special trainings for the capacity building of local technicians. On the other hand, investments in risk assessment through GIS and early warning systems helped to improve the mitigation and preparation aspects of the territory’s disaster risk management, and led to the installation of new permeable pavers to facilitate natural infiltration of water, new drainages, and bioremediation ponds and culvert expansions at critical points. Efforts to improve relevant regulations and to guarantee their enforcement were also made. 
+Owing to this combination of investments in the build environment, early warning, and increased awareness and capacity of citizens, city officials and businesses, the twin cities were able to significantly increase their resilience to flooding
+Box 11. Source: UCLG 2020b. Peer Learning Note #27. 
+Challenges 
+Having in place local DRR and resilience strategies or plans that align with a city’s vision and that complement the national policy framework and DRR strategies, is an essential element for the successful implementation of 
+BELIZE
+Source: BMA 
+Data Analysis
+Improvement strategies
+Project start
+Basic information Collection · Social and soil factor · Land use and DEM data · Drainage system and watershed · Design guidelines
+Basic information Collection · Precipitation data collection · Frequency analysis · Design storm pattern · Rainfall Run-off analysis
+Evaluating the capability for water conveyance
+Flood inundations simulation
+Evaluating the capability for water conveyance
+Flood inundations simulation
+Improvement plan
+Improvement plans (draft
+Satisfy project targets?
+Supplementary survey (if necessary) · Terrain and cross section measurement of drainage · Geopogical prospecting investigation
+NO
+
+[Page 54]
+the Sendai Framework. However, effective decentralization mechanisms, with clear competences allocation and coordination, are key for the development of local DRR and resilience strategies and action plans. 
+As it has been explored in previous lectures, effective governance institutions and mechanisms are essential, as lack of coordination among the different levels of government or sectoral silos can limit local governments to actively pursue DRR and resilience building. Securing a substantial budget for DRR is also a significant challenge for many cities, with budgetary constraints represent one of the biggest challenges to local DRR and resilience building. Another impediment to developing and implementing local DRR strategies is found to be the lack of adequate information, resources and technical capacity to process risk-related information to mainstream into risk assessments and risk-informed development planning (Gencer 2019a).
+What can LRGs do? 
+In order to overcome these challenges, local and regional governments often work together through their local and regional government associations in order to raise awareness of DRR and resilience, advocate for stronger fiscal and legal descentralization, support effective multilevel governance mechanisms, build capacity, foster descentralized cooperation, and track local actions. The work of LRGAs in these regards is further explored in chapter 3.
+At the municipal level, local and regional governments can examine their policy cycle (figure 9) for entry points to integrate resilience and 
+DRR into their existing processes. The SDG principles presented at the beginning of this chapter also offer a good guide to ensure that the developed strategies and action plans are effective, and that they can contribute to sustainable communities.
+Reflection: Developing Strategies and a Plan of Action 
+Use the following points to reflect on the process participants’ governments should take to define their strategies and actions for resilience building. 
+1. Political commitment: Is resilience a key consideration throughout the City Vision, and in the political agenda of the city?
+2. Leading actor(s): Delegate a working group/institution responsible for leading the strategy building process. Clarify functions, taking into account other roles/responsibilities they might have.
+3. Stakeholder engagement: Set-up multi stakeholder engagement mechanisms with regular communication. 
+Chapter 2: 
+Fundamentals of Resilience Building and DRR for LRGs
+Local and regional governments can examine their policy cycle for entry points to integrate resilience and DRR into their existing processes.
+Local DRR and resilience strategies and action plans should align with a city’s vision, and should be institutionalized with clear responsibilities, budgets, and monitoring tools.
+
+[Page 55]
+Chapter 2: 
+Fundamentals of Resilience Building and DRR for LRGs
+Strategies & Financing 
+Following lectures 4 and 5, the objective of this exercise is to invite participants to reflect on possible strategies and finance mechanisms in response to the Stresses & Shocks or Hazards & Vulnerabilities identified in the Risk & Resilience exercise. 
+1. Divide participants in the same groups used for the Risk & Resilience exercise.
+2. Give each group a copy of the handout, and ask them to fill in the left column with the results of the exercise on Risk & Resilience. 
+3. Based on these results, invite participants to think of: 
+• 
+Possible strategies and actions in response to the risks previously identified.
+• 
+Possible mechanisms to finance these strategies and actions.
+During the exercise, follow the groups’ discussion and foster reflection along the following lines: 
+• 
+A strategy or action can be transversal and solve more than one component of risk at the same time. 
+• 
+A finance mechanism can help secure resources for more than one strategy or action. While other strategies/actions might become feasible by combining different finance mechanisms. 
+• 
+Some available finance mechanisms might bring to light posible strategies or actions.
+4. If time allows, invite some groups to share their results with the rest of the room.
+EXERCISE
+20-30 min
+Divide the participants in groups
+Strategies & Financing
+4. Strategy building: Identify key priorities based on risk & resilience assessments, including governance diagnosis and financial aspects. Develop specific strategies and actions, identifying synergies with existing plans and programs.
+5. Towards implementation: Define programs and projects, and institutionalize the Action Plan. Establish mechanisms to monitor, follow-up and evaluate the Action Plan.
+Resources  Gencer, E. 2019a. “Local Disaster Risk Reduction Strategies and Plans in Urban Areas” in 2019 Global Assessment Report on Disaster Risk 
+Reduction. UNDRR: Geneva.
+ UNDRR. 2019b. Words into Action Guidelines on Local Disaster Risk 
+Reduction Strategies. UNDRR.
+ UCLG. 2019b. “Climate Resilience and Urban Development” Peer 
+Learning #26. Niteroi, November 2019.
+
+[Page 56]
+Chapter 3: 
+Fostering an enabling environment through LRG Associations
+Chapter 3: Fostering an enabling environment through LRG 
+Associations
+This chapter aims to underline and strengthen the crucial role Local and 
+Regional Government Associations (LRGAs) play in localizing SFDRR and supporting the building of resilient cities and territories. 
+Five key lines of actions for LRGAs to support resilience building
+Understanding that the global development agendas can only be achieved if they respond to local realities and are integrated into all planning, policy making and action, local and regional government associations (LRGAs) have realized the crucial role they need to play in the localization of the 2030 Sustainable Development Agenda. As key actors that bring together, support and represent the voices of LRGs in national and international arenas, LRGAs’ role in the localization of the 
+Sendai Framework has become more important than ever in response to the COVID-19 Pandemic. 
+LRGAs can support the process of resilience building and DRR at local and regional levels through five key lines of action: 1) increasing awareness on risk and resilience among its members; 2) undertaking advocacy on behalf of LRGs for an enabling environment at the national level; 
+3) bridging the governance gap in disaster risk governance by establishing horizontal and vertical linkages; 4) increasing the capacity of LRGs through continuous and contextual training; and 5) monitoring local and regional actions to support implementation and accountability. This 
+Lecture will examine these roles and present examples of how LRGAs have been supporting their members in risk reduction and resilience building.
+LECTURE 1
+Awareness
+Advocacy
+Bridging the governance gap
+Capacity
+Monitoring
+
+[Page 57]
+Chapter 3: 
+Fostering an enabling environment through LRG Associations
+Awareness-Raising 
+Awareness-raising on DRR and resilience building among its members is a key task for LRGAs. The technical and financial capacities of local and regional authorities may become limited due to shocks in cities and territories, forcing them to solely respond to crises instead of taking a long-term resilience building approach. During the times of crises, Local and Regional Governments Associations, as the trusted source of information for local and regional authorities, can raise awareness among their constituencies about the Sendai Framework, the national commitments made to support local DRR plans, and the importance of investing in resilience as part of their commitments to the SDGs.
+They can also provide trustworthy and current information about evolving situations and government regulations, which might have consequences on their operations. For example, in order to raise awareness of the risks of sea level rise, the Local Government Association of New Zealand (LGNZ) undertook a study to identify the level of local infrastructure likely to be affected by sea level rise and the cost of replacing that infrastructure. The survey increased awareness among councils, who, up until that survey, did not have a good understanding of the type, amount and replacement value of their infrastructure exposed to sea level rise, and therefore if and where adaptation planning should be prioritized. 
+A key initiative for LRGAs to raise awareness about DRR and the Sendai 
+Framework is the Making Cities Resilient 2030 (MCR2030) Campaign. 
+Since joining the Campaign, UCLG has informed, connected, and mobilized members to join it, and has continued to raise awareness and help develop tools within the Campaign’s framework. In particular, 
+UCLG ASPAC designed promotion material to outreach to thousands of 
+Asian cities making them aware on the need to prepare and to respond in particular to the Target E. Adapting the key messages and tools of the campaign to their regional and national contexts is a key way that LRGAs can support local and regional authorities to understand the important role they can play in the implementation of the Sendai 
+Framework and how they can localize the national strategies in their cities and territories.
+Crisis Management Training for Dutch Mayors 
+The Dutch Association of Mayors (NGB) in the Netherlands provides training and support to mayors around the country. As part of the initial training they provide to new mayors, they make use of a web-based game which provides strategic dilema training for crisis management using a serious game format. The game presents an scenario with different dilemmas and a virtual Policy team which is available for advice and extra information (based on their department or expertize area, and the dilemmas faced). Participants have to make decisions in regards 
+Uploads/0bb3c3d32a/Planning-forSea-Level-Rise-v7-FINAL.pdf
+NETHERLANDS
+The Local Government 
+Association of New Zealand undertook a study to identify the level of local infrastructure likely to be affected by sea level rise and the cost of replacing that infrastructure.
+Target E: Number of countries with national and local DRR strategies by 2020
+
+[Page 58]
+Chapter 3: 
+Fostering an enabling environment through LRG Associations to the different dilemmas in a short period of time, and identify what information was important for them to reach the decisión. Inmediately after the game, the mayors receive feedback about the choices made through newspaper articiles that reflect how their decisión would be reported by media, the time needed, and how their answers are related to key mayors’ roles such as: Communicator, law-enforcer, or parent figure.
+The game is followed up by a discussion session which provides an opportunity to reflect on the decision making process, the dilemmas they could face, and the information available. It also provides an opportunity to reflect on earlier experiences with the increased sense of urgency and curiosity fostered by the game. Scenarios available in the game include pandemic-like incidents, public order issues, and systemic failures, and focus on the strategical dilemmas for policy makers rather the operational choices, providing a valuable introduction and increased awareness of crisis management for new mayors.
+Box 12. Source: Presentation by VNG, 2020.
+Advocacy 
+LRGAs have an important role to play to advocate for the involvement of local and regional authorities in the implementation of DRR and resilience building in their country, for example, by securing the consideration of local needs, experiences and voices in the development of national strategies, including those for resilience building and climate change adaptation. LRGAs can advocate for the important role of their members and demand coherent policy making with effective consultations. Involving LRGs at the national level decision-making will also increase the ownership of the strategies and implementation. 
+For instance, the Chilean Local Government Association uses advocacy towards the central government to empower local and regional governments, including them in the development of national risk reduction and response strategies, and creating a political and legislative environment with policies, financing mechanisms and distribution of local powers. 
+Similarly, LGNZ actively campaigns for legislative and policy change to assist councils address environment threats.For instance, following the 
+Canterbury earthquakes, LGNZ advocated to central government for the establishment of a National Risk Agency to assist councils assess risk and develop contingency plans. 
+LRGAs also play an important role in advocating for the needs of local and regional governments. As the COVID-19 pandemic and other crises have shown, local and regional governments often lack necessary authorities to perform disaster risk reduction and resilience building actions efficiently. As the Federation of Canadian Municipalities (FCM) stated recently: “LGAs need to roll up the individual challenges and concerns into an aggregated, coherent set of policies and programs” that can be advocated by the Association on behalf of the membership (UCLG 2020a). 
+The Chilean Local 
+Government Association uses advocacy towards the central government to empower local and regional governments, including them in the development of national DRR strategies, and pushing for an enabling political, fiscal, and legislative environment.
+
+[Page 59]
+Chapter 3: 
+Fostering an enabling environment through LRG Associations
+Indeed, during the current COVID-19 pandemic, LRGAs have been playing a very important role. Among others, LRGAs have advocated for legislation that provide municipalities flexibility in meeting legislative requirements for conducting municipal affairs such as approving budgets, reallocating funds, or online decision-making. Standardizing how municipalities report their responses to COVID-19 pandemic was useful in advocating for additional funding. In South Africa, SALGA successfully advocated to national government to allow for lenience in municipal legislative procedure, and to create funding mechanisms to support municipalities in COVID-19 response measures.
+Impact of COVID-19 on local and regional finances in Europe 
+As the COVID-19 pandemic hit Europe and the measures taken to confront it led to the lockdown of cities and the loss of important revenue sources for LRGs, several LRG Associations across Europe mobilized to document the impact of the crisis in the finance of its members. They have advocated to central governments to ensure fiscal responses will respond to the realities on the ground, and to provide financial help to cover the costs faced by municipalities and regions for the continued provision of critical public services.
+These efforts by LRGAs have had results in several countries, while in others no financial help has been granted. In Scotland, the government accepted a request from the Convention of Scottish Local Authorities (COSLA) to pass around 172 million euros from the UK national government directly to local councils. In Slovenia, the Association of Urban Municipalities of 
+Slovenia (ZMOS) has been in regular contact with government officials and ministeries to increase the financing for municipalities, and clarify the extend in which the national budget will cover the running costs of public services that were not performed during the epidemic, such as kindergartens, which otherwise will add to the local finance burden. 
+Similarly, the German associations calculated and informed permanently on losses of municipal income, and were able to guarantee that an important portion of the national rescue financing (approximately 130 billion euros) will mitigate their additional challenges, including partial costs of local public transport, and social costs that have increased exponentially (the national rescue package will add 4 billion euros to cover a larger portion of housing and heating subsidies).
+The national associations are now working together to make sure the 
+European Commission’s recovery package supports municipalities and regions. In particular, they are working for the new Recovery and Resilience 
+Facility and Cohesion Funds to be directly available to local and regional governments, aware of the long term impacts the crisis will have.
+Box 13. Source: CEMR. 2020.
+National associations are working together to make sure the European 
+Commission’s new Recovery and Resilience Facility and Cohesion Funds are directly available to local and regional governments.
+
+[Page 60]
+Chapter 3: 
+Fostering an enabling environment through LRG Associations
+Bridging the Gap in Risk Governance 
+A crucial task of the LRGAs is to bridge the gap between local governments and central governments, as well as with different stakeholders, including with the private sector, academia, and international institutions. With this intermediary role, LRGAs can foster decentralized cooperation and effective development cooperation, and achieve the execution of multi-level governance systems. As LRGAs liaise on behalf of their members at the national level, they can promote the effective implementation of decentralization, while forging links with key sectoral ministries to collaborate on resilience building and the implementation of the SFDRR. 
+For instance, the Association of the Municipalities of Costa Rica (UNGL) is a fundamental part of the National Disaster Risk Management System and provides coordination to increase awareness on Disaster Risk 
+Management among municipalities, bringing in partners from civil society, academia, and international actors such as USAID, UN-Habitat and UCLG. During COVID-19, following the declaration of a national pandemic emergency, the Local Government Association of New Zealand (LGNZ) collaborated with the Government’s Emergency Management 
+Office, the Society of Local Government Managers and the Department of Internal Affairs to create a Response Unit. This Unit coordinated the actions of local governments in response to the pandemic and provided guidance to councils on what services should and shouldn’t be provided during the emergency.The Spanish Federation of Municipalities and 
+Provinces (FEMP) also hosted 200 consultation in 3 weeks to create an online hub for reliable information useful to local authorities as concerns regarding the policy response to the crisis were increasing.
+Facilitating linkages for financial and technical support in times of disaster is also a critical role that LRGAs can play. At a national level, 
+The League of the Cities of the Philippines offers financial assistance to its members that have been stricken by disasters and that have declared to be under a state of emergency. The League sends out a memorandum to its members notifying them of cities that have declared a state of calamity and offer to act as a conduit for donations by receiving, safeguarding, and sending these to the recipient LGUs.
+Capacity Building and Fostering Solidarity 
+Capacity building is another critical way in which LRGAs can support resilience building and the localization of the Sendai Framework. LRGAs can support local and regional authorities through capacity building activities such as peer-to-peer learning, contextual training, and implementation support. Indeed, UCLG’s GOLD V (2019c) report describes how “fostering and accessing technical assistance and decentralized cooperation has been found to be a key element” to promote the 
+The Association of the 
+Municipalities of Costa 
+Rica is a fundamental part of the National Disaster 
+Risk Management System and provides coordination to increase Disaster Risk 
+Management awareness and capacity among municipalities.
+
+[Page 61]
+Chapter 3: 
+Fostering an enabling environment through LRG Associations localization of the SDGs, which is also the case for resilience building and the localization of the SFDRR. 
+LRGAs can promote the exchange of best practices, identify policy challenges that impact the localization of the Sendai Framework and make recommendations for improvement. LRGAs can also increase capacities by connecting and facilitating dialogue at the international level. This has been especially found useful in cases where there is a lack of adequate response and poor vertical coordination. In that sense, 
+LRGAs have become the critical link in connecting local governments to capacity abroad. In Eurasia Region, several associations have established links at international level to increase capacities. For instance, in Kyrgyzstan, several Water Users Associations have been holding learning seminars on the sustainable consumption of water resources, and environmental protection together with Organization for 
+Security and Co-operation in Europe (OSCE).
+In 2015, UCLG established a taskforce for crises prevention, which promotes development cooperation and intermunicipal capacity building. The French Association, Cités Unies France (CUF) is leading this taskforce which aims to support the capacity of crisis hit LRGs through peer-learnings focused on building back better and crisis recovery. The association of Dutch municipalities (VNG) has a similar scheme to support hurricane prone Caribbean islands such a Sint 
+Marteen through the exchange of know-how between colleagues, coaching on crisis management plans and structures, development of hurricane-proof building codes, and alignment of information management system.
+UCLG Asia Pacific (ASPAC) has also organized, along with international partners, a donation program “Building a Local Government Alliance for 
+Resilience in the Asia-Pacific” for disaster-affected cities in the region. 
+The UCLG ASPAC DRR Support fund aims to: 1) support affected local governments during rehabilitation phase; 2) undertake preventive measures such as mitigation and preparedness; 3) Provide capacity building training programme for local governments how to act during disasters (response) and before disaster event (preparedness); 4) Provide international expertise (local DRR Strategy and Action Plan, SFDRR Assessment 
+Tools); and 5) Help local governments to reconnect with multi-stakeholders by providing communication facilities.
+During the COVID-19 crisis, LRGAs have taken a coordinating role in communicating the needs of their members to partners such as private sector or universities, or LRGs and their associations in other countries, that have expressed interest in helping support the work of local and regional authorities through research, goods, services, and help in capacity building. LRGAs set up websites, meetings, and social media groups and used their new and existing communication platforms to share good examples between members, as well as with national governments. At Global level, Metropolis, together with AL-LAs and UCLG, quickly set up a platform on Cities for Global Health that collected over 
+Cités Unies France (CUF) leads UCLG’s Taskforce for 
+Crisis Prevention, which aims to support the capacity of crisis hit LRGs through peer-learnings focused on recovery and building back
+
+[Page 62]
+Chapter 3: 
+Fostering an enabling environment through LRG Associations
+400 cases. Together with UN-Habitat and Metropolis, the UCLG World 
+Secretariat organized over fifteen Live Learning Experiences (LLE), a format to share policy practices and experiences. This format was also adapted by regional sections in Asia Pacific, Latin America, Africa, and by national associations. For instance, in Indonesia, APEKSI is sharing best practices to inspire other local governments and providing webinars on specific issues that have not been made clear by the national government. 
+The League of Cities of the Philippines (LCP) facilitating linkages and capacity building
+The League of Cities of the Philippines increases the capacity of its members through support in the implementation of programs and projects on resilience and DRR. The League encourages participation of its member cities in capacity building programs and projects that touch on DRRM and climate change resilience. It serves as a consultative partner that provides valuable input regarding the selection of cities that may greatly benefit from partner-led projects and also documents progress made in these activities for replication to other cities. As a political partner, the League helps partners coordinate with key decision-makers in pilot cities (i.e., city mayors and department heads) to ensure the project’s support and sustainability by the LGU. 
+1. The Building Climate Resiliency Through Urban Plans and Designs 
+Project is a three-year project funded by the German Government’s 
+International Climate Initiative (IKI), which aims to support the Philippine government in improving policies, regulations, and capacities to adapt to climate change. LCP sits in the Project Steering Committee to assist the five pilot cities of the project. Through the implementation of the project, LCP assists in strengthening resilience and adaptive capacities to climate-related hazards and natural disasters in all countries. After project completion, LCP has also assisted in increasing the proportion of local governments that adopt and implement local DRR strategies in line with national DRR strategies. 
+2. Through intensive technical dialogues, the Vertical Integration and 
+Learning for Low-Emission Development project of UN-Habitat 
+Philippines focused on improved multi-level governance to foster climate-resilient and low-emission development among key sectors involved in climate change actions. As the League was elected 
+Chairperson of the V-LED Project Steering Committee in December 
+2017, the organization has since participated in local and international workshops to offer perspectives on how local government associations can synergize multi-level governance and inter-local government linkages to address climate change and disaster resilience.
+Box 14. Source: League of Cities of the Philippines Communication with UCLG (2020).
+PHILIPPINES
+
+[Page 63]
+Chapter 3: 
+Fostering an enabling environment through LRG Associations
+Monitoring 
+Monitoring is a continued role of LRGAs which provide evidence for them to implement their advocacy, capacity-building, coordination, and awareness-raising work. This is also true in regard to the localization of the Sendai Framework by monitoring, collecting and analyzing data, and following progress in order to engage stakeholders in ongoing risk reduction and resilience campaigns. 
+Sendai Framework targets are measured at the global level by national targets and indicators through the Sendai Framework Monitor that tracks progress in its implementation and its related dimensions reflected in the SDGs. LRGAs can play a key role to the reporting of the monitoring mechanism and tracking the progress of the Sendai Framework. They can promote to LRGs the participation to the monitoring system by collecting disaggregated data that indicates implementation in their cities and territories and ensuring that needs and progress at the local levels are reported in the national progress reports. This would allow a better projection of the impact of disasters, their costs, recovery time, time for economic and social system to recover, and finally feedback planning and anticipation for decision of urban development. 
+Furthermore, LRGAs can increase awareness to local and regional authorities to undertake resilience assessments, track their own progress in resilience building, and develop voluntary local reviews such as those initiated by the Making Cities Resilient Campaign. LRGAs can act as the mediator between local governments and the international resilience programs facilitating the multilevel dialogues between the UN System other international mechanisms such as regional forums on DRR and resilience building, and the local governments
+Final REFLECTION: Five key lines of actions of LRGAs – make suggestions 
+1. Awareness Raising: Are LGA Increasing awareness on risk and resilience, investing in communication tools and highlighting particular challenges and good practices. 
+2. Advocacy: Is it useful LGA Undertaking advocacy on behalf of 
+LRGs for an enabling environment at the national level. Ensuring clear lines of support and coordination of all levels.
+3. Bridging: Is practical support available to Improve DRR and resilience governance by establishing horizontal and vertical linkages before and during disasters.
+4. Capacity Building: Can LGA provide opportunities for Increasing the capacity of LRGs through continuous and contextual training
+5. Monitoring: Think of Monitoring local and regional actions to support accountability and updated communication on national data relevant for DRR
+LRGAs can play a key role imonitoring, collecting and analyzing data, and following progress in order to ensure cities of all sizes receive adequate support.
+
+[Page 64]
+Chapter 3: 
+Fostering an enabling environment through LRG Associations
+Contributions of LRGAs 
+If you have staff or representatives from national or regional associations, this exercise could facilitate the discussion between member cities/regions, and the association(s)’s secretariat, in order to identify needs, gaps, and opportunities for action.
+1. Divide participants in groups, aiming to have a mix of LRG, LRGA and other stakeholders’ representatives in each group. 
+2. Give each group a copy of the handout with the five lines of action.
+3. Invite each group to identify the specific needs of LRGs in their country/region and write them down under the line of action most appropriate to it.
+4. Analyze the list of needs and identify actions the national/regional association is already doing, and opportunities for new actions in response to these needs. Write down the actions being done in one color, and opportunities for action in a different color. 
+Note: Each group will need pens/markets in two different colors for this step. 
+5. Finish the exercise by discussing the possible implementation of one of the new actions and how each stakeholder in the group could contribute to it.
+Resources  Global Taskforce of Local and Regional Governments, 2020. TOWARDS 
+THE LOCALIZATION OF THE SDGs How to accelerate transformative actions in the aftermath of the COVID-19 outbreak. Local And Regional 
+Governments’ Report To The 2020 HLPF. Facilitated by UCLG.
+ OECD, 2020. The territorial impact of COVID-19: Managing the crisis across levels of government.
+ UCLG Taskforce for Territorial Prevention and Management of Crisis, 
+2019. Guidance for Local Authorities on Effective Working with 
+Humanitarian Actors.
+ UCLG, 2020. Live Learning Experience’s Site
+EXERCISE
+20-30 min
+Divide the participants in groups
+Contribution of LRGAs
+
+[Page 65]
+Acknowledgements
+Production and edition:
+UCLG
+UN-Habitat (City Resilience Profiling Program)
+UNDRR 
+Facilitation and coordination:
+UCLG Learning
+Main Author: 
+Ebru Gencer, Center for Urban Disaster Risk 
+Reduction and Resilience (CUDRR+R)
+Gamification (Dynamics & Exercises):
+LaTaula.coop
+Design: ggrafic.com
+
+[Page 66]
+References
+Asian Development Bank (ADB). 2016. Reducing Disaster Risk by Managing 
+Urban Land Use. ADB: Mandaluyong City, the Philippines. 
+Benson, C. 2016. Promoting Sustainable Development through Disaster Risk 
+Management. ADB Sustainable Development Working Paper Series, No. 
+41. ADB: Manila.
+Dickson, E., Hoornweg, D., and J. L. Baker. 2012. Urban Risk Assessments: 
+Understanding Disaster and Climate Risk in Cities. World Bank: 
+Washington, DC.
+Gencer, E. 2019a. “Local Disaster Risk Reduction Strategies and Plans in Urban 
+Areas” in UNDRR (2019). Global Assessment Report on Disaster Risk 
+Reduction. United Nations Office for Disaster Risk Reduction (UNDRR): 
+Geneva. 
+Gencer, E., Folorunsho, R., Linkin, M., Wang, X., Natenzon, C.E., Wajih, S., Mani, N., 
+Esquivel, M. Ali Ibrahim, S., Tsuneki, H., Castro, R., Leone, M., Panjwani, 
+R., Romero-Lankao, P., and W. Solecki. 2018. “Disasters and Risk in 
+Cities,” in Climate Change and Cities: Second Assessment Report of the 
+Urban Climate Change Research Network, [C. Rosenzweig, W. Solecki, 
+P. Romero-Lankao, S. Mehrotra, S. Dhakal, and S. Ali Ibrahim], 61-98. 
+Cambridge University Press: New York.
+Greater Manchester Combined Authority. “Resilience Assessment to Refresh 
+Resilience Strategy” April 2018.
+Intergovernmental Panel on Climate Change (IPCC). 2014. Climate Change 
+Synthesis Report (5th Assessment Report). 
+Overseas Development Institute (ODI). 2015. 10 things to know about finance for reducing disaster risk. ODI: London. 
+Organisation for Economic Co-operation and Development (OECD) and UCLG. 
+2019. 2019 Report of the World Observatory on Subnational Government 
+Smith, B., D. Brown, and D. Dodman. 2014. Reconfiguring urban adaptation finance. International Institute for Environment and Development (IIED): 
+London.
+Tegucigalpa, the Municipal Mayor’s Office of the Central District. 2019. 
+Tegucigalpa, Inclusive, Safe, Resilient and Sustainable Capital City.
+United Cities Local Governments (UCLG). 2020a. “Live Learning Session with 
+Local Governments: Multiplying and Upscaling of Measures.”
+UCLG. 2020b. “Urban Resilience and Sustainability.” UCLG Learning Series #27. 
+San Jose, January 2020.
+UCLG. 2019a. Declaration of Local and Regional Governments at the Global 
+Platform for DRR 2019. Geneva.
+UCLG. 2019b. “Climate Resilience and Urban Development.” UCLG Learning 
+Series #26. Niteroi, November 2019.
+
+[Page 67]
+References
+UCLG. 2019c. The Localization of the Global Agendas How local action is transforming territories and communities. Fifth Global Report on 
+Decentralization and Local Democracy. UCLG: Barcelona
+UCLG. 2018. Local and Regional Disaster Risk Reduction: Peer Learning about localization of the Sendai Framework for Disaster Risk Reduction 20152030. Peer Learning #24, Surabaya.
+UCLG Asia Pacific (ASPAC). Making Asia-Pacific Cities More Resilient: Leverage the Local Governments Role in Sendai Framework for Disaster Risk 
+Reduction. 
+United Nations (UN). 2016. New Urban Agenda. UN Conference on Housing and 
+Sustainable Urban Development. 
+UN. 2015a. Sendai Framework for Disaster Risk Reduction. UNISDR: Geneva. 
+UN. 2015b. Transforming Our World: The 2030 Agenda for Sustainable 
+Development. A/RES/70/1. 
+United Nations Office for Disaster Risk Reduction (UNDRR). 2020. Words into 
+Action: Implementation Guide for Land-Use and Urban Planning. 
+UNDRR: Geneva.
+UNDRR. 2019a. Global Assessment Report on Disaster Risk Reduction. United 
+Nations Office for Disaster Risk Reduction (UNDRR): Geneva. 
+UNDRR. 2019b. Words into Action: Local Disaster Risk Reduction and Resilience 
+Strategies. UNDRR: Geneva. 
+United Nations Human Settlements Program (UN-HABITAT). 2020. 
+Recommandations d’Actions pour la Résilience et la Durabilité [Recommendations of Actions for Resilience and Sustainability - Dakar]
+UN-HABITAT. 2019. Executive Summary – Recommendations of Actions for 
+Resilience and Sustainability Maputo.
+UN-HABITAT. 2018. City Resilience Profiling Tool (CRPT).
+United Nations Office for Disaster Risk Reduction (UNISDR). 2017a. “2009 
+UNISDR Terminology on Disaster Risk Reduction.” Adopted on February 
+2, 2017. United Nations General Assembly.
+UNISDR. 2017b. Handbook for Local Government Leaders: How to Make Cities 
+More Resilient. UNISDR: Geneva. 
+UNISDR and Centre for Research on the Epidemiology of Disasters (CRED). 2018. 
+Economic Losses, Poverty and Disasters. UNISDR: Geneva. 
+UNISDR and Center for Urban Disaster Risk Reduction and Resilience (CUDRR+R). 2017. Local Government Powers for Disaster Risk Reduction. 
+UNISDR: Geneva. 
+World Bank (WB). 2012. Policy Options for Disaster Risk Financing and Transfer and Issues in Quantification of Disaster Losses and Exposures: An 
+OECD Perspective in Improving the Assessment of Disaster Risks to 
+Strengthen Financial Resilience.
+WB and Australian (AUS) Aid. 2012. Building Urban Resilience: Managing the 
+Risks of Disasters in East Asia and the Pacific. WB: Washington DC.
+
+[Page 68]
+Handouts General instructions, cards, and other material for facilitators to prepare Worksheets and useful information for participants
+
+[Page 69]
+Person & City: Shock Cards
+Cut cards to hand out to each participant or group. You can use the 
+Analysis Chart in the next page to guide the dynamic or leave it more open without it.
+Pandemic
+There has been a global pandemic and you have been infected with Covid-19. 
+Fire
+There has been a fire and your house has been completely burned down. 
+Terrorist attack
+There has been a terrorist attack and you have lost 
+2 people in your family. 
+Nuclear plant
+There has been a leak from a nuclear plant and it has given you cancer.
+
+[Page 70]
+Immune system (internal)
+Support system (external)
+CITY
+Immune system (internal)
+Support system (external)
+DYNAMIC
+Person & City: Analysis Chart
+
+[Page 71]
+Risk & Resilience: Key Concepts
+What is Risk and Resilience? Background and terminology
+Disaster risk is defined as “[t]he potential loss of life, injury, or destroyed or damaged assets which could occur to a system, society or a community in a specific period of time” (UNISDR 2017a). In simplistic terms, disaster risk is determined as a function of hazard, exposure, and vulnerability and shown with the equation:
+Hazard is defined as a process, phenomenon or human activity that may cause loss of life, injury or other health impacts, property damage, social and economic disruption or environmental degradation. Hazards may be natural, anthropogenic, or socio-natural in origin. 
+Natural hazards are predominantly associated with natural processes and phenomena; such as geophysical hazards like earthquakes, landslides or volcanic activity; hydrological hazards such as floods, wet landslides and tsunami; meteorological hazards such as storms and extreme temperatures; and climatological hazards drought and wildfires (according to EMDAT Classification). Anthropogenic hazards are associated with human activities and include technological accidents (such as oil spills, industrial fires, or toxic leaks), as well as conflict and social unrest. Biological hazards are caused by the exposure to living organisms and their toxic substances or vector-borne diseases that they may carry. Examples include mosquitoes carrying disease-causing agents such as parasites, bacteria, or viruses (e.g. malaria). Pandemics can be considered socio-natural in origin.
+Exposure is the situation of people, infrastructure, housing, production capacities and other tangible human assets located in hazard-prone areas. Measures of exposure can include the number of people or types of assets in an area.
+Vulnerability(ies) are the conditions determined by physical, social, economic and environmental factors or processes which increase the susceptibility of an individual, a community, assets or systems to the impacts of hazards. For instance, a community can be vulnerable due to the physical structure of its buildings and infrastructure, the social inequality of its citizens, and lack of coordination between its institutions among other factors or processes.
+According to the Sendai Framework (UN 2015a), resilience is “the ability of a system, community or society exposed to hazards to resist, absorb, accommodate, adapt to, transform and recover from the effects of a hazard in a timely and efficient manner, including through the preservation and restoration of its essential basic structures and functions through risk management.” 
+RISK
+Exposure
+Vulnerability
+Hazard
+Risk and Resilience are defined by different organizations and fields through different lenses and perspectives. This learning module will use the terms from the perspective of the Sendai 
+Framework for Disaster Risk 
+Reduction (SFDRR) and of the 
+New Urban Agenda (NUA).
+Understanding each of the components of risk can help identify specific actions to reduce risk and build resilience.
+
+[Page 72]
+Module 1: Resilience 
+HANDOUTS FOR PARTICIPANTS
+The New Urban Agenda further describes the resilient city as a city “that is able to absorb, adapt, and recover from the shocks and stresses that are likely to happen, transforming itself in a positive way toward sustainability” [UN-Habitat 2018). It maintains that understanding that cities can function as complex, interdependent and integrated socialecological systems is crucial to understanding how resilience-based planning, development and governance can protect life, assets and maintain continuity of functions through any plausible shock or stress.
+In this systems analysis of resilience, shocks are defined as “sudden onset events, leading, potentially, to adverse impacts unfolded within hours or days in the urban areas, while stresses are defined as chronic pressures whose cumulative impacts undermine city’s capacity for resilience” (UN-Habitat 2018). Environmental and climate trends, socioeconomic processes, and political decisions and actions further define how all these different elements change and interact over time, as illustrated in the following graphic.
+Graphic: A more systemic understanding of resilience includes different types of shocks, stresses, and is affected by environmental, socio-economic and political processes and trends.
+ 
+Hazards
+RISKS
+TIME
+TIME
+TIME
+Stresses
+Shocks
+Systems
+Exposure
+Vulnerability
+Environmental & Climate trends
+Climate change
+Natural trends
+Socio-economic processes
+Population growth
+Economic development & distribution
+Governance & Decision making
+City vision
+Adaptation & mitigation
+Policies & incentives
+Understanding that cities can function as complex, interdependent and integrated socialecological systems is crucial for resilience-based planning, development and governance.
+HANDOUT 
+Risk & Resilience: Key Concepts
+
+[Page 73]
+City/Region name 
+Dimensions
+Province located in an island. Regional capital city in close proximity to a volcano with periodic eruptions, with several outskirts settlements at high risk. Prone to be hit by tropical storms.
+Population & 
+Demographics
+1.300.000 population.
+Majority of the population under 25. 
+56% live in the capital city.
+Economy & 
+Livelihoods
+Agriculture is a key economic industry, reinforcing the impact major storms can have in other sectors such as health, nutrition, education, food security and overall socio-economic development.
+Local Government and 
+Public Administration
+The government is elected each 4 years, but has limited function. Local government mainly is responsible for street cleaning, lightening, and traffic regulation , but also for vaccination, basic health services, and cadaster of population and land.
+Ongoing Challenges
+Limited market access, lack of technical skills, and lack of financial capacity continue to reinforce persistent poverty and socio-economic inequalities in the province.
+HANDOUT 
+Risk & Resilience: City Profile Example
+
+[Page 74]
+DRR PERSPECTIVE
+Vulnerabilities
+RESILIENCE PERSPECTIVE
+Shocks
+Stresses
+EXERCISE 
+Risk & Resilience: Analysis Chart
+
+[Page 75]
+EXERCISE 
+Risk & Resilience: Your City Profile
+Write down the characteristics, and issues of each point:
+City/Region name 
+Spatial 
+Dimensions
+Population & 
+Demographics
+Economy & 
+Livelihoods
+Local Government and 
+Public Administration
+Ongoing Challenges
+
+[Page 76]
+Resilience & the SDGs: The Goals and all relevant targets
+
+[Page 77]
+Module 1: Resilience 
+HANDOUTS FOR PARTICIPANTS
+SDGs
+STRESSES
+STRESSORS
+Concentrated
+Poverty
+Hunger and
+Malnutrition
+Unhealthy and deprived environment
+Illiteracy
+Gender inequity
+HANDOUT
+Resilience & the SDGs: Stresses & Stressors
+Adapted from UN-Habitat/CRGP’s list of Stresses and Stressors. This non-exhaustive list serves as a starting selection and is open to additions or modifications based on local context.
+• 
+Discrimination - multiple forms: racial/ religious/ gender/ethnicity/ nationality
+• Uneven spatial distribution of opportunities
+• Spatial segregation/Zoning impacts
+• Income inequality 
+• Forced eviction
+• Poverty
+• Social isolation - lack of access to social service
+• Unemployment
+• Lack of access to basic services including health
+• ...
+• Inadequate food supply
+• Food dependency
+• Unsustainable and fragile agricultural farming methods and production
+• Lack of monitoring and food inspection
+• Poverty 
+• Lack of access to agricultural lands
+• Lack of awareness rising on sustainable farming
+• Agricultural land degradation
+• Drought
+• Loss of agricultural land
+• ...
+• Inadequate coverage of water and sanitation services
+• Inadequate coverage of health services
+• Inadequate capacity for awareness raising
+• Lack of monitoring and food inspection
+• Lack of monitoring of communicable diseases 
+• Lack of access to water and sanitation services
+• Lack of access to basic health services
+• Developments in hazardous areas including contaminated/ polluted areas/ heavy industrial zones
+• ...
+• Inadequate coverage of education services
+• Inadequate physical capacity of education services/ facilities
+• Inadequate coverage of cultural activities/facilities (e.g. libraries) 
+• Lack of access to education services
+• Poverty
+• Lack of access to cultural activities
+• ...
+• Gender-based discrimination
+• Normative/ legislative barriers
+• Poverty
+• Employment composition
+• Lack of access to education services
+• Lack of access to basic services including health 
+• Lack of participation in decision making and implementation
+• Lack of awareness raising plans and policies
+• Mobility barriers
+• Socio-cultural norms
+• Displacement
+
+[Page 78]
+Module 1: Resilience 
+HANDOUTS FOR PARTICIPANTS
+SDGs
+STRESSES
+STRESSORS
+Mismanagement of urban metabolism
+High dependency on non-clean energy
+Unhealthy economic growth and
+Unemployment
+Fragile infrastructures
+Unsustainable industrial development
+Socio-economic inequity
+HANDOUT
+Resilience & the SDGs: Stresses & Stressors
+• Mismanagement of water cycles
+• Mismanagement of energy cycles
+• Mismanagement of solid waste
+• Mismanagement of food production and consumption cycles 
+• Mismanagement of transportation
+• Mismanagement of urban logistics
+• ...
+• Lack of incentives for promoting the use of clean energy
+• Mismanagement of energy cycles 
+• Inadequate public awareness raising
+• Unaffordable sources of clean energy
+• ...
+• nadequate economic diversification
+• Inadequate job opportunities
+• Economic stagnation 
+• Inadequate economic diversification
+• Inadequate coverage of transportation system
+• Social isolation / local access of social networks
+• Lack of working skills 
+• Discrimination - multiple forms: racial/religious/ gender/ethnicity/ nationality
+• Precarious working environments
+• Lack of access to mobility systems
+• Economic/ financial crisis exceeding the city/ national level
+• ...
+• Aging infrastructure
+• Under-developed infrastructure 
+• Low maintenance of infrastructure
+• ...
+• Economic exclusion
+• Social exclusion
+• Discrimination - multiple forms, including gender, ethnicity, religion, nationality
+• Spatial segregation / zoning
+• Income insecurity
+• Insecurity of tenure
+• Lack of access to social services 
+• 
+Lack of access to education services
+• Unemployment
+• Lack of access to mobility system
+• Informal economy
+• Displacement
+• Forced eviction
+• ...
+• Lack of diversity in industries and manufacturing
+• Inadequate coverage of transportation system 
+• Emission-intensive industries
+
+[Page 79]
+Module 1: Resilience 
+HANDOUTS FOR PARTICIPANTS
+SDGs
+STRESSES
+STRESSORS
+Rapid and
+Unregulated urbanization
+Urban shrinkage
+Inefficiency in the use of resources
+Ecosystem degradation
+Justice and security deficit
+Lack of policies and institutional cohesion
+HANDOUT
+Resilience & the SDGs: Stresses & Stressors
+• Urban sprawl
+• Spatial segregation
+• Peripheral deprivation and specialization
+• Informal settlements
+• Housing in hazardous locations
+• Inadequate structures - inadequate enforcement of rules and regulations
+• Low density developments
+• Monocentric 
+• Inadequate coverage of basic infrastructure
+• High car dependency versus low public and sustainable transport dependency
+• Loss of agricultural land
+• Loss of natural assets
+• Lack of access to open public spaces
+• ...
+• Aging population
+• Negative migration 
+• Economic decline
+• ...
+• Unsustainable land consumption
+• Unnecessary changes of land use
+• Lack of incentives including positive and negative ones for promoting energy efficiency (residential / commercial/ industrial) 
+• Inadequate mixed use developments
+• Unsustainable consumption patterns
+• Heavy reliance on distant sources of energy, water, food, materials
+• ...
+• Poverty
+• Environmental degradation
+• Greenhouse gas emission
+• Deforestation
+• Black carbon emissions
+• Air pollution
+• Marine pollution
+• Forest fire
+• Coastal erosion 
+• Inappropriate spatial location of hazardous industries
+• Noise
+• Mismanagement of solid waste
+• Mismanagement of waste water
+• ...
+• Poverty
+• High rates of crime
+• Discrimination
+• Corruption
+• Economic exclusion
+• Gender inequity
+• Segregation
+• Violence 
+• Socio-economic inequalities
+• Inadequate law enforcement
+• Proliferation of informal settlements
+• ...
+• Inadequate risk reduction policies and measures
+• Lack of monitoring and evaluation of policies including risk reduction ones
+• Inadequate capacities of Local 
+Government - Finance and human resources 
+• Conflict of jurisdictions and competencies
+• Lack of mechanisms for resource mobilization
+• Barriers to public participation in decision making especially to people in vulnerable situations
+
+[Page 80]
+HAZARDS / SHOCKS
+VULNERABILITIES / STRESSES
+Related SDGs & Targets:
+Related SDGs & Targets: 
+Related SDGs & Targets:
+Related SDGs & Targets:
+Related SDGs & Targets: 
+Related SDGs & Targets:
+EXERCISE 
+Resilience & the SDGs: Analysis Chart
+Select the three main shocks and stresses (or hazards and vulnerabilities) your city face. Identify which SDGs and targets can help to solve or relieve each of them.
+
+[Page 81]
+In the chapter 2, we learn about the assessment of the administrative and systemic preparedness and capacity of cities or local government, that refer to the “normal“ situation. 
+The following exercise is based on a real story and will help participants to imagine local government in shock, helping them assess needs and opportunities for support. 
+After the tsunami in Aceh, the communities were traumatized, and so was local government. 
+• 10% of the municipal staff was hurt or lost the live during the disaster; the former mayor was lost in the floods. 
+• 60% of the government buildings were affected and could not be used, 
+• Particularly dramatic was the loss of the municipal documents and cadastre, the registration of inhabitants and their belonging, including land certificates. 
+• Communication channels are broken, mobile providers are the first in installing structures .
+• At the same time, the donor community was mobilized and dozens of NGOs were sending goods, building material, or even complete prefabricated housing units. 
+• The donor agencies wanted to know asap where they could channel the support, and procure licences, users, counterparts of programs.
+Exercise
+Imagine, You have been working since 10 years in the planning office, and now your best colleagues are gone, you lost your son, but there is nobody to help out and your duty is calling. 
+1. You have been asked by the national emergency office to list priorities for public service. 
+• The water pipelines are damaged, and ground water dwellings are a risk 
+• Damages in Roads and electricity are measured by large enterprises. 
+• Community leaders report that land is high jacked for placing structures.
+2. You see new leadership coming up. 
+• At the same time, in the neighbourhood some students have started to clean roads, organize solidarity groups to help out the elderly and children left behind. 
+3. The mayor of a neighbor city is asking you to indicate the needs for staff support
+• A municipality form the other part of the country offers help and will be sending municipal staffers in a plane that volunteer to support wherever needed.
+DYNAMIC
+Governance After a Disaster
+
+[Page 82]
+Print and cut out the necessary materials to be able to develop the dynamic with the participants. 1. City Introduction (city profile) 2. Elections (role playing) 3. Debate 2020 4. Voting and counting 5. Elections 2030 6. Hazards Cards 2030 7. Debate 2030 8. Voting and counting 9. Elections 2050 10. Hazards Cards 2050 11. Debate 2050 12. Voting and counting 13. Hazards Cards 2100 14. Closing discussion
+DYNAMIC
+Futurilities: Steps
+
+[Page 83]
+YOUR CITY
+The city is located in a continental area with a humid-temperate climate. Nearby is the main river, surrounded by woodlands. 
+Between the forest and the city, there are extensive crop areas which provide work for 35% of the population. The city has a total of 500,000 inhabitants and a 10% poverty rate. 
+Initial budget
+30 M
+Resilience level
+YOUR CITY
+The city is located in a continental area with a humid-temperate climate. Nearby is the main river, surrounded by woodlands. 
+Between the forest and the city, there are extensive crop areas which provide work for 35% of the population. The city has a total of 500,000 inhabitants and a 10% poverty rate. 
+Initial budget
+30 M
+Resilience level
+YOUR CITY
+The city is located in a continental area with a humid-temperate climate. Nearby is the main river, surrounded by woodlands. 
+Between the forest and the city, there are extensive crop areas which provide work for 35% of the population. The city has a total of 500,000 inhabitants and a 10% poverty rate. 
+Initial budget
+30 M
+Resilience level
+YOUR CITY
+The city is located in a continental area with a humid-temperate climate. Nearby is the main river, surrounded by woodlands. 
+Between the forest and the city, there are extensive crop areas which provide work for 35% of the population. The city has a total of 500,000 inhabitants and a 10% poverty rate. 
+Initial budget
+30 M
+Resilience level
+DYNAMIC
+Futurilities: City Profile
+
+[Page 84]
+HEAD OF FINANCE 
+Your top priority is the economic development of the city.
+HEAD OF ENVIRONMENT
+Your top priority is sustainable development and the conservation of the city’s natural heritage.
+HEAD OF HEALTH SERVICES
+Your top priority is the health and well-being of your citizens.
+HEAD OF EMPLOYMENT
+Your top priority is to generate jobs for citizens.
+MAYOR
+Your top priority is to make the right decisions to ensure the future of your city. 
+DYNAMIC
+Futurilities: Roles
+
+[Page 85]
+2020 – Level 0 
+Protests over the lack of jobs in the city have increased in recent years.
+DYNAMIC
+Futurilities: Debate 2020
+OPTION A
+A famous hotel chain proposes to build a tourist complex in a forest area near the city. This proposal would give work to many people and would take advantage of a land that is apparently abandoned.
+Investment
+10 M
+Profitability
+Before 2030 the invested capital will be recovered and you will earn 20M for jobs and tourism.
+Resilience
+You lose 1 point for the destruction of the forest.
+OPTION B
+An environmental association suggests investing in the conservation of the forest, which is suffering from biodiversity loss and invasive species. This forest protects other areas from being flooded and improves the city’s air quality.
+Investment
+5 M
+Profitability
+By 2030 you will recover the capital invested due to the jobs generated.
+Resilience
+You win 1 point for forest conservation.
+OPTION C
+There is the possibility of not investing and saving for future more promising projects or possible inconveniences that may arise. 
+Investment
+Profitability
+Resilience
+You maintain the same level of resilience.
+
+[Page 86]
+2030 – Level 1
+Flooding is a growing problem in the city and is generating citizen unrest.
+DYNAMIC
+Futurilities: Debate 2030
+OPTION A
+A hydraulic engineering company proposes an expensive project as a solution to the floods. To do this, the waterproof asphalt must be replaced by one that allows for good water drainage on a permanent basis. These construction operations can cause dust and noise pollution to the citizens for several months. 
+Investment
+20 M
+Profitability
+By 2050 you will recover the capital invested for creating jobs.
+Resilience
+You get 2 points for stopping the floods.
+OPTION B
+The company responsible for public sewage has created inexpensive removable barriers that are placed before an episode of heavy rain and prevent the streets from flooding. The company includes replacing damaged fences in their budget which generates long term fixed jobs.
+Investment
+10 M
+Profitability
+You get back the invested capital and earn 20M for creating jobs before 2050.
+Resilience
+You get 1 point for stopping the floods.
+OPTION C
+There is the possibility of not investing and saving for future more promising projects or possible inconveniences that may arise. 
+Investment
+Profitability
+Resilience
+You maintain the same level of resilience.
+
+[Page 87]
+2050 – Level 2
+There is a lot of pressure from the citizens for the government to do something about the floods and the precarious situation of the farmers.
+DYNAMIC
+Futurilities: Debate 2050
+OPTION A
+An environmental education and sustainability company suggests investing in educating farmers in new farming techniques and alternatives to the intensive agriculture they have practiced up to now. This program should be accompanied by subsidies so that farmers can renew their working infrastructure.
+Investment
+15 M
+Profitability
+You recover the capital invested and earn 5M for creating a more sustainable economic model before 2100. 
+Resilience
+You earn 2 points for protecting the economy from flooding.
+OPTION B
+A company specializing in retaining walls proposes to channel the main river to stop the overflows. This infrastructure is designed to withstand up to 20% more torrential rains than there are currently. In addition, it would allow for the creation of a walking area around the river for exercise. 
+Investment
+25 M
+Profitability
+You recover the invested capital and earn 20M for creating numerous jobs before 2100.
+Resilience
+You get 1 point for stopping the floods.
+OPTION C
+There is the possibility of not investing and saving for future more promising projects or possible inconveniences that may arise. 
+Investment
+Profitability
+Resilience
+You maintain the same level of resilience.
+
+[Page 88]
+Futurilities: Hazard Cards
+HAZARD 2030
+Level 1
+During the last 10 years there have been 2 episodes of torrential rain.
+If your resilience level is less than or equal to 2
+The rains have caused major flooding in agricultural fields and poor neighborhoods in the city. + 2,000 people affected
+- 20M in recovery
+If your resilience level is higher than 2
+The rains have ruined several crops and affected a poor neighborhood in the city.
++ 500 people affected
+- 10M in recovery
+HAZARD 2050
+Level 2
+During the last 20 years there have been 7 episodes of torrential rain.
+If your resilience level is less than or equal to 3
+The rains have flooded all crops, creating a severe financial crisis among farmers. + 4,000 people affected
+- 25M in recovery
+If your resilience level is higher than 3
+The rains have spoiled a large part of the crops creating a precarious situation among farmers.
++ 2,000 people affected
+- 10M in recovery
+
+[Page 89]
+Futurilities: Hazard Cards
+HAZARD 2100
+Level 3
+During the last 50 years there have been 50 episodes of torrential rain.
+If your resilience level is less than or equal to 5
+They have washed away all the fields and other areas of the city in a devastating way. + 50,000 people affected
+- 50M in recovery
+If your resilience level is higher than 5
+Rains are still a problem in some areas on the outskirts of the city.
++ 500 people affected
+- 5M in recovery
+
+[Page 90]
+Budget
+Resilience level
+Affected people
+2020
+Level 0
+Start
+30M
+Post-decision
+2030
+Level 1
+Post-hazard
+Post-decision
+2050 
+Level 2
+Post-hazard
+Post-decision
+2100 level 3
+Post-hazard
+DYNAMIC
+Futurilities: Progress table
+
+[Page 91]
+Betting on resilience
+This example is based on the assumption that you bet on the options that give you the most resilience points in every round. In this case, the government team will find that in the 2050 decision you do not have enough budget to invest in new measures and can only choose option 
+C (do nothing). Even so, this is the final result that adds up to the least number of people affected.
+Betting on the economy
+This example is based on betting in all the rounds for the options that give more economic gains. The consequence of these decisions ends up leading the local government to bankruptcy, demonstrating the inefficiency of short-term decisions. This scenario also causes a high number of people to be affected.
+Examples of possible outcomes 
+Year
+Level
+Budget
+Resilience level
+Affected people
+2020
+Level 0
+Start
+30M
+Post-decision
+30M
+2030
+Level 1
+Post-hazard
+20M
+Post-decision
+20M
+2050 
+Level 2
+Post-hazard
+10M
+2,500
+Post-decision
+10M
+2100 
+Level 3
+Post-hazard 
+TOTAL
+5M
+3,000
+Year
+Level
+Budget
+Resilience level
+Affected people
+2020
+Level 0
+Start
+30M
+Post-decision
+50M
+2030
+Level 1
+Post-hazard
+30M
+2,000
+Post-decision
+50M
+2050 
+Level 2
+Post-hazard
+25M
+6,000
+Post-decision
+45M
+2100 
+Level 3
+Post-hazard 
+TOTAL
+-5M
+56,000
+DYNAMIC
+Futurilities: Possible Outcomes
+
+[Page 92]
+Betting on mixed decisions
+This example show a set of decisions that favor several aspects of the city and its citizens, which has better results than those decisions that bet only in one direction. The complexity lies in finding the balance.
+Examples of possible outcomes 
+Year
+Level
+Budget
+Resilience level
+Affected people
+2020
+Level 0
+Start
+30M
+Post-decision
+50M
+2030
+Level 1
+Post-hazard
+30M
+2,000
+Post-decision
+30M
+2050 
+Level 2
+Post-hazard
+20M
+4,000
+Post-decision
+25M
+2100 
+Level 3
+Post-hazard 
+TOTAL
+20M
+4,500
+DYNAMIC
+Futurilities: Possible Outcomes
+
+[Page 93]
+Strategy & Actions
+Financing mechanism
+EXERCISE 
+Strategies & Financing
+
+[Page 94]
+AWARENESS
+LRGs Needs
+LRGAs Contribution
+EXERCISE 
+Contribution of LRGAs ADVOCACY
+LRGs Needs
+LRGAs Contribution GOVERNANCE GAP
+LRGs Needs
+LRGAs Contribution CAPACITY
+LRGs Needs
+LRGAs Contribution MONITORING
+LRGs Needs
+LRGAs Contribution

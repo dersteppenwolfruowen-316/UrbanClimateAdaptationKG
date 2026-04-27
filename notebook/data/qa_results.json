@@ -1,0 +1,118 @@
+[
+  {
+    "query": "What adaptation strategies does Houston use to address flooding?",
+    "linked_entities": [
+      {
+        "name": "Houston",
+        "type": "City",
+        "eid": "4:11720d35-2b36-4fc5-8104-2c5be922e6a9:470"
+      },
+      {
+        "name": "Flooding",
+        "type": "ClimateHazard",
+        "eid": "4:11720d35-2b36-4fc5-8104-2c5be922e6a9:57"
+      }
+    ],
+    "cypher": "MATCH (c:City {name: toLower(\"Houston\")})-[:EXPERIENCES]->(h:ClimateHazard {name: toLower(\"flooding\")})\nMATCH (h)<-[:ADDRESSES]-(a:AdaptationAction)\nRETURN a.action_name, a.adaptation_type, a.status, a.cost_usd, a.co_benefits\nLIMIT 20",
+    "cypher_results": [],
+    "context": "=== Relevant Adaptation Actions (semantic search) ===\n• [Houston] Smart City Houston program\n  Addresses: \n  Outcomes: \n  Similarity: 0.811\n• [Houston] Smart City Houston\n  Addresses: \n  Outcomes: \n  Similarity: 0.810\n\n=== Related Climate Hazards (semantic search) ===\n• Hurricane Harvey — experienced by: Houston\n  Addressed by: Business After Harvey Initiative\n• Green Stormwater Infrastructure — experienced by: Houston\n  Addressed by: \n• Increased Flooding — experienced by: Dallas\n  Addressed by: \n\n=== Relevant Policies (semantic search) ===\n• coastal adaptation and flood management policy [city]\n  Cities: \n  Issued by: \n  Similarity: 0.821\n• Climate Adaptation Strategy [city]\n  Cities: Vancouver\n  Issued by: \n  Similarity: 0.809\n• Climate Change Adaptation Strategy [city]\n  Cities: Vancouver\n  Issued by: City of Vancouver\n  Similarity: 0.804\n\n=== Relevant Actors (semantic search) ===\n• City of Houston [government]\n  Cities active in: Houston\n  Actions: green stormwater infrastructure projects\n  Similarity: 0.783\n• City of Houston Planning and Development Department [None]\n  Cities active in: \n  Actions: \n  Similarity: 0.757\n• Houston’s Recovery Team [government]\n  Cities active in: \n  Actions: \n  Similarity: 0.752\n\n=== Relevant Outcomes (semantic search) ===\n• Greater Flood Protection [flood protection]\n  Produced by: Dale Hodges Park\n  Cities: Calgary\n  Similarity: 0.785\n• Flood Risk Reduction [Flood Risk Reduction]\n  Produced by: Comprehensive Storm Drainage System Assessment\n  Cities: \n  Similarity: 0.783\n• Reduction In # Of Flooding Events [flood reduction]\n  Produced by: green infrastructure programs\n  Cities: \n  Similarity: 0.771\n\n=== Graph Traversal Results ===\n\nSubgraph around [Houston]:\n  Houston → Flooding → Flood and climate risk education initiative → ['Community Engagement']\n  Houston → Greenhouse Gas Emissions → Energy Star Index scheme → ['Cny5.8 Billion Investment In Energy-Saving Technologies', 'Cny1.55 Billion Economic Benefit', 'Cny1.55 Billion Economic Benefit In 2011']\n  Houston → Flood → Lily Pads → ['Safe Place Of Refuge', 'Community Networks For Support And Mutual Aid']\n  Houston → Flood → Natural infrastructure → ['Resilience Benefits', 'Economic, Health And Social Dividends']\n  Houston → Urban Heat Island Effect → Tree planting on public land → ['Tree Canopy Cover']\n\nSubgraph around [Flooding]:\n  Ningbo: Flood and climate risk education initiative (type: education) → ['Community Engagement']\n  Wuhan: Flood and climate risk education initiative (type: education) → ['Community Engagement']\n  Washington DC: Flood and climate risk education initiative (type: education) → ['Community Engagement']\n  Vancouver: Flood and climate risk education initiative (type: education) → ['Community Engagement']\n  Pittsburgh: Flood and climate risk education initiative (type: education) → ['Community Engagement']\n\n=== Connecting Paths in Graph ===\n  Houston -[EXPERIENCES]→ Flooding",
+    "answer": "Houston employs several adaptation strategies to address flooding, particularly in response to the challenges posed by Hurricane Harvey and increased flooding risks. Key strategies include:\n\n1. **Smart City Houston Program**: This initiative focuses on integrating technology and data to improve urban resilience and manage flooding more effectively.\n\n2. **Green Stormwater Infrastructure Projects**: The City of Houston is actively implementing green infrastructure to enhance flood management. These projects aim to reduce the volume and speed of stormwater runoff, thereby mitigating flooding risks.\n\n3. **Business After Harvey Initiative**: This initiative was launched in the aftermath of Hurricane Harvey to support recovery and resilience-building efforts for businesses affected by flooding.\n\n4. **Community Engagement**: Houston has initiated flood and climate risk education programs to raise awareness and engage the community in flood preparedness and resilience efforts.\n\nThese strategies collectively aim to enhance flood protection, reduce the frequency of flooding events, and promote community resilience in the face of climate-related challenges.",
+    "vector_hits": {
+      "actions": 2,
+      "hazards": 5,
+      "policies": 5,
+      "actors": 5,
+      "outcomes": 5
+    },
+    "graph_hits": 3,
+    "path_validity": {
+      "total_paths": 1,
+      "well_formed": 1,
+      "ill_formed": 0,
+      "well_formed_rate": 1.0
+    }
+  },
+  {
+    "query": "Which cities share similar approaches to extreme heat management?",
+    "linked_entities": [
+      {
+        "name": "Extreme Heat",
+        "type": "ClimateHazard",
+        "eid": "4:11720d35-2b36-4fc5-8104-2c5be922e6a9:151"
+      }
+    ],
+    "cypher": "MATCH (c:City)-[:EXPERIENCES]->(h:ClimateHazard {name: 'extreme heat'})<-[:ADDRESSES]-(a:AdaptationAction)\nWITH c, a\nMATCH (a)<-[:MANDATES]-(p:Policy)\nWITH c, a, p\nOPTIONAL MATCH (a)<-[:IMPLEMENTS]-(actor:Actor)\nRETURN DISTINCT c.name, a.action_name, p.policy_name, actor.name\nLIMIT 20",
+    "cypher_results": [],
+    "context": "=== Relevant Adaptation Actions (semantic search) ===\n• [Washington DC] Comprehensive Extreme Heat Management Strategy\n  Addresses: \n  Outcomes: \n  Similarity: 0.808\n• [Houston] Urban Heat Island Mapping Campaign\n  Addresses: \n  Outcomes: \n  Similarity: 0.749\n\n=== Related Climate Hazards (semantic search) ===\n• Urban Heat Island Management Study — experienced by: Dallas\n  Addressed by: \n• Urban Heat Island — experienced by: Washington DC, Dallas\n  Addressed by: urban greening factor requirements, Increase access to green spaces\n• Urban Heat Island Effect — experienced by: Houston, Dallas\n  Addressed by: Tree planting on public land\n\n=== Relevant Policies (semantic search) ===\n• Climate Adaptation Strategy [city]\n  Cities: Vancouver\n  Issued by: \n  Similarity: 0.775\n• Climate Change Adaptation Strategy [city]\n  Cities: Vancouver\n  Issued by: City of Vancouver\n  Similarity: 0.764\n• Sustainable DC 2.0 [city]\n  Cities: \n  Issued by: District Government\n  Similarity: 0.754\n\n=== Relevant Actors (semantic search) ===\n• Extreme Heat Interagency Working Group [None]\n  Cities active in: \n  Actions: \n  Similarity: 0.739\n• Future City Builders [None]\n  Cities active in: \n  Actions: \n  Similarity: 0.699\n• Climate Friendly Buildings Advisory Committee [public]\n  Cities active in: \n  Actions: \n  Similarity: 0.699\n\n=== Relevant Outcomes (semantic search) ===\n• Reduction In Urban Heat Island [Urban Heat Island Reduction]\n  Produced by: Green Infrastructure projects\n  Cities: \n  Similarity: 0.776\n• Improved Green Space And Reduced Urban Heat Island Effect [environmental improvement]\n  Produced by: Explore a dedicated funding stream for GRI maintenance\n  Cities: Vancouver\n  Similarity: 0.761\n• Reduced Heat-Related Hospital Admissions [Health]\n  Produced by: Comprehensive Heat Management Strategy\n  Cities: \n  Similarity: 0.701\n\n=== Graph Traversal Results ===\n\nSubgraph around [Extreme Heat]:\n  Washington DC: Supporting indoor cooling and thermal safety at home (type: None) → []\n  Vancouver: Supporting indoor cooling and thermal safety at home (type: None) → []\n  Pittsburgh: Supporting indoor cooling and thermal safety at home (type: None) → []\n  Houston: Supporting indoor cooling and thermal safety at home (type: None) → []\n  Greater Houston: Supporting indoor cooling and thermal safety at home (type: None) → []",
+    "answer": "Key findings indicate that several cities are employing strategies to manage extreme heat, particularly through comprehensive planning and green infrastructure.\n\n1. **Washington DC** has implemented a **Comprehensive Extreme Heat Management Strategy**, which focuses on reducing heat-related hospital admissions and supporting indoor cooling and thermal safety at home.\n\n2. **Houston** is addressing extreme heat through an **Urban Heat Island Mapping Campaign** and has also engaged in tree planting on public land to mitigate the Urban Heat Island Effect.\n\n3. **Vancouver** has developed a **Climate Change Adaptation Strategy** and is exploring dedicated funding for green infrastructure maintenance, which contributes to improved green space and reduced urban heat effects.\n\n4. **Dallas** is also experiencing the Urban Heat Island Effect and is involved in studies and actions aimed at managing this issue, including urban greening initiatives.\n\nThese cities share a focus on integrating green infrastructure and comprehensive strategies to combat the impacts of extreme heat, highlighting a collaborative approach to urban climate adaptation.",
+    "vector_hits": {
+      "actions": 2,
+      "hazards": 5,
+      "policies": 5,
+      "actors": 5,
+      "outcomes": 5
+    },
+    "graph_hits": 1,
+    "path_validity": {
+      "total_paths": 0,
+      "well_formed": 0,
+      "ill_formed": 0,
+      "well_formed_rate": 1.0
+    }
+  },
+  {
+    "query": "What are the outcomes of green infrastructure interventions across North American cities?",
+    "linked_entities": [],
+    "cypher": "MATCH (c:City)-[:LOCATED_IN]->(a:AdaptationAction)-[:PRODUCES]->(o:Outcome)\nWHERE c.region = 'North America' AND a.adaptation_type = 'green infrastructure'\nRETURN c.name AS city, a.action_name AS adaptation_action, o.name AS outcome, o.outcome_type, o.magnitude\nLIMIT 20",
+    "cypher_results": [],
+    "context": "\n=== Related Climate Hazards (semantic search) ===\n• Natural Infrastructure — experienced by: Calgary\n  Addressed by: \n• Green Stormwater Infrastructure — experienced by: Houston\n  Addressed by: \n• Urban Resilience — experienced by: Pittsburgh\n  Addressed by: \n\n=== Relevant Policies (semantic search) ===\n• Natural Infrastructure Blueprint [None]\n  Cities: \n  Issued by: \n  Similarity: 0.743\n• Sustainable DC 2.0 [city]\n  Cities: \n  Issued by: District Government\n  Similarity: 0.734\n• Resilience Strategy [city-wide]\n  Cities: \n  Issued by: \n  Similarity: 0.723\n\n=== Relevant Actors (semantic search) ===\n• DC Green Finance Authority [finance]\n  Cities active in: \n  Actions: \n  Similarity: 0.689\n• District Stormwater [None]\n  Cities active in: \n  Actions: \n  Similarity: 0.686\n• Future City Builders [None]\n  Cities active in: \n  Actions: \n  Similarity: 0.676\n\n=== Relevant Outcomes (semantic search) ===\n• Improved Green Space And Reduced Urban Heat Island Effect [environmental improvement]\n  Produced by: Explore a dedicated funding stream for GRI maintenance\n  Cities: Vancouver\n  Similarity: 0.780\n• 100 New Green Stormwater Infrastructure Projects [project completion]\n  Produced by: Green Stormwater Infrastructure Program\n  Cities: \n  Similarity: 0.773\n• Outcome 1 [Improved Infrastructure Resilience]\n  Produced by: Apply a Resilience Lens to Strengthen Public Infrastructure Investment Decisions\n  Cities: Calgary\n  Similarity: 0.761",
+    "answer": "Key findings on the outcomes of green infrastructure interventions across North American cities include:\n\n1. **Improved Green Space and Reduced Urban Heat Island Effect**: In Vancouver, initiatives aimed at exploring dedicated funding streams for green infrastructure maintenance have led to enhanced green spaces and a reduction in the urban heat island effect. This highlights the dual benefits of environmental improvement and urban livability.\n\n2. **Increased Green Stormwater Infrastructure Projects**: A notable outcome from the Green Stormwater Infrastructure Program is the completion of 100 new projects, which indicates a significant investment in managing stormwater effectively while also enhancing urban resilience.\n\n3. **Enhanced Infrastructure Resilience**: Calgary has applied a resilience lens to strengthen public infrastructure investment decisions, resulting in improved infrastructure resilience. This approach ensures that urban systems are better equipped to handle climate-related challenges.\n\nThese outcomes illustrate the multifaceted benefits of green infrastructure, including environmental improvements, enhanced urban resilience, and effective stormwater management across various cities. However, the context does not provide specific details on other cities' interventions or outcomes beyond those mentioned.",
+    "vector_hits": {
+      "actions": 0,
+      "hazards": 4,
+      "policies": 5,
+      "actors": 5,
+      "outcomes": 5
+    },
+    "graph_hits": 0,
+    "path_validity": {
+      "total_paths": 0,
+      "well_formed": 0,
+      "ill_formed": 0,
+      "well_formed_rate": 1.0
+    }
+  },
+  {
+    "query": "How do Vancouver and Calgary differ in their climate resilience policies?",
+    "linked_entities": [
+      {
+        "name": "Vancouver",
+        "type": "City",
+        "eid": "4:11720d35-2b36-4fc5-8104-2c5be922e6a9:213"
+      },
+      {
+        "name": "Calgary",
+        "type": "City",
+        "eid": "4:11720d35-2b36-4fc5-8104-2c5be922e6a9:944"
+      }
+    ],
+    "cypher": "MATCH (c:City)\nWHERE toLower(c.name) IN ['vancouver', 'calgary']\nOPTIONAL MATCH (p:Policy)-[:ISSUED_BY]->(a:Actor)\nWHERE p.level = 'city' AND (c)-[:EXPERIENCES]->(:ClimateHazard)<-[:ADDRESSES]-(a)-[:IMPLEMENTS]->(:AdaptationAction)\nRETURN c.name AS city, p.policy_name AS policy, p.policy_type AS type, p.year AS year, actor.name AS actor\nLIMIT 20",
+    "cypher_results": [],
+    "context": "=== Relevant Adaptation Actions (semantic search) ===\n• [Calgary] Calgary Dollars\n  Addresses: \n  Outcomes: Economic Resilience For Equity-Seeking Communities, 67 Per Cent Of Calgary Dollars Users State They Have Established Relationships Of Trust, 73 Per Cent State They Have Someone That Would Help Them\n  Similarity: 0.761\n\n=== Related Climate Hazards (semantic search) ===\n• Urban Resilience — experienced by: Pittsburgh\n  Addressed by: \n• Climate Risk — experienced by: Developing Asia’s cities, Developing Asia\n  Addressed by: \n• Resilience Challenges — experienced by: Pittsburgh\n  Addressed by: \n\n=== Relevant Policies (semantic search) ===\n• Resilient Vancouver strategy [city]\n  Cities: \n  Issued by: Mayor of Vancouver\n  Similarity: 0.810\n• Vancouver’s Climate Change Adaptation Strategy [municipal]\n  Cities: \n  Issued by: City of Vancouver, City Council\n  Similarity: 0.809\n• Resilient Calgary strategy [None]\n  Cities: \n  Issued by: Brad Stevens\n  Similarity: 0.806\n\n=== Relevant Actors (semantic search) ===\n• Calgary’s Chief Resilience Officer [government]\n  Cities active in: \n  Actions: \n  Similarity: 0.784\n• City of Vancouver [government]\n  Cities active in: Vancouver\n  Actions: Extreme Rainfall Risk Assessment and Strategy - Phases 1 and 2\n  Similarity: 0.764\n• Vancouver City Council [None]\n  Cities active in: \n  Actions: \n  Similarity: 0.737\n\n=== Relevant Outcomes (semantic search) ===\n• Calgary Services Are Supported By Shock And Stress Resilient Watershed Systems [support]\n  Produced by: Implement an Integrated Watershed Management Approach\n  Cities: \n  Similarity: 0.764\n• Calgarians Are Supported Through Strategic Investment In Natural Infrastructure [support]\n  Produced by: Natural Infrastructure Policy Integration\n  Cities: \n  Similarity: 0.756\n• Calgarians Are Supported Through Sound Analysis Of Natural Infrastructure Value That Informs Decision-Making [support]\n  Produced by: Natural Infrastructure Valuation Toolkit\n  Cities: Calgary\n  Similarity: 0.747\n\n=== Graph Traversal Results ===\n\nSubgraph around [Vancouver]:\n  Vancouver → Flooding → Flood and climate risk education initiative → ['Community Engagement']\n  Vancouver → Extreme Rainfall → Extreme Rainfall Risk Assessment and Strategy - Phases 1 and 2 → ['Overland Flood Risk Reduction']\n  Vancouver → Extreme Weather → Temporary Modular Housing → ['Immediate Relief For Homeless People']\n  Policy: Climate Change Adaptation Strategy → Sea2City Design Challenge (implemented by: [])\n  Policy: 2025 Strategy → Resilient Neighbourhoods Program (implemented by: [])\n  Policy: Climate Adaptation Strategy → digital tool (implemented by: [])\n\nSubgraph around [Calgary]:\n  Calgary → Flooding → Flood and climate risk education initiative → ['Community Engagement']\n  Calgary → Flood → Lily Pads → ['Safe Place Of Refuge', 'Community Networks For Support And Mutual Aid']\n  Calgary → Flood → Natural infrastructure → ['Resilience Benefits', 'Economic, Health And Social Dividends']\n  Policy: Indigenous Policy → Support the Revitalization of Indigenous Cultures and Languages (implemented by: [])\n\n=== Connecting Paths in Graph ===\n  Vancouver -[EXPERIENCES]→ Flooding -[EXPERIENCES]→ Calgary",
+    "answer": "Key Findings:\n\n1. **Policy Framework**:\n   - **Vancouver** has a structured approach with specific strategies like the **Resilient Vancouver strategy** and the **Climate Change Adaptation Strategy**. These include initiatives such as the **Extreme Rainfall Risk Assessment and Strategy** aimed at reducing overland flood risk and enhancing community engagement through education initiatives.\n   - **Calgary**, on the other hand, emphasizes community support and economic resilience through programs like **Calgary Dollars**, which fosters trust and mutual aid among users. The **Resilient Calgary strategy** focuses on integrating natural infrastructure to enhance resilience against flooding.\n\n2. **Focus Areas**:\n   - Vancouver's policies are more comprehensive in addressing extreme weather events, particularly flooding, with a clear emphasis on risk assessment and community engagement.\n   - Calgary's approach is more community-centric, focusing on building relationships and economic resilience, alongside integrating natural infrastructure to support flood resilience.\n\n3. **Implementation and Actors**:\n   - Vancouver's strategies are driven by the **City of Vancouver** and its **City Council**, indicating a collaborative governance model.\n   - Calgary's resilience efforts are led by its **Chief Resilience Officer** and involve community-based initiatives, reflecting a grassroots approach.\n\nIn summary, Vancouver's policies are more formalized and focused on technical assessments, while Calgary prioritizes community engagement and economic resilience.",
+    "vector_hits": {
+      "actions": 1,
+      "hazards": 4,
+      "policies": 5,
+      "actors": 5,
+      "outcomes": 5
+    },
+    "graph_hits": 4,
+    "path_validity": {
+      "total_paths": 1,
+      "well_formed": 1,
+      "ill_formed": 0,
+      "well_formed_rate": 1.0
+    }
+  }
+]

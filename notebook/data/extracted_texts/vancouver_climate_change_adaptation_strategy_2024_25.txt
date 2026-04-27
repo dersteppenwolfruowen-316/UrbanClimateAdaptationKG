@@ -1,0 +1,2327 @@
+[Page 1]
+CLIMATE CHANGE 
+ADAPTATION STRATEGY
+2024-2025 UPDATE AND ACTION PLAN
+CITY OF VANCOUVER
+
+[Page 2]
+CITY OF VANCOUVER CLIMATE CHANGE ADAPTATION STRATEGY | 2024-2025 UPDATE AND ACTION PLAN / 2
+Acknowledgments
+We acknowledge with respect and gratitude that this report was produced on the traditional, unceded territories of the xwməθkwəy̓ əm (Musqueam), 
+Skwxwú7mesh (Squamish) and səlilwətaɬ (Tsleil-Waututh) Nations, who continue to live on, steward and host the land known as the City of Vancouver today. The Nations have called this place home since time immemorial and have stewarded these lands and waterways to ensure prosperity for future generations. 
+We are grateful to live and work on these lands, and acknowledge the responsibility we have to ensure the land is taken care of respectfully, especially in the face of climate change. 
+Vancouver skyline (Source: City of Vancouver)
+
+[Page 4]
+CITY OF VANCOUVER CLIMATE CHANGE ADAPTATION STRATEGY | 2024-2025 UPDATE AND ACTION PLAN / 4
+Executive Summary
+CLIMATE CONTEXT
+The United Nations Intergovernmental Panel on Climate Change (IPCC) released its Sixth Assessment Report in March 2023, stating that “Human-caused climate change is already affecting many weather and climate extremes in every region across the globe. 
+This has led to widespread adverse impacts and related losses and damages to nature and people.” While climate mitigation efforts (such as those in Vancouver’s Climate Emergency Action Plan) are more important than ever to limit the extent of climate change, increasing climate impacts make adaptation an imperative. The 
+IPCC calls for “climate resilient development [that] integrates adaptation and mitigation,” recognizing that deep, rapid and sustained mitigation and adaptation in this decade would reduce future losses and damages from climate change for humans and ecosystems.i 
+Western Canada is already on average one to two degrees warmer than it was in the 1940sii and projections from global climate models for the 2050s in Vancouver suggest increasing temperatures year-round, a shift in precipitation patterns, and more frequent and intense extreme weather events. Vancouver is also expected to see approximately one meter of sea level rise by 2100 and more poor air quality days from wildfire smoke and ground-level ozone.iii These projections translate to a range of impacts to human, natural, and built systems, including: increased risk of negative health and safety outcomes; overheating of new and existing buildings; increased loss of trees, vegetation and biodiversity; and increased street, property and shoreline flooding. 
+These changes in climate are already being witnessed firsthand. In the last five years, British Columbia has experienced the most fatal climate-related event (2021 heat dome), the most costly weather event (2021 flooding), and the most destructive and expensive wildfire season on record (2023). Other climate impacts include repeated damage to Vancouver’s shoreline infrastructure and periods of the worst air quality in the world due to wildfire smoke.
+HISTORY OF THE STRATEGY
+Vancouver has recognized the need to respond to these impacts and has been taking action for over a decade through the Climate 
+Change Adaptation Strategy (the Strategy), the first of its kind in 
+Canada when approved in 2012. Now on its third iteration following an update in 2018, the Strategy aims to prepare Vancouver for the impacts of a changing climate. Proactively planning for change allows for a greater variety of implementation options, harnessing windows of opportunity and leading to significant avoided costs and losses in the future. Cities are at the forefront of climate impacts and also have many of the tools necessary to respond and adapt. Strong steps have been taken in Vancouver to prepare for climate change impacts, but continued momentum is needed. Public opinion polling indicates a high level of concern for climate change among residents, with extreme weather and disasters the top concern.iv
+Achievements from the 2018 Strategy include the internationally recognized Sea2City Design Challenge, a Cool Kit and do-ityourself air cleaner pilot program, and the implementation of 
+76 green rainwater infrastructure projects to clean and retain rainwater runoff from 45,000 square meters of street. Climate adaptation has been embedded within numerous plans and policies throughout various departments, increasing resilience and reducing risk from climate impacts. 
+CITY OF VANCOUVER CLIMATE CHANGE ADAPTATION STRATEGY | 2024-2025 UPDATE AND ACTION PLAN / 4
+Sea2City Design Challenge rendering of Vancouver’s shoreline (Source: North Shore 
+Collective (PWL Partnership + MVRDV + Modern Formline + Deltares))
+
+[Page 5]
+CITY OF VANCOUVER CLIMATE CHANGE ADAPTATION STRATEGY | 2024-2025 UPDATE AND ACTION PLAN / 5
+2024-25 UPDATE
+This 2024-25 Strategy update is structured around the five main climate-related hazards facing Vancouver (extreme heat, poor air quality, drought, extreme rainfall, and sea level rise) and takes a risk-based approach to adaptation planning. The Strategy introduces updated climate projections, new objectives, and an action plan structured around the hazards plus enabling actions to support mainstreaming of climate adaptation across the City. 
+It also has an increased focus on equity, prioritizing adaptation measures that support populations disproportionately impacted by climate change.
+An indicator and financial framework are included to support implementation. It is important to note that the funding needed to advance climate adaptation at the pace and scale required is beyond the City’s capacity and will require long term, sustainable funding from senior levels of government. This is particularly the case for coastal adaptation, for which we know the infrastructure costs will be high and there is a history of senior funding to support. 
+POLICY ALIGNMENT
+The Strategy relies on a diversity of existing City efforts that aim to improve overall resilience to climate-related hazards, including the City’s updated Hazard, Risk, and Vulnerability Analysis (HRVA), which outlines the broad range of hazards facing Vancouver and works in unison with this Strategy to improve Vancouver’s ability to mitigate, prepare for, respond and recover from shocks and stresses.
+Since the last update in 2018, a number of related plans have been developed such as the Vancouver Plan and the Resilient 
+Vancouver Strategy. In addition, this Strategy relies on efforts to address inequities and systemic vulnerabilities that challenge resilience through the City’s first Equity Framework and the 
+United Nations Declaration on the Rights of Indigenous Peoples (UNDRIP) Strategy commitments. This Strategy update integrates these existing plans and also reflects the changing policy context at senior levels of government. The BC Climate Adaptation and Preparedness Strategy (2022) and Canada’s first National 
+Adaptation Strategy (2023) are important guiding documents to align local action with.
+LOOKING FORWARD
+Looking forward, in 2025 the Strategy will be updated with actions for 2026-30 alongside the City’s climate mitigation plan – the Climate Emergency Action Plan. By aligning the City’s climate mitigation and climate adaptation plans, a more coordinated approach will be taken to climate action in Vancouver at a time when both are more critical than ever.
+.
+Green rainwater infrastructure at Sunset Park (Source: Shannon Mendes)
+Extreme 
+Heat
+Sea Level 
+Rise
+Extreme 
+Rainfall
+Drought
+Poor Air 
+Quality
+Enabling Actions
+CITY OF VANCOUVER CLIMATE CHANGE ADAPTATION STRATEGY | 2024-2025 UPDATE AND ACTION PLAN / 5
+
+[Page 6]
+CITY OF VANCOUVER CLIMATE CHANGE ADAPTATION STRATEGY | 2024-2025 UPDATE AND ACTION PLAN / 6
+Section 1 Introduction
+THE CHALLENGE
+In 2023, the Intergovernmental Panel on Climate Change (IPCC) released its Sixth Assessment Report (AR6) summarizing the state of knowledge of climate change, its widespread impacts, and risks. The report stated that “human activities, principally through emissions of greenhouse gases (GHGs), have unequivocally caused global warming. […] Across the world, changes to weather and climate extremes are already being witnessed, leading to widespread adverse impacts and related damage and losses to people and the environment.”i Globally, 2023 was by far the hottest year on record , and Western Canada is on average one to two degrees warmer than it was in the 1940s.ii, v
+It is widely accepted that, despite efforts to limit GHG emissions, global temperature will continue to increase in the near term (2021-40) as result of cumulative emissions to date, and is likely to reach 1.5°C above historical averages even under a low emissions scenario. Every increment of warming will intensify climate impacts, and the World Economic Forum’s 2024 Global 
+Risks Report ranks extreme weather events linked to climate change as the number one global risk over the long-termv.
+In Canada, which is warming at twice the global average rate,i, ii climate change is increasing risks to health and wellbeing, nature and biodiversity, infrastructure, and the economy. Since the Strategy was last updated in 2018, British Columbia has experienced Canada’s most fatal climate-related event (2021 heat dome), the province’s most costly weather event (2021 flooding), and the most destructive and expensive wildfire season on record (2023). Climate change is increasing the frequency and intensity of extreme events such as these, and Vancouver is also experiencing newer climate impacts such as extreme drought conditions and poor air quality from wildfire smoke. 
+These climate change impacts do not affect all groups equally. 
+Preparing communities for climate change, especially those who are more vulnerable to its impacts, has become imperative.
+RESPONDING TO THE CHALLENGE
+While climate mitigation efforts are more important than ever to limit the extent of climate change, increasing climate impacts make climate adaptation urgent as well. The IPCC call for “climate resilient development [that] integrates adaptation and mitigation to advance sustainable development for all,” recognizing that “deep, rapid, and sustained mitigation and accelerated implementation of adaptation actions in this decade would reduce future losses and damages related to climate change for humans and ecosystems.”i
+Climate mitigation refers to ongoing attempts to limit climate change through the reduction of greenhouse gas emissions in the atmosphere. The City of Vancouver has been a leader in climate change mitigation since the 1990s – through the Clouds of Change, 
+Greenest City Action Plan, and now the Climate Emergency 
+Action Plan, which sets targets to reduce Vancouver’s carbon pollution by 50% by 2030 and become carbon neutral by 2050.
+Climate adaptation recognizes that despite our best efforts on mitigation, changes to climate are inevitable – and in fact, 
+Vancouver is already witnessing a number of changes today. 
+Adaptation therefore refers to actions taken to prepare for and respond to the impacts of climate change – both by reducing risk to climate changes, and enhancing resilience to withstand them. 
+The Climate Change Adaptation Strategy has been the guiding plan for climate adaptation in Vancouver over the past decade. 
+Many strategies contribute to both climate mitigation and adaptation. For example, building upgrades such as the installation of electric heat pumps improve energy efficiency and reduce carbon pollution while providing indoor cooling and air filtration. 
+Planting trees and installing green infrastructure to reduce the impacts of extreme heat also sequesters carbon.
+
+[Page 7]
+CITY OF VANCOUVER CLIMATE CHANGE ADAPTATION STRATEGY | 2024-2025 UPDATE AND ACTION PLAN / 7
+WHAT IS CLIMATE ADAPTATION?
+“Adaptation is finding new ways of making decisions, building communities and businesses, and protecting each other and the places we value in anticipation of climate change. It means ensuring that we are all better able to prevent, prepare, respond, and recover from climate impacts today and in years to come. 
+Taking ambitious and collective action to adapt in ways that are equitable and inclusive will help us ensure that everyone’s lives and welfare are protected from the impacts of a changing climate”vi – National Adaptation Strategy, Government of Canada (2023).
+ASSOCIATED BENEFITS FROM CLIMATE ADAPTATION MEASURES
+Taking action to improve resilience and reduce risks created by climate hazards can have other benefits that make Vancouver a more livable city with a thriving economy and robust natural systems. 
+Financial
+Investing in climate action now leads to significant future avoided costs. A study by the Canadian Climate Institute found that every dollar spent on adaptation measures in Canada could save $13 to $15 in the long term.vii This is particularly important for municipalities, who own and operate 
+60% of Canada’s public infrastructure.viii 
+For example, an estimated $28.6 billion of land and buildings (approximately 13km2, 
+2013 land assessment) are vulnerable to flooding in Vancouver with one metre of sea level rise and a major storm surge without flood protection measures in placeix. 
+Taking proactive adaptation measures can also benefit the economy directly, for example through the creation of jobs in the green buildings sector in response to the demand for home cooling upgrades. 
+Health and Quality of Life
+In addition to reducing direct exposure to hazards like extreme heat and poor air quality, adaptation measures can provide other health benefits. 
+For example, greenspace can reduce exposure to air pollution,x and promotes mental wellness, increased physical activity levels, and provide spaces for social connection.xi
+Over 90% of polled Vancouver residents reported that they are concerned about climate change, with extreme weather and disasters their top concern, followed by concerns about rising temperatures and climate change.iv Demonstrating that the City of Vancouver is implementing climate change adaptation measures may help reduce climate anxiety for residents.
+Environment
+Taking action to minimize the impacts of climate change can also provide benefits for Vancouver’s terrestrial and marine ecosystems. Expanding greenspace can improve ecological connectivity and habitat access throughout Vancouver for animals, birds and insects.xii Reducing combined sewer overflow events through extreme rainfall adaptation efforts can benefit water quality for marine life by limiting pollution and debris from entering waterways.xiii 
+Preventing shoreline squeeze—whereby rising sea levels reduce natural spaces along the coast--using nature-based adaptation approaches can help protect coastal habitats.
+Climate resilient infrastructure
+Coastal 
+Adaptation
+Extreme heat preparedness
+MITIGATION 
+Walkable land use planning
+Active transportation and transit
+Zero emissions buildings & vehicles
+Resilient building design & retrofits
+Green rainwater infrastructure 
+Urban forestry
+ADAPTATION
+Figure 1: Examples of mitigation and adaptation
+
+[Page 8]
+CITY OF VANCOUVER CLIMATE CHANGE ADAPTATION STRATEGY | 2024-2025 UPDATE AND ACTION PLAN / 8
+Section 2 Progress Since 2018
+A first of its kind in Canada, Vancouver’s Climate Change 
+Adaptation Strategy (the Strategy) was approved by City Council in 2012, and last updated in 2018.
+The 
+2018 
+Adaptation 
+Strategy is responsible for, or became the main driver of, the implementation of over 70 actions across the city. The actions were grouped according to six different themes, as shown in the table below. The majority of the actions have been completed or are ongoing. Some actions are still in progress or have been carried forward into this update, while a smaller number were not started or deemed redundant – these were generally reliant on other parties to proceed or addressed by other planning processes (such as Vancouver Plan).
+Beyond specific Strategy actions, consideration of adaptation to climate change has been incorporated in diverse projects ranging from a guiding principle in the Jericho Lands Policy Statement to Vancouver becoming the first municipality in Canada to disclose climate-related risks in its 2018 Statement of Financial 
+Information (following Task Force on Climate-Related Financial 
+Disclosure guidelines).xiv
+ACTION CATEGORY
+ACTION STATUS
+Complete or on track to be complete
+Ongoing
+Carried forward for consideration in the 
+2024-25 update
+Redundant
+Total
+Not complete
+Not started
+Robust Infrastructure
+-
+Resilient Buildings
+-
+Prepared, Connected Communities
+Healthy Natural Areas and Green Space
+Coastline Preparedness
+Enabling Actions
+Grand Total
+Figure 2: 2018 CCAS action status
+
+[Page 9]
+CITY OF VANCOUVER CLIMATE CHANGE ADAPTATION STRATEGY | 2024-2025 UPDATE AND ACTION PLAN / 9
+KEY ACHIEVEMENTS
+Slowly but steadily over the last decade, the knowledge and capacity to include adaptation in day-to-day work (mainstreaming) is increasing, but there is still more to be done. Several key achievements of the 2018 Strategy are highlighted below.
+RESILIENT NEIGHBOURHOODS PROGRAM 
+Extreme Heat
+Since the 2021 Heat Dome, the City has leveraged the Resilient 
+Neighbourhoods Program to develop place-based, communityled extreme heat preparedness initiatives. Over the past two years, over 20 organizations have worked with the City to support their communities through extreme heat each summer, taking actions that protect lives, strengthen trust and social connections, and build capacity to adapt to a changing world. Community-based organizations have developed wellness-check programs for isolated seniors, hosted heat-preparedness workshops in multiple languages, supported peer check-in programs, distributed cooling supplies, increased access to water and shade, and more. These partners have also played an integral part of the 
+City’s Cool Kits pilot program by building and distributing kits to people most in need to help them stay cool at home. 
+COOL AIR AND CLEAN AIR SPACES 
+Extreme Heat
+The City has been a leader in establishing Cool and Clean Air 
+Spaces for over a decade, and has expanded access to civic spaces as respite from extreme heat and wildfire smoke events. 
+In 2023, there were 28 cooling centres at community centres and libraries, 26 misting stations, and 14 spray parks available to the public. In 2022, the City developed a guide for cool spaces that has since been used as the foundation for Vancouver Coastal 
+Health’s Cooling Spaces guide. 
+The City adopted the “Access to City Services Without Fear” policy to ensure that all residents can feel confident and safe accessing civic spaces and services. The City has also collaborated extensively with community organizations such as Mount 
+Pleasant, Collingwood, and Gordon Neighbourhood Houses on neighbourhood-level plans to improve resilience to extreme heat.
+Distributing Cool Kits (Source: City of Vancouver)
+Cooling Centre at Mount Pleasant Community Centre (Source: City of Vancouver)
+Poor Air Quality
+
+[Page 10]
+CITY OF VANCOUVER CLIMATE CHANGE ADAPTATION STRATEGY | 2024-2025 UPDATE AND ACTION PLAN / 10
+CIVIC WATER USE REDUCTION PROJECTS 
+Drought
+Water demand management to reduce per capita consumption is important for sustainable use of drinking water to improve resiliency during acute climate events and as Vancouver’s population grows. 
+Vancouver uses more water during summer months - the time when there is least rainfall - meaning that water demand is out of sync with precipitation patterns. In 2020 the 
+City set a target to reduce corporate water use by 10% by 2030, recognizing the compounding effects of climate change on water supply. From 2020 to 2023, over 100 civic water meters and 50 pressure reducing valves (PRVs) were installed on Park assets and irrigation systems, civic works yards, and community centres.
+These have resulted in an average 33% water use reduction per site, and also reduced GHGs from heating water by 11%. Since 2019, civic water use has decreased by 6% through implementation of meters, PRVs, and active leak repair programs.
+SEA2CITY DESIGN CHALLENGE 
+Sea Level Rise
+The Sea2City Design Challenge was a collaborative design challenge to rethink the future of the False Creek shoreline. 
+The project brought together two multi-disciplinary design teams, City staff, local coastal adaptation experts, and Host 
+Nation representatives, knowledge keepers and designers from 
+Musqueam, Squamish, and Tsleil-Waututh over a 12-month period to re-imagine four key sites along Vancouver’s False 
+Creek. Underpinning the resulting conceptual designs is a new approach to coastal adaptation which shifts the conventional approach to one that works with water and ecosystems, as well as humans and the built environment. The teams showed how these sites can adapt to rising sea levels while accommodating urban development and fostering ecological revitalization.
+GREEN RAINWATER 
+INFRASTRUCTURE PROJECTS 
+Extreme Rain
+Between 2018 and 2023, the City implemented 76 green rainwater infrastructure (GRI) projects, cleaning and retaining rainwater runoff from 
+45,000 square meters of street. GRI is a costeffective approach to rainwater management that protects, restores, and mimics the natural water cycle. It uses soils, plants, trees, and engineered structures to capture, store, and clean urban rainwater runoff before returning it to our waterways and atmosphere. Some of the major projects completed over the past five years are located on Woodland Drive at 2nd Avenue, 
+Prince Edward Street in Sunset Park, and Richards Street from 
+Dunsmuir Street to Pacific Boulevard.
+Staff inspect a new park water meter (Source: City of Vancouver)
+Rain garden and bioswale at 
+Woodland Drive and 2nd Ave (Source: City of Vancouver)
+Sea2City Design Challenge rendering of Coopers Park (Source: North Shore 
+Collective (PWL Partnership + MVRDV + Modern Formline + Deltares))
+
+[Page 11]
+CITY OF VANCOUVER CLIMATE CHANGE ADAPTATION STRATEGY | 2024-2025 UPDATE AND ACTION PLAN / 11
+Section 3 Vancouver’s Changing Context
+Much has changed since the last update to the Climate Change Adaptation Strategy in 2018. Vancouver has experienced several climate-related events with significant impacts including loss of life (primarily among the city’s most vulnerable populations), damage to infrastructure, and economic disruption.
+RECENT CLIMATE IMPACTS (2018-2023)
+Canada is warming at twice the global average rateii and 
+Vancouver has experienced increasing climate impacts in recent years, including:
+• 
+Between June 25 and July 2021, western Canada experienced an unprecedented ‘heat dome’ event, recording temperatures up to 20°C above normal, and breaking all-time heat records. 
+At the peak, temperatures reached over 40°C in many parts of the province. This was the deadliest weather event in Canada to date with the BC Coroners Service confirming 619 heatrelated deaths, 117 of those in Vancouver.xv 
+• 
+Also in 2021, a November ‘atmospheric river’ event brought two days of intense rainfall (500mm) to southwest British 
+Columbia, causing catastrophic flooding and mudslides. 
+Highway infrastructure was heavily impacted, with widespread damage to roads and bridges. This resulted in the Lower 
+Mainland becoming cut off from the rest of Canada by road and rail, impacting access and Vancouver’s supply chain.xvi 
+This was the most costly weather event in the province’s history, with estimated insured losses of $675 million.xvii 
+• 
+In January 2021 and January 2022, king tides (the largest tides of the year that occur when the sun, moon and Earth align) combined with storms caused significant damage to 
+Kitsilano pool, delaying opening for costly repair work. Areas of the Stanley Park seawall and Jericho pier also sustained significant damage, with the latter costing an estimated $1.7 million to repair. In December 2022, king tides pushed water levels at Point Atkinson in West Vancouver to a historic height of 5.70 meters, breaking the previous record of 5.61 meters set in 1982.
+• 
+In 2021, 2022, and 2023, BC faced extreme drought conditions with some of the most severe conditions on record experienced in 2023 and stream flow of the Fraser River at its lowest ever recorded level. The combination of drought with extreme heat, such as seen with the 2021 heat dome, both exacerbates wildfires and primes the Lower Mainland for catastrophic flooding with the arrival of fall rainstorms.
+• 
+BC has experienced its four most severe wildfire seasons on record during the past seven years – in 2017, 2018, 2021, and 
+2023.xviii 2023 was the most expensive and most destructive wildfire season yet, with wildfires burning 24,900 sq km of land – nearly double the previous record, set in 2018.xix High temperatures, extreme drought, and the largest wildfire on record all contributed to this record-breaking season, during which nearly 140,000 people in BC were impacted by wildfire evacuation orders. In 2021 and 2022, wildfire smoke briefly gave Vancouver some of the worst air quality in the world.xx 
+View from the Burrard Street Bridge during a poor air quality event (Source: City of Vancouver)
+
+[Page 12]
+CITY OF VANCOUVER CLIMATE CHANGE ADAPTATION STRATEGY | 2024-2025 UPDATE AND ACTION PLAN / 12
+PROJECTED CLIMATE CHANGE (2050s)
+A detailed understanding of anticipated future changes to local climate is necessary to prepare effectively for accelerating climate-related impacts. This section summarizes climate projections for Vancouver from various sources – together, they provide an overview of the types of changes expected in the near to mid-term.
+TEMPERATURE AND PRECIPITATION CHANGES
+For this Strategy update, the Pacific Climate Impacts Consortium (PCIC) at the University of Victoria prepared downscaled climate data for the City of Vancouver based on an ensemble of nine global climate models (GCMs) used in the IPCC’s most recent AR6 report.iii This study focused on indices related to precipitation and temperature.
+The updated local climate projections presented here are based on a high greenhouse gas emissions scenario, known as the 
+Shared Socioeconomic Pathway 5-8.5 (SSP585). This scenario was used for the regional and provincial adaptation plans as well. 
+The SSP585 scenario describes a “business as usual” scenario where global fossil fuel usage continues and accelerates. While local and global commitments have been made to reduce carbon pollution, planning based on climate projections under SSP585 could be considered a “no regrets” strategy for adaptation, and it is prudent to plan for this scenario until global climate change mitigation actions begin to catch up to commitments. 
+The following projections are median expected conditions under this emissions pathway for the 2050s (2041-2070). There is high confidence in climate models through to the 2050s; beyond this is more uncertain as impacts are dependent on the results of strategies to reduce GHG emissions in the next couple of decades. 
+However, the magnitude of change under SSP585 for the 2050s is roughly comparable to that projected for the 2080s (2071 – 
+2100) under the moderate emissions scenario (SSP245). Planning for SSP858 will allow Vancouver to make important decisions and plan for future increases in climate impacts, while multiple pathways and options are still available. For all projections, the relative baseline time range is 1981 – 2010 (‘the past’). 
+Figure 3: Projected annual average changes to temperature (left) and precipitation (right) across BC relative to observed changes since 1981-2010. The black curves show historical data from weather stations; the coloured curves and shaded areas show projections under three of the IPCC shared socioeconomic pathways (SSPs) from 2015-2100
+Temperature Change in British Columbia (vs. 1981-2010 baseline)
+Precipitation Change in British Columbia (vs. 1981-2010 baseline)
+Temperature Change (°C)
+Temperature Change (°C)
+
+[Page 13]
+CITY OF VANCOUVER CLIMATE CHANGE ADAPTATION STRATEGY | 2024-2025 UPDATE AND ACTION PLAN / 13
+SUMMARY OF CLIMATE PROJECTIONS
+Warmer temperatures. Temperatures will increase year-round, being 
+2.4°C warmer on average. The hottest summer days will become hotter, with three times as many days over 25°C and nine times as many over 
+30°C. Heatwaves will become more frequent (four times that in the past) and longer (from three to six days on average), with both warmer day and nighttime temperatures. A 460% increase in cooling degree days is projected (a measure of cooling demand). In winter, warmer temperatures mean less frequent frost and a 25% decrease in heating degree days (a measure of heating demand). 
+Longer summer dry spells. Average summer rainfall is projected to decrease by 4% to 140mm and the average dry spell length will increase by 17% to 27 days. This combination of less rain and more dry days in the summer months will lead to more frequent and severe drought conditions.
+Changing precipitation patterns. Average fall rainfall is expected to increase by 12%, and by the end of the century some years may have more rain in fall than in winter, with average snowfall decreasing by 60%. 
+Extreme rainfall events will become more frequent and intense, with the frequency of a historic one-in-twenty year event increasing from once to twice per 20-year period and rainfall in a single day extreme rainfall event increasing by 20% to 86mm.
+Sea level rise. Projections for sea level rise vary widely after the year 2050 from sixty centimeters over current levels to more than six meters over current levels by 2100. The Province of B.C. currently recommends using half a meter for planning to 2050, one meter to 2100 and two meters to 2200.xxi The largest uncertainty in 21st century sea level projections stems from possible collapse of the West Antarctic Ice sheet. 
+Air quality. It is more challenging to accurately project future changes in air quality, largely due to the fact that the source of much of this air pollution occurs outside of Vancouver. However, there is high confidence among climate scientists that increased temperatures and longer drier periods will increase wildfire frequency and intensity. Vancouver should be prepared for more frequent poor air quality days associated with wildfires, as well as increased levels of ground level ozone exacerbated by warmer temperatures.
+These projections are largely consistent with previous climate projections for Vancouver, with some variability between different climate indices. 
+Figure 4: Summary of climate projections for a selection of key indices for Vancouver. Temperature projections do not include humidity, which can make temperatures feel hotter. Air quality is not included as it is an emerging hazard with sources largely outside of Vancouver
+Impact Driver
+Historical
+Emissions Scenarios
+1990s
+2041-2070 (”2050s”)
+Median
+Low
+Median
+High
+Extreme 
+Heat
+Hottest summer day
+29.7°C
+32.2°C
+32.9°C
+36°C
+Number of >30°C days per year
+Number of >16°C nights per year
+Longest annual heatwave (in days)
+Number of heat wave days per year
+Drought
+Total summer rainfall
+144mm
+113mm (-21%)
+138mm (-4%)
+143mm (-0%)
+Total annual snowfall
+46mm
+8mm (-84%)
+19mm (-60%)
+28mm (-45%)
+Extreme 
+Rainfall
+Number of days with heavy rainfall
+Maximum 1-day precipitation
+46mm
+51mm (+8%)
+53mm (+15%)
+58mm (+28%)
+Total rainfall on the 1-in-20 wettest day
+72mm
+80mm (+11%)
+86mm (+19%)
+97mm (+35%)
+Sea 
+Level 
+Rise
+Sea level rise +3.7 cm 
+1910 - 
+2017 (Environmental 
+Reporting BC)
+
+[Page 14]
+CITY OF VANCOUVER CLIMATE CHANGE ADAPTATION STRATEGY | 2024-2025 UPDATE AND ACTION PLAN / 14
+LOCAL CLIMATE IMPACTS
+These changes in climate have widespread impacts on health and wellbeing, nature and biodiversity, infrastructure, and the economy. 
+The specific impacts of each climate-related hazard are discussed in the action plan in Section 5, and are summarized in Figure 5:
+Figure 5: Impacts of climate-related hazards
+Health and Well-Being
+Nature and Biodiversity
+Infrastructure
+Economy
+Extreme 
+Heat
+• Increased heat-related illness and fatalities, particularly for vulnerable populations, such as seniors, people with disabilities, and residents without access to indoor cooling at home.
+• Decreased thermal comfort in buildings in the summer.
+• Negative mental health impacts and an increase in intimate partner violence.
+• Increasing vectors for disease.
+• Ecosystem stress and marine die off events during prolonged periods of heat.
+• Accelerated introduction and spread of invasive species due to warmer year-round weather.
+• Increased stress on vegetation, trees, and green rainwater infrastructure (exacerbated by drought conditions).
+• Increased risk of forest fires (exacerbated by drought conditions).
+• Increasing energy costs due to air conditioning needs.
+• Building upgrades to provide passive and/or mechanical cooling may disrupt use and be costly.
+• Outdoor workers may experience loss of income due to limited work or adverse health impacts. 
+• Business closures due to a lack of mechanical cooling indoors.
+• Loss of income for parents and caregivers due to childcare facility closures resulting from high indoor temperatures.
+Poor Air 
+Quality
+• Acute and long-term cardiovascular and respiratory health impacts due to smoke exposure, particularly for individuals with pre-existing health conditions. 
+• Negative mental health impacts due to social isolation, decreased physical activity and safe access to culturally significant natural areas.xxii 
+• Negative health impacts for animals and wildlife.
+• Plants may be impacted by dense smoke that reduces light exposure. 
+• Building upgrades for air filtration systems add cost for building owners and residents.
+• Outdoor workers may experience loss of income due to limited work or adverse health impacts. 
+• Potential cancellation of outdoor events including festivals, park use and recreation.
+Damage to the Stanley Park seawall following king tides and stormy weather (Source: Vancouver Park Board)
+
+[Page 15]
+CITY OF VANCOUVER CLIMATE CHANGE ADAPTATION STRATEGY | 2024-2025 UPDATE AND ACTION PLAN / 15
+Health and Well-Being
+Nature and Biodiversity
+Infrastructure
+Economy
+Drought1 
+• Potential for public health problems, including shortages of drinking water and poor quality drinking water. 
+• Indirect impacts such as emotional stress due to events outside of Vancouver, e.g. wildfires that are exacerbated by drought conditions.
+• Increased stress on vegetation, trees, and green rainwater infrastructure (exacerbated by high temperatures). 
+• Increased tree loss in 
+Vancouver’s urban forest, especially newly planted trees.
+• Spawning fish may be at risk from low stream levels and warmer river temperatures.
+• Reduced quality of forage crops for terrestrial species due to decreased plant growth and water scarcity.
+• Rainwater management systems negatively impacted.
+• More stringent water restrictions to conserve water and protect urban water supply may be needed.
+• Businesses reliant on water for production of goods and services may be impacted.
+Extreme 
+Rainfall
+• People experiencing homelessness may not be able to find shelter from inclement weather, which sometimes coincides with very cold temperatures.
+• Residents who live in groundfloor or basement units may be displaced by flooding or experience mold related health impacts.
+• Increases in private property sewer backups in combined sewer areas.
+• Runoff of pollutants into the ocean can impact sensitive marine ecosystems.
+• Changing precipitation patterns leading to an earlier freshet may cause stress to aquatic species (in combination with drought and extreme heat).xxiii
+• Water damage to buildings in ground-floor and basementlevels due to precipitation and surface pooling.
+• Increases in sewer back-ups due to high rainfall volume in sewer system.
+• Increase in landslide risk affecting public infrastructure and private property.
+• Minor disruptions to businesses due to indoor flooding, general reduction of public use of outdoor recreation.
+• Higher volumes of third-party liability claims against the city from major rain events.
+• Increasing costs of flood insurance where available for floodplain areas.
+• Increased costs for response and clean up after extreme rainfall events.
+Sea Level 
+Rise
+• Potential for diminished social and emotional wellbeing due to displacement, loss of property or belongings, and decreased access to natural public spaces.
+• Degradation in quality of the intertidal zone and coastal squeeze may impact Indigenous communities’ health and wellbeing due to decreased access to traditional food sources and archaeological sites.
+• Gradual inundation of low-lying land along the coast and the 
+Fraser River, including coastal squeeze and erosion of shoreline habitats.
+• Increased damage to shoreline infrastructure (e.g. seawalls, 
+Jericho Pier) and areas resulting in greater discontinuity of use. 
+• Sea level rise will exacerbate drainage issues in low-lying areas and raise the groundwater table, resulting in more frequent sewer back-ups and localized flooding.
+• Disruption to industrial areas located represented in the floodplain. 
+• Increasing costs of shoreline infrastructure repair.
+• Increasing costs of flood insurance for floodplain areas, and decreasing availability of insurance.
+Drought is an emerging local climate impact and there is limited knowledge about direct local impacts (particularly for human health infrastructure and the economy), but there are general inferences that can be made based on the effects of drought
+
+[Page 16]
+CITY OF VANCOUVER CLIMATE CHANGE ADAPTATION STRATEGY | 2024-2025 UPDATE AND ACTION PLAN / 16
+CITY OF VANCOUVER CLIMATE CHANGE ADAPTATION STRATEGY | 2024-2025 UPDATE AND ACTION PLAN / 16
+DISPROPORTIONATE CLIMATE IMPACTS
+The impacts of climate change will disproportionately impact certain populations including Indigenous, Black, and People of 
+Colour (IBPOC), women, children, youth, older adults, low-income individuals, people experiencing homelessness, people living with pre-existing physical and mental health conditions, and certain occupational groups.ii
+During extreme weather events such as periods of extreme heat, poor air quality, and flooding these socio-economic and physiological factors impact an individual’s capacity to prepare for and recover from climate impacts (‘adaptive capacity’):
+• 
+Race and ethnicity, including Indigenous status, are commonly referenced as a social determinant of health because of “the ways that the legacy of colonial policies, and current structural, political, cultural, and economic power imbalances can negatively impact adaptive capacity … systemic racism influences the living and working conditions that people experience every day.”xxiv
+• 
+Individuals and populations experiencing socioeconomic disadvantage (including low-income, under-housed, and homelessness) may lack secure income, access to safe and healthy physical environments, and access to services needed to prepare for and recover from climate impacts.
+• 
+Renters and tenants are particularly vulnerable due to their lack of decision-making authority and financial resources to improve the safety of their homes. 
+Precarious housing leaves tenants unable to advocate for or install safety measures in their buildings and underlying stresses like poverty, food insecurity, ableism, racism and other inequities create substantial barriers for residents to adapt to climate extremes.
+• 
+Persons with disabilities are “among the most vulnerable [and] at increased risk of the adverse impacts of climate change and extreme weather events due to limited mobility, increased reliance on caregivers, social isolation, other compounding health related challenges, interruption to supply chains for medicines, and also due to discrimination, marginalization, and certain social and economic factors.”xxv 
+• 
+Outdoor workers and people experiencing homelessness are exposed to climate hazards and events for extended periods of time with limited access to spaces for reprieve. 
+• 
+Social isolation can contribute to a lack of social networks to seek support and adaptive capacity to cope.
+• 
+Age and gender contribute to higher sensitivity to environmental factors and climate change. Older adults may have pre-existing chronic conditions that increase their vulnerability, and may experience social isolation. Pregnant people and children are also more sensitive to the effects of certain climate hazards.xxv
+In addition to these factors, connection to land, community, and critical information can be disrupted during chronic climatic changes such as sea level rise and extended periods of drought, impacting an individual’s ability to adapt.
+Populations that are disproportionately impacted by each climate related hazard are identified in the Action Plan (Section 5).
+
+[Page 17]
+CITY OF VANCOUVER CLIMATE CHANGE ADAPTATION STRATEGY | 2024-2025 UPDATE AND ACTION PLAN / 17
+Canada’s
+National 
+Adaptation 
+Strategy
+Building Resilient Communities and a Strong Economy              !"# $%&'$()*+, !"-
+A NEW POLICY LANDSCAPE
+Vancouver’s 2012 Climate Change Adaptation Strategy was the first of its kind in Canadian municipal adaptation. Since then, the policy landscape has evolved significantly, with adaptation planning now undertaken throughout all levels of government and climate adaptation is shifting from an emerging practice to a more established one. Since the first update to the Strategy in 2018, these key plans have been developed by senior levels of government:
+• 
+The Government of Canada’s National Adaptation Strategy (2023) outlines a shared path to a more climate-resilient 
+Canada, with a vision for the future and actions across five interconnected systems: disaster resilience, health and wellbeing, nature and biodiversity, infrastructure, and economy and workers. 
+• 
+The Province of B.C.’s Climate Preparedness and Adaptation 
+Strategy 2022-2025 (2022) outlines a set of actions to strengthen the Province’s capacity to anticipate and respond to sudden events like wildfires, floods and heatwaves, while also helping prepare and respond to changes that happen more slowly like rising sea levels, receding glaciers and shifting ecosystems. Actions are grouped into four key pathways: foundations for success, safe and healthy communities, resilient species and ecosystems, and climate-ready economy and infrastructure.
+• 
+Metro Vancouver’s Climate 2050 (2018) is a strategic framework to guide climate change policy and action in Metro 
+Vancouver over the next 30 years, focusing on both mitigation and adaptation. 
+These strategies all recognize that cities are often at the forefront of climate impacts and acknowledge the critical role municipalities have to play in climate adaptation. In turn, this update to Vancouver’s Climate Change Adaptation Strategy aligns with the priorities set out in these plans. Effective climate adaptation will require planning, funding, and support from all levels of government as part of an ‘whole-of-society approach’ that also includes the private sector and acknowledges the critical role that First Nations have. For more information on the roles of different levels of government in adaptation, see Appendix C.
+ROLE OF LOCAL GOVERNMENT IN CLIMATE ADAPTATION
+It is widely recognized that climate adaptation is most effective at the regional and local level, as exposure to hazards as well as vulnerability, adaptive capacity and risk are all place-based in nature. Many of the impacts from climate change will affect the services and infrastructure for which local governments have the primary responsibility. However, local governments also have many of the tools necessary for climate adaptation, such as land use planning, building standards, and emergency response, and also invest in capital projects and programs that are expected to serve residents over many decades. Local governments also have a duty of care to their residents, particularly those who are more vulnerable to the impacts from climate change.
+Together, with support from senior levels of government, these provide the opportunity to ‘future-proof’ the city by proactively planning to be resilient to future climate conditions, as well as saving money in the long-term through avoiding higher costs to repair or rebuild at a later date. 
+Figure 6: Senior government climate adaptation plans (from left to right: Canada’s 
+National Adaptation Strategy, British Columbia’s Climate Preparedness and 
+Adaptation Strategy, Metro Vancouver’s Climate 2050 Strategic Framework)
+
+[Page 18]
+CITY OF VANCOUVER CLIMATE CHANGE ADAPTATION STRATEGY | 2024-2025 UPDATE AND ACTION PLAN / 18
+IN VANCOUVER
+The internal policy landscape at the City of Vancouver has evolved since the Climate Change Adaptation Strategy was last updated in 
+2018. Since the impacts of climate change are felt throughout society, climate adaptation relies on a range of strategies to improve the overall resilience of the city to climate-related hazards, and to address inequities and systemic vulnerabilities that challenge resilience. 
+This Strategy seeks to draw from foundational work across various strategies, support the alignment of goals, and strengthen climate adaptation in City plans, policies, and strategies. Some of these key strategies and their link to adaptation are shown in Figure 7.
+FOUNDATIONAL PLANS AND 
+FRAMEWORKS
+• 
+United Nations Declaration on the Rights of Indigenous 
+Peoples (UNDRIP Strategy)
+• 
+Equity Framework
+OVERARCHING CITY 
+POLICY
+• 
+Vancouver Plan
+• 
+Resilient Vancouver
+Figure 7: Key City strategy linkages to climate-related hazards
+
+[Page 19]
+CITY OF VANCOUVER CLIMATE CHANGE ADAPTATION STRATEGY | 2024-2025 UPDATE AND ACTION PLAN / 19
+FOUNDATIONAL PLANS AND FRAMEWORKS
+Vancouver has a number of guiding, city-wide strategies and frameworks that underpin all City work. The Climate Change Adaptation 
+Strategy takes direction from these by incorporating key components to advance the plans’ goals in partnership with climate adaptation:
+The Vancouver Plan (2022) is a visionary long-range land use plan to create a more livable, affordable, and sustainable city for everyone. It will guide the growth of the city in an intentional way, clarifying where growth and change will occur over the next 30 years. One of the Plan’s ‘Three Big Ideas’ is Climate Protection and Restored Ecosystems 
+United Nations Declaration on the Rights of Indigenous Peoples (UNDRIP) Strategy (2022) includes 79 calls to action on social, cultural, and economic well-being; ending Indigenous-specific racism and discrimination; self-determination and inherent right of self-government; and rights and title of Indigenous people. The 
+UNDRIP Strategy was co-authored by the Musqueam, Squamish, and Tsleil-Waututh Councils, along with the City of Vancouver. 
+Implementation of the UNDRIP Strategy is intended to strengthen 
+Indigenous rights and government-to-government relations to improve lives of Indigenous people in Vancouver.
+Equity Framework: Getting our House in Order (2021) defines core concepts underlying the City’s commitment to equity and aligns the City of Vancouver’s internal culture and processes in the direction of equity. It is implemented through a range of both community-facing and internal initiatives. The Equity Framework establishes a vision “where those who are most marginalized are not excluded from care and opportunity for flourishing, rather, they are systemically prioritized for it.” Following this Framework, the City’s first Accessibility Strategy (2022) was developed to support the City’s commitment to the full participation of persons with disabilities.
+Resilient Vancouver (2019) is a citywide strategy that takes a comprehensive approach to addressing shocks, such as earthquakes, and stresses, such as aging infrastructure. The strategy builds capacity to anticipate, manage, and recover from Vancouver’s biggest risks, and aligns work to help the City survive, adapt, and thrive in the face of its greatest challenges such as climate change. 
+The City’s updated Hazard Risk and Vulnerability Analysis (2024) is intended to help Vancouver make risk-based choices to address vulnerabilities, mitigate hazards and prepare for responding to and recovering from emergencies and disasters. 
+The HRVA process assesses sources of potential harm, their likelihood of occurring, the severity of their possible impacts, and who or what is disproportionately exposed or vulnerable to these impacts. The results are important inputs to a range of work, including climate adaptation planning for climate-related hazards.
+Heron and Sun sculpture by Brandon and Vincent Morgan (Heron) and 
+Ethan Baker (Sun), Tsawwassen Nation (Source: Shannon Mendes)
+
+[Page 20]
+CITY OF VANCOUVER CLIMATE CHANGE ADAPTATION STRATEGY | 2024-2025 UPDATE AND ACTION PLAN / 20
+CITY STRATEGIES
+In addition to these foundational plans and frameworks, there are a number of City plans that directly advance or support climate adaptation. Some of the key strategies are described here:
+The Vancouver Plan provides direction for the forthcoming 
+Healthy Waters Plan, which will guide sewage and rainwater management policy, advocacy, and long-range investments. The plan drivers include addressing pollution from combined sewer overflows and urban rainwater runoff, meeting the growth needs of the city and addressing key risks related to climate change and aging infrastructure.
+The Vancouver Plan also initiated the development of the 
+Ecological Land Use Plan. In order to advance the long-term ecological vision of Vancouver Plan, the city is undertaking an ecological inventory to plan an ecological network. This project will recommend land use tools for conservation, and targets, priority projects and sources of funding to implement the network.
+The Groundwater Strategy is an action that arose from the 
+2018 Climate Change Adaptation Strategy. It is intended to be a comprehensive, city-wide framework that aims to address groundwater-related risks and opportunities. The strategy will identify the key actions needed to understand local hydrogeology, protect aquifers from contamination and depletion, and sustainably manage and use groundwater resources in a holistic manner by developing a collaborative approach to resource management through engagement and partnerships. It is expected to be complete in 2025/26. 
+The Climate Emergency Action Plan (2020) is a road map to reduce Vancouver’s carbon pollution by 50% by 2030 and become carbon neutral by 2050. It calls for transformational changes, partnerships, and bold climate policies in five focus areas: land-use planning, transportation, buildings, infrastructure, and enhancing and protecting natural systems. This is Vancouver’s climate mitigation plan, which supports climate adaptation efforts in a number of areas such as low carbon resilient buildings.
+The Rain City Strategy (2019) provides a long-term roadmap for advancing and evolving the City’s rainwater management practices and services to ensure the long-term resilience and sustainability of water resources, and the health of residents and the environment through the integration of green infrastructure. 
+The Healthy City Strategy (2014) outlines a long-term integrated plan for healthier people, healthier places, and a healthier planet. 
+One of its focus areas - healthy urban environments - directly advances climate adaptation, and a number of other focus areas also support it. The Strategy has thirteen goals and is expected to be updated in 2024.
+The Urban Forest Strategy (2014) outlines goals and targets to protect, plant, and manage trees to create a diverse, resilient, and beautiful urban forest on public and private lands across the city. 
+It integrates both climate mitigation and adaptation, and has four targets to increase the urban forest canopy and restore natural areas. The Strategy is expected to be updated in 2024.
+Wherever possible, actions in this updated Strategy promote work taking place under other plans that contribute to climate adaptation. Supporting the institutionalization of climate change adaptation will ensure it is embedded as a foundational consideration and integrated across plans.
+Finding shade near Kitsilano Beach (Source: City of Vancouver)
+
+[Page 21]
+CITY OF VANCOUVER CLIMATE CHANGE ADAPTATION STRATEGY | 2024-2025 UPDATE AND ACTION PLAN / 21
+Section 4 Updating The Strategy
+This third update to the Strategy includes updated local climate projections and policy context, and some structural changes to align it with other hazard, risk and vulnerability work at the City of Vancouver and better integrate equity. The Strategy introduces several new objectives and a suite of actions (the ‘action plan’) focused on the five main climate-related hazards facing Vancouver:
+KEY CHANGES SINCE 2018
+UPDATED STRUCTURE 
+To align with Vancouver’s updated Hazard, Risk and Vulnerability 
+Analysis (HRVA), this Strategy is structured around the five main climate-related hazards facing Vancouver, plus enabling actions. 
+These hazards are discussed in detail in Section 5.
+Extreme Heat
+As year-round temperatures increase, warmer summers will see more extreme heat days and heatwaves. Often referred to as the “silent killer” of climate change, extreme heat is responsible for more weather-related deaths in Canada in an average year than any other hazard.xvi
+Poor Air Quality
+A major cause of poor air quality in Vancouver is wildfire smoke, caused by fires burning in and outside the region during summer and the surrounding months. Wildfire smoke contains particulate matter (PM) that can have health effects when inhaled. Another source of poor air quality is ground level ozone, a colourless gas that is harmful to human health and primarily comes from human sources, like motor vehicle exhaust. In summer, sunlight and higher temperatures exacerbate the impacts of ground-level ozone. 
+Drought 
+Droughts are prolonged periods of dry conditions and water shortages. Drought can be caused by combinations of insufficient snow accumulation, chronic hot and dry weather, and low or delayed rainfall. While Vancouver is sometimes affectionately referred to as “Rain City”, climate change is altering precipitation patterns. This, combined with hotter summers will likely accelerate seasonal drought conditions. 
+Extreme Rainfall 
+Extreme rainfall refers to a spectrum of rainfall events that may result in surface ponding, overland flow, and environmental pollution. Towards the more severe end of the spectrum, these events overwhelm the capacity of drainage systems, resulting in major disruptions, damage to property and infrastructure, and risk to people. Historically, such events only occurred once every 
+10-25 years or more, but they are becoming more frequent with climate change.
+Sea Level Rise
+Globally, sea levels are rising due to a combination of melting glaciers and thermal expansion of sea water due to warmer temperatures. Vancouver is expected to experience half a meter of sea level rise by 2050, and one meter by 2100xxvii. Coastal flooding of low-lying areas will be exacerbated by climate change as sea levels rise. With 1 meter of sea level rise, almost 13km2 of 
+City lands will be in the floodplain, creating new risks and impacts to parklands, infrastructure, buildings, and residences. 
+Extreme 
+Heat
+Sea Level 
+Rise
+Extreme 
+Rainfall
+Drought
+Poor Air
+
+[Page 22]
+CITY OF VANCOUVER CLIMATE CHANGE ADAPTATION STRATEGY | 2024-2025 UPDATE AND ACTION PLAN / 22
+RISK-BASED
+This Strategy takes a risk-based approach to climate adaptation, focusing efforts on both the climate hazards and the populations, ecosystems, and infrastructure that are at highest risk of negative impacts. It does this in two ways:
+• 
+Vancouver’s updated Hazard, Risk and Vulnerability Analysis undertook a risk analysis of fifteen hazards the city faces – including the five climate related-hazards addressed in the Climate Change Adaptation Strategy. Each hazard was assigned a rating for likelihood of occurrence, and the consequences it could produce. The HRVA also includes extensive engagement with disproportionately impacted communities to better-understand equity within the context of disasters and emergencies. Together, these form a risk rating (low-high), which can be used to guide resilience planning – these are shown in Section 5.
+• 
+For each climate-related hazard, a vulnerability analysis was used to identify which communities, ecosystems and infrastructure are at highest risk of negative impacts – this was used to guide development of this strategy and prioritization of actions. 
+INDICATOR AND FINANCIAL FRAMEWORKS
+This Strategy contains an indicator framework to help monitor progress towards completion of Strategy actions and build understanding of how climate hazards are impacting Vancouver. 
+It also includes the first iteration of a financial framework, with details on 2024-26 investments for delivering Strategy actions, aligned in format with the City’s recently developed Climate 
+Budget.
+Woodland Drive and E 2nd Avenue rain garden during a rainfall event (Source: City of Vancouver)
+
+[Page 23]
+CITY OF VANCOUVER CLIMATE CHANGE ADAPTATION STRATEGY | 2024-2025 UPDATE AND ACTION PLAN / 23
+CENTERING EQUITY
+This Strategy builds on the work of the previous iteration to increase the City’s understanding of the impacts of climate change on disproportionately impacted communities. Central to the entire update for this Strategy was a strengthened focus on equity, with considered efforts to ensure those who are most affected by the impacts of climate change are prioritized in the action plan. Developing and implementing equitable climate adaptation actions involves minimizing the risk of exposure to anticipated climate impacts while increasing resilience to prepare for and recover from climate impacts.
+Within the update process, this involved a review of community risks and vulnerabilities related to the five main climate hazards, and a targeted gap analysis to identify vulnerable communities not being served by existing work. This update to the Strategy centered equity through a vulnerability assessment and learning from engagement processes completed or underway through various other strategies. This is described in more detail in Section 5.
+RECONCILIATION
+The xwməθkwəy̓ əm (Musqueam), Skwxwú7mesh (Squamish) and səlilwətaɬ (Tsleil-Waututh) Nations have stewarded the land known as Vancouver since time immemorial and face disproportionate risks to their economies, communities, and natural environments from climate change. The Host Nations’ traditional values and knowledge systems have an important role to play in climate adaptation; through this and the next iteration of Vancouver’s 
+Climate Change Adaptation Strategy, meaningful engagement and collaboration will be sought with the Nations to reduce risk and enhance resilience to climate impacts while following through on commitments made through the United Nations Declaration of the Rights of Indigenous Peoples (UNDRIP).
+EQUITY DEFINITION (EQUITY FRAMEWORK):
+Equity as an outcome is the condition that would be achieved if one’s identity no longer predicted how one fares. Equity as a process is the replacement of policies, practices, attitudes and cultural messages that reinforce differential outcomes or fail to eliminate them. 
+Smithe St and Granville St (Source: Alison Bouleir)
+
+[Page 24]
+CITY OF VANCOUVER CLIMATE CHANGE ADAPTATION STRATEGY | 2024-2025 UPDATE AND ACTION PLAN / 24
+STRATEGY UPDATE PROCESS
+This update to the Strategy followed the well-known adaptation cycle – best practice globally for developing and updating climate change adaptation plans . The adaptation cycle is shown in Figure 8 and involves a continuous cycle of monitoring and updating action plans based on progress, available science, and changes to risk and vulnerability analysis results.
+Figure 8: The Adaptation Cycle
+VISION
+The City of Vancouver is proactively addressing the impacts of climate change for people, infrastructure and natural systems to build a more resilient, equitable, and healthier city.
+GOALS
+• 
+Integrate a climate change adaptation lens into local policies, strategies and planning.
+• 
+Improve climate resilience of built systems, natural systems and human systems.
+• 
+Improve awareness, knowledge, skills and resources of City staff, enhancing capacity for transformative change. 
+• 
+Enhance opportunities for coordination and cooperation through the development of networks and partnerships. 
+• 
+Apply an equity lens in order to centre those disproportionately impacted by climate impacts.
+GUIDING PRINCIPLES
+• 
+Evidence-based: Use the best, most up-to date science available to inform a risk-based approach.
+• 
+Adaptable: Promote flexible and adaptive management approaches that leave a range of future options available.
+• 
+Integrated: Give priority to adaptation strategies that build on existing programs or policies and provide co-benefits with other community priorities.
+• 
+Relevant and transparent: Collaborate with community partners and share progress.
+• 
+Comprehensive: Mainstream adaptation into day-to-day 
+City business.
+• 
+Equitable: Seek ways to transform current systems, policies, and processes in order to achieve equitable outcomes for those disproportionately impacted by climate change. 
+A note on engagement: Community engagement to learn from lived experience is critical for adaptation planning. 
+Existing engagement and analysis from a broad range of 
+City strategies and plans informed this work. Engagement summaries and data from Vancouver Plan, the HRVA, the 
+Vancouver City Planning Commission memo on Extreme 
+Heat and Air Quality, and the Sea2City Design Challenge all informed the vulnerability assessment for this Strategy. 
+Further community engagement is planned as part of the 
+2026-2030 Adaptation Strategy.
+
+[Page 25]
+CITY OF VANCOUVER CLIMATE CHANGE ADAPTATION STRATEGY | 2024-2025 UPDATE AND ACTION PLAN / 25
+• Interdepartmental working groups set up
+• Current state analysis including vulnerability assessment and mapping of existing work
+• Gap analysis to identify focus areas
+• Development of hazard-specific objectives
+• Development of prioritization criteria
+• Ideation of hazard-specific actions based on known risks, vulnerabilities, and climate projections
+• Action implementation and monitoring
+• Annual progress reports
+• Development of evaluation framework for draft actions
+• Refinement of hazard-specific actions
+• Development of indicator and financial framework
+• Development of monitoring process for plan implementation
+• 2018 Strategy progress review
+• Internal and external policy scan 
+• Review of community risks and vulnerabilities
+• Review of community engagement outputs
+• Development of equity-centred planning approach
+• Updated local climate projections
+The action evaluation framework and prioritization criteria can be found in Appendix D.
+The cross-departmental working groups created a motivation touchstone to guide their work together: “We aim to center principles of equity, adaptability, urgency, and accountability when making decisions and defining success.”
+Figure 9: 2024-2025 Strategy update process .
+ 
+CITY OF VANCOUVER CLIMATE CHANGE ADAPTATION STRATEGY | 2024-2025 UPDATE AND ACTION PLAN / 25
+Inter-departmental 
+Working Groups
+How are we going to work together?
+Where are we right now?
+What are the big gaps?
+How do we prioritize?
+What are the Actions?
+Refining the Actions
+How do we fund & measure?
+June
+June
+July
+July
+August
+September
+October
+2018 Strategy
+2026-30 
+Climate Plan
+PHASE 1
+Planning and initiation
+PHASE 4
+Implementation and monitoring
+PHASE 3
+Action evaluation and refinement
+PHASE 2
+Action development
+
+[Page 26]
+CITY OF VANCOUVER CLIMATE CHANGE ADAPTATION STRATEGY | 2024-2025 UPDATE AND ACTION PLAN / 26
+Section 5 The 2024-2025 Action Plan
+ACTIONS SUMMARY
+Actions
+Count
+All Climate Hazards Approach
+Extreme Heat
+• Supporting indoor cooling and thermal comfort at home
+• Improving access to cooling in public spaces
+• Stewarding the urban forest and greenspace to support outdoor cooling
+Poor Air Quality 
+Cross-cutting Actions: Extreme Heat and Poor Air Quality 
+Drought
+Extreme Rainfall
+• Improving our understanding of extreme rainfall
+• Advancing green rainwater infrastructure and nature-based rainwater management
+• Managing rainwater through the built environment
+• Supporting community stewardship of rainwater infrastructure
+Sea Level Rise
+• Understanding and planning for sea level rise and coastal hazards
+• Piloting creative solutions for coastal resilience
+Enabling Actions
+• Mainstreaming climate adaptation in City practices
+• Building community awareness of climate change hazards and responses
+• Collaborating with key partners and senior levels of government
+• Setting intentions and commitments for the 2025 Strategy
+Total
+Figure 10: Summary list of actions
+HOW TO READ THIS 
+ACTION PLAN
+The 2024-25 action plan includes both direct actions that will reduce risk and enhance resilience to climate-related hazards, and also actions required to continue to build capacity and enable integration of adaptation into decision making and daily City business (enabling actions). In other words, not just the ‘what’ but also the ‘how’. Working on these two areas in parallel will support a system-wide approach to climate adaptation.
+The action plan is organized by the five climate-related hazards and additional enabling actions, and each section contains climate projections, climate impacts, disproportionately impacted communities, objectives, and actions as well as a risk, consequence and likelihood rating taken directly from the City’s updated Hazard, 
+Risk and Vulnerability Analysis. Actions are listed in order of priority (see Appendix 
+D for the evaluation framework used to determine this). The timeline for completion of all actions is the end of 2025, unless otherwise specified.
+
+[Page 27]
+CITY OF VANCOUVER CLIMATE CHANGE ADAPTATION STRATEGY | 2024-2025 UPDATE AND ACTION PLAN / 27
+Recognizing that climate-related hazards often interact with one another, an all-hazards approach was developed for this Strategy update, and is described below.
+OBJECTIVE
+• 
+For all hazards, incorporate an integrated planning approach that accounts for the cascading impacts of multiple climate hazards.
+ACTIONS
+Action
+A1.1 Explore opportunities with partners to address the unique needs of people experiencing homelessness and housing precarity in climate-related events. 
+A1.2 Formalize the Resilient Neighbourhoods Program and officially expand mandate beyond Extreme Heat planning. 
+A1.3 Update Resilient Neighbourhoods Toolkit with communityled climate resilience actions to adapt to climate change and align with Neighbourhood and Community Placemaking 
+Grants for 2024. 
+A1.4
+Continue to advance risk management initiatives for park trees, street trees, and forested areas to address risks associated with climate-related events such as wildfire and pest and pathogen outbreaks.
+ALL HAZARDS APPROACH
+Vancouver skyline (Source: City of Vancouver)
+Forest path in Everett Crowley Park (Source: Paige Bennett)
+
+[Page 28]
+CITY OF VANCOUVER CLIMATE CHANGE ADAPTATION STRATEGY | 2024-2025 UPDATE AND ACTION PLAN / 28
+CLIMATE PROJECTIONS
+Updated local climate projections for the 2050s (using scenario 
+SSP585)2 show that warmer temperatures are anticipated, with more extreme heat days in summer and more frequent, longer heatwaves3.
+Warmer temperatures 
+• 
+The average number of days above 25°C will triple from 20 to 
+61 per year.
+• 
+The average number of days above 30°C will increase from one to nine per year.
+Heatwaves and extreme heat days
+• 
+The average number of heatwaves will increase from one to four per year.
+• 
+The length of the longest annual heatwave will increase from three to six days, and feature both warmer daytime and nighttime temperatures.
+• 
+From 1981-2010, a daily maximum temperature of 33°C or higher occurred once every 20 years or so in Vancouver. In the projections for the 2050s, this temperature is exceeded an average of 9 times in a 20-year period, or almost once every other year.
+• 
+A 1-in-20 year heat event is projected to have a median magnitude of around 37°C.
+For all projections, the relative baseline time range is 1981 – 2010
+These temperature projections are averages and do not consider humidity, which can amplify warm temperatures and make it more difficult to cool off
+IMPACTS
+• 
+Increased heat-related illness and mortality, particularly for individuals experiencing material and/or social deprivation.
+• 
+Negative mental health impacts due to social isolation, decreased physical activity, and safe access to culturally appropriate cool spaces.
+• 
+Increased climate anxiety. 
+• 
+Increased vectors for disease and respiratory illness.
+• 
+Increased rates of violence (including intimate partner violence).xxv
+• 
+High indoor air temperatures in older buildings designed to retain heat based on historical temperate climates, and low prevalence of air conditioning.
+• 
+Increased pressure on medical system and emergency rooms.
+• 
+Increased demand on electrical grid and cost to consumers with use of mechanical cooling (such as air conditioning).
+• 
+Disruptions to businesses and services due to unsafe working conditions which can result in temporary loss of income and service provision (includes outdoor workers, food establishments, and community serving businesses such as childcare facilities).
+• 
+Ecosystem stress and marine die off events during prolonged periods of heat.xxvi
+• 
+Encroachment and spread of invasive species due to warmer year-round weather.
+Overall Risk: High
+Likelihood: High 
+Consequences: Medium
+EXTREME HEAT
+Cooling Centre at Mount Pleasant Community Centre (Source: Farhan Hussain)
+
+[Page 29]
+CITY OF VANCOUVER CLIMATE CHANGE ADAPTATION STRATEGY | 2024-2025 UPDATE AND ACTION PLAN / 29
+EQUITY AND EXTREME HEAT: DISPROPORTIONATELY 
+IMPACTED POPULATIONS
+Extreme heat is responsible for more weather-related deaths in Canada in an average year than any other hazard, and its impacts are not experienced equally. 
+Populations known to be vulnerable to extreme heat include: adults aged 60 years or older; people who live alone; people with pre-existing health conditions such as diabetes, heart disease, or respiratory disease; people with mental illness such as schizophrenia, depression, or anxiety; people with substance use disorders, including alcohol; people with limited mobility; people who are homeless or precariously housed; outdoor workers; people who are pregnant; and infants and young children.
+Many of these vulnerabilities may compound - of the deaths that occurred during the 2021 Heat Dome, most were older adults with compromised health due to multiple chronic diseases and who lived alone.xvi
+Most existing homes, apartments and buildings in Vancouver were not designed for rising temperatures but to retain heat, and largely lack mechanical cooling or adequate passive cooling design. Low-income residents are disproportionately impacted as they are more likely to live in housing without cooling measures and have fewer means to purchase and install heat pumps or portable air conditioning units. Renters have also stated that they face barriers to installing of air conditioning units. 
+Residents living in areas of the city with less tree canopy and green space are also more vulnerable due to the urban heat island effect. There is documented spatial overlap between areas of Vancouver with the lowest tree canopy cover percentages, lowest income areas and the areas with the highest surface temperatures.xxvii Neighbourhoods in 
+East Vancouver and South Vancouver tend to have higher temperatures during the summer due to their distance from the water and lower levels of green space and tree canopy.
+OBJECTIVES
+• 
+Reduce the negative impacts of extreme heat on people, the environment, and infrastructure through adaptation of buildings and the exterior built and natural environments.
+• 
+Improve the resilience of people, the environment, and infrastructure to extreme heat through equitable planning, emergency preparedness, and programming.
+A multi unit residential building on a sunny day (Source: Sarah Labahn)
+
+[Page 30]
+CITY OF VANCOUVER CLIMATE CHANGE ADAPTATION STRATEGY | 2024-2025 UPDATE AND ACTION PLAN / 30
+Actions are divided into several themes that address the highest risk impacts for extreme heat.
+Supporting indoor cooling and thermal safety at home
+During the 2021 Heat Dome, 98% of deaths in British Columbia occurred indoors. Many of Vancouver’s homes are not designed for high temperatures, and older buildings are unlikely to have mechanical or passive cooling measures. Supporting retrofits for existing buildings and updating requirements for new buildings can lead to improved thermal comfort and safety at home.
+Action H1.1
+Expand on 2022 and 2023 Cool Kit project in partnership with community-based organizations and Vancouver Coastal 
+Health, delivering 6,500 kits.
+H1.2
+Initiate work to scope, resource, and determine legal, technical, and economic feasibility for reducing indoor temperatures in existing multi-family residential buildings.
+H1.3
+Develop and launch a multi-family heat pump incentive and owner support program with BC Hydro, Province of BC and the Zero Emissions Innovation Centre in 2024.
+H1.4
+Complete the Rental Apartment Retrofit Accelerator and 
+Non-Profit Resilient Retrofit Grant programs to complete retrofits that improve thermal safety and resilience, and reduce carbon pollution in rental and non profit buildings.
+H1.5
+Complete a study on cooling measures in existing multi-family buildings, in partnership with Metro Vancouver and the City of 
+North Vancouver. The findings will inform direction on short, medium and long-term strategies to reduce heat-related morbidity in existing multi-family buildings.
+H1.6
+Implement requirements for mandatory cooling in new multifamily residential buildings in VBBL effective 2025, and explore for 1-3 story residential buildings.
+H1.7
+Advocate to the Province of BC to reduce barriers to installing cooling measures outlined in the strata property act and residential tenancy act.
+H1.8
+Complete analyses and report out on findings from multi-year 
+Measuring Indoor Temperature Initiative in partnership with 
+Vancouver Coastal Health and BC Centre for Disease Control.
+Improving access to cooling in public spaces
+Not everyone has access to indoor cooling at home or can easily access cooling centres. Making air-conditioned public spaces in Vancouver easier to access is an important step towards supporting vulnerable communities during extreme heat events. 
+Action
+H2.1 Launch extreme heat transportation pilot for seniors and people with disabilities. 
+H2.2
+Retrofit two community-use facilities and one civic operations facility with mechanical cooling. Continue to develop design plans for future cooling upgrade projects while seeking external funding to accelerate retrofits for additional sites. 
+Figure 11: Visualization of hot and cool spaces (Source: Taylor Legere)
+
+[Page 31]
+CITY OF VANCOUVER CLIMATE CHANGE ADAPTATION STRATEGY | 2024-2025 UPDATE AND ACTION PLAN / 31
+Stewarding the urban forest and greenspace to support outdoor cooling
+Urbanized landscapes absorb and radiate heat and prevent airflow, leading to elevated temperatures known as the ‘urban heat island effect’. Protecting and growing Vancouver’s urban forest and greenspaces can mitigate these impacts, while providing other benefits like better access to outdoor spaces and rainwater management.
+Action H3.1
+Continue to advance tree planting on public land to support efforts to increase the urban forest canopy to 30% by 2050, with a focus on below average canopy neighbourhoods.
+H3.2
+Install 20-40 new tree pits (and planted trees) in low canopy areas per year, including appropriate soil volume improvements.
+H3.3
+Assess the resilience of specific climate-adapted tree species to extreme heat and drought by implementing and monitoring three pilot tree-planting projects, and use the outcomes of these pilots to inform the use of climateadapted species in future tree-planting projects.
+H3.4
+Explore priority areas for tree planting and retention on private land.
+H3.5
+Following update to the Tree Bylaw, develop a monitoring approach to track changes to tree coverage on private land as a result of permitted tree removal.
+Street tree planting on East Hastings St (Source: Farhan Hussain)
+
+[Page 32]
+CITY OF VANCOUVER CLIMATE CHANGE ADAPTATION STRATEGY | 2024-2025 UPDATE AND ACTION PLAN / 32
+Figure 12: Different areas of the city experience different levels of heat due to factors like surface material, reflectivity, shading (e.g. from trees). This map shows the relative difference in land surface temperature between different parts of the city recorded on a single summer day aerial flight. 
+Source: Urban Forest Strategy
+
+[Page 33]
+CITY OF VANCOUVER CLIMATE CHANGE ADAPTATION STRATEGY | 2024-2025 UPDATE AND ACTION PLAN / 33
+Poor air quality events in Vancouver are largely related to particulate matter (PM 2.5) as a result of wildfires burning inside or outside the region, and ground-level ozone which tends to worsen with higher summer temperatures.
+Wildfire smoke
+The frequency and severity of wildfire events in North America that cause poor air quality are increasing,xvi and Metro Vancouver has seen a sharp increase in poor air quality events associated with wildfire smoke since 2014. The length of the wildfire season is projected to extend, increasing the window of time for potential exposure to wildfire smoke.xxviii 
+Ground-level ozone
+In addition to wildfire smoke events, ground-level ozone can also contribute to poor air quality. Warmer and drier summer temperatures can lead to elevated levels of ground-level ozone. The projected increase in temperature extremes and warmer summers could lead to elevated concentrations of ground-level ozone.xxix 
+This is an emerging hazard without readily available projections for future changes specific to the Vancouver region.
+IMPACTS
+• 
+Acute and long-term cardiovascular and respiratory health impacts due to smoke exposure, particularly for individuals with pre-existing health conditions.xxiii 
+• 
+Negative mental health impacts due to social isolation, decreased physical activity, safe access to culturally significant natural areas.
+• 
+Increased climate anxiety.
+• 
+Poor indoor air quality in buildings due to a lack of filtration.
+• 
+Disruptions to businesses and services due to smoke exposure which can result in temporary loss of income and adverse health impacts, particularly for outdoor workers.
+• 
+Decreased access to outdoor recreation, cultural activities and tourism.
+• 
+Potential cancellation of outdoor events including festivals, park use and recreation.
+EQUITY AND POOR AIR QUALITY: DISPROPORTIONATELY IMPACTED POPULATIONS
+Older adults, people with disabilities and chronic health conditions (especially those with respiratory and cardiovascular conditions), people with respiratory infections, pregnant women, infants, and children are especially vulnerable to poor air quality events, and may experience adverse effects at lower levels of PM2.5 than the rest of the population.
+In addition, people who are experiencing homelessness or are under-housed, people who work outdoors, people who rely on active transportation, and people who live in spaces without mechanical ventilation, air filtration systems or portable air cleaners are also disproportionately impacted.
+POOR AIR QUALITY 
+Overall Risk: Medium
+Likelihood: High 
+Consequences: Low
+Downtown Vancouver skyline on a smoky day (Source: Lloyd Lee)
+
+[Page 34]
+CITY OF VANCOUVER CLIMATE CHANGE ADAPTATION STRATEGY | 2024-2025 UPDATE AND ACTION PLAN / 34
+OBJECTIVES
+• 
+Improve understanding of poor air quality caused by wildfire smoke and ground level ozone across Vancouver.
+• 
+Reduce the negative impacts of poor air quality caused by wildfire smoke and ground level ozone through adaptation of buildings and the exterior built and natural environments.
+ACTIONS
+Actions for poor air quality reflect the fact that is an emerging hazard, aiming to improve knowledge of the impacts as well as support more vulnerable residents directly.
+Action AQ1.1
+Expand on 2023 DIY Air Cleaner (filter) pilot in partnership with the Pacific Institute for Pathogens, Pandemics, and 
+Society to provide supplies for 300 air cleaners, and enable community members to build their own.
+AQ1.2.
+Work with Metro Vancouver and Vancouver Coastal Health on a Hyperlocal Air Quality Monitoring Initiative to build a dense air quality monitoring network using lower cost sensors to better understand neighbourhood level variations in air quality.
+AQ1.3
+Explore and implement building code requirements for filtered outdoor air in new part 9 residential buildings.
+Building Air Cleaners at a workshop (Source: City of Vancouver)
+
+[Page 35]
+CITY OF VANCOUVER CLIMATE CHANGE ADAPTATION STRATEGY | 2024-2025 UPDATE AND ACTION PLAN / 35
+CROSS-CUTTING ACTIONS: 
+EXTREME HEAT AND 
+POOR AIR QUALITY
+Extreme heat and poor air quality events often occur simultaneously and lead to compounding impacts. 
+These impacts can sometimes be addressed through similar interventions such as building upgrades and emergency response programming that prioritize vulnerable communities.
+Action HA1.1
+Continue working with health, housing, and community-based partners to increase supports for seniors and people with disabilities as part of the Resilient 
+Neighbourhoods Program during extreme heat and poor air quality events.
+HA1.2 Explore expanding social capital grants program to support resilient retrofits for social infrastructure to address near-term needs related to extreme heat and poor air quality events. 
+HA1.3
+Explore requirements for installing cooling and air quality infrastructure (such as air conditioning and air filters) as part of tenant improvements or renovations in city-partnered emergency homeless shelters.
+HA1.4
+Ensure climate resiliency considerations are implemented in the construction of new City-owned buildings and to support upgrades for existing buildings. All new public-facing facilities will have mechanical cooling and improved air filtration systems, and designated clean air spaces will have additional filtration requirements to address wildfire smoke events.
+CITY OF VANCOUVER CLIMATE CHANGE ADAPTATION STRATEGY | 2024-2025 UPDATE AND ACTION PLAN / 35
+Hillcrest Community Centre, which can be activated as a cooling centre and cleaner air space (Source: City of Vancouver)
+
+[Page 36]
+CITY OF VANCOUVER CLIMATE CHANGE ADAPTATION STRATEGY | 2024-2025 UPDATE AND ACTION PLAN / 36
+CLIMATE PROJECTIONS
+Updated local climate projections for the 2050s (using scenario 
+SSP585)4 show that average summer rainfall within Vancouver will decrease, and there will be more frequent and longer dry spells. Together, these will increase the frequency and severity of drought conditions.
+Summer rainfall
+• 
+Average summer rainfall is projected to decrease by -4%.
+Dry spells
+• 
+The average dry spell length increases by 17% to 27 days. 
+These projections only consider anticipated conditions within the 
+City of Vancouver, but there will be closely linked impacts to the regional water system provided by Metro Vancouver.
+For all projections, the relative baseline time range is 1981 – 2010
+IMPACTS
+• 
+Increased vectors for disease and respiratory illness.xxx 
+• 
+Increased stress on vegetation, trees, and green rainwater infrastructure.
+• 
+Increased tree loss in Vancouver’s urban forest, especially newly planted trees.
+• 
+Increased climate anxiety due to stress of water scarcity.
+• 
+Spawning fish may be at risk when low stream levels and warmer river temperatures.
+• 
+Reduced quality of forage crops for terrestrial species due to decreased plant growth and water scarcity.xxiv 
+• 
+More stringent water restrictions to conserve water and protect urban water supply may be needed.
+• 
+Potential future disruptions to energy supplies e.g. hydroelectricity generation.
+Overall Risk: Medium
+Likelihood: Medium 
+Consequences: Low
+EQUITY AND DROUGHT: DISPROPORTIONATELY IMPACTED POPULATIONS
+Though drought conditions have not had serious impacts to drinking water in Vancouver to date, drought has led to increasing water restrictions regionally and is expected to lead to more severe impacts to regional water supplies in the future. Marginalized communities and businesses that rely on water usage may be especially impacted due to rising water costs associated with regional and local water supply system upgrades.
+Drought can also have severe impacts on ecology in the region, putting significant stress on vulnerable species like salmon, which will have cascading impacts on the traditional foods, medicines and cultural practices of Indigenous communities.
+DROUGHT
+Lawn during a period of drought (Source: Metro Vancouver)
+
+[Page 37]
+CITY OF VANCOUVER CLIMATE CHANGE ADAPTATION STRATEGY | 2024-2025 UPDATE AND ACTION PLAN / 37
+OBJECTIVE
+• 
+Manage risk from drought to people, the environment, and infrastructure through proactive management in collaboration with key partners to reduce negative impacts and enhance resilience.
+ACTIONS
+Action
+D1.1
+Accelerate residential metering and transition to AMI (Advanced Metering Infrastructure) meter reading systems as outlined by the Water Demand Management Strategy and supported by regional direction from Metro Vancouver.
+D1.2
+Explore policy updates for increased non-potable water use in future developments under suitable densification scenarios.
+D1.3
+Explore policy that prohibits the installation of in ground lawn irrigation systems that use potable water for new build permits applied for 2025 onwards.
+Staff inspect a new park water meter that resulted in locating a leak for repair (Source: City of Vancouver)
+
+[Page 38]
+CITY OF VANCOUVER CLIMATE CHANGE ADAPTATION STRATEGY | 2024-2025 UPDATE AND ACTION PLAN / 38
+CLIMATE PROJECTIONS
+Updated local climate projections for the 2050s (using scenario 
+SSP585)5 show more precipitation falling in fall, winter, and spring, and less in summer. An increased proportion of precipitation will fall as rain instead of snow in winter, and extreme rainfall events will become more intense and occur more frequently.
+Shifting precipitation patterns
+• 
+Average fall rainfall is expected to increase by 12%. 
+• 
+By the end of the century, some years may have more rain in autumn than in winter, with average snowfall decreasing by 60%.
+Extreme rainfall
+Extreme rainfall events are defined as events so intense they are expected to occur only once every 20 years in the past (1981-2010).
+• 
+The frequency of these events will increase from once to twice per twenty year period. 
+• 
+The average amount of precipitation that falls in a single-day extreme rainfall event will increase by 20% to 86mm.
+For all projections, the relative baseline time range is 1981 – 2010
+IMPACTS
+• 
+Increases in the frequency of overland flooding, causing damage to buildings and tenant displacement in ground-floor and basement-levels.
+• 
+Increase in frequency of sewer back-ups in both combined and separated sewer areas due to high rainfall volume, and impacts to water quality in receiving water bodies.
+• 
+More frequent surface water flooding from ponding of rainfall in low-lying areas or heavy rainfall overcoming the capacity of drainage system.
+• 
+Disruption to businesses due to indoor flooding, general reduction of public use of outdoor recreation spaces.
+• 
+Disruption of traffic patterns and accessible pedestrian use of sidewalks due to flooding streets and intersections.
+• 
+Mental health impacts and increased climate anxiety due to stress of displacement and economic hardship.xxxi
+• 
+Increase in landslide risk affecting public infrastructure and private property.
+• 
+Higher volumes of third party liability claims against the city from major rain events.
+Overall Risk: Medium
+Likelihood: Low 
+Consequences: Medium
+EQUITY AND EXTREME RAINFALL: DISPROPORTIONATELY IMPACTED POPULATIONS
+People who are experiencing homelessness or living in inadequate housing, renters in basement suites, and those who rely on public transit infrastructure to access their daily needs are all at higher risk of flooding and resulting disruptions. Basement suites constitute the majority of affordable rentals and are more vulnerable to flooding. Older building stock, older sewerage system areas, combined systems with lost/buried creeks, and anyone in floodplain areas are also disproportionately impacted. 
+EXTREME RAINFALL
+Flooding at Cambie St and Broadway (Source: Angela Danyluk)
+
+[Page 39]
+CITY OF VANCOUVER CLIMATE CHANGE ADAPTATION STRATEGY | 2024-2025 UPDATE AND ACTION PLAN / 39
+OBJECTIVES
+• 
+Improve understanding of extreme rainfall events and overland flooding across Vancouver.
+• 
+Manage risk related to rainfall related flooding and improve resilience of people, the environment, and infrastructure to these impacts.
+ACTIONS
+Actions are divided into several themes that address the highest risk impacts for extreme rainfall.
+Improving our understanding of extreme rainfall
+Better understanding the impacts of extreme rainfall events will allow for development of strategies to manage risk and better protect the locations and communities that are most vulnerable.
+Action
+R1.1 Complete an Extreme Rainfall Risk Assessment and Strategy 
+Phases 1 and 2 (hazard assessment and risk/vulnerability assessment) and scope Phase 3 (strategy).
+R1.2 Initiate scoping of a study to assess steep slopes City-wide to identify areas at risk for instability.
+Managing rainwater through green rainwater infrastructure and the built environment
+Managing rainwater in ways that support the natural water cycle removes pressure from the City’s sewer and drainage infrastructure while providing other benefits like access to green space and mitigation of the urban heat island effect. Improving the ability of the built environment to store and filter rainwater can also prevent localized flooding and combined sewer overflows into receiving waterbodies.
+Action R2.1 Explore a dedicated funding stream for GRI maintenance tasks and renewal projects in underserved areas to accelerate project implementation. 
+R2.2 Explore and work towards early implementation opportunities for Still Creek nature-based flood mitigation through a pilot project from the Still Creek Watershed 
+Enhancement Opportunities Study and the forthcoming 
+Rupert and Renfrew Station Area Plan.
+R2.3
+Incorporate green rainwater infrastructure (GRI) into three hectares of street area in City right-of-way reconstruction projects.
+R2.4
+Develop methods to quantify and communicate the service provision value of GRI for benefits such as drainage, livability, urban heat island mitigation.
+R2.5 Implement rainwater management requirements in the VBBL for Part 3 buildings and multiplexes. 
+R2.6
+Explore a policy or bylaw for the Rupert Renfrew area that prohibits underground parking in and around Still Creek.
+Supporting community stewardship of rainwater infrastructure
+Creating opportunities for neighbourhood involvement in rainfall management builds community connections while minimizing overland flooding.
+Action
+R3.1
+Pilot coordination of Adopt a Catch Basin program with 
+Resilient Neighbourhoods Program to expand community participation and public awareness.
+A child clearing a catch basin (Source: City of Vancouver)
+
+[Page 40]
+CITY OF VANCOUVER CLIMATE CHANGE ADAPTATION STRATEGY | 2024-2025 UPDATE AND ACTION PLAN / 40
+CLIMATE PROJECTIONS
+Risk ratings are for a king tide + 1:100 year storm event
+Projections for sea level rise vary widely after the year 2050 from sixty centimetres over current levels to more than six metres over current levels by 2100. The Province of B.C. currently recommends using half a metre for planning to 2050, one metre to 2100 and two metres to 2200.xxii The largest uncertainty in 21st century sea level projections stems from possible collapse of the West Antarctic Ice sheet.
+IMPACTS
+• 
+Increased coastal and Fraser River flooding due to a combination of sea level rise, storm surge, and king tides.
+• 
+Gradual inundation of low-lying land along the coast and 
+Fraser River, including coastal squeeze of shoreline habitat. 
+• 
+Increased damage to structures (e.g. seawalls, Jericho Dock) and shoreline resulting in greater discontinuity of use and expensive repairs.
+• 
+Increasing costs of flood insurance for floodplain areas, and decreasing availability of insurance.
+• 
+Increase in shoreline erosion affecting natural environment and public amenities such as parks and trails. 
+• 
+Loss of access to culturally significant spaces and traditional food sources for Indigenous communities due to coastal erosion and inundation.
+• 
+Mental health impacts and climate anxiety due to stress of displacement, loss of cultural spaces, and economic hardship. 
+• 
+Disruption to the industrial and job-only spaces heavily represented in the floodplain. 
+• 
+Sea level rise will exacerbate drainage issues in low-lying areas, potentially triggering the need for drainage pump stations and raise the groundwater table, resulting in more frequent sewer back-ups and localized flooding.
+EQUITY AND SEA LEVEL RISE: DISPROPORTIONATELY 
+IMPACTED POPULATIONS
+Residents living in or along low coastline areas and utilizing infrastructure that is based in the flood plain are at increased risk of the impacts of sea level rise. Indigenous communities will be impacted by loss of coastal lands through flooding and shoreline erosion which can affect sources of food and cultural practices. 
+Changes to the intertidal area will have significant impacts on species that live in the intertidal zone (e.g., shellfish) or that forage for food in these areas (e.g., marine birds and salmon) 
+- many of which are of cultural significance to First Nations.
+SEA LEVEL RISE
+Waves hit Kitsilano Beach during a king tide (Source: Vancouver Park Board)
+Overall Risk: Low6
+Likelihood: Low 
+Consequences: Low
+OBJECTIVES
+• 
+Manage risk to people, the environment, and infrastructure related to coastal hazards and sea level rise through proactive values-based planning and collaboration with key partners.
+• 
+Enhance resilience of people, the environment, and infrastructure to coastal hazards and sea level rise through integrated planning, emergency preparedness, and programming.
+
+[Page 41]
+CITY OF VANCOUVER CLIMATE CHANGE ADAPTATION STRATEGY | 2024-2025 UPDATE AND ACTION PLAN / 41
+Actions are divided into several themes that address the highest risk impacts for sea level rise.
+Planning for sea level rise and coastal hazards
+Improving understanding of the risk to coastal assets and ecosystems caused by sea level rise and coastal hazards (while proactively planning to address the impacts already happening) allows for development of evidence-based adaptation measures.
+Action S1.1 Complete a vulnerability assessment and study of waterfront parks and beaches. 
+S1.2
+Develop a coastal adaptation policy that outlines a citywide approach to coastal adaptation planning, including governance, policy tools, and funding mechanisms. 
+S1.3
+Initiate technical work and engagement towards the development of a Fraser River Flood Mitigation Plan.
+S1.4
+Perform a cost benefit analysis to determine best value in terms of delivering safe and resilient housing and coastal and extreme rain infrastructure at South East False Creek 1A.
+S1.5
+Complete an environmental assessment of the shoreline areas of the City’s flood hazard areas (i.e. False Creek, Kits Beach, 
+Locarno to Spanish Banks, the Fraser River shoreline and areas of Burrard Inlet) where coastal adaptation will take place.
+S1.6
+Explore the development of vulnerability assessments for the severe weather and coastal flooding initial response guidelines.
+S1.7
+Begin development of a coastal asset inventory and resilience guidelines.
+S1.8
+Collaborate with neighbouring local governments and First 
+Nations on refined sea level rise projection criteria for short 
+-and medium- term infrastructure planning.
+Piloting creative solutions for coastal resilience
+Responding to the challenge of sea level rise creates opportunities for innovation through nature-based solutions and learning from 
+Indigenous perspectives.
+Action
+S2.1 Design and construct a Sea2City coastal adaptation pilot project on the Cooper’s Park shoreline, and continue to seek funding for additional Sea2City pilots. 
+S2.2
+Explore a pilot for nature-based solutions to flooding along the Fraser River.
+S2.3
+Begin design of naturalized shoreline adaptation approaches (e.g. for West End Waterfront Plan implementation) and continue project-specific engagement with Host Nations.
+Sea level rise signage in False Creek (Source: City of Vancouver)
+
+[Page 42]
+CITY OF VANCOUVER CLIMATE CHANGE ADAPTATION STRATEGY | 2024-2025 UPDATE AND ACTION PLAN / 42
+VANCOUVER’S FLOODPLAIN
+Figure 13: Without flood management measures in place, areas in dark blue are vulnerable to flooding due to a major storm (1:500 year storm) today and areas in light blue are vulnerable to flooding due to a major storm and 1 metre of sea level rise by 2100. In this scenario, approximately 13 sq. km of land and buildings valued at $7B (2013 land value assessment) is vulnerable to flooding in Vancouver
+
+[Page 43]
+CITY OF VANCOUVER CLIMATE CHANGE ADAPTATION STRATEGY | 2024-2025 UPDATE AND ACTION PLAN / 43
+Successful adaptation measures require building capacity to continue learning, collaboration and innovation over time. Enabling actions are intended to support moving from incremental to transformational action by changing not just the “what” but also the “how” – institutionalizing the capacity to do adaptation planning.
+MAINSTREAMING CLIMATE ADAPTATION IN CITY PRACTICES
+By integrating climate adaptation into existing processes and decision-making at the City, it becomes mainstreamed while supporting other priorities.
+Action E1.1
+Generate localized cost-implication estimates from inaction on climate adaptation, using ICLEI’s ‘The cost of doing nothing’ toolbox for municipal governments.
+E1.2
+Pilot the use of a climate equity evaluation framework through which CCAS actions will be evaluated to ensure equitable development and implementation.
+E1.3 Integrate updated climate projections into City processes to inform relevant planning, policies, and infrastructure projects. 
+E1.4
+Continue to integrate climate adaptation into the climate budget, and use to guide future planning and investment decisions.
+E1.5
+Establish a Climate Friendly Buildings Advisory Committee to seek input from diverse residents living in multi-family buildings. The Committee aims to improve understanding of the benefits and challenges of potential future regulations and programs for reducing carbon pollution and improving climate resilience in these building types.
+COLLABORATING WITH KEY PARTNERS AND SENIOR LEVELS 
+OF GOVERNMENT
+Climate adaptation requires a ‘whole-of-society’ approach. 
+Vancouver will continue to partner with other levels of government as well as regional collaborations to advance solutions together.
+Action
+E2.1 Continue to participate in regional, national, and international collaborations to advance best practice on municipal climate adaptation planning (e.g. C40 Cool Cities 
+Network, Fraser Basin Council).
+E2.2
+Leverage funding opportunities and maximize intergovernmental collaboration through alignment with 
+National Adaptation Strategy and British Columbia Climate 
+Preparedness and Adaptation Strategy.
+ENABLING ACTIONS
+Sea2City design charrette (Source: City of Vancouver)
+
+[Page 44]
+CITY OF VANCOUVER CLIMATE CHANGE ADAPTATION STRATEGY | 2024-2025 UPDATE AND ACTION PLAN / 44
+BUILDING COMMUNITY AWARENESS OF CLIMATE CHANGE 
+HAZARDS AND RESPONSES
+Public concern for climate adaptation is high, and these actions focus on improving information available on climate-related hazards through leveraging communications tools.
+Action
+E3.1 Improve public access to information on climate hazards by completing a public-facing multi-hazard and risk story map. 
+E3.2
+Enhance public communications around each of the climaterelated hazards to improve the reach and relevance of City messaging by leveraging community partners and translating materials.
+SETTING INTENTIONS AND COMMITMENTS FOR THE 2026-30 
+STRATEGY
+Due to the short-term nature of this Strategy update, there were limitations on engagement. The actions in this section are commitments for the next Strategy update, with actions from 
+2026-30.
+Action
+E4.1
+Build on existing relationships and partnerships to ensure that communities that are most impacted by climate change (including Host Nations, urban Indigenous, and equitydenied communities) are aware of and engaged in the 202630 Strategy update process.
+E4.2
+Ensure priority actions for the 2025 CCAS align with the 
+UNDRIP Action Plan, acknowledging the importance of building resilience to climate hazards while addressing past harms. 
+E4.3
+Seek meaningful collaboration with Musqueam, Squamish and Tsleil-Waututh Nations to support Host Nation priorities for the 2026-30 Strategy update.
+ 
+Participating in community engagement (Source: City of Vancouver)
+Sea2City design charrette (Source: City of Vancouver)
+
+[Page 45]
+CITY OF VANCOUVER CLIMATE CHANGE ADAPTATION STRATEGY | 2024-2025 UPDATE AND ACTION PLAN / 45
+PLAN IMPLEMENTATION AND REVIEW
+Implementation of this Strategy and its action plan will continue to be a cross-departmental effort. Sustainability staff will continue to track and support implementation of the strategy to ensure the City is prepared for the impacts of climate change. 
+The Adaptation Strategy has previously been updated every five years. However, following this third update with actions for 202425, the Strategy will be updated again in 2025 with actions for 2026-30 alongside the City’s climate mitigation plan – the Climate 
+Emergency Action Plan (CEAP).
+Following this combined update, the City will aim for a five-year review cycle of the Adaptation Strategy, and implementation progress reporting will be annually, with CEAP. The City will complete a thorough risk and vulnerability analysis every 10–15 years, to capture any changes and support action plan updates.
+MONITORING & REPORTING
+Financial Framework Current 
+Investments and Needs (2024-26)
+2024-26 investments attached to this 
+Strategy can be found in Appendix F. These are aligned in format with the City’s recently developed Climate Budget. The majority of this two-year action plan is funded through existing, approved funding allocations in the 2023-26 Capital Plan (subject to annual budget approval processes). Some actions are not currently funded, and staff will seek new revenue and senior government funding opportunities, optimize project delivery, and consider unfunded priorities in upcoming 
+City financial planning processes (for example, the Mid-Term Capital Plan Update). 
+Future investment needs for 2026-30 will be estimated in the next update in 2025.
+It is important to note that the funding needed to advance climate adaptation at the pace and scale required is beyond the City’s capacity, and will require long-term, sustainable senior government funding. This is particularly the case for coastal adaptation, for which the infrastructure costs will be high and there is a history of senior funding to support.
+Indicator Framework
+Adaptation to climate change is challenging to measure for a number of reasons. 
+For example, when defining success, the City must decide if it is a single outcome that can be achieved or an ongoing set of processes that build resilience over time. Lengthy time horizons for the onset of impacts (as with sea level rise) also pose challenges when interpreting if specific actions have reduced risk. Changes in baseline conditions during the monitoring period (such as an increased number of summer heatwaves) can make indicators (such as a successful reduction of mortality from heat related illness) difficult to measure and correlate with change. Sometimes, successful adaptation efforts can have a counterintuitive effect on reported indicators. 
+For example, an increase in hospitalizations due to heat related illness may actually indicate improved awareness of hazards and adaptive capacity, as residents and healthcare workers are more readily able to identify and respond to these conditions.
+While it is difficult to quantify ‘successful’ adaptation to climate change, it is still valuable to monitor progress towards completion of Strategy actions and build understanding of how climate hazards are impacting Vancouver. This update to the Climate Change Adaptation Strategy includes an indicator framework (Appendix F). The focus of the indicators is twofold: 
+1. To ensure the actions taken through the Strategy are making the City of Vancouver more climate resilient;
+2. To monitor over time Vancouver’s climate impacts (for example, how many days of air quality alerts there are each summer). 
+The framework builds upon a range of existing indicators measured across the City and associated with other, related strategies.
+
+[Page 46]
+CITY OF VANCOUVER CLIMATE CHANGE ADAPTATION STRATEGY | 2024-2025 UPDATE AND ACTION PLAN / 46
+Conclusion And Looking Forward
+Despite being the third iteration of the Strategy, there are some limitations to the scope of this update, which in turn are opportunities for future updates. Future iterations of the Climate 
+Change Adaptation Strategy will:
+• 
+Undertake public engagement on climate adaptation and better incorporate lived experience into the action plan.
+• 
+Seek deeper collaboration and consultation with the xwməθkwəy̓ əm (Musqueam), 
+Skwxwú7mesh (Squamish) and səlilwətaɬ (Tsleil-Waututh) Nations in line with Vancouver’s 
+UNDRIP Strategy.
+• 
+Develop future investment needs for longer-term climate adaptation (5 year timeframe).
+Local governments are at the forefront of climate impacts and are equipped with many of the tools for adaptation, but successful climate adaptation requires a whole-of-society approach with partnership from all levels of government, the private sector, non-governmental organizations, First Nations, and others. This Strategy update outlines those actions that are under the jurisdiction of the City of Vancouver and are achievable within current budgets. The City of Vancouver looks forward to continuing to collaborate with partners on climate adaptation across sectors in order to remain a thriving City and region in the face of climate change.
+CITY OF VANCOUVER CLIMATE CHANGE ADAPTATION STRATEGY | 2024-2025 UPDATE AND ACTION PLAN / 46
+Children walking at the 63rd Ave and Yukon St green rainwater infrastructure plaza (Source: Shannon Mendes)
+
+[Page 47]
+CITY OF VANCOUVER CLIMATE CHANGE ADAPTATION STRATEGY | 2024-2025 UPDATE AND ACTION PLAN / 47
+Appendix A Glossary Of Terms
+Throughout this Strategy, the term ‘equity-denied groups’ is used interchangeably with ‘disproportionately impacted communities’
+Adaptation: The process of adjustment to actual or expected climate and its effects, in order to moderate harm or exploit beneficial opportunities. Adaptation is a function of vulnerability and risk.
+Climate-related hazards: Climatic events and trends that have the potential to cause harm to human and environmental systems, often exacerbated by climate change i.e., drought, extreme heat, sea level rise. 
+Combined sewer overflow: A combined sewer is a system in which rainwater and sanitary sewage water is collected in the same system. Combined sewer overflow describes an event when the sewer is over capacity and releases a mixture of rainwater and sewage into receiving waters.
+Drought: A prolonged dry period caused by a lack of precipitation. 
+Drought can have a serious impact on health, agriculture, economies, energy, and the environment.
+Equity: Equity names and addresses systemic factors that benefit and favour some groups and often disproportionately impact others (see below). Equity efforts seek ways to transform current structures, policies, and processes in order to balance power and influence, expand access, and create new ways of working together that nourish all people.xxxii 
+Equity-denied groups7: Those who have been excluded from the design of current societal, governmental, and legal systems, and whom face marginalization and discrimination as a result of that exclusion. These groups are some of the most underserved in our community because of these systemic barriers and include: 
+Indigenous, Black, and racialized groups; people with disabilities and chronic illnesses; people who live with mental health challenges; 2S/LGBTQIA+ and gender diverse people; people with low incomes; refugees, newcomers, and undocumented people; minority language communities; women and girls; youth and seniors. 
+Extreme heat: When two or more consecutive days of daytime maximum temperatures are expected to reach 29°C or warmer and nighttime minimum temperatures are not expected to fall below 16°C. This is the heat warning criteria set by BC’s Heat 
+Alerting Response System.xxxiii
+Extreme rainfall: Extreme rainfall events are those that exceed the capacity of drainage systems, resulting in a range of impacts from combined sewer overflows to property damage. 
+Green rainwater infrastructure: A suite of rainwater management tools that use both engineered and nature-based solutions to protect, restore, and mimic the natural water cycle. It works with plants, soils, trees, and built structures to capture and clean rainwater before returning it to our waterways and atmosphere. 
+Examples: green roofs, bioswales, rain gardens. 
+Ground-level ozone: A colourless gas that forms just above the earth’s surface when two primary pollutants, nitrogen oxide and volatile organic compounds interact. Most ground-level ozone comes from human sources, including motor vehicle exhaust. It is known to be harmful to human health and the environment, and is more likely to reach unhealthy levels on hot days.xxxiv 
+Heating and cooling degree days: These indicators provide a measure of how cold and hot it gets and for how many days in a year. They are important when planning heating, ventilation and air conditioning systems and building design. Heating Degree Days (HDD) and Cooling Degree Days (CDD) measure the difference between the average outdoor temperature and a comfortable interior temperature of 18°C. For example, a daily mean outdoor temperature of 10°C contributes eight HDD while a daily mean outdoor temperature of 20°C contributes two CDD. They are reported summed over each day of the year.
+
+[Page 48]
+CITY OF VANCOUVER CLIMATE CHANGE ADAPTATION STRATEGY | 2024-2025 UPDATE AND ACTION PLAN / 48
+King tide: A commonly used term for the highest tides of the year, which occur between November and February in Vancouver and are caused by positional changes in the earth, moon, and sun. King tides are typically 50 cm or more higher than typical high tides and are an opportunity to see what the shoreline will look like in the future with sea level rise. Storm surge is a separate process (see definition), which when combined with king tide can result in coastal flooding.
+Poor air quality: This Strategy recognizes a ‘moderate’ or 4-6 rating on the Air Quality Health Index as the baseline threshold of a poor air quality event. This consideration reflects that vulnerable communities may experience health impacts at lower thresholds than the general population.xxxv
+Risk assessment: The process to prioritize climate change risks focusing on the potential consequences of an impact.
+Resilience: Resilience is the ability of a system and its component parts to anticipate, absorb, accommodate, or recover from the effects of a hazardous event in a timely and efficient manner, including ensuring the preservation, restoration, or improvement of its essential basic structures and functions.
+Sea level rise: As the global climate warms, glaciers and polar ice caps are melting and feeding more fresh water into the ocean. 
+Climate change is also driving up the average temperature of ocean waters, causing them to physically expand in volume. The combined effects of these events is causing sea level rise.
+Shocks and stresses: The Resilient Vancouver Strategy defines shocks and stresses as follows: Shocks are sudden-onset events such as earthquakes, floods and extreme weather. Stresses are conditions that weaken the urban fabric of a city on a daily or reoccurring basis such as racism, social isolation and poverty. 
+Climate adaptation related stresses refer to the climate trends that impact systems, such as increasing temperatures and sea level rise. 
+Storm surge: A temporary rise in coastal water level due to offshore or near-shore storm processes including pressure changes and wind. Storm surge is a separate process from tides. When storm surge occurs at the same time as the highest tides of the season (commonly referred to as king tides, see definition), it can result in coastal flooding.
+Urban heat island effect: Elevated temperatures in urban areas where the land surface has been altered through the development of buildings, roads, and other infrastructure. Minimized airflow, limited greenspace and tree canopy, more impervious surfaces and structures and human created heat sources lead to elevated temperatures.xxxvi 
+Vulnerability: The underlying conditions determined by physical, social, economic and environmental factors which increase the susceptibility of an individual, community, asset or system to the impacts of a hazard.
+Vulnerability assessment: The process to prioritize climate change risks focusing on where and who are the most susceptible. 
+Vulnerability is a key determinant of potential impacts and disasters. For example, a heat wave can have very different impacts on distinctive populations depending on their vulnerability.
+
+[Page 49]
+CITY OF VANCOUVER CLIMATE CHANGE ADAPTATION STRATEGY | 2024-2025 UPDATE AND ACTION PLAN / 49
+Appendix B Local Climate Change Projections
+All projections are median annual values to the 2050s (2041-2070) under the IPCC Shared Socioeconomic Pathway 5-8.5 (high emissions scenario)i. For all projections, the relative baseline time range is 1981 – 2010 (‘the past’).
+CLIMATE VARIABLE
+DESCRIPTION OF METRIC
+Precipitation
+12% increase in fall with 4% decrease in summer
+Median total seasonal rainfall
+Length of dry spells increase 17% (from 23 days to 27 days on avg per year)
+Max length of consecutive days with less than 1mm precipitation
+67% more precipitation on extremely wet days
+Annual total precipitation that falls on days where precipitation exceeds 99th percentile of precipitation (intensity and frequency)
+30% more precipitation on very wet days
+As above but 95th percentile
+A 1:20 year single year rainfall event will increase in intensity by 19% (from 
+72mm to 86mm)
+Maximum single day rainfall expected to occur on average once in 20 years
+60% decrease (from 48mm to 19mm) in annual snowfall
+Annual/seasonal snowfall (snow water equivalent) portion of precipitation
+Temperature
+2.4 °C average temperature increase
+Annual average temperature increase
+Summer days more than triple (from 20 – 61)
+Frequency of summer days where maximum temperature is above 25 °C
+Number of days above 30 °C increase by nine times (from 1 to 9 days)
+Frequency of summer days where maximum temperature is above 30 °C
+Hottest day of the year is 3 °C warmer (33°C)
+Annual/seasonal maximum of temperature
+Very hot days (1:20 year event) increase in intensity (from 33 to 37°C)
+Maximum daily temperature expected to occur on average once in 20 years
+Number of heatwaves increase from one to four per year
+Day and nighttime temperatures exceed their 95th percentiles (historical) and 
+BC HARS thresholds for at least two consecutive days
+Longest annual heat wave increases from three to six days in length
+Annual maximum of heatwave (see above) length
+Average winter night 2.3 °C warmer (from 1.7 to 4°C)
+Average winter nighttime low temperature
+Coldest winter nights 4.5 °C warmer (from -9.2 to -4.7°C)
+Minimum temperature of the coldest day in winter
+Heating and Cooling
+25% fewer Heating Degree Days
+Total of the number of degrees that the daily mean temperature falls below 
+18°C for every day in a year. This is an indicator of heating demand
+460% more Cooling Degree Days
+Total of the number of degrees that the daily mean temperature exceeds 18°C for every day in a year. This is an indicator of cooling demand
+Growing Season
+9.9% increase in length of growing season (from 314 days to 345 days)
+Growing season length is the length between the first span of six days above 
+5°C in spring, and the first span of six days below 5°C after July
+61% decrease in number of frosty days (from 33 to 13 days)
+Annual count of days when maximum temperature is below 0°C
+
+[Page 50]
+CITY OF VANCOUVER CLIMATE CHANGE ADAPTATION STRATEGY | 2024-2025 UPDATE AND ACTION PLAN / 50
+Appendix C Roles Of Different Levels Of 
+Government In Climate Adaptation8
+Adapted from the National Adaptation Strategy (2023) Gov of Canada
+Federal government
+• Make policy and regulatory decisions on national and international issues
+• Create federal laws and regulations
+• Establish climate-informed national codes and standards
+• Support emergency mitigation, preparedness, and response and recovery from natural disasters
+• Provide funding for programs, projects and partnerships to support action
+• Provide weather monitoring and forecasting, scientific research and analysis, and climate change information and advice
+• Advance Nation-to-Nation relationships with First Nations, Inuit and Métis
+Provincial governments
+• Develop land-use planning laws and building regulations
+• Lead on health care systems, and natural resource and land management, including permitting and regulation
+• Make investments in resilient infrastructure
+• Fund, deliver and design emergency services, environmental protection, health, education, planning, economic development and transport
+• Collect data and information and conducting science at local and regional scales that can be used to better understand climate change risks
+Indigenous Peoples and governing bodies
+• Advance self-determined or self-governed climate adaptation actions on their territories and communities
+• Hold deep knowledge of natural systems and millennia of experience acting as stewards of the environment
+• Develop and advance climate risk assessments and adaptation plans with actions for their regions and communities
+• Apply knowledge and information about the environment and climate change through environmental stewardship, disaster risk reduction, land use plans, resource management and emergency management
+Local and regional governments
+• Land-use planning and zoning
+• Update building codes
+• Deliver water supply and wastewater management
+• Oversee flood and wildfire risk management
+• Local-level emergency preparedness and response
+• Oversight of City facilities and community infrastructure
+• Directly involve local communities in adaptation
+• Invest in local adaptation solutions
+
+[Page 51]
+CITY OF VANCOUVER CLIMATE CHANGE ADAPTATION STRATEGY | 2024-2025 UPDATE AND ACTION PLAN / 51
+Appendix D Action Evaluation And Prioritization Matrix 
+CATEGORY AND DEFINITION
+SCORING
+Equity
+The degree to which an action:
+• Integrates equity into all aspects of the proposed action recognizing that achieving equity as an outcome is dependent on embedding equity within the action development and implementation process 
+Equity unintentional: Action does not sufficiently integrate an equity lens in the proposed approach, nor target equity gaps and/or barriers
+Equity intentional: Action is designed to reduce equity gaps/barriers in access to resources 
+OR
+Is a critical step towards enabling future equity-focused policy and program design
+Equity transformative: Action is designed to reduce equity gaps/barriers in agency or control over resources and impacts
+Alignment and 
+Co-benefits
+The degree to which an action: 
+• Supports senior government priorities
+• Meets or accelerates existing efforts occurring in other City work 
+• Contributes to other climate adaptation and mitigation efforts at the City
+• Is likely to be supported by community, stakeholders, and elected officials
+Is not aligned with existing policy priorities or work and does not have significant co-benefits
+Support unlikely from community, stakeholders and/or elected officials
+Aligns closely with priorities and existing policies (across multiple levels of government) and produces co-benefits related to climate mitigation and other 
+City priorities
+There is existing support from community, stakeholders, and/or elected officials, or is very likely to receive support
+Capability 
+The degree to which an action:
+• Is within the City’s control / jurisdiction, or external partnerships exist or can be developed (where appropriate)
+AND
+• Is sufficiently resourced (i.e., human, technical, fiscal)
+• Is sufficiently funded or opportunities exist to access funding
+Not within the City’s jurisdiction
+Lack of human, technical, fiscal capacity to implement. Requires significant budget for implementation
+Entirely within the City’s jurisdiction or relevant external partnerships exist 
+Sufficient human, technical, fiscal capacity to implement. Can be completed within planned budgets
+Accountability 
+The degree to which an action:
+• Can demonstrate clear goals with measurable outcomes and fullcost accounting to ensure actions meet intended outcomes
+Outcomes are unclear and cannot be measured to track process or success
+Outcomes are clearly articulated in a way that is visible, explicit, and measurable
+Urgency 
+The degree to which an action:
+• Addresses the most immediate climate-risk impacts
+Contributes to management of nonurgent risk
+Contributes to management of critical, urgent risk
+Impact 
+The degree to which an action:
+• Is expected to generate significant adaptation benefits for its intended beneficiaries
+Generates minimal effects for intended beneficiaries including priority populations, communities, and/or ecosystems
+Provides clear and distinct benefits for intended beneficiaries including priority populations, communities, and/or ecosystems
+Actions were scored using the above matrix, and categorized by priority:
+• 
+Critical: 21-24
+• 
+High: 18-20.9
+• 
+Medium: 12-17.9
+• 
+Low: <11.9
+
+[Page 52]
+CITY OF VANCOUVER CLIMATE CHANGE ADAPTATION STRATEGY | 2024-2025 UPDATE AND ACTION PLAN / 52
+Appendix E 2024-2025 Action Plan: Full Detail
+Priority categorizations are described in Appendix D
+HAZARD FOCUSED ACTIONS
+ALL HAZARDS APPROACH 
+Lead
+Action
+Description
+Priority9 
+Complete 
+By
+All hazards approach
+VEMA, 
+ACCS
+A1.1 Explore opportunities with partners to address the unique needs of people experiencing homelessness and housing precarity in climate-related events.
+Unhoused residents are disproportionately exposed to environmental hazards, including extreme heat, poor air quality, extreme rainfall, and more. Existing shelter spaces require investments to ensure that they can be used to support unhoused residents through a variety of climate-related hazards.
+EQUITY OUTCOME: This project will initiate steps towards providing more low-barrier, indoor respite spaces for unhoused residents during climate events.
+H
+2025
+VEMA
+A1.2 Formalize the Resilient Neighbourhoods 
+Program and officially expand mandate beyond 
+Extreme Heat planning.
+Community-based organizations and community members have tremendous interest in and capacity to take action on climate change. Work from 2021 through 2023 on the Resilient Neighbourhoods Program has demonstrated that convening and activating partners to work together on extreme heat enriches both City plans and community care networks that save lives. Existing work has been focused on extreme heat and poor air quality, but should be expanded to other areas.
+EQUITY OUTCOME: Resources and efforts within the Program are prioritized in underserved neighbourhoods facing the greatest risks.
+H
+2025
+VEMA
+A1.3 Update Resilient Neighbourhoods Toolkit with community-led climate resilience actions to adapt to climate change and align with 
+Neighbourhood and Community Placemaking 
+Grants for 2024. 
+Community has expressed deep interest in taking tangible action and developing knowledge and skills in response to climate change. The existing Resilient Neighbourhoods Toolkit contains generalized guidance but would be more useful if it provided guidance on possible creative, low-tech, community-led actions.
+EQUITY OUTCOME: Updating the toolkit involves development of accessible actions and guidance. 
+Resources and efforts within the program will continue to be prioritized in underserved neighbourhoods facing the greatest risks.
+H
+2025
+PB (UF)
+A1.4 Continue to advance risk management initiatives for park trees, street trees, and forested areas to address risks associated with climate-related events such as wildfire and pest and pathogen outbreaks.
+Due to cascading impacts caused by dry spells, changing precipitation patterns and extreme heat, forested areas in Vancouver are becoming increasingly vulnerable. Collaborating with appropriate authorities to identify wildfire risks and appropriate management strategies will allow for appropriate and timely responses to these events in order to minimize harm to residents, ecosystems, and infrastructure.
+EQUITY OUTCOME: All communities should have access to well-maintained and safe natural environments. This is particularly important for communities that are more vulnerable to the impacts of climate change. By addressing risks associated with climate-related events that impact trees and forests, the community is better equipped to withstand and recover from adverse effects.
+H
+
+[Page 53]
+CITY OF VANCOUVER CLIMATE CHANGE ADAPTATION STRATEGY | 2024-2025 UPDATE AND ACTION PLAN / 53
+EXTREME HEAT
+Lead
+Action
+Description
+Priority
+Complete 
+By
+Supporting indoor cooling and thermal safety at home
+VEMA
+H1.1 Expand on 2022 and 2023 Cool Kit project in partnership with community-based organizations and Vancouver Coastal Health, delivering 6,500 kits in total.
+Cool Kits are designed as a tool to help people stay cool in their homes in the absence of mechanical cooling. After two years of delivering these supports, the City is looking to update and improve upon Cool 
+Kits to ensure they are positively impacting recipients and improving equitable access to cooling, and expand delivery of them.
+EQUITY OUTCOME: People who cannot leave their homes easily or get to cooling centres during heat events are uniquely vulnerable to extreme heat. Cool Kits are designed to support these residents.
+C
+2025
+PDS
+H1.2 Initiate work to scope, resource, and determine legal, technical, and economic feasibility for reducing indoor temperatures in existing multi-family residential buildings.
+The vast majority of existing multifamily buildings do not have cooling and are unable to maintain safe thermal temperatures during heat events. As a result residents of these buildings may be at increased risk of the negative impacts of extreme heat.
+EQUITY OUTCOME: To date, few programs or incentives have been aimed at residents of existing multifamily buildings, despite most of these buildings lacking mechanical cooling, and often housing those most vulnerable to extreme heat with the fewest resources to respond (as they may be elderly, socially isolated, renters etc).
+C
+2025
+PDS
+H1.3 Develop and launch a multi-family heat pump incentive and owner support program with BC Hydro, Province of BC and the Zero 
+Emissions Innovation Centre in 2024.
+Rebates are needed to offset costs of new technologies (such as heat pumps) as they mature in the market and can help those who most need it, if designed properly. This program will provide heat pump incentives and an owner support program to owners of homes in multi-family buildings.
+EQUITY OUTCOME: Rebates have historically been targeted to single family homes, and this program accelerates efforts to direct funding to multi-family homes.
+C
+2025
+PDS
+H1.4 Complete the Rental Apartment Retrofit 
+Accelerator and Non-Profit Resilient Retrofit 
+Grant programs to complete retrofits that improve thermal safety and resilience, and reduce carbon pollution in rental and non profit buildings.
+Approximately 30 market rental and non-profit buildings will be retrofitted to provide cooling and reduce building emissions through a suite of retrofits. The lessons learned will inform future policy, regulations and incentive programs, and produce case studies that demonstrate potential solutions and what key barriers exist.
+EQUITY OUTCOME: Residents of rental buildings are uniquely vulnerable to extreme heat because they do not always have control over thermal safety in their units. This program is intended to make it easier for landlords to provide cooling and reduce this vulnerability for renters.
+C
+2025
+PDS
+H1.5 Complete a study on cooling measures for existing multi-family buildings, in partnership with Metro Vancouver and the City of North 
+Vancouver. 
+Existing multi-family residential buildings can be costly to retrofit for improved cooling and air filtration. 
+This study will evaluate potential passive and mechanical retrofits in order to identify key policies or programs that can mitigate overheating. The findings will inform direction on short, medium and longterm strategies to reduce heat-related morbidity in existing multi-family buildings.
+EQUITY OUTCOME: To date, few programs or incentives have been aimed at residents of existing multifamily buildings, despite them being vulnerable to extreme weather and often having the fewest resources to respond (as they may be elderly, socially isolated, renters etc). The study will explicitly explore solutions that do not exacerbate carbon pollution, housing insecurity, and social inequity.
+C
+2025
+PDS
+H1.6 Implement requirements for mandatory cooling in new multi-family residential buildings in the Vancouver Building Bylaw (VBBL) effective 2025, and explore for 1-3 story residential buildings.
+These requirements will provide residents in new multi-family buildings with a thermally safe space to shelter in their homes during extreme heat events.
+EQUITY OUTCOME: While mechanical cooling is frequently installed in market housing, it is not common practice in the rental and social housing sector. These requirements will also require cooling equipment in these housing types, and improve the long-term resilience of Vancouver’s housing stock.
+H
+
+[Page 54]
+CITY OF VANCOUVER CLIMATE CHANGE ADAPTATION STRATEGY | 2024-2025 UPDATE AND ACTION PLAN / 54
+EXTREME HEAT
+Lead
+Action
+Description
+Priority
+Complete 
+By
+Supporting indoor cooling and thermal safety at home
+PDS, 
+VCH, 
+FH
+H1.7 Advocate to the Province of BC to reduce barriers to installing cooling measures outlined in the Strata Property Act and Residential 
+Tenancy Act.
+Historically, rental and strata housing units in British Columbia have tenancy agreements or strata bylaws that can prevent the installation of air conditioning and other cooling measures due to concerns about the building envelope, power usage or aesthetics. Reducing barriers to safely accessing cooling at home would reduce vulnerability to extreme heat for residents of these building types.
+EQUITY OUTCOME: Ensuring people are able to access a cool place in their home or residence is important to prevent heat-related illness during increasingly frequent heat events. Reducing barriers to cooling is particularly important for renters who have limited control over thermal safety in their units.
+H
+2025
+PDS
+H1.8 Complete analysis and report out on findings from multi-year Measuring Indoor 
+Temperature Initiative in partnership with 
+Vancouver Coastal Health and BC Centre for 
+Disease Control.
+Understanding the relationship between outdoor temperatures and the factors that can increase an individual’s exposure and vulnerability to unsafe indoor temperatures can help develop a better understanding of how building type impacts the risks and consequences associated with these events.
+EQUITY OUTCOME: During the 2021 Heat Dome, high indoor temperature was the primary cause of illness and death. Better understanding of how building type impacts vulnerability can support residents, particularly disproportionately impacted communities.
+M
+2025
+Improving access to cooling in public spaces
+VEMA, 
+ACCS
+H2.1 Launch extreme heat transportation pilot for seniors and people with disabilities.
+Due to mobility constraints, social isolation, and existing health conditions, seniors and people with disabilities are more vulnerable during heat events and may not be able to easily access public cooling centres without assistance. This pilot will provide taxi vouchers for transportation to cooling centres.
+EQUITY OUTCOME: These communities both experienced high levels of mortality while sheltering in place during the 2021 heat dome. Providing more accessible transportation to cooling centres is intended to improve both physical and mental health outcomes.
+C
+2025
+PB, 
+REFM
+H2.2 Retrofit two community-use facilities and one civic operations facility with mechanical cooling. Continue to develop design plans for future cooling upgrade projects while seeking external funding to accelerate retrofits for additional sites. 
+Adding building air conditioning to community centres allows for community members in the surrounding neighbourhood to access civic cooling infrastructure during an extreme heat event. Upgrading civic works facilities supports the health and safety of City staff during extreme heat events.
+EQUITY OUTCOME: The community centres retrofitted will be located in underserved areas. This will improve access to cooling for disproportionately impacted populations in the community who cannot access cooling at home, and improved health and safety of City staff, allowing them to continue safely supporting community members.
+H
+2025
+Stewarding the urban forest and green space to support outdoor cooling
+PB (UF)
+H3.1 Continue to advance tree planting on public land to support efforts to increase the urban forest canopy to 30% by 2050, with a focus on below average canopy neighbourhoods.
+Continuing and enhancing tree planting initiatives on public land will play a significant role in lessening the urban heat island effect and creating a more sustainable and comfortable urban environment for the future. 
+EQUITY OUTCOME: This will most greatly benefit communities disproportionately impacted by higher levels of urban heat, in areas of the city with lower tree canopy and higher coverage of paved surfaces.
+C
+2025+
+PB (UF), 
+ENG
+H3.2 Install 20-40 new tree pits (and planted trees) in low canopy areas per year, including appropriate soil volume improvements.
+New street trees, as they mature, help cool the air temperature of the surrounding area and lessen the urban heat island effect in targeted low canopy areas. The related soil volume improvements will help maintain the health of planted trees and improve survival rates. 
+EQUITY OUTCOME: This will most greatly benefit communities disproportionately impacted by higher levels of urban heat, in areas of the city with lower tree canopy and higher coverage of paved surfaces.
+C
+
+[Page 55]
+CITY OF VANCOUVER CLIMATE CHANGE ADAPTATION STRATEGY | 2024-2025 UPDATE AND ACTION PLAN / 55
+EXTREME HEAT
+Lead
+Action
+Description
+Priority
+Complete 
+By
+Stewarding the urban forest and green space to support outdoor cooling
+PB (UF)
+H3.3 Assess the resilience of specific climateadapted tree species to extreme heat and drought by implementing and monitoring three pilot tree-planting projects, and use the outcomes to inform future tree-planting.
+Assessing the resilience of climate-adapted tree species to extreme heat and drought in the local context can help improve the resilience of Vancouver’s urban forest and reduce the urban heat island effect through decreased tree mortality.
+EQUITY OUTCOME: This will most greatly benefit communities disproportionately impacted by higher levels of urban heat, in areas of the city with lower tree canopy and higher coverage of paved surfaces.
+H
+2026
+PDS
+H3.4 Explore priority areas for tree planting and retention on private land.
+Over 35% of Vancouver’s urban forest exists on private land, and existing trees may be impacted by development needed to expand Vancouver’s housing stock in response to the housing crisis. Initiating work to identify priority areas for tree planting and retention will support both development and tree canopy health.
+EQUITY OUTCOME: Canopy cover on private property is not distributed equally due to land development patterns and other factors. Better understanding where canopy is being lost and retained can support future planning and identification of priority low canopy areas for tree planting and retention.
+H
+2025
+BPPS
+H3.5 Following updates to the Tree Bylaw, develop a monitoring approach to track changes to tree coverage on private land as a result of permitted tree removal.
+Gaining a clearer understanding of where the number of trees on private land is changing as a resulted of permitted tree removal will support the development of tree retention targets and other best practices to steward our urban forest and lessen the urban heat island effect. 
+EQUITY OUTCOME: Canopy cover on private property is not distributed equally due to land development patterns and other factors. Better understanding where canopy is being lost and retained can support future land use planning and canopy targets.
+M
+
+[Page 56]
+CITY OF VANCOUVER CLIMATE CHANGE ADAPTATION STRATEGY | 2024-2025 UPDATE AND ACTION PLAN / 56
+POOR AIR QUALITY
+Lead
+Action 
+Description
+Priority
+Complete 
+By
+Poor air quality
+VEMA
+AQ1.1 Expand on 2023 DIY Air Cleaner (filter) pilot in partnership with the Pacific Institute for 
+Pathogens, Pandemics, and Society to provide supplies for 300 air cleaners, and enable community members to build their own.
+DIY Air Cleaners (filters) are health-promotion and preparedness devices that can drastically improve quality of life during wildfire smoke events, particularly for vulnerable populations without access to air filtration.
+EQUITY OUTCOME: The distribution of Air Cleaners to vulnerable populations will reduce exposure and negative health impacts of wildfire smoke and other air pollutants to those who do not have access to other forms of air filtration, in addition to improving community capacity and solutioning.
+C
+2025
+PDS, 
+ENG, 
+REFM
+AQ1.2 Work with Metro Vancouver and 
+Vancouver Coastal Health on a Hyperlocal Air 
+Quality Monitoring Initiative to build a dense air quality monitoring network using lower cost sensors to better understand neighbourhood level variations in air quality.
+The establishment of a dense, hyperlocal air quality monitoring network will enhance the existing monitoring network, increase ability to identify emission sources, and may inform future installation of long-term hyperlocal air quality monitoring systems in the region. Data collected can be used to make informed decisions and policies around air quality, infrastructure, transportation planning, and more.
+EQUITY OUTCOME: The use of small, lower cost sensors allows for monitors to be deployed more rapidly and in more places than a regular grade monitor. Equity will be a consideration when selecting the neighbourhood where the monitoring network will be installed. 
+C
+2024
+PDS
+AQ1.3 Explore and implement building code requirements for filtered outdoor air in new 1-3 storey residential buildings.
+If implemented, these building codes would provide residents in new 1-3 storey buildings with filtered air to reduce exposure to wildfire smoke. Building codes already include these requirements for new multifamily residential buildings.
+EQUITY OUTCOME: While air filtration is frequently installed in market housing, it is not common practice in the rental and social housing sector. These requirements could require air filtration in these housing types, and improve the long-term resilience of Vancouver’s housing stock.
+H
+2024
+CROSS-CUTTING ACTIONS: EXTREME HEAT AND POOR AIR QUALITY
+Lead
+Action
+Description
+Priority
+Complete 
+By
+Cross-cutting: Extreme heat and poor air quality
+VEMA, 
+ACCS
+HA1.1 Continue working with health, housing, and community-based partners to increase supports for seniors and people with disabilities as part of the Resilient Neighbourhoods 
+Program during extreme heat and poor air quality events.
+Due to mobility constraints, social isolation, and existing health conditions, seniors and people with disabilities are more vulnerable to climate-related impacts, and may not be able to access existing supports and programming. Expanding the Resilient Neighbourhoods Program to include specific considerations for these communities is intended to create positive physical and mental health outcomes.
+EQUITY OUTCOME: This program update includes specific considerations for disproportionately impacted populations.
+C
+2025
+ACCS
+HA1.2 Explore expanding social capital grants program to support resilient retrofits for social infrastructure that address near-term needs related to extreme heat and poor air quality events.
+Social infrastructure is defined as physical spaces, services, or programs, and the networks across and within these where people come together, such as Family Centres, Neighbourhood Houses, and daycares. 
+Many of these spaces need significant upgrades and retrofits to address near-term needs related to extreme heat and air quality events.
+EQUITY OUTCOME: Social infrastructure and services are predominantly used by disproportionately impacted communities. These grants and infrastructure upgrades would directly benefits those who use these buildings and services. 
+C
+
+[Page 57]
+CITY OF VANCOUVER CLIMATE CHANGE ADAPTATION STRATEGY | 2024-2025 UPDATE AND ACTION PLAN / 57
+CROSS-CUTTING ACTIONS: EXTREME HEAT AND POOR AIR QUALITY
+Lead
+Action
+Description
+Priority
+Complete 
+By
+Cross-cutting: Extreme heat and poor air quality
+ACCS
+HA1.3 Explore requirements for installing cooling and air quality infrastructure (such as air conditioning and air filters) as part of tenant improvements or renovations in City-partnered emergency homeless shelters.
+Existing shelters often do not have cooling or are using insufficient and inefficient stop-gap measures. 
+These requirements would make planning for air quality and extreme heat central to design and upgrades when considering new shelter spaces.
+EQUITY OUTCOME: People experiencing homelessness are disproportionately impacted by extreme heat and poor air quality. If implemented, these requirements will have a direct positive impact on the health and safety of this population.
+C
+2025
+REFM
+HA1.4 Ensure climate resiliency considerations are implemented in the construction of new 
+City-owned buildings and can support upgrades for existing buildings. All new public-facing facilities will have mechanical cooling and improved air filtration systems, and designated clean air spaces will have additional filtration requirements to address wildfire smoke events.
+Civic facilities are critical social infrastructure spaces that ensure that the City is able to care for residents during disruptions and emergencies, and enable effective recovery afterwards. In order to serve these purposes, facilities must be designed to be able to withstand various hazards, including extreme heat and poor air quality events.
+EQUITY OUTCOME: Access to mechanical cooling and filtered air is made more accessible to the public, including vulnerable populations who do not have access to air filtration and cooling at home.
+H
+2025
+DROUGHT
+Lead
+Action
+Description
+Priority
+Complete 
+By
+Drought
+ENG
+D1.1 Accelerate residential metering and transition to Advanced Metering Infrastructure (AMI) meter reading systems as outlined by the Water Demand Management Strategy and supported by regional direction from Metro 
+Vancouver.
+Water metering provides information on how much water is used and where it is used, which is key for identifying and fixing leaks and reducing potable water use, and allows customers to be equitably billed for water use.
+EQUITY OUTCOME: Currently, non-metered residents pay a flat rate regardless of water usage or waste through leakage. Metering will create increased billing equity, as residents will only pay for their personal water use. It also gives residents information to correct leaks and to decrease their use (and resulting billing) through conservation measures. 
+H
+2026
+ENG
+D1.2 Explore policy updates for increased nonpotable water use in future developments under suitable densification scenarios.
+These policy updates would reduce drinking water demand which is directly impacted during drought/ extreme heat events (both source and use).
+EQUITY OUTCOME: Decreased bulk purchase of drinking water from Metro Vancouver would help to keep water rates affordable for all.
+H
+2025
+ENG
+D1.3 Explore policy that prohibits the installation of in-ground lawn irrigation systems that use potable water for new build permits applied for 2025 onwards.
+This policy would reduce potable water demand, which is directly impacted during drought and/or extreme heat events (both source and use). This would reducing the seasonal water use impacts, water use violations, and higher leakage rates correlated with lawn irrigation systems (one of the largest uses of drinking water in summer months).
+EQUITY OUTCOME: Decreased bulk purchase of drinking water from Metro Vancouver would help to keep water rates affordable for all.
+M
+
+[Page 58]
+CITY OF VANCOUVER CLIMATE CHANGE ADAPTATION STRATEGY | 2024-2025 UPDATE AND ACTION PLAN / 58
+EXTREME RAINFALL
+Lead
+Action 
+Description
+Priority
+Complete 
+By
+Improving our understanding of extreme rainfall
+ENG
+R1.1 Complete an Extreme Rainfall Risk 
+Assessment and Strategy - Phases 1 and 2 (hazard assessment and risk/vulnerability assessment) and scope Phase 3 (strategy).
+This hazard has not been studied at a city-wide level previously, and the City does not have city-wide policies to manage the associated risk. Phases 1 to 3 will allow for a coordinated approach to extreme rainfall adaptation across the city.
+EQUITY OUTCOME: Overland flood risk due to extreme rainfall will be reduced for those in flood hazard areas. Residents living in basements may be acutely impacted by this hazard and this work will help reduce their risk.
+C
+2025+
+ENG
+R1.2 Initiate scoping of a study to assess steep slopes City-wide to identify areas at risk for instability.
+The City has no city-wide map identifying areas of slope risk, and with increased heavy and prolonged rainfall and sea level rise, slope failures may increase. Scoping this work will begin the process of understanding the areas of risk, as a first step to help in future decision making.
+EQUITY OUTCOME: An equity lens will be embedded in the study to better understand vulnerability to this hazard.
+M
+2025
+Managing rainwater through green rainwater infrastructure and the built environment
+ENG
+R2.1 Explore a dedicated funding stream for green rainwater infrastructure (GRI) maintenance and renewal projects in underserved (by GRI) areas to accelerate targeted implementation for these areas.
+The City’s current funding model limits implementation of GRI projects to growth areas. Setting aside specific funding for underserved (by GRI) areas will allow for faster implementation of projects in these areas.
+EQUITY OUTCOME: Acceleration of projects in underserved (by GRI) areas will create improved green space and reduce the urban heat island effect,in addition to improved public health outcomes, ecosystem health and other community benefits.
+C
+2025
+ENG
+R2.2 Explore and work towards early implementation opportunities for Still Creek nature-based flood mitigation through a pilot project from the Still Creek Watershed 
+Enhancement Opportunities Study and the forthcoming Rupert and Renfrew Station Area 
+Plan.
+A pilot nature-based flood mitigation project will help the City incrementally implement measures for 
+Still Creek to manage risk of flooding, enable growth, and improve creek health in one of Vancouver’s few remaining salmon-bearing watercourses.
+EQUITY OUTCOME: The Still Creek floodplain includes social housing sites and this project will help reduce risk for residents.
+H
+2025
+ENG
+R2.3 Incorporate green rainwater infrastructure (GRI) into three hectares of street area in City right-of-way reconstruction projects.
+Incorporating GRI in right-of-way reconstruction projects will decrease stress on combined sewer overtflows during extreme rainfall events, help mitigate the urban heat island effect by increasing green space within the City, and reduce impacts of extreme rainfall for more neighbourhoods across Vancouver.
+EQUITY OUTCOME: By incorporating GRI into reconstruction projects, this will increase green space across the City, including in historically underserved areas.
+H
+2025
+ENG
+R2.4 Develop methods to quantify and communicate the service provision value of green rainwater infrastructure (GRI) for benefits such as drainage, livability, urban heat island mitigation.
+Being able to articulate the service provision value of GRI will create a stronger business case for these projects and encourage uptake. As a result, extreme rainfall and other hazards will be addressed through 
+GRI in more areas across the City, in addition to the other benefits GRI provides.
+EQUITY OUTCOME: Building a strong business case for GRI may lead to increased installation across the 
+City, including in underserved areas. Better articulating the benefits of GRI beyond rainwater management also strengthens institutional knowledge of how infrastructure, equity, and quality of life are connected.
+H
+
+[Page 59]
+CITY OF VANCOUVER CLIMATE CHANGE ADAPTATION STRATEGY | 2024-2025 UPDATE AND ACTION PLAN / 59
+EXTREME RAINFALL
+Lead
+Action 
+Description
+Priority
+Complete 
+By
+Managing rainwater through green rainwater infrastructure and the built environment
+DBL, 
+ENG
+R2.5 Implement rainwater management requirements in the Vancouver Building Bylaw (VBBL) for Part 3 buildings and multiplexes.
+Rainwater management helps to mitigate against increases in sewer system flooding, combined sewer overflow events, and potential basement flooding as a result of development. It also provides control for increases in rainfall due to the anticipated effects of climate change for properties that are redeveloped.
+EQUITY OUTCOME: These requirements may reduce the potential for property damage or displacement for basement tenants who are vulnerable to overland flooding.
+H
+2024
+PDS
+R2.6 Explore a policy or bylaw for the Rupert 
+Renfrew area that prohibits underground parking in and around Still Creek.
+Underground structures act as an underground dam and can significantly reduce the amount of groundwater feeding waterways such as Still Creek. During extreme rainfall events, these structures can also lead to increased localized flooding in surrounding areas due to changed groundwater flow.
+EQUITY OUTCOME: This policy will help maintain the health of Still Creek, one of the most important ecological assets in the City and valued by the Host Nations and many communities, and reduced localized flooding to the immediate area. 
+M
+2025
+Supporting community stewardship of rainwater infrastructure
+ENG, 
+VEMA
+R3.1 Pilot coordination of Adopt a Catch 
+Basin program with Resilient Neighbourhoods 
+Program to expand community participation and public awareness.
+Clogged catch basins can cause localized flooding on streets, sidewalks, and private property. Increasing uptake of the Adopt a Catch Basin Program can minimize these flooding events while supporting community in deepening their roles in neighbourhood and ecological stewardship.
+EQUITY OUTCOME: Expanded community stewardship in underserved neighbourhoods which may decrease localized flooding in these areas caused by clogged catch basins.
+M
+2025
+Sea Level Rise
+Lead
+Action
+Description
+Priority
+Complete 
+By
+Planning for sea level rise and coastal hazards
+PDS
+S1.1 Develop a coastal adaptation and flood management policy that outlines a city-wide approach to coastal adaptation planning, including governance, policy tools, and funding mechanisms.
+The City currently has no city-wide policy or plan that guides coastal adaptation decisions. As sea level rises and coastal flood hazards become more common and intense, there is a need for clear governance, decision making and policy to guide coastal adaptation work.
+EQUITY OUTCOME: Flood risk will be reduced for those in the floodplain, working outside, and/or needing access to services. Developing the policy also provides opportunities to partner with Host 
+Nations to support collaborative sea level rise planning and policy development in the region.
+C
+2025
+PB
+S1.2 Complete a vulnerability assessment and study of waterfront parks and beaches.
+Changing coastal conditions and sea level rise mean amenities built in shoreline areas are at increasing risk of annual damage and require assessment and study to inform planning and implementation of more resilient coastal adaptation approaches.
+EQUITY OUTCOME: This study provides opportunities to work with Host Nations in protecting village sites and to ensure continued public access to waterfront amenities for all residents.
+C
+
+[Page 60]
+CITY OF VANCOUVER CLIMATE CHANGE ADAPTATION STRATEGY | 2024-2025 UPDATE AND ACTION PLAN / 60
+Sea Level Rise
+Lead
+Action
+Description
+Priority
+Complete 
+By
+Planning for sea level rise and coastal hazards
+PDS, 
+ENG
+S1.3 Initiate technical work and engagement towards the development of a Fraser River 
+Flood Mitigation Plan.
+The Fraser River floodplain is the City’s highest priority area for coastal adaptation and coastal flood management implementation as it is already exposed to coastal flooding today, which will become more severe with sea level rise. This work will build on the 2018 Fraser River Coastal Adaptation Plan.
+EQUITY OUTCOME: Fraser River flood planning is closely aligned with coastal flood planning by the 
+Musqueam Indian Band for their Musqueam I.R. No. 2 community located in the same floodplain.
+H
+2025
+REFM
+S1.4 Perform a cost benefit analysis (CBA) to determine best value for delivering safe and resilient housing and coastal and extreme rainfall infrastructure at the city-owned South 
+East False Creek 1A land parcel.
+A CBA will determine the appropriate combination of housing and flood management that will deliver long term value as well as flood and financial resilience.
+EQUITY OUTCOME: The project utilizes community values elicited as part of the 2020 False Creek 
+Coastal Adaptation Plan.
+H
+2024
+REFM
+S1.5 Complete an environmental assessment of the City’s shoreline flood hazard areas (i.e. False 
+Creek, Kits Beach, Locarno to Spanish Banks, the Fraser River shoreline and areas of Burrard 
+Inlet) where coastal adaptation will take place.
+Performing holistic environmental assessments of each flood hazard area is a resource and relationship effective approach to generating complete and accurate environmental information that will be needed to inform future decision, design and regulatory requirements.
+EQUITY OUTCOME: Collaboration with Host Nations and equity seeking groups will be undertaken to understand baseline, current and future restoration goals.
+H
+2025
+VEMA
+S1.6 Explore the development of vulnerability assessments for the severe weather and coastal flooding initial response guidelines (IRG).
+Initial response guidelines help the City of Vancouver take coordinated steps in response to various hazards. This action will ensure that resulting plans address the most vulnerable populations impacted by both coastal and overland flooding.
+EQUITY OUTCOME: The existing IRG does not include a vulnerability assessment. Developing this assessment will ensure flood response guidelines focus on disproportionately impacted populations in affected areas.
+H
+2025
+ENG, 
+PDS, 
+PB
+S1.7 Begin development of a coastal asset inventory and resilience guidelines.
+There is currently no city-wide inventory for coastal assets. Developing one would help plan upgrades strategically over time and identify locations for pilot projects for coastal adaptation. Resilience guidelines would help guide asset renewal decisions and ensure assets are being maintained/renewed for rising sea levels and increasing extreme rainfall.
+EQUITY OUTCOME: Flood risk will be reduced for those in the floodplain, working outside, and/or needing access to services.
+M
+2025
+PDS, 
+ENG
+S1.8 Collaborate with neighbouring local governments and First Nations on refined sea level rise projection criteria for short -and medium- term infrastructure planning.
+To assist in short to medium term decision making, this project aims to supplement the Provincial 
+Guidelines (released in 2011) by providing updated sea level rise curves using the latest model projections and the latest regional ground movement data.
+EQUITY OUTCOME: Collaboration with First Nations and other regional governments will strengthen relationships and support collaborative sea level rise planning and policy development in the region. 
+Updated projections will also improve understanding of areas and communities vulnerable to this hazard. 
+M
+
+[Page 61]
+CITY OF VANCOUVER CLIMATE CHANGE ADAPTATION STRATEGY | 2024-2025 UPDATE AND ACTION PLAN / 61
+Sea Level Rise
+Lead
+Action
+Description
+Priority
+Complete 
+By
+Piloting creative solutions for coastal resilience
+REFM
+S2.1 Design and construct a Sea2City coastal adaptation pilot project on the Cooper’s Park shoreline, and continue to seek funding for additional Sea2City pilots.
+The Coopers Tidal Terrace pilot project tests a new-for-Vancouver form of flood protection. This proof of concept will assist the City and Park Board in learning a new design that can be applied elsewhere in the 
+City, while improving resilience to sea level rise in a high use area of the seawall.
+EQUITY OUTCOME: The design implements conceptual plans that incorporate Indigenous perspectives and community values.
+H
+2025
+ENG
+S2.2 Explore a pilot for nature-based solutions to flooding along the Fraser River.
+The Fraser River floodplain is the City’s highest priority area for coastal adaptation implementation as it is already exposed to coastal flooding today, which will become more severe with sea level rise. 
+Pilot projects are important to help the City learn incrementally prior to large scale implementation of adaptation measures.
+EQUITY OUTCOME: Fraser River flood planning is closely aligned with coastal flood planning by the 
+Musqueam Indian Band for their Musqueam I.R. No. 2 community located in the same floodplain.
+H
+2025
+PB
+S2.3 Begin design of naturalized shoreline adaptation approaches (e.g. for West End 
+Waterfront Plan implementation) and continue project-specific engagement with Host Nations.
+The West End Waterfront Plan is addressing climate change impacts on this popular stretch of coastline, including rising sea levels and more frequent storm events. Design for nature-based adaptation will help adapt to challenges of sea level rise while supporting local ecologies, traditional cultural practice, and continued public access to the waterfront.
+EQUITY OUTCOME: The design is expected to continue incorporating Indigenous perspectives and equity-driven engagement from West End Waterfront Plan process.
+H
+2025
+ENABLING ACTIONS
+Enabling Actions
+Lead
+Action
+Description
+Complete By
+Mainstreaming climate adaptation in City practices
+PDS
+E1.1 Generate localized cost-implication estimates from inaction on climate adaptation, using ICLEI’s ‘The cost of doing nothing’ toolbox for municipal governments.
+This tool can help understand what the costs of climate inaction are at the local level, and what the distribution of those costs is across different sectors and society.
+EQUITY OUTCOME: Improved data will help with making more equity-centred decisions on climate adaptation moving forward.
+2025
+PDS
+E1.2 Pilot the use of a climate equity evaluation framework through which actions in this 
+Strategy will be evaluated to ensure equitable development and implementation.
+A climate equity evaluation framework will enable continuous learning, feedback, and improvement throughout all aspects of the policy cycle from design, implementation, and end-cycle evaluation to ensure climate adaptation actions are achieving equitable outcomes and supporting transformative change.
+EQUITY OUTCOME: Application of an equity evaluation framework will enable staff to adjust climate action, policies, and practices to be more equitable and to improve climate action for current and future generations.
+
+[Page 62]
+CITY OF VANCOUVER CLIMATE CHANGE ADAPTATION STRATEGY | 2024-2025 UPDATE AND ACTION PLAN / 62
+Enabling Actions
+Lead
+Action
+Description
+Complete By
+Mainstreaming climate adaptation in City practices
+PDS
+E1.3 Integrate updated climate projections into 
+City processes to inform relevant planning, policies, and infrastructure projects.
+Up-to-date climate projections must be integrated into City planning, policies and infrastructure in order to make sound, future-proof decisions that continue to adapt to the changing climate.
+EQUITY OUTCOME: Utilizing the most up-to-date climate science in decision making will ensure that projects and plans are designed for future climate and with vulnerability in mind.
+2025
+PDS, 
+FRS
+E1.4 Continue to integrate climate adaptation into the climate budget, and use to guide future planning and investment decisions.
+The climate budget is intended to help improve decision making on climate-related investments and outcomes. This can help achieve the City’s climate objectives, including those set out in this Strategy, and help avoid future costs and losses.
+EQUITY OUTCOME: The extent to which an action prioritizes disproportionately impacted populations and/or allocates costs between populations based on their capacity to pay is one of the four prioritization criteria used to assess and prioritize climate initiatives in the climate budget.
+2025
+PDS
+E1.5 Establish a Climate Friendly Buildings 
+Advisory Committee to seek input from diverse residents living in multi-family buildings. The 
+Committee aims to improve understanding of the benefits and challenges of potential future regulations and programs for reducing carbon pollution and improving climate resilience in these building types.
+The Committee will contribute to shaping City strategies that advance building emissions reduction while also enhancing climate resilience (e.g. through thermal safety, clean indoor air). It will also help ensure regulations and programs are developed and implemented in an equitable way.
+EQUITY OUTCOME: The Committee will advise staff on the development of future regulations and programs in a way that meets the diverse needs of those living in multifamily buildings without causing unintended harm or barriers.
+2024
+Collaborating with key partners and senior levels of government
+PDS
+E2.1 Continue to participate in regional, national, and international collaborations to advance best practice on municipal climate adaptation planning (e.g. C40 Cool Cities Network, Fraser 
+Basin Council).
+Effective adaptation planning requires the cooperation and collaboration with municipalities, community organizations, health authorities, and other levels of government. The City will continue to exchange ideas in peer-to-peer networks and participate in partnerships to maximize impact.
+EQUITY OUTCOME: City staff will continue to learn from others doing leading work on climate adaptation, including a focus on how to do this while centering equity.
+2025
+PDS
+E2.2 Leverage funding opportunities and maximize intergovernmental collaboration through alignment with the National Adaptation 
+Strategy and British Columbia Climate 
+Preparedness and Adaptation Strategy.
+Senior levels of government have a core leadership role to play in adaptation planning, as well as providing funding and other resources to help municipalities advance the goals and targets set out in the national and provincial adaptation strategies. 
+EQUITY OUTCOME: Cost sharing of adaptation actions is critical to success and will support the City in advancing actions that reduce risk and enhance resilience while advancing other core priorities. Equity is a core focus of the national and provincial adaptation strategies.
+
+[Page 63]
+CITY OF VANCOUVER CLIMATE CHANGE ADAPTATION STRATEGY | 2024-2025 UPDATE AND ACTION PLAN / 63
+Enabling Actions
+Lead
+Action
+Description
+Complete By
+Building community awareness of climate change hazards and responses
+VEMA
+E3.1 Improve public access to information on climate hazards by completing a public-facing multi-hazard and risk story map. 
+At present, the City does not have an accessible way of sharing multi-hazard information about the climate hazards that would help communities understand risk and prepare for impacts. This story map was identified as an action in the Resilient Vancouver Strategy and will help improve public awareness of climate hazards.
+EQUITY OUTCOME: The maps will contain spatial data indicating inequitable distribution of risk across 
+City. There is potential to improve equity via access to information but care must be taken to ensure information cannot be used for harm (e.g., blue-lining).
+2025
+PDS, 
+VEMA
+E3.2 Enhance public communications around each of the climate-related hazards to improve the reach and relevance of City messaging by leveraging community partners and translating materials.
+Public awareness about climate change plays a key role in advancing action on adaptation measures needed to prepare to the projected impacts of climate change in Vancouver. Improving literacy around the connection between emergency preparedness and long-term planning for hazards is also important to building resilience.
+EQUITY OUTCOME: Development of these key messages will include considerations of communities and audiences that existing City communications don’t reach, and outline mediums and platforms that are relevant and accessible to these communities.
+2025
+Setting intentions and commitments for the 2026-30 Strategy
+PDS
+E4.1 Build on existing relationships and partnerships to ensure that communities that are most impacted by climate change (including 
+Host Nations, urban Indigenous, and equitydenied communities) are aware of and engaged in the 2026-30 Strategy update process.
+Future iterations of the Climate Change Adaptation Strategy should build on existing work to further incorporate the lived experiences and values of those most impacted by climate change, including the 
+Host Nations, who are the original stewards of the lands now known as Vancouver and are essential partners in our work to prepare for and adapt to climate change.
+EQUITY OUTCOME: 2026-30 Strategy actions reflect lived experience and values of those most impacted by climate change.
+2025
+PDS
+E4.2 Ensure priority actions for the 202630 Strategy align with the United Nations 
+Declaration on the Rights of Indigenous Peoples 
+Action Plan, acknowledging the importance of building resilience to climate hazards while addressing past harms.
+The UNDRIP Action Plan is an agreement between the City and three Host Nations, identifying priority work for the next five years to advance UNDRIP implementation. It is important to coordinate and support advancing the priorities identified through this plan.
+EQUITY OUTCOME: Advancing reconciliation in accordance with priorities expressed by Host Nations.
+2025
+PDS
+E4.3 Seek meaningful collaboration with 
+Musqueam, Squamish and Tsleil-Waututh 
+Nations to support Host Nation priorities for the 
+2026-30 Strategy update.
+By engaging the Nations early, the City hopes to be able to collaborate on the development of the next 
+Climate Change Adaptation Strategy and use this as an opportunity to support the Host Nations in advancing their climate priorities.
+EQUITY OUTCOME: Advancing reconciliation in accordance with priorities expressed by Host Nations (UNDRIP Action 3.10).
+2025
+Department Legend:
+• 
+ACCS: Arts, Culture and Community Services
+• 
+BPPS: Business Planning and Project Support
+• 
+DBL: Development, Buildings and Licensing
+• 
+ENG: Engineering Services
+• 
+FH: Fraser Health (external)
+• 
+FRS: Finance, Risk and Supply Chain Management
+• 
+PB: Park Board
+• 
+PDS: Planning, Urban Design and Sustainability
+• 
+REFM: Real Estate, Environment and Facilities Management
+• 
+UF: Urban Forestry
+• 
+VCH: Vancouver Coastal Health (external)
+• 
+VEMA: Vancouver Emergency Management Agency
+
+[Page 64]
+CITY OF VANCOUVER CLIMATE CHANGE ADAPTATION STRATEGY | 2024-2025 UPDATE AND ACTION PLAN / 64
+Appendix F Plan Measurement: Indicator Framework
+Proposed indicators, subject to data availability
+Future Climate Adaptation Annual Reports will include climate hazard indicators to monitor trends in local climate impacts over time, and action indicators to track and support implementation of the Strategy.
+CLIMATE HAZARD INDICATORS 
+These indicators illustrate the change over time of climate-related hazards in the Vancouver context.
+Climate Hazard
+Indicator10 
+Source
+All Hazards
+Estimated cost of climate impacts in Vancouver
+Scope and method of estimate to be determined
+Extreme Heat # days under Special Weather Statements for heat
+Environment and Climate Change Canada
+Poor Air Quality # days under Air Quality Advisories
+Metro Vancouver Regional District (Annual Air Quality 
+Summary)
+Drought # days under Stage 3-4 water restrictions
+Metro Vancouver Regional District (Drinking Water 
+Conservation Plan)
+Extreme Rainfall # days under Special Weather Statements for rainfall
+Environment and Climate Change Canada
+Sea Level Rise # days under Coastal Flood Alerts (or equivalent)
+StormSurge BC / Environment and Climate Change Canada
+2024-25 ADAPTATION STRATEGY ACTION STATUS
+Outputs for many Strategy actions cannot be measured quantitatively (e.g., completion of studies, assessments, initial-stage program development, etc.). For all actions, Appendix E lists target completion dates. Action milestones will be tracked internally, and Annual 
+Reports will include action-level progress updates (i.e., not started; underway; complete; ongoing). 
+FUTURE REPORTING 
+Measuring effectiveness: As discussed, the effectiveness of adaptation actions currently can be difficult to quantify. Staff will continue to develop methods and data sources ahead of the next Adaptation Strategy in 2025. Examples of effectiveness indicators not regularly measured currently include: 
+• 
+Urban heat island effect mitigated by tree canopy and green rainwater infrastructure
+• $ community/City assets in flood risk zones
+Harmonized climate reporting: Council received the City’s first Climate Budget in late 2023. As that reporting practice evolves, 
+Adaptation Strategy reporting will also evolve (along with Climate Emergency Action Plan reporting) to provide aligned, relevant progress and financial information to decision-makers, stakeholders, and the public.
+
+[Page 65]
+CITY OF VANCOUVER CLIMATE CHANGE ADAPTATION STRATEGY | 2024-2025 UPDATE AND ACTION PLAN / 65
+2024-25 ADAPTATION STRATEGY ACTION INDICATORS
+These indicators monitor the pace and progress on implementing selected actions within the Strategy.
+Action #
+Action Description
+Indicator
+Target
+Year
+H1.1
+Expand on 2022 and 2023 Cool Kit project in partnership with community-based organizations and Vancouver Coastal Health, delivering 6,500 kits in total.
+# units distributed (cumulative)
+6,500
+2025
+H1.3
+Develop and launch a multi-family heat pump incentive and owner support program with BC Hydro, Province of BC and the Zero Emissions Innovation Centre in 2024.
+# households retrofitted (cumulative) tbd11 
+2025
+H1.4
+Complete the Rental Apartment Retrofit Accelerator program, working with partners to research opportunities to prioritize thermal comfort and increase the capacity of landlords to address thermal comfort in their buildings; assess costbenefits of program expansion.
+# households retrofitted (cumulative) tbd11
+2025
+H3.1
+Continue to advance tree planting on public land to support efforts to increase the urban forest canopy to 30% by 2050, with a focus on below average canopy neighbourhoods.
+% tree canopy cover (vs. total Vancouver land area)
+30%
+2050
+H3.2
+Install 20-40 new tree pits (and planted trees) in low canopy areas per year, including appropriate soil volume improvements.
+# trees pits installed and trees planted (cumulative)
+40-80
+2025
+HA1.2
+Explore expanding social capital grants program to support resilient retrofits for social infrastructure to address near-term needs related to extreme heat and poor air quality events. # spaces retrofitted (cumulative) tbd11
+2025
+AQ1.1
+Expand on 2023 DIY Air Cleaner pilot in partnership with the Pacific Institute for 
+Pathogens, Pandemics, and Society to enable community members to build their own air cleaners. # units distributed (cumulative)
+2025
+D1.1
+Accelerate residential metering and transition to Advanced Metering Infrastructure (AMI) meter reading systems as outlined by the Water Demand Management 
+Strategy and supported by regional direction from Metro Vancouver. # residential water meters (installed, cumulative)
+5,000
+2026 # residential water meters (AMI conversions, cumulative)
+22,000
+2026
+R2.3
+Incorporate green rainwater infrastructure (GRI) into City right-of-way reconstruction projects.
+# hectares managed by new GRI (City right-of-way area, cumulative)
+2026
+E2.2
+Leverage funding opportunities and maximize intergovernmental collaboration through alignment with National Adaptation Strategy and British Columbia 
+Climate Preparedness and Adaptation Strategy.
+% external funding secured (vs. Adaptation Priority allocations in 
+2023-26 Capital Plan) tbd11
+2025
+Target to be determined upon detailed program design
+
+[Page 66]
+CITY OF VANCOUVER CLIMATE CHANGE ADAPTATION STRATEGY | 2024-2025 UPDATE AND ACTION PLAN / 66
+Appendix G Financial Framework
+Actions within this Adaptation Strategy are tagged as “Climate Priority” and tracked in the annual Climate Budget, per the City’s 
+Climate Taxonomy (see Vancouver’s Climate Budget 2024 for details). 
+CLIMATE PRIORITY ADAPTATION INVESTMENTS IN THE 2023-26 CAPITAL PLAN
+The following table shows the existing Council-approved 2023-26 Capital Plan investment allocations. These allocations fund ongoing delivery of climate adaptation projects and programs already approved in this and past capital plans, including key initiatives like new greenways, green infrastructure renewal and upgrades, and building retrofits. An additional $20M was included in the Capital Plan, to be allocated through budget adjustments to emerging climate adaptation actions. Some of the actions identified in this Strategy will be funded in this manner.
+Hazard
+Service Areas
+Capital Plan Program / Project Name
+2023-26 Plan Investment, $M
+Extreme Heat
+Programs
+Capital Maintenance: Fire & Rescue $1.8
+Green buildings
+Energy retrofits: non-City buildings $24.0
+Urban forest
+Park trees - new $2.5
+Street trees - replacement $5.0 tbd
+Emerging extreme heat priority initiatives $5.0
+Drought
+Resilience & climate adaptation
+Accelerated water meter deployment program $23.0
+Extreme Rainfall
+Core network
+Flood protection & drainage $10.0
+Green infrastructure renewal & upgrades $41.6 tbd
+Emerging extreme rainfall priority initiatives $5.0
+Sea Level Rise
+Seawall & shoreline
+Seawall/shoreline planning - Coastal Flood Protection and Resiliency $6.7
+Existing parks
+West End Waterfront Parks (Phase 1 Implementation) $10.012 tbd
+Emerging sea level rise priority initiatives $10.0
+Total, $M $144.6
+Only a portion of this allocation will be spent on climate-relevant investments (in this instance, costs associated with design for shoreline adaptation to sea level rise)
+
+[Page 67]
+CITY OF VANCOUVER CLIMATE CHANGE ADAPTATION STRATEGY | 2024-2025 UPDATE AND ACTION PLAN / 67
+FUNDED INVESTMENTS 2024-26 
+The majority of CCAS actions will be funded within the existing Capital Plan, as an extension of ongoing work or through workplan refinement and reallocations. Annual budget allocations will be brought to Council for approval with annual processes. Investment needs for the next Adaptation Strategy in late-2025 will be brought to Council ahead of the 2027-30 Capital Plan process. Similarly, approximately $1.3M operational funding and staff time/resource was identified in existing operational budgets to support these actions.
+Hazard # of actions
+Capital Need, $M
+All Hazards
+0.3
+Extreme Heat
+16.3
+Improving Access to Cooling in Public Spaces
+6.3
+Supporting Indoor Cooling and Thermal Safety at Home
+4.3
+Stewarding the Urban Forest and Green Space to Support 
+Outdoor Cooling
+7.7
+Cross-cutting: Extreme Heat and Poor Air Quality
+1.0 
+Poor Air Quality
+-
+Drought
+23.0 
+Extreme Rainfall
+28.2 
+Improving Our Understanding of Extreme Rainfall
+0.4 
+Supporting Community Stewardship of Rainwater Infrastructure
+- 
+Managing Rainwater Through Green Rainwater Infrastructure and the Built 
+Environment
+27.9 
+Sea Level Rise
+4.8 
+Planning for Sea Level Rise and Coastal Hazards
+2.3 
+Piloting Creative Solutions for Coastal Resilience
+2.5 
+Enabling
+0.3 
+Collaborating With Key Partners and Senior Levels of Government
+-
+Building Community Awareness of Climate Change Hazards and Responses
+- 
+Mainstreaming Climate Adaptation in City Practices
+0.2
+Setting Intentions and Commitments for the 2026-30 Strategy
+0.1
+Grand Total
+73.9 % Funding Identified In 2023-26 Capital Plan
+
+[Page 68]
+CITY OF VANCOUVER CLIMATE CHANGE ADAPTATION STRATEGY | 2024-2025 UPDATE AND ACTION PLAN / 68
+UNFUNDED ACTIONS 2024-26 
+Currently, a number of Strategy actions are unfunded in the 2024 Capital and Operating Budget. Some of these actions are not completely costed yet, pending program design. These will be included in future reporting and brought to Council for budget approval. 
+Staff continue to explore opportunities to reduce this funding gap, through: 
+• 
+Where outcomes are similar, prioritizing lower-cost regulatory/advocacy tools over investment-intensive financial incentives and infrastructure approaches
+• 
+Optimizing project delivery to achieve comparable climate outcomes at lower cost
+• 
+Advocating for and pursuing more sustained funding opportunities from senior government and partners, and exploring new sources of City revenue (in particular those that encourage choices aligned with CEAP and CCAS objectives) to fund new actions or expansion of existing ones to move further towards climate objectives 
+• 
+Considering CEAP and CCAS priorities when allocating existing Emerging Climate Adaptation Priorities funding, the Mid-Term 
+Capital Plan Update, the development of the next Capital Plan, and new revenue sources (such as the Growing Communities Fund)
+Primary 
+Hazard
+Action #
+Action Description
+Unfunded 
+Need, $M
+All 
+Hazards
+A1.2
+Formalize the Resilient Neighbourhoods Program and officially expand mandate beyond Extreme Heat planning.
+$0.220
+A1.3
+Update Resilient Neighbourhoods Toolkit with community-led climate resilience actions to adapt to climate change, and align with 
+Neighbourhood and Community Placemaking Grants for 2024. $0.015
+Extreme 
+Heat
+H2.2
+Pursue upgrades in two community-use facility and one civic works facility with mechanical cooling by 2025, and continue to develop design plans for future cooling upgrade projects while continuing to seek external funding to accelerate retrofits for additional sites.
+$0.400
+Extreme 
+Heat and 
+Poor 
+Air 
+Quality
+HA1.2
+Explore expanding social capital grants program to support resilient retrofits for social infrastructure to address near-term needs related to extreme heat and air quality events. $1.000
+HA1.3
+Explore requirements for installing cooling and air quality infrastructure (such as air conditioning and air filters) as part of tenant improvements or renovations in city-partnered emergency homeless shelters.
+tbd13 
+Extreme 
+Rainfall
+R3.1
+Pilot coordination of Adopt a Catch Basin program with Resilient Neighbourhoods Program to expand community participation and public awareness.
+$0.003
+Sea Level 
+Rise
+S1.5
+Complete an environmental assessment of the shoreline areas of the City’s flood hazard areas (i.e. False Creek, Kits Beach, Locarno to 
+Spanish Banks, the Fraser River shoreline and areas of Burrard Inlet) where coastal adaptation will take place. $0.500
+S1.7
+Begin development of a coastal asset inventory and resilience guidelines.
+$0.150
+S2.2
+Explore a pilot for nature-based solutions to flooding along the Fraser River.
+$0.500
+S2.3
+Begin design of naturalized shoreline adaptation approaches (e.g. for West End Waterfront Plan implementation) and continue project-specific engagement with Host Nations. tbd13
+Enabling
+E3.2
+Enhance public communications around each of the climate-related hazards to improve the reach and relevance of City messaging by leveraging community partners and translating materials.
+tbd13
+Grand Total $2.788
+Target to be determined upon detailed program design
+
+[Page 69]
+CITY OF VANCOUVER CLIMATE CHANGE ADAPTATION STRATEGY | 2024-2025 UPDATE AND ACTION PLAN / 69
+Appendix H References i 
+Intergovernmental Panel on Climate Change (IPCC). (2023). Summary for Policymakers. In: Climate Change 2023: Synthesis Report. Contribution of 
+Working Groups I, II and III to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change.
+ii 
+Lulham, N., Warren, F.J., Walsh, K.A. and Szwarc, J. (2023). Canada in a Changing Climate: Synthesis Report. Government of Canada.
+iii 
+Curry, C.L., and Sobie, S.R. (2023). Climate Projections for the City of Vancouver: Highlights Report. Pacific Climate Impacts Consortium, University of 
+Victoria.
+iv 
+Sentis Group. (2023). Public Opinion Poll Summary Report for the City of Vancouver.
+v 
+World Economic Forum. (2024). The Global Risks Report 2024: Insight Report.
+vi 
+Government of Canada. (2023). Canada’s National Adaptation Strategy: Building Resilient Communities and a Strong Economy.
+vii 
+Sawyer, D., Ness, R., Lee, C., and Miller, S. (2022). Damage Control: Reducing the costs of climate impacts in Canada. Canadian Climate Institute.
+viii 
+Federation of Canadian Municipalities (FCM). (2020). Investing in Canada’s future: the cost of climate adaptation at the local level.
+ix 
+Compass Resource Management and Ebbwater Consulting for City of Vancouver. (2015). City of Vancouver Coastal Flood Risk Assessment: Phase II.
+x 
+Canadian Association of Physicians for the Environment (CAPE). (2021). Mobilizing Evidence: Activating Change on Traffic-Related Air Pollution (TRAP) 
+Health Impacts.
+xi 
+Vancouver Coastal Health. (2021). Community Health and Climate Change Maps.
+xii 
+City of Vancouver. (2022). St George Rainway 2022 Bioblitz report-back.
+xiii 
+City of Vancouver. Combined sewer overflows.
+xiv 
+Task Force on Climate-Related Financial Disclosures. (2017). Recommendations of the task force of climate-related financial disclosures.
+xv 
+British Columbia Coroners Service (BCCS). (2022). Extreme Heat and Human Mortality: A Review of Heat-Related Deaths in B.C. in Summer 2021.
+xvi 
+Gillett, N., Cannon, A., Malinina, E., Schnorbus. M., et al. (2022). Human influence on the 2021 British Columbia floods. Weather and Climate Extremes, 36, 
+100441.
+xvii 
+Insurance Bureau of Canada (IBC). (2022). Insured Losses from 2021 Floods in BC Now $675 million.
+xviii Parisien, MA., Barber, Q.E., Bourbonnais, M.L. et al. (2023). Abrupt, climate-induced increase in wildfires in British Columbia since the mid-2000s. Commun 
+Earth Environ 4, 309.
+xix 
+Government of British Columbia Wildfire Service. Wildfire Statistics.
+xx 
+IQ Air. World’s most polluted cities: Historical rankings.
+xxi 
+Government of British Columbia. (2008). Projected Sea Level Changes for British Columbia in the 21st Century.
+xxii 
+The Global Climate & Health Alliance. (2021). The limits of livability. Country brief: Canada.
+xxiii Metro Vancouver. (2016). Climate Projections for Metro Vancouver.
+xxiv Vancouver Coastal Health and Fraser Health. (2022). Climate change and health vulnerability and capacity assessment: Summary report.
+xxv 
+Rahini, M., Rongbin, X., Shanshan, L., and Yuming, G. (2021). Interpersonal violence associated with hot weather. The Lancet Planetary Health.
+xxvi White, R.H., Anderson, S., Booth, J.F. et al. (2023). The unprecedented Pacific Northwest heatwave of June 2021. Nat Communications vol 14, 727.
+xxvii Vancouver Board of Parks and Recreation. (2018). Urban Forest Strategy.
+xxviii Adhishek, G., Noureddine, B., Armstrong, M., and Hill, F. (2020). Potential future changes in wildfire weather and behaviour around 11 Canadian cities. Urban 
+Climate, vol 35.
+xxix Metro Vancouver. (2022) 2022 Annual Air Quality Summary.
+xxx 
+National Collaborating Centre for Environmental Health (NCCEH). (2023). The health impacts of drought in Canada.
+xxxi National Collaborating Centre for Environmental Health (NCCEH). (2022). Health risks associated with sea level rise.
+xxxii City of Vancouver. (2021). Getting our House in Order: City of Vancouver’s Equity Framework.
+xxxiii BC Centre of Disease Control. (2023). BC Provincial Heat Alert and Response System (BC HARS):2023.
+xxxiv Government of Canada. (2016). Common Air Pollutants: Ground-Level Ozone.
+xxxv Government of Canada. British Columbia Air Quality Health Index Summary.
+xxxvi Government of Canada. (2020). Reducing Urban Heat Islands to Protect Health in Canada.
+
+[Page 70]
+Numerous staff across the City, Vancouver Park Board and Vancouver Public Library were involved in this update of the Climate 
+Change Adaptation Strategy through cross-departmental working groups. We are grateful for their contributions and look forward to continuing to work together on climate adaptation.
+CITY OF VANCOUVER CLIMATE CHANGE ADAPTATION STRATEGY | 2024-2025 UPDATE AND ACTION PLAN /70
+
+[Page 71]
+False Creek (Source: City of Vancouver)
+CITY OF VANCOUVER CLIMATE CHANGE ADAPTATION STRATEGY | 2024-2025 UPDATE AND ACTION PLAN /71
+
+[Page 72]
+© City of Vancouver
+For more information: 
+Visit vancouver.ca or phone 3-1-1 
+TTY: 7-1-1 / Outside Vancouver: 604-873-7000

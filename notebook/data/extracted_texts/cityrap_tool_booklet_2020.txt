@@ -1,0 +1,2237 @@
+[Page 1]
+ACTION PLANNING TOOL
+CITY RESILIENCE CityRAP Tool
+
+[Page 2]
+CITY RESILIENCE ACTION PLANNING
+Acknowledgements
+Overall coordinator and originator: Mathias Spaliviero, Senior Human 
+Settlements Officer, UN-Habitat
+Authors: Mathias Spaliviero, Luis Felipe Lopes, Chiara Tomaselli, 
+Katharina Rochell, Marcia Guambe, Selene Angelone, Fruzsina Straus, 
+Eva Comba.
+Contributors: Pasquale Capizzi, Eduardo Feuerhake, Linda Zardo, 
+Roberto Carrión, Thomaz Ramalho, Fruzsina Straus, Selene Angelone.
+Illustrations: Eduardo Feuerhake.
+Edition: Katharina Rochell, Fruzsina Straus, Selene Angelone, Linda 
+Zardo.
+Design and layout: Denise Dalla Colletta, LAB Atelier, Selene 
+Angelone.
+The conceptualization of the City Resilience Action Planning (City 
+RAP) Tool dates back to 2015. The first version of the tool was tested in twenty sub-Saharan African cities and led to the development of 
+City Resilience Frameworks for Action. Lessons learned and feedback from reviewers were integrated in this second version of the tool. 
+UN-Habitat particularly thanks the city officials and municipal staff in cities where CityRAP was carried out from 2015 to 2020, whether in its full implementation or using the Training of Trainers modality, specifically: Ouagadougou (Burkina Faso); Espargos, Praia and Santa 
+Catarina (Cape Verde); Arada and Lideta sub-cities of Addis Ababa, 
+Adama and Dire Dawa (Ethiopia); Bafata and Bolama (Guinea-Bissau); 
+Antala and Morondava (Madagascar); Lilongwe and Zomba (Malawi); 
+Angoche, Chiure, Chokwe, Cuamba, Dondo, Metangula, Mocuba, 
+Montepuez, and Vilankulo (Mozambique); Agua Grande and Neves (São Tomé and Príncipe); George, Port Alfred and Potchefstroom (South Africa); Fomboni and Moroni (Union of Comoros); Chipata and 
+Lusaka (Zambia); Chipinge and Mutare (Zimbabwe). Their valuable feedback has greatly contributed to improving the methodology. 
+Special mention has to be made of Professor Mark Pelling, London 
+Kings College, and Dr. Shona Paterson, Future Earth Coasts. As part of the Urban Africa Risk Knowledge (ARK) research programme, they provided important inputs to improving the CityRAP Tool.
+United Nations Human Settlements Programme (UN-Habitat) 2020
+P.O. Box 30030 Nairobi 00100, Kenya
+Sub-Regional Technical Centre for Disaster Risk Management, Sustainability and
+Urban Resilience (DiMSUR) dimsur.org | email: secretariat@dimsur.org
+
+[Page 3]
+CITYRAP TOOL
+CITY RESILIENCE ACTION PLANNING | 05
+04 | 
+INTRODUCTION
+URBANISATION AND VULNERABILITY 
+URBAN RESILIENCE 
+OVERVIEW OF THE CITYRAP TOOL
+PREPARATORY PHASE
+PHASE ONE: UNDERSTANDING URBAN RESILIENCE 
+ACTIVITY 1: KEY CONCEPTS OF URBAN RISK AND RESILIENCE 
+ACTIVITY 2: PRESENTATION OF THE CITYRAP TOOL 
+ACTIVITY 3: PARTICIPATORY MAPPING AT CITY LEVEL 
+ACTIVITY 4: BUILDING THE RESILIENCE OF YOUR CITY 
+ACTIVITY 5: TRAINING OF THE MUNICIPAL FOCAL POINTS FOR PHASE TWO
+PHASE TWO: DATA COLLECTION AND ORGANISATION 
+ACTIVITY 1: MUNICIPAL SELF-ASSESSMENT
+ACTIVITY 2: PARTICIPATORY PLANNING AT NEIGHBOURHOOD LEVEL 
+ACTIVITY 3: DATA COMPILATION AND ORGANISATION 
+PHASE THREE: DATA ANALYSIS AND PRIORITISATION 
+ACTIVITY 1: PREPARING THE FOCUS GROUP DISCUSSIONS 
+ACTIVITY 2: FOCUS GROUP DISCUSSIONS 
+ACTIVITY 3: PRIORITISATION WORKSHOP
+ACTIVITY 4: TRAINING OF THE MUNICIPAL FOCAL POINTS FOR ACTIVITY 1 OF PHASE FOUR
+PHASE FOUR: DEVELOPMENT OF THE CITY RESILIENCE FRAMEWORK FOR ACTION (RFA) 
+ACTIVITY 1: BASELINE ASSESSMENT
+ACTIVITY 2: DEFINITION OF PRIORITY ACTIONS AND RFA FORMULATION WORKSHOP
+ACTIVITY 3: PREPARATION OF THE FIRST CONSOLIDATED DRAFT OF THE CITY RFA 
+ACTIVITY 4: VALIDATION WORKSHOP, FORMAL ENDORSEMENT AND DISSEMINATION OF 
+THE CITY RFA
+ANNEX 1: SELF-ASSESSMENT QUESTIONNAIRE
+GLOSSARY
+FIGURE 1
+Aerial photo of Moroni, Comoros. Credit: Felix Volmann / UN-Habitat
+
+[Page 4]
+CITYRAP TOOL
+INTRODUCTION
+06 | | 07
+Sub-Saharan Africa is one of the fastest urbanising regions of the world today. The urban population growth is expected to triple in absolute numbers between 2015 and 
+2050. Small and intermediate sized cities house the largest portion of the urban population (54%), and will continue to do so in the decades to come (UNDESA). African cities are generally ill-prepared to cater for such an explosive population growth. Similar trends are witnessed in Asia and the rest of the developing world.
+Much of the urban growth in developing countries is occurring spontaneously, i.e. not following official planning frameworks, even when they exist. As a result, large numbers of urban residents live in informal settlements that are oftentimes vulnerable to natural and man-made hazards. At the same time, climate change has increased the frequency and intensity of natural hazards, affecting millions of urban dwellers. Consequently, a range of urban risks are accumulating and there is an urgent need for developing the capacity of cities in the developing world regarding risk reduction and resilience planning.
+In this context, the United Nations Human Settlements 
+Programme (UN-Habitat) and the Technical Centre for 
+Disaster Risk Management, Sustainability and Urban 
+Resilience (DiMSUR)1 collaborated to develop a tool to strengthen the capacity of city managers and technicians in the developing world to build their city’s resilience and effectively reduce urban risks.
+1 Founded by the Governments of Madagascar, Malawi, Mozambique and the Union of Comoros, DiMSUR aims to develop local, national and subnational capacities for vulnerability reduction and building resilience to natural disasters in the southern Africa region. The Centre performs a wide range of services towards disaster risk reduction, adaptation to climate 
+The 
+City 
+R e s i l i e n c e 
+A c t i o n 
+P l a n n i n g (CityRAP) 
+Tool aims to enable local governments of small to intermediate sized cities, or n e i g h b o u r h o o d s / districts of bigger cities or metropolitan areas, to plan and undertake practical actions to strengthen the resilience of their cities. 
+It targets local governments with limited experience in risk reduction and resilience planning and an urban population size of maximum 250,000 people. 
+The City Resilience Framework for Action (RFA) is the final product of the CityRAP Tool process. It allows local governments and other institutions to mainstreaming resilience into their existing and future policies, plans, budgets, institutional set-ups and actions.
+Importantly, the CityRAP Tool puts local governments and urban stakeholders in the driver’s seat of urban VERY LOW 22.58 - 30.17 LOW 30.18 - 38.63 MEDIUM 38.64 - 43.64 HIGH 43.65 - 49.59 VERY HIGH 49.60 - 66.57 NO DATA AVAILABLE
+MAX. VULNERABILITY - 100%
+CLASSIFICATION ACCORDING 
+TO THE QUANTILE METHOD
+FIGURE 2
+World Risk Index map . Source: World Risk Index 2018
+INTRODUCTION
+URBANISATION AND VULNERABILITY resilience planning from Day 1. The tool is designed so that local governments can adapt and implement it with minimal intervention from outside technical experts, using practical methods to leverage local knowledge.
+A key principle of the tool is bottom-up planning. 
+Relevant stakeholders, communities and urban dwellers are engaged in the process through participatory risk mapping exercises, focus group discussions and crosssectoral action planning.
+
+[Page 5]
+CITYRAP TOOL
+INTRODUCTION
+08 | | 09
+URBAN RESILIENCE 
+The ability of any urban system, with its inhabitants, to maintain continuity through all shocks and stresses, while positively adapting and transforming toward sustainability” (UN-Habitat)
+URBAN GOVERNANCE
+Urban governance refers to the processes and structures that allow all local actors participating in the decisionmaking process and influencing public policies and strategies for improved urban planning, management and development. This pillar focuses on the relationship between citizens and the local government, and requires adequate and efficient legal, policies, administrative and operational frameworks. Urban governance is the “software” that enables urban “hardware” to function.
+URBAN PLANNING AND ENVIRONMENT
+This pillar includes all aspects related to planning and design of the urban space, the quality of the natural environment (air, water, soil), public/green spaces and climate change.
+RESILIENT INFRASTRUCTURE AND BASIC SERVICES
+Ensuring equal access to infrastructure and basic services is crucial to meet vital needs of the urban population and to allow a city to function and develop properly. This pillar refers to the urban “hardware” mentioned in the previous pillar and includes, among others: streets and roads, bridges, drainage, water and electricity supply, sanitation 
+URBAN 
+RESILIENCE
+URBAN DISASTER 
+RISK MANAGEMENT
+RESILIENT 
+INFRASTRUCTURE 
+AND BASIC SERVICES 
+URBAN ECONOMY 
+AND SOCIETY
+URBAN PLANNING 
+AND ENVIRONMENT
+URBAN 
+GOVERNANCE and solid waste management, hospitals, schools, etc. 
+Considering the increasing number of shocks and stresses that affect cities around the world in recent years, it is essential that the design and management of infrastructure and basic services fully integrate the concept of resilience.
+URBAN ECONOMY AND SOCIETY
+This pillar refers to the processes, mechanisms and activities that allow cities to becoming drivers of socio-economic development in a country or region, by creating jobs, increasing households’ income, generating investments, reducing social tensions and crime, increasing equality and inclusion, promoting social mix, and enhancing security and safety, among other aspects.
+URBAN DISASTER RISK MANAGEMENT
+This refers to the ability of the local government and communities, in terms of capacity, knowledge, processes and systems in place, to prevent, anticipate, respond to, and recover rapidly from the impacts of natural or manmade threats in the city.
+THE FIVE RESILIENCE PILLARS OF THE CITYRAP TOOL2
+2 The hereby-proposed resilience framework with five inter-related pillars is specific to the CityRAP Tool and does not intend to be fully comprehensive or to replace other existing frameworks in literature. The intention is just to define a theoretical structure to collect data at city level related to resilience. Other frameworks could be proposed.
+FIGURE 3
+Illustrations of urban resilience. Credit: Eduardo Feuerhake 
+FIGURE 4
+The 5 pillars of urban resilience by DiMSUR 
+The ability of any urban system, with its inhabitants,...
+...to maintain continuity through all shocks...
+...and stresses,...
+...while positively adapting and transforming toward sustainability.
+
+[Page 6]
+ACTIVITY
+DESCRIPTION
+Preparatory meeting with the Mayor and city management
+An initial meeting is held with the Mayor and his/her office to explain the CityRAP 
+Tool process and ensure high-level engagement for its smooth implementation. 
+The Mayor signs a Term of Commitment (Annex 1, available at: http://dimsur.org/ elementor-12886/) confirming the city’s commitment to the CityRAP Tool exercise.
+Selection of Municipal 
+Focal Points
+As mentioned earlier, the CityRAP Tool process is implemented mainly by the Municipal 
+Focal Points, with support from the training team. The municipality selects a minimum of three staff members (at least one should be female) who will be responsible for leading all tasks from Phase Two to Phase Four. Alternates should be appointed to cover them when they are not available.
+Completion of the preliminary questionnaire
+A range of information is needed to contextualize the CityRAP Tool process to local conditions and to adequately prepare for its implementation. The municipality provides this information by completing the preliminary questionnaire (Annex 2, available at: http://dimsur.org/elementor-12886/).
+Preliminary stakeholder analysis
+To identify the relevant individuals and entities to be part of the CityRAP Tool process, a stakeholder mapping and analysis is carried out (Annex 3, available at: http://dimsur.
+org/elementor-12886/). To ensure representation and inclusivity, these groups should be invited to the training and consultative workshops.
+CITYRAP TOOL
+INTRODUCTION
+10 | | 11
+Proper preparation is fundamental prior to the implementation of the CityRAP Tool. In particular, the target municipality or local government should be fully informed and committed to the process, with a clear understanding that the City RFA is ultimately meant to serve the city to enhance its resilience. The active engagement of the city government, especially through the designated Municipal Focal Points, is crucial to ensuring a successful outcome.
+PREPARATORY PHASE
+The CityRAP Tool is a step-by-step participatory resilience planning methodology that includes a set of training exercises and activities targeting municipal authorities, communities and local stakeholders. The implementation of the tool lasts approximately two to three months that are divided into four phases, as described below. A team of external trainers kicks-off the process and supports it throughout each phase, at different levels- sometimes directly on-site and at other times by being available as 
+UNDERSTANDING 
+URBAN 
+RESILIENCE
+DATA COLLECTION 
+AND ORGANISATION
+DATA ANALYSIS 
+AND PRIORITISATION
+DEVELOPMENT OF 
+THE CITY RESILIENCE 
+FRAMEWORK FOR 
+ACTION (RFA)
+A four-day crash course is delivered by a team of external trainers to introduce municipal staff and local stakeholders to key concepts related to urban risk and resilience. 
+A subsequent one-day training session prepares the Municipal Focal 
+Points to carry out Phase 
+Two of the tool.
+This three-week phase is entirely led by the Municipal 
+Focal Points. They collect the necessary information on the resilience challenges and opportunities of their city by interviewing all municipal departments and undertaking participatory planning with communities living in vulnerable neighbourhoods. 
+Afterwards, they organize the collected data for analysis in Phase 
+Three.
+This phase lasts one week and is supported by the trainers. Two and a half days are dedicated to presenting and analysing the collected information through focus group discussions (one per resilience pillar), one day to organizing a prioritization workshop, and one day for training the Municipal Focal 
+Points to carry out the next phase.
+The final phase lasts three to four weeks and involves carrying out a baseline assessment of the identified priority issues for building the city resilience, drafting the City RFA, reviewing it with all local stakeholders (with the support of the trainers), and validating it with the concerned authorities. a remote resource. A small group of at least three people should be trained to lead the process at the city level, hereafter referred as the Municipal Focal Points. They play a very important role as they lead the CityRAP Tool roll-out process, thus collecting data, supporting data analysis, facilitating discussions, ensuring effective communication with partners/stakeholders, actively engaging with communities through participatory approach, and drafting the City RFA.
+OVERVIEW OF THE CITYRAP TOOL
+PREPARATORY PHASE
+DURATION
+PHASE 2
+PHASE 1
+PHASE 3
+PHASE 4
+3-4 WEEKS
+5 DAYS
+5 DAYS
+7-8 WEEKS
+During the Preparatory Phase, the training team providing support to the exercise collects general data about the city in order to adapt the CityRAP Tool process to the local context (see the detailed activities under this phase in the following table). It is recommended that contact with the target city is established at least one month prior to commencing Phase One. 
+TABLE I
+Main activities to carry out during the preparatory phase
+
+[Page 7]
+TUESDAY
+WEDNESDAY
+THURSDAY
+FRIDAY
+9:00-13:00
+Introduction to the key concepts of urban risk and resilience
+Screening of “The 
+Change” movie and discussion “How to build the resilience of your city?” - 
+Presentation of the 5 pillars of urban resilience “How to build the resilience of your city?” - 
+Presentation of the 5 pillars of urban resilience (cont.)
+Participatory mapping at the city level exercise: environmental and risk mapping
+Municipal Focal 
+Points training for Activity 1 (municipal selfassessment) and Activity 2 (participatory planning at the neighbourhood level) of Phase 2
+13:00-14:00
+LUNCH
+LUNCH
+LUNCH
+LUNCH
+LUNCH
+14:00-17:00
+Presentation of the CityRAP Tool “How to build the resilience of your city?” - 
+Presentation of the 5 pillars of urban resilience (cont.)
+Introduction to the importance of the participatory planning
+Participatory mapping at the city level exercise: baseline mapping
+Field visit to the selected vulnerable neighbourhoods (team of trainers and Municipal 
+Focal Points only)
+Municipal Focal 
+Points training for 
+Activity 3 (data compilation and organization) of 
+Phase 2 
+PHASE ONE | 13
+CITYRAP TOOL
+12 | 
+UNDERSTANDING URBAN 
+RESILIENCE
+PHASE 
+ONE
+DURATION
+OBJECTIVE AND BRIEF 
+DESCRIPTION
+EXPECTED RESULTS
+5 days, including 4 days to deliver the Crash 
+Course and one day to train the 
+Municipal Focal 
+Points.
+A training team is mobilized to carry out a crash course targeting municipal and local stakeholders. The objective of the course is to reach a common basic understanding of urban risk and resilience concepts, focusing on demystifying their complexity. The course is organized as a series of interactive sessions which includes group exercises, games, audio-visual materials, debates, etc. The last day of Phase One is dedicated to training the Municipal Focal Points to prepare them to lead Phase Two. 
+• 
+All participants of the crash course understand, and are comfortable using, key concepts related to urban risk and resilience;
+• 
+Participants are familiar with a wide range of issues and potential solutions for strengthening their city’s resilience;
+• 
+Participants understand the logic of the CityRAP Tool process;
+• 
+Municipal Focal Points are prepared to autonomously lead 
+Phase Two of the CityRAP Tool;
+• 
+A risk map of the city is produced in a participatory manner.
+TABLE 2 
+Suggested Agenda for Phase One.
+The agenda below indicates how all activities of Phase Three could be organised in a week.
+
+[Page 8]
+RESILIENCE PILLAR
+EXAMPLES OF GOOD PRACTICES
+URBAN GOVERNANCE > Increase the organisational capacity of the different stakeholders (city council, community, civil society organizations, etc.) > Guarantee participation during key decision-making processes > Set up functioning municipal finance systems > Critically review/enforce municipal by-laws
+URBAN PLANNING AND 
+ENVIRONMENT > Generate data and establish effective information systems for planning > Promote participatory planning, especially for upgrading informal settlements in-situ > Improve/disseminate/enforce building codes > Design and create safe public spaces > Take environmental care/protection under serious consideration while planning for the future city’s growth
+RESILIENT 
+INFRASTRUCTURE AND 
+BASIC SERVICES > Improve access to basic/social services, such as water, sanitation, schools and health services, especially targeting underserviced areas of the city > Design, build and maintain adequate drainage conditions > Promote the 3 R (reduce, re-use and re-cycle) for solid waste management, as well as access to clean/renewable energy > Ensure more efficient mobility in the city by re-thinking the road network and promoting public transport services 
+URBAN ECONOMY AND 
+SOCIETY > Create employment/income generation opportunities in the city, suiting different profiles including non-skilled/trained labour > Promote social inclusion and cohesion through social mix in the city, i.e. different social categories living in the same neighbourhood > Improve urban safety and women empowerment through awareness raising, proper design of public spaces, better public lightning and promotion of community policing > Promote peri-urban agriculture to establish a solid basis for strengthening food security in the city
+URBAN DISASTER RISK 
+MANAGEMENT > Raise awareness about the different types of urban risks at community level, as well as the identification of feasible solutions for disaster prevention and preparedness > Promote the culture of “build back better” 
+CITYRAP TOOL
+PHASE ONE | 15
+14 | 
+ACTIVITY 1:
+KEY CONCEPTS OF URBAN RISK AND RESILIENCE
+By the end of the session, participants will:
+> Understand the concepts of risk probability, vulnerability, exposure, sensibility, coping and adaptive capacity; > Be aware of the different types of risks and their impacts on cities; > Obtain knowledge of urban trends in the region and in the country, as well as of main urban challenges and vulnerabilities.
+1. 
+A hazard (an extreme natural or man-made event) does not trigger a disaster by itself. Disasters occur when people and assets are exposed to hazards and are unable to cope with them (see figures 5A and 5B).
+2. 
+Rapid and unplanned urbanization, as observed in developing countries, increases the level of vulnerability to hazards in cities.
+3. 
+The most vulnerable groups in a city are generally poor communities living in informal settlements, often located in high-risk areas prone to flooding, erosion, fire, landslides, etc.
+4. Natural or human-made disasters can have wideranging implications in multiple areas, such as health, environment, infrastructure, society, economy, etc.
+5. 
+Climate change is increasing the frequency, severity and uncertainty of disasters. This poses serious challenges to cities, which, especially in the developing world, are often unprepared for these.
+FIGURE 5A
+The existence of an extreme threat or hazard is not enough to trigger a disaster. A volcanic eruption in an uninhabited island, for example, will not result in a disaster.
+FIGURE 5B
+Disasters occur when people and assets are exposed to threats and are unable/were not designed to cope with them. Hence, if the island is inhabited, there is a high risk of disaster.
+ACTIVITY 2:
+PRESENTATION OF THE CITYRAP TOOL
+Screening of “The Change”(https://vimeo.com/75911282), which is an educational cartoon without dialogues that explains the problems arising from climate change and possible solutions for communities to adapt to it. The aim is to raise awareness and stimulate debate about increasing climate risks on human settlements. Downloadable at: http://dimsur.org/elementor-12886/.
+During this session the four phases of the CityRAP Tool are presented from a methodological perspective, including the main principles governing the tool (see the presentation in Annex 4, available at: http://dimsur.org/elementor-12886/).
+ACTIVITY 3:
+HOW TO BUILD THE RESILIENCE OF YOUR CITY?
+By the end of this session, the participants will have acquired knowledge of concepts and best practices for each resilience pillar of the CityRAP Tool: Urban governance; 
+Resilient infrastructure and basic services; Urban economy and society; Urban disaster risk management; and Urban planning and environment.
+During this session, the five pillars of urban resilience are presented. Examples of actions within each resilience pillar are presented in table 3 below. This session also includes exercises, games and interactive activities to facilitate productive discussions on issues related to urban risk and resilience and apply its key concepts.
+TABLE 3
+Examples of good practices within each resilience pillar
+
+[Page 9]
+CITYRAP TOOL
+PHASE ONE | 17
+16 | 
+FIGURE 6
+Participants lead the participatory mapping at city level in Guinea Bissau. Credit: DiMSUR/ UN-Habitat 
+By the end of the session, participants will have:
+> Exchanged knowledge about their own territory and associated natural and socio-economic risks; > Produced a draft participatory risk map at the city level; > Selected at least two among the most vulnerable neighbourhoods as the locations for carrying out the community level participatory planning exercise during Phase Two.
+The Municipal Focal Points will be prepared to carry out the participatory planning at neighbourhood level of 
+Phase Two.
+ACTIVITY 4:
+CITY RISK MAPPING EXERCISE
+The trainers conducting the crash course deliver a presentation on the importance of participatory planning, and the role played by maps in the process (see the box about participatory planning in the next page).
+The Team of Trainers then shows some printed satellite images of the city (e.g. extracted from Google Earth) to the participants. Some guidelines (see page 17) are provided to them on how to carry out the city risk mapping exercise in groups, following two main steps:
+>Baseline mapping: Using the satellite image and different colours and symbols, participants classify it as much as possible in terms of: land use and land cover, location of main infrastructure and services, and other important urban features (see guidelines in table 4); a legend is prepared accordingly.
+>Environmental & risk mapping: as a second step, participants are supposed to identify environmentally sensitive areas prone to flooding, fire, landslides, erosion, etc.; other relevant socio-economic risks should also be mapped, such as areas with high-level of poverty, crime, etc.; safe areas/havens and evacuation routes need to be clearly marked.
+HOW TO APPLY PARTICIPATORY PLANNING TO CITY RESILIENCE 
+BUILDING
+Experience shows that adopting a participatory planning approach increases the chance of success of a project or initiative. Participatory planning means that all relevant stakeholder groups are involved from the very beginning of the process, with the objective of exchanging ideas with each other and taking consensual decisions. This approach improves social cohesion since it helps to build trust and solve potential conflicts among the different parties involved, ensuring transparency in decision-making. It is also a cost-effective method since it builds on existing local knowledge and ultimately facilitates the smooth implementation of planned activities. Participatory planning generates buy-in and alleviates resistance to the implementation of adopted decisions, as all concerned stakeholder groups are involved in decision-making from the beginning. Finally, this approach creates ownership among stakeholders, identifies clear responsibilities, and promotes the joint commitment of the parties involved. 
+For a successful participatory planning process to take place, fulfilling the following three conditions is of crucial importance:
+1. Ensuring inclusive and relevant participation: all pertinent stakeholder groups should be represented, including traditional and religious authorities; representatives of local, sub-national and central government authorities; local associations and nongovernmental organizations; the private sector; academic institutions, and the media (NB: this list is not exhaustive and should be adapted to each local context). For the city-wide risk mapping it is critical that community representatives from all neighbourhoods are present in order to gain a comprehensive understanding of the state of the city. Ensuring gender and age balance among the participants is essential in all activities. 
+2. Using high quality satellite images: visually representing the different parts of the city and its communities gives the participants a more tangible and accurate picture of the existing situation in the studied area. Being able to recognize their own residential areas in the satellite images inspires participants to take active part in analysing problems and identifying solutions. 
+The images play a pivotal role at the centre of the participatory planning process.
+3. Selecting a good facilitator: it is important to have a competent, neutral facilitator leading the participatory planning process. The facilitator should be respected by all parties and possess the required technical and communication skills. His/her main role is to ensure a productive dialogue among the local stakeholders, to help them understand and locate themselves in the satellite image, to facilitate the identification of problems and viable solutions for the areas being studied, and to support participants in prioritising actions.
+GUIDELINES FOR CARRYING OUT THE CITY RISK MAPPING EXERCISE
+While conducting the city risk mapping, at least two among the most vulnerable neighbourhoods are selected according to pre-defined environmental and socio-economic criteria. 
+For that purpose, participants are split into groups and are asked to reply to the following questions:
+1. What areas of the city are most affected by natural hazards (for example: floods, fire, strong winds, erosion, landslides, among others)?
+2. What are the neighbourhoods where higher levels of criminality and social discontent are registered, lacking of basic services or where key infrastructure is missing?
+The groups will then explain the rationale they have followed for selecting the priority neighbourhoods. In a subsequent plenary discussion, consensus is reached among all participants on which vulnerable neighbourhoods are being considered for collecting data during Phase Two.
+
+[Page 10]
+RESILIENCE PILLAR
+GUIDELINES
+URBAN GOVERNANCE
+Locate the various administrative/government buildings in your city, including at the neighbourhood level, as applicable.
+URBAN PLANNING 
+AND ENVIRONMENT
+Distinguish planned from unplanned areas; then identify, as appropriate: industrial areas, agricultural areas, environmentally-sensitive areas, main public spaces (e.g. public squares, parks, sport and recreation facilities, etc.), other relevant land uses.
+RESILIENT 
+INFRASTRUCTURE 
+AND BASIC SERVICES
+Locate the following services/infrastructure in your city:
+> Communication: radio/TV station, cell phone towers and existing telecommunication infrastructure; > Security services: fire services, police stations , etc.; > Water, sanitation and energy: primary drainage network, main water tanks/water storage facilities, waste water treatment infrastructure, etc.; > Transportation: main roads, bus station, airport, train station & rail tracks, etc.; > Main public facilities: university, schools, health centres, markets, etc.
+URBAN SOCIETY AND 
+ECONOMY
+Identify the poorest areas of the city, as well as areas where there were outbreaks of epidemics/diseases (e.g. cholera, malaria, etc.) or where high levels of crime are observed.
+Identify the location of important economic facilities (banks, business centres, shopping malls, markets, etc.).
+URBAN DISASTER RISK 
+MANAGEMENT
+Map the areas of your city that were affected by natural hazards in the past, such as floods, strong winds, fire, erosion, landslides, etc. 
+Identify also the safe places/havens and the evacuation routes.
+CITYRAP TOOL
+PHASE ONE | 19
+18 | 
+2. Provoking the debate
+Look at the drawing on the right and try to answer the question. Let’s have a fruitful discussion on key issues related to urban risk and resilience.
+WE SEE THIS HAPPENING EVERY DAY, MORE AND 
+MORE. WHY IS THIS HAPPENING?
+1. The Resilient City Game
+During this exercise participants will put what has been learned into practice. They will be divided in groups which will then be assigned a case study describing a specific disaster ongoing in an urban context. Using cards describing possible activities to carry on to tackle the specific problem, each group will have to define what are the priority actions to be undertaken to build the resilience of the city depending on its specific risk profile.
+ACTIVITY 5:
+TRAINING OF THE MUNICIPAL FOCAL POINTS 
+FOR PHASE TWO
+EXERCISES, GAMES AND INTERACTIVE ACTIVITIES
+FIGURE 8
+Didactic illustrations are used for the discussions. Credit: Eduardo Feuerhake 
+By the end of this one-day training session, the Municipal Focal Points selected to lead the implementation of the CityRAP Tool process are prepared to autonomously carry out the tasks of Phase Two.
+This training session equips the Municipal Focal Points to implement Phase Two by simulating the tasks that will be performed:
+> In Activity 1 of Phase Two, the Municipal Focal Points will interview the different municipal departments and complete the self-assessment questionnaire. During the simulation, the trainers stress the importance of explaining to each municipal department the four available options when answering each question and the need for selecting a single answer per question. Additionally, the questions have to be answered taking in consideration the specific context: for example, if CityRAP is implemented in a neighbourhood of a big city (more than 250,000 people), each question should be referred to it and to the specific governance body if exists. The trainers support the 
+Municipal Focal Points in organizing their agenda to carry out the interviews the following week.
+> Activity 2 of Phase Two concerns participatory planning at the level of the vulnerable neighbourhoods selected in Phase One. The key principles highlighted during the training on city risk mapping should be repeated. In particular, the trainers reaffirm the importance of genderbalanced participation and of mediating the community’s opinions until consensus is reached on the priority issues to be considered. Ideally, if time allows, the trainers should accompany the Municipal Focal Points to the selected neighbourhoods and contact the community leaders in preparation for the participatory planning session to be carried out. If this is not possible, at least a field visit should be organized in order to collect more information in view of the next phases. This could be scheduled for the same one-day training of the Municipal Focal Points, or at the end of the Crash Course, in the afternoon of the fourth day.
+> As concerns Activity 3 of Phase Two, the Municipal 
+Focal Points are trained on how to compile the data resulting from the simulation using the self-assessment questionnaire (Activity 1 of Phase Two) and from a hypothetical participatory planning session at the community level, in preparation for Phase Three.
+FIGURE 7 City risk map example. Produced during the Crash Course in the city of Chipata, Zambia. Credit: DiMSUR/ UN-Habitat 
+TABLE 4 Guidelines for the city risk mapping exercise
+
+[Page 11]
+PHASE TWO
+CITYRAP TOOL
+20 | 
+DATA COLLECTION AND 
+ORGANISATION
+DURATION
+OBJECTIVE AND BRIEF 
+DESCRIPTION
+EXPECTED RESULTS
+3-4 weeks
+Collect and organise the necessary data and information on:
+• 
+The status of the city’s resilience as perceived by the different municipal departments
+• 
+The priorities of communities for strengthening the resilience of their neighbourhoods.
+The methodology for gathering data includes implementing a selfassessment questionnaire, using satellite images to carry out the participatory planning sessions at the community level, and developing the 
+Results Matrix.
+• 
+All municipal departments have completed the self-assessment questionnaire, and the responses have been compiled in an answer sheet;
+• 
+Communities from at least two vulnerable neighbourhoods are actively involved in the process through participatory planning;
+• 
+All collected information is compiled in the Results Matrix and a list of priority issues per neighbourhood.
+PHASE
+
+[Page 12]
+PILLAR 1: URBAN GOVERNANCE
+Nº
+QUESTIONS
+ANSWERS COMMENTS
+ORGANISATIONAL 
+CAPACITY
+Does your municipal department have enough staff to carry out its daily responsibility?
+Yes, the staff have the required skills to carry out their daily responsibilities
+The majority of the staff have the required skills
+Less than half of the staff have the required skills
+The department has only few skilled staff
+Does your municipal department have staff with understanding or knowledge of issues related to climate change and/or risk management?
+Yes, the staff do understand and have knowledge of issues related to climate change and/or risk management
+Yes, the department has some staff with that kind of understanding or knowledge
+Yes, the department has at least one staff with that kind of understanding or knowledge
+No, nobody in our department has the staff has this kind of understanding or knowledge
+CITYRAP TOOL
+PHASE TWO | 23
+22 | 
+ACTIVITY 1:
+MUNICIPAL SELF-ASSESSMENT
+The objective is to collect data from the different municipal departments on the status of the city’s resilience, using a self-assessment questionnaire (Annex 5, available at: http://dimsur.org/elementor-12886/ and at page 48 of this booklet). The questionnaire includes a set of four optional answers for which only one should be selected per department.
+The Municipal Focal Points make appointments with each municipal department and explain the objective of the activity, i.e. to solicit their perceptions on the status of the city’s resilience (or of the neighbourhood/ district’s resilience if the CityRAP is implemented in a neighbourhood of a big city or in a metropolitan area). At least two representatives should be present per department, with enough time available to respond to all questions. Consensus should be reached in selecting only one answer out of the four available options for each question. The Municipal Focal Points fill in the answer sheet for each municipal department, including adding comments in case important issues are to be noted, which will then further be discussed during Phase Three.
+MUNICIPAL SECTOR: 
+OFFICE OF THE MAYOR
+Name of the interviewed municipal department
+Possible answers for each question. Circle one answer that has been agreed upon by the municipal staff
+In case of disagreements between the consulted department staff on a specific answer, comments should be detailed here
+EXAMPLE OF HOW TO FILL THE ANSWER SHEET
+TABLE 5
+How to fill in the answer sheet
+FIGURE 9
+Participatory planning builds trust between local authorities and communities; it ensures ownership. Communities that own their neighbourhood development are more likely to ensure that interventions are well maintained. Credit: Akhtar Shah 
+ACTIVITY 2:
+PARTICIPATORY PLANNING AT NEIGHBOURHOOD LEVEL
+Through this activity, participatory planning is implemented in the vulnerable neighbourhoods selected during Phase 
+One (Activity 3) with the goals of: (i) collecting and mapping information on the potential risks affecting these neighbourhoods, based on the knowledge and experience of the communities, and listing them in order of priority; and (ii) discussing with the communities viable solutions for reducing the identified risks and building resilience.
+This fundamental activity ensures that the most vulnerable communities are heard and participate actively in the resilience planning process of the city. This contributes to empowering these communities and ensuring that their needs and ideas are duly taken into consideration. It consists of three steps:
+Step 1. Preparation of the community consultation 
+Before consulting with the communities, the Municipal Focal 
+Points should carry out the following tasks:
+1. Print a large copy (ideally in A0 or A1 format) of a highresolution satellite image (e.g. extracted from Google 
+Earth) of the neighbourhood to serve as main geographical support during the participatory planning session. This satellite image will greatly help the consulted communities to recognise their territory (NB: it should be possible to easily distinguish single houses in it) and to purposefully contribute to the exercise. 
+2. Familiarise themselves with the self-assessment questionnaire (p.56) and adapt the relevant questions to the specific community consultation, as needed.
+3. Meet with the community leaders of the targeted neighbourhood to adequately prepare for the exercise. 
+In particular, all relevant local stakeholders (e.g. traditional and religious leaders, representatives from education, health, business sectors, etc.) who are supposed to participate in the consultation need to be identified, ensuring a proper gender-balance. For an effective discussion to take place, the total number of participants should not exceed 40 people, who will represent all groups and different interests within the community.
+Step 2. Implementation of the community consultation 
+The Municipal Focal Points are the main facilitators of the participatory planning session. Firstly, they present themselves and get acquainted with the identity and main representational function of all the meeting’s participants. 
+Then they start the consultation by explaining the purpose and overall approach of the consultation, making sure that all participants, especially women and the most vulnerable 
+By the end of this activity the 
+Municipal Focal Points will have:
+> Conducted the self-assessment questionnaire in all the municipal departments; > Get a general overview of the status city's resilience.
+By the end of this activity:
+> Communities of the vulnerable neighbourhoods selected in Phase One have been actively involved in the process through consultations and participatory planning; > Local knowledge is leveraged in identifying, prioritising and finding possible solutions to potential risks in the neighbourhoods in a participatory way.
+
+[Page 13]
+PILLAR 1: URBAN GOVERNANCE
+Nº QUESTIONS
+ANSWERS
+COMMENTS
+ORGANISATIONAL 
+CAPACITY
+Does your municipal de­ partment have enough staff to carry out its daily responsibility?
+Yes, the staff have the re­ quired skills to carry out their daily responsi­ bilities
+The majority of the staff have the re­ quired skills
+Less than half of the staff have the required skills
+The depart­ ment has only few skilled staff
+Does your municipal department have staff with understanding or knowledge of issues related to climate change and/or risk man­ agement?
+Yes, the staff do understand and have knowledge of issues related to climate change and/or risk manage­ ment
+Yes, the department has some staff with that kind of understand­ ing or knowl­ edge
+Yes, the de­ partment has at least one staff with that kind of understand­ ing or knowl­ edge
+No, nobody in our de­ partment has the staff has this kind of under­ standing or knowledge
+PILLAR 1: URBAN GOVERNANCE
+THEME
+Nº QUESTIONS
+ANSWERS
+MUNICIPAL DEPARTMENTS
+MUNICIPALITY 
+AS A WHOLE
+OFFICE 
+OF THE 
+MAYOR
+FINANCE URBAN 
+PLANNING
+ENERGY 
+AND 
+WATER
+ALL OTHER 
+DEPARTMENTS
+ORGANISATIONAL 
+CAPACITY
+Does your municipal de­ partment have enough staff to carry out its daily responsibility?
+Yes, the staff have the re­ quired skills to carry out their daily responsi­ bilities
+The majority of the staff have the re­ quired skills
+Less than half of the staff have the required skills
+The depart­ ment has only few skilled staff
+Does your municipal department have staff with understanding or knowledge of issues related to climate change and/or risk man­ agement?
+Yes, the staff do understand and have knowledge of issues related to climate change and/or risk manage­ ment
+Yes, the department has some staff with that kind of understand­ ing or knowl­ edge
+Yes, the de­ partment has at least one staff with that kind of understand­ ing or knowl­ edge
+No, nobody in our de­ partment has the staff has this kind of under­ standing or knowledge
+CITYRAP TOOL
+PHASE TWO | 25
+24 | people are given an opportunity to talk and express their needs and opinions.
+The satellite image of the neighbourhood is presented and the Municipal Focal Points follow the methodology presented in the guiding questionnaire. In particular, the participants are encouraged to draw directly on the satellite image the information collected or discussed about the location of the main services and infrastructure, the different types of risks and hazards, and the potential solutions/measures to be applied. For this purpose, different symbols and/or colours can be used, which are to be explained in a legend.
+Step 3. Prioritisation of risk reduction and resilience building actions at neighbourhood level
+Based on the ranking of the identified risks as per the guiding questionnaire, and on the answers provided by the community, a list of potential and feasible solutions/ measures to reduce risk and strengthen the resilience of the neighbourhood is prepared.
+The Municipal Focal Points should mediate the discussions during the prioritisation exercise, making sure that community’s representatives of all the different groups and stakeholders have a say. Importantly, they need to insist on what is more feasible, based on their own knowledge and according to available financial and human resources in the neighbourhood, avoiding relying totally on the municipal authorities. In particular, attention should be paid to aspects related with sustainability, equality, and alignment to existing plans for that area of the city. The prioritised solutions/ measures (or risk reduction and resilience building actions) need to be mapped in the satellite image, as much as possible.
+It is essential that the list of priority actions and the maps elaborated in each consulted neighbourhood are effectively used during Phase Three of the CityRAP Tool roll-out process, as they reflect the needs and opinions of the most vulnerable communities of the city. These should be taken into account while elaborating the City RFA during Phase Four.
+1. Using the satellite image of the neighbourhood, kindly ask the participants to identify the location where the consultative meeting is being held. Provide them with some key references, such as the main roads/ avenues, religious buildings (e.g. church or market), markets, most important administrative buildings, schools or health facilities, public squares, etc. Once the participants will be able to locate themselves in the image and recognise their neighbourhood, they will be able to meaningfully contribute to the participatory planning exercise.
+2. Complete the satellite image recognition exercise by identifying with the participants the main infrastructure/services of the neighbourhood, such as: (i) transport facilities (train station, bus terminal, rail tracks, main roads, etc.); (ii) communication services (radio station, cell phone towers, etc.); (iii) basic services (main water and sanitation facilities, like primary drainage channels, water reservoirs/ stand pipes, wastewater treatment facilities, etc.; electrical power lines/facilities; etc.); (iv) other services/facilities (i.e. police station, fire brigade, education/health facilities, markets, etc.); as well as the main natural/environmental features (e.g. river streams, wetlands, hills, green/forest areas, etc.).
+3. Identify with the community members the main hazards and risks in the neighbourhood and, as much as possible, locate them in the satellite image and rank them according to their degree of importance. 
+These could be: floods, strong winds, erosion, land slide, fire, criminality, unemployment, inadequacy of housing conditions, lack of access to basic services, among others.
+4. Engage in an open discussion with the community to identify feasible risk mitigation/reduction measures. 
+Try to use as much as possible the satellite image during the discussion. The following can serve as guiding questions: > What are the main problems arising from the identified hazards/risks?
+> How does the community usually cope with these hazards/risks? > What more could be done? What other potential and feasible solutions/measures would you suggest? > What would be your contribution to implement these solutions/measures?
+ACTIVITY 3:
+DATA COMPILATION AND ORGANISATION
+The objective of this activity is to compile and organise all data and information collected during Activities 1 and 2 of 
+Phase Two with the intention of presenting and analysing them during the focus group discussions in Phase Three.
+The Results Matrix is filled in using the answer sheets from the self-assessment questionnaire, while the priority issues identified in the neighbourhoods where the participatory exercises were carried out are summarised and harmonised.
+For this activity the following steps are undertaken: 
+The corresponding score of the answers circled for the municipal department are transferred in Results 
+Matrix .as in table 7 below.
+Step 1. Filling the Results Matrix
+The Results Matrix is populated for each resilience pillar using the answer sheets from the self-assessment questionnaire collected during Activity 1 for each municipal department. 
+The matrix follows the same structure as the answer sheet. 
+This is the procedure to be followed:
+> Using the Results Matrix template, the names of the municipal departments are written down in the area highlighted in blue (see table 7).
+TABLE 6
+The self-assessment questionnaire filled during Activity 1 is used to complete the results matrix as in the example in table 8
+TABLE 7
+Results Matrix template To be filled in with the names of all municipal departments To be filled in with the answers from the self assessment questionnaire
+Less than half of the staff have the required skills
+No, nobody in our de­ partment has the staff has this kind of under­ standing or knowledge
+FACILITATORS 
+GUIDE: 
+PARTICIPATORY 
+PLANNING 
+AT 
+THE 
+NEIGHBOURHOOD LEVEL
+By the end of this activity, the collected data is compiled and organised for the next phase.
+
+[Page 14]
+FOCUS GROUP I URBAN GOVERNANCE
+PARTICIPANTS (TOTAL 
+MAXIMUM:15)
+MUNICIPAL 
+STAFF
+1 representative for any of these offices (or similar):
+> Office of the Mayor > Human resources office/capacity building > Finance participation > Urban Planning > Urbanisation, Basic Services and 
+Infrastructures or similar
+COMMUNITY 
+MEMBERS
+2-4 community representatives from vulnerable neighbourhoods
+OTHER 
+LOCAL
+Representative from organisations linked to public governance, participation and inclusion, transparency or similar:
+> 1 representative from a NGO > 1 representative from a CSO > 1 or 2 representatives from the private sector
+PILLAR 1: URBAN GOVERNANCE
+THEME
+Nº QUESTIONS
+ANSWERS
+MUNICIPAL DEPARTMENTS
+MUNICIPALITY 
+AS A WHOLE
+-
+MINIMUM: 5 
+MAXIMUM: 20
+OFFICE 
+OF THE 
+MAYOR
+FINANCE
+URBAN 
+PLAN­
+NING
+ENERGY 
+AND 
+WATER
+ALL 
+OTHER 
+DEPART­
+MENTS
+ORGANISATIONAL 
+CAPACITY
+Does your municipal de­ partment have enough staff to carry out its daily responsi­ bility?
+Yes, the staff have the required skills to carry out their daily responsibil­ ities
+The ma­ jority of the staff have the re­ quired skills
+Less than half of the staff have the required skills
+The depart­ ment has only few skilled staff
+Does your municipal department have staff with understanding or knowledge of issues relat­ ed to climate change and/or risk manage­ ment?
+Yes, the staff do understand and have knowledge of issues related to climate change and/ or risk man­ agement
+Yes, the department has some staff with that kind of under­ standing or knowledge
+Yes, the department has at least one staff with that kind of un­ derstanding or knowl­ edge
+No, nobody in our de­ partment has the staff has this kind of under­ standing or knowledge
+Average for Organizational Capacity
+10.5
+CITYRAP TOOL
+PHASE TWO | 27
+26 | > Using the answer sheets from each municipal department, all 75 rows of the Results Matrix are filled in with the corresponding scores (1, 2, 3 or 4) in the area highlighted in grey in table 7. If the colour of the answer is green, the scoring is 4; if it is yellow, the scoring is 3; if it is orange, the scoring is 2; and if it is red, the scoring is 1.
+> Once all the rows of the matrix have been filled in, a total score for the “municipality as a whole” (i.e. all municipal departments together) is calculated for each question by summing up the different municipal departments’ scores reflected in the corresponding row. For example, in table 
+8, the total score for question number 1 is: 2 + 4 + 2 + 3 + 
+2 = 13; while the total score for question number 2 is: 1 + 
+2 + 1 + 2 + 2 = 8; and so on for all questions/rows.
+by the number of questions for that particular theme. 
+For example, in table 8 the theme “Organizational 
+Capacity” is composed of two questions totalising 13 (for question 1) and 8 (for question 2) in the last column. 
+Therefore, the municipal average for this theme is the sum of these total scores (13 + 8 = 21) divided by 2 (21/2) = 10.5 > Once all the averages have been calculated, the 
+Municipal Focal Points can colour in red the five or six lowest averages, in yellow and orange the intermediate ones, and in green the highest ones, for example. 
+Colouring the matrix will facilitate the focus group discussions in Phase Three.
+Step 2. Summarising the comments 
+The Municipal Focal Points should elaborate a summary of all comments from the answer sheets per resilience pillar. 
+These should then be used and further debated during the focus group discussions in Phase Three.
+Step 3. Harmonising the priority issues identified at the community level
+The priority issues identified in the vulnerable neighbourhoods where the participatory planning sessions were carried out need to be harmonised into a single list, so that they can be taken in account during the discussions/ debates in Phase Three. 
+Step 4. Collecting additional information
+Information from existing plans, strategies, policies or other key documents at the city level that is relevant to the decision-making/prioritisation process during Phase Three is collected. 
+Step 5. Inviting the participants for the focus group discussions
+The logistics for the focus group discussions to be held during the three first days of Phase 3 should be prepared one week in advance. In total, five focus group discussions will be held, one per resilience pillar. Each discussion should bring together a maximum of 15 participants who are knowledgeable of the topic/resilience pillar being discussed (see the example in table 9 regarding the pillar “Urban 
+Governance”). The Municipal Focal Points will be responsible for identifying a (gender sensitive) list of participants for each session and sending the corresponding invitations. For such a purpose, the stakeholder analysis carried out during the preparatory phase should be used. Importantly, time slots for each session and the location of the discussions should be defined in advance.
+> The minimum/maximum possible scores for the “Municipality as a whole” should also be indicated in the top of the column (see table 8), as follows: the minimum score is equal to the number of municipal departments (for example: 5 departments, MIN. 
+SCORE = 5); the maximum score is equal the number of municipal departments multiplied by 4 (for example: 5 departments, MAX. SCORE = 5 x 4 = 20).
+> Calculate the average score for each of the themes of the questionnaire, to be inserted in the blue boxes of the last column entitled “Municipality as a whole” (see the blue highlights in table 8). The average score for the theme is calculated by summing up the total scores in the last column for each question and dividing the sum 
+FIGURE 10
+Participatory planning in Vilankulo, Mozambique. Credit: UN-Habitat. 
+TABLE 9
+Example on how to select participants for focus group discussion for the “Urban Governance” pillar. 
+TABLE 8
+Calculating the municipal average for each resilience theme.
+
+[Page 15]
+TUESDAY
+WEDNESDAY
+THURSDAY
+FRIDAY
+9:00-13:00
+Debriefing and 
+Preparation with 
+Focal Points
+FOCUS GROUP 2
+Urban Planning and Environment 
+FOCUS GROUP 4
+Urban Economy and Society 
+PRIORITISATION 
+WORKSHOP
+Municipal Focal 
+Points training for Activity 
+1 (baseline assessment) of 
+Phase 4 
+13:00-14:00
+LUNCH
+LUNCH
+LUNCH
+LUNCH
+LUNCH
+14:00-17:00
+FOCUS GROUP 1
+Urban Governance
+FOCUS GROUP 3
+Resilient 
+Infrastructure and Basic Services
+FOCUS GROUP 5
+Urban Disaster 
+Risk Management
+PRIORITISATION 
+WORKSHOP (cont.)
+Municipal Focal 
+Points training for Activity 
+1 (baseline assessment) of 
+Phase 4 (cont.)
+PHASE THREE | 29
+CITYRAP TOOL
+28 | 
+DURATION
+OBJECTIVE AND BRIEF 
+DESCRIPTION
+EXPECTED RESULTS
+5 days
+• Analyse and discuss the data collected during Phase Two through focus group discussions.
+• Select the priority issues that constitute entry-points to progressively building the city’s resilience, by reaching consensus among all local stakeholders during the prioritization workshop;
+• Develop a common 10-year vision of the resilient city.
+• Five focus group discussions are held, one per resilience pillar. The results are summarized in presentations to be delivered on the morning of the prioritization workshop;
+• Maximum six priority issues for building urban resilience are selected during the prioritization workshop;
+• Municipal Focal Points are trained to carry out Phase Four, during which developing the City Resilience Framework for Action (RFA) will be developed based on the selected priority issues.
+PHASE 
+THREE
+DATA ANALYSIS AND 
+PRIORITISATION
+The agenda below indicates how all activities of Phase Three could be organised in a week.
+TABLE 10
+Suggested Agenda for Phase Three
+
+[Page 16]
+CITYRAP TOOL
+PHASE THREE | 31
+30 | 
+ACTIVITY 1:
+PREPARING THE FOCUS GROUP DISCUSSIONS
+ACTIVITY 2:
+FOCUS GROUP DISCUSSIONS
+Before the focus group discussions, the Municipal Focal 
+Points meet with the external Team of Trainers to review the information collected during Phase Two and ensure that it is organised in a proper way. 
+The preparation for the focus group discussions follows these steps:
+Step 1. Review of the Results Matrix 
+The Results Matrix is reviewed for each resilience pillar to ensure that the information collected through the municipal self-assessment is adequately reflected, calculations are correct and the colour coding is consistent and clear. The comments compiled in Step 2, Activity 3, 
+Phase Two, are also reviewed; the most important ones to be reported during the focus group discussions are highlighted. If time permits, the Municipal Focal Points have a preliminary discussion on the matrix’s main findings with the Team of Trainers.
+Step 2. Updating the city risk map 
+The maps at neighbourhood level prepared with the consulted communities during Phase 2 are analysed and compared with the map resulting from the participatory risk mapping at city level (Activity 3, Phase One). Therefore, based on the single list of priority issues at community 
+A total of five (5) focus group discussions are carried out, one for each resilience pillar, namely: (i) urban governance; (ii) urban planning and environment; (iii) resilient infrastructure and basic services; (iv) urban economy and society; and (v) urban disaster risk management. Each focus group discussion should last between 2 to 3 hours and be attended by no more than 15 participants. The latter should be as much as possible gender-balanced and composed by a mix of municipal technical staff, community representatives, 
+NGO representatives, practitioners, academicians, private sector representatives, among other local stakeholders, who have a relevant experience regarding the resilience pillar topic to which they were invited as discussants.
+The focus group discussions represent a key moment during the CityRAP Tool roll-out process for knowledgeable stakeholders to exchange views and analyse the data collected during previous phases. Importantly, based on these discussions, each group will propose key issues for each resilience pillar to be presented and reviewed during the prioritisation workshop.
+The following steps are proposed for guiding the focus group discussions:
+Step 1. Introduction > All participants introduce themselves; > A focus group leader is elected. He/she will be responsible for presenting the outcomes of the discussion meeting during the prioritisation workshop. 
+Another participant is selected as rapporteur. The latter has the important task to take extensive notes of the meeting; > The facilitator (ideally a Municipal Focal Point, supported as needed by a member of the Team of 
+Trainers) needs to ensure proper interaction and participation throughout the meeting. He/she makes a short introduction by explaining quickly the CityRAP 
+Tool roll-out process and the specific role played by the focus group discussion within the overall methodology; > The facilitator presents the methodology of the meeting (see following steps) and the material to be used for this purpose, which is relevant to the resilience pillar under discussion, namely:
+level compiled in Step 3, Activity 3, Phase Two, the city risk map is updated in a newly printed satellite image, including a legend (i.e. priority issues at community level), so that it can be used effectively during both the focus group discussions and the prioritisation workshop.
+Step 3. Preparation of additional documentation
+Additionally, the Team of Trainers has to review the following information in preparation to the focus group discussions:
+> The preliminary questionnaire completed during the 
+Preparatory Phase, from which relevant information for each resilience pillar is extracted; > Key information for decision-making/prioritisation purposes that was collected by the Municipal Focal 
+Points in Step 4, Activity 3, Phase 2, from existing plans, strategies, policies and other relevant documents at the city level.
+Step 4. Double-check on logistics
+The Team of Trainers reviews all logistical arrangements made by the Municipal Focal Points (see Step 5, Activity 3, 
+Phase Two) for holding the focus group discussions.
+FIGURE 11
+Focus group discussion in Dondo, Mozambique. Credit: UN-Habitat. > The Results Matrix and the summarised list of comments; > The updated city risk map and the list of priority issues from the consulted communities; > Additional information extracted from the preliminary questionnaire and from any other key documentation (existing plans, strategies, policies, etc.) that was reviewed by the Team of Trainers.
+> Finally, the facilitator explains what is expected from the focus group discussion: a list of maximum five (5) key issues belonging to the pillar that need to be addressed to build the city’s resilience, which will be presented and debated during the prioritisation workshop.
+Step 2. Analysis of the Results 
+Matrix > First of all, the facilitator provides an overview of the Results Matrix deriving from the municipal selfassessment for the respective pillar.
+> The scores and patterns of responses per municipal department are broadly analysed, theme by theme; the colour coding helps structuring the discussion starting from the questions within the themes showing the lowest score (red), for which more attention is needed to build the city’s resiliency, to those showing the highest scores (green).
+> The following questions could guide the discussion:
+> Do you agree that the questions with the lowest scores (coloured in red) correspond to the most pressing issues to be addressed?
+> Is there one municipal department that tends to answer more positively or negatively than others? 
+Can you think of a possible explanation?
+By the end of this activity, the Municipal Focal Points and the training team have finalised all the preparations for the focus group discussions.
+By the end of this activity, the data collected in Phase One and Phase Two is discussed in five focus group discussions, one per each resilience pillar, and the results are summarised.
+
+[Page 17]
+PILLAR 1: URBAN GOVERNANCE
+Nº QUESTIONS
+ANSWERS
+MUNICIPAL DEPARTMENTS
+TOTAL
+URBAN 
+PLANNING
+HUMAN 
+RESOURCES
+FINANCE
+BASIC 
+SERVICES
+NATURAL 
+RESOURCES
+ECONOMY
+CIVIL 
+DEFENCE
+GOVERNANCE 
+STRUCTURE
+Do you believe that the current municipal structure allows each department to effectively carry out its work?
+Yes, the current structure is good and allows each department to effectively carry out its work
+The current structure requires some improvements for effective delivery
+The current structure is not good enough for that purpose 
+No, the current structure is weak and needs major improvements
+3 12
+How well is the municipality cooperating and coordinating with externals such as government, private sector, civil society, etc.?
+The municipality has established strong cooperation and coordination mechanisms with a number of external partners and institutions
+The cooperation and coordination of the municipality with externals is overall good but could be further improved
+The municipality’s cooperation and coordination with externals is not good enough
+The municipality has poor cooperation and coordination mechanisms with externals
+4 23
+Do you think that coordination and cooperation among the different municipal departments is efficient? 
+Yes, mechanisms are in place to ensure efficient coordination and cooperation among the different municipal departments
+The coordination and cooperation among the departments is overall good but could be further improved
+Coordination and cooperation mechanisms among the departments is not good enough
+The municipality has poor coordination and cooperation mechanisms among its departments
+4 19
+Average for Governance Structure
+CITYRAP TOOL
+PHASE THREE | 33
+32 | 
+PRIORITISATION
+1. Climate Change Adaptation & Mitigation
+2. Sustainable Urban Growth
+3. Inclusive and safer cities
+Phase 3
+City Resilience Framework for Action (RFA)
+Phase 4
+Urban 
+Governance
+Resilient infrastructure and Basic 
+Services
+Urban 
+Planning and 
+Environment
+Urban 
+Economy and 
+Society
+Urban 
+Disaster Risk 
+Management
+FIGURE 12
+The funnelling process to prioritise and plan
+TABLE 11
+Example of matrix analysis > A more in-depth discussion is then carried out for each theme under the resilience pillar being analysed. 
+For example, in table 6 above, the first question to be discussed is number 7 (as it corresponds to the lowest score), followed by number 9 and number 8.
+In this particular case, as displayed in table 6, the following guiding questions could be asked to the group:
+> In your opinion, what are the reasons for the municipal structure being assessed with a low score (question number 7)?
+> Why is a well-functioning municipal structure relevant for building the resiliency of your city?
+> Why does the issue of external relations and cooperation (number 9) score relatively better?
+> Based on this discussion, what is/are the main issue/s to be addressed for resilience building under this theme?
+> Importantly, when discussing each theme, the facilitator should also report to the group the compiled list of comments. This can lead to a more in-depth analysis. 
+For instance, for the theme ‘Urban Planning and Land 
+Management’ under the pillar ‘Urban Planning and 
+Environment’, question number 6 looks at the efficient implementation of urban plans (see the questionnaire at page 48). The facilitator should try to provoke more insight into what exactly hampers the implementation of these plans, such as the lack of qualified personnel, poor planning standards, weak legal framework, etc. 
+For this purpose, it could help looking at the compiled comments under this theme, as some of the main factors impacting the implementation of urban plans might be mentioned there.
+Step 3. Analysis of the city risk map and list of priority issues at community level 
+Theme by theme, as applicable, the facilitator will draw attention to the spatial aspects of the issue under discussion using the updated city risk map, and refer to the list of priority issues resulting from the community consultations.
+Step 4. Analysis of relevant additional information collected during previous phases 
+Last but not least, during the focus group discussion, the facilitator needs to refer to any other information collected during previous phases (i.e. preliminary questionnaire; existing plans, strategies or policies; etc.) that are relevant to the themes being analysed.
+Step 5. Identification of key issues for the pillar and proposed solutions 
+Based on the discussion, participants will make a collective decision and select maximum five key issues belonging to the pillar that need to be addressed for building the city’s resilience. Once the key issues have been identified, participants should propose possible solutions for each of them. The following questions could guide this process:
+> How can this key issue be addressed to better contribute to the overall resilience of the city?
+> What specific solutions can be proposed for this purpose?
+> How can these efficiently be implemented?
+Step 6. Preparation for the prioritisation workshop
+Finally, once all proposed solutions have been proposed for the pillar being analysed, under the leadership of its representative and with the support of the rapporteur and the facilitator, each focus group prepares a brief presentation for the prioritisation workshop. The presentation should be no longer than five (5) slides using Power Point and focus on the key issues that were identified as well as the proposed solutions. The presentation should make a clear reference to the list of priority issues identified at the community level, and integrate any additional information (e.g. from the preliminary questionnaire or from existing plans, strategies or policies) deemed relevant. The leader of the group will present the slides in the prioritisation workshop.
+
+[Page 18]
+CLIMATE CHANGE 
+ADAPTATION AND 
+MITIGATION
+Climate change mitigation refers to strategies and interventions to reduce greenhouse gas emissions that are contributing to global warming, while climate change adaptation refers to the measures designed and applied for adapting to its impacts. Both can contribute to poverty reduction and sustainable development. It is critical that climate change is not approached as an isolated, stand-alone issue, but as part and parcel of the overall city planning and development process, thus it needs to be incorporated in the process of building resilience.
+CITY GROWTH
+This cross-cutting issue refers to both the spatial and economic development dimensions of the city, which absolutely need to be considered when strategizing for building urban resilience. 
+Cities are centres of economic growth and need to be planned and managed adequately, with a clear vision of how they will develop in the future. For example, from a spatial perspective, if a city is expanding at a rapid pace, proper planned city extensions are required.
+SAFE AND INCLUSIVE CITY
+This cross-cutting issue refers to urban safety, promotion of equality, citizen participation and the establishment of more inclusive urbanization processes. It is much related to good urban governance, but also includes access to basic services for all, reduced criminality and social cohesion, among other aspects. These are essential to be considered when planning for city resilience.
+CITYRAP TOOL
+PHASE THREE | 35
+34 | 
+ACTIVITY 3:
+PRIORITISATION WORKSHOP
+Once all five focus group discussions have been held, the group leaders, rapporteurs and all relevant participants identified during the preliminary stakeholder analysis convene a one-day prioritisation workshop to collectively choose the priority issues that will serve as entry points for building the city’s resiliency. To carry out an efficient workshop, all materials produced throughout the CityRAP 
+Tool roll-out process so far should be clearly displayed, in particular the Results Matrix, the updated city risk map, and the list of priority issues identified at community level.
+The agenda of the prioritisation workshop is organised according to the following steps:
+Step 1. Presentation of the CityRAP 
+Tool roll-out process so far and definition of the workshop’s main objective (10 min.) > The workshop facilitator, a member of the Team of 
+Trainers, summarises all the activities carried out so far and presents quickly the materials produced so far, i.e. the Results Matrix, the updated city risk map, and the list of priority issues identified at community level; > He/she should make clear that the main objective of the workshop is to identify in a consensual manner maximum six (6) priority issues that will constitute the entry points for building the city’s resiliency.
+Step 2. Presentation and debate in plenary around the results of the focus group discussions (15 min. x 
+5 focus groups) > The leader of each focus group uses maximum 10 min. to present the key issues to be addressed for building the city’s resilience under each pillar, including the envisaged solutions; > After each group presentation, the workshop facilitator moderates a 5 min. discussion in plenary; members of the focus group may assist their representative in replying to the questions/comments from the audience, as needed; > The workshop facilitator uses a flip chart and writes down the key issues to be addressed under each resilience pillar, the proposed solutions and even the relevant underlying issues.
+Step 3. Identifying common issues (30 min.) > The workshop facilitator helps identifying and isolating issues (i.e. key issues to be addressed, proposed solutions or underlying issues) that are common to two or more resilience pillars, which have been mentioned repeatedly during the focus groups’ presentations or follow-up debates; > The facilitator triggers a plenary discussion around the identified common issues, emphasising the linkages and inter-relations among the different resilience pillars. 
+Thereby the pillar structure gradually fades away and is replaced by common issues that will serve as entry points for building the city’s resiliency as a whole.
+Step 4. Presentation of the 
+Resilience Diagramme (10 min.) > The facilitator introduces the Resilience Diagramme (figure 13) depicting three (3) cross-cutting themes (i.e. climate change adaptation and mitigation, city growth and safe and inclusive city) which underlie the entire urban resilience concept.
+> The three cross-cutting themes (and the way they intersect) are explained in detail, as they will serve as filters for refining the prioritisation exercise.
+Step 5. Placing the identified common issues into the Resilience 
+Diagramme (20 min.) > The workshop facilitator writes the identified common issues in different post-its/cards and leads the process of placing each of them in the Resilience Diagramme, through a plenary discussion; > Consensus should be found regarding the best location 
+C
+IT
+Y G
+R
+O
+W
+T
+H
+FIGURE 13
+Cross-cutting issues of urban resilience
+S
+A
+F
+E 
+A
+N
+D 
+I
+N
+C
+L
+U
+SI
+V
+E 
+CI
+T
+Y
+C
+LI
+M
+A
+T
+E 
+C
+H
+A
+N
+G
+E 
+A
+D
+A
+P
+T
+A
+TI
+O
+N 
+A
+N
+D M
+I
+TI
+G
+A
+T
+IO
+N
+By the end of the workshop, maximun six priority issues for progressively building city's resilience are selected in a participatory way.
+
+[Page 19]
+POLICIES & 
+LEGISLATION
+URBAN PLANS
+INSTITUTIONAL 
+SET-UP
+FINANCE
+INTERVENTIONS
+DRAINAGE
+INFORMAL SETTLEMENTS
+SOLID WASTE MANAGEMENT
+JOB CREATION
+PUBLIC SPACES
+CITYRAP TOOL
+PHASE THREE | 37
+36 | 
+COMPONENTS OF THE RFA
+Priority 
+Issues to be addressed by the RFA
+TABLE 12
+Structure of the City RFA
+FIGURE 14
+Municipal Focal Points training in Burkina Faso. Credit: Felix Vollmann/ UN-Habitat 
+Finally, the trainers organize a half-day afternoon training session with the Municipal Focal Points to prepare them for carrying out the baseline assessment during Phase 
+Four. During the session, the instructions of Activity 1, 
+Phase Four, are explained by the trainers, and clarifications provided as needed. Notably, the Municipal Focal Points elaborate a calendar of activities to carry out Phase Four, and individual responsibilities are assigned.
+ACTIVITY 4:
+TRAINING OF THE MUNICIPAL FOCAL POINTS FOR 
+ACTIVITY 1 OF PHASE FOUR
+By the end of this session, Municipal Focal Points are prepared to carry out the baseine assessment of Phasee Four.
+of the identified common issues within the Resilience 
+Diagramme. It is clear that the post-its/cards placed at the intersection of the three cross-cutting themes, represent potential entry points for addressing the city’s resiliency as a whole, and should therefore be prioritised. 
+Step 6. Differentiating priority issues to be addressed from components (or enablers) of the 
+City Resilience Framework for 
+Action (20 min.) > The facilitator projects a power point slide (or draws a table on the flip chart) that shows the structure of the City Resilience Framework for Action (RFA) (see table 12). The table distinguishes priority issues to be addressed for building the city’s resilience (the drivers) from the RFA components, which are the enabling means that the local administration can use to effectively manage the city. There are five RFA components (or enablers): (i) Policies and legislation; (ii) Urban plans (both spatial plans and development plans); (iii) Finance mechanisms (e.g. budgetary issues, funding availability); (iv) Institutional set-up (who does what?); and (v) Interventions (concrete projects and/or activities). > The facilitator then removes the prioritised postits/cards related to the RFA components from the 
+Resilience Diagramme and places them under the corresponding component. > Only the prioritised post-its/cards that are more thematic and can be addressed through the RFA components (i.e. through appropriate policies and legislation, urban plans, adequate finance mechanisms, improved institutional set-up, and concrete interventions) are to be considered for the next step.
+Step 7. Agreeing on the priority issues starting from which the city’s resilience will be progressively built (10 min.) > The workshop facilitator carries out a plenary discussion to analyse one by one those prioritised post-its/cards to see if they can be interlinked through cause-effect relationships or joined under a broader heading (e.g. water and sanitation, or slum upgrading).
+> The post-its/cards within the different circles of the 
+Resilience Diagramme are discussed to agree on the focus of the City RFA (NB: the latter could focus more on climate change, on city growth, or on inclusion/ safety) and decide on the final list of priority issues (6 maximum) to be considered for Phase Four.
+
+[Page 20]
+PHASE FOUR
+CITYRAP TOOL
+38 | 
+DEVELOPMENT OF THE CITY 
+RESILIENCE FRAMEWORK 
+FOR ACTION (RFA)
+DURATION
+OBJECTIVE AND BRIEF 
+DESCRIPTION
+EXPECTED RESULTS
+7-8 weeks
+The objective of this phase is to elaborate the draft City Resilience 
+Framework for Action (RFA) based on the results of the prioritization workshop, and to prepare a final version by integrating the feedback received during a RFA formulation workshop, which is then validated by the relevant authorities.
+The City RFA is the final product of the CityRAP Tool process. The 
+City RFA provides a reference framework for gradually building a city’s resilience, in which existing and future policies, plans, financial and institutional arrangements and concrete interventions (i.e. the RFA components) can fit. The City RFA is composed of priority actions to be implemented through concrete activities (short-term), implementable projects (medium-term), and guiding principles (long-term), according to a shared resilient city’s vision.
+• A baseline assessment of the identified priority issues is carried out;
+• A list of priority actions is validated during a RFA formulation workshop;
+• The priority actions are broken down into activities, projects and guiding principles in the short- (0-2 years), medium- (3-5 years) and long-term (610 years) respectively and indicated on a synthetic city map when applicable;
+• A monitoring and evaluation mechanism is set up;
+• The final City RFA document is completed, validated, endorsed and disseminated.
+PHASE
+
+[Page 21]
+RFA COMPONENTS
+INFORMATION NEEDED
+EXAMPLE: “INFORMAL SETTLEMENTS”
+POLICIES AND 
+LEGISLATION > What are the policies at national, subnational and local levels that are related to this priority issue?
+> Which relevant legislation/regulations do define how to deal with this priority issue?
+National Level: > Relevant policies/strategies: National 
+Urban or Housing Policy, National 
+Development Strategy or Plan, National 
+Informal Settlements Upgrading Strategy, etc.
+> Legislation regarding land tenure, adequate housing conditions, access to basic services, human rights, building codes, minimum urban development standards, etc. 
+Local level:
+> City by-laws on land use planning, management and regularisation; > City-wide informal settlements upgrading strategy;
+RFA COMPONENTS
+INFORMATION NEEDED
+EXAMPLE: “INFORMAL SETTLEMENTS”
+URBAN PLANS > Is this priority issue addressed in any of the existing urban plans (city master plan, detailed urban plans, etc.) or city development strategies?
+> How are informal settlements taken into account in existing urban plans?
+> Is there a specific city development plan/strategy for upgrading informal settlements?
+INSTITUTIONAL SET-UP > Is there a municipal department, unit or a focal point responsible for tackling this priority issue within the city administration?
+> Which other municipal or central government departments play a role in addressing this issue?
+> What is their current level of capacity?
+> Are there other governance mechanisms at the community level or within civil society dealing with this issue?
+> Relevant municipal departments dealing with informal settlements related aspects, e.g. Urban Planning, Environment, 
+Infrastructure/Basic Services, Finance and 
+Administration, etc.
+> Existing institutional mechanism, task force group, unit or dedicated municipal staff working on informal settlements upgrading; what is there capacity?
+> What are the mechanisms in place at the community level to deal with informal settlements?
+FINANCE > What is the current budget dedicated to this priority issue?
+> What are the relevant financial mechanisms in place?
+> What are the strategies to mobilise resources for addressing this issue?
+> Budget spent for informal settlement upgrading in the last fiscal year > Are there specific financial mechanisms in place for addressing informal settlements (e.g. taxes, municipal revenues, financial transfer from central government, revolving fund)? 
+INTERVENTIONS > What concrete physical interventions have been carried out lately to address this priority issue?
+> What results have been achieved through relevant projects?
+> List of informal settlements upgrading interventions/projects (e.g. improving security of tenure, opening of roads in informal settlements, increasing access to water and sanitation, etc.) > Analysis of impact.
+CITYRAP TOOL
+PHASE FOUR | 41
+40 | 
+ACTIVITY 1:
+BASELINE ASSESSMENT
+A baseline assessment is carried out for each priority issue selected during the prioritization workshop. The assessment indicates how well the priority issue is currently performing (baseline), according to five RFA components. The performance is indicated on a scale from 1 (lowest score) to 3 (highest score). This allows identifying gaps which can then inform the formulation of priority actions. This activity is implemented through two steps:
+Step 1. Research and compilation of information
+The Municipal Focal Points collect all necessary information (existing plans, strategies, studies, etc.) and consult experts and local stakeholders (e.g. concerned governmental institutions, service providers, the academia, NGOs, etc.) to assess the state of the priority issues selected during the prioritisation workshop in relation to each RFA component. 
+For instance, in case “drainage” was chosen as one of the priority issues, information is gathered concerning policies and legislation, plans, institutional set-up, finance relatedissues and on-going or planned physical interventions regarding the drainage conditions in the city. Table 13 illustrates the kind of information to be collected for each 
+RFA component in relation to a given priority issue, in this case: “informal settlements”. The same process has to be repeated for each identified priority issue.
+The Municipal Focal Points organize themselves to collect all the information needed for carrying out the baseline assessment. For instance, one Municipal Focal Point could be responsible for researching and compiling information/data regarding all five RFA components related to one specific priority issue. Alternatively, he/she could be responsible for collecting information for all priority issues in relation to one specific RFA component (e.g. if there is someone from the 
+By the end of this activity:
+> All relevant information about the priority issues identified in Phase Three is collected by the Municipal Focal 
+Points; >The performance of each identified priority issue is evaluated in relation to each RFA component and inserted in the baseline assessment table according to a specific scoring system.
+TABLE 13
+Example of information required for the baseline assessment financial department in the team of Municipal Focal Points, that person could be responsible for investigating the finance component of the RFA for all priority issues).
+Step 2. Filling in the baseline assessment table 
+Once all needed information has been retrieved, the 
+Municipal Focal Points will collectively decide on a score qualifying how well each priority issue performs in relation to a particular RFA component, using a scale from 1 (weak performance) to 3 (good performance) (see table 14). 
+Therefore, the Municipal Focal Points fill in a table with the agreed scores, where on the first row are listed the five RFA components and on the first column are listed the priority issues. The result should look like table 15. If colour-code is kept (red for low scores, yellow for medium scores, and green for high scores), it becomes intuitive where the municipality or local government needs to intervene: the areas of the table where red is prevalent suggest that the needs for intervention are greater; thus, priority actions can now be formulated to address these needs.
+
+[Page 22]
+RFA COMPONENTS SCORE = 1
+SCORE = 2
+SCORE = 3
+POLICY AND 
+LEGISLATION
+There are some relevant policies, strategies or by-laws regulating this issue, but they are rather insufficient.
+This issue is taken into account, but the relevant policies and legislation should be improved.
+There are policies and laws in place that adequately regulate this issue.
+URBAN PLANS > This issue is not sufficiently considered in existing urban spatial or development plan; > There are currently no valid urban plans for the city.
+The existing urban plans take some aspects related to this issue into account; however, improvements are needed.
+This issue is sufficiently incorporated in key urban spatial/ development plans of the city. 
+INSTITUTIONAL SET-UP There is no department, specialized institution or focal person clearly assigned to manage this issue at the municipal/ local level.
+One or more municipal departments, specialized institutions or focal persons are responsible for dealing with this issue, but with insufficient capacity. 
+Roles/responsibilities of different departments/ institutions are clearly defined for dealing with this issue at city level, with enough capacity.
+FINANCE
+There is very little budget allocated for managing this issue at the local level, and financial mechanisms in place are clearly insufficient.
+The available budget to deal with this issue exists, but it is not clear how it is spent and the financial mechanisms in place are still weak.
+The available budget allocated for this issue is sufficient and there are adequate financial mechanisms in place.
+INTERVENTIONS
+Very little is currently being implemented to address this issue.
+There are few projects/ interventions that tackle this issue, but there is need for more.
+There are sufficient/ adequate projects/ interventions planned or ongoing to address this issue. 
+PRIORITY ISSUES
+POLICIES AND 
+LEGISLATION
+URBAN PLANS
+INSTITUTIONAL
+SET-UP
+FINANCE
+INTERVENTIONS
+ROADS AND 
+DRAINAGE
+SOLID WASTE
+HEALTH AND 
+EDUCATION FACILITIES
+EARLY WARNING AND 
+DISASTER RESPONSE
+PROTECTION OF 
+NATURAL RESOURCES
+WATER AND 
+SANITATION
+RFA COMPONENTS
+MONDAY
+TUESDAY
+WEDNESDAY
+THURSDAY
+FRIDAY > Review of the baseline assessment carried out by the 
+Municipal Focal 
+Points and support to the formulation of proposed priority actions of the RFA > Preparation of the 
+RFA formulation workshop
+RFA formulation workshop
+RFA formulation workshop
+The Municipal 
+Focal Points and the Trainers further develop the City 
+RFA based on the recommendations resulting from the 
+RFA formulation workshop > The Team of trainers and the 
+Municipal Focal 
+Points have a meeting with municipal high level authorities > The Team of 
+Trainers provides guidance to the 
+Municipal Focal 
+Points to finalize the consolidated first draft of the 
+City RFA
+CITYRAP TOOL
+PHASE FOUR | 43
+42 | 
+TABLE 14
+Grading scale for the baseline assessment
+TABLE 15
+Example of baseline assessment
+ACTIVITY 2:
+DEFINITION OF PRIORITY ACTIONS AND 
+RFA FORMULATION WORKSHOP
+The objective of this activity is to prepare the first draft of the 
+City RFA with the support of the external Team of Trainers. 
+Since the Trainers will be on mission during one week only, in order to maximise their presence, the schedule in table 
+16 below is proposed. Activity 2 is carried out according to the following three steps:
+Step 1. Review of the baseline assessment table
+The Municipal Focal Points explain to the Team of Trainers the rationale they followed for the scoring they applied to the selected priority issues against the RFA components, by presenting a clear justification and making reference to key documentation from the research they carried out during 
+Activity 1. The group (Municipal Focal Points and Team of 
+Trainers) jointly reviews the scoring and amends it as needed. 
+Step 2. Definition of priority actions
+The definition of priority actions is based on the baseline assessment table, especially by considering the lowest scoring cells (score = 1 or 2), i.e. where there are major gaps to be addressed. The advantage of the baseline assessment table is that it can be read both horizontally, following the priority issues, and vertically, following the RFA components. 
+That allows to include every aspect in the discussion, so that even a RFA component can be translated into a priority action (see example in table 17). 
+By the end of this activity:
+> The baseline assessment table is reviewed and priority actions are proposed; >A list of activities for each priority action is drafted during the RFA Formulation Workshop.
+TABLE 16
+Proposed agenda for the RFA Formulation Workshop week
+
+[Page 23]
+PRIORITY ISSUES
+POLICIES AND 
+LEGISLATION
+URBAN 
+PLANS
+INSTITUTIONAL
+SET-UP
+FINANCE
+INTERVENTIONS
+ROADS AND 
+DRAINAGE
+SOLID WASTE
+HEALTH AND 
+EDUCATION 
+FACILITIES
+EARLY WARNING 
+SYSTEMS
+PROTECTION 
+OF NATURAL 
+RESOURCES
+WATER AND 
+SANITATION
+RFA COMPONENTS
+PRIORITY 
+ACTION 3
+PRIORITY 
+ACTION 2
+PRIORITY 
+ACTION 1
+PRIORITY 
+ACTION 4
+PRIORITY 
+ACTION 5
+PRIORITY 
+ACTION
+PROPOSED FORMULATION
+QUALITY
+WHY?
+PRIORITY 
+ACTION 1: 
+URBAN PLANS
+Option 1: Elaborate urban plans that pay special attention to roads and drainage, health and education facilities, early warning and disaster response, protection of natural resources, and water and sanitation.
+weak
+This formulation option is too broad, and attempts to address too many aspects at the same time.
+Option 2: Elaborate integrated urban plans for the most vulnerable areas of the city that focus on the identified priority issues and are coherent with existing plans.
+strong
+This formulation option is more realistic, targeted and clearer.
+PRIORITY 
+ACTION 2: 
+FINANCE
+Option 1: Improve the finance system and increase the budget available for all the priority issues.
+weak
+This formulation aims to increase the budget without a clear strategy and shifts the responsibility to a higher level. In addition, it is advisable to focus on specific priority issues.
+Option 2: Improve the coordination of finance among different concerned departments in order to increase the budget available for roads and drainage, solid waste, 
+Early Warning System, and protection of natural resources.
+strong
+This action expresses a clear approach to increase the budget and focuses on priority issues with lowest scores under finance.
+PRIORITY 
+ACTION 3: 
+ROADS AND 
+DRAINAGE
+Option 1: Improve roads and drainage, through better policies, plans, governance, and interventions.
+weak
+The weaknesses of this formulation are: i) a city-wide action, not spatially targeted; ii) all RFA components involved.
+Option 2: Formulate municipal policies, bylaws and prepare local development plans that allow a better management of roads and drainage.
+strong
+This formulation tries to link key RFA components (policies, plans, and interventions) and suggests measures implementable at local level.
+PRIORITY 
+ACTION 
+4: EARLY 
+WARNING 
+SYSTEMS
+Option 1: Elaborate and implement an Early 
+Warning System plan.
+weak
+Even though there is a specific focus on planning, this formulation is still too broad.
+Option 2: In collaboration with the concerned municipal departments, and in good coordination with responsible national and subnational entities, elaborate an Early 
+Warning System plan for the city.
+strong
+This formulation seeks for integrated planning and institutional coordination.
+PRIORITY 
+ACTION 5: 
+PROTECTION 
+OF NATURAL 
+RESOURCES
+Option 1: Design and implement measures to ensure protection of natural resources with the purpose of improving the response to disaster risk of the city.
+weak
+This formulation refers to all natural resources. In addition, a citywide action might not be easily implementable.
+Option 2: Identify sensitive natural ecosystems (e.g. river, lake, forest, etc.) that need to be protected and design locally adapted solutions that reduce the risk of disaster. strong
+This formulation is more specific (“sensitive ecosystems” instead of “natural resources”) and it advocates for local solutions.
+CITYRAP TOOL
+PHASE FOUR | 45
+44 | 
+TABLE 17
+Example of proposed Priority Actions.
+To begin determining the priority actions, the group members can use the following guiding questions: > What priority actions should be undertaken to increase the scoring? > What are the aspects that are interlinked and could be grouped under a single priority action? > What are the most important root causes for the city’s vulnerability that need to be urgently addressed?
+> How to formulate priority actions in a way that makes sense and is implementable?
+Although identifying many priority actions (which then are meant to be transformed into feasible/bankable projects or activities) may be tempting, the City RFA should remain realistic. Thus, it is recommended to define maximum six priority actions, focusing on the most crucial and urgent aspects to be addressed, which will serve as entry-points for progressively building the city’s resilience.
+In the example below, five priority actions are identified.
+While formulating priority actions, a critical exercise of the whole CityRAP process, the group should think that a priority action is supposed to reflect substantial changes in skills or abilities, or result in concrete physical improvements of the targeted areas, or the delivery of new products and services that will contribute to the overall goal of building the city’s resilience. Therefore, these priority actions need to be formulated in a way that they make sense to the majority of the stakeholders who participated in the CityRAP process. They should read as implementable, well-targeted and ideally even be measurable through monitoring and evaluation mechanisms. This is important as priority actions will effectively serve as the City RFA objectives from which concrete implementation should follow or feasible/bankable projects are derived/prepared. In table 18 examples are provided to better understand how to formulate the priority actions identified in table 17 in the most effective way.
+TABLE 18 
+Example of weak and strong formulation of priority actions
+
+[Page 24]
+CITYRAP TOOL
+PHASE FOUR | 47
+46 | 
+URBAN DISASTER 
+RISK MANAGEMENT
+RESILIENT 
+INFRASTRUCTURE 
+AND BASIC SERVICES
+URBAN ECONOMY 
+AND SOCIETY
+URBAN PLANNING AND 
+ENVIRONMENT
+URBAN GOVERNANCE
+FINANCIAL MANAGEMENT AND RESOURCES 
+FOR BASIC SERVICES
+MUNICIPAL FINANCE AUTONOMY
+ENFORCEMENT OF URBAN LEGISLATION
+TRANSPARENCY IN BUDGETING AND 
+PLANNING
+GENDER EQUITY IN DECISION-MAKING 
+PROCESSES
+CLIMATE CHANGE RISKS INTO URBAN PLANS
+SUSTAINABLE ROADS AND DRAINAGE
+LOCAL AUTHORITY CAPACITY TO ENFORCE 
+DEVELOPMENT CONTROL
+ESTABLISH A SOLID WASTE MANAGEMENT 
+STRATEGY
+PRESERVE AND PROTECT NATURAL 
+RESOURCES
+ESTABLISHMENT AND STRENGTHENING OF 
+SMEs
+SAFE PUBLIC SPACES
+NEIGHBORHOOD WATCH COMMITTEES
+INCREASED ACCESS TO HEALTH, WATER 
+AND SANITATION
+SUSTAINABLE SOLID WASTE MANAGEMENT 
+AWARENESS
+ROAD NETWORKS AND DRAINAGE SYSTEMS
+SOLID WASTE MANAGEMENT FACILITIES
+HEALTH AND EDUCATIONAL FACILITIES
+WATER SUPPLY AND SANITATION SERVICES
+DIVERSIFICATION OF ENERGY SOURCES
+DISASTER RISK AWARENESS
+CONTINGENCY PLAN AND TRAININGS
+RE-ESTABLISHMENT OF BASIC SERVICES 
+DELIVERY AFTER DISASTERS
+CLIMATE CHANGE ADAPTATION AND 
+MITIGATION SOLUTIONS
+IDENTIFIED PROBLEMS
+PRIORITY 
+ISSUES
+RFA COMPONENTS
+PRIORITY ACTIONS
+URBAN 
+PLANS
+ROADS AND 
+DRAINAGE
+PROTECTION 
+OF NATURAL 
+RESOURCES
+FINANCE
+EARLY WARNING 
+SYSTEMS
+POLICIES AND 
+LEGISLATION
+URBAN PLANS
+INSTITUTIONAL SET-UP
+FINANCE
+INTERVENTIONS
+ROADS AND 
+DRAINAGES
+SOLID WASTE 
+MANAGEMENT
+HEALTH AND 
+EDUCATION 
+FACILITIES
+EARLY WARNING 
+SYSTEMS
+PROTECTION 
+OF NATURAL 
+RESOURCES
+WATER AND 
+SANITATION
+Formulate municipal policies, by-laws and prepare local development plans that allow a better management of roads and drainage.
+In collaboration with the concerned municipal departments, and in good coordination with responsible national and sub-national entities, elaborate an Early 
+Warning System plan for the city.
+Identify sensitive natural ecosystems (e.g. river, lake, forest, etc.) that need to be protected and design locally adapted solutions that reduce the risk of disaster.
+Improve the coordination of finance among different concerned departments in order to increase the budget available for roads and drainage, solid waste, 
+EWS, and protection of natural resources.
+Elaborate integrated urban plans for the most vulnerable areas of the city that focus on the identified priority issues and are coherent with existing plans.
+PHASE 2
+PHASE 1
+PHASE 3
+PHASE 4
+FIGURE 15 Example of the overview of a CityRAP Tool roll-out process through the four phases, showing the linkages between the problems identified, the selection of the priority issues, the RFA components, and the outcomes of the baseline assessment.
+
+[Page 25]
+PRIORITY ACTIONS
+FORMULATION
+ACTIVITIES
+PRIORITY ACTION 1
+URBAN 
+PLANS
+Elaborate integrated urban plans for the most vulnerable areas of the city that focus on the identified priority issues and are coherent with existing plans.
+ACTIVITY 1.1: Conduct road conditional survey in the district and marking roads and drainages to be improved/constructed (in collaboration with SWM department because of obstructions caused by solid waste accumulation in the drainage channels) (linked to ACTION 3)
+ACTIVITY 1.2: Draft a comprehensive road and drainage plan, with a specific focus on two local development plans for vulnerable areas. Make sure the overall plan complies and is in line with the masterplan (linked to ACTION 3) 
+ACTIVITY 1.3: Identify and locate key solutions, e.g. design escape ways for emergencies, adapt the green infrastructure design, etc. (linked to ACTION 4 and ACTION 5)
+PRIORITY ACTION 2
+FINANCE
+Improve the coordination of finance among different concerned departments in order to increase the budget available for roads and drainage, solid waste, 
+EWS, and protection of natural resources.
+ACTIVITY 2.1: Establish an improved coordination mechanism among different municipal departments for better budget allocation. 
+ACTIVITY 2.2: Set up a finance-plan to collect revenues from the use of the dump site (to support costs related to SWM) 
+ACTIVITY 2.3: Introduce local parking fees to support the costs for the improvement of roads and drainage (linked to ACTION 3)
+ACTIVITY 2.4: Introduce penalties for non-compliance to building plans and disposal of solid waste
+ACTIVITY 2.5: Improve the market and bus station structures to increase the revenue base
+PRIORITY ACTION 3
+ROADS AND 
+DRAINAGE
+Formulate municipal policies, by-laws and prepare local development plans that allow a better management of roads and drainage.
+ACTIVITY 3.1: Conduct roads and drainage policies and legislation assessment to identify relevant gaps and barriers
+ACTIVITY 3.2: Draft the implication of higher level roads and drainage policies at local level and, in collaboration with concerned departments, formulate additional policies (if needed) that support implementation of related plans and local development plans
+ACTIVITY 3.3: Ensure that the roads and drainage plan is included in the masterplan, and prepare at least two local development plans to improve roads and drainage (within informal settlements) (linked to ACTION 1)
+ACTIVITY 3.4: Construct/improve roads and drainage in a resilient manner, prioritising the implementation of at least 2 local development plans (within informal settlements)
+PRIORITY ACTION 4
+EARLY 
+WARNING 
+SYSTEMS
+In collaboration with the concerned municipal departments, and in good coordination with responsible national and sub-national entities, elaborate an 
+Early Warning System plan for the city.
+ACTIVITY 4.1: Consultations with the responsible entities at national and subnational levels to design an Early Warning System (EWS) at city level.
+ACTIVITY 4.2: Establish a municipal committee on EWS, including community representatives. 
+ACTIVITY 4.3: Set-up a unit within an existing municipal department to deal with early warning and disaster response issues.
+ACTIVITY 4.4: Include early warning and disaster response in the municipal budget (linked to ACTION 2) 
+ACTIVITY 4.5: Carry out sensitization and training on disaster risk and response, also related to EWS.
+ACTIVITY 4.6: Identify and establish safe havens (linked to ACTION 1)
+PRIORITY ACTION 5
+PROTECTION 
+OF NATURAL 
+RESOURCES
+Identify sensitive natural ecosystems (e.g. river, lake, forest, etc.) that need to be protected and design locally adapted solutions that reduce the risk of disaster.
+ACTIVITY 5.1: Sensitize communities on the importance of natural ecosystems and the need to protect them. 
+ACTIVITY 5.2: Review existing municipal bylaws for protecting sensitive natural ecosystems.
+ACTIVITY 5.3: Empower communities to better manage these ecosystems and facilitate the identification of income generation.
+ACTIVITY 5.4 Implement planned reforestation and afforestation programs with the communities (linked to ACTION 1)
+CITYRAP TOOL
+PHASE FOUR | 49
+48 | 
+FIGURE 16
+Group exercise to draft the activities and assign responsibilities for each priority action during the Review workshop in Lusaka, Zambia. Credit: UN-Habitat. 
+TABLE 19 Example of actions and related activities
+Step 3. RFA formulation workshop 
+The purpose of this workshop is to review the results of the baseline assessment and the set of proposed priority actions for the RFA together with the relevant stakeholders (e.g. municipal staff, government representatives, community members, NGOs, the private sector, service providers, the academia, etc.), and identify suitable activities in the short-, medium- and long-term to populate the City RFA.
+The logistics for the event should be organized by the 
+Municipal Focal Points well in advance, while the Trainers support the preparation of the main presentations/ contents of the event and review the agenda the day before the workshop. The main agenda items are:
+1. Summary of the CityRAP Tool roll-out process so far: one member of the Team of Trainers provides a concise but complete summary of the process carried out until the day of the workshop, since there will likely be participants in the room that were not involved in previous phases. Then the scope and expected outcomes of the event are explained. Usually, the use of Power Point is recommended. It is important that the presentation, in addition to the phases of the process, highlights the linkages between the problems identified during the prioritization workshop, the selection of the priority issues, the RFA components, and presents the outcomes of the baseline assessment (see example in figure 15).
+2. Review and validation of the baseline assessment results and of the proposed priority actions: the 
+Municipal Focal Points present the results of the baseline assessment and the rationale applied for scoring the identified priority issues against the RFA components. 
+It is recommended to present the baseline assessment for each priority issue, in sequence. Thereafter, the overall baseline assessment table is presented, along with the proposed priority actions. This is followed by a plenary discussion in which suggestions can be made by participants for improving what has been proposed. 
+The following questions can be used to moderate the discussion: > Do these priority actions and milestones contribute effectively to building the city’s resilience? > Do they truly address the priority issues (resilience’s drivers) selected during the prioritization workshop? 
+Are there any other pressing issues that create risk and are not being properly addressed by the proposed priority actions? 
+Through this dialogue, the priority actions are reviewed on the spot and validated by the participants.
+3. Drafting activities and assigning responsibilities: 
+Participants are then divided into groups, one per priority action, with the aim of brainstorming on possible activities to be implemented for achieving a specific priority action. It is important that activities are as specific as possible; if they are spatial explicit, implementation areas should be selected (e.g. it could be the most vulnerable neighbourhoods identified during the participatory mapping exercises). Additionally, the baseline assessment table used for defining the priority actions (see table 17) should be available for each group to bear in mind the intersections that a specific priority action could possibly have with the other ones, as it can help the identification of the activities (see table 19). 
+A responsible institution needs to be identified to lead the implementation of each activity in collaboration with concerned stakeholders and partners. The effectiveness of the work of the lead institution will be assessed every
+
+[Page 26]
+PRIORITY ACTIONS
+TIMELINE short term medium term long term
+URBAN PLANS
+Activity 1.1
+Activity 1.2
+Activity 1.3
+FINANCE
+Activity 2.1
+Activity 2.2
+Activity 2.3
+Activity 2.4
+Activity 2.5
+ROADS AND DRAINAGE
+Activity 3.1
+Activity 3.2
+Activity 3.3
+Activity 3.4
+EARLY WARNING SYSTEM
+Activity 4.1
+Activity 4.2
+Activity 4.4
+Activity 4.5
+Activity 4.3
+Activity 4.6
+PROTECTION OF NATURAL 
+RESOURCES
+Activity 5.1
+Activity 5.2
+Activity 5.3
+Activity 5.4
+CITYRAP TOOL
+PHASE FOUR | 51
+50 | 
+ACTIVITY 3:
+PREPARATION OF THE FIRST CONSOLIDATED 
+DRAFT OF THE CITY RFA 
+Step 1. Starting the preparation of the consolidated first draft of the 
+City RFA 
+Based on the RFA formulation workshop’s results, and on the high-level orientation from the leadership of the municipality, the Municipal Focal Points will work with the remote support of the Team of Trainers to produce a consolidated draft of the City RFA and prepare all the relevant documentation for the validation workshop scheduled ideally within four weeks. 
+Thus, for the validation workshop a first complete draft of the RFA needs to be ready. At this stage, besides the recommendations resulted from the RFA formulation workshop, any material, information, data or idea collected since the beginning of the CityRAP Tool process is useful. 
+For example, the maps produced during the Crash Course in Phase One and during the participatory planning at the neighbourhood level in Phase Two should be used.
+Step 2. Populating the City RFA
+The Municipal Focal Points, with the remote support from the Team of Trainers, work towards the finalisation of the first consolidated City RFA. From a practical point of view, this requires: i) to integrate the comments received from the RFA formulation workshop and from the high-level municipal authorities; ii) to draft concept notes to include in the document for the bankable project; iii) to include a monitoring and evaluation framework.
+two years, as part of the monitoring and evaluation system to be set up in support to the implementation of the City RFA. To draft the activities, the group should try to answer the following guiding questions: (i) What is the long-term (10-year) vision or the expected outcome for this priority action? Which guiding principles can be proposed to fulfil this vision or reach the expected outcome?
+(ii) Can you propose ideas for formulating feasible and bankable projects to be implemented in the medium term (3-5 years) for which partnerships need to be developed and funds leveraged?
+(iii) Realistically, what concrete activities can be carried out in the short-term (0-2 years) using available means and resources?
+It is important to double check all the activities drafted for each priority action, in order to spot any possible redundancy. In case of redundancy, it is recommended to keep the most relevant activity and to flag the link with another action (as it is possible to see in table 19, written in colours). 
+Among the defined activities, it is useful to indicate which ones could be transformed into bankable projects: this could be a good starting point to draft some concept notes for future fundraising.
+4. Final discussion: All groups present to the rest of participants the outputs of their work, in particular the proposed activities and responsible entities. 
+Once all presentations are done and there is common agreement on the selected activities, a double-check is needed to identify possible redundancies among them, or the need to merge activities belonging to different priority actions. Ideally, activities should be categorised into short (0-2 years), medium (3-5 years), and long-term (6-10 years); see example of timeline in table 20.
+A 10-year/long-term roadmap in line with international agendas, such as the Sendai Framework for Disaster 
+Risk Reduction 2015-2030, the United Nations 
+2030 Agenda for Sustainable Development and the 
+New Urban Agenda (which is valid until 2036), and considering national and municipal development plans should also be discussed and defined. By the end of the discussion a shared vision for the resilience of the city is forged.
+Step 4. Meeting with high-level municipal authorities
+While the team of Trainers is still on mission in the targeted city, and after having consolidated the outcomes from the 
+RFA formulation workshop, a meeting with the high-level municipal authorities is organised during which the results of the workshop are explained and a very first presentation of the derived City RFA is made. The purpose is to get the necessary political guidance for the formulation of the consolidated first draft of the City RFA. The Trainers will support the Municipal Focal Points during this high-level meeting.
+TABLE 20 Timeline of all activities
+By the end of this activity:
+> The first consolidated draft of the City RFA is produced by the Municipal Focal Points with the support of the Team of Trainers; >A monitoring and evaluation framework is set up.
+WHAT IS THE CITY RESILIENCE FRAMEWORK FOR ACTION (CITY 
+RFA)?
+The City RFA is the final product of the City RAP tool roll-out process. It is meant to target the city officials, future mayors, central government and potential donors. Generally, it comprises: 
+1. 
+Introduction/Background
+2. 
+Rapid city risk profile, using the preliminary questionnaire and the updated city risk map
+3. 
+The CityRAP Tool process, which includes details of the different implementation stages (e.g. municipal selfassessment, participatory planning at community level, focus group discussions, prioritisation workshop, baseline assessment, RFA formulation workshop)
+4. Overview of the city RFA (including priority actions and activities)
+5. 
+Priority actions sheets (see example in table 21 in the next page)
+6. 
+Concept notes of bankable projects
+7. 
+Monitoring and evaluation framework
+8. 
+Conclusions and way forward
+
+[Page 27]
+CITYRAP TOOL
+PHASE FOUR | 53
+52 | 
+PRIORITY ACTION 3
+ROADS AND DRAINAGE
+Formulate municipal policies, by-laws and prepare local development plans that allow a better management of roads and drainage
+ACTIVITY (bankable projects indicated with “*”)
+INDICATORS
+TARGETS
+PRIORITY
+LINKED 
+TO THE 
+PRIORITY 
+ACTION
+RESPONSIBLE ENTITY
+SHORT
+MEDIUM
+LONG
+ACTIVITY 3.1
+Conduct roads and drainage policies and legislation assessment to identify relevant gaps and barriers
+N of proposals to fill the gaps identified within the policy body
+Draft an updates text of policies and legislation, vaklid for the local level, within one year time
+Roads and drainage 
+Department
+ACTIVITY 3.2 
+Draft the implication of higher level roads and drainage policies at local level and, in collaboration with concerned departments, formulate additional policies (if needed) that support implementation of related plans and local development plans
+N of policies translated at local level 
+Comply with already existing national standards within 3 years
+Roads and drainage 
+Department (in collaboration with Road Development 
+Agency (National level), the environmetal protection department, SWM department, and planning department)
+ACTIVITY 3.3
+Ensure that the roads and drainage plan is included in the masterplan, and prepare at least two local development plans to improve roads and drainage (within informal settlements) (linked to ACTION 1)
+Year of update of the roads and drainage componend of the masterplan
+Integrated masterplan, including an updated roads and drainage plan, within 3 years
+Roads and drainage department, in collaboration with the planning department
+ACTIVITY 3.4*
+Construct/improve roads and drainage in a resilient manner, prioritising the implementation of at least 
+2 local development plans (within informal settlements)
+N. of LDPs implemented in their roads and drainage component
+New construction or improvement of selected roads and drainage within 2 LDP areas (prioritizing informal settlements) within five years
+Roads and drainage department, in collaboration with the planning department, and the finance departement
+LEGEND
+Main roads
+ACTIVITY 3.4
+Roads and drainage to be constructed/ improvd 
+Neighbourhood where new roads and drainage will be constructed or improved
+HOW TO FILL THE RFA STRUCTURE FOR EACH PRIORITY ACTION
+MAP OF THE CITY
+List of the activities to be carried out for the specific priority action with a brief description
+A legend specifying which activity we are locating in the map will help for easy reading. 
+Whenever is relevant for the specific priority action, a schematic map of the city in which the concrete activities can be spatially located could be drafted. The map serves as an illustration for grounding the RFA to the city´s reality.
+Additionally, or as an alternative, a comprehensive map where concrete activities for all the priority actions are visualised could be drafted. 
+Targets based on the selected indicators.
+Indicators to evaluate the progress of each activity.
+Priority for each activity: short-term (0-2 years), medium term (3-5 years) and long term (610 years)
+Other priority actions, if any, to which the specific activity is contributing
+Lead institution responsible for the implementation of the specific activity and collaborating entities, if any. 
+TABLE 21
+Example of a priority action sheet
+
+[Page 28]
+CITYRAP TOOL
+PHASE FOUR | 55
+54 | 
+Priority Action Sheets
+The priority action sheet (example in table 21) is a representation of the key aspects -such as activities, level of priorities, indicators, targets, responsible entity, etc.- for each priority action. It comprises all the missing information and is complemented with a corresponding map, if the activities can actually be spatialised. As shown in the example in table 21, each priority action should include: (i) the scope of the action; (ii) the list of activities, among which the ones with the potential of becoming bankable projects should be highlighted; (iii) objectively verifiable indicators to evaluate the progress of each activity; (iv) ideally, baseline and targets, based on the selected indicators; (v) the level of priority (short, medium or longterm); (vi) the lead institution and key collaborating entities; (vii) an illustrative map.
+Concept notes of bankable projects
+Concept notes of the bankable projects to be implemented in the medium-term (3-5 years) could be drafted in the form of 2-pager sheets (as mentioned under Activity 2). This can be done together with the remote support of the Focal 
+Points. A proposed table of contents for the concept notes is presented in the box below.
+ACTIVITY 4:
+VALIDATION WORKSHOP, FORMAL ENDORSEMENT 
+AND DISSEMINATION OF THE CITY RFA 
+Step 1. Validation workshop
+Ideally within four weeks from the RFA formulation workshop, a half-day validation workshop is organised by the Municipal Focal Points with the remote support of the 
+Team of Trainers. It is recommended to circulate the City 
+RFA draft before the workshop in order to provide enough time to the participants to go through the documents.
+Differently from the RFA formulation workshop, which is a more technical session, the validation workshop is a political event. Ideally, high-level authorities (especially the Mayor) should be present as well as potential donors, key partners and the media. It is advisable that the whole CityRAP Tool roll-out process is described again so that participants understand all the work done and the importance of the City RFA, which was ultimately prepared fully under the leadership of the city itself! The introductory presentation used for the RFA formulation workshop could be used, followed by the presentation of the first consolidated City RFA draft.
+By the end of this activity:
+> The City RFA draft is presented and validated at the validation workshop; >The City RFA is finalised by the Municipal Focal Points with the remote support of the Team of Trainers; >A dissemination campaign and a fundraising strategy for the City RFA are defined.
+After this presentation, room should be given for questions and answers. At the end of the validation workshop, thanks to the comments raised by municipal authorities and other stakeholders, the Municipal Focal Points have all the needed information to finalize and edit the document.
+Step 2. Formal endorsement and dissemination
+The validated and edited City RFA should be formally endorsed by the municipal authorities according to their own procedures, so that it becomes an official document of the municipality. Thereafter, a clear roadmap should be prepared for its dissemination, financing and implementation.
+Once the City RFA is finalised, the municipality has a powerful document to start its fundraising strategy to implement the identified activities and progressively enhance the resilience of the city. 
+Monitoring and evaluation framework
+Importantly, a monitoring and evaluation framework is set up in support to the effective implementation of the City 
+RFA. In this framework, roles and responsibilities of the key institutions/entities are clearly defined. An external/ independent body/consultant should be responsible for monitoring the progress made in implementing the City 
+RFA, ideally every two (2) years, and report back to the municipal assembly or, if not existing, to another relevant body with oversight responsibilities on the municipal/city council/government. In particular, a new assessment of the identified priority issues against the RFA components should be carried out and compared to the baseline to see if significant progress was made. 
+Overall, the monitoring and evaluation framework should respond to the following questions:
+> To which extent is the implementation of the City RFA activities (0-2 years) following what was planned? > To which extent are resources being mobilised as expected through the formulated projects (3-5 years)? > To which extent has the City RFA been used as reference framework when plans, policies and strategies are being implemented or elaborated (e.g. in occasion of the mandatory planning cycles of the municipality)?
+> To which extent has the implementation of the RFA impacted the overall state of resiliency of the city?
+PROPOSED TABLE OF CONTENTS FOR THE CONCEPT NOTES
+A) PROJECT TITLE
+B) RATIONALE AND JUSTIFICATION
+C) PROPOSED OUTLINE OF THE BANKABLE PROJECTS’ CONCEPT NOTES
+D) OBJECTIVE
+E) EXPECTED RESULTS
+F) PLANNED ACTIVITIES
+G) OUTPUTS/DELIVERABLES 
+H) IMPLEMENTATION ARRANGEMENTS
+I) KEY PARTNERS 
+J) RISKS AND ASSUMPTIONS
+K) TIME-FRAME
+L) ESTIMATED BUDGET REQUIRED
+FIGURE 17
+Group picture in Dondo, Mozambique. Dondo Municipal Assembly formally approved the city RFA after its finalisation in March 2020. Credit: UN-Habitat.
+
+[Page 29]
+SELF-ASSESSMENT QUESTIONNAIRE
+CITYRAP TOOL
+56 | 
+SELF-ASSESSMENT 
+QUESTIONNAIRE
+
+[Page 30]
+PILLAR 1: URBAN GOVERNANCE
+Nº
+QUESTIONS
+ANSWERS
+COMMENTS
+ORGANISATIONAL 
+CAPACITY
+Does your municipal department have enough skilled staff to carry out its daily responsibilities?
+Yes, the staff has the required skills to carry out the daily responsibilities
+The majority of the staff has the required skills
+Less than half of the staff has the required skills
+The department has only few skilled staff
+Does your municipal department have staff with understanding or knowledge of issues related to climate change and/or disaster risk management?
+Yes, the staff do understand and have knowledge of issues related to climate change and/or risk management
+Yes, the department has some staff with that kind of understanding or knowledge
+Yes, the department has at least one staff with that kind of understanding or knowledge
+No, nobody in our department has this kind of understanding or knowledge
+Does your municipal department have the required equipment to carry out its work?
+Yes, the department has the required equipment to carry out its work
+The department has most of the required equipment
+The department has some of the required equipment
+The department has not enough equipment to carry out its work
+Do you feel that there is support from the municipality’s management for staff who want to enhance their skills?
+Yes, there is a strong support from management for such a purpose
+Yes, there is some support from management
+The management does not oppose to it but also does not actively encourage it
+So far, there is no policy in place by management for such a purpose 
+Is there a maintenance plan for basic services and infrastructure in the city, such as those related to water, sanitation, education, health, waste management, roads, drainage, electricity, etc.?
+Yes, there are effective mechanisms in place for ensuring a good maintenance and functioning of most basic services/infrastructure in all parts of the city
+There are effective maintenance mechanisms for most basic services and infrastructure in place in the majority of the city
+There are mechanisms in place to maintain some basic services and infrastructure but not necessarily covering the whole city
+There are almost no mechanisms in place to effectively maintain basic services and infrastructure in the city
+Does your municipality have the capacity to enforce urban legislation (e.g. urban plans, building codes, etc.)? 
+Yes, there is good capacity in the municipality to enforce urban legislation
+The municipality has moderate capacity to enforce urban legislation
+There is little enforcement capacity 
+The enforcement capacity is very weak
+PARTICIPATION & 
+CIVIL SOCIETY
+To what extent does the municipality undertake participatory planning processes where residents are consulted on their needs and ideas?
+Participatory planning is systematically undertaken; the public is frequently consulted on its needs and ideas for planning purposes 
+The public is often consulted on its needs and ideas for planning purposes
+The public is rarely consulted on its needs and ideas for planning purposes
+There is no policy in place for participatory planning
+MUNICIPAL 
+FINANCE
+In your opinion, in case of a cut in central government transfers, could the municipality ensure the delivery of its basic functions/ responsibilities solely based on local revenue?
+Yes, the municipality would be able to deliver its basic functions/ responsibilities
+Yes it could, but not for all its basic functions/ responsibilities
+Not for all its basic functions/ responsibilities, and for a very limited time 
+No, that is not possible
+How predictable are the municipal financial resources for the coming year?
+Very predictable
+Sufficiently predictable
+Not sufficiently predictable
+Unpredictable
+Do you believe your department has sufficient financial resources to carry out its tasks?
+The department’s budget is sufficient to efficiently carry out all tasks and caters for contingency reserves 
+The department’s budget is sufficient to carry out almost all necessary tasks 
+The department’s budget allows the department to carry out only the most basic tasks 
+The department’s budget is very limited and it is often not sufficient to carry out the most basic tasks
+GOVERNANCE 
+STRUCTURE
+Do you believe that the current municipal structure allows each department to effectively carry out its work?
+Yes, the current structure is good and allows each department to effectively carry out its work
+The current structure requires some improvements for effective delivery
+The current structure is not good enough for that purpose 
+No, the current structure is weak and needs major improvements
+How well is the municipality cooperating and coordinating with externals such as government, private sector, civil society, etc.?
+The municipality has established strong cooperation and coordination mechanisms with a number of external partners and institutions
+The cooperation and coordination of the municipality with externals is overall good but could be further improved
+The municipality’s cooperation and coordination with externals is not good enough
+The municipality has poor cooperation and coordination mechanisms with externals
+Do you think that coordination and cooperation among the different municipal departments is efficient? 
+Yes, mechanisms are in place to ensure efficient coordination and cooperation among the different municipal departments 
+The coordination and cooperation among the departments is overall good but could be further improved
+Coordination and cooperation mechanisms among the departments is not good enough
+The municipality has poor coordination and cooperation mechanisms among its departments
+THEMES
+Nº
+QUESTIONS
+ANSWERS
+COMMENTS
+CITYRAP TOOL
+SELF-ASSESSMENT QUESTIONNAIRE | 59
+
+[Page 31]
+PILLAR 2: URBAN PLANNING AND ENVIRONMENT
+Nº
+QUESTIONS
+ANSWERS
+COMMENTS
+PLANNING 
+INFORMATION 
+SYSTEMS
+Does your department efficiently gather information for planning purposes
+Yes, a large amount of disaggregated information is systematically being collected for planning purposes
+Yes, data is collected on various issues but not systematically and not always disaggregated (as separate data for women and men, different age groups, etc.)
+Some data is collected when specific needs for planning arise
+No, very little information for planning purposes is collected
+Does your municipal department make use of maps for planning purposes?
+Yes, maps are systematically used for planning purposes
+Yes, maps are used for most planning purposes
+Maps are occasionally used for planning purposes
+No, maps are rarely used for planning purposes
+PARTICIPATION & 
+CIVIL SOCIETY (cont.)
+Is up to date information about planning and budgeting available and accessible to city residents? 
+Yes, the city residents are regularly informed and can easily access this kind of information
+Yes, most of this information is available and accessible 
+This kind of information is available, but not easily accessible to the public 
+This kind of information is rarely available/ accessible 
+Does the municipality ensure genderbalance in decision-making processes? 
+Yes, there are mechanisms in place which ensure systematic gender-balance in decisionmaking processes
+Gender-balance is ensured most of the times in decision-making processes
+Genderbalance is only occasionally taken into consideration in these processes
+There are no specific mechanisms in place to ensure gender-balance in decisionmaking processes
+THEMES
+Nº
+QUESTIONS
+ANSWERS
+COMMENTS
+URBAN PLANNING 
+AND LAND 
+MANAGEMENT
+Do you think that existing urban plans take into consideration future city growth and identify expansion areas?
+Yes, urban growth is fully taken into account in existing urban plans
+Urban growth is mostly being taken into account in existing urban plans
+Urban growth is not enough taken into account in existing urban plans
+No, it is not taken into consideration/ urban plans do not exist
+Do you think that your department takes into account data on natural hazards and the effects of climate change in planning processes?
+Yes, data on natural hazards/effects of climate change is fully integrated into planning processes
+Yes, such data is frequently used in planning processes
+This kind of data is occasionally used in planning processes
+No, this kind of data is not available or not used for planning purposes
+Are sensitive areas (e.g. flood plains, coastline, erosion-prone areas, etc.) considered as protected (i.e. no construction allowed) in urban plans?
+Yes, all sensitive areas are considered as protected
+Most sensitive areas are identified as protected
+A few sensitive areas are considered as protected
+No, sensitive areas are not taken into account/ urban plans do not exist
+BUILDING CODES
+If you consider the quality of existing housing in your city, how vulnerable is it to natural hazards such as floods, cyclones, earthquakes, etc.?
+Not vulnerable, as housing is built to withstand natural hazards
+Moderately vulnerable
+Vulnerable
+Very vulnerable
+Are building codes designed to address the most probable and most severe risks that the city is exposed to?
+Yes, building codes take into account all probable risks that the city is exposed to
+Yes, building codes take into account most of the risks 
+Building codes take into account some risks 
+Building codes do not sufficiently take into account the risks 
+Do existing building codes take into account ecofriendly techniques and/or the use of local/renewable material? 
+Yes, building codes take the use of eco-friendly techniques and/or local/ renewable materials fully into account
+Yes, building codes mostly mention these aspects
+Building codes do not sufficiently mention these aspects
+Building codes do not take into account these aspects
+PUBLIC SPACES
+Do you think that the city has enough public spaces to ensure adequate quality of life, circulation of people and vehicles, access to services and recreational activities, etc.?
+Yes, the city has sufficient public spaces
+The city has public spaces but there should be some more to ensure adequate quality of life, etc.
+The city has few public spaces and major efforts are needed to improve the situation
+The city has almost no public spaces
+URBAN PLANNING 
+AND LAND 
+MANAGEMENT (cont.)
+How effectively are urban plans implemented in your city?
+All plans are effectively implemented
+Most urban plans are effectively implemented
+Only some plans are implemented
+Urban plans are poorly implemented/ urban plans are not existing
+THEMES
+Nº
+QUESTIONS
+ANSWERS
+COMMENTS
+CITYRAP TOOL
+SELF-ASSESSMENT QUESTIONNAIRE | 61
+60 | 
+FIGURE 18
+There are severe consequences to people when urban planning does not take into account the geographical conditions and topography to allocate plots. 
+Fatalities are prevented by a plot demarcation that respects the geographical conditions. Risk areas transformed to recreational places (i.e. public spaces) add value to plots. Credit: Eduardo Feuerhake
+
+[Page 32]
+PUBLIC SPACES 
+Do you think existing public spaces in the city are spatially well-distributed so citizens have equal access to them?
+Yes, sufficient public spaces are present in all neighbourhoods in a balanced way
+Public spaces are available in most of the neighbourhoods, but they are lacking in some informal areas
+Some public spaces are available in the city, but only in formal/ urbanised neighbourhoods
+The only public spaces available are located in the city centre
+Are existing public spaces adequately maintained?
+Yes, maintenance is carried out regularly in all public spaces
+Maintenance of public spaces is carried out with most of the times
+Maintenance of public spaces is occasional and concerns only in some areas
+There is almost no maintenance of existing public spaces in the city
+INFORMAL 
+SETTLEMENTS
+In your estimation, what is the proportion of population living in informal settlements in your city?
+Less than 25%
+Between 25% and 50%
+Between 50 and 
+75%
+More than 75%
+Does upgrading of informal settlements result in security of tenure? 
+Yes, once informal settlements are upgraded, all residents get a land title/ leasehold
+Yes, once informal settlements are upgraded, the majority of the residents get a land title/ leasehold
+Once informal settlements are upgraded, only a few residents get a land title/ leasehold
+There is no in situ upgrading of informal settlements in the city, only urban renewal activities that push away the urban poor
+How efficient are the strategies and/or activities undertaken by the municipality for preventing the formation of new informal settlements?
+Strategies and activities are rather efficient and have effectively prevented the formation of new informal settlements
+Strategies and activities in place are moderately efficient as new informal settlements are still forming, although at a slower pace than before
+Strategies and activities are not efficient enough, as informal settlements are continuously forming at a fast pace
+There are no such strategies/ activities in place
+THEMES
+Nº
+QUESTIONS
+ANSWERS
+COMMENTS
+THEMES
+Nº
+QUESTIONS
+ANSWERS
+COMMENTS
+ENVIRONMENTAL 
+MANAGEMENT
+Is the municipality undertaking any efforts for greening the city?
+Yes, the municipality undertakes greening activities (such as planting trees, creating or maintaining green space, etc.) throughout the city
+Yes, the municipality undertakes some greening activities in specific areas of the city
+The municipality undertakes few greening activities
+The municipality does not undertake any greening activities
+To your knowledge, is the municipality implementing activities and/ or projects to preserve natural resources?
+Yes, the municipality has a long-term strategy and implements multiple projects/ activities to preserve natural resources
+Yes, the municipality has some activities for the preservation of natural resources
+The municipality only occasionally engages in such initiatives
+There are no such initiatives
+INFORMAL 
+SETTLEMENTS (cont.)
+In your estimation, how vulnerable are informal settlements to natural hazards due to their specific location?
+Informal settlements in the city are not exposed to natural hazards
+Only few informal settlements are located in areas exposed to natural hazards
+Most of the informal settlements are located in areas exposed to natural hazards
+All informal settlements are located in areas exposed to natural hazards
+How efficient are the strategies and/or activities undertaken by the municipality for upgrading informal settlements?
+Upgrading strategies/ activities are efficient as they have substantially improved the living conditions in informal settlements, especially in terms of access to basic services/ infrastructure and security of tenure
+Strategies and activities are moderately efficient
+Strategies and activities are not efficient enough to substantially improve the life of slum dwellers
+There are no such strategies/ activities in place
+FIGURE 20
+Upgrading informal settlements is an important contribution to city resilience.
+UN-Habitat defines informal settlements as: i) Residential areas where a group of housing units has been constructed on land to which the occupants have no legal claim, or which they occupy illegally; ii) 
+Unplanned settlements and areas where housing is not in compliance with current planning and building regulations (unauthorized housing).
+CITYRAP TOOL
+SELF-ASSESSMENT QUESTIONNAIRE | 63
+62 | 
+FIGURE 19
+A city can tackle inequality through the provision of inclusive, safe and accessible public spaces. Streets and public spaces are important drivers of economic development; they revitalize urban areas and increase land and properties values. Credit: Eduardo Feuerhake
+
+[Page 33]
+PILLAR 3: RESILIENT INFRASTRUCTURE AND BASIC SERVICES
+Nº
+QUESTIONS
+ANSWERS
+COMMENTS
+HEALTH AND 
+EDUCATION 
+FACILITIES
+Do health and education facilities in the city have enough qualified personnel?
+Yes, all health and education facilities have enough qualified personnel
+The majority of the health and education facilities have enough qualified personnel
+Few health and education facilities have enough qualified personnel
+Most of the health and education facilities do not have enough qualified personnel
+Are health and education facilities designed according to the principles of adaptive architecture, and as such adequately built and prepared to withstand the impacts of natural hazards (flood, cyclone, earthquake, etc.)?
+Yes, all of them are designed according to principles of adaptive architecture
+Most of them are designed according to principles of adaptive architecture
+Few of them are designed according to principles of adaptive architecture
+There is almost no consideration of the principles of adaptive architecture in the design of these facilities
+Are health and education facilities strategically used as safe havens in case of a natural hazard?
+Yes, these facilities are used as safe havens in case of a natural hazard, as part of existing disaster risk management strategies 
+Some of these facilities are used as safe havens, but there is room for improvement
+Very few facilities are used as safe havens 
+There is still no strategy in place for using these facilities as safe havens in case of a natural hazard
+Do you think health and education facilities are organised to ensure continuity of their services in case of a disaster?
+Yes, there are contingency mechanisms in place which efficiently ensure the continuity of their functions in case of an emergency
+There are some mechanisms in place to that effect, but they do not always work effectively in case of a disaster
+There are very few facilities which would be able to continue functioning in case of a disaster
+There are still no mechanisms in place to that effect in the city
+FIGURE 21 A, B
+Infrastructure of education. Elevated school construction protects from flooding. Reinforced school roofs protect from cyclones.
+WATER, DRAINAGE 
+AND SANITATION
+To your knowledge, are there enough water storage facilities which are safe in case of an emergency?
+Yes, there are enough water storage facilities to withstand the period of a flood or drought, and they are safely located (e.g. elevated, withstanding strong storms, etc.)
+There are some water storage facilities that provide the majority of the population with drinking water and that are safe in case of an emergency
+There are few safe water storage facilities in the city
+There are almost no safe water storage facilities in case of an emergency
+To your knowledge, are existing drainage and sanitation facilities (drainage channels, latrines, toilets, wastewater management facilities, sewerage system, etc.) adequately designed to withstand heavy rains or flooding?
+Yes, most of the city is equipped with drainage and sanitation facilities that were designed for such a purpose, and they work well in case of heavy rains or flooding
+There are some neighbourhoods of the city that are equipped with such drainage and sanitation facilities, and they work reasonably well in case of heavy rains or flooding
+There are few neighbourhoods of the city that are equipped with such drainage and sanitation facilities, but they cannot withstand heavy rains or flooding
+There are almost no drainage and sanitation facilities designed for such a purpose in the city
+Are there tax collection mechanisms in place in your city to finance basic services delivery (water, sanitation, solid waste management, etc.) and drainage/road maintenance? 
+Yes, there are effective tax collection mechanisms in place to adequately finance basic services delivery and drainage/road maintenance in most parts of the city
+There are tax collection mechanisms in place which enable basic services delivery and drainage/road maintenance in some parts of the city
+There are tax collection mechanisms in place but these only enable basic services delivery and drainage/road maintenance in one or two neighbourhoods of the city
+There are no effective tax collection mechanisms in place for this purpose in the city
+THEMES
+Nº
+QUESTIONS
+ANSWERS
+COMMENTS
+WASTE 
+MANAGEMENT
+Do you think the solid waste disposal site of the city is well located, adequately designed and effectively managed?
+Yes, the solid waste disposal site is well location, adequately designed and effectively managed, with minimal pollution impact
+Yes, the solid waste disposal site is well location and adequately designed but it could be better managed
+Yes, the solid waste disposal site is well located but there are air/ water pollution impacts due to poor design and management
+No, the solid waste disposal site is neither well located, nor adequately designed (e.g. affected by floods in case of rain, located in the middle of the city, etc.), nor effectively managed
+Is recycling part of waste management activities in your city?
+Yes, the city has proper waste recycling mechanisms in place benefiting all neighbourhoods
+Yes, there are some recycling mechanisms in place benefiting the majority of the neighbourhoods
+Waste recycling only benefits few parts of the city
+No, waste recycling mechanisms are not yet in place in the city
+ENERGY
+How often do you experience power cuts?
+No more than once a month
+Less than 5 times per month
+At least twice a week 
+Almost every day 
+CITYRAP TOOL
+SELF-ASSESSMENT QUESTIONNAIRE | 65
+
+[Page 34]
+QUESTIONS
+ANSWERS
+COMMENTS
+ENERGY (cont.)
+Does the city have contingency mechanisms in place in case of major disruption of energy supply?
+Yes, energy can always and promptly be reestablished in case of a disruption
+Yes, there are some mechanisms in place and energy supply can generally be re-established within a short period of time
+Yes, there are mechanisms in place but in general power cuts can last for several hours
+The mechanisms in place are not reliable
+TRANSPORT AND 
+COMMUNICATION
+In your estimation, what proportion of city residents has access to radio or TV on a daily basis?
+More than 75%
+Between 50% and 75%
+Less than 50%
+Less than 25%
+In your estimation, what proportion of city residents has access to a telephone (either through a land line or mobile phone)?
+More than 75%
+Between 50% and 75%
+Less than 50%
+Less than 25%
+In your estimation, what proportion of city residents has access to the internet?
+More than 75%
+Between 50% and 75%
+Less than 50%
+Less than 25%
+TRANSPORT AND 
+COMMUNICATION (cont.)
+How would you qualify traffic flow in critical areas of the city?
+Smooth, even during peak hours
+Moderately heavy during peak hours
+Heavy, especially during peak hours
+Very heavy at day time
+Are existing roads in the city welldesigned and flood proof? 
+Yes, almost all the roads of the city are welldesigned and can withstand heavy rains and floods
+Yes, the majority of the roads of the city are welldesigned and flood proof
+Only some roads of the city can withstand heavy rains and floods
+The city has no roads that are designed to withstand heavy rains and floods
+Does the city have a well-functioning public transport system?
+Yes, there is a well-functioning, frequent and affordable public transport system covering the whole city 
+Yes, there is a well-functioning public transport system covering most of the city
+Yes, but such a system only covers few neighbourhoods
+No, the public transport system in place does not work well or is totally insufficient
+THEMES
+Nº
+QUESTIONS
+ANSWERS
+COMMENTS
+PILLAR 4: URBAN ECONOMY AND SOCIETY
+THEMES
+Nº
+QUESTIONS
+ANSWERS
+COMMENTS
+URBAN ECONOMY
+Is the municipality supporting small and medium enterprises (SMEs) and microcredit mechanisms (i.e. the provision of small loans or microloans)?
+Yes, there are several initiatives promoted by the municipality to support SMEs and microcredit mechanisms, targeting also women, the youth and the elderly
+Yes, the municipality supports some 
+SMEs and microcredit mechanisms but there is room for improvement
+The municipalities has developed a strategy for supporting SMEs and microcredit mechanisms but it is not yet being implemented
+There are no such strategies/ initiatives in place yet
+Is there a municipal strategy to create job opportunities and market activities?
+Yes, there is a municipal strategy for creating job opportunities and market activities that works well and takes into account the specific needs of youth, elderly and women.
+Yes, there is such a strategy in place and some initiatives are being promoted by the municipality but it is not yet working so well
+There are few initiatives being promoted by the municipality for such a purpose, but without significant results so far
+No, there is no such a municipal strategy in place, nor initiatives of this kind being promoted by the municipality
+How diversified is the economy of your city in terms of actors and sectors? 
+The city’s economy is highly diversified, involving several actors and sectors such as agriculture, industry and services, and citizens have several possible sources of livelihood
+The city’s economy is diversified, but more could be done to improve the overall situation 
+There are very few economic sectors in the city, and this generates some problems in terms of livelihood of the citizens
+A single sector dominates the economy of the city, which reduces the possible sources of livelihood of the citizens
+CITYRAP TOOL
+SELF-ASSESSMENT QUESTIONNAIRE | 67
+66 | 
+FIGURE 22 (above)
+Solid waste and infrastructure. The quality of roads is the key for solid waste management. Organized service provision like waste collection is crucial for a function urban system.
+FIGURE 23 (left)
+Clean drainage system to avoid floods. Often drains are not maintained and become waste disposals. The system will not be able to evacuate rainwater if waste dumping is blocking natural drain pattern, hence, generating a disaster. Credit of all illustrations: Eduardo Feuerhake
+
+[Page 35]
+QUESTIONS
+ANSWERS
+COMMENTS
+URBAN SAFETY
+Which statement best describes the situation of your city in relation to crime and safety? 
+In general, people feel safe in the city at all times
+There are isolated pockets of crime in the city and action is being taken to mitigate such risks
+Several neighbourhoods can be characterised as unsafe due to crime
+The city is overall unsafe and dangerous and crime is high
+Do you think that the municipality is doing enough to keep public spaces safe (including road safety)?
+Yes, safety issues are fully taken into account by the municipality and public spaces are safe, with due consideration of women, children and minorities 
+Yes, safety is taken into account by the municipality, and the majority of the city’s public spaces can be considered as safe
+The municipality is not yet taking this aspect sufficiently into account; as a result, some crime incidents are reported in public spaces and road accidents occur regularly
+The majority of the city’s public spaces are unsafe, and there are many roads accidents in the city
+How would you describe the police presence (including community policing) in your city?
+Generally, police force is present at all times in all parts of the city
+Police force is present in most parts of the city but not at all times
+Overall, the police presence is not sufficient to ensure adequate security in the city
+The police presence in the city is very weak
+URBAN SAFETY (cont.)
+What is being done in your city to prevent sexual violence? 
+There is a municipal strategy in place to prevent sexual violence in the city, which is effectively being implemented through various measures (e.g. awareness raising campaigns, hotlines, specific trainings, sensitive urban planning to safety issues, etc.)
+There are some measures in place for such a purpose, but improvements are still required for ensuring their effective implementation
+There are few measures in place for such a purpose, and most of the times they are not carried out effectively
+Overall, very little is being done for such a purpose, and cases of sexual violence occur often
+FOOD SECURITY
+How would you characterise access to food in your city? 
+Food is available and affordable for all, and there are effective food storage/supply mechanisms in place in case of a disaster/crisis
+Overall, food is available and is affordable for the majority of the citizens, but there are no mechanisms in place in case of a disaster/crisis
+Overall, food is available, but it is not affordable for the majority of the citizens
+There are food shortages in the city, with frequent peaks in prices for some items
+What is being done in the city to improve access to food for all?
+A lot is being done to secure access to food in the city, e.g., by facilitating transport of food from the surroundings to the city and promoting periurban agriculture (i.e. in places on the fringes of urban areas)
+Some initiatives are being carried out but more needs to be done to improve access to food for all citizens
+Very few initiatives are being carried out for improving access to food in the city
+Nothing significant is currently being done for improving access to food in the city 
+THEMES
+Nº
+QUESTIONS
+ANSWERS
+COMMENTS
+PUBLIC HEALTH
+Does your city have a public health strategy?
+Yes, the city has comprehensive public health strategy that includes health education, disease prevention and access to treatment, including for the most vulnerable
+Yes, the city has a public health strategy in place, but it is not yet being fully implemented
+No, the city has no such a strategy in place, but some efforts are being made to improve public health
+No, the city has no such a strategy in place, and very few activities are being carried out to improve public health
+Is the municipality carrying out awareness raising activities on epidemics that can spread quickly in an urban environment (e.g. 
+HIV/AIDS, Ebola, 
+Yellow Fever, etc.)?
+Yes, the municipality carries out frequent awareness raising activities to prevent disease outbreaks in all neighbourhoods
+Yes, the municipality carries out some awareness raising activities on epidemics in most parts of the city
+The municipality carries out this kind of activities occasionally, especially once epidemics break out
+The municipality generally does not carry out this kind of activities
+CITYRAP TOOL
+SELF-ASSESSMENT QUESTIONNAIRE | 69
+68 | 
+FIGURE 24
+A diversified economy is the basis for a city resilience to shocks and stresses. Different economic outputs provide cities with the ability for sustainable growth because there is no reliance on one type of income only. Credit: Eduardo Feuerhake
+FIGURE 25
+Security situation marked in a neighbourhood of Antananarivo, 
+Madagascar. Police station, bars, street lightening, drug consuming areas and other concern zones are marked. Community safety is a human right that determines well being.
+
+[Page 36]
+PILLAR 5: URBAN DISASTER RISK MANAGEMENT
+Nº
+QUESTIONS
+ANSWERS
+COMMENTS
+RISK AWARENESS 
+AND KNOWLEDGE
+In your opinion, how aware are residents of your city of the natural hazards and risks they are exposed to?
+All residents are well aware of the risks they are exposed to
+The majority of residents are aware of the risks they are exposed to, but the level of awareness could be improved
+The majority of residents are not aware of the risks they are exposed to
+Only few residents are aware of the risks they are exposed to
+Are there any campaigns and activities in your city that inform and educate about disasters and the impact of climate change?
+Yes, the municipality has a strategy in place and carries out regular awareness raising activities that ensures residents are informed and educated about disasters and climate change impact
+Yes, the municipality has a strategy and carries out some activities in the city for increasing disaster/climate change impact awareness, but not regularly
+The municipality carries out only occasionally activities for increasing disaster/ climate change impact awareness
+Generally, the municipality does not carry out activities for increasing disaster/ climate change impact awareness
+Does your municipality make use of vulnerability and risk assessments for city management and planning purposes?
+Yes, the municipality regularly undertakes vulnerability and risk assessments, which are systematically used for city management and planning 
+The municipality undertakes some vulnerability and risk assessments that are used for city management and planning, but improvements are required
+In general, the municipality has little access to vulnerability and risk assessments, and only occasionally uses such information for city management a6nd planning purposes
+The municipality has no access to vulnerability and risk assessments concerning the city
+Is municipal staff trained in disaster risk management?
+Yes, all municipal staff is well trained and prepared to manage disaster risks
+Most municipal staff has received training for disaster risk management
+Only some municipal staff has received training for disaster risk management
+Very few/no municipal staff has received training for disaster risk management 
+PREPAREDNESS 
+AND RESPONSE
+How well do early warning systems work in the city?
+Early warning systems function very well and effectively reduce disaster risk
+Early warning systems function well but could be improved 
+Early warning systems are not working well
+There are no early warning systems in place
+How efficient are the coordination mechanisms of your municipality with other government institutions in preparing for and responding to disasters?
+Coordination mechanisms are very efficient and increase disaster preparedness and response capacities
+Coordination mechanisms are operational but could be improved
+Coordination mechanisms in place rarely lead to effective results in terms of disaster preparedness/ response
+There are no coordination mechanisms in place for such purposes
+Does your municipality have a contingency plan that defines the role of each department and is efficiently implemented in times of disaster?
+Yes, the municipality has good contingency planning mechanisms in place, which clearly define the role of each department and are efficiently implemented in times of disaster
+Yes, the municipality has a contingency plan in place, but experience shows that its implementation in times of disaster could be improved
+The municipality has some kind of contingency planning mechanisms in place, but implementation has not been effective so far
+The municipality has no contingency planning mechanisms in place
+THEMES
+Nº
+QUESTIONS
+ANSWERS
+COMMENTS
+RECOVERY AND 
+RECONSTRUCTION
+How capable is your city to reestablish basic service delivery in the aftermath of a disaster?
+The municipality is well organised and is capable to ensure a prompt re-establishment of basic services delivery following a disaster in all neighbourhoods
+Reestablishment of basic services delivery can be ensured in the majority of neighbourhoods and within a reasonable time after a disaster
+The municipality is capable of re-establishing critical basic services delivery only in few neighbourhoods within a reasonable time
+In general, the reestablishment of basic services delivery in the city can take long periods of time after a disaster
+To what extent is the municipal staff familiar with the building back better approach (i.e. to rebuild damaged infrastructure or construction in an improved way after a disaster, so that it can better resist/ withstand the next event)?
+All relevant municipal staff has been adequately trained and is capable of applying the building back better approach when needed
+Some of the relevant municipal staff has knowledge and skills regarding the building back better approach
+Only few of the relevant municipal staff has some knowledge about the building back better approach, but no practical skills for applying it
+In general, none of the municipal staff is familiar with the building back better approach
+CITYRAP TOOL
+SELF-ASSESSMENT QUESTIONNAIRE | 71
+70 | 
+FIGURE 26 A, B
+Flood marks help to keep the memory of the floods alive. Credit: Eduardo Feuerhake
+
+[Page 37]
+FIGURE 27 A, B (Left) Early Warning Systems enable people, communities and organizations to act properly to reduce the impact of disasters. (Right) Elevated and visible safe havens allow people to be better prepared in case of an emergency such as flooding. Credit: Eduardo Feuerhake.
+PREVENTION
+Does your municipality enforce any regulation (e.g. zoning law) that prevents the construction of housing and infrastructure in areas exposed to hazards?
+Yes, the municipality is capable to enforce regulations that prevent constructions in all areas demarcated as vulnerable
+The municipality is only capable of partially enforcing regulations that prevent constructions in vulnerable areas 
+The municipality has very little capacity to enforce regulations that prevent constructions in vulnerable areas 
+The municipality has no capacity to prevent constructions in vulnerable areas
+Does your city have protective infrastructure (e.g. dams, seawalls, avalanche barriers, etc.) in place that can prevent exposure to disasters? 
+Yes, the city has enough and well-maintained protective infrastructure in place that prevents the exposure to disasters
+Yes, the city has some protective infrastructure in place but there could be more/ better maintenance of the same
+The city has little protective infrastructure and/or it is poorly maintained 
+The city does not have protective infrastructure in place to prevent the exposure to disasters
+ADAPTATION
+Does your municipality promote built or non-built adaptation solutions (e.g. adaptive architecture, risk sensitive planning, etc.) that improve the capacity to cope with the effects of climate change? 
+Yes, the municipality mainstreams various adaptation solutions into all sectors of urban planning and management
+Yes, the municipality promotes some climate change adaptation solutions in relevant sectors
+The municipality has piloted very few climate change adaptation solutions
+The municipality has not yet included climate change adaptation into its policies/ plans
+MITIGATION
+To your knowledge, is the municipality doing enough to reduce carbon emissions?
+Yes, reduction of carbon emission is a priority and various measures are being implemented (e.g. LED lighting, carbon tax, vehicle inspections, industrial regulations, etc.)
+The city implements some measures to reduce carbon emission, with various degrees of success
+The city implements few measures to reduce carbon emission, and they are generally not very successful
+The city has no strategies in place to reduce carbon emissions
+THEMES
+Nº
+QUESTIONS
+ANSWERS
+COMMENTS
+CITYRAP TOOL
+SELF-ASSESSMENT QUESTIONNAIRE | 73
+72 | 
+GLOSSARY
+ADAPTIVE ARCHITECTURE
+Adaptive Architecture is a multi-disciplinary field concerned with buildings that are specifically designed to adapt to their environments, their inhabitants and objects as well as those buildings that are entirely driven by internal data.
+BUILDING CODES
+Building codes are a collection of regulations adopted by a city to govern the construction of buildings. This includes regulations concerning materials, structural design, construction practices, safety, building services (lighting, ventilation, electricity, heating/air conditioning, escalators, plumbing, water supply, drainage and so forth) and specifications for appropriate administrative and technical control. Building codes set forth standards and requirements for construction, maintenance, and occupancy of buildings in the interest of health, safety, and welfare of the public.
+COORDINATION MECHANISMS
+Concerns the effective communication and administration among various government departments and other stakeholders to design or implement policies or concrete measures. On the implementation level, a coordination mechanism could define the flow of information among the different governmental layers in order to define steering structures for a certain program or review its effectiveness. 
+The coordination mechanism also facilitates the distribution of funding and financing among the different governmental levels to implement measures. Coordination mechanisms are the processes by which the viewpoints of multiple decision makers are aggregated to address collective choice problems. 
+CONTINGENCY MECHANISMS
+A contingency plan is a course of action designed to help an organization respond effectively to a significant future event or situation that may or may not happen. It ensures continuity of their services in case of a disaster or event. 
+The need for drawing up contingency plans emerges from a thorough analysis of the risks that the city faces. It’s also useful in thinking about new and ongoing projects: what happens when ‘Plan A’ doesn’t go as expected?
+DISAGGREGATED INFORMATION
+Disaggregated data refers to numerical or non-numerical information that has been (1) collected from multiple sources and/or on multiple measures, variables, or individuals; (2) compiled into aggregate data—i.e., summaries of data— typically for the purposes of public reporting or statistical analysis; and then (3) broken down in component parts or smaller units of data to a more detailed level to that at which detailed observations are taken.
+DISASTER RISK
+Disaster risk is expressed as the likelihood of loss of life, injury or destruction and damage from a disaster in a given period of time. Disaster risk is widely recognized as the consequence of the interaction between a hazard and the characteristics that make people and places vulnerable and exposed.
+EARLY WARNING SYSTEMS
+An early warning system (EWS) is technology and associated policies and procedures designed to predict and mitigate the harm of natural and human-initiated disasters and other undesirable events. Early warning systems for natural hazards include those designed  for floods, earthquakes, avalanches, tsunamis, tornadoes, landslides and drought. 
+Other systems exist for a variety of events including missile launches, road conditions and disease outbreaks. 
+ENVIRONMENTALLY SENSITIVE AREA (ESA)
+Environmentally sensitive areas are places that have special environmental attributes worthy of retention or special care. These areas are critical to the maintenance of productive and diverse plant and wildlife populations. 
+Examples include rare ecosystems (such as the Garry oak and associated ecosystems found in southwestern British 
+Columbia), habitats for species at risk (such as sagebrush grasslands) and areas that are easily disturbed by human activities (such as moss-covered rocky outcrops). Some of these environmentally sensitive areas are home to species which are nationally or provincially significant, others are important in a more local context. They range in size from small patches to extensive landscape features, and can include rare and common habitats, plants and animals.
+GENDER BALANCE
+Gender balance is commonly used in reference to human resources and equal participation of women and men in all areas of work, projects or programs. In a scenario of gender equality, women and men are expected to participate proportionally to their share of the population. In many areas, however, women participate less than what would be expected based on the sex distribution in the population (underrepresentation of women), while men participate more than expected (overrepresentation of men).
+GREENING ACTIVITIES
+Greening activities in urban areas includes cities striving to lessen their environmental impacts by reducing waste, expanding recycling, lowering emissions, increasing housing density while expanding open space, and encouraging the development of sustainable local businesses. 
+Urban greening activities usually include creation and maintenance of green space, such as parks; planting and care of trees; and the creation of green infrastructure such as rain gardens and green roofs.
+
+[Page 38]
+CITYRAP TOOL
+74 | 
+INFILL DEVELOPMENT
+Infill development is the process of developing vacant or underutilized lands within existing urban areas that are already largely developed. Most communities have significant vacant land within city limits, which, for various reasons, has been passed over in the normal course of urbanization. Ideally, infill development involves more than the piecemeal development of individual lots. Instead, a successful infill development program should focus on the job of crafting complete, well-functioning neighbourhoods. 
+Infill development is critical to accommodating growth and redesigning cities to be environmentally and socially sustainable.
+MICROCREDIT MECHANISMS
+Systems and processes that are in place to ensure the availability and provision of microcredit to those that need it. Microcredit is the extension of very small loans (microloans) to impoverished borrowers who typically lack collateral, steady employment and a verifiable credit history/ those who cannot qualify for loans from traditional financial institutions. It is designed not only to support entrepreneurship and alleviate poverty. Many borrowers are illiterate, and therefore unable to complete paperwork required to get conventional loans.
+NATURAL HAZARDS
+Natural hazards are naturally occurring physical phenomena caused either by rapid or slow onset events which can be geophysical (earthquakes, landslides, tsunamis and volcanic activity), hydrological (avalanches and floods), climatological (extreme temperatures, drought and wildfires), meteorological (cyclones and storms/wave surges) or biological (disease epidemics and insect/animal plagues).
+PERI-URBAN AGRICULTURE
+Peri-urban agriculture is generally defined as agriculture undertaken in places on the fringes of urban areas. There is no universally agreed definition, and usage of the term generally depends on context and operational variables. 
+The Food and Agriculture Organization of the United 
+Nations defines peri-urban agriculture as “agriculture practices within and around cities which compete for resources (land, water, energy, labour) that could also serve other purposes to satisfy the requirements of the urban population.” The term “peri-urban” used to describe agriculture, while difficult to define in terms of geography, population density, percentage of labour force in agriculture, or any other variable, often serves the purpose of indicating areas along the urban-rural continuum. These are places with dynamic landscape and social change and are often invoked in conversations about growth of cities.
+PUBLIC SPACE
+A public space is a social space that is generally open and accessible to people. Roads (including the pavement), public squares, parks and beaches are typically considered public space. To a limited extent, government buildings which are open to the public, such as public libraries are public spaces, although they tend to have restricted areas and greater limits upon use. Although not considered public space, privately owned buildings or property visible from sidewalks and public thoroughfares may affect the public visual landscape, for example, by outdoor advertising.
+SECURITY OF TENURE
+Legal protection afforded to tenants of dwelling houses (usually under a rent act) against arbitrary rent increases and landlord’s attempts to repossess the property through eviction after informal settlements are upgraded. The tenant of the property holds the right to occupy it after upgrading unless a court should order otherwise.
+URBAN LEGISLATION
+Urban law is the collection of policies, laws, decisions, and practices that govern the management and development of the urban environment.
+VULNERABILITY AND RISK ASSESSMENT 
+Vulnerability and Risk Assessment (VRA) develops a holistic, landscape-wide understanding of vulnerability and links up actors across various levels of governance to jointly identify hazards and risks and analyse root causes of vulnerabilities for distinct social groups and the environment. Later, VRA’s design programs and risk reduction initiatives accordingly, ensuring that they are equitable, gender-sensitive and effective.
+ZONING LAW
+Land use and zoning law is the regulation of the use and development of public and private real estate. Zoning is the most common form of land-use regulation, used by municipalities to control local property development. 
+Zoning regulations typically divide a municipality (such as a city) into residential, commercial, and industrial zones. 
+Thus, zoning laws are intended to maintain a level of order and efficiency within a municipality, while keeping each zone optimized for its intended purpose. For example, zoning laws reassure home owners that a factory or department store will not open across the street. Zoning laws also regulate specific requirements for the types of buildings allowed in each zone (height restrictions, etc.), location of utility lines, parking requirements.

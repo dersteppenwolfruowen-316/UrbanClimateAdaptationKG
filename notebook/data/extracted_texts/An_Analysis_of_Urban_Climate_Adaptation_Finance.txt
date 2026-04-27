@@ -1,0 +1,962 @@
+[Page 1]
+An Analysis of Urban Climate Adaptation Finance
+A Report from the Cities Climate Finance Leadership Alliance
+February 2021
+
+[Page 2]
+Morgan Richmond, Nidhi Upadhyaya, Angela Ortega Pastor
+ACKNOWLEDGMENTS
+The authors wish to thank the following for their cooperation and valued contributions, including, in alphabetical order, Atta Oraee, Barbara Buchner, Baysa Naran, Bella 
+Tonkonogy, Jorge Gastelumendi, Priscilla Negreiros, and Valerie Furio. Thanks also to 
+Angela Woodall, Caroline Dreyer, and Elysha Davila (CPI) for their editing, layout, and graphics.
+The authors of this report would like to acknowledge the following partners and professionals for their valuable insights and inputs: James Alexander and Kamleshan 
+Pillay (C40), Stacy Swann (Climate Finance Advisors), Amit Prothi (Global Resilient 
+Cities Network), Maria Camila Uribe (Inter-American Development Bank), Craig Davies (European Bank for Reconstruction and Development), Marc Forni (World Bank), and 
+Joyce Coffee (Climate Resilience Consulting).
+CONTACT
+Alliance Secretariat secretariat@citiesclimatefinance.org 
+DESCRIPTORS
+SECTOR
+Climate Finance
+REGION
+Global
+KEYWORDS
+Climate Finance Flows, Private Finance, Adaptation Finance, Tracking, 
+Urban Climate Finance, City
+RELATED CPI REPORTS
+The Global Landscape of Climate Finance 2019, Understanding and Increasing 
+Finance for Climate Adaptation in Developing Countries, Global Commission on 
+Adaptation Background Paper: A snapshot of global adaptation investment and tracking methods a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. For commercial use, please contact adminsf@cpiglobal.org.
+
+[Page 3]
+ABOUT THE CITIES CLIMATE FINANCE 
+LEADERSHIP ALLIANCE
+The Cities Climate Finance Leadership Alliance (the Alliance) is a coalition of leaders committed to deploying finance for city level climate action at scale by 2030. It is the multi-level and multi-stakeholder coalition aimed at closing the investment gap for urban subnational climate projects and infrastructure worldwide. Climate Policy Initiative (CPI) serves as Secretariat for the Alliance. Funding for the Alliance’s activities is jointly made available through two German government ministries: The Federal Ministry for Economic 
+Cooperation and Development (BMZ) and the Federal Ministry for the Environment, 
+Nature Conservation, and Nuclear Safety (BMU).
+ABOUT THE ADRIENNE ARSHT-ROCKEFELLER 
+FOUNDATION RESILIENCE CENTER
+The Adrienne Arsht-Rockefeller Foundation Resilience Center will reach one billion people with resilience solutions to climate change, migration and human security challenges by 2030. We focus our efforts on people, communities, governments, and institutions to help them better prepare for, navigate and recover from the multiple shocks and stressors people all over the world face every day.
+Secretariat
+
+[Page 4]
+AN ANALYSIS OF URBAN CLIMATE ADAPTATION FINANCE
+Introduction
+Section 1: Adaptation finance needs and approaches in cities
+Context of climate hazards in cities
+Cities have specific financing challenges 
+Urban adaptation finance in practice
+Section 2: Existing and new approaches to urban adaptation finance tracking
+Methodological approach
+Defining urban adaptation
+Applying the definition of ‘adaptation’
+Applying the definition of ‘urban’
+Tagging urban adaptation activities
+Introduction to data sources – overview and challenges
+Data findings
+Overall flows of finance
+Sectoral recipients of finance
+Destinations of finance
+Financing sources and types
+Conclusions and next steps in the data
+Section 3: Conclusion and moving forward
+Conclusions
+Next steps
+Improving tracking of urban adaptation finance
+Increasing financing to urban adaptation
+References
+Annex
+1. Activity taxonomy and related keywords
+2. Data methodology: adaptation finance definition application 
+3. CDP cities project examples
+4. The urban adaptation finance gap
+
+[Page 5]
+AN ANALYSIS OF URBAN CLIMATE ADAPTATION FINANCE
+INTRODUCTION
+Cities and urban communities are highly vulnerable to climate change risks. The IPCC warns that projected climate change will result in significant urban climate risks including amplified heat waves, extreme weather volatility, floods, droughts, coastal inundation, and an increase in vector borne diseases (IPCC, 2014). CDP data indicates that in 2018, 
+85% of cities reported major climate-related disruptions, including flash and surface flooding and extreme weather events like heat waves and droughts (CDP, 2019). 
+Cities also face chronic risks that are exacerbated by climate change, including increased risk of disease spread and potential for significant population shifts as internal migration drives rural populations facing climate-related economic shocks into cities in search of economic opportunities. The World Bank estimates that 143 million people could be forced to internally migrate by 2050 due to climate hazards. Many climate migrants will move to cities where real or perceived economic opportunities exist alongside climate risk (World Bank, 2018).
+While many cities have begun enacting policies and programs to build resilience towards climate hazards, there are numerous barriers to financing urban adaptation activities, and little is known about how and where finance for those activities is flowing. 
+Since 2011, Climate Policy Initiative (CPI) has tracked available data on global climate finance in its flagship publication, the Global Landscape of Climate Finance1.
+Despite the critical importance of adaptation finance tracking for policy makers and capital markets, there are significant data and reporting challenges which limit the capture of global adaptation finance flows. The same challenges – context dependency, a lack of measurement standards, confidentiality requirements, and uncertain causal links2 – persist in urban adaptation finance tracking and an additional set of challenges emerge related to defining geographic and jurisdictional boundaries.
+This analysis aims to assess the state of urban climate adaptation finance and to prototype analysis methods to address current data and methodology limitations. The purpose of high-quality urban adaptation finance tracking is to identify gaps and barriers to financing resilience solutions in global urban areas and to drive action by investors, cities, national governments, and other stakeholders to increase urban adaptation finance. The objective of this study within that context is to:
+1. Estimate the overall size of primary financial flows to urban climate adaptation, the geographic and sectoral focus of those flows, and the types of sources and instruments employed, to the extent possible given information constraints.
+2. Advance the methodology for tracking urban adaptation finance by proposing new data sources, a taxonomy with sector specific inclusion rules, and discussing impact 
+1 2019 Global Landscape of Climate Finance: https://climatepolicyinitiative.org/wp-content/uploads/2019/11/2019-Global-Landscape-ofClimate-Finance.pdf
+2 These challenges are assessed in more detail in a 2019 CPI Report: “Tracking Adaptation Finance”, here: https://climatepolicyinitiative.org/ wp-content/uploads/2019/12/Tracking-Adaptation-Finance-Brief.pdf
+
+[Page 6]
+AN ANALYSIS OF URBAN CLIMATE ADAPTATION FINANCE metric approaches to improve the quality of the previously mentioned assessment of flows. 
+3. Propose recommendations for both improving tracking and increasing the volume and efficacy of urban adaptation finance flows based on analysis of existing flows.
+This work will inform the Cities Climate Finance Leadership Alliance’s (the Alliance) development of the forthcoming State of Cities Climate Finance report (SCCFR), which will provide actionable information to facilitate the scaling-up of climate finance in cities, contributing to the Alliance’s goal to mobilize finance for urban climate action at scale by 
+2030.
+The definition of urban climate finance that we use for this work is:
+Resources directed to activities limiting city-induced GHG emissions or aiming to address climate-related risks faced by cities, contributing to urban low carbon development or resilience. 
+Within the specific urban climate adaptation context, this definition covers activities that aim to maintain or increase the resilience of cities and urban communities, in response to climate-related risks affecting the city directly.
+The report is structured as follows:
+• 
+Section 1 on adaptation finance needs and approaches in cities outlines the context for this work, describes the key challenges associated with increasing finance towards urban adaptation activities, and provides a categorization of urban adaptation finance in practice with case studies to illustrate the financial instruments available.
+• 
+Section 2 on existing and new approaches to urban adaptation finance tracking introduces the methodological approach applied, discusses the data sources, and outlines key findings from each of those sources. The three data sources assessed for this work are: CPI’s Global Landscape of Climate Finance, World Bank Private 
+Participation in Infrastructure, and CDP Cities.
+• 
+Section 3 summarizes key findings from the report and presents conclusions and next steps to improve both the tracking of urban adaptation finance and to increase finance to urban adaptation activities.
+
+[Page 7]
+AN ANALYSIS OF URBAN CLIMATE ADAPTATION FINANCE
+SECTION 1: ADAPTATION FINANCE 
+NEEDS AND APPROACHES IN CITIES
+CONTEXT OF CLIMATE HAZARDS IN CITIES
+Cities are acting to address climate hazards, but despite significant efforts to date, nearly half of all cities facing climate change related hazards report not having taken any steps to address those hazards3.
+In 2019, more than 800 cities responded to CDP’s Cities Questionnaire which asks cities to report on environmental action taking place in the city. The 814 cities that responded to the questionnaire in 2019 reported a collective 3,177 projects aimed at addressing 36 identified climate hazards. The reported cost of implementation of those projects totaled more than USD 35 billion. In almost all regions, extreme hot temperature and flood and sea level rise were the most common climate hazards reported. Figure 1 illustrates the number of projects reported by cities, addressing the 10 climate hazards most frequently reported.
+Figure 1. Number of Projects Reported by Climate Hazard, CDP Cities 2019
+3 In 2018, of the 85% of cities that reported experiencing major climate issues, 46% reported taking no actions to deal with these problems (CDP, 2019).
+
+[Page 8]
+AN ANALYSIS OF URBAN CLIMATE ADAPTATION FINANCE
+There is considerable action underway in many cities – driven by both local governments and other urban actors including the private sector and community groups – to build resilience towards climate hazards. Informed by cities’ responses to the CDP questionnaire and other reporting of climate resilience activities, action underway in cities includes:4 
+• 
+Enhancing building codes and increasing the resilience of existing built infrastructure.
+• 
+Establishing or improving advanced warning and evacuation systems.
+• 
+Undertaking flood mapping and developing flood defenses.
+• 
+Building a more drought- and flood-resilient water supply.
+• 
+Promoting climate-related disease prevention measures.
+• 
+Improving community cooling programs and tree planting to reduce urban heat.
+• 
+Building institutional capacity in crisis management.
+CITIES HAVE SPECIFIC FINANCING 
+CHALLENGES 
+Though efforts are underway in many cities to address climate hazards, as indicated by the more than 3000 projects reported through CDP Cities, relatively limited investment capital is flowing toward building resilience in cities as compared to the anticipated need. Between 2010 and 2014, cities received less than 5% of global adaptation finance (GCA, 2019) despite containing more than half of the world’s population (UNDP, 2020). 
+By 2050, the World Bank estimates that between USD 11-20 billion will be needed on an annual basis to protect global urban infrastructure from climate risks (WRI, 2019). 
+Increasing urban resilience will also require targeted support to urban communities to address and overcome underlying social and development challenges they face that in turn make cities less resilient to climate hazards. 
+There are significant challenges to mobilizing public financing for climate adaptation actions in the urban context which contribute to the gap between the assessed need and finance committed to date:
+• 
+Development Finance Institutions (DFI) Mandates: Many international DFIs are constrained by their mandates and balance sheets to invest directly in cities, and international DFI financing processes are generally designed for national-level government recipients (ODI, 2019). Alongside constraints to international DFIs, 
+National Development Banks frequently lack a clear mandate to promote climatechange programs and have limited resources and capacity to assess climate-smart urban infrastructure (CCFLA, 2020).
+4  A full accounting for the types of actions cities have and can take to build resilience to climate hazards is included in Annex 1. The taxonomy included in the Annex builds upon the EU Sustainable Finance Taxonomy and the Global Landscape of Climate Finance sectoral tracking system and outlines how the sectors included in those documents align with the specific urban resilience context discussed here.
+
+[Page 9]
+AN ANALYSIS OF URBAN CLIMATE ADAPTATION FINANCE
+• 
+Revenue Types: Many cities in developing countries rely on revenues from property taxes and user fees – rather than income, sales, and fuel taxes which are on the whole more lucrative – leading to limited budget capacity outside of transfers from national governments or external finance institutions (World Bank, 2016).
+• 
+Jurisdictional Control: Division of the management of urban functions between city institutions and across levels of government can generate significant jurisdictional control challenges and cities often have limited fiscal authority. If a local government agency has control over zoning and a national government has control over budget authority, significant coordination will be required to successfully finance any urban adaptation activities (World Bank, 2016). Many cities also rely on intergovernmental transfers from the national government for the majority of their budget which hampers city-level planning efforts.
+• 
+Creditworthiness: World Bank analysis found that only a small percent of the 500 largest cities in developing countries are deemed creditworthy - about four percent in international financial markets and 20% in local markets (World Bank, 2013). The creditworthiness challenge disproportionately impacts cities in developing and emerging economies and affects cities’ ability to access finance from both the public sector and the private sector. Additional barriers to private investments in urban adaptation activities are outlined in Table 1.
+
+Alongside the challenges outlined above regarding mobilization of public finance for urban adaptation, mobilizing private capital is critical to filling the urban adaptation finance gap. Several challenges exist in mobilizing private finance for these aims, as shown in Table 1 (CPI, 2018).
+Box 1: World Bank City Creditworthiness Initiative
+The World Bank has emphasized that cities must work to improve their creditworthiness fundamentals now so that they are not caught in a downward spiral of declining credit ratings due to unaddressed climate risks and a diminished ability to access finance to address those same risks (World Bank, 2020a). The World Bank has developed a City Creditworthiness 
+Initiative to provide local leaders with support to improve municipal creditworthiness, strengthen legal, institutional, and policy frameworks for sub-national borrowing, and develop climate-smart projects. The Initiative offers this support through creditworthiness academies that give city leaders fundamental training and tools as well as through more in-depth city creditworthiness implementation programs that provide multi-year technical assistance to structure and close market-based financing transactions. This support is critically important as credit rating agencies increasingly consider climate-related risks in city credit ratings. It is estimated that every USD 1 invested via the Creditworthiness initiative leverages USD 100 in private sector financing for lowcarbon and climate resilient infrastructure (World Bank, 2013).
+
+[Page 10]
+AN ANALYSIS OF URBAN CLIMATE ADAPTATION FINANCE
+Table 1. Barriers to Private Sector Urban Adaptation Investment
+Barrier
+Application to urban adaptation
+Poor policy environment
+Municipal policy environment lacks conditions supportive to private adaptation investment (e.g., lack of requirements that private sector organizations operating in cities implement climate risk mitigation strategies or invest in systemic resilience).
+Poor institutional environment
+Legal and regulatory infrastructure in the city lacks clarity of purpose towards addressing urban climate risks (e.g., no limitations on development in high climate risk areas).
+Poor market environment
+Market environment is unsupportive towards adaptation investment (e.g., lack of creditworthy partner municipalities for private sector engagement).
+High cost of projects and unknown value add
+The value or benefit of the technology is uncertain; private sector actors do not sufficiently consider climate risk in decisions; upfront costs of technology are high.
+Lack of technical capacity
+Prospective users of technology do not have technical capacity to implement (e.g., limited or siloed expertise in implementing resilient urban infrastructure solutions).
+Limitations of private insurance
+Insurance has to date largely not been engaged in cities to efficiently transfer risk or incentivize adaptive action and the private insurance industry is facing considerable risk associated with the accelerating impacts of climate change in urban areas. 
+Alongside the challenges associated with financing urban resilience to climate change, cities are also facing cascading social, budgetary, and health risks associated with the COVID-19 pandemic. The World Bank estimates that as many as 49 million people will fall into extreme poverty due to the pandemic and its economic aftermath and that many of them will live in cities and work in the informal sector. Residents of slums and informal settlements will be especially vulnerable to the cascading risks of increasing rates of poverty, health risks associated both with the pandemic and a lack of access to sanitation services, and declining social safety nets given tightening public budgets (World Bank, 2020c). Social and development factors must be considered in programmatic and systemic interventions to effectively implement climate adaptation activities that address underlying vulnerabilities to climate hazards.
+URBAN ADAPTATION FINANCE IN 
+PRACTICE
+As noted in the Introduction, urban adaptation finance is defined for this work as resources directed to activities aiming to address climate-related risks faced by cities thereby contributing to urban resilience. This project focuses on tracking the range of financing approaches to address urban climate risk – both finance directly from municipal governments and finance from other actors to reduce climate risk in cities. 
+Table 2 reflects the financing sources considered for this work and outlines sample
+
+[Page 11]
+AN ANALYSIS OF URBAN CLIMATE ADAPTATION FINANCE applications of financial instruments to urban adaptation activities5. Sub-instruments with a number included are connected to examples that follow the table.
+Table 2. Urban Adaptation Financing Sources
+Type of Funds
+Financing sources
+Instruments
+Sample sub-instruments for urban settings
+Public
+Municipal government
+Local revenue generation
+- Utility fees
+- Open space funds/land value capture
+- General obligation bonds [1] [2] 
+- Local property, income, and sales taxes
+State/provincial government
+Grants, incentives, technical assistance funds
+- Insurance [3]
+- Tax advantages
+- Low-cost project debt
+- Infrastructure investment funds
+- Shared taxes
+- Intergovernmental funding transfers/revenue sharing
+National government
+Public Finance 
+National DFIs
+Grants, project debt (low-cost or market rate), technical assistance, risk instruments
+- Risk mitigation support of PPP [4]
+- Project level debt [5] [6]
+- Project preparation facilities and other technical advisory
+- Insurance [3]
+Bilateral DFIs
+Multilateral DFIs
+Climate Funds
+Grants, debt, equity, guarantees
+- Dedicated climate funding (i.e., Adaptation 
+Fund) [7]
+Private
+Commercial FIs
+Project debt and equity (market-rate), guarantees
+- Internal climate risk mitigation
+- PPP financing
+- Corporate loans
+PE/infrastructure funds
+Project equity (market-rate)
+- Direct urban infrastructure investment
+- Corporate equity investments
+Institutional investors
+Project debt and equity (market-rate)
+- Direct urban infrastructure investment
+- Corporate debt and equity investments
+Private insurance
+Insurance
+- Public and private risk mitigation [10]
+- Catastrophe bonds [8]
+- Parametric insurance [9]
+Corporate actors
+Balance sheet financing and project equity (marketrate)
+- Internal climate risk mitigation [11] [12]
+- Leasing (e.g., buildings, vehicles)
+- PPP
+Households
+Balance sheet financing, equity
+- Internal climate risk mitigation
+Nonprofits, philanthropies, and foundations
+Grants, technical assistance, donations
+- Microfinance
+- Impact investment
+5  Table 2 is informed by the financing sources and instruments tracked in the Global Landscape of Climate Finance. Unlike the Landscape, which excludes risk management instruments like guarantees and insurance, because actual disbursements from these instruments are contingent upon uncertain future events, this table includes them as they are an important factor in the overall approach to financing resilience and transferring risk to those best able to bear it. A full outline of the methodological approach to the Landscape that is the
+
+[Page 12]
+AN ANALYSIS OF URBAN CLIMATE ADAPTATION FINANCE
+The financing sources listed in Table 2 employ a range of financial instruments for the urban adaptation context. The following examples are intended to be illustrative of the diversity of urban adaptation activities currently in implementation across climate-related hazards and from varied financing sources.
+[1] San Francisco Resilience Bond. Source: Municipal government. Instrument: Local revenue generation (general obligation bond). 
+In 2018, San Francisco voters approved a USD 425 million general obligation bond measure to begin fortifying a sea wall along a central bayfront road, the 
+Embarcadero, in response to climate-related sea level and storm surge risks and to increase the cities’ resilience to non-climate-related disasters including earthquakes. The general obligation bond will fund planning, design, engineering, and construction management for retrofitting and replacing the seawall and other coastal facilities as well as for flood protection projects and enhanced foundations. 
+The seawall protects more than USD 100 billion of assets and economic activity per the cities’ estimates. (SPUR, 2018) [2] Cape Town Green Bond. Source: Municipal government. Instrument: Local revenue generation (general obligation bond).
+In 2017, the City of Cape Town issued South Africa’s first green bond at ZAR 1 billion (~USD 59 million), to fund and refinance projects, including infrastructure, to address water supply shortages in the region. The bond has been accredited by Climate 
+Bonds Initiative and was certified by Moody’s rating agency as “excellent.” Projects financed by the bond include a water demand management and water conservation program focused on pressure management, zone metering, improved management to reduce water losses, and a project to establish piping infrastructure to deliver non-potable water to users accommodating non-potable water. The city raised the targeted ZAR 1bn from eight bidders; the bond has a 10-year tenure and was issued at a spread of 133 basis points of the government bond. Rand Merchant Bank acted as lead arranger for the bond. (CBI, 2017) [3] Philippine City Disaster Insurance Pool. Source: ADB. Instrument: Insurance Pool.
+Located in one of the world’s most disaster-prone areas, the Philippines is at risk of earthquakes and volcanic eruptions as well as climate-related hazards including typhoons, floods, droughts, and landslides. Recognizing the impact of these disasters, the government has created financial preparedness strategies at the national, local, and individual levels. The Philippine City Disaster Insurance Pool is part of a ‘local’ level strategy to address the need for rapid access to early recovery financing. The design of this pool was led by the Philippine Department of Finance and supported with technical assistance from ADB. (ADB, 2018) [4] Zambia Energy Resilience to Drought PPP. Source: Renewable IPPs, IFC, World 
+Bank, and MIGA. Instrument: PPP.
+Over 90% of Zambia’s electricity supply comes from hydropower so an increase in the frequency of droughts in the country has led to significant climate-related energy supply risk. To address that risk and increase generation capacity, the Zambian government partnered with IFC, World Bank, and MIGA through the Scaling Solar
+
+[Page 13]
+AN ANALYSIS OF URBAN CLIMATE ADAPTATION FINANCE project to tender two utility-scale development projects. IFC’s team supported site selection, due diligence, and adaptation assessment, World Bank offered guarantees, and MIGA offered insurance to the project. The winning bids from two renewable energy developers were the lowest prices by cents/kWh of any solar power to date (in 2016) in Africa. (World Bank, 2016) [5] Athens Urban Resilience Strategy. Source: Multilateral DFI. Instrument: Project debt.
+In 2018, the European Investment Bank signed a EUR 55 million loan to support 
+Athens’s 2030 Resilience Strategy via a Natural Capital Finance Facility. The Facility’s focus is broader than climate change, but will include elements that focus on climate change adaptation including EUR 5 million in financing from the Facility towards climate adaptation projects to revitalize an urban forest, stabilize water management, green corridors and squares to lower temperatures, and improve air quality in the face of rising average temperatures. (EIB, 2019) [6] Dakar Stormwater and Solid Waste Management Resilience. Sources: C40 Cities 
+Finance Facility (instrument: technical assistance) and World Bank (instrument: low-cost debt).
+This example describes two different projects that were implemented in Dakar.
+Dakar received support from the C40 Cities Finance Facility (CFF) to prepare the project for hydraulic and landscaping redevelopment of a stormwater retention basin. The project aims to significantly reduce the vulnerability of residents in the affected district to flooding caused by heavy short-term rainfall. CFF supported the city in conducting technical studies for the hydraulic rehabilitation of the basin, consulted and involved residents for the redevelopment of the area and strengthened the capacities of city administration. The Facility’s assistance allowed the city to identify appropriate financing sources for the project with a focus on multilateral development banks (C40 Cities, 2020).
+To address similar climate risks in the city, in March 2020, the World Bank approved 
+USD 125 million in International Development Association credit to support solid waste management system improvements. The project is expected to total USD 
+295 million with co-financing from AFD, AECID, the government of Senegal, and the private sector. (World Bank, 2020b) [7] Pakistan Urban Resilience to Water Scarcity. Source: Climate Funds. Instrument: 
+Grant.
+The Adaptation Fund has approved a USD 6 million grant to two cities in Pakistan to enhance urban climate resilience to water scarcity caused by floods and droughts. 
+The funding was approved in June 2020 and will fund household and municipal public facility water harvesting facilities and will support city-level spatial strategies to assess climate related floods, droughts, and water scarcity. The funding will also strengthen national and provincial capacity to guide city-level development while considering climate-related risks. (Adaptation Fund, 2020) [8] Swiss Re Capital Markets Parametric Earthquake Catastrophe Bond. Source: Swiss 
+Re. Instrument: Catastrophe Bond.
+
+[Page 14]
+AN ANALYSIS OF URBAN CLIMATE ADAPTATION FINANCE
+In January 2020, Swiss Re Capital Markets set up the first catastrophe bond with a parametric trigger to cover mortgage default risk of earthquakes in the states of 
+California, Oregon, Washington, and South Carolina. The variable rate notes have a three-year risk period and will use the data provided by the US Geological Survey. 
+This bond aims to build resilience for properties that face uninsured risks due to environmental challenges. Although earthquakes are not climate-related, lessons from the bond mechanism can be applicable to comparable climate hazards. (Swiss 
+Re, 2020) [9] Caribbean Catastrophe Risk Insurance Facility Parametric Insurance. Source: 
+CCRIF. Instrument: Parametric Insurance.
+The Caribbean Catastrophe Risk Insurance Facility (CCRIF) is a company operating in the Caribbean that provides parametric insurance to Caribbean and Central 
+American governments. Parametric insurance is index-based and provides a payout when climate conditions deviate from an agreed upon threshold in a chosen weather parameter. CCRIF was developed with technical leadership from World Bank and was capitalized by a number of governments in North America and Europe, the European 
+Union, the World Bank, the Caribbean Development Bank, and through membership fees paid by participating governments. Although to date CCRIF has been focused on national scale and rural policies, there is significant potential for parametric insurance to contribute to risk transfer in urban settings. Parametric insurance is well suited to the urban context because the diverse mix of infrastructure and other assets may be too complex to underwrite and insure via standard risk pool arrangements. (Ceres, 2013) [10] MyStrongHome Program. Source: Corporate actors and insurers. Instrument: 
+Insurance and debt financing.
+Since 2015, the program MyStrongHome has leveraged insurance premium savings from residential climate adaptation actions (i.e., storm-resilient roof installation) to offset monthly payments for long term resilience improvement loans to finance those actions. The program has been implemented throughout the Southern United States, including in urban New Orleans where homeowners have financed residential improvements including certified storm-hardened roofs through insurance premium savings to build resilience to increased climate-related risk of hurricanes and tropical storms (PR Newswire, 2020).
+[11] Heathrow Winter Resilience Program. Source: Corporate actors. Instrument: Likely balance sheet financing (internal climate risk mitigation). 
+Since 2011, Heathrow Airport (managed by Ferrovial - HAH) has invested over 
+GBP 36 million in a Winter Resilience Programme. The effort has focused on new vehicles and equipment, de-icer storage and facilities, and IT improvements. This investment is in direct response to climate projections indicating a likely increase in the frequency and volatility of extreme weather conditions. (CDP, 2019) [12] General Mills Flood Resilience Funding. Source: Corporate actors. Instrument: 
+Likely balance sheet financing (internal climate risk mitigation).
+
+[Page 15]
+AN ANALYSIS OF URBAN CLIMATE ADAPTATION FINANCE
+Reported in 2018, General Mills has identified an acute physical climate risk associated with increased severity of weather extremes and aims to mitigate flood risk at all company facilities. General Mills’ resilience investment includes funding towards a Murfreesboro, TN facility, where the company has financed flood doors outside a boiler room located below the flood plain and a concrete barrier around a cooling tower pump house also below the flood plain. (CDP, 2019)
+These 12 examples of urban adaptation finance provide a sample of the existing efforts underway to invest in building urban resilience. The financing types span insurance, grants, project debt, and more and target a range of climate risks including increased severity of hurricanes and tropical storms, water scarcity, flooding, and urban heat. These examples are promising – and may point the way forward for potential implementers seeking guidance – but they do not meet the scale of need across global cities given rapidly increasing climate risks. Section 2 evaluates the available data on broad flows of finance to urban adaptation to assess on a larger scale where finance is flowing and what gaps remain.
+
+[Page 16]
+AN ANALYSIS OF URBAN CLIMATE ADAPTATION FINANCE
+SECTION 2: EXISTING AND 
+NEW APPROACHES TO URBAN 
+ADAPTATION FINANCE TRACKING
+The three data sources assessed in this brief are CPI’s Global Landscape of Climate Finance (the Landscape), World Bank Private Participation in 
+Infrastructure (PPI), and CDP Cities. To assess urban adaptation finance flows, this brief proposes a definition for urban adaptation activities, and outlines how the definition of adaptation and urban are applied to the data sources.
+METHODOLOGICAL APPROACH
+DEFINING URBAN ADAPTATION
+In this work, financial flows qualify as urban adaptation finance when the activity financed targets an urban climate risk and 1) affects the city and urban communities directly and/or 2) occurs within the city boundary per the SCCFR taxonomy.6 This distinction is important because some activities may meet the wider first definition while other activities will be required to meet the narrower second jurisdictional definition. 
+Examples of the distinction are:7
+1. A project to expand reservoirs would be marked as urban adaptation finance even if the reservoir itself is outside city limits so long as the activity most directly affected urban dwellers receiving the water from the reservoir.
+2. In contrast, reinforcement of river basins would be marked as an activity that must occur within the city boundary to qualify because the climate resilience benefits of the reinforcement accrue most directly at the point of the project.
+Furthermore, Multilateral Development Banks and the International Development 
+Finance Club have advanced the Common Principles on Adaptation Finance Tracking which represent a process-based approach to adaptation finance tracking, which is context- and location-specific, conservative, and granular. These principles are the leading standard for defining and identifying financial flows that qualify as adaptation finance. The Common Principles follow a three-step process to (1) set out the project’s 
+6 There is not a universally agreed upon approach to defining what qualifies as a city or urban boundary. Cities are defined in various contexts according to political boundaries, economic activities like commuting to work, and land use or geographic features. For this analysis, we define a city as any permanent and densely settled location with administratively defined boundaries and accept the urban boundary as those locally accepted and defined by the city government.
+7 A full list of sectors and activities with analysis of applicable criteria to be categorized as urban adaptation finance is available in Annex 1.
+
+[Page 17]
+AN ANALYSIS OF URBAN CLIMATE ADAPTATION FINANCE context of vulnerability to climate change, (2) make an explicit statement of intent to address this vulnerability as part of the project, and (3) demonstrate a clear and direct link between the vulnerability and the specific project activities.
+The process identified by the MDBs and IDFC in the Common Principles and the narrower definition of urban adaptation finance we have advanced would ideally be how all urban adaptation finance activities would be tracked and tagged to assess finance mobilized towards adaptation in cities. In practice, the data available on adaptation finance flows, to which this categorization will be applied, has significant information limitations and it is often impossible to assess whether the activity exists only within city boundaries or was structured only to target a climate risk in the city. 
+It is also not possible – as in the case of the World Bank PPI data – to assess the precise project context of vulnerability to climate change nor the explicit intent to address climate vulnerabilities – because of data limitations. Because of these informational limitations and capacity constraints on the part of reporting entities, the approaches outlined below to tagging and assessing urban adaptation finance from existing sources are a compromise approach where this categorization will be applied to the extent possible, and when not possible, simpler methods to identify activities that mention urban or municipal contexts will be applied to assess likelihood of urban applicability.
+APPLYING THE DEFINITION OF ‘ADAPTATION’
+As noted in Section 1, to fulfill the adaptation component of an urban adaptation activity, finance should represent resources directed to activities aiming to address climaterelated risks faced by cities, contributing to urban resilience. Each dataset has a unique capacity to fit this definition because of the kind of financial reporting tracked. More details on the application of the adaptation definition to the three data sources assessed is available in Annex 2.
+APPLYING THE DEFINITION OF ‘URBAN’
+As noted in the introduction to Section 2, to be defined as urban adaptation finance, the adaptation finance tracked must aim to maintain or increase the adaptive capacity and resilience of cities, in response to climate-related risks affecting the city directly. 
+The core challenge we face in applying this definition of urban adaptation finance to data sources is that the data often does not include clear information on the precise geography of the beneficiaries of the financed activities. 
+The challenge in this tagging for both the Landscape and World Bank PPI data8 is that we may know that an activity is tagged as adaptation or has adaptation benefits and that the sector or location is reported as urban, but we often do not have project documentation regarding the precise targets of that adaptation intervention. Information may not include whether the activity occurred only within the boundaries of the city (fitting with our urban inclusion criteria) or if it also extended to peri-urban or suburban beneficiaries (outside our urban inclusion criteria). 
+8 CDP Cities data does not face this same urban boundary challenge because cities are self-reporting projects and therefore projects reported largely exist within an urban boundary.
+
+[Page 18]
+AN ANALYSIS OF URBAN CLIMATE ADAPTATION FINANCE
+To address the geographic boundary uncertainty in both the Landscape and World 
+Bank PPI data, we divide activities between those with full urban adaptation potential (full urban adaptation activities) when we assess the likelihood of a fit with the urban inclusion criteria to be high and those with uncertain urban adaptation potential (partial urban adaptation activities) when there are adaptation benefits but the geographical boundaries are not limited to urban areas or where some uncertainty exists. Figure 2 illustrates this approach with case studies from the analysis.
+Figure 2. Urban Adaptation Analysis Boundaries
+TAGGING URBAN ADAPTATION ACTIVITIES
+In the context of the Landscape, we have endeavored to apply the urban and adaptation finance definition approaches described above by assessing activities as urban adaptation finance when the project name or project description tracked in the 
+Landscape contains urban-connected keywords (city, municipal, urban), or when the original sector reported in the landscape contains the keyword “urban” or “municipal.”9 
+Towards the same end in the World Bank PPI dataset, we applied a series of keyword searches derived from the urban adaptation taxonomy developed for this work (see the 
+Annex). This search was performed on the project name, which in the case of the World 
+Bank PPI database, doubles as the project description field. Following the initial search, the shortlist produced was inspected manually to ensure accuracy of results. 
+We did not need to apply a tag to the CDP Cities data because, as previously described, all projects reported in that dataset fit the urban adaptation definition set as they are reported in the context of specific identified climate hazards and are set within city jurisdictions.
+9  The urban sectors represented were: Urban development and management; including urban transport modal change; Water and other urban infrastructure and services; including Inter-urban transport; Urban development; Urban resilience; Urban Transport; including transport oriented urban development.
+
+[Page 19]
+AN ANALYSIS OF URBAN CLIMATE ADAPTATION FINANCE
+INTRODUCTION TO DATA SOURCES – OVERVIEW AND 
+CHALLENGES
+This section builds on the findings in Section 1 regarding the need for and approaches to implement urban adaptation finance and the challenges associated with its tracking. 
+This analysis informs the following review of existing and potential approaches to tracking urban adaptation. Table 3 discusses the Landscape, World Bank PPI, CDP Cities data and assesses the coverage and challenges associated with each source.
+Table 3. Brief Data Sources Coverage and Challenges
+CPI’s 
+Landscape
+Coverage
+Challenges
+CPI’s Landscape is the base dataset for this analysis. It currently tracks project level adaptation finance data provided by bilateral, national, and multilaterals DFIs, climate funds, commercial financial institutions, cor­ porations, governments, households, and institutional investors. Almost all adaptation finance tracked in the 
+Landscape is provided by public actors. 
+The Landscape data is the most comprehensive of the three data sources in terms of both specificity of reporting on projects (details on sector, purpose, and geography) and financing specifics (year of financing, terms and intermediaries, finance recipients).
+Given the information gaps on adaptation finance currently present in the 
+Landscape, comprehensively tracking urban adaptation finance will also require project and city level data beyond what is currently tracked. Two key challenges are:
+• Lack of private sector and sub-national/domestic public adaptation finance data (a key motivator for the inclusion of the other two datasets).
+• Limited information on the precise geographic target of the finance – making assessments of the exact recipient of adaptive capacity and resilience outcomes difficult10.
+World Bank 
+PPI
+The World Bank PPI database con­ tains potential private sector urban adaptation finance information to complement the Landscape tracking.
+The data covers private sector finan­ cial flows for activities with over 20% private participation and therefore offers valuable potential for new private sector adaptation financing flows alongside what currently exists in the Landscape. The World Bank PPI data includes information on date of financing, type of financing, interme­ diary and recipients.
+• The core challenge of the World Bank PPI data is that the activities are not tagged as adaptation or resilience11. By contrast, the PPI data is not assessed for adaptation relevance by reporters. The only adaptation information available is sectoral and basic project information offered that does not explicitly mention connections to climate hazards or resilience12. Other challenges are:
+• The geographical coverage does not cover high income countries.
+• The database does not have good coverage of small-scale providers due to lack of publicly available information13. 
+10 This second challenge will be applicable in almost all efforts to assess the urban relevance of climate adaptation activities (outside of a subset of activities like municipal bonds and city self-reported projects as are represented in CDP Cities). Outside of that subset of activities where the urban boundary is defined, for broader data sources like the Landscape and World Bank PPI data, analysis of the current data will be hamstrung by the limitations of information available on the intended geographies of activities financed and an increase in consensus on what constitutes an urban boundary.
+11 This is in contrast to Landscape and CDP Cities data where Landscape data includes adaptation tags from reporting entities and the CDP 
+Cities project cost data are explicitly tied to identified climate hazards.
+12 The team has analyzed the World Bank PPI data by developing a keyword search protocol using the sub-activities listed in the Activity 
+Taxonomy (see Annex 1) and has identified all activities in the PPI data that match that keyword search. This method is intended to identify activities that are likely candidates to be urban adaptation. The team then manually evaluated activities to finalize the list for data assessment.
+13 This limitation is particularly important in water and electricity services where small scale providers may play a substantial role in the sector overall. Next steps to address this limitation would include looking at other PPIAF funded initiatives available to map and profile these types of operators.
+
+[Page 20]
+AN ANALYSIS OF URBAN CLIMATE ADAPTATION FINANCE
+CDP Cities
+CDP Cities responses offer a unique perspective not available in the other datasets because the information comes directly from urban policymakers. CDP Cities data is assessed from cities’ 2019 responses to CDP’s questionnaire. We have focused this analysis on responses to Question 3.0 which asks cities to identify key climate hazards and activities underway to address those hazards. CDP Cities is a valuable dataset because it offers a window into the thinking within municipal governments regarding climate hazards cities face and the kinds of activities planned and implemented to address those hazards – in a way that Landscape and World Bank PPI data do not.
+Cities are not required to indicate details of project financing that would be required for inclusion in the Landscape (or for other rigorous project cost analysis). The level of detail in the information offered on implementation status of the activity, date of financing, type of financing, financial intermediary, and destination is quite varied. Some of the activities reported by cities in CDP data appear to be planned or stated in policy documents but not financed or implemented while other activities appear underway with significant finance deployed and with secondary project documentation to indicate terms, sources and recipients.
+
+[Page 21]
+AN ANALYSIS OF URBAN CLIMATE ADAPTATION FINANCE
+DATA FINDINGS
+Through an analysis of the three data sources, we find that up to 
+USD 3.7 billion was invested annually in urban adaptation projects in 
+2017-18. Urban adaptation finance represents approximately 3-5% of total adaptation finance flows and water and wastewater sectors are currently receiving by far the most urban adaptation finance, as tracked in the Landscape and World Bank PPI data.
+TOPLINE FINDINGS
+• 
+Urban adaptation finance is a small percentage of overall adaptation finance tracked in the datasets. Of the USD 30.8 billion in annual adaptation finance tracked in 
+2017-18 in the Landscape, just over 5% had some amount of urban adaptation potential (USD 1.7 billion), and in the World Bank PPI database, only 3% of the total infrastructure finance or just under USD 2 billion annual was reported towards projects with full or partial urban adaptation potential.
+• 
+Water and wastewater management projects received by far the most urban adaptation finance (USD 761 million annually), followed by disaster risk management (USD 323 million) in the Landscape. That high proportion of finance for water and wastewater management aligns with findings from the World Bank PPI data where all projects tracked as having urban adaptation potential are in the water or wastewater sectors.
+• 
+Per the CDP cities data, in almost all regions, extreme hot temperature and flood & sea level rise were the most common climate hazards reported by cities. Project reported cost value by climate hazard varied significantly with projects addressing storm and wind hazards at the highest total cost – USD 21 billion – and extreme precipitation next at USD 13 billion14
+OVERALL FLOWS OF FINANCE
+Combined, we find that up to USD 3.7 billion was invested annually in urban adaptation projects in 2017-18. As tracked by the Global Landscape of Climate Finance, an annual average of USD 30.8 billion flowed to adaptation finance in 2017 and 2018 (GLCF 2019). 
+We find that there are 945 projects in the 2017-18 Landscape that can be tagged as urban adaptation finance given the information available and the applied methodology. 
+These projects represent USD 3.38 billion USD total, or 1.69 billion USD annually – just over 5% of the total adaptation finance tracked in the Landscape in 2017-18.
+14 Cities are instructed to identify total project cost associated with actions they are currently undertaking – but in practice project cost data is a mix of documented project cost analysis with financing as well as project costs of projects not yet underway.
+
+[Page 22]
+AN ANALYSIS OF URBAN CLIMATE ADAPTATION FINANCE
+Figure 3. The Landscape: Adaptation Finance by Benefit Potential, 2017-18
+Within the World Bank PPI database, we find that just under USD 2 billion on average annually of finance towards projects with urban adaptation potential. This represents about 3% of total infrastructure finance tracked in the database annually. We have tagged 73 projects in the 2017-19 PPI database as having full or partial urban adaptation potential. A further 25 projects could be tagged as adaptation depending on context and building practices but are not included in this analysis15. The 73 projects with clear urban adaptation potential represent USD 5.8 billion, on average just under 2 billion 
+USD annually, or about 3% of the total infrastructure finance tracked in the PPI database from 2017-19. 
+CDP Cities data is distinct from the Landscape and World Bank PPI data and does not include detailed information on financial flows. Instead, information from the more than 
+800 cities responding to the CDP questionnaire provides insight – described in more detail in the following sections– into the climate hazards and responsive actions cities report. In the 2019 questionnaire, the more than 800 cities responding reported just under 2,800 actions taken to address reported climate hazards.
+SECTORAL RECIPIENTS OF FINANCE
+CDP Cities responses indicate that the cost of projects reported by cities varies significantly across climate hazards. This city-level reporting provides context for the tracked finance from the Landscape and World Bank PPI datasets. Of the projects reported to CDP with a specified cost value (either already financed or sought to fund the project), projects addressing storm and wind hazards had the highest total cost at 
+USD 21 billion, with extreme precipitation next at USD 13 billion. These projects include 
+15 These projects are urban in scope, but the adaptation benefits are unclear. For example, the, Xichang City Municipal Road Construction 
+Project is urban in scope, but the adaptation potential would be determined by building practices and the design of the road itself (e.g. to withstand extreme weather events, flooding, etc.). Without a detailed study of the project documentations determining the adaptation potential of these projects is challenging.
+
+[Page 23]
+AN ANALYSIS OF URBAN CLIMATE ADAPTATION FINANCE risk mapping, awareness campaigns, investments in infrastructure resilience, and evacuation systems.
+The high estimated costs reported by cities associated with addressing water-related climate hazards (storm and wind and extreme precipitation) align with finance tracked in both the Landscape and World Bank PPI, where water and wastewater management were the most common sectors for urban adaptation finance. These sectors are likely to be highly impacted by storm and wind and extreme precipitation and are thus logical sectoral recipients of urban adaptation finance. Water and wastewater are also typically considered public goods subject to regulation. Companies operating in this sector as utilities may benefit from a protected monopoly, essentially guaranteeing a baseline stream of returns throughout the lifetime of the project. In the overall adaptation sector, this circumstance is fairly unique, as many adaptation actions generate non-commercial market returns and have difficulty attracting private capital.
+Figure 4. CDP Cities: Total Project Costs Reported by Climate Hazard
+
+In the Landscape, this sector includes demand-side activities aimed at reducing water consumption or increasing water use efficiency, and supply side management activities, for example, increasing water supply, reducing water losses, or improving cooperation on shared water resources (CPI, 2017). Water and wastewater management projects of the kind frequently tracked in the Landscape are often large infrastructure projects so they may be especially likely to be tracked in the data because the capital that flows to those projects is relatively straightforward to track. Figure 5 illustrates adaptation finance by sector for both overall adaptation finance in 2017-18 and for urban adaptation finance specifically.
+
+[Page 24]
+AN ANALYSIS OF URBAN CLIMATE ADAPTATION FINANCE
+Figure 5. The Landscape: Adaptation Finance by Sector (Urban and Total), Annual Average '17-'18, USD billion
+In parallel to the Landscape where the top sector was water and wastewater management for urban adaptation finance, all projects tagged as having full or partial urban adaptation potential in the World Bank PPI database were water and wastewater projects. This is in large part due to methodological factors associated with the sector types included in the database and the taxonomy of adaptation-relevant keywords used to identify projects within the infrastructure database.16 As indicated in the Annex, the keywords used to assess the adaptation potential of projects reported in the World 
+Bank PPI data include a substantial number of water and waste-related keywords. In contrast, there are very few adaptation keywords (and indeed little adaptation relevance) associated with a number of these others sub-sectors unless the project name or description explicitly refers to resilience or a particular climate hazard. 
+Figure 6 provides further detail on the types of projects tracked between 2017-19 in the water and wastewater sectors.
+Figure 6. World Bank PPI: Investment by Sector and Activity Type, Annual Average '17-'19, USD million
+16 The sub-sectors included in the database are: Airports; Electricity; Information and communications technology; Treatment/disposal; 
+Treatment plant; Roads; Railways; Water Utility; Ports; Treatment plant, water utility; and Integrated municipal solid waste.
+
+[Page 25]
+AN ANALYSIS OF URBAN CLIMATE ADAPTATION FINANCE
+Alongside the finance tracked in the Landscape and World Bank PPI datasets, reporting to CDP on the types of action cities are taking to address climate hazards helps fill out the picture of ongoing urban adaptation activities. Actions reported by cities to CDP were categorized for this analysis into the categories in Figure 6. Of actions reported, risk mapping, planning, and policy was reported more than twice as frequently as the next most common action. Nature-based solutions, awareness of education campaigns, infrastructure resilience, and resilient water supply and efficient use measures followed as the second through fifth most frequent action types.
+Infrastructure resilience and resilient water supply activities reported by cities to CDP may reflect a portion of the finance tracked to urban adaptation activities in the water and wastewater sector in the Landscape or World Bank PPI datasets. It is notable that while cities are beginning to plan and map efforts for understanding climate hazards, there is relatively limited on the ground action beyond the water and wastewater sector reported in any of the datasets underway in cities to address climate risks already facing cities.
+Figure 7. CDP Cities: Total Projects Reported by Project Type
+Box 3: Sectoral Case Study from the World Bank PPI Data
+Urban Adaptation in the Water Sector in Practice – The Gandharbpur Drinking Water Treatment Plant in Bangla­ desh 
+The Gandharbpur Drinking Water Treatment Plant aims to increase water accessibility in Dhaka, the largest city in 
+Bangladesh, and to reduce over-use of groundwater resources. Dhaka faces significant potable water production risks: needs are projected to double by 2030 but aquifer levels have fallen two to three meters every year and climate change is exacerbating water scarcity in the region (AFD, 2015). 
+This project is centered on the construction of a water treatment plant in Gandharbpur. The capacity of the plant will reach 500,000m3/day, and could be doubled during a second phase. The plant will extract and treat raw water from the Meghna River, 30 km from Dhaka, in order to bypass the heavily polluted rivers that feed the city. The Dhaka Water 
+Supply Sector Development Program also aims to reinforce the distribution network linked to the plant.
+By increasing the security of water supply and improving the resilience to adverse impacts from climate change (EIB, 
+2013) on both the city and the water system infrastructure, the project aims to tackle Dhaka’s water supply challenge. 
+Financing for Phase 1 of the project was secured via three concessional loans of USD 109 million granted to the Dhaka 
+Water Supply and Sewerage Authority by the Asian Development Bank, the European Investment Bank and the Agence 
+Francaise de Developpement.
+
+[Page 26]
+AN ANALYSIS OF URBAN CLIMATE ADAPTATION FINANCE
+DESTINATIONS OF FINANCE
+The most common climate hazards addressed by projects reported by cities to 
+CDP varied by region and help illuminate the data findings regarding flows of urban adaptation finance. In almost all regions, extreme hot temperature and flood & sea level rise were the most common climate hazards reported. In South and West Asia, only one city reported flood and sea level rise as a climate hazard being addressed by the city, while 10 cities reported extreme precipitation. Some of these distinctions may be difficult to make meaning from as a cities’ decisions to highlight precipitation changes vs. flood hazards may be somewhat unsystematic as both could describe similar on the ground impacts. More detail on the climate hazards reported by region are in Figure 8.
+Figure 8. CDP Cities: Number of Projects Reported by Climate Hazard and Region
+In contrast to the CDP Cities responses – which are heavily weighted in Europe, Latin 
+America, and North America, both Landscape and World Bank PPI data indicate that East 
+Asia and the Pacific is the most common recipient of both overall adaptation finance and urban adaptation finance. Per the Landscape data, approximately USD 410 million in urban adaptation finance flowed to East Asia and the Pacific annually in 2017-18.
+
+[Page 27]
+AN ANALYSIS OF URBAN CLIMATE ADAPTATION FINANCE
+Figure 9. The Landscape: Urban Adaptation Finance by Region, Annual Average '17-'18, USD million
+
+As described in more detail in Box 4, the World Bank PPI data is even more heavily weighted in East Asia – where more than half of all tracked urban adaptation finance activities took place in China. Per Landscape data, urban adaptation finance is somewhat more evenly distributed among regions than overall adaptation finance – with 
+East Asia and the Pacific, Sub-Saharan Africa, South Asia, and Latin America and the 
+Caribbean each receiving at least USD 200 million in annual average urban adaptation finance.
+Box 4: Regional Case Study from the World Bank PPI Data 
+More than 50% of urban adaptation projects tracked were implemented in China
+Most projects with urban adaptation potential between 2017-2019 tracked in the World Bank 
+PPI data took place in China. This coincides with a period where global private spending (when including state-owned enterprises) in infrastructure was led by China. In 2017-2019, the Chinese government instituted a series of policy-easing measures to expedite infrastructure projects and allow capital to flow into this sector. These projects were mostly developed under the PPP model. 
+During this time China’s National Development and Reform Commission (NDRC) also approved a number of infrastructure projects in the pipeline. This explains the high level of projects that reached financial close in this period and thus are recorded in the PPI dataset. Contracts were mostly granted at the local/municipal level and projects received direct government support in the form of capital and revenue subsidies. 
+The number of resilience infrastructure and projects with adaptation benefits rose during this time as a result of the government’s green financial reforms. Unsurprisingly. most of the urban adaptation projects in China dealt with wastewater collection and treatment activities, sectors in which the government has mandated the use of the PPP model. Further analysis of the trends in urban adaptation infrastructure and finance in China is warranted given the predominance of 
+China in the data. Sources such as the WIND database can be utilized for this purpose.
+
+[Page 28]
+AN ANALYSIS OF URBAN CLIMATE ADAPTATION FINANCE
+FINANCING SOURCES AND TYPES
+Within the Landscape, Multilateral DFIs represented the majority of urban adaptation finance tracked in the Landscape, at USD 984 million annually in 2017-18, followed by government budgets and agencies funding at USD 313 million annually and bilateral 
+DFIs at USD 263 million annually17. While National DFIs are the source of just under 
+25% of overall adaptation finance, they were not a source of any of the USD 1.69 billion tracked annually in urban adaptation finance, largely because the information tracked in the Landscape on finance flowing from National DFIs is not project level so it was not possible to assess the urban relevance of those flows.
+ 
+Figure 10. The Landscape: Adaptation Finance by Source (Urban and Total), Annual Average '17-'18, USD million
+
+The World Bank PPI data largely tracks finance from companies and state-owned enterprises, but also captures finance from a range of DFIs and banking institutions including between 2017 and 2019, ten projects totaling USD 1.26 billion with urban adaptation potential. There was a roughly even split in the finance tracked between local and international commercial banking institutions. Highlights in this space include: 
+• 
+USD 121 million from BBVA, a commercial international bank, for Lima’s Potable 
+Water & Wastewater Treatment.
+• 
+USD 135 million from Vietcombank, a commercial local bank, for Hanoi’s Hong River 
+Surface Water Treatment Plant.
+17 The Landscape tracks relatively little private adaptation finance overall, so there is limited private sector finance tracked to either the larger adaptation pool or the narrower urban adaptation finance pool.
+
+[Page 29]
+AN ANALYSIS OF URBAN CLIMATE ADAPTATION FINANCE
+Figure 11. The Landscape: Overall and Urban Adaptation Finance by Type, Annual Average '17-'18, USD million
+
+The Landscape is the only one of the three datasets assessed to include comprehensive information on the types of finance flowing to urban adaptation finance. Overall, the proportion of financing types to urban adaptation were relatively close in proportion to the overall flows of adaptation finance. Project level market rate debt and low-cost project debt were the predominant sources of both adaptation finance and the narrower urban adaptation finance pool. Furthermore, all of the balance sheet financing tracked as adaptation fits within the narrower urban adaptation finance definition.
+World Bank PPI data also includes some information on financing types employed and a key finding from that data is that to date, there have been a very limited number of guarantees offered for projects with urban adaptation benefits, despite the opportunity for these instruments to contribute to de-risking and thus leverage private financing in this space. The one case identified from the World Bank PPI data is Kigali Bulk Water 
+Supply Plant. In 2018, the Multilateral Investment Guarantee Agency (MIGA) agreed to issue approximately USD 10 million in guarantees to cover the equity and quasi-equity investments by Metito Utilities Limited (a UK company) for the construction, operation and maintenance of a bulk water facility in Kanzenze. The guarantees were issued for a period of 20 years against the risk of transfer restriction, expropriation, war and civil disturbance, and breach of contracts. (MIGA, 2018). This project will be one of the few bulk water public-private partnerships (PPPs) in sub-Saharan Africa and could have important demonstration effects. 
+CONCLUSIONS AND NEXT STEPS IN THE DATA
+
+[Page 30]
+AN ANALYSIS OF URBAN CLIMATE ADAPTATION FINANCE
+As noted in the introduction, for the Landscape data, there are limitations that make it impossible to apply the most rigorous definition of urban adaptation finance set out in Section 1. For now, it is not possible to assess systematically in the Landscape data whether an activity exists only within city boundaries or was structured to target a climate risk in a city. Because of these informational limitations, the team has employed a simpler urban keyword tagging approach in the Landscape, while acknowledging that it would be very valuable if future data included more detailed location information because it would add certainty to the urban relevance of considered activities. The other challenges of Landscape tracking relate to the more general lack of adaptation finance data for certain sectors – and to challenges in tracking finance from the private sector writ large. The CDP Cities data and World Bank PPI data discussions are an effort to address these challenges, and further consideration of opportunities for additional data collection is in CPI’s December 2019 publication on tracking adaptation finance.
+The core challenge of the World Bank PPI data for this assessment is that the projects are not tagged within the data as adaptation projects. Because these projects are not formally tagged and because there is no documentation of project-level climate risk analysis, significant assumptions on the urban adaptation potential of projects was required. The assumptions made were driven by the keyword methodology described in detail in Section 1 and further in Annex 1. Because there was not any reporting of project documentation regarding climate risk analysis which would be necessary to qualify a project as adaptation, it is not possible to assess with full certainty whether each project was structured to target climate risk in a city. This section, therefore, represents the teams’ best effort to identify projects in the data that have high potential to be urban adaptation relevant, but the findings are limited by a lack of certainty surrounding the aims of these projects.
+Finally, CDP Cities data is valuable for assessing overall trends in assessed climate hazards in cities as well as types and costs of actions. Because cities do not have to indicate the type of finance employed to address climate hazards, the specific year of that finance, or the names of the financiers, the responses cannot be included in the Landscape as presently reported. To be included in the Landscape, figures must represent financial commitments made during the period tracked (e.g. a public commitment by a government, a private financing contract agreed between corporate actors etc.) In case of insufficient details, CPI takes a conservative approach and prefers to underreport rather than over-report climate finance.
+As an example of the difficulty in assessing specific investment information associated with reported projects costs: The City of Manhattan Beach, in response to storm and wind hazards, is in the process of updating its Local Coastal Program (LCP) to better plan for climate change in the Coastal Zone, particularly for sea level rise (SLR), extreme high tides, flooding, storm events, and coastal erosion. The city reports the project cost at 
+USD 425k, and notes that it has received a USD 225k grant from the California Coastal 
+Commission. The remaining USD 200k is not specified and information on the year and conditions of the grant received is not readily available. Further examples of projects over USD 1bn in project cost are mentioned in the Annex.
+
+[Page 31]
+AN ANALYSIS OF URBAN CLIMATE ADAPTATION FINANCE
+SECTION 3: CONCLUSION AND 
+MOVING FORWARD
+CONCLUSIONS
+As discussed in greater detail in recent CPI papers18, tracking adaptation actions requires a different approach than is required for mitigation. Using the methodological approach outlined in Section 2 to define urban adaptation finance activities within the three data sets assessed, we find that up to USD 3.6 billion was invested annually in urban adaptation projects in 2017-18. Overall, we find that urban adaptation finance represents approximately 3-5% of total adaptation finance flows. Innovative financial instruments are being deployed in some cities and Section 1 outlines twelve examples of finance aimed at improving urban resilience including:
+• 
+The City of Cape Town’s green bond to fund and refinance projects including resilient infrastructure to address climate-related water supply shortages.
+• 
+The MyStrongHome program implemented in the Southern United States which leverages savings on insurance premiums from installation of climate resilient residential infrastructure to offset payments on loans for the installation.
+• 
+The Caribbean Catastrophe Risk Insurance Facility which provides parametric insurance to Caribbean and Central American governments and has in 2020 provided payouts associated with excess rainfall events and tropical cyclones.
+The up to 3.6 billion tracked across the data sources assessed and the case studies of innovation highlighted in Section 1, stand in contrast to estimates that between USD 
+11-20 billion will be needed on an annual basis to protect global urban infrastructure from climate risks (WRI, 2019). There is a substantial gap between tracked flows and the assessed need and there are significant challenges to mobilizing public and private financing at scale for climate adaptation actions in the urban context. Key challenges by sector include:
+• 
+Public sector: Restrictions in DFI mandates, complexity of jurisdictional control in municipal spaces, restrictions associated with local revenue models, and poor credit ratings of many cities. 
+• 
+Private sector: Unsupportive municipal policy environments, unclear legal and regulatory infrastructure, unsupportive market environments for investment, uncertain benefits of technology, and limited technical capacity related to that technology.
+18 Understanding and Increasing Finance for Climate Adaptation in Developing Countries and Global Commission on Adaptation 
+Background Paper: A snapshot of global adaptation investment and tracking methods.
+
+[Page 32]
+AN ANALYSIS OF URBAN CLIMATE ADAPTATION FINANCE
+This analysis has helped identify gaps and barriers to financing resilience solutions in global urban areas and identified entry points to drive action by investors, cities, national governments, and other stakeholders to increase urban adaptation finance. Outlining what is known about flows of urban adaptation finance, has also highlighted that there are significant challenges associated with tracking urban adaptation finance. The three core challenges we find to additional urban adaptation finance tracking are:
+1) Adaptation scoping: Resilience is often a small portion of the stated financing focus for urban infrastructure projects. Tracking adaptation finance may thus require adjusting for the scope of urban infrastructure projects. Moreover, in some cases, conducting routine and effective maintenance would be sufficient to garner adaptation benefits of existing infrastructure.
+2) Urban boundary: Resilience projects often also cut across city boundaries and have spillover effects on the nearby environment. Tracking exclusively urban adaptation projects requires adjusting for this spillover. 
+3) Context specificity: An adaptation measure may be satisfactory in one context, as part of a certain strategy, but unsatisfactory or counterproductive in another. This context specificity makes tracking adaptation projects particularly difficult without a detailed project documentation to reference. In turn, this documentation is harder to locate in the urban context.
+NEXT STEPS
+IMPROVING TRACKING OF URBAN ADAPTATION 
+FINANCE
+In light of the three core challenges listed above to tracking urban adaptation finance, we propose two key action items:
+1) Improve urban adaptation outcome metrics by moving beyond context specific measures, as discussed in Section 1, towards standardized and robust methods for adaptation finance tracking that, in turn, allow for evaluation metrics. This shift is key to alleviating private investor uneasiness in investing in projects without clear outcome metrics and can support mobilization of urban adaptation finance at scale.
+The European Bank for Reconstruction and Development (EBRD)’s use of a set of climate resilience outcome metrics, in line with joint Multilateral Development Bank (MDB) guidance on climate resilience metrics, is indicative of the way forward. This approach is used on EBRD’s climate resilience investments including its climate resilience project portfolio (CRPP) used for climate resilience bond issuances. It is particularly comprehensive and instructive for the purpose of having a means of portfolio-level reporting while respecting project-level context specificity. These climate resilience outcomes are expressed in both physical and valorized terms, the latter serving as a monetary estimate of their potential economic value. EBRD’s climate resilience investments, including those in the CRPP, are assessed against a set of physical climate risks and the results are reported under the following categories:
+
+[Page 33]
+AN ANALYSIS OF URBAN CLIMATE ADAPTATION FINANCE
+• 
+Increased water availability
+• 
+Increased energy availability
+• 
+Increased agricultural potential
+• 
+Improvements to human health/productivity 
+• 
+Reduced water-related disruption
+• 
+Reduced water related damage 
+Additional analysis is merited in this space to apply outcome metrics and performancebased allocation to the urban context informed by existing approaches to establish metrics. This effort could include evaluation of the relationship between financial flows and climate vulnerability indices, dense population groups at risk, and other measurements of urban vulnerability and resilience. 
+2) Improve on information available in data sources in order to allow for more accurate assessment of what qualifies as urban adaptation finance per the definition proposed in this brief. All data on urban adaptation finance would benefit from clear reporting on project location and detailed project documentation of climate risks identified and addressed. In each data source, we note the following challenges and recommendations:
+• 
+The Landscape: At present, it is not possible to assess systematically in the data whether an activity exists only within city boundaries or was structured to target a climate risk in a city. More detailed location information would add certainty to the urban relevance of considered activities, but is not currently available in the data sources that underline the Landscape.
+• 
+World Bank PPI: The core challenge of the data for this assessment is that the projects are not tagged as adaptation. Because these projects are not formally tagged and because there is no documentation of project-level climate risk analysis, significant assumptions on the urban adaptation potential of projects was required. 
+In the future, additional documentation of project aims and underlying vulnerabilities would be useful for assessing adaptation relevance.
+• 
+CDP Cities: In the CDP questionnaire, cities do not have to indicate the type of finance employed to address climate hazards, the specific year of that finance, the names of the financiers, or whether the finance has been committed. Because the responses to project cost are so varied, it is not possible to assess with accuracy the quality of the project finance data. Additional guidance to cities to ensure consistency in quality and detail of project cost data reported would improve financial flow analysis. 
+INCREASING FINANCING TO URBAN ADAPTATION
+Despite the challenges associated with driving finance to activities that improve urban resilience, the 12 projects highlighted in Section 1 suggest that employing financing mechanisms spanning insurance, municipal bonds, risk pooling, PPPs and more to build urban resilience is possible. A rapid scaling of these kinds of solutions is necessary to
+
+[Page 34]
+AN ANALYSIS OF URBAN CLIMATE ADAPTATION FINANCE meet the growing need for urban resilience in the face of increasing climate hazards. 
+Through interviews and research, the team encountered a number of promising recommendations for driving finance to urban adaptation solutions.
+1) Develop a database of case studies for practitioners: Research for this brief suggests that cities are generally reluctant to be at the vanguard of implementing new financial structures. To build on the work done in Section 1 outlining examples of financial mechanisms employed to drive urban resilience to date, we propose developing a database or toolkit for city governments and other project implementers in cities seeking to finance urban adaptation. This output could include a set of demonstrated case studies that a wide range of implementers in cities could engage with. The effort could also include a single of set of toolkits for cities seeking financing of adaptation projects (for example, how to implement a municipal resilience bond). 
+2) Communicate tracking effectively to incentivize investment: Interviews with experts who help city policy makers implement climate adaptation projects indicated that showing practitioners that others are also working on urban adaptation creates motivation and potential political will to generate buy-in for projects. An interviewee indicated that the Landscape Sankey diagrams are useful tools to communicate what the field of this work looks like and to illustrate the problem and opportunity. Future communications around the Landscape Sankey could build on this finding and message around the finance that is going to infrastructure projects and meets requirements of adaptation finance but that isn’t being reported as adaptation.
+3) Protect against the risk of transfer restrictions and expropriation: Because many adaptation activities involve public goods, this protection is key to attracting more private capital investment. For example, in water services, where small providers dominate the space, there is scope for MIGA to utilize the Small Investment Program as a support mechanism. Overall, there is room for financial institutions with guarantee capacity to further use de-risking mechanisms in the urban adaptation sphere.
+4) Build city government capacity to implement urban adaptation activities: 
+Investments will be more effective if they benefit from an investment in capacity at the city level. Finance is deeply linked to policy decisions in cities and unless a city has assessed its climate risks, through rigorous risk assessment and physical climate scenario analysis, it will remain difficult to claim with certainty any capital flows towards adaptation. Cities also need support connecting technical experts (including those within government agencies as well as academics or other thought leaders) with urban policy makers. Adequate tracking can be a lever for attracting further financing opportunities so capacity building and training can help minimize the disconnect between senior planners’ understanding of activity aims and implementation on the field.
+5) Ensure that DFIs think strategically about how to increase finance to cities: At present, DFIs are constrained in their ability to invest directly in cities and DFI financing processes are generally designed for national-level government recipients. DFIs should involve cities in the development of country assistance strategies in order to better consider urban perspectives and tailor products to meet the needs of cities. Where possible, expansion of DFI mandates to work directly with cities would be enormously beneficial to ensuring that urban adaptation finance is as effective and targeted as possible.
+
+[Page 35]
+AN ANALYSIS OF URBAN CLIMATE ADAPTATION FINANCE
+6) Address cascading risks associated with COVID-19: City dwellers now face escalating risks from climate change at the same time as the COVID-19 pandemic is intensifying urban poverty, highlighting and worsening sanitation challenges, and tightening municipal budgets. All efforts to increase finance to urban climate resilience should incorporate an understanding of the shifting set of risks facing urban dwellers because of the pandemic. Financing solutions should seek to ensure that COVID-19 recovery funds that target cities incorporate climate risk considerations to the full extent possible.
+
+[Page 36]
+AN ANALYSIS OF URBAN CLIMATE ADAPTATION FINANCE
+REFERENCES
+1. Adaptation Fund. 2020. “Enhance community, local and national-level urban climate change resilience to water scarcity, caused by floods and droughts in Rawalpindi and community-local-and-national-level-urban-climate-change-resilience-to-waterscarcity-caused-by-floods-and-droughts-in-rawalpindi-and-nowshera-pakistan-2/ org/sites/default/files/publication/479966/philippine-city-disaster-insurance-poolsummary.pdf
+3. AGU. 2020. “An assessment of Earth’s climate sensitivity using multiple lines of evidence.” S. Sherwood M. J. Webb J. D. Annan K. C. Armour P. M. Forster J. 
+C. Hargreaves G. Hegerl S. A. Klein K. D. Marvel E. J. Rohling M. Watanabe T. 
+Andrews P. Braconnot C. S. Bretherton G. L. Foster Z. Hausfather A. S. von der 
+Heydt R. Knutti T. Mauritsen J. R. Norris C. Proistosescu M. Rugenstein G. A. 
+Schmidt K. B. Tokarska M. D. Zelinka. Available at: https://agupubs.onlinelibrary.
+wiley.com/doi/abs/10.1029/2019RG000678
+4. CCFLA. 2020. “Enhancing the Role of National Development Banks in Supporting org/wp-content/uploads/2020/08/Enhancing-the-Role-of-National-DevelopmentBanks-1.pdf 
+5. Ceres, ClimateWise, University of Cambridge, ICLEI. 2013. “Building Climate cam.ac.uk/resources/publication-pdfs/building-resilient-cities-priorities-for-collabora.
+pdf
+6. CIF and PPCR. 2016. “Private Sector Investment in Climate Adaptation in 
+Developing Countries: Landscape, Lessons Learned and Future Opportunities.” documents/7544-wb_cif_ppcr_report-v5.pdf
+7. CDP. 2019. “Cities at Risk: Dealing with the pressures of Climate Change.” Available 
+8. CDP. 2019. “Ferrovial - Climate Change 2019.” Available at: https://static.ferrovial.
+com/wp-content/uploads/2020/06/17120605/cdp-climate-change-2019.pdf
+9. CDP. 2019. “General Mills Inc. - Climate Change 2019.” climatebonds.net/adaptation-and-resilience
+11. Climate Bonds Initiative. 2019. “Climate Resilience Principles.” Available at: https:// initiative-20190917.pdf
+
+[Page 37]
+AN ANALYSIS OF URBAN CLIMATE ADAPTATION FINANCE climatebonds.net/certification/city-of-cape-town americanprogress.org/issues/economy/reports/2020/05/06/484173/climate-changemunicipal-finance/
+14. CPI. 2018. “Understanding and Increasing Finance for Climate Adaptation in wp-content/uploads/2018/12/Understanding-and-Increasing-Finance-for-ClimateAdaptation-in-Developing-Countries-1.pdf 
+15. CPI. 2017. “Global Landscape of Climate Finance 2017: Methodology.” Climate Policy 
+Initiative. Available at: https://climatepolicyinitiative.org/wp-content/uploads/2017/10/
+GLCF-2017-Methodology-Document.pdf 
+16. EIB. 2013. “Environmental and Social Data Sheet, Dhaka Environmentally registers/49398107.pdf
+17. EIB. 2019. “Athens bets on green infrastructure and biodiversity.” Available at: https://
+18. EBRD, Global Centre of Excellence on Climate Adaptation, 427. 2018. “Advancing 
+TCFD Guidance on Physical Climate Risks and Opportunities.” Available at: http://427mt.com/wp-content/uploads/2018/05/EBRD-GCECA_final_report.pdf
+19. Georgeson L, Maslin M, Poessinouw M, Howard S. 2016. “Adaptation responses to climate change differ between global megacities.” Nature Climate Change, 6(6), 584588.
+20. Global Commission on Adaptation (GCA), 2019. “Adapt Now: A Global Call for 
+Leadership on Climate Resilience. Global Commission on Adaptation.” Available at: https://cdn.gca.org/assets/2019-09/GlobalCommission_Report_FINAL.pdf
+21. HLEG. 2018. “Informal Supplementary Document on Sustainable Taxonomy.” 
+Available at: https://ec.europa.eu/info/sites/info/files/180131-sustainable-finance-finalreport-annex-3_en.pdf 
+22. International Development Finance Club. 2018. “Lessons Learned – From three years of implementing the MDB-IDFC Common Principles for Climate Change Adaptation mdb_idfc_lessonslearned-full-report.pdf 
+23. IPCC. 2014. “Chapter 8: Urban Areas.” Contribution of Working Group II to the Fifth 
+Assessment Report of the Intergovernmental Panel on Climate Change. Available at: 
+24. MDBs. 2018. “2017 Joint Report on Multilateral Development Banks’ release/2018/06/13/mdb-climate-finance-hit-record-high-of-us352-billion-in-2017
+25. MDB IDFC. 2019. “A Framework for Climate Resilience Metrics in Financing
+
+[Page 38]
+AN ANALYSIS OF URBAN CLIMATE ADAPTATION FINANCE framework-for-climate-resilience-metrics-in-financing-operations.pdf munichre.com/en/risks/natural-disasters-losses-are-trending-upwards.html#-
+1624621007
+27. PR Newswire. 2020. “National Energy Improvement Fund Acquires MyStrongHome, 
+Innovative Roofing and Resilience Finance and Insurance Platform”. Available at: acquires-mystronghome-innovative-roofing-and-resilience-finance-and-insuranceplatform-301074158.html 
+28. SPUR. 2018. “Embarcadero Seawall Earthquake Safety Bond.” Available at: https://
+29. Swiss Re. 2020. “Swiss Re Capital Markets structures and places the first parametric earthquake catastrophe bond to hedge mortgage risk caused by earthquakes for abdd-4f36c1cf24c8/nr-20200113-srcm-press-release-en.pdf 
+30. UNEP. 2015. “The adaptation finance gap update: with insights from the INDCs.” 
+United Nations Environment Programme (UNEP). Nairobi, Kenya. Available at: https://
+31. UNEP. 2017. “The Adaptation Gap Report. Towards Global Assessment.” United 
+Nations Environment Programme (UNEP). Nairobi, Kenya. Available at: https:// wedocs.unep.org/bitstream/handle/20.500.11822/22172/adaptation_gap_2017.
+pdf?isAllowed=y&sequence=1 unenvironment.org/resources/adaptation-gap-report
+33. UNPD. 2020. Urban Population (% of total population).” Available at: https://data.
+worldbank.org/indicator/SP.URB.TOTL.IN.ZS
+34. World Bank Group. 2013. “Financing Sustainable Cities: How We’re Helping Africa’s feature/2013/10/24/financing-sustainable-cities-africa-creditworthy
+35. World Bank Group. 2016. “Investing in Urban Resilience: Protecting and Promoting 
+Development in a Changing World” Available at: https://openknowledge.worldbank.
+org/handle/10986/25219
+36. World Bank Group. 2018. “Groundswell. Preparing for Internal Climate Migration.” 
+Available at: https://openknowledge.worldbank.org/handle/10986/29461
+37. World Bank Group. 2019. “Methodology for Private Participation in Infrastructure (PPI)”. Available at: https://ppi.worldbank.org/en/methodology/ppi-methodology 
+38. World Bank Group. 2020a. “City Creditworthiness Initiative: A Partnership to urbandevelopment/brief/city-creditworthiness-initiative
+39. World Bank Group. 2020b. “Senegal to Improve Governance and Solid Waste
+
+[Page 39]
+AN ANALYSIS OF URBAN CLIMATE ADAPTATION FINANCE release/2020/03/05/senegal-to-improve-governance-and-solid-waste-management
+40. World Bank Group. 2020c. “Cities are on the front lines of COVID-19”. Available at: https://blogs.worldbank.org/sustainablecities/cities-are-front-lines-covid-19 
+41. WRI. 2019. “Unlocking the Potential for Transformative Climate Adaptation in Cities”. 
+Available at: https://wrirosscities.org/research/publication/unlocking-potentialtransformative-climate-adaptation-cities
+
+[Page 40]
+AN ANALYSIS OF URBAN CLIMATE ADAPTATION FINANCE
+ANNEX
+1. ACTIVITY TAXONOMY AND RELATED 
+KEYWORDS
+The taxonomy presented below indicates the categories, sectors, activities, and subactivities into which urban adaptation projects fit. This taxonomy builds upon the EU 
+Sustainable Finance Taxonomy (HLEG, 2018) and the Global Landscape of Climate 
+Finance sectoral tracking system. The urban inclusion criteria indicated in the right-most column indicate whether the project must 1) address climate-related risks affecting the city (“Affecting city”) or 2) occur within the city boundaries (“Occur within”) to qualify as an urban adaptation project. The logic for this criteria is that projects like expansion of reservoirs, rainwater harvesting, and water reuse will benefit the climate resilience of the city so long as they set out to address climate-related risks to the city even if the project itself takes place outside of the city boundaries. This is in contrast to projects like reinforcement of river basins, afforestation, and improved land drainage that directly impact climate resilience in the place of implementation and thus must occur within the city boundaries to be defined as urban adaptation.
+
+[Page 41]
+AN ANALYSIS OF URBAN CLIMATE ADAPTATION FINANCE
+Category
+Sector
+Activities
+Sub-activities
+Urban inclu­ sion criteria
+Related Keywords
+Water and wastewa­ ter man­ agement
+Water supply and treat­ ment
+Water collection
+Expansion of reservoirs
+Affecting city reservoir; expansion of reservoir
+Reinforcement of river basins
+Occur within river; river basin
+Boreholes and tubewells
+Affecting city borehole; tubewell
+Household water safe storage
+Affecting city water; household; stor­ age
+Well flood resilience
+Occur within well; flood; resilience
+Rainwater collection from ground surfac­ es-small reservoirs and microcatchments
+Affecting city rainwater; microcatch­ ment
+Rainwater harvesting from roofs
+Affecting city harvesting; roof
+Stormwater retention and detention sys­ tems
+Affecting city stormwater; retention; detention
+Stormwater drainage
+Affecting city drainage
+Pump stations
+Affecting city pump station
+Dam construction
+Affecting city dam
+Water treatment
+Water reuse
+Affecting city reuse
+Water reclamation
+Affecting city reclamation
+Construction and/or upgrade of water treatment plant
+Affecting city water treatment; up­ grade
+Renewable energy solutions for water treatment
+Affecting city renewable energy
+Household water treatment
+Affecting city water treatment
+Desalination
+Affecting city desalination
+Water supply
+Construction and/or upgrade of water dis­ tribution networks
+Affecting city water distribution net­ work
+Leakage management, detection, and re­ pair in piped systems
+Affecting city leakage; piped system; detection
+Creating water pricing and risk transfer/ insurance schemes to help manage water supply and demand cycles
+Affecting city water pricing; risk transfer; insurance
+Increased use of water efficient fixtures and appliances
+Affecting city efficient; appliances
+Establishing financial mechanisms in river watersheds
+Affecting city financial mechanisms; watershed
+Waste­ water collec­ tion and treat­ ment
+Wastewater collection networks
+Construction and/or upgrade of sewer systems
+Affecting city sewer
+Raw water supply
+Affecting city raw water
+Wastewater treatment facilities
+Reuse of sludge
+Affecting city reuse; sludge
+Brine discharge
+Affecting city brine discharge
+Anaerobic digestion of sewage sludge
+Affecting city anaerobic digestion
+Anaerobic digestion of bio-waste
+Affecting city bio waste
+Composting of bio-waste
+Affecting city composting
+Construction and/or upgrade of wastewa­ ter treatment plants
+Affecting city waste water
+Renewable energy solutions for water treatment
+Affecting city
+Pumped marine outfalls
+Occur within pumped marine outfalls
+
+[Page 42]
+AN ANALYSIS OF URBAN CLIMATE ADAPTATION FINANCE
+Agricul­ ture, for­ estry, land use, and natural resource manage­ ment
+Forestry
+Afforestation
+Early warning systems and wildfire control measures including thinning measures
+Occur within wildfire control; early warning; thinning
+Regeneration material less sensitive to strong wind
+Occur within regeneration; strong wind
+Rehabilitation, 
+Restoration
+Use of species less susceptible to drought
+Occur within drought
+Diversification of species and ecotypes
+Occur within diversification; species; ecosystem
+Reforestation
+Growing of coppice, pulpwood and fire­ wood and the operation for forest tree nurseries
+Occur within coppice; pulpwood; fire wood; forest tree nursery
+Existing forest management
+Maintain biodiversity, productivity, and re­ generation capacity of forests
+Occur within biodiversity; forest
+Agricul­ ture and natural resource manage­ ment
+Growing of pe­ rennial crops
+Development and planting of perennial crops including grains with deep and dense root systems
+Occur within perennial crop
+Land manage­ ment
+Improved management of slopes and ba­ sins to avoid/reduce the impacts caused by increased soil erosion
+Occur within basin; soil erosion
+Identification of protected areas and estab­ lishment of migration corridors to maintain or increase climate resilience of ecosys­ tems
+Occur within migration corridor; cli­ mate resilience
+Water man­ agement
+Enhance the resilience of existing agricul­ tural productive systems, including water control and management measures
+Occur within water control
+Increased water availability and efficient use through water harvesting and irrigation technologies
+Occur within water harvesting; irri­ gation
+Growing of non-perennial crops
+Planting of non-perennial that do not last for more than two growing seasons. If done in an appropriate way, they can reduce the risk of flash floods by enhancing infiltration and soil water retention
+Occur within infiltration; soil reten­ tion
+Provision of information on crop diversifica­ tion options to farmers
+Occur within crop diversification
+Use of crops/varieties less susceptible to temperature related diseases and pests and to frost
+Occur within
+Controlled agriculture, vertical farming
+Occur within vertical farming; con­ trolled agriculture
+Use of integrated pest control measures
+Occur within pest control
+Use of multi-functional field margins
+Occur within field margins
+Enhancement of soil retention
+Occur within
+Improved land drainage
+Occur within drainage
+Livestock/ aquaculture production
+Increased production of fodder crops to supplement rangeland diet affected by cli­ mate change
+Occur within fodder crops
+Adoption of sustainable aquaculture tech­ niques to address changes in fish stocks resulting from climate change impacts and supplement local fish supplies, etc.
+Occur within aquaculture
+Increased resilience of shepherds and small ruminants to climate change through sustainable rangeland management
+Occur within rangeland manage­
+
+[Page 43]
+AN ANALYSIS OF URBAN CLIMATE ADAPTATION FINANCE
+Infrastruc­ ture, en­ ergy and, other built environ­ ment
+Adapta­ tion in projects to im­ prove climate resil­ ience of existing infra.
+Existing infra­ structure adap­ tation
+Operation of transmission systems that convey the electricity from the generation facility to the distribution system
+Affecting city transmission, distribu­ tion
+Improving the resilience of electricity trans­ mission also increases the resilience of operations that depend on electricity
+Affecting city resilience transmission
+Improving the resilience of gas transmis­ sion and distribution networks for safety and energy system resilience purposes
+Affecting city safety
+Flood protection of riverine infrastructure
+Occur within flood protection
+Flood protection for human settlements
+Occur within
+Heat and flood resilience building of exist­ ing transport infrastructure
+Occur within heat
+Building resil­ ience into new infra. such as protec­ tion sys­ tems
+New infrastruc­ ture resilience
+Protection systems for dams to reduce ex­ treme weather vulnerability
+Affecting city protection; dam; ex­ treme weather
+Improving the climate resilience of new re­ newable electricity generation to improve the climate resilience of other sectors that rely on electricity
+Affecting city
+District heating and cooling networks
+Occur within district heating; district cooling
+Green spaces and corridors in urban areas that provide urban ventilation and reduce urban heat island effect
+Occur within green space; green corridor; ventilation; island effect
+Urban farming and gardening (thereby increasing water infiltration capacity of the soil and providing additional shading)
+Occur within urban farm; urban gar­ den
+Disaster risk man­ agement
+Disas­ ter risk manage­ ment
+Monitoring and warning sys­ tems
+Early warning / emergency response sys­ tems to adapt to increased occurrence of extreme events by improving disaster pre­ vention, preparedness and management and reducing potentially related loss and damage
+Affecting city emergency response system; prevention; preparedness
+Monitoring of disease outbreaks and de­ velopment of a national response plan (to adapt to changing patterns of diseases that are caused by changing climatic con­ ditions)
+Affecting city monitoring; disease; national response plan
+ICT data-driven systems for monitoring, early warning and emergency response systems (Data processing, hosting and related activities) and development of data processing methods, especially machine learning and statistics approaches
+Affecting city
+Infrastructure
+Construction or improvement of drainage systems to adapt to an increase in the fre­ quency or severity of floods
+Occur within
+
+[Page 44]
+AN ANALYSIS OF URBAN CLIMATE ADAPTATION FINANCE
+Coastal protection
+Coastal protec­ tion
+Grey infra­ structure
+Building of improved or new dykes to protect infrastructure and to enhance the climate resilience to increased storms and coastal flooding, and sea level rise
+Occur within dykes; storms; coastal flooding; sea level
+Nature-based solutions
+Mangrove planting to build natural barriers to adapt to increased coastal erosion and to limit saltwater intrusion into soils caused by sea level rise
+Occur within mangrove; natural bar­ rier; coastal erosion; salt water intrusion
+Additional or improvements in coastal and riverine infrastructures (including built flood protection infrastructure) in response to increased flood risks
+Occur within
+Rehabilitating coral reefs and seagrass areas
+Affecting city coral reef; seagrass
+Industry, extractive industries, manufac­ turing & trade
+Manu­ facturing
+Manufacturing
+Manufacturing (e.g., design of climate-resil­ ient equipment)
+Affecting city climate resilient equip­ ment
+Process­ ing and distribu­ tion
+Processing and distribu­ tion
+Use of increased cooling requirement in food processing distribution & retail result­ ing from more extreme heat events (e.g., increased water-efficiency in processing)
+Affecting city cooling; extreme heat
+Ex­ tractive indus­ tries
+Extractive in­ dustries
+Climate resilience investments or programs in extractive industries (oil, gas, mining, etc.)
+Affecting city climate resiliency pro­ gram
+Policy and national budget support & capacity building
+Dedicat­ ed bud­ get sup­ port to national or local authori­ ties
+Capacity build­ ing
+Develop technical and institutional capacity of government and civil society (private sector, local communities, NGOs) to ad­ dress increasing climatic risk in climate change adaptation planning
+Occur within capacity; climate risk
+Knowledge sharing/aware­ ness raising
+Knowledge dissemination of lessons learned on climate-smart actions and adap­ tation planning
+Occur within dissemination
+Climate index insurance initiated, policy in­ fluenced, and lessons learned and shared through a knowledge management system
+Occur within insurance
+Educational campaigns and general press coverage of long-term risks
+Occur within
+Alert systems planned with appropriate messages and media
+Occur within
+Knowledge creation
+Development of climate models, and re­ search for reducing uncertainty on climate change projections and impact assess­ ments
+Affecting city climate model
+Scientific research on and development of methodologies for the evaluation of poten­ tial, effectiveness and efficiency of imple­ mented adaptation solutions
+Affecting city research; development
+Scientific research on and development of adaptation technologies and solutions (incl. introduction of pilot studies/ early warning systems etc.)
+Affecting city
+Policies
+Water restrictions and consumption cuts
+Occur within
+
+[Page 45]
+AN ANALYSIS OF URBAN CLIMATE ADAPTATION FINANCE
+Others / crosssectoral
+Other
+Other
+Cross-sector activities such as financial services like incorporation of climate risk assessment in ministerial investment ap­ praisal processes (if not included in the categories above)
+Occur within climate risk assess­ ment
+Health systems’ adaptation to changes in disease vectors or other climate change health impacts (e.g., development of a national response plan for diseases out­ breaks)
+Affecting city disease vector
+Retreat from high risk areas
+Occur within retreat
+Financial ser­ vices
+Establishing a microfinance credit system
+Occur within microfinance
+Insurance against climate-related hazards 
+Occur within
+Climate related hazard
+Incentivizing adaptation behavior, requiring minimum building standards, or adherence to build-back-better principles
+Occur within building standard
+Individual aid (cash transfers) prior to shocks 
+Occur within
+Matched or leveraged rainy day funds with local financial institutions promotes finan­ cial inclusion and individual buffers
+Occur within
+Developing curricular tools and sponsored literacy campaign
+Occur within
+Sovereign/municipal insurance; pooling of insurance risks across jurisdictions
+Occur within
+Micro-insurance and health insurance
+Occur within
+
+[Page 46]
+AN ANALYSIS OF URBAN CLIMATE ADAPTATION FINANCE
+2. DATA METHODOLOGY: ADAPTATION 
+FINANCE DEFINITION APPLICATION 
+To define adaptation finance in the Landscape, CPI uses practices from i) the members of the OECD’s Development Assistance Committee (DAC), data for which is publicly available through the Creditor Reporting System (CRS) database; ii) the group of 
+Multilateral Development Banks (MDB) and members of the International Development 
+Finance Club (IDFC) reporting on climate finance; and iii) the group of Multilateral 
+Climate Funds, as reported through the Climate Funds Update. The adaptation finance tracked in the Landscape is tagged as adaptation by reporting entities.
+Projects in the World Bank PPI database are not directly tagged as “adaptation”. 
+Because the data focuses on projects that either directly or indirectly serve the public, it is likely to cover a range of adaptation actions. We apply our urban adaptation taxonomy to identify projects with adaptation potential. Given the limitations of the World Bank PPI dataset in terms of registering climate risk assessment, the projects identified fail to set out the project’s context of vulnerability to climate change, make an explicit statement of intent to address this vulnerability as part of the project, or demonstrate a clear and direct link between the vulnerability and the specific project activities, as is required per the MDB-IDFC Common Principles for Climate Adaptation Tracking. Because this information is not available, the team has assessed the adaptation relevance of projects using the Project Taxonomy listed above. Projects listed in the database are assessed against the keywords developed and the projects counted as having urban adaptation finance potential are those that fit with the keyword search and are reported as urban or municipally based. 
+In contrast to the Landscape and World Bank PPI data, projects reported by cities in the question 3.0 of the CDP Cities questionnaire are assessed to all fit the definition of adaptation for cities as they are explicitly reported as projects aiming to address a specific climate hazard reported by the city.
+3. CDP CITIES PROJECT EXAMPLES
+As noted in the discussion of the CDP Cities date, defining project timelines and providing consistent categorization with respect to implementation stages will allow further clarity to users of the data. Examples of projects over USD 1bn+ are listed here to illustrate to variety of types of project costs reported by cities.
+• 
+New Orleans: A New Orleans hurricane and storm damage risk reduction system project reported as USD 12 billion is added in documentation as planned to be implemented over 10 years. The project, authorized and funded after hurricanes 
+Katrina and Rita, has focused on strengthening flood walls, levees, gated structures and pump stations along the Greater New Orleans perimeter system. Some of the documentation has also listed the total project budget at $14 billion but there continues to remain a lack of clarity in the data set of the fundraising and implementation timeline19.
+Brochure%20Jan%202018-web.pdf.
+
+[Page 47]
+AN ANALYSIS OF URBAN CLIMATE ADAPTATION FINANCE
+• 
+Hong Kong: As per available documentation, in 2008, the city of Hong Kong reported an initial investment of USD 6.8 billion for a flood risk management project. 
+The overall implementation timeline of flood risk management projects has been stated as 1994 to 2010 which included the completion of a series of drainage master plans, followed by regular reviews20. 
+• 
+Edmonton: The City of Edmonton, Canada, reported a partnership to develop and implement a 18 actions to tackle climate change, including an urban flooding resilience and an initiative to fight extreme heat island effect, through a program at USD 1.2 billion but is still seeking financing and has encountered challenges in raising sufficient funds21.
+4. THE URBAN ADAPTATION FINANCE GAP
+Though analysis exists of the adaptation finance gap, there is not a comprehensive analysis of the finance gap associated with urban adaptation needs. ‘Counting the Costs’ from UN-Habitat and AidData, a research lab based at William & Mary University, is a potential data set for an assessment of the adaptation financing gap in cities and would be fruitful for further exploration.
+The AidData dataset contains city data for five countries—Bolivia, Colombia, India, 
+Malaysia, and Sweden—and is intended to quantify the city-level costs for urban areas to achieve SDG11. The study aims to enable city leaders to accurately assess what resources are needed or to identify shortfalls. The assessment is done via a two-phase effort to develop a systematic, replicable, and scalable approach to capture both the “hard” and “soft” costs to support sustainable cities in the lead-up to 2030. The study uses the current data collected to determine an average share of urban adaptation and mitigation in overall city costs across the different sectors (transport, housing, waste management, green spaces and governance). These shares can be then applied to the 
+AidData to estimate the proportion of future costs that can reasonably be expected to be for mitigation and adaptation efforts. 
+This data could support establishment of costing methodologies to fill gaps in our data. 
+The AidData report outlines in detail the methodology used to estimate the costing needs across the different sectors (transport, housing, waste management, green spaces, and governance).
+21  Edmonton Journal. https://edmontonjournal.com/news/local-news/edmonton-releases-climate-change-adaptation-plan

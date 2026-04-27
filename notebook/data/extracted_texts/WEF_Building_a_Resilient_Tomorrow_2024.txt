@@ -1,0 +1,1069 @@
+[Page 1]
+Building a Resilient 
+Tomorrow: Concrete 
+Actions for Global Leaders
+W H I T E P A P E R
+J A N U A R Y 2 0 2 4
+In collaboration with 
+McKinsey & Company
+
+[Page 2]
+Images: Getty Images reserved. No part of this publication may be reproduced or transmitted in any form or by any means, including photocopying and recording, or by any information storage and retrieval system.
+Disclaimer 
+This document is published by the 
+World Economic Forum as a contribution to a project, insight area or interaction. 
+The findings, interpretations and conclusions expressed herein are a result of a collaborative process facilitated and endorsed by the World Economic Forum but whose results do not necessarily represent the views of the World Economic 
+Forum, nor the entirety of its Members, 
+Partners or other stakeholders.
+Foreword
+Executive summary
+1 Setting the effort in context
+1.1 The Resilience Consortium
+1.2 Identifying resilience pioneers
+2 Walking the walk on resilience
+2.1 Climate, energy and food
+2.2 Supply chain
+2.3 Organizational readiness
+3 Investing in resilience
+4 The path to resilience
+Conclusion
+Contributors
+Endnotes
+Building a Resilient Tomorrow: Concrete Actions for Global Leaders
+
+[Page 3]
+Foreword
+In Hiroshima, within Myojoin Temple, stands a remarkable ginkgo tree that has defied the odds for over 150 years. This venerable tree not only endured the radiation of the atomic bomb but has also persevered through subsequent challenges, including damage from typhoons and lightning strikes. This last spring, it once again sprouted, showcasing its enduring vitality.
+Today’s leaders are becoming more aware of the value of investing in resilience, not just to survive but to thrive in a world of ever-increasing disruption. 
+Clearly, the value at risk from inaction highly exceeds the cost of action, with an impact on gross domestic product (GDP), ranging from -8% to 15%.1 
+In 2022, the Resilience Consortium was launched as a catalyst for public and private-sector efforts. Since then, there has been an increase in awareness of and commitments to resilience. 
+Despite this momentum, private and public sector institutions are still falling short. For example, The 
+Sustainable Development Goals Report 2023 reveals a reversal of progress, disproportionately affecting poorer countries.2 
+This is why now is the time for action: to move from “talking the talk” to “walking the walk”.
+In previous papers, Resilience for Sustainable, 
+Inclusive Growth and Seizing the Momentum to 
+Build Resilience for a Future of Sustainable Inclusive 
+Growth, we defined a common resilience framework with six themes and identified critical drivers of resilience. Now, we present examples of how to put resilience into practice. The case studies are not meant to be prescriptive but should be understood as a source of inspiration for leaders to initiate or advance their journey. 
+This paper focuses on three resilience themes: climate, energy and food; supply chain; and organizational readiness. Not because they enjoy priority over other areas but because focus is required given their breadth.
+Finally, building on the learnings from the case studies and discussions that have taken place since launching the consortium, this paper outlines seven actions for public and private sector leaders to promote resilience.
+We extend our appreciation to all Resilience 
+Consortium members, Forum initiative leaders and expert panellists for their efforts and contributions to this report. We hope it offers valuable guidance, profound insights and inspiration.
+Børge Brende 
+President, 
+World Economic Forum
+Bob Sternfels 
+Global Managing Partner, 
+McKinsey & Company
+Building a Resilient 
+Tomorrow: Concrete 
+Actions for Global Leaders
+January 2024
+Building a Resilient Tomorrow: Concrete Actions for Global Leaders
+
+[Page 4]
+Executive summary
+Since its launch in 2022, the Resilience Consortium has aimed to harmonize and reinforce resiliencebuilding efforts across the public and private sectors. To do so, it released two comprehensive reports focusing on identifying themes and the enablers required to start building resilience. 
+Since opening the floor to such conversations, the consortium has shone a light on numerous remarkable examples of resilience from the private and public sectors. However, it would be unrealistic to assume that there is not much work to be done. 
+The time to act is now, and organizations need to move from “talking the talk” to “walking the walk”.
+To put resilience into action, the consortium believes showcasing examples from organizations that have already embarked on this journey is vital, as it can serve as a source of inspiration for those looking to embark on or progress further along their path towards resilience. This paper provides an in-depth analysis of nine case studies across three resilience themes: climate, energy and food; supply chain; and organizational readiness. These case studies cover the public and private sectors, impacting four continents.
+The case studies represent a spectrum of initiatives that showcase the diverse approaches organizations are taking to enhance resilience and adapt to global challenges. The insights derived from them, along with the dialogues the consortium has engaged in over the last two years, have enabled the identification of seven priority actions across three pillars: building the resilience muscle with new leadership and organizational capabilities; understanding, measuring and monitoring your organization along its entire resilience journey; and developing public-private partnerships to address challenges no one party can tackle alone. These actions are intended to serve as guiding principles for senior leaders as they strive to strengthen their ability to thrive in a risk-prone world.
+Leaders need to move towards putting resilience into action.
+Seven actions for leaders to build resilience within their organization
+F I G U R E 1
+Pillar 1
+Build the resilience muscle with new resilience leadership and organizational capabilities
+1. Develop a new resilience leadership mindset
+2. Create a resilience agenda addressing short and longerterm risks and opportunities
+Pillar 2
+Understand, measure and monitor your organization along its entire resilience journey
+3. Assess your organization against a resilience framework 
+4. Develop methodologies to factor resilience in decision-making
+5. Continuously measure and communicate the resilience status to internal and external stakeholders
+Pillar 3
+Develop public-private partnerships to address challenges no one party can tackle alone
+6. Develop new financing and insurance mechanisms to de-risk resilience
+7. Set up a public-private partnership machinery to promote collaboration through multiple interventions
+Building a Resilient Tomorrow: Concrete Actions for Global Leaders
+
+[Page 5]
+Setting the effort in context
+Bolstering resilience by harnessing strong momentum.
+The Resilience Consortium has worked with public, private and social sector partners in recent years to build momentum for action and foundational frameworks for leaders to start on their path to resilience. In Resilience for Sustainable, Inclusive 
+Growth, the consortium set out the case for resilience in the context of a volatile and risk-laden world. 
+Increasingly frequent crises and disruptions, often magnified and spread from one sector to another by the complex networks that drive the global economy, could quickly wreak havoc that disproportionately affects the most vulnerable in our society.
+In the face of this challenge, a lack of preparation can prove catastrophic, meaning going beyond financial reserves to address resilience in all its facets has become a core task for all leaders. 
+The consortium then identified strategic resilience themes as a foundation for discussions of resilience: climate, energy, and food; trade and supply chain; people, education, and organizational readiness; healthcare; digital and technology; and geopolitics.
+Subsequently, in Seizing the Momentum to Build 
+Resilience for a Future of Sustainable Inclusive Growth, the consortium sought to contextualize the significance of these themes by estimating their potential impact on world gross domestic product (GDP) by 2030. This research confirmed that resilience themes can have a substantial impact on both short-term and longterm GDP, with effects ranging from a decrease of 
+8% to an increase of 15%, affirming its significance.
+The consortium also outlined the main enablers organizations and societies must develop to start catalysing change in the resilience themes. These are new leadership and organizational capabilities for agility, funding to transform society at scale, sustainable and inclusive economic development to strengthen the fabric of societies, and close collaboration between the public and private sectors to achieve scale, share risk and bring together highly specialized teams.
+Building on this initial work, the consortium extracted the resilience themes and enablers to create two comprehensive frameworks to serve as a kickstarter for public and private sector organizations’ journeys. The frameworks set out the action areas and capabilities public and private sector leaders should consider as they conduct a systematic resilience review (see Figure 2).
+The Resilience Consortium
+1.1
+Understanding resilience
+B O X 1
+Resilience should be seen as the long-term ability of organizations and economies to deal with adversity, withstand shocks and continuously adapt and accelerate as disruptions and crises arise over time.3 Iberdrola’s West of Duddon Sands 
+Offshore Windfarm in the United Kingdom © Iberdrola
+Building a Resilient Tomorrow: Concrete Actions for Global Leaders
+
+[Page 6]
+Private and public sector resilience frameworks
+F I G U R E 2
+Operational resilience
+Market position and demand resilience
+Societal alignment and purpose
+Digital and technological resilience
+Organizational resilience
+Financial resilience
+Private sector resilience
+Fo re si gh t an d pr ep ar ati on c ap ab ilit ie s
+Ex ec uti on a nd a da pt ati on c ap ab ilit ie s
+Human capital resilience
+Energy, nutrition and water supply
+Critical infrastructure and security
+Equitable society and political resilience
+Fiscal resilience
+Trade dependenices and economic resilience
+Public sector resilience
+Fo re si gh t an d pr ep ar ati on c ap ab ilit ie s
+Ex ec uti on a nd a da pt ati on c ap ab ilit ie s
+Building a Resilient Tomorrow: Concrete Actions for Global Leaders
+
+[Page 7]
+Throughout its analysis and research, the consortium has been motivated by growing interest and action to build resilience among organizations in the public and private sectors. However, it would be unrealistic to deny there is still much work to be done.
+To continue this progress, the consortium launched a programme to compile leading case studies from the private and public sectors that could inspire leaders looking to promote resilience across three themes: climate, energy and food; supply chain; and organizational readiness. The most outstanding among them are presented as “resilience pioneers” in this report.
+Based on the submissions received, the panel identified nine outstanding examples (see Figure 3). 
+They are showcased in the following chapter.
+For this report, the consortium followed a rigorous process. It identified potential case study candidates by analysing over 1,000 public and private sector organizations from across all regions and industries based on a set of financial and resilience-relevant key performance indicators (KPIs) assessable through publicly available information. 
+This exercise was complemented with qualitative insights to identify organizations where KPIs were not readily available. Following the analysis, over 100 organizations were invited, and 36 submissions were received.
+Identifying resilience pioneers
+1.2
+Selection methodology
+The consortium convened an independent expert panel of representatives from the public and private sectors, academia and civil society to review the submissions against a set of criteria.
+Topical relevance: The focus on and understanding of resilience and the applicable theme, including awareness of and adaptability to emerging trends and an identifiable strategic perspective.
+Scalability and sustainability: The potential for the initiative to continue and grow its impact, including a long-term plan, objectives and demonstrated ability to scale. 
+Quantifiability: The use of metrics to assess and advance impact, including definition, regular tracking and the link between performance metrics, decision-making and planning.
+Demonstrated impact: The importance of impact achieved, including an absolute change and relative impact considering scale.
+Partnerships: The presence of partnerships to improve results, including cross-industry collaborations and multistakeholder partnerships (i.e. public-private).
+ Siemens – resilient electrcity via selfsustainable microgrids. “Our life was very, very difficult at that time of our parents, the old time,” says Upper Blinkwater community member 
+Neliswa Gaju. © Siemens AG
+B O X 2
+Building a Resilient Tomorrow: Concrete Actions for Global Leaders
+
+[Page 8]
+Snapshot of 2023 resilience pioneers
+F I G U R E 3
+Impact
+Organization
+Summary
+The share of renewable energy increased from 
+25% to 60%
+Diesel consumption decreased by 
+1,150 tonnes
+3,636 tonnes of carbon dioxide equivalent (CO2e) reduced per year
+6 tonnes of CO2 sequestered yearly by every hectare of rehabilitated land
+280,000 hectares of land rehabilitated
+3.2 million people reached $2.3 billion was allocated to 400 applications in ﬁscal 2022 alone
+In total, 80% of installed capacity is associated with emission-free technologies
+Emissions decreased to 88 g/kWh globally 
+Emissions decreased to 59 g/kWh in Europe
+Thus far, 75% lower emissions than its 
+European competitors 
+Deploying a self-sustainable, renewablepowered electric microgrid in isolated communities to provide green, reliable and grid-independent power
+Boosting Sahelian farmers’ resilience through land restoration, sustainable resource management, irrigation and other infrastructure, and training
+Enhancing climate resilience through technical aid and ﬁnancial incentives for underserved communities, including risk awareness, nature-focused solutions, community involvement, and collaborations with various sectors and local governments
+Increasing resilience in operations, through smart grid technology, storage infrastructure and green hydrogen technology
+Climate, energy and food
+Impact
+Organization
+Summary
+Ensuring supply of daily consumer goods for the Finnish population in emergencies disrupting electricity or ICT systems (pilot ﬁnished, planning national scale-up)
+15 countries improved their score in a three-year timeframe
+A total of 
+39 countries used the tool
+75 million kilos of food traced
+Over 2 million farmers trained, ﬁnanced or digitized
+Equipping grocery stores in Finland with emergency backup generators to provide access to essential goods during crises
+Empowering governments to assess their national supply chains, leading to clear roadmaps, stakeholder engagement and increased transparency
+Enhancing farming supply chain resilience through digital tools, data, access to ﬁnancing and education for smallholder farmers
+Supply chain
+Savings and avoided losses of $538 per family
+1,500 families with beneﬁts of $4.4 per $1 invested
+Over 50,000 employees are engaged
+Together they have more than 500,000 hours of training
+51 government entities using 
+Jahiz
+Delivering educational content through a digital platform, Jahiz, to government employees to build capabilities for future government demands
+Promoting a disaster risk-management approach through anticipatory action to connect early warnings, mitigation and ﬂexible ﬁnancing against drought risks in the Philippines
+Impact
+Organization
+Summary
+Organizational readiness
+Building a Resilient Tomorrow: Concrete Actions for Global Leaders
+
+[Page 9]
+Walking the walk on resilience
+The world needs resilience pioneers.
+Resilience plays a crucial role in tackling climate change and attaining a net-zero future. It entails adapting to climate-related challenges while simultaneously transitioning to cleaner energy and sustainable food and water systems, all while managing economic impacts. 
+Despite progress towards net zero, the world still falls short of attaining its objectives (see Figure 4). The consequences of climate change are becoming more apparent, posing a growing threat to food and water security and the availability of energy resources. The 
+Intergovernmental Panel on Climate Change (IPCC) estimates that 3.3 to 3.6 billion individuals reside in areas highly exposed to climate change.
+Climate, energy and food
+2.1
+Emissions and expected warming based on pledges and current policies (1990-2100)
+F I G U R E 4
+-10
+1990 
+2000 
+2010 
+2020 
+2030 
+2040 
+2050 
+2060 
+2070 
+2080 
+2090 
+2100
+Historical
+2030 target gap
+19-22 GtCO2e
+Policies and action +2.5-2.9˚C
+Global GHG emissions GtCO2e/year
+2030 targets only +2.5˚C
+Pledges and targets +2.1˚C
+Optimistic scenario +1.8˚C
+1.5˚C consistent
+Source: Climate Action 
+Tracker, 2023
+Crafting a secure, affordable and clean path to net zero presents decision-makers with a complex challenge, further influenced by external factors like macro shocks and geopolitics. While leaders acknowledge that resilience is essential, these factors interact uniquely within various organizations, sometimes constraining their capacity to address concerns effectively.
+The resilience pioneers presented in this section showcase four distinct perspectives on resilience, which should not be viewed as conflicting but rather as complementary. Furthermore, they illustrate that while all perspectives involve organizations adapting to climate-related challenges, resilience presents context-dependent elements, rendering it a journey fraught with complexities. 
+Decision-makers should acknowledge that the path towards a resilient future is not linear. However, the trajectory towards this goal remains resolute and unwavering in the long run. Leaders must understand that the challenge of maintaining resilience while driving towards net zero is too great to face alone. 
+Public-private partnerships are needed to effectively address these challenges by fostering collaboration that leverages the strengths of both sectors.
+The value at stake in the climate, energy and food resilience agenda is enormous: action or inaction will shift global GDP from -1% to +7.4% by 2030.4 
+Moreover, achieving carbon neutrality by 2050 will require annual expenditures equivalent to 7.5% of world GDP on physical assets for energy and landuse systems.5 The time to act is now.
+Building a Resilient Tomorrow: Concrete Actions for Global Leaders
+
+[Page 10]
+Overview
+Siemens’ end-to-end microgrid technology supplies renewable energy independently from the main grid, allowing isolated communities to access electricity. Implementations include 
+Terceira Island, increasing its grid’s independence and efficiency, and Upper Blinkwater, where most households are underserved by the national grid.
+Impact highlights
+Terceira Island: A €14 million investment helped to boost renewable adoption and decrease emissions.
+ –
+Renewable energy share rose from 25% to 60%.
+ –
+Yearly emissions reduced by 43% (3,636 tonnes of carbon dioxide equivalent (CO2e)).
+ –
+Diesel consumption reduced by 44% (1,150 tonnes).
+Upper Blinkwater: The microgrid provides clean, reliable energy for all.
+ –
+80% excess electricity reduction per year through batteries, leading to 16% in fuel savings.
+ –
+About 90% of the community’s electricity is generated by renewables.
+ –
+Supported 67 households (100%) with enough power for daily needs, such as running a mobile phone charger, a TV and a kettle.
+Key actions
+Terceira Island –
+Conducted technical studies using a digital twin to optimize the electrical system, considering future needs and the island’s specific conditions.
+ –
+Carried out cost-benefit analyses on replacing generators with batteries, focusing on savings and the advantages of increased renewable use.
+ –
+Introduced a two-part system: a smart microgrid controller and an autonomous battery system to optimize energy use and store excess power.
+Upper Blinkwater –
+In collaboration with the German Development 
+Cooperation (GIZ), Siemens deployed smart controllers, home meters and an innovative mini-shedding module to prevent overloading.
+ –
+Provided training to community members and municipality employees to operate the microgrid independently.
+Lessons learned –
+Engage in continuous communication and close coordination with local partners.
+ –
+Promote local ownership of sustainable solutions through training, planning and design.
+Future focus –
+Integrate small wind generators into the microgrid in 
+Upper Blinkwater to end the use of diesel and achieve an entirely renewable and locally generated supply.
+ –
+Expansion to meet growing demand, with an upcoming 
+80-million-dollar project in six European islands and a planned project in Kenya.
+Siemens – Resilient electricity via self-sustainable microgrids
+R E S I L I E N C E P I O N E E R 1
+Employees
+Revenue
+Headquarters
+Impact locations
+311,000 €71.977 billion in 2022
+Germany
+Terceira Island (Azores) and 
+Upper Blinkwater (South Africa) 
+Building local ownership through close collaboration with community stakeholders is fundamental to unlocking the transformational impact of clean energy technologies. 
+Matthias Rebellius 
+Member of the Managing Board, Siemens and 
+Chief Executive Officer, Siemens Smart Infrastructure
+Microgrids for sustainability
+A microgrid is a group of interconnected loads and distributed energy resources that can act as a single, controllable entity with respect to the main energy grid and operate independently. The energy source can be sustainable, such as photovoltaic, wind, hydropower or biomass, and the supply is backed up through biodiesel generators, emergency power units and storage systems. The software allows the user to control the operation based on energy demands, delivering daily energy efficiency and long-term cost savings.6
+Building a Resilient Tomorrow: Concrete Actions for Global Leaders
+
+[Page 11]
+Overview
+The Sahel Integrated Resilience Programme focuses on enhancing food and climate resilience in the Sahel region. 
+Their comprehensive approach rehabilitates land, promotes sustainable farming techniques and builds capabilities within local governments and academia.
+Impact highlights –
+Reached over 3.2 million people across 3,000 villages, rehabilitating 280,000 hectares of land with an investment of over $500 million.
+ –
+Every rehabilitated hectare of land sequesters 6 tonnes of CO2 annually.
+ –
+Nearly 80% of supported villages in drought-affected areas (approximately 500,000 people) were shielded from the food crisis in Niger during 2022, resulting in savings of $30 million in food aid. Similar gains were observed in 2023.
+ –
+Vegetation levels in treated areas of Niger surged by 50%.8 –
+The proportion of households using emergency coping methods to overcome food shortages (e.g. liquidating productive assets) decreased by over 50 % across all five countries between 2018 and 2022.
+ –
+Social cohesion has been enhanced through dialogue in participatory planning and a decrease in resource conflicts.
+In Chad:
+ –
+The construction of a dike led to the creation of 500 hectares of fertile land, doubling local agricultural output and income to $677,000. This project, costing $960,000, paid for itself in just three years.
+ –
+Establishing 2km of brick-built micro dams resulted in 850 hectares of arable land. With an investment of $750,000, the return period was 1.5 years, and the benefit-to-cost ratio stood at four. These dams also replenish water reserves and protect residents downstream from flooding.
+Key actions –
+Introduced Farmers’ Learning Centres for testing and disseminating traditional and new farming practices.
+ –
+Developed infrastructure like dikes, solar water pumps and storage facilities to enhance yields and incomes.
+ –
+Strengthened community bonds through participatory planning, growers’ associations and collaborations with governments and universities.
+ –
+Adopted a systematic monitoring approach, using tools like satellite imagery to evaluate impact.
+Lessons learned –
+Collaborating with local communities enhances the effectiveness of resilience programmes.
+ –
+Strengthening social cohesion and inclusive decisionmaking supports sustained impact.
+ –
+Consistent impact measurement, such as using satellite imagery, is crucial for stakeholder engagement.
+Future focus –
+Expansion to new villages, aiming to benefit 5 million people in 4,500 villages with an investment of $1.5 billion.
+ –
+Encourage community ownership, small-scale businesses and grower associations.
+ –
+Create partnerships with governments, companies and other entities for technological, financial and market support.
+World Food Programme – 
+Sahel Integrated 
+Resilience Programme
+R E S I L I E N C E P I O N E E R 2
+Employees
+Raised
+Headquarters
+Impact location
+23,000 $14.1 billion in 2022
+Italy
+The Sahel
+Empowering communities with the resources, knowledge and support to manage threats to their food security is the key to building long-term resilience and breaking the cycle of repeated hunger crises. 
+Cindy McCain 
+Executive Director, World Food Programme
+The Sahel
+The Sahel, with a population of around 80 million, is a semi-arid region between the Sahara and the Sub-Saharan savannas. The region has experienced desertification and increasing food security challenges in recent decades.7
+Building a Resilient Tomorrow: Concrete Actions for Global Leaders
+
+[Page 12]
+Overview
+The US Federal Emergency Management Agency (FEMA) aims to assist individuals pre-, during and post-disasters. It funds local and community-led projects in disaster mitigation, emergency preparedness and other infrastructure. These efforts aim to increase local and national resilience to climate disasters, enhance capability and capacity building, provide technical assistance, and support disadvantaged communities. With nearly $4 billion in funding already allocated, FEMA’s Building 
+Resilient Infrastructure and Communities (BRIC) programme is an innovative, national-scale resilience programme, benefiting hundreds of communities by minimizing disaster impacts. The programme uses advanced methods to select projects based on diverse factors like economy, environment and community involvement. Emphasizing equity, FEMA offers technical aid and financial incentives to underserved communities through BRIC. 
+The initiative promotes risk awareness, nature-focused solutions, community involvement, and collaborations with various sectors and local governments.
+Impact highlights –
+Funds allocated to projects in 55 states and territories and 34 tribal nations, enabling resilience efforts on a truly national scale.
+ –
+Nearly $4 billion already allocated to more than 1,000 applications, with $2.3 billion for over 400 projects in the 
+2022 financial year (FY22).
+ –
+A significant portion of the FY22 funds will benefit disadvantaged communities.
+ –
+FEMA offers non-financial technical assistance for resilience planning and designing investments to increase the programme’s accessibility.
+ –
+Funded projects including flood risk reduction in a city through sewer capacity increase and green solutions, wildfire risk reduction and electricity supply enhancement for over 
+2,000 residents in a rural area, and support to a Native 
+American tribe for a microgrid in a healthcare facility.
+Key actions –
+Institutionalized BRIC as a bi-partisan federal programme supported by the White House and the US Congress and with a dedicated funding stream under the Disaster Recovery 
+Reform Act of 2018 established by the US Congress and signed into law by the President of the United States.
+ –
+Sought external expertise and feedback with over 
+5,000 comments received to refine the programme.
+ –
+Established a rigorous selection process with three main components: cost-benefit analysis for project selection, technical criteria promoting current FEMA priorities and qualitative criteria emphasizing community engagement and future planning.
+ –
+Instituted BRIC technical assistance to support stakeholders with no resources to begin climate resilience project planning and design to prepare their application.
+ –
+Increased federal project funding cost share from 
+75% to 90% for disadvantaged communities.
+ –
+Launched Community Resilience Disaster Zones in 2023 to attract private and public investments towards socially vulnerable communities most susceptible to natural hazards. 
+Lessons learned –
+Devise a funding strategy that enables sustained and long-term investment.
+ –
+Employ comprehensive methodologies for effective funding decisions.
+ –
+Invest in building knowledge and capabilities in disadvantaged communities for equitable resilience.
+Future focus –
+Continue to refine the selection process to maximize impact while prioritizing equity.
+ –
+Seek more funding sources due to BRIC being oversubscribed, reaffirming a real need for scaling the programme even further.
+US Federal Emergency 
+Management Agency – Funding climate resilience nationwide
+R E S I L I E N C E P I O N E E R 3
+Employees
+Budget
+Headquarters
+Impact locations
+20,000 $30 billion in FY 2023
+Washington, DC
+United States of America
+We are living through an unprecedented increase in severe weather events. In order to meet this moment, we need to break away from the rinse and repeat of disaster response and recovery. It is only through intentional, smart planning and investments that we will create communities resilient in the face of the extreme weather events of today and the future.
+Deanne Criswell 
+US Federal Emergency Management Agency Administrator
+BRIC programme
+Since 1980, the United States has sustained over 370 climate and weather-related disasters with overall damages exceeding $1 billion, costing more than $2.6 trillion in total recovery9. With a desire to invest in communities before disasters happen10 and clear evidence that mitigation strategies save between $4-11 for every $1 spent,11 BRIC was launched in 2020.
+Building a Resilient Tomorrow: Concrete Actions for Global Leaders
+
+[Page 13]
+Overview
+Iberdrola is a world-leading power utility and global leader in renewables. It is striving towards net-zero emissions across scopes before 2040 through its climate action plan. This science-based strategy is supported by corporate values and focuses on minimizing direct emissions and targeting carbon neutrality for scopes 1 and 2 by 2030.
+Impact highlights –
+Over €140 billion invested in the energy transition in the past two decades, based on renewable energy, smart grids, large-scale energy storage and digital transformation.
+ –
+Emissions reduced to 88 gCO2/kWh globally and 59 gCO2/ kWh in Europe, outperforming European competitors by 75%.
+ –
+90% of investment is allocated to renewables and smart grids.
+ –
+80% of installed capacity is emission-free and 
+40 GW of renewable capacity in 2022.
+Key actions –
+Committed €47 billion in investments for 2023-2025 and expected €65-75 billion for 2026-2030 for the energy transition.
+ –
+Closed 17 coal and fuel-based power stations since 2001, culminating in 2022 by demolishing the chimney of their last facility in Spain.
+ –
+Launched Tâmega gigabattery in 2022, one of the largest in Europe, boasting 1,200 megawatts (MW) in capacity and capable of storing the needs of 11 million people for 24 hours.
+ –
+Pioneered the development of green hydrogen through the completion of the Puertollano green hydrogen plant in Spain and over 60 pipeline projects in eight countries targeting sectors like chemical and heavy-duty transport.
+Lessons learned –
+Fully incorporate climate action in corporate governance and aim to be climate action frontrunners.
+ –
+Align the climate action plan, the strategic plan and the environmental, social and governance (ESG) approach and metrics to keep advancing towards the energy transition.
+ –
+Engage suppliers and other stakeholders in decarbonization efforts, developing partnerships and collaborations for innovation and emission reductions.
+Future focus –
+Deliver on the strategic plan to reach 52 gigawatts (GW) of renewables capacity in 2025, more than 80 GW in 2030 and over €65 billion in network regulated asset base.
+ –
+Become net positive in nature by 2030 through the biodiversity plan and achieve the goal of the Trees Programme of planting 20 million trees by 2030, potentially capturing 
+6 million tonnes of CO2e (MtCO2e) in 30 years.
+ –
+Support communities embedding the just transition across business by extending the Electricity for All 
+Programme, striving to reach 16 million people without electricity by 2030, with 11 million already served since 2014.
+Iberdrola – Implementing the climate action plan for a sustainable future
+R E S I L I E N C E P I O N E E R 4
+Employees
+Revenue
+Headquarters
+Impact locations
+40,000 €53.949 billion in 2022
+Spain
+Mainly in Europe, the United States, 
+Latin America and Australia
+We are bringing forward the energy transition to offer a sustainable and competitive model that builds on climate resilience and creates value for society.
+Agustín Delgado 
+Chief Innovation and Sustainability Officer, Iberdrola
+Net-zero investments in the energy sector
+World energy consumption is responsible for over threequarters of greenhouse gas (GHG) emissions. To achieve net zero by 2050, investments in energy in developing countries need to quadruple to $1 trillion by 2030, focusing on renewables.12
+Building a Resilient Tomorrow: Concrete Actions for Global Leaders
+
+[Page 14]
+Supply chains have always exhibited susceptibility to interruptions. However, over recent years, spikes in supply chain disruptions have become increasingly commonplace (see Figure 5). 
+The COVID-19 pandemic, its subsequent repercussions, and the ongoing conflict in Ukraine have laid bare the vulnerabilities inherent in today’s global supply chains.
+Governments have responded by employing measures to create incentives to help improve the resilience of their supply chains (e.g. stockpiling critical components and reshoring efforts). 
+Companies, too, have responded by undertaking substantial structural transformations within their supply networks to respond to these disruptive forces. A survey conducted by McKinsey across advanced industries in Europe and North America shows that more than 80% of respondents plan to prioritize financial and operational resilience over the next two years.13 The interplay of these factors and uncertainty has pushed for geoeconomic fragmentation and increased pressure on global supply chains, resulting in price fluctuations and heightened consumer uncertainty.
+The examples presented in this chapter illustrate how supply chain resilience can take different forms depending on the economy’s sector and the organization’s context. However, they all share the common long-term goal of developing the necessary capabilities to manage disruptions, withstand shocks and continually adapt as disruptions and crises occur over time, that is, future-proofing their supply chains.
+Leading companies’ responses share characteristics, although no one-size-fits-all recipe exists. The starting point is to develop a clear supply chain strategy, which involves a diagnosis, defining goals, designing the network and identifying required resources. Some companies are using digital transformation to enable this process. Additionally, leaders actively manage the sourcing process to ensure that suitable materials are available at the right time and cost, which requires managing and promoting collaboration with suppliers. It is also essential to ensure that goods and services are produced efficiently and effectively while maintaining high levels of quality. The final goal is to deliver products swiftly and cost-effectively to the final users, ensuring their satisfaction.
+Lastly, it is crucial to acknowledge that futureproofing supply chains requires a focus on sustainability. Supply-chain decarbonization is increasingly seen as a prerequisite for businesses to maintain their licence to operate, as it accounts for 11.4 times that of a company’s operational emissions on average.14
+Forging resilient supply chains is not a quick sprint but a marathon demanding endurance. Supply chain risks are dynamic, requiring continuous reviews and early warning systems to guarantee the effective implementation of appropriate resilience measures.
+Supply chain
+2.2
+Global Supply Chain Pressure Index (GSCPI) 
+F I G U R E 5
+14+ year typical range
+-1
+-2
+2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Standard deviations from the average value
+Source: Federal Reserve Bank of New York, Global Supply Chain Pressure Index
+Building a Resilient Tomorrow: Concrete Actions for Global Leaders
+
+[Page 15]
+Overview
+Under the Ministry of Economic Affairs and Employment, the 
+National Emergency Supply Agency (NESA) spearheads the 
+Resilient Retail Network project. This initiative aims to ensure a consistent supply of essential groceries during emergencies by making grocery stores crisis-ready while minimizing disruptions to everyday routines.
+Impact highlights –
+Successfully completed the pilot phase with full rollout to finish by 2029.
+ –
+95% population coverage achieved with a meticulously mapped network of stores.
+ –
+Three operational pilot stores initiated in three major private grocery chains.
+Key actions –
+Undertook a comprehensive preparedness analysis in the 
+Finnish grocery store network, benchmarked against Swedish peers and surveyed experts from various sectors.
+ –
+Implemented best practices in pilot stores from three major chains to assess feasibility and costs for a national launch.
+ –
+Designed a store network to ensure 95% population coverage, considering the Finnish household preparedness model’s guidelines for household supplies.
+ –
+Promoted public-private cooperation, with NESA funding initial research and stores sharing subsequent costs, boosting profitability during crises.
+Lessons learned –
+Encourage public-private partnerships, as early public funding can reduce private sector risks and make use of businesses’ unique expertise and infrastructure for efficient and effective resilience actions.
+ –
+Cultivate long-term trust with the private sector to co-create efficient, cost-effective resilience solutions.
+Future focus –
+Conclude the planning stage and execute a full project rollout by 2029.
+ –
+Extend the crisis-ready network model to other vital sectors, including fuel supply stations, to ensure comprehensive preparedness during emergencies.
+National Emergency Supply 
+Agency – Creating a crisisready grocery store network
+R E S I L I E N C E P I O N E E R 5
+Employees
+Revenue
+Headquarters
+Impact locations
+Over 85 €222.8 million in 2022
+Helsinki
+Finland
+Societal preparedness can be best achieved through extensive cooperation and close relationship between the private and public sector, where trust is the keyword.
+Janne Känkänen 
+Chief Executive Officer, National Emergency Supply Agency
+A national commitment to resilience
+Finnish preparedness is built around a comprehensive security model, laying out the basis for cooperation between government, businesses and citizens to maintain the vital functions of society15 and ensure Finland can overcome and recover from disruptions.
+Building a Resilient Tomorrow: Concrete Actions for Global Leaders
+
+[Page 16]
+Overview
+UNICEF’s Supply Chain Maturity Model (SCMM) offers countries a comprehensive measurement framework to evaluate and uplift their national supply chains. The model identifies areas for improvement and focus, informs policies and encourages stakeholder collaborations to ensure access to essential supplies and services.
+Impact highlights –
+Invested approximately $300,000 for SCMM development, piloting, updates and support tools.
+ –
+39 countries used SCMM to enhance essential services access. For example:
+ –
+Malawi used SCMM to boost COVID-19 testing, treatment and vaccine deployment, resulting in the National Supply 
+Chain Transformational Master Plan (2021-2026).
+ –
+Central African Republic pinpointed reasons for stockouts affecting malnutrition therapeutic food availability.
+ –
+SCMM insights enabled 15 nations to improve supply chain maturity by at least one level from 2018 to 2021.
+Key actions –
+Formulated a holistic framework evaluating national supply chains, distinguishing between eight operational processes and five enablers.
+ –
+Operational processes comprising forecasting, budgeting and planning, procurement, import and clearance, product quality inspection, storage and distribution, end-user monitoring, and monitoring and evaluation. –
+Enablers comprise workforce development, data analytics, network optimization, financing and resource mobilization, and legislation, regulations and policies.
+ –
+Advocated for a government-led approach that builds consensus for action, gathering government leaders and partners in week-long workshops to agree on roadmaps to serve as a national supply chain strengthening strategy.
+ –
+Prioritized tool accessibility by making it free, quickly deployable and adaptable to address any component of a supply chain, and with an online variant for remote assessments.
+ –
+Introduced the Cross-Partner Coordination Platform, offering a visual overview of supply chain initiatives per country.
+Lessons learned –
+Promote government ownership when deploying systemstrengthening tools by making them government-led, easily accessible and affordable.
+ –
+Encourage collaboration and transparency through stakeholder-engaging tools, leading to efficient policy decisions.
+Future focus –
+Collaborate with the United Nations Environment 
+Programme (UNEP) to introduce a sustainability interaction in SCMM, targeting supply chain evaluations from socioeconomic and environmental perspectives.
+UNICEF – Supply Chain 
+Maturity Model
+Employees
+Income
+Headquarters
+Impact locations
+17,197 $9.3 billion in 2022
+New York
+Global (39 low- and middleincome countries)
+Local ownership and stronger collaboration among stakeholders are needed to strengthen supply chain systems and make them more resilient and effective so they can best deliver for children and their families.
+Catherine Russell 
+Executive Director, UNICEF
+The importance of national supply chains
+National supply chains are the bedrock of public welfare systems and are pivotal to advancing the Sustainable 
+Development Goals and the 2030 Global Health Security 
+Agenda. They are also important in crises, including the 
+COVID-19 outbreak. Identifying areas for improvement is a fundamental step towards these objectives.
+R E S I L I E N C E P I O N E E R 6
+Building a Resilient Tomorrow: Concrete Actions for Global Leaders
+
+[Page 17]
+Overview
+Farmerline, a Ghanaian growth stage company, partners with local agribusiness and multinational firms Hershey and Export 
+Trading Group (ETG) to bolster farming supply chain resilience using digital tools and data. Through its Mergdata platform, 
+Farmerline supports smallholder farmers by offering educational resources, access to supplies and credit. Simultaneously, the platform aids companies in managing supply chains by forecasting harvests and ensuring the quality and sustainability of their purchases.
+Impact highlights –
+Trained, financed or digitized more than 2 million farmers, 
+300,000 directly and the remainder via partnerships.
+ –
+Farmers call and engage with the helpline around 7 times monthly for an average of 2 minutes.
+ –
+Increased engagement with educational content by 65% by offering it in local languages.
+ –
+Traced and digitized 75 million kilos of food.
+ –
+Channelled $20 million for farmers’ loans and innovating financing for agribusiness.
+ –
+Increased farmer’s yields two-fold and income by $306 on average.
+Key actions
+Empowered farmers via:
+ –
+An offline helpline providing information on resilient farming, weather and market conditions.
+ –
+An online educational app offering localized advice, gamified content, cocoa sector news and more.
+ –
+A digital credit scoring and embedded financing app to accelerate the adoption of high-quality and affordable agricultural inputs like drought-resistant seeds. 
+Advanced supply chain transparency through:
+ –
+Creating digital identities for farms and farmers.
+ –
+Deploying a traceability platform to monitor and protect approximately 280 million acres of national forest and conservation areas in five countries accounting for 70% of cocoa production.
+ –
+Tracing crops from seed purchasing to delivery.
+ –
+Partnered with multinational firms like Hershey and ETG to bolster their supply chain transparency.
+Lessons learned –
+Focus on small businesses, like smallholder farmers, as they are the foundation of numerous global industry supply chains.
+ –
+Use digital tools to enhance small supplier transparency, unlocking innovative business and financing models.
+ –
+Encourage partnerships with various stakeholders, including farmers, local and global businesses, governments and nongovernmental organizations, to build systemic resilience.
+Future focus –
+Work alongside governments, partners and mobile networks to keep expanding farmer helplines.
+ –
+Accelerate at least $3 billion of climate adaptation finance to farmers and community-led agribusinesses in collaboration with financial institutions.
+ –
+Connect smallholder farmers to at least 100 million units of climate-resistant products.
+Farmerline – Boosting smallholder suppliers’ resilience through data
+R E S I L I E N C E P I O N E E R 7
+Employees
+Raised
+Headquarters
+Impact locations
+Over 80 $20 million
+Ghana
+Global (48 countries)
+Empowering smallholder farmers and local agribusinesses with the capabilities and resources to succeed is fundamental to strengthening the backbone of global food supply chains.
+Alloysius Attah 
+Co-Founder and Chief Executive Officer
+Agricultural employment in West Africa
+West African nations have some of the highest agricultural employment shares in the world, with Ghana’s at 28.5%, 
+Nigeria’s at 34.7% and Niger’s at 74.8%, making farming profitability a key lever for long-term growth.16
+Building a Resilient Tomorrow: Concrete Actions for Global Leaders
+
+[Page 18]
+Accelerating disruptions and fundamental technological and societal shifts are tensioning organizations. These shifts present challenges and opportunities, contingent on how organizations address them. In this context, rapid response to shocks has become expected. It is imperative to remain prepared and agile, ready to act. However, while adaptability is vital to staying competitive, the cultivation of resilience sets organizations apart, as it empowers them to transform shocks into sustainable and inclusive growth opportunities.
+Organizations should empower decentralized decision-making and autonomous teams to enhance flexibility and agility. Their operating models must be able to adapt to volatility and respond to evolving challenges. Organizations that can quickly rebound from crises may gain significant advantages over competitors: a recent McKinsey survey across advanced industries showed that over 60% of respondents are acting to improve decision-making and organizational agility in the short term.17 
+However, more is needed for the long term. 
+Organizations must establish institutional capabilities through a cohesive blend of people, processes and technology. According to the aforementioned survey, more than half of respondents were considering long-term actions to attract and retain their workforce, promote diversity and inclusion, promote a culture of innovation and upskill the workforce in response to automation.
+Human capital could become a bottleneck for organizations looking to future-proof themselves. 
+According to the Forum’s Future of Jobs Report 
+2023, 60% of organizations expect skill gaps in their local labour market to be the main barrier to the transformation of their business.18 Meanwhile, the proportion of 10-year-olds able to understand a simple text fell from 43 to 30% since the pandemic began.19
+Organizations must, therefore, invest in acquiring the skills of the future, starting by mapping the roles to fill to achieve strategic objectives and their skill profile and deploying the most efficient mix of hiring and skilling to acquire that talent. Countries, too, must invest in closing skill gaps and developing the workforce the new economy demands through educational and training programmes.
+Success entails significant benefits for all parties involved. Building human capital pays off. An analysis of 38 publicly listed companies found those with more than 30% of their workforces in capability-building programmes achieved a total shareholder return (TSR) of 43% above benchmarks.20 Moreover, when companies emphasize skill development, it pays off for workers.
+If fully implemented, these actions can build into a virtuous cycle: adaptable, diverse and resilient organizations will attract the best talent, and this talent will make them even more robust. However, the cycle may be vicious if left unattended.
+Organizational readiness
+2.3
+Barriers to business transformation
+F I G U R E 6
+Share of surveyed organizations expecting these factors will limit the transformation of their business
+Share of organizations surveyed (%)
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+0%
+Skills gaps in the local labour market
+59.70%
+Inability to attract talent
+53.40%
+Outdated or inﬂexible regulatory framework
+41.90%
+Source: World Economic Forum, Future of Jobs Report 2023, 2023.
+Building a Resilient Tomorrow: Concrete Actions for Global Leaders
+
+[Page 19]
+Overview
+In response to digital advancements, the pandemic and other major changes, the United Arab Emirates sought to modernize its government with a focus on digital integration while preserving in-person choices. To this end, the Government Development and the Future office, in collaboration with the Federal Authority for Government Human Resources, introduced “Jahiz” – a digital platform. Jahiz aims to upskill employees with future skills, enhance their expertise in new technologies, boost their productivity and introduce them to the new economy.
+Impact highlights –
+Adoption by 51 government institutions.
+ –
+Over 50,000 federal employees participated.
+ –
+Over 500,000 hours of skilling completed.
+ –
+75% of participants affirm that Jahiz enhanced their performance.
+ –
+Employees reported improved productivity, work-life balance and cybersecurity skills.
+Key actions –
+Conducted a national skills assessment to pinpoint the government’s strategy, recognizing skill gaps and understanding citizens’ expectations of the government.
+ –
+Identified the most critical cross-sectoral skill gaps for foundational skilling, emphasizing digital skills, data and 
+AI abilities, and new economy competencies.
+ –
+Developed a flexible digital platform containing self-paced employee courses and “masterclass” content for senior leaders.
+ –
+Introduced the “Future Skills Wallet” to record employee progress and align it with HR and performance systems.
+ –
+Launched the Jahiz Race, a competition among public sector organizations for the “Future Readiness Award”, to spur organization-wide engagement.
+ –
+Partnered with various stakeholders, both public and private, to curate top-notch, tailored content.
+Lessons learned –
+Support from senior leadership is paramount; the prime minister’s endorsement significantly uplifted the programme’s standing.
+ –
+Find win-win public-private partnership models to unlock new possibilities.
+ –
+Start from the basics to pave the way for enduring success, considering the diverse skill levels of employees. 
+Future focus –
+Transition to Jahiz 2.0, aiming for continued upskilling, enhancing the platform with features like peer learning, mentorship, gamified learning and offering specialized courses.
+ –
+Extend support to other governments by sharing content via the United Arab Emirates’ Government Experience 
+Exchange Programme and in global partnerships, including with Microsoft’s Public Sector Center of Expertise.
+Government of the United 
+Arab Emirates – Building human capital for the future
+R E S I L I E N C E P I O N E E R 8
+Employees
+Headquarters
+Impact locations
+Dubai 
+United Arab Emirates
+Governments must invest in capability-building to meet the government demands of the society of the future. 
+Jahiz symbolizes a proactive step towards a government that is not just future-ready, but future-driven. 
+H.E. Ohood bint Khalfan Al Roumi 
+Minister of State, Government Development and the Future; 
+Chairwoman of the Federal Authority for Human Government 
+Resources, United Arab Emirates Government
+United Arab Emirates 2071 
+Centennial Plan
+In 2021, the United Arab Emirates marked 50 years since its founding and set out its 2071 Centennial Plan to guide the country’s next 50 years of growth in government services, the economy and society.
+Building a Resilient Tomorrow: Concrete Actions for Global Leaders
+
+[Page 20]
+Overview
+The Philippines is frequently affected by natural hazards. The 
+Food and Agriculture Organization of the United Nations (FAO) is working closely with the government towards a pre-emptive disaster risk-management approach, focusing on anticipatory action (AA) to connect early warnings, mitigation and flexible financing. The Philippines is increasingly threatened by droughts. 
+The 2015-16 El Niño resulted in crop losses of 1.5 million tonnes, with over 400,000 farmers requiring recovery assistance, and damages of $325 million in Mindanao. Ahead of the 2018-19 
+El Niño, AA was deployed to soften the impact.
+Impact highlights –
+Deployed $400,000 from the AA window of FAO’s Special 
+Fund for Emergency and Rehabilitation Activities, benefitting 
+1,500 families.
+ –
+Households reaped benefits of $4.4 per $1 spent.
+ –
+Affected families saw $538 in savings and avoided losses.
+ –
+Feedback from communities in Cotabato indicated revitalized rice production, diminished debt and better water accessibility.
+ –
+Farmers across Mindanao were educated on drought anticipation through workshops, improving farming techniques.
+Key actions –
+Developed drought AA protocols in Mindanao in collaboration with national and local stakeholders, with a conflict-sensitive lens, to monitor indicators, like abnormal weather, to predict and act upon droughts.
+ –
+Collaboratively crafted AA protocols with local communities, detailing independent and joint actions with 
+FAO, prioritizing those that mitigate conflict drivers. –
+Activated flexible AA funds in November 2018 upon system warnings and field confirmations.
+ –
+Quickly designed interventions for the local context, supporting rice farmers against forecast drought and providing alternative income sources.
+ –
+Adjusted intervention strategies based on distinct planting seasons between provinces:
+ –
+In Cotabato, where farmers had not commenced planting, 
+50 tonnes of drought-resistant rice seeds and fertilizer were distributed, as well as squash and mung bean seeds to farmers upon request.
+ –
+In Maguindanao, where rice fields were already planted, and escalating conflict threatened to cut off access to fields, women-led co-ops started community gardens and were provided livestock, seeds, tools and irrigation support. Communities were also engaged in canal cleaning for cash, as many could not access their rice farms due to ongoing conflict. –
+Partnered with local governments to introduce 50 irrigation kits benefiting 1,500 families.
+ –
+Launched awareness campaigns on the imminent drought, providing crop protection tips.
+Lessons learned –
+Implement monitoring tools with clear rules to increase transparency and foresight, boosting AA and resilience to minimize strain on humanitarian resources.
+ –
+Partner with local authorities to improve efficacy and targeting.
+ –
+Employ conflict-sensitive strategies when planning against climate risks, as context analysis and local expertise ensure activities do no harm and follow a no-regrets principle.
+Future focus –
+Strengthen and deepen collaborations with the Philippine government in Mindanao by working with the Department of 
+Social Welfare to support the most vulnerable against another 
+El Niño-induced drought in 2023/24.
+ –
+Scale up the role of AA in displacement contexts by analysing the necessary technical considerations. –
+Amplify AA collaborations globally, now in over 30 nations.
+Food and Agriculture Organization – Anticipatory action: the Philippines’ experience with drought
+R E S I L I E N C E P I O N E E R 9
+Employees
+Budget
+Headquarters
+Impact locations
+11,561 $3.25 billion planned for 2022-23
+Rome
+Mindanao, Philippines
+Poverty in Mindanao
+In the provinces of Cotabato and Maguindanao in Mindanao, two-thirds of the population reside below the poverty line. The national average is around 20%. Conflicts in Mindanao have hindered development, exacting a heavy toll to this day.
+Building a Resilient Tomorrow: Concrete Actions for Global Leaders
+
+[Page 21]
+Investing in resilience
+Making the case for mobilizing investment in resilience through public-private collaborations.
+High initial expenses and limited short-term gains may push leaders to question the worth of investing in resilience. However, a long-term view underscores its relevance, providing a sustainable foundation for future growth. The resilience pioneers in this paper show organizations have reaped substantial rewards from investing in resilience. 
+Moreover, from a country-level perspective, the 
+US National Institute of Building Sciences found that every $1 spent on federal mitigation grants saved the government $6 in natural disaster relief.21 
+Further systemic analyses confirm that investment in resilience pays off and creates long-term value.
+Data from more than 1,200 publicly traded companies in the United States and Europe shows that those thinking ahead and making early investments tend to outperform competitors throughout crises. This paper’s analysis measured key metrics of financial resilience and identified a group of top resilient companies that were in the top 40% of improvement for at least two of these metrics in the early stages of recent economic downturns. Top resilient companies’ 
+TSR was 15, 6 and 9 percentage points above their sector’s median on an annualized basis during the 
+Dot-Com, Global Financial and COVID-19 crises, respectively. Sector-specific analyses further show the return to early action. For instance, in advanced electronics, top resilient companies’ yearly TSR was 
+10, 7 and 12 percentage points above the sector median, while consumer packaged goods’ top resilient companies outperformed by 14, 7 and 11 percentage points during the Dot-Com, Global 
+Financial and COVID-19 downturns, respectively.
+Companies that improve their financial fundamentals early tend to outperform their peers during downturns. This includes increasing margins and building optionality through balance sheet strengthening, enhancing their ability to promptly allocate capital for long-term investments. These steps protect companies against the effects of crises while allowing them to take advantage of the growth opportunities economic recovery brings. 
+For governments, investment in resilience is often perceived as a choice between short- and longterm needs. Taking a longer-term view makes the case for resilience clear, as shown by public-sector examples from the resilience pioneers showcased in this report and other government initiatives. 
+Government cash transfers reached a record high during the COVID-19 pandemic, mitigating financial strains for 1.36 billion people22 and the scale of the shock on economies. The pandemic also showed the value of resilient health systems. A 20% increase in Germany’s public health budget early in the pandemic allowed it to double the number of intensive care beds. Total healthcare spending rose 
+5.5% in 2021 across the 60 biggest economies.23 Farmerline’s field agents visit farms to create digital profiles of the properties and the farmers that work on them. © Farmerline Group 
+Building a Resilient Tomorrow: Concrete Actions for Global Leaders
+
+[Page 22]
+Yet large and growing differences in state capacity and resources between countries demand special focus be placed on building resilience in emerging markets. This becomes more relevant in light of rising public debt and slower economic growth, which threaten the livelihoods of the most vulnerable. Growth in developing countries in the past two decades slowed from 6 to 5% and may average only 4% over the next seven years. 
+Every lost percentage point of economic growth pushes 100 million people into poverty, and a further 50 million into extreme poverty.24 To bridge the gap in government investment, new instruments to mobilize resources are needed, such as the 
+International Monetary Fund’s (IMF) Resilience and Sustainability Trust, and public-private collaborations are fundamental to creating them.
+Growth in emerging markets and developing economies
+F I G U R E 7
+Percentage of historic and projected GDP growth in emerging markets and developing economies
+1%
+2%
+3%
+4%
+5%
+6%
+7%
+Year % GDP growth
+2005-09
+2010-14
+2015-19
+2020-24
+1990-94 
+1995-99
+2000-04
+0%
+2.2
+3.8
+5.9
+4.4
+3.4
+5.5
+6.3
+Source: World Bank, Global Economic Prospects, 2023.
+Climate adaptation has drawn significant investment and advanced public-private collaboration, with proven returns for businesses and communities. As showcased in this paper, the FAO’s investments in the Philippines achieved a 4:1 benefit-to-cost ratio. 
+Yet, despite the case for investment in adaptation, opportunities to build resilience to climate change are missed due to a lack of resources. The annual investment gap on the path to net zero has been estimated at around $3.5 trillion.25 A total of $29 billion was mobilized in 2020 for climate adaptation in developing countries, while yearly needs are estimated at $340 billion by 2030.26
+Similar investment gaps can be observed across the other resilience themes. In terms of talent, the World Economic Forum estimates the total investment required to reskill workers threatened by technological change to be $34 billion in the 
+US alone (around 0.2% of GDP). In healthcare, the Organisation for Economic Co-operation and Development (OECD) estimates that priority investments to strengthen resilience amount to 
+1.4% of GDP over pre-pandemic levels across member countries.27 In supply chain, governments have committed significant resources. In 2021, 
+Saudi Arabia announced an investment of $133 billion in logistics infrastructure by the end of this decade with the aim of becoming a global transport and logistics hub.28 The Japanese government pledged $2 billion to assist companies in reshoring while, in Australia, the government announced over $1 billion to support manufacturers in priority sectors.29
+Even without a definitive estimate of the global resilience investment gap, these numbers make clear the historic task at hand. Significant returns await those willing to make their wagers on resilience. The undertaking is substantial, yet essential, and public-private collaborations can further expedite the necessary transformations.
+Building a Resilient Tomorrow: Concrete Actions for Global Leaders
+
+[Page 23]
+Pillar 1
+Build the resilience muscle with new resilience leadership and organizational capabilities
+The path to resilience
+Building capabilities, methods and partnerships to create resilience.
+ –
+Action 1: Develop a new resilience leadership mindset. As a recent publication by McKinsey shows, only 16% of companies believe their organization is prepared to anticipate external shocks and disruptions.30 
+A resilience mindset should include defence and offence strategies to increase flexibility and adaptability to disruptions and changes. This is not only true of top management but should draw on the organization’s knowledge, making use of middle management’s insight and empowering teams with an “owner mindset”. Appointing a person responsible for resilience with a transversal view of the organization is key. This does not necessarily imply creating a new position but ensuring a senior leader has a comprehensive view of relevant resilience efforts.
+ –
+Action 2: Create a resilience agenda addressing short and longer-term risks and opportunities. This should integrate the organization, moving away from isolated approaches of unconnected initiatives. In a recent McKinsey survey, a third of 2,500 leaders estimate that initiatives are launched in isolation, thus limiting their effectiveness in addressing resilience.31
+While significant efforts have been undertaken in recent years to strengthen resilience, these have often been conducted in isolation and in response to urgent crises, falling short of a holistic, long-term approach. Accelerated action is needed. However, as institutions read this paper, they may feel lost on where to start. Three essential pillars serve as guiding principles for senior leaders in building resilience, which materialize in seven concrete actions.
+ Government employees use digital platform Jahiz to learn throughout the day. © Jahiz @ FAHR
+Building a Resilient Tomorrow: Concrete Actions for Global Leaders
+
+[Page 24]
+Action 3: Assess your organization against a resilience framework to understand the starting point and gaps and develop a comprehensive resilience transformation plan. The resilience framework for public and private institutions introduced by the Resilience Consortium serves as a basis for organizations.32 –
+Action 4: Develop methodologies to factor resilience in decision-making. Organizations need to move from a point-in-time and deterministic perspective towards scenariobased thinking, understanding the value of initiatives under several plausible narratives. 
+Bringing a diverse scenario perspective will help to make decisions that may not be obvious under a monolithic view but become apparent when factoring in probability-weighted scenarios.
+ –
+Action 5: Continuously measure and communicate the resilience status to internal and external stakeholders. Organizations need to identify a set of KPIs that provide an integrated view of their resilience status and its evolution over time. Given the complex nature and lack of transparency of resilience and the value at stake, public and private sector institutions would benefit from further clarity on the investment done and its return with objective and quantifiable metrics. –
+Action 6: Develop new financing and insurance mechanisms to de-risk resilience. 
+Neither private nor public institutions have the standalone capacity to fund the large capital allocation needed to achieve resilience. Leaders should redouble efforts to maximize innovative financing instruments such as transition finance and hybrid capital to benefit developing economies, reallocating special drawing rights, or using parametric insurance to bridge infrastructure investment gaps and improve resilience to climatic events. –
+Action 7: Set up a public-private partnership (PPP) network to enable collaboration through multiple interventions. The public and private sectors need each other more than ever. There are many examples of how partnerships can deliver joint solutions that could not be achieved in isolation (e.g. global public goods for resilience). For this purpose, however, the mindset to approach challenges in cooperation needs to be enabled among organizations. To ensure a prosperous collaboration, private and public institutions should prioritize efforts and focus on a set of collaborations where the gap for resilience is the largest. 
+The clock is ticking. There is increasing awareness among global leaders of the importance of working systemically towards resilience. Better positioning resilience within the multilateral agenda, focusing on private-public partnerships, can accelerate progress. A crucial step in that direction is the upcoming replenishment of the International 
+Development Association (IDA) – a financing package to help the world’s poorest countries.
+ Selling produce provided families with a complimentary source of income. © FAO/Mark Navales
+Pillar 2
+Understand, measure and monitor your organization along its entire resilience journey
+Pillar 3
+Develop public-private partnerships to address challenges no one party can tackle alone
+Building a Resilient Tomorrow: Concrete Actions for Global Leaders
+
+[Page 25]
+Conclusion
+In an increasingly complex world, the headwinds facing the public and private sectors threaten to knock organizations off course. In such a context, resilience has become an increasingly critical prerequisite for organizational and societal performance. Leaders from the public and private sectors have become more cognizant of what it means to be resilient and are gradually shifting towards a mindset of preparing for the unexpected and proactively building their response capabilities.
+Since its launch in 2022, the Resilience Consortium has gathered insights into numerous remarkable instances of resilience where private and public sector institutions have risen to the challenge. 
+Inspired by such journeys, the consortium believes that showcasing resilience examples from leading organizations can help to catalyse a broader resilience mindset in society. As this report illustrates, there is no one-size-fits-all solution. 
+While investment gaps are evident across resilience themes, the resilience pioneers and analysis presented in this paper are proof that investing in resilience pays off and creates long-term value. 
+There is no turning back. The present time must be recognized as an opportunity to build a different muscle group for resilience and a new leadership model for the future. To do so, organizations need to recognize where they stand on their resilience journey and leaders need opportunities to share experiences, learn from best practices and build partnerships to develop joint solutions. 
+The Resilience Consortium will continue its work on building a joint resilience agenda. It will serve as a forum for public and private sector leaders to exchange solutions and best practices for resilience challenges and advance towards a common framework for navigating and assessing progress by investing in resilience. Developing knowledge contributions equips leaders with the necessary tools to act, positioning them as the pioneers the world needs to advance towards achieving resilience.
+Building a Resilient Tomorrow: Concrete Actions for Global Leaders
+
+[Page 26]
+Contributors
+Acknowledgements
+World Economic Forum 
+Mirek Dušek
+Managing Director, World Economic Forum
+Efrem Garlando 
+Community Specialist, International 
+Organizations and Humanitarian Agenda
+Andrej Kirn
+Head, International Organizations and Humanitarian Agenda 
+James Purcell
+Deputy Head, International Organizations and Humanitarian Agenda
+McKinsey & Company
+Rima Assi 
+Senior Partner
+Michael Birshan
+Senior Partner
+Daniela Britto
+Associate
+Teresa Diviu 
+Associate Partner
+Emilie Drop
+Associate
+Lukas Eberli
+Associate
+David Frances
+Partner
+Alejandro Ilizaliturri
+Business Analyst 
+Dana Maor 
+Senior Partner
+María del Mar Martínez 
+Senior Partner
+Daniel Pacthod 
+Senior Partner
+Alex Panas 
+Senior Partner
+Thomas Poppensieker 
+Senior Partner
+Zachary Silverman
+Partner
+Humayun Tai
+Senior Partner
+This paper is based on numerous consultations and inputs from the World Economic Forum and 
+McKinsey & Company colleagues involved in resilience-related initiatives. Sincere thanks are given to all those who contributed their insights via interviews or written contributions, including those not captured here.
+Building a Resilient Tomorrow: Concrete Actions for Global Leaders
+
+[Page 27]
+Independent Expert Panel
+Climate, energy and food
+Simon Henzell-Thomas
+Global Director, Climate, Ingka Group
+Harry Kennard
+Senior Research Associate, Center on 
+Global Energy Policy, Columbia University
+Jannsen Santana
+Postdoctoral Researcher, 
+Universidade Federal da Paraíba
+Mohan Vivekanandan, 
+Group Executive, Development Bank of Southern Africa
+Supply chain
+David Fitzsimons
+Director, European Remanufacturing Council
+Jan Hoffmann 
+Chief, Trade Facilitation Section, United Nations 
+Conference on Trade and Development
+Virpi Stucki
+Chief, Division for Fair Production, Sustainability 
+Standards and Trade, United Nations Industrial 
+Development Organization
+Organizational readiness
+Abdullahi Alim
+Head, Project 2030, International 
+Chamber of Commerce
+Jane Nelson 
+Director, Corporate Responsibility Initiative, 
+Kennedy School of Government, Harvard University
+Mito Tsukamoto
+Chief, Development and Investment Branch, 
+International Labour Organization
+Production
+Laurence Denmark
+Creative Director, Studio Miko
+Sophie Ebbage
+Designer, Studio Miko
+Martha Howlett
+Editor, Studio Miko
+Building a Resilient Tomorrow: Concrete Actions for Global Leaders
+
+[Page 28]
+Endnotes
+World Economic Forum, Seizing the Momentum to Build Resilience for a Future of Sustainable Inclusive Growth, 2023, 
+2. “How much progress is being made on the UN’s Sustainable Development Goals?”, World Economic Forum, 
+3. resilience-for-sustainable-inclusive-growth/.
+4. 
+World Economic Forum, Seizing the Momentum to Build Resilience for a Future of Sustainable Inclusive Growth, 2023, 
+5. capabilities/sustainability/our-insights/the-economic-transformation-what-would-change-in-the-net-zero-transition.
+6. com/global/en/company/stories/infrastructure/2020/azores-decarbonization-grid-edge-battery-storage-microgrid.
+html?linkId=300000006592349.
+7. “The Sahel Context”, World Food Programme, 2021, https://publications.wfp.org/2021/sahel-resilience/Context.html#C01.
+8. 
+Mishra, V., A.S. Limaye, F. Doehnert, et al., “Assessing impact of agroecological interventions in Niger through remotely sensed changes in vegetation”, Scientific Reports, vol. 13, no. 360, 2023, https://doi.org/10.1038/s41598-022-27242-3.
+9. “Billion-Dollar Weather and Climate Disasters”, National Centers for Environmental Information, October 2023, 
+10. com/articles/524389a; Michel-Kerjan, E., “How resilient is your country?”, Nature, vol. 491, no. 497, 2021, 
+11. pdfs/NIBS_MMC_MitigationSaves_2019.pdf.
+12. 
+13. 
+Mysore, Mihir, Andreas Raggl, Mikael Robertson and Michael Thun, “Resilience during uncertainty: What industrial leaders during-uncertainty-what-industrial-leaders-must-know.
+14. 
+The Carbon Disclosure Project, Scoping Out: Tracking Nature Across the Supply Chain, 2022, https://cdn.cdp.net/cdpproduction/cms/reports/documents/000/006/918/original/CDP-Supply-Chain-Report-2022.pdf?1678870769
+15. 
+Finnish Security Committee, “Security Strategy for Society”, Oct. 16, 2023, https://turvallisuuskomitea.fi/en/securitystrategy-for-society/.
+16. 
+Dokua Sasu, Doris, “Employment in agriculture as a share of total employment in West Africa in 2020, by country”, in-west-africa-by-country/.
+17. “Resilience during uncertainty: What industrial leaders must know”, McKinsey & Company, 8 November 2023, must-know.
+18. report-2023/digest/. 
+19. 
+UNICEF, 70 per cent of 10-year-olds in ‘learning poverty’, unable to read and understand a simple text [Press release], understand-simple-text.
+20. 
+McKinsey & Company, The State of Organizations in 2023: Ten shifts transforming organizations, 2023, 
+21. 
+Federal Emergency Management Agency (FEMA), Natural Hazard Mitigation Saves Interim Report, 2018, 
+22. 
+World Bank, Cash transfers in pandemic times: Evidence, Practices, and Implications from the Largest Scale Up in History, 
+World Bank Group, 2022, https://doi.org/10.1596/37700.
+23. 
+The Economist Intelligence Unit, Covid-19: The impact on healthcare expenditure, 2020. 
+24. 
+Banga, Ajay, Remarks by World Bank Group President Ajay Banga at the 2023 Annual Meetings Plenary, 13 October 
+2023, speech presented at the 2023 Annual Meetings of the World Bank Group and the International Monetary Fund, banga-at-the-2023-annual-meetings-plenary.
+Building a Resilient Tomorrow: Concrete Actions for Global Leaders
+
+[Page 29]
+capabilities/sustainability/our-insights/the-net-zero-transition-what-it-would-cost-what-it-could-bring.
+26. 
+UNEP, Adaptation Gap Report 2022: Too little, too slow: climate adaptation failure puts world at risk, 2022, 
+27. next-crisis-investing-in-health-system-resilience-1e53cf80-en.htm.
+28. 
+Cornwell, Alexander and Marwa Rashad, “Saudi Arabia to invest over $133 bln in transport sector, minister says”, minister-says-2021-07-05. 
+29. 
+Packham, Colin, “Australian PM pledges $1 billion for manufacturing in push to rebuild economy”, Reuters, in-push-to-rebuild-economy-idUSKBN26M4TA. 
+30. 
+McKinsey & Company, The State of Organizations in 2023: Ten shifts transforming organizations, 2023, 
+31. 
+Ibid.
+32. 
+World Economic Forum, Seizing the Momentum to Build Resilience for a Future of Sustainable Inclusive Growth, 2023, 
+Building a Resilient Tomorrow: Concrete Actions for Global Leaders
+
+[Page 30]
+World Economic Forum
+91–93 route de la Capite
+CH-1223 Cologny/Geneva
+Switzerland 
+Tel.: +41 (0) 22 869 1212
+Fax: +41 (0) 22 786 2744 contact@weforum.org
+The World Economic Forum, committed to improving the state of the world, is the 
+International Organization for 
+Public-Private Cooperation.
+ 
+The Forum engages the foremost political, business and other leaders of society to shape global, regional and industry agendas.

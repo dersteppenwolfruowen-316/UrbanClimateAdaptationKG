@@ -1,0 +1,1974 @@
+[Page 3]
+Author will welcome reproduction and dissemination of the contents of this report with proper acknowledgement.
+Shehri-Citizens for a Better Environment
+88-R, Block 2, P.E.C.H.S, Karachi 75400 – Pakistan.
+Tel/Fax: +92-21-34 53 06 46
+E-mail: info@shehri.org
+With the support of
+Friedrich-Naumann-Stiftung für die Freiheit
+Post Box 1733
+House 19, Street 19, F-6/2, Islamabad 44000 – Pakistan.
+Tel: +92-51-2 27 88 96, 2 82 08 96
+Fax: +92-51-2 27 99 15 
+E-mail: pakistan@fnst.org 
+And Technical Assistance of
+The Department of Architecture & Planning, NED University of Engineering and Technology, Karachi
+No of printed copies: 3,000
+First Edition: 2012
+ISBN: 978-969-9491-04-7 
+Disclaimer: 
+Every effort has been made to ensure the accuracy of the contents of this publication. The author or the organization do not accept any responsibility of any omission as it is not deliberate. Nevertheless, we will appreciate provision of accurate information to improve our work. The views expressed in this report do not necessarily represent the views of the Friedrich-Naumann-Stiftung für die Freiheit. 
+About the Author
+Farhan Anwar did his Bachelors in Civil Engineering and Masters in Urban and Regional Planning and operates as an urban planning and environmental management consultant. He specializes in strategic planning for sector and institutional reforms and change management. His portfolio includes urban sustainability planning and managing participatory planning processes, stakeholder dialogue and consensus building using various participatory planning and social accountability tools - E.g. Strategic Environmental Assessment (SEA), Environmental Impact Assessment (EIA),
+Political Economy Analysis, Problem Tree/Logical Framework Analysis (LFA), Citizen Report Card (CRC), and Community Score Card (CSC). He has extended consulting services to the World Bank,
+Asian Development Bank (ADB), the Japanese International Corporation Agency (JICA), the World Conservation
+Union (IUCN), WWF Pakistan and several prominent Pakistani consulting firms. He presently also serves as a Visiting Faculty at the Department of Architecture and Planning, NED University of Engineering and Technology,
+Karachi where he teaches a Masters Course on Planning for Sustainable Development. He has structured and conducted a number of training workshops and brainstorming sessions to review and assess government policies, plans and projects as they relate to the development sector. He has a number of publications to his credit and contributes regularly to leading English language publications in Pakistan on urban planning, environment, and development issues.
+fanwar@onkhura.com
+
+[Page 5]
+ForEworD
+ACkNowlEDgEmENt
+INtroDuCtIoN
+Cities and climate change
+Pakistan – urbanization and climate change adaptation
+SECtIoN 1: kArAChI CIty – CoNtExt For ADAptAtIoN
+Climate change and Pakistan – trends and scenarios
+Climate change – the Karachi City context
+SECtIoN 2: uNDErStANDINg thE ImpACtS
+Flooding
+Flood preparedness
+Spatial planning
+Flood defences and drainage systems
+Flood storage areas
+Sources of ﬂooding
+Drainage basins
+Assessing the risks
+Exposure and vulnerability
+Flood protection
+At risk – people and assets
+People
+Katchi abadis
+Low lying localities
+Hill settlements
+Property and assets
+Emergency response
+Vanishing green spaces – vanishing defences
+End note
+Drought
+Water supply
+
+[Page 6]
+A system already in stress
+Rising water demand
+At risk – the Hub river/dam service area
+KW&SB – utility in stress
+At risk – rural economy and livelihoods
+Bio-diversity
+End note
+Extreme heat Events
+Urban heat island eﬀect
+Karachi – a potential for urban heat island eﬀect
+Population density
+Transport
+Industrial growth
+Fossil fuel consumption and CO2 emissions
+Water usage
+Weakening defences
+End note
+Sea level rise
+Assessing risk
+At risk – people and assets
+People
+Public and private infrastructure
+Public infrastructure
+Private infrastructure
+Ecosystems
+Mangroves – tidal wetlands
+The Sandspit/Hawksbay ecosystem – threatened habitat
+Tropical cyclone in Karachi – likely scenario
+Scenario 1 – Cyclone category III or above (Worst case scenario)
+Storm surge wave
+Storm wind
+Rainfall
+End note
+SECtIoN 3: mANAgINg thE ImpACtS
+
+[Page 7]
+Foreword
+T he issue of climate change ﬁnds relevance to
+Karachi in that the rapid shifts in weather patterns and resulting adverse impacts on the physical and natural environment have a lot to do with human actions that are detrimental to safeguarding natures balance. In Karachi, we ﬁnd that a lot is happening that is seriously damaging the urban environment. Land and water based ecosystems are being destroyed; air is being polluted and natural resources being mismanaged. Shehri-CBE has over the years focused its work on trying to document and prevent violation of land use that we feel is one of the fundamental urban development challenges facing the city having numerous direct and indirect consequences that are seriously constraining the capacity of the city to meet possible damaging climate change impacts. As green spaces are being encroached and coastal land is reclaimed to facilitate development that will cause irreparable damage to precious coastal ecology we are destroying natural defences that can protect us from climate change impacts.
+Ill planned densiﬁcation of core city areas is resulting in creating as yet non-quantiﬁable social and environmental stresses. Uncontrolled urban sprawl is putting the already over stretched civic services to near breakdown status. What is more disturbing is that existing laws are being amended and new legislation is being enacted to facilitate the process of environmental damage just to beneﬁt the short term ﬁnancial interests of a few at the cost of the majority citizens. 
+This unfortunate state of aﬀairs brings into focus the whole issue of bad governance that is at the core of all various unfolding social, political, environmental and ﬁnancial crisis that the city is faced with. The institutions of state both legislative and executive relevant to the city are lacking both the willingness and capacity to meet these challenges and are often found either turning a blind eye or becoming part of the process of violation of rules and regulations meant to safeguard the city’s interest. On a priority there is a need to make these institutions such as the city government, civic services agencies, land control and law and order agencies accountable to the public and capable of delivering eﬀectively upon their mandate. In this regard, ShehriCBE is spearheading eﬀorts to improve access of citizens to information and through sustained advocacy inﬂuencing decision making processes so that public interest is protected. Shehri-CBE is also documenting important land related information such as the status of open spaces in Karachi, cases of land use violations, land grabs and land use conversions such as the ill planned policy measure of commercialization of traﬃc corridors or eﬀorts to create high density zones without any planning provisions for environmental protection or viable service provision. At the same time Shehri-CBE strives to build capacity in public service institutions and promote meaningful civil society and service provider interaction to improve social accountability.
+Shehri-CBE appreciates the continuing support of the
+Friedrich Naumann Stiftung in our eﬀorts to improve governance, promote tolerance, strengthen the political role of the citizens and protect the physical and natural environment in Karachi and Pakistan. In this regard, this initiative of outlining a road map for developing a climate change adaptation strategy for Karachi, will certainly result in identifying areas for governance and service delivery reforms and strengthen informed advocacy eﬀorts of the civil society to ensure good governance and quality living. 
+Amber Alibhai
+General Secretary, Shehri-Citizens for a Better Environment
+
+[Page 8]
+Foreword
+I n the recently published Global Report on Human Settlements of 2011 by United Nations, the impacts of climate change on the cities across the world are discussed. Warmer and more frequent hot days, fewer cold days, recurring hot waves, rise in heavy precipitation, increase in drought occurrence, escalation of cyclone activity and upsurge in sea levels are common factors experienced by settlements in many regions. The impacts are felt by cities in varied frequency and time spans. But the key point of common concern – which is also emphasized by UN Secretary General Ban Ki-moon - is the accelerated vulnerability of poor and down trodden across the globe. In a well researched note, the Report refers the marginalized communities at the highest of risk level due to several reasons. Residence in potentially hazardous locations, inappropriate connection with physical infrastructure, lack of awareness and information (about impending disasters), potential loss of assets and livelihoods and inability to cope with disasters as well as concurrent losses are some factors that make the poor in developing countries prone to maximum destruction. Pakistan is no exception in this respect. 
+Due to an uncontrolled and sprawling fashion of urbanization in Pakistan, the precious natural resources have depleted fast. Whether the mangrove covers around
+Karachi and environs or the precious farmlands around the green terrains of Lahore, expanding residential and quasi-commercial developments continue unabated.
+Now the conﬂict of interest between pro-nature and anti-nature groups is so visible that it directly threatens the peace in cities. On 5th May, two activists who lobbied to safeguard the marine eco-system to conserve livelihoods of ﬁsher folk were allegedly killed by their adversaries. Not long ago, activist Nisar Baloch was assassinated when he was campaigning to safeguard
+Gutter Baghicha in Karachi. It may be understood that the unplanned urbanization, depletion of natural environmental assets and unchecked ﬁddling with marine assets are recipes for a collective suicide! Haywire selection of development projects is also a cause for environmental degradation. Large scale energy intensive residential schemes along the main highways in Karachi,
+Lahore and other cities shall over burden the already fragile infrastructure and supporting environment. Deforestation, loss of farming foot print, pressure on drinking water sources, water logging and salinity are some of the serious issues that are likely to be further compounded in the regime of climate change. 
+The Report oﬀers a rich repository of lessons and examples to beneﬁt from. US and UK have begun retroﬁtting residential and other buildings to limit the emissions of green house gases (GHG). City of Los Angeles has decided to phase out coal based electricity generation plants and replace them with renewable energy works.
+Despite severe space constraints, Singapore has been implementing an ambitious garden plan that includes developing green connections, green rooﬁng, conserving natural heritage and increasing park areas. Beijing has embarked to replace normal lights with energy eﬃcient light bulbs in schools, streets, public spaces and terminal spaces. 
+The sooner we rise to the gravity of situation, the better it shall be for our people and cities. It is quite unfortunate to notice that the National Climate Change Policy has ignored the importance of cities in this respect. The government will do well by reviewing this serious ﬂaw which can cause implications when the policy will be aligned with implementation.
+Dr. Noman Ahmed
+Chairman, Department of Architecture and Planning
+NED University of Engineering & Technology, Karachi
+
+[Page 9]
+Acknowledgement
+T he preparation of the Roadmap has been a challenging and rewarding experience. Challenges faced were many. It was a short duration Study, completed by a small, yet committed team comprising of experienced professionals, fresh graduates and student interns. As climate change and its cross cutting themes, particularly within an urban context encompass a wide and diversiﬁed canvass, the need to prioritize objectives and scope of the Study was imperative and proved as the ﬁrst major challenge. It was decided to proﬁle the city within the context of preparing a climate change adaptation strategy. The proﬁle thus prepared can be termed as a Roadmap to developing a comprehensive Climate Change Adaptation Strategy for Karachi
+City. The approach adopted involved looking into identifying some critical vulnerabilities, the city may be exposed to in the event of climate change. These vulnerabilities were then placed within the context of the possible consequences of climate change on key physical and natural environment and resources along with development and governance processes and activities. Recommendations have then been made to improve the adaptive capacity of the city.
+I am thankful to Shehri-Citizens for a Better Environment and Friedrich Naumann Stiftung for providing me with the opportunity to be a part of this process. I am greatly privileged to have led a wonderful team of professionals engaging and working with whom has been an educative and stimulating experience. Sameer Hamid Dodhy,
+Amber Alibhai and Roland de’souza at Shehri-CBE and
+Muhammad Anwar at FNSt were a constant source of encouragement and guidance. Dr. Noman Ahmed at the
+NED Engineering University has for long served as an amazing resource and asset for the city – educating the future planners and always accessible with his keen insight on critical urban planning and development issues.
+The ﬁeld team of fresh architectural graduates of NED
+Engineering University – Madiha Salam, Hira Salman and Ali Asghar Babat worked long hours with great commitment and enthusiasm, overcoming frustrations in accessing viable data, organizing eﬃciently what could be gathered and assisting with great competence in coordinating and documenting meetings and stakeholder discussions. In the ﬁnalization and compilation of this document, I am greatly indebted to the contributions of
+Mustafa Bhutto and Maryam Hamid Shaﬁq, project interns from the Institute of Business Administration (IBA), Karachi. Their patience, innovation and skill in meticulously working with and organizing countless graphics, illustrations, photographs and textual input proved of great value. 
+The Study gained a lot of credibility as a result of valued advice and assistance provided by the following individuals – Ayub Shaikh, KW&SB, Dr. Jamil Kazmi, Karachi
+University, Dr. Sarosh Lodhi, Dr.Mir Shabbar Ali, Dr.
+Muhammad Adnan and Dr.Atif Mustafa, NED Engineering University, Dr.A.R.Tabriz, NIO, Khadija Zaheer, Zeevar
+Scheik, IUCN, Naomi Alesworth Siddiqui and Dr. Babar
+Hussain, WWF and Dr. Badar Ghauri, Dr. Arjumand Zaidi and Dr.Muneeza Ali, Institute of Space Technology and
+Rozina Karmaliani, AKU. 
+In the end, it is hoped that this document can succeed in stimulating debate and consultation on this important subject of national sustainability and leads to the initiation of a process of evolving strategies and actions for climate change adaptation in urban Pakistan.
+Farhan Anwar
+Urban Planner, Project Team Lead
+April, 2012
+
+[Page 10]
+Introduction
+W hile there is still debate and conﬂicting views about the level of accuracy of the various projections and scenarios related with climate change, and the measures that need to be prioritized now for tackling possible impacts and consequences in the future, there is nevertheless a growing consensus that the global climate is changing.
+The world is becoming warmer and extreme weather conditions such as tropical cyclones, strong rain with ﬂooding or long dry periods have increased in the past years . Within this context, a critical understanding is that it is the human inﬂuence that is largely responsible for these rapid shifts in weather patterns that are quite possibly pushing the earth’s climate beyond a tipping point where certain adverse impacts and consequences may become irreversible. This alarming realization is now lending a sense of global urgency for devising appropriate systems, processes and methodologies to meet this challenge. 
+Trace gases such as water vapor, carbon dioxide (CO2), methane (CH4), nitrous oxide (laughing gas
+N2O), and ozone (O3) though only show up in very slight amounts in the earth’s atmosphere, have a substantial impact on climate: all have the similar eﬀect as glass windows do in a green house. They allow sun ray of shorter wavelengths to pass, while ﬁltering longer wave lengths of radiant energy by partially hanging the sun rays after reaching the surface. These gases are therefore known as green house gases. They are responsible for the natural green house eﬀect that keeps the earth’s average temperature at about 15 °C – without them about -
+18 °C. The natural green house effect is what makes life on earth possible.1 However, human activities such as the combustion of fossil fuels, industrial pollution, land use changes and deforestation, among others, have enhanced signiﬁcantly the concentrations of GHGs in the atmosphere together with a reduction of the capacity of oceans and vegetation to absorb GHGs. This is referred to as an additional or manmade green house eﬀect . With regard to this, carbon dioxide plays a key role. Its participation in the man-made greenhouse eﬀect is placed at approximately 60 % with about three quarters of the manmade increase in CO2 resulting from the burning of fossil fuels .
+CItIES AND ClImAtE
+ChANgE
+The strong link between climate change and urbanization is nothing new but the immensity of the challenge is now becoming more evident. If a single historical event can be identiﬁed for having the most signiﬁcant impact in altering dramatically the ecological balance in the world than it has to be the onset of the age of industrialization.
+Since the onset of the industrial era,
+Fig. 1 the temperature is ‘rising’
+Deviations of the average global temperature of the earth.
+Relative to the average temperature of the climatic period
+1961 -1990 (equals zero) year 1000 1100 1200 1300 1400 1500 1600 1700 1800 1900 2000
+OC 1
+0.5
+0.5
+1.0 global average temperature (northern hemisphere)
+Zone of uncertainty
+Determined via proxy data
+Continual temperature measurement
+Source: simpliﬁed according to IPCC (2001/7007) (Source: IPCC, 2007)
+OC 0.5
+-0.5
+1850 1900 1950 2000
+1 Information on the Topic of “Climate”: Fundamentals, History and Projections (2005 ,Allianz Foundation for Sustainabiliy)
+
+[Page 11]
+Introduction
+Urban areas occupy only 2.8% of the earth’s surface yet as of 2008 more than 50% of the world’s population inhabits urban areas. Rapid urbanization is occurring largely in developing countries where a massive demographic shift has enormous implications in terms of poverty, natural resources and the environment. According to UNHABITAT’s recently published Cities and Climate Change: Global Report on Human Settlements (2011) ‘the proportion of human-induced (or anthropogenic) greenhouse gas (GHG) emissions resulting from cities could be between 40 and 70 per cent, using production-based ﬁgures (i.e. ﬁgures calculated by adding up GHG emissions from entities located within cities). This is in comparison with as high as 60 to 70 per cent if a consumption-based method is used (i.e. ﬁgures calculated by adding up GHG emissions resulting from the production of all goods consumed by urban residents, irrespective of the geographic location of the production).
+The main sources of GHG emissions from urban areas are related to the consumption of fossil fuels. They include energy supply for electricity generation (mainly from coal, gas and oil); transportation; energy use in commercial and residential buildings for lighting, cooking, space heating, and cooling; industrial production; and waste’. 
+Fig. 2 the ‘Additional greenhouse Eﬀect’ participation of climate-eﬀecting gases on the additional greenhouse eﬀect
+Misc.
+approx. 14%
+Methane approx. 20%
+Laughing gas approx. 6%
+CO2
+CO2 approx. 60%
+Methane
+Laughing gas
+Fig. 3 the ‘Contributors’
+Changes in the concentration of climate-inﬂuencing gases
+0.04
+0.03
+0.02
+0.01
+1.8
+1750 2005
+1750 2005
+1750 2005 laughing gas
+Co2 methane
+0.71
+1.77
+0.027
+0.032
+Source: According to IPCC (2007) ppm ppm ppm concentrations of CO2 and methane (CH4) have increased, with an increase of 70 per cent during the
+1970 to 2004 period, and urban centers have played a key – though not yet fully understood – role in this process.2
+Global Report on Human Settlements 2011,United Nations Human Settlements Programme
+
+[Page 12]
+The pace of urbanization in the world today is unprecedented, with a near quintupling of the urban population between 1950 and
+2011.3 While these ﬁgures may be alarming enough what is a cause of greater concern is the fact that most of the growth in urban population is centered in the developing and least developed countries that are least equipped to adapt to the possible consequences. The developing countries now host nearly threequarters of the world’s urban population and more than 90 per cent of the world’s urban population growth is currently taking place in developing countries.4 The rising mega cities of the world are thus mostly those that have high concentrations of growth centered in informal settlements and slums and often have profound deﬁcits in governance, infrastructure, and economic and social equity . 
+The global response to the climate challenge is presently being geared towards developing and implementing mitigation and adaptation strategies. Mitigation within the context of climate change refers to the reduction of greenhouse gas (GHG) emissions and their capture and storage. As such, urban settlements and those too mostly in the developed world are the focus of mitigation strategy development and implementation. Drawing on table 1 
+Cities’ Contribution to global Anthropogenic ghg Emissions, by Sector
+Sector percentage of global ghg emissions
+Justiﬁcation for estimating the proportion of ghgs from cities, from the perspective of the location of activities that produced them percentage of ghgs allocated to cities
+Energy supplya
+25.9
+A high proportion of fossil fuel power stations are not in cities, especially the largest cities.
+One third to one half of emissions from city-based power stations.
+8.6-13.0
+Industry
+19.4
+A large proportion of heavy industry (which accounts for most GHGs from industry) is not located in cities, including many cement factories, oil reﬁnehes. pulp and paper mills, metal smelters. Two-ﬁfths to three-ﬁfths of emissions in cities.
+7.811.6
+Forestryb
+17.4
+No emissions assigned to cities
+Agriculture
+13.5
+Some large cities have considerable agricultural output, but mostly because of extended boundaries encompassing rural areas. No emissions assigned to cities.
+Transport
+13.1
+Private use of motor vehicles a large part of this.
+Should commuting by car by those living outside cities be assigned to cities? Should city dwellers driving outside city boundaries be assigned to their city? 60 to 70 per cent of emissions assigned to cities.
+7.9-9.2
+Residential and commercial buildings
+7.9
+Large sections of middle- and high-income groups in developed countries live outside cities - and a signiﬁcant and increasing proportion of commercial buildings are located outside cities.60 to 70 per cent of emissions assigned to cities.
+4.7-5.5
+Waste and wastewater
+2.8
+More than half of this is landﬁll methane; but a proportion of this would be released outside urban boundaries from waste generated inside cities. 54 per cent of emissions assigned to cities.
+1.5 totalc
+30.5-40.8 (Source: Global report on human settlements 2011,UNITED NATIONS HUMAN SETTLEMENTS PROGRAMME)
+Notes; a A large pan of this is from fossil fuel power staoons. Excludes reﬁneries, coke ovens, etc., which are included under industry.
+b Land use and land-use changes.
+c Total emissions for the GHGs covered by the Kyoto Protocol amounts to 49 billion tonnes of C02eq.
+Sources: based on Barker« al. 2007: Saaerthwajte. 2008a. pS44
+United Nations, 2010
+United Nations, 2010
+
+[Page 13]
+Introduction the deﬁnitions of the Intergovernmental Panel on Climate Change (IPCC), adaptation to (human-induced, or ‘anthropogenic’) climate change is understood to include all actions to reduce the vulnerability of a system (e.g. a city), population group (e.g. a vulnerable population in a city) or an individual or household to the adverse impacts of anticipated climate change. Mitigation and adaptation though are processes that need not be considered contradictory to each other - rather they complement each other in that focusing on one also strengthens the capacity indirectly of the other . 
+The outcome of successful adaptation is resilience – and is a product of governments, enterprises, civil society organizations, households and individuals with strong adaptive capacity. For cities or particular urban neighborhoods, it indicates a capacity to maintain core functions in the face of hazard threats and impacts, especially for vulnerable populations. It usually requires a capacity to anticipate climate change and plan needed adaptations. The resilience of any populatable 2 urban population projections by regions (2010-30) region urban population (millions)
+2010
+2020 
+2030 proportion of total population living in urban areas (%)
+2010
+2020 
+2030 urban population rate of change (% change per year)
+2010-2020
+2020-2030
+World total
+3486
+4176
+4900
+50.5
+54.4
+59.0
+1.81
+1.60
+Developed countries
+North America
+Europe
+Other developed countries
+1037
+75.2
+77.9
+80.9
+82.1
+84.6
+86.7
+72.8
+75.4
+78.4
+70.5
+73.3
+76.8
+0.61
+0.48
+1.16
+0.92
+0.35
+0.27
+0.33
+0.20
+Developing countries
+Africa
+Sub-Saharan Africa
+Rest of Africa
+Asia/Paciﬁc
+China
+India
+Rest of 
+Asia/Paciﬁc
+Latin America and the Caribbean
+2556
+3188
+3863
+1675
+2086
+2517
+1021
+45.1
+49.8
+55.0
+40.0
+44.6
+49.9
+37.2
+42.2
+47.9
+54.0
+57.6
+62.2
+41.4
+46.5
+52.3
+47.0
+55.0
+61.9
+30.0
+33.9
+39.7
+45.5
+49.6
+54.7
+79.6
+82.6
+84.9
+2.21
+1.92
+3.21
+2.91
+3.51
+3.17
+2.06
+1.79
+2.20
+1.88
+2.13
+1.41
+2.40
+2.42
+2.14
+2.00
+1.29
+0.94
+Least developed countries
+Other developing countries
+2307
+2822
+3344
+29.2
+34.5
+40.8
+47.9
+52.8
+58.1
+3.84
+3.50
+2.01
+1.70
+Source: UN.2QIQ;see also Statistical Annex. Tables A.1,A.2,A.3,B.1,B.2,B.3
+
+[Page 14]
+tion group to climate change interacts with its resilience to other dynamic pressures, including economic change, conﬂict and violence.5
+While Pakistan is vulnerable to adverse impacts of climate change, its own contribution to the total global
+GHG emissions is limited (about
+0.8%) and its per capita GHG emissions correspond to about one-ﬁfth of the average for Western Europe (IEA/OECD 2006). Pakistan was thus ranked at 135th place on the basis of its per capita GHG emissions without land use change and at
+149th place when land use change was also taken into consideration (US-DOE 2009).6 As such, the main thrust of the country’s response to climate change is bound to be on adaptation measures.
+pAkIStAN – urBANIZAtIoN AND ClImAtE
+ChANgE ADAptAtIoN
+In Pakistan, demographic trends show that the country’s population has been rapidly urbanizing, with an average annual rate of urbanization exceeding 4 per cent since 1951. It is estimated that by the year 2030,
+Pakistan will be predominantly urban with 45.6 per cent of its population living in urban areas and about 12 cities housing more than one million people. The urban population recorded during the 1998
+Census was nearly 43 million and is currently (2010) estimated at 63.1 million. The urban population is estimated to surpass 121 million by the year 2030. The level of urbanization of 45.6 percent would then be the highest amongst the South
+East Asian countries.7
+Fig. 4 tackling the Climate Change Challenge
+Fig.5 ghg Emissions in pakistan (1994-2008) 
+All Data is in million ton Carbon Dioxide Equivalents (mtCDE)
+Energy
+85816
+156821
+Agriculture
+71632
+120284
+Industrial Processes
+13297
+17866
+LULUCF
+6527
+8920
+Wastes
+4454
+5505
+1994
+2008
+100000
+200000
+300000 
+400000
+2008
+1994
+Source: National Economic and Environmental Development Study ,2011
+Global report on human settlements 2011,United Nations Human Settlements Programme6
+Task Force Report on Urban Development, 2011,Planning Commission, Government of Pakistan
+Task Force Report on Urban Development, 2011,Planning Commission, Government of Pakistan
+
+[Page 15]
+Introduction
+Urban development challenges in
+Pakistan are complex and the way development is taking place is more in the nature of mal-adaptation rather than meeting the requirements of adaptation if relevance is drawn to the climate change context. In this regard it is a matter of some concern that in eﬀorts to tackle the climate change challenge in Pakistan there is limited if any focus on urban settlements and even the recently notiﬁed Climate
+Change Policy for Pakistan, approved by the Federal Cabinet and to be implemented by the Federal
+Disaster Management Ministry directs attention mostly on agriculture, forestry and water resources and separates out urban activities into a sector based categorization rather than consider them in a holistic urban context. 
+Through this Study, an eﬀort is being made to stimulate debate and dialogue around the urgent need to bring the urban context in perspective in Pakistan’s drive towards effectively meeting the challenges of climate change. The focus is on
+Karachi City – the largest urban center of Pakistan oﬀering the most complex set of urban development challenges anywhere to be found in
+Pakistan. The Study does not present an adaptation strategy in itself instead it identiﬁes a process for relating the experiences of our urban growth in the classic framework of developing a comprehensive urban climate change adaptation strategy.
+It aims to identify and prioritize the people and assets at possible risk and the key actions required to make Karachi a more resilient city in addition to identifying the critical governance, institutional, technological gaps and constraints. 
+A key focus is on the need to understand that the context of climate change oﬀers cities all over the world a viable option to capitalize on a window of opportunity that has suddenly opened up to manage issues that we have to resolve climate change or no climate change.
+Adaptation to climate variability consists of actions to reduce vulnerability to short-term climate shocks (whether or not inﬂuenced by climate change) – for instance, as a city government ensures that the drainage system can cope with monsoon rains or that green spaces are protected and enhanced to act as drainage basins. Most of the measures for adapting to climate variability (which will be taking place in most well-governed cities) will also contribute to climate change adaptation (as a co-beneﬁt). the Study – objectives and Scope
+T o provide a process based ‘framework’ and a ‘roadmap’ for developing a comprehensive ‘Climate Change Adaptation Strategy’ for Karachi city by:
+•
+Identifying the possible climate change scenarios 
+•
+Identifying some critical people and assets at potential risk
+•
+Proﬁling major vulnerabilities in terms of critical hindrances (research, policy, planning and overall governance context) in the way of enhancing the adaptive capacity of Karachi City against climate change and climate variability
+•
+Providing a list of actions for strengthening the resilience of
+Karachi City
+
+[Page 16]
+Section 1: Karachi City – Context for Adaptation
+K arachi City has a land area of
+3,640 km² and is located on the Arabian Sea coast in the extreme south of Pakistan. 
+Karachi has expanded exponentially both in terms of urban sprawl and in terms of growth in population.
+About 63% of the population of the metropolitan area lived within 10 kilometers of the city center in
+1972. By 1981, it had declined to
+52%, as urban development and concomitant population growth transformed the ring to between 11 karachi – the physical City
+Fig. 6 karachi geographical location location: Karachi, the provincial capital of Sindh, is also the largest city of
+Pakistan covering an area of 3,527 km2. It is located at 24º45” to
+25º15” north and 66º37” to 67º37” east. It is bounded by Dadu District in the northeast, Thatta District in the south-east, the Arabian Sea to the south and the Lasbela District of
+Baluchistan Province to the west. topography: Karachi may be broadly divided into two parts; the hilly areas in the north and west and an undulating plain and coastal area in the south-east. The hills in Karachi are the oﬀ-shoots of the Kirthar
+Range. The highest point of these hills in Karachi is about 528m in the extreme north. All these hills are devoid of vegetation and have wide intervening plains, dry river beds and water channels. Karachi has a long coastline in the south. The famous sea beaches include Hawks Bay, Paradise Point, Sands Pit, and Clifton.
+China Creek and Korangi Creek provide excellent calm water channels for rowing and other water activities.
+Away from the shoreline are small islands including Shams Pir, Baba and
+Bhit. 
+Climate: Karachi has a moderately temperate climate with a generally high relative humidity that varies from 58 per cent in December (the driest month) to 85 per cent in August (the wettest month). A cool evening breeze is a great boon to the inhabitants. The winds in Karachi for more than half the year, including the monsoons blow south-west to west. The wind in winter changes to east and north-east maintaining an average temperature of about 21ºC.
+The hottest months are May and
+June when the mean maximum temperature reaches 35ºC. January is the coolest month of the year. During the rainy season in July and August, it remains cloudy almost every day with generally scanty rainfall.
+However, there are surprising variations from year to year. The average annual rainfall is 256 mm, but in certain years rainfall is higher and it may rain heavily within a short span of 48 hours.
+Source: The Case of Karachi, Pakistan, 2003, Arif Hasan, Masooma Mohib
+
+[Page 17]
+Section 1: Karachi City – Context for Adaptation and 20 kilometers from the center.
+By 1987, the core area of Karachi (the area within ﬁve kilometers of the CBD) accounted for less than
+20% of the total regional population.8 At present over half of
+Karachi’s population resides at a distance of more than 10 kilometers from the city center.
+Karachi had very little industry up to the mid-twentieth century, but after the creation of Pakistan in 1947, it became the national capital, and
+Navel base, and the only seaport in
+Pakistan physically well protected against storms. Its other location based advantage has been land route connection with Iran,
+Afghanistan, China and Central
+Asian countries, and sea route connection with India, Sri Lanka and nearby Arab countries. Karachi has thus attracted signiﬁcant employment opportunities and its population swelled dramatically, ushering in the modern age of Karachi as a port and dominant commercial and industrial center. 
+Karachi, the capital of Sindh province, is now the commercial hub and gateway of Pakistan . It accounts for 95 per cent of Pakistan’s foreign trade and contributes 30 per cent of Pakistan’s industrial production (ADB, 2006a). Nearly 90 per cent of the country’s head oﬃces of banks, ﬁnancial institutions and
+Year 1974
+Before Partition
+Year 2001
+Year 1955
+Year 1987
+Source: Karachi Strategic Development Plan 2020, August 2007, CDGK
+Fig. 7 phenomenal urban Sprawl table 3 population Statistics of karachi – 1931-2020 years population
+Annual growth rate (Agpr) (%)
+1931
+2,63,565
+-
+1941
+3,86,655
+3.70
+1951
+10,68,459
+11.50
+1961
+19,12,598
+6.05
+1971
+35,15,402
+5.00
+1981
+54,37,984
+4.96
+1998
+98,56,318
+3.52
+2002
+11,364,707
+3.02
+2005
+15,120,000
+4.15
+2010
+18,529,000
+4.05
+2015
+22,594,000
+4.05
+2020
+27,550,000
+3.50
+Source: The fast growing megacity Karachi as a frontier of environmental challenges: Urbanization and contemporary urbanism issues, 2010, Salman Qureshi - (a) Estimated population using annual population growth rate (APGR), (b) Projected population by CDGK-MPGO (2007)
+Karachi Land and Housing Study, 1989, Dr. D. Dowell, United Nations Centre for Human Settlements
+
+[Page 18]
+multinational companies are located in Karachi (ADB, 2005a). The country’s largest stock exchange is
+Karachi based. The city contributes
+20 per cent of the national gross domestic product, accounts for 40 per cent of national employment in large-scale manufacturing and contributes 25 per cent of national and
+40 per cent of provincial revenues (ADB, 2005b).
+Karachi is divided into planned areas and unplanned areas. Unplanned areas are mostly in the nature of katchi abadis (urban squatter settlements). The katchi abadis represent the most recognizable face of informal settlements in
+Karachi and have existed from the time of the creation of Pakistan with instances of illegal sub-division of land documented as far back as the
+1950’s. The katchi abadis have grown at twice the rate of the planned areas. In 1998, 50% of the population or 700,152 households lived in katchi abadis. This population has now increased to 61% or
+1.2 million households.9
+ClImAtE ChANgE AND pAkIStAN – trENDS
+AND SCENArIoS 
+Pakistan can be quite vulnerable to climate change because it generally has a warm climate; it lies in a world region where the temperature increases are expected to be higher than the global averages; its land area is mostly arid and semi-arid (about 60 per cent of the area receives less than 250 mm of rainfall per year and 24 per cent receives between 250-500 mm). During the last century, average annual temperature over Pakistan increased by
+0.6 °C, in agreement with the global trend, with the temperature increase over northern Pakistan being higher than over southern Pakistan (0.8 °C versus 0.5 °C). Precipitation over Pakistan also increased on the average by about 25 %. Studies based on the ensemble outputs of several Global Circulation Models (GCMs) project that the average temperature over Pakistan will increase in the range 1.3-1.5 °C by
+2020s, 2.5-2.8 °C by 2050s, and 3.94.4 °C by 2080s, corresponding to an increase in average global surface temperature by 2.8-3.4 °C by the turn of the 21st century. Precipitation is projected to increase slightly in summer and decrease in winter with no signiﬁcant change in annual precipitation. Furthermore, it is projected that climate change will increase the variability of monsoon rains and enhance the frequency and severity of extreme events such as ﬂoods and droughts.10 table 4
+Composition of karachi’s Economy (1984/85 – 2006/07) (rupee Billions at 1959-60 Factor Cost) 
+Sector
+Value
+Added (1984/85)
+Share in
+GRP (1984/85)
+Long Term
+Growth Rate
+Value Added (2006/07)
+Share in GRP (2006/07) a b a b a b
+Gross Regional
+Product
+13.7
+52.6
+61.8
+Primary Sectors*
+0.2
+1.34%
+3.3% 3.3%
+0.4
+0.4
+0.7%
+0.6%
+Secondary 
+Sectors*
+5.1
+37.4%
+6.7% 3.5%
+21.4
+10.9 40.6% 17.7%
+Tertiary Sectors*
+8.4
+61.2%
+6.1% 8.5%
+30.9
+50.5 58.7% 81.7%
+Source: Karachi Strategic Development Plan (KSDP) 2020 – Kaiser Bengali
+Notes: “a” is based on Bengali (1988) “b” is consultant’s estimate based on discussions with GoSindh and World Bank *Agriculture, Forestry, Fisheries and Livestock; Mining and Quarrying **Manufacturing;
+Construction; Electricity and Gas Distribution ***Transport, Storage and Communications; Wholesale and Retail Trade; Ownership of Dwelling; Banking and Insurance; Public Administration
+Participatory Development, 2010, Arif Hasan
+10 Task Force Report on Climate Change, February 2010 – Planning Commission, Government of Pakistan
+
+[Page 19]
+Section 1: Karachi City – Context for Adaptation
+ClImAtE ChANgE – thE kArAChI CIty
+CoNtExt
+Main factors that contribute to variability in Karachi’s weather are: 
+• Western disturbances: Occurs during the winter months, cause drizzle to light showers and decreases in temperature. 
+• Tropical storms: Occurs during summer months from late April till June and again from late September till November.
+• Southwest monsoon: Occurs in summer from the July till September. These monsoon rains are quite heavy by nature and can cause signiﬁcant ﬂooding.
+• Continental air: which is characteristically dry, prevails during the period when there is no precipitation in the metropolis 11
+In addition to these direct inﬂuences, changes in ocean and atmospheric conditions in distant locations also impact the climate of
+Karachi, particularly the monsoon.
+Historical weather data for Karachi indicates that there is no signiﬁcant change in the average precipitation in Karachi. In contrast trends in temperature data clearly show an upward trend and increase in average temperature over the years.
+11 Climate Proﬁle of Karachi, KW&SB Climate Change Adaptation Strategy,2012, Ujala Qadir, WSP karachi City – the Context for Climate Change
+Flooding
+Drought
+Extreme heat Events
+Sea level rise
+Signiﬁcant human settlements (e.g.
+slums) exposed to ﬂuvial, storm water ﬂooding risk and hill torrents
+Sensitive national installations and signiﬁcant human settlements (ﬁshing communities) exposed to tidal ﬂooding
+Other than the ‘Malir River Embankment’ no provision for ﬂood defences and drainage channels chocked or blocked 
+No provision of ﬂood storage areas
+The Hub River source, a rain fed source is a major water supply source for Karachi (5 million population served)
+Livelihoods of signiﬁcant human settlements based in rural Karachi (Goths) dependent on farming mostly using ground water
+Ground water table is lowering and aquifers are threatened due to human activities such as sand extraction
+No water conservation , waste water recycling or rain water harvesting practices being promoted in the city
+Inadequate health and emergency response infrastructure and services to cope with large scale spread of infectious diseases
+Shortage in energy and substantial energy loss 
+Energy consumption increasing and no eﬀorts to promote energy conservation
+Due to rising population density in ‘inner city’ and increased traﬃc /congestion the likelihoods of the ‘Heat Island Effect’ increasing even further
+Sensitive national installations and signiﬁcant human settlements (ﬁshing communities) exposed to tidal ﬂooding
+Biodiversity impacts/wetlands and tidal zones and loss/alteration of ﬂora/fauna – possible salt water in-
+
+[Page 20]
+trends in temperature over karachi
+Over the past years cyclones tend to recur frequently though, most did not seriously impact Pakistan’s coast. However,cyclone of 1999 seriously impacted Thatta and Badin districts of Sindh and aﬀected 0.6 million people and caused loss of
+202 lives. Cyclone Yemyin in 2007 had a much wider imprint aﬀecting
+26 districts of Balochistan / Sindh and 2.5 million people, causing 400 fatalities.12
+The capacity context for adapting to possible climate change scenarios in
+Karachi is grim. While Karachi still serves as the commercial backbone of Pakistan there is increasing socioeconomic disparity and growing environmental degradation. Human settlements such as slums and hill settlements are exposed to ﬂuvial, storm water ﬂooding risk and hill torrents in the absence of appropriate protection and emergency response systems. Sensitive national installations and human settlements such as ﬁshing communities are exposed to tidal ﬂooding. 
+Other than the Malir River Embankment there are no provisions for ﬂood defences and drainage channels are chocked or blocked. There
+12 Cyclone Contingency Plan for Karachi City, 2008, National Disaster Management Authority, Government of Pakistan
+Fig. 8 trends in Annual precipitation for karachi
+1914
+1920
+1926
+1932
+1938
+1944
+1951
+1957
+1963
+1969
+1975
+1981
+1987
+1993
+1999
+2005 n The green line in the ﬁgure below shows observed precipitation in Karachi from 1914 to
+2010, which is clearly highly variable in nature n The red line represents the average of the precipitation using a statistical regression analysis.
+This line indicates that there is no signiﬁcant change in the average precipitation in Karachi
+Rainfall (mm) (Source: Climate Proﬁle of Karachi, KW&SB Climate Change Adaptation Strategy,2012,Ujala Qadir, WSP)
+28.0
+27.5
+27.0
+26.5
+26.0
+25.5
+25.0
+1931
+1936
+1941
+1950
+1955
+1960
+1965
+1970
+1980
+1985
+1990
+1955
+2000
+2005
+2010 n The redline represents the observed temperature data for Karachi for the period
+1931-2007 showing an upward shift n The purple line is ﬁtted to the data using regression analysis indicating the trend (Source: Climate Proﬁle of Karachi, KW&SB Climate Change Adaptation Strategy,2012, Ujala Qadir, WSP) y = 0.018x+25.54
+
+[Page 21]
+Section 1: Karachi City – Context for Adaptation
+Fig. 11
+Average rainfall
+Fig. 10
+Average temperature is no provision of ﬂood storage areas. If we take the case of a possible drought scenario than the Hub
+River source, a rain fed source is a major rain fed water supply source for Karachi serving a population of 5 million. Livelihoods of signiﬁcant human settlements based in rural
+Karachi Goths are dependent on farming mostly using ground water.
+Ground water table is already lowering and aquifers are threatened due to human activities such as sand extraction. No water conservation, waste water recycling or rain water harvesting practices are being promoted in the city. 
+There is shortage in energy and substantial energy loss. Energy consumption is increasing and no eﬀorts ongoing to promote energy conservation. Due to rising population density in inner city and increased traﬃc /congestion the likelihoods of the Heat Island Eﬀect taking place is quite likely. In the context of a possible sea level rise, adverse biodiversity impacts on wetlands and tidal zones and possible loss of ﬂora and fauna can be anticipated. Mangroves that can act as a buﬀer against tidal ﬂooding are already being devastated. (Source: Climate Proﬁle of Karachi, KW&SB Climate Change Adaptation Strategy,2012, Ujala Qadir, WSP)
+Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec
+Maximum
+Mean
+Minimum
+OC (Source: Climate Proﬁle of Karachi, KW&SB Climate Change Adaptation Strategy,2012, Ujala Qadir, WSP)
+Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec
+
+[Page 22]
+karachi - the overall Climate graph (Source: Climate Proﬁle of Karachi, KW&SB Climate Change Adaptation Strategy,2012, Ujala Qadir, WSP)
+Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec
+Min Temp (oC)
+Average Temp (oC)
+Wet Days (>0.1 mm)
+Days with Frost
+Max Temp (oC)
+Precipitation (Cm)
+Average Wind Speed (Beaufort)
+Relative Humidity (%)
+Temperatures/Precipitation/Wet Days/Sunlight/
+Wind Speed/Frost karachi, pakistan Climate graph (Altitude: 2m)
+Relative Humidity
+Land use violations leading to encroachments of parks and playgrounds, coastal sensitive ecological land is eroding the natural barriers capable of reducing the adverse impacts of climate change. 
+Karachi for numerous reasons needs to get its house in order. The global focus on climate change and the availability of related substantial ﬁnancial resources oﬀers a window of opportunity for urban managers all over the world to access the resources and plan and implement measures to not only prepare for possible climate change impacts but generally improve the sustainability proﬁle of their cities. Karachi, one of the fastest growing mega cities in the world, can deﬁnitely make progress in this regard.
+Climatetemp.info
+
+[Page 23]
+Flooding- Extreme Events (Source: Surface Water Drainage and Flooding in Karachi City , S. Akhtar and M.R Dhanani, 2012, 
+Department of Geography, University of Karachi, Karachi, Pakistan
+450000
+400000
+350000
+300000
+250000
+200000
+150000
+100000
+50000
+1930 1944 1956195919611967 1970 1977 1994 2007 rainfall (mm) runoﬀ (000 cubic metre) yEAr
+Section 2: Understanding the Impacts
+T his Section discusses the various likely consequences of possible climate change scenarios placed within the context of the key vulnerabilities and climate change adaptation challenges faced in Karachi City. While an exhaustive and detailed analysis of all aspects of the issues relevant to the discussion was beyond the scope of the present Study some important themes are contextualized in brief within a climate change adaptation framework and structure that can be constructed upon and further reﬁned for facilitating the development of a comprehensive strategy.Eﬀort has been made to standardize the format for discussion and analysis for each possible climate change scenario for assessing consequences and highlighting the critical challenges that get identiﬁed. 
+FlooDINg
+Within the context of ﬂooding, the following focus areas are being considered:
+• Vulnerable communities(Slums/low lying localities/hill settlements)
+• Properties and assets at risk
+• Emergency response capacity (health care/emergency medicine/ﬁre services etc.)
+• Natural defences – green spaces
+Flood preparedness
+As stated earlier, while average precipitation levels have not signiﬁcantly changed over the years in
+Karachi and are projected also to keep fairly stable in the long run, however, climate variability is always possible and Karachi has a context to ﬂooding. However, ﬁrst, let us consider Karachi’s status in terms of preparedness for a possible urban ﬂooding event. There can be three possible ways to prevent or reduce the impact of ﬂooding:
+• Spatial planning – This involves avoiding the creation of ﬂood-vulnerable land uses in high ﬂood-risk areas and identifying where current developments and settlements need to relocated while being possibly replaced by less ﬂood-sensitive land uses. We ﬁnd that a signiﬁcant population of Karachi City residing in either informal/squatter settlements or in low lying localities is already located in areas of potential ﬂood risk. 
+• Flood defences and drainage systems – Other than the 12 mile long Malir River
+Embankment no other ﬂood defence mechanism exists. The drainage network is not designed to cater for appropriate rainfall intensity and probability and is also faced with issues of blockages and encroachments. The
+City government has responsibility for maintaining most of the drainage networks and ﬂood defences, however they have no control over preventing abuses of the system that reduce working eﬃciency such as connection of sewage lines into drainage netRainfall
+
+[Page 24]
+works, encroachments and garbage dumping. 
+• Flood storage areas – This involves designing some areas to deliberately ﬂood (such as parkland or sports ﬁelds) so that other more vulnerable land uses can be spared ﬂooding.At present, this option is not utilized in
+Karachi City while available green spaces are vanishing fast mostly due to encroachments and land use conversions through land grabs.
+Sources of ﬂooding
+Karachi is prone to ﬂooding from three possible sources (another possible source – Tidal Flooding will get assessed in the discussion on sea level rise):
+• Fluvial ﬂooding – from Lyari/Malir rivers and their tributaries (Malir – Chakora Nullah, Thado
+Dam/Lyari – Orangi, Gujjar)
+• Surface water ﬂooding - from heavy rainfall overcoming the drainage system
+• Sewer ﬂooding - from the overﬂowing of sewers
+Drainage basins
+Karachi has a context to ﬂooding and has experienced severe ﬂoods which have occurred periodically. In
+1977, severe ﬂoods occurred in the ﬂood plains of the Malir and Lyari rivers resulting in 267 deaths with more than 30,000 being made homeless and 100,000 temporarily dislocated. Houses were destroyed and roads were damaged. The total loss was estimated at about 5 billion rupees (Karachi Development Authority/KDA, 1981). 
+The Malir River basin and the Lyari
+River basin are the two main basins which contribute for about 80 percent of the surface runoﬀ. While they are perennial streams and fresh water ﬂow is dependent solely on rains and normally they serve as carriers of the city sewage, nevertheless there is a history to ﬂooding events and the threats are real and cannot be totally ignored .
+Other than the Malir and Lyari rivers, its tributaries and lined nullahs(drains) serve as an important component of the drainage network. They are severely stressed.
+One, they are not designed to cater for appropriate rainfall intensity and probability and two they are working at reduced eﬃciencies due to blockages and encroachments.The
+Karachi Strategic Development Plan
+2020 identiﬁed the following reasons for the massive inner city ﬂooding experienced in 2006;
+• Due to irregular and illegal land utilization practices in the past, water Basins
+• The Malir River basin is the largest basin and source of surface runoﬀ and sediments load. The Malir
+River forms as a result of the conﬂuence of two main rivers the
+Mol River and the Khadeji River.
+The catchment area of the Mol
+River is about 620 square km and
+Khadeji River is 580 square km 
+• The Lyari River originates from the hilly ranges of Manghopir anticlines from the north of the city and south of the Hub dam where its height is about 190 meters. Its catchment area is smaller than the Malir River because of its shorter length and smaller number of tributaries. Its total length is about180 km while its catchment area is about 578 square km
+• The Budnai basin is drained by
+Budnai Nadi and number of small but powerful streams originating from the ridges of Orangi hills and
+Jhill hills in Mochko and around
+Sona pass. The total length of
+Budnai stream is about 46 km and its catchment area is about 95 square km
+• The coastal areas of Bin Qasim,
+Korangi and Jhill hills are drained by many hill torrents and small streams which are very active during rainy days
+Source:Surface Water Drainage and Flooding in Karachi City, S. Akhtar and M.R Dhanani, 2012,
+Department of Geography, University of Karachi, Karachi, Pakistan
+
+[Page 25]
+Section 2: Understanding the Impacts most of the natural drainage, nullahs and low lying areas which were left as open areas were converted into developed lands notwithstanding the requirements of providing alternate and man-made disposal channels and thus disturbing the natural ﬂow conditions and consequently resulting in uncontrolled storm drainage pattern especially during a high intensity storm/rainfall
+• A substantial percentage of solid waste is regularly disposed in the open storm drainage channels especially from adjoining localities which obviously results in complete choking or partially interrupted ﬂow conditions in the event of storm
+Assessing risks
+The consequence of a ﬂood is determined by who and what is exposed to a ﬂood and their vulnerability to it.For assessing the current ﬂood risk, the ﬁrst requirement is to look at the probability of a ﬂood occurring, the consequence of a ﬂood and the associated risk and vulnerability of the people and assets that may be aﬀected. The ﬂood probability is usually expressed as a return period, or as an annual percentage that may be altered as climate change may increase the frequency and intensity of extreme weather, so that what is a 1 in 150 year event today may be a 1 in 100 year event in the future and with a possible greater intensity.
+Fig. 15 karachi Drainage Network (Source: KSDP 2020)
+Fig. 14
+Natural Drainage (Basins) in karachi (Source: Surface Water Drainage and Flooding in Karachi City , S. Akhtar and M.R Dhanani, 2012, 
+Department of Geography, University of Karachi, Karachi, Pakistan)
+Arabian sea kArAChI
+NAturAl DrAINAgE
+Road
+River
+Lmit of the City
+0km. 5km.
+
+[Page 26]
+Exposure and vulnerability
+The exposure and vulnerability of people to ﬂooding are determined by factors that include:
+• exposure – for example, living in low lying localities/along (and on!!) river beds – in the ﬂood plain 
+• vulnerability - for example, age (the very young and old), health, disability, living alone or not having a support network, low income and inadequate housing 
+Land uses/assets also vary in their vulnerability to ﬂooding. They can be classiﬁed into highly vulnerable to ﬂooding (including police, ambulance and ﬁre stations, emergency command centers, power stations, water supply facilities and housing/property in low lying localities); more vulnerable (including hospitals, industries, housing, schools); less vulnerable (including shops, ofﬁces, restaurants, waste and water treatment sites).
+However, the people and assets at risk can only be identiﬁed with some degree of accuracy if the probability is worked out and linked with the establishment of a Flood
+Risk Zone. Vulnerability factors can then be combined to produce an index of ﬂood vulnerability which can then be plotted using census data to map vulnerability. 
+In the case of Karachi City, the only such working was done by WAPDA in the Feasibility Report on Malir
+River Basin, (1990). It was found that the highest peak discharge in the Malir River caused the ﬂoods of
+1944. Its recurrence interval was worked out as about 81 years while its chance of occurrence being about 1 percent each year. However, while surface runoﬀ calculations were done but a ﬂood plain could not be identiﬁed that could have served as a viable ﬂood risk zone for the Malir river basin settlements. The Malir River in Karachi passes through thickly populated residential and industrial areas. The worst ﬂooding was in 1977 in terms of its magnitude of loss of life and damages, when abnormal rains occurred on June 30th, (in only 7 hours, 9.4 inches of rainfall with maximum intensity of 2.6 inches per hour during a period of 110 minutes was recorded). The city was cut oﬀ through railroad and air from the rest of the country. Roads were inundated. Due to the lack of ﬂood protected embankments and presence of encroached settlement in the bed many houses were washed out. The Pakistan Air Base (Drigh
+Road) and P.N.S Mehran were also ﬂooded. A ﬂood wave hit the Korangi Industrial Area particularly
+National Oil Reﬁnery and Korangi
+Thermal Power station.13
+In addition to the possibility of ﬂuvial ﬂooding is the concern about surface water ﬂooding impacts exacerbated due to extensive blockages and encroachments in and along the drainage channels. This is not a new concern. One identiﬁed cause of the 1977 ﬂoods was the existence of encroachments and squatter settlements in the bed and along the banks of the Malir River.
+Portion of Mahmoodabad, whole
+Manzoor Colony, Rehman Colony,
+Kashmir Colony, Liaquat Ashraf
+Colony, Azam Basti etc. exist on the bed of the Malir river. As a result the width of the river at Qayumabad had reduced to 550 feet instead of its original width of 5000 feet.14
+Flooding - possible Impacts
+• Loss of life and personal injury (especially vulnerable communities slums/hill settlementsand low lying inner city neighborhoods)
+•
+Direct damage to property, infrastructure and utilities
+• Contamination and disease from ﬂood and sewer water
+• Social unrest
+• Possible relocation and resettlement of communities
+13 Surface Water Drainage and Flooding in Karachi City , S. Akhtar and M.R Dhanani, 2012, Department of Geography, University of Karachi,
+Karachi, Pakistan
+14 Surface Water Drainage and Flooding in Karachi City , S. Akhtar and M.R Dhanani, 2012, Department of Geography, University of Karachi,
+Karachi, Pakistan
+
+[Page 27]
+Section 2: Understanding the Impacts
+Sewers overﬂow normally during ﬂooding events mainly because of capacity constraints and also as they are deliberately opened to act as drainage options to ﬂush rain water.
+Flood protection
+It was as a response to the ﬂoods of
+1977 that the ﬁrst and only ﬂood protection project – the Malir River
+Embankment - was completed by the Sindh (provincial) Government with the help of Federal Government in 1984 when a 12 miles long ﬂood embankment was built on both sides of the Malir River starting from the bridge of the National
+Highway to the mouth of the river at Gizri creek. While after the construction of the embankments the adjoining areas have so far been protected from ﬂood related damage, however, the height of the embankment was based upon the surface runoﬀ of 240,000 cusecs for which return period is 50 years while the maximum runoﬀ in 100 years is 409,000 cusecs and matters such as climate change and possible increasing of the intensity and reduction in the return period were not factored at that time. 
+At risk – people and assets
+In the absence of identiﬁed ﬂood plains for either the Malir, or Lyari river basins and detailed and updated working on assessing the probability of ﬂooding, it is diﬃcult to establish a viable ﬂood risk zone for Karachi City. However, there can be no denying the fact that signiﬁcant numbers of human settlements, and those too comprising of vulnerable communities reside in a possible ﬂood risk zone in addition to nationally important institutional assets. 
+Settlements along embankments
+Mohammad Arshad, Shehri-CBE
+Residing alongside blocked drains
+Mohammad Arshad, Shehri-CBE
+Fig. 16
+Drainage Network: Blocked and Chocked
+Flooding of Clifton and City
+Rain water drains and the outfalls - Victims of land grab r E F E r E N C E S
+Land reclamation & Plotting
+Sea Break Waters (Source: Orangi Pilot Project)
+
+[Page 28]
+Extent of Flood Defences – malir river Embankment (Source : Surface Water Drainage and Flooding in Karachi City , S. Akhtar and M.R Dhanani, 2012, Department of Geography, University of Karachi, Karachi, Pakistan) people - An idea of the scale of the vulnerability and risk can be made by considering three possible risk zones and communities. They can be categorized as follows: 
+• Katchi abadis - The katchi abadis (urban squatter settlements) that represent the most recognizable face of informal settlements in Karachi have existed from the time of the creation of
+Pakistan with instances of illegal sub-division of land documented as far back as the 1950’s.
+Presently, about 61% of the population is housed in such settlements and of these a high proportion occupies undesirable real estate such as along the
+Malir/Lyari river beds .This can mostly be attributed to massive population inﬂuxes, ever escalating land prices and the incapacity of the relevant government authorities to provide viable housing options for the ﬁnancially and socially marginalized and vulnerable communities. The process initiated quite some time back and has since then taken the form of a very concrete and visible settlement pattern. Their risk when considered in context of ﬂooding can be expressed in terms of most critically their location (exposure) and then possible lack of land tenure - not all katchi abadies are regularized - lack of formal access to civic services
+Settlements along nullahs 
+Mohammad Arshad, Shehri-CBE
+Settlements in a high ﬂood risk zone
+Mohammad Arshad, Shehri-CBE
+
+[Page 29]
+Section 2: Understanding the Impacts
+15 Karachi Strategic Development Plan 2020
+Fig. 18
+A high risk Zone and Communities (madiha Salam, Shehri-CBE) such as water, inappropriate housing structures, absence of ﬁnancial cover to reclaim structural such as housing damages, loss of livelihoods and health costs (vulnerability). 
+• Low lying localities - The city areas which were developed in between1726 to 1947 are known as the old city. These areas house much of the wholesale business and commercial activities. In addition, the commercial business district (CBD) is also located here. These localities are densely populated and congested and are low lying, bounded by the Lyari River and
+Karachi harbor. Similarly, other low lying localities further inland (e.g. along drainage channels) - a mix of residential and commercial land uses are also at possible risk.
+In the inner city, the low-lying areas of Saddar, Chundrigar Road,
+Bunder Road and Lyari become heavily inundated during the rainy spells mainly due to inadequate storm water drainage system. Extensive ﬂooding occurs in parts of the Gulshan-e-Iqbal along the University Road, Societies Union area along Shahrahe-Faisal and Tipu Sultan Road.
+Katachi abadis of Mehmoodabad and Manzoor Colony located on the Malir river bank are also worst aﬀected by excessive ﬂooding and stagnant water.15
+• Hill settlements - During the past decade or so, extensive settlements have taken place either
+Identiﬁed low lying localities in karachi
+The downtown – a low lying area
+Mohammad Arshad, Shehri-CBE
+Nehre-Khayam drainage channel along Karachi Grammar SchoolMohammad Arshad, Shehri-CBE
+
+[Page 30]
+Flood Zones in karachi on the hills dotting the Karachi landscape or on the foothills – mostly inhabited by the more recent immigrants to the city. As such a signiﬁcant new ﬂood risk zone has been created that can be critically endangered due to hill torrents and possible landslides.
+property and assets - It is again diﬃcult to establish an accurate list of properties and assets that may get impacted and to what extent. However, if we just consider the industrial assets that are quite possibly located in a likely ﬂood risk zone than we need to place a high value on initiating urgent ﬂood prevention and protection measures.
+The Sindh Industrial Trading Estate (S.I.T.E), the F.B Area Industrial Zone, the North Karachi Industrial Zone and the Landhi/Korangi Industrial
+Trading Estates (L.I.T.E/K.I.T.E) are located right along the Lyari and
+Malir Rivers respectively.K.I.T.E got extensively ﬂooded in the 1977 ﬂoods and has since been protected by the Malir River Embankment.
+If we consider essential civic services than it is indicated that a fairly extensive water supply and sewerage system related infrastructure such as pumping stations is located along mostly the Lyari River in towns that border on the river. An example is that of Lyari town.
+Emergency response
+There is limited if any quality research analyzing the status of emergency response systems such as emergency medicine, healthcare, ﬁre services etc. For the objectives of this Study,to assess the emer0km. 5km.
+Arabian sea k A r A C h I
+F l o o D Z o N E S
+Road
+River
+Limit of the City
+Low Lying Zone
+Hill Torrent Zone (Source : Surface Water Drainage and Flooding in Karachi City , S. Akhtar and M.R Dhanani, 2012, Department of Geography, University of Karachi, Karachi, Pakistan)
+Dangerous slope in a hill settlement 
+Mohammad Arshad, Shehri-CBE
+Living in a hill torrent zone
+Mohammad Arshad, Shehri-CBE
+
+[Page 31]
+water Supply Infrastructure Along lyari river lyArI towN wAtEr & SEwErAgE NEtwork
+Section 2: Understanding the Impacts (Source: KW&SB)
+Fig. 20
+Industries along the lyari and malir rivers gency healthcare response,a research paper(Pakistan: The new target of terrorism. Are Karachi’s emergency medical response systems adequately prepared? – 2009Muhammad Ahmed Siddiqui,
+Ahmed Jawad, Saeed Minhas, Asma
+Ansari, Afrah Siddiqui, Sana
+Mehtab)assessing the eﬃcacy and preparedness of the pre-hospital and hospital emergency medical systems and post graduate trainees in the city (two prime emergency care hospitals) to deal with a massive terrorist (not climate change!) strike has been sourced to give some idea on this important aspect of preparing for climate change scenarios.
+In this research a cross-sectional survey of postgraduate trainees was conducted at Jinnah Postgraduate
+Medical Center and Civil Hospital
+Karachi from 21st July 2007 to 24th
+July 2007, to evaluate the preparedness and self identiﬁed deﬁciencies of doctors involved in massive trauma casualty management. Out of the 90 respondents questioned regarding a self assessment of their training, only 3 (3.3%) of them were conﬁdent about their management of bomb blast victims. Eighty-seven (96.6%) of the respondents felt they required some further training (44.4%) or comprehensive training (52.2%). No simulated drills or courses had been conducted for disaster management in the emergency department of the surveyed hospitals. Most of the ambulance drivers had no paramedic training.
+Ambulances are equipped with a stretcher and an oxygen cylinder only. No resuscitation measures were found available in the ambu- (Source: Special Assistance For Project Formation (Saprof) For Karachi Circular Railway Project In
+The Islamic Republic Of Pakistan ,2009,Jica
+Major Corridors to the Outside
+Major Corridors in 
+Karachi
+CBD Area
+Industrial Area
+
+[Page 32]
+lances.An overwhelming 96% of the doctors felt they were deﬁcient in their training and management of such scenarios.Despite availability of communication between ambulances of the same organization, nocommunication links are available between the ambulance services and intended hospitals.
+With regards ﬁre services, an evaluation made recently by Muhammad
+Masood Alam, Executive District Ofﬁcer, Municipal Services Group of
+Oﬃces, City District Government
+Karachi in the context of Vulnerabilities and Hazards of Karachi and
+Preparation of District Disaster Plan
+2011, is self explanatory:
+• No Fire Hydrant System throughout the city is available
+• Non-provision of training on international standard
+• In availability of ﬁre training institute/school
+• Non implementation of safety rules
+• Acute shortage of water for ﬁreﬁghting purpose 
+• Shortage of ﬁre ﬁghting staﬀ
+• Shortage of ﬁre station
+• Absence of coordination and cooperation of diﬀerent agencies on scene of incident
+• Shortage of special ﬁre ﬁghting units snorkel, hazmat rescue units and ambulances
+Vanishing green spaces – vanishing defences
+Green spaces act as basins where rain water can inﬁltrate and thus reduce the potential ﬂood threat as compared to impervious concrete built up spaces. Green spaces or the vegetation cover in Karachi is already limited. According to the ﬁndings of a recent study funded by the
+Asian Development Bank (ADB) –
+Comprehensive Plan for Forestation,
+Aesthetic Plantation and Landscaping for Karachi, 2008 –total vegetation cover in Karachi as estimated through satellite imageries is 62,643 acres which works out as 7% of the total land area of 907,001 acres. A greater cause for alarm is however, the rate at which these already minimal green spaces are disappearing. 
+In another research work undertaken recently - Ecological disturbances due to high cutback in the green infrastructure of Karachi:
+Analyses of public perception about associated health problems – 2010Salman Qureshi a,b,_, Syed Jamil
+Hasan Kazmi b, J¨ urgen H. Breuste,
+2010- an eﬀort was made to assess whether the eﬀect of the reduction of Karachi’s green infrastructure has had an impact on human health conditions in the city. The initial phase of the study consisted of examining the extent to which thegreen infrastructure had changed due to the combined eﬀects of development and the monsoon using remote sensing and GPS survey techniques.This involved a time series analysis of the pattern of green infrastructure conducted using time series sets of LULC data covering the
+Emergency response – A critically inadequate capacity 
+Mohammad Arshad, Shehri-CBE
+
+[Page 33]
+16 Ecological disturbances due to high cutback in the green infrastructure ofKarachi: Analyses of public perception about associated health problems – 2010- Salman Qureshi a,b,_, Syed Jamil Hasan Kazmi b, J¨ urgen H. Breuste aDepartment of Geography and Geology, University of Salzburg, Hellbrunnerstrasse 34, Salzburg 5020, Austriab Department of Geography, University of Karachi, University Road, Karachi
+75270, Pakistan period 1986–2003 and using LandsatThematic Mapper (TM) and Enhanced Thematic Mapper (ETM+)imagery. Through this process, a wide-ranging spectrum of landscape patches was identiﬁed and examined in relation to the overall reduction in green infrastructure, involving the loss of, or reductions in, speciﬁc green areas.
+In the absence of the most recent satellite images, an extensive GPSbased ﬁeld mapping exercise was undertaken(Fig 22). The ﬁndings verify the reduction of urban green, in both highly urbanized as well asless-urbanized areas. The rate of deterioration of green cover is particularly dramatic after 2000 when extensive development activities started in the transportation sector and can be seen in the time series (1986–2003).
+In North-Eastern area of Karachi for example, in the year 2000, the built structures of North-Eastern areas (viz. Gulistan-e-Jauhar) expanded from 19.4% to 47.4% in 1990 but green areas remain virtually unchanged. A marked diﬀerence in the vacant/barren areas can be observed where the barren land in
+1990 was about 30%, which fell to only 2.7% in 2000. These areas formed the focus for much of the new development.16 gutter Baghicha
+G utter Baghicha (GB) is a 120year old amenity sewage farm and sewage treatment plant on the
+Manghopir Road in District West. It was established in the late 19th century on 1,216 acres for the treatment of sewage from the newly established town of Karachi, where vegetables, cereals and other crops and trees/ﬂowers were grown with the eﬄuent
+After the emergence of Pakistan in
+1947, over 55% of the land was encroached upon for non-amenity use (katchi abadis, industries, workshops, etc) over the next ﬁve decades. In 1957, two hundred acres was resumed by the government for inclusion in the adjacent Sindh Industrial Trading Estates scheme. In
+1982/83, a number of katchi abadis on GB land were ‘regularized’.
+Since 1993, local residents and environmental NGOs have been trying to save what is left (about 430 acres) of the original 1,216 acres of GB The main controversy for many years was the unlawful allotment of 200 acres to the KMC Oﬃcers’ Cooperative Housing Society (KMC-OCHS), and additional plots proposed to be converted to other such nonamenity uses. 
+Numerous cases have been fought in the Supreme Court (SC) and Sindh
+High Court (SHC) over the past 18 years, until ﬁnally Suit 1484/2008 (ﬁled by Ardeshir Cowasjee, Abdul
+Sattar Edhi, Shehri and area residents, including Nisar Baloch of Gutter Baghicha Bachao Tehreek (GBBT)against City District Government Karachi (CDGK), KMC-OCHS, etc), which requires recording of evidence, is pending in the SHC.
+Two local activists, Nisar Baloch and
+Nadir Baloch, members of the Gutter Baghicha Bachao Tehreek, have been shot and killed in November
+2009 for their eﬀorts to save the park.
+Section 2: Understanding the Impacts
+
+[Page 34]
+Encroaching gutter Baghicha
+With relation to farming land an interesting though worrying trend is indicated. The cultivated area dropped from 61% in 1960 to only
+19% in the year 2000. There is a sharp fall after the 1990’s with percentage cultivated area falling to only 19% in 2000s mainly owing to the haphazard expansion of the city, development of new residential schemes and un-checked sand/gravel mining.However, while since 1990, there is indicated an increase in land purchased for agricultural purposes it is not reﬂected in any increase in the cultivated area!
+End note
+Karachi has had to face urban ﬂooding events in the past and it can happen again. It is however diﬃcult to work out a probability and related intensity with any degree of accuracy owing to serious gaps in data and associated research both in terms of anticipated precipitation levels and the translation of additional rainfall into an urban ﬂooding event. The risks while they cannot be accurately quantiﬁed in terms of exposed and vulnerable people and assets there is suﬃcient indications that risks can be quite substantial.
+The potential people and communities likely to be in the ﬂood hazard zone are also ﬁtting the proﬁle of being highly vulnerable. The assets at risk ﬁgure signiﬁcantly not only at a local but national level in terms of
+Fig. 22
+Vanishing green Spaces
+Source: Ecological disturbances due to high cutback in the green infrastructure of Karachi: Analyses of public perception about associated health problems, 2010 
+Salman Qureshi a,b,, Syed Jamil Hasan Kazmi b, J¨ urgen H. Breuste a what was!
+what is! 
+1986
+2003
+50 acres grabbed by maﬁa (June 2009)
+Sewage treatment plant
+Illegal 
+Ismailia 
+Society proposed 
+City park m an go p i r ro a d
+Illegal kmC-oChS
+S.I.t.E
+Illegal mst
+Soﬁa & others
+Illegal Construction
+Started By kmC
+Society members (August 2009)
+Source: Shehri-CBE
+
+[Page 35]
+what is happening in the Agricultural lands!
+(Source: Department of Geography, University of Karachi)
+180000
+160000
+140000
+120000
+100000
+80000
+60000
+40000
+20000
+1960 1972 1980 1990 2000 total Agricultural land (Acres)
+Fig. 24
+Farmlands Also Vanishing managing!) the city land and institutions further complicate and magnify an already existing risk. (Source: Department of Geography, University of Karachi)
+1960 1972 1980 1990 2000 their contribution to the national economy and growth. Issues related with the way we are managing (misCritical Challenges
+• A Flood Risk Zone (E.g. ‘Flood
+Plain’ of Lyari/Malir Rivers) not identiﬁed
+• Signiﬁcant settlements of ‘vulnerable communities‘ in potential high ﬂood risk zones
+• Drainage networks neither designed to cater for appropriate rainfall intensity and probability and also faced with blockages/encroachments
+• No eﬀective policy/regulation to prevent settlements in the ‘river beds’, ‘hills’ and encroachments of drainage channels and land use changes impacting adversely on the ﬂood prevention and management capacity 
+• Green cover in the city that could facilitate improved drainage (parks/play grounds, farming land) shrinking
+• Critical gaps and shortcomings in the ‘emergency response’ systems – health/emergency/trauma facilities, ﬁre services, law and order services (E.g. ‘safe shelters’) etc. – ‘evacuation plans’ and required procedures and facilities
+Section 2: Understanding the Impacts
+
+[Page 36]
+The focus has been to take either a ﬁre-ﬁghting approach with all the associated inadequacies in response mechanisms in tact or to take short term ad-hoc measures with no sustainability attached to them. Climate change adaptation is all about being prepared. From reducing the risk of damage to being better equipped to meet the possible consequences is what adaptive capacity is all about. For that to happen, a paradigm shift in planning priorities is required. The need is to move urgently on multiple fronts to address this issue that may include an intensiﬁed focus on research and analysis and implementation of relevant policy frameworks for facilitating required planning and project based interventions.
+The scope of the Study could not allow detailed focus into a number of cross-cutting themes such as possible impact and consequences for the local economy, social and larger scale governance aspects etc. However they are also of fundamental importance as a climate change scenario has what can be called as a cascading eﬀect with one sector of the urban scene linking with the other to create a complicated collage of short and long term damages and setbacks to the growth process of the city.
+Drought
+Drought is caused by lack of suﬃcient rainfall. Droughts can either be short and sharp, or prolonged.Judicious management of water resources, in terms of meeting the supply and demand gap can greatly reduce the possible adverse impacts of a drought upon us and on the environment. Within the context of drought, the following focus areas are being considered:
+Declining public health 
+Public discontent and possible conﬂict
+Setback to local economy
+Financial stressinfrastructure repair and health costs
+Loss of housing and 
+Live LaHood’s
+Loss of life and personal injury(especially vulnerable 
+Communities slums/ hill settlements/ rural communities and low lying inner city neighborhoods)
+Direct damage to property, infrastructure and utilities
+Contamination and disease from ﬂood and sewer water
+Social unrest Possible relocation and resettlement of communities
+Overﬂow of
+Lyari/Malir rivers and nullahs
+Blockage of storm water drains/nullahs
+Sewer overﬂows
+FlooDINg
+Fig. 26 karachi City - Cascading Consequences for ‘Flooding’
+Drought – possible Impacts
+• Reducing river ﬂows
+• Reducing ground water replenishment (recharge)
+• Increasing evaporation
+• Increasing loss from broken water mains due to increasing subsidence
+• Increasing demand for water from people and wildlife
+• Adverse impacts on people and livelihoods dependent on farm-
+
+[Page 37]
+Section 2: Understanding the Impacts
+• Public water supply (the Hub
+River Source)
+• Urban farming and agriculture (Rural Karachi) 
+• Bio-diversity water supply
+About 90 % of population in Karachi use the water supplied by the sole public water service provider – the
+Karachi Water & Sewerage Board – (KW&SB) through pipelines or by tankers and the remaining 10% of population may depend mainly on groundwater.17
+A system already in stress
+There is intermittent supply of water at low pressure through rationing and in most parts of the city water is supplied once or twice a week, each time for the duration of several hours. The percentage of non-revenue-water (NRW) is high owing to leakages (decaying infrastructure), theft and an unsatisfactory status of revenue collection. In most parts of the city, residents are obliged to spend money on constructing underground water tanks,suction/booster pumps, rooftop storage tanks, and water ﬁltering systems. As such, while the basic cost of piped water in Karachi may be cheap, the associated indirect costs are unreasonably high. 
+The expense of not having an adequate supply of potable water is compounded by the inevitable medical bills resulting from the treatment of water-borne diseases (typhoid, cholera, and hepatitis are common) and the loss of income due to sick time.
+Rising water demand
+The population of Karachi was estimated to be 4.4 million at the time of independence in 1947 but it has undergone numerous expansions.
+According to the census in 1998, its population was 9.8 million. Its current population is informally estimated in the range of 18 million. In future, it could be the second largest city of the world(Butler,
+2005), as it is expecting to accommodate27.5 million people in 2020 (CDGK-MPGO, 2007).
+17 The Study on Water Supply and Sewerage System in Karachi, the Japan International Cooperation Agency(JICA), 2008 water Supply Sources
+T he Indus river, the main source of water for Karachi, is severely constrained by dry season demand, but has abundant wet season discharges. Urban and industrial water for Karachi is taken from the Kotri
+Barrage and discharged through the
+KalriBaghar Feeder Upper (KB
+Feeder Upper) to KinjharLake.Kotri
+Barrage is the lowest barrage on the
+River Indus.Kinjhar Lake is a natural reservoir with a catchment area of
+910 km2
+The Hub Dam is a multi-purpose dam (municipal, industrial and irrigation purposes) constructed on the
+Hub River approximately 50 km to the north-west of Karachi City. The catchment area of the dam extends across two provinces namely Sindh and Balochistan covering a total area of 3,410 sq miles (8,730 km2).
+There has been an agreement between the two provinces that, at the
+Regulator located at the end of the
+Hub Main Canal, 63.3% of the total ﬂow from the dam will be diverted to the Karachi Water Supply Canal (Sindh) while 36.7% to the Lasbela
+Canal (Balochistan)
+Dumlottee Well Field built by the
+British in the latter half of the 19th century located on the banks of
+Malir River in the Dumlottee area about 30 km to the northeast of the city. A number of large diameter shallow wells constructed in the
+Malir River alluvium provided about
+8 mgd of water to Karachi through a gravity conduit. For many years since then, the well ﬁeld remained as the main source of supply for
+Karachi with supply being augmented in a phased manner. However, the supply from this system has gradually decreased over time to 4 mgd by 1985, and to 1.5 mgd in
+2002 and afterwards. At present, this system can produce merely 1.4 mgd of water during only a few months after the rainy season.
+Source: The Study on Water Supply and Sewerage System in Karachi, the Japan International Cooperation Agency (JICA), 2008
+
+[Page 38]
+Source: The Study on Water Supply and Sewerage System in Karachi prepared by the Japan International Cooperation Agency (JICA), 2008
+1,200
+1,000
+2005
+2010
+2015
+2020
+2025 water Demend (mgd) year
+Fig. 27 karachi water Demand
+18 The Study on Water Supply and Sewerage System in Karachi prepared by the Japan International Cooperation Agency(JICA), 2008
+With the phenomenal increase in population will develop an ever greater demand for water from an already stressed water utility. The
+Study on Water Supply and Sewerage System in Karachi prepared by the Japan International Cooperation
+Agency (JICA) in the year 2008 estimates that the water demand would increase to 1,182 mgd by the year 2025.
+At risk – the hub river/dam service area
+If we consider the water supply sources for Karachi City in the context of a possible drought scenario than the Hub river/dam source is most relevant. Completed in 1981, the dam was ﬁrst ﬁlled up in 1984.
+It was again ﬁlled up in 1989, 1992,
+1994, 1995 and 2003. The last time the dam was ﬁlled up was August
+2007. During the 8 years from 1995 to 2003, the dam was never ﬁlled up (reduced rainfall – drought).As a result, the supply from the dam reduced to almost zero during the four years from July 1999 till June
+2003.18Five major localities in
+Karachi inhabited by about 5 million residents are dependent on the Hub river source. Following the drought period (199-2003) when immense problems were faced in meeting the water demands of the aﬀected population, the KW&SB initiated a project linking the Indus river supply with the pumping station at Manghopir (from where water sourced
+1.
+Lyari Town
+2.
+Saddar Town
+3.
+Jamshed Town
+4.
+gadap town
+5.
+Site town
+6.
+keman town
+7.
+Shah Faisal Town
+8.
+Korangi Town
+9.
+Landhi Town
+10. Bin Qasim Town
+11. Malir Town
+12. Gulshan Town
+13. Liaquatabad Town
+14. North Nazimabad
+Town
+15. Gulberg Town
+16 New Karachi Town
+17. orangi town
+18. Baldia town
+19. A. Karachi Contonment
+20. B. Clifton Contonment
+21. C. Korangi Creek Contonment
+22. D. Faisal Contonment
+23. E. Malir Contonment
+24. F. Manora Contonment
+Fig. 28 public water Supply (the hub river Source – (100 mgD)
+Service Area/populAtIoN SErVED – 5 million
+
+[Page 39]
+(Source: KW&SB) populAtIoN mINImum DEmAND (@ 30 - 54 gpcd) [Av: 42 gpcd] 756 mgD v
+INDuS SourCE (KINGER LAKE SURFACE WATER)
+- greater karachi 280 mgd
+- gharo
+28 mgd
+- k-II
+100 mgd
+- Additional
+40 mgd
+- k-III
+100 mgd
+- Steel mill
+22 mgd
+- pQA
+08 mgd v huB DAm (SurFACE wAtEr) v
+DumlottEE wEllS (grouND wAtEr)
+18 mIllIoN
+578 mgD mAxImum wAtEr DEmAND (@ 54 gpcd) 
+972 mgD
+AVAIlABlE Supply
+680 mgD from the Hub dam is supplied to the city) so that in case of water scarcity at the Hub source, the water supply from the Indus source can be diverted.However, as even the Indus source is under stress and not meeting the existing demand, this measure cannot be a very viable solution in the long run when demand is expected to increase substantially.
+The socio-economic proﬁle of a majority of the residents of the service area would also place them in a vulnerability context. kw&SB – utility in stress 
+As discussed, Karachi already faces a high supply demand gap and population pressures leading to increased demand are likely. Rainfall is already limited and the impacts of a likely drought period could be severe. However the capacity of the service provider to meet the possible consequences may be a greater cause of concern. If one only looks at its ﬁnancial status than the situation is quite grim. Examination of the ﬁnancial statements of KW&SB for recent years shows an extremely worrying trend as regards its short term ﬁnancial positions. Over recent years, KW&SB has continuously been operating in deﬁcit. The annual deﬁcit ranges from Rs.2,000 to
+2,700 million (US$33.3 to 45.0 million). At the end of the ﬁscal year
+2004/05, the accumulated deﬁcit totaled to Rs. 10,435 million (US$173.9 million). These deﬁcits have eventually been subsidized by
+2000-01
+2001-02
+2002-03
+2003-04
+2004-05
+Fiscal year
+Current 
+Deﬁcit
+Accumulated 
+Deﬁcit
+Annual revenue (Billed)
+Amount (Rs. Billion)
+0.82 0.82
+2.03
+2.93
+2.85
+2.69
+2.54
+2.36
+8.08
+10.44
+5.54
+2.41
+2.27
+2.45
+2.65
+Source: The Study on Water Supply and Sewerage System in Karachi prepared by the Japan International Cooperation Agency (JICA), 2008
+Fig. 29 kwSB Financial Crisis wAtEr loSSES (35%)
+100 mgD
+2 mgD total : 
+680 mgD
+Fig. 30 water Supply at a glance
+Section 2: Understanding the Impacts
+
+[Page 40]
+federal and provincial governments.19 To detail the other serious challenges being faced by the
+KW&SB in terms of technical, management constraints and a larger enveloping crisis of institutional governance would require a separate study in itself. 
+At risk – rural economy and livelihoods
+Historically and also supported by the nature of the physical landscape, resource availability and topography, the rural hinterland of
+Karachi has been distinguished by its agriculture and grazing based land use and associated economy and culture. The Karachi Development Plan 1974-85 had stated that
+Karachi can respond to the challenge of rapid urbanization, building on the achievements but rejecting the destructive practices of the past.
+The opportunities are there. The metropolis lies at the edge of a hinterland that makes it possible to create an eﬃcient agro-urban complex, using urban wastes to support the production of much of the food supply needed by the urban population. 
+While the agro-urban economy and associated livelihoods of Karachi are threatened due to a variety of factors that are beyond the scope of this Study, a focus would be given to state of the water resources critical to sustaining the sector economy.
+Source of water for irrigation and farming is sub-surface water. The resource base is threatened from two serious resource management challenges. One, the rapid depletion of the available water due to resource mismanagement that may include over-abstraction, water intensive farming among other factors is mostly responsible for rapid lowering of the ground water table and two, destruction of the aquifer mainly due to uncontrolled and unregulated sand mining and extraction to sustain the construction activities within the city. 
+There is limited if any focus on harvesting already limited water resources or initiating measures to promote water conservation or facilitate recharge of the aquifers.
+Malir River has been providing some of the important construction material like gravel and sand for a long time. This gravel and sand has been excavated since 1940s, however, the rate of excavation and the geographical spread of the activity has scaled up considerably in the last decade or so. 
+An average sand mining truck approximately carries 318 cubic feet of gravel. At an average about 1000 such sorties are undertaken in a day.
+It is indicated that most of the river belt has now been excavated up to a depth of 20 feet. In some places the removal has reached to a dangerous level mark of 30 feet.20Possible salt water intrusion from the sea may also become an issue where
+Farming – Still providing livelihoods to a large community
+Farhan Anwar, Shehri-CBE
+Exposed and vulnerable
+Farhan Anwar, Shehri-CBE
+19 The Study on Water Supply and Sewerage System in Karachi prepared by the Japan International Cooperation Agency(JICA), 2008
+20 Department of Geography, University of Karachi, 2007
+The ever descending water table
+Department of Geography, University of Karachi
+
+[Page 41]
+Karachi,prepared by the Japan International Cooperation Agency (JICA),
+2008 went further by recommending that more stringent controls should be put in place on the construction of new wells in order to maintain the current groundwater balance in the region.
+Bio-diversity
+To provide a sample and a glimpse of the possible impacts of drought on bio-diversity already under water stress, a proﬁle is provided of the
+Khirthar National Park – the largest national park in Pakistan containing many threatened and protected ﬂora and fauna specie including the
+Sindh urial or wild sheep (gad) and the Sindh Ibex or wild goat (sarah).21
+Not many people are aware that part of the Khirthar National Park constitutes 20% of the District
+Karachi landmass!
+As a result of low average annual precipitation, and the concentration of rainfall in a short monsoon season, there are no permanent rivers in the Park. Groundwater discharging from springs or drawn from wells provides the only source of water to sustain wild and domestic animals, irrigation and human use in the Khirthar National Park. In the year 2000, a Baseline Environmental
+Study of the Khirthar National Park was conducted by a team of scientists and academics from the University of Melbourne, Australia. As part of the Study,Ground Water
+Modeling was also done that indicated a precarious water balance with the water resources already under severe stress. It was found that the steep gradients and short length of streams in the mountains will result in a very short time of concentration for runoﬀ, and consequently, there will be only a short period for inﬁltration through the beds of mountain streams. Therefore little recharge is expected in the mountains. 
+It was estimated that total consumptive use of water by evaporation from irrigated land in the Park was between 10,000 and 20,000
+ML/a. This was 10-25 times greater than the amount drawn for drinking (around 800 ML/a), water supplies for domestic animals (around 270
+ML/a) or taken by wild animals (around 40 ML/a).
+Ground water recharge to aquifers in the Tuang Valley was estimated to be around 9000 ML/a, but withdrawal for irrigation was found to be around 28,000 ML/a. Though ﬁgures, it was stated were subject to errors of estimation but it was
+21 Sindh –State of Environment & Development, 2004, IUCN, The World Conservation Union, Pakistan coastal groundwater levels drop due to over abstraction, reduced recharge and sea level rise.
+The need to preserve and enhance to the extent possible the existing ground water resources and protect it from unsustainable uses is urgent.
+In 2004, KW&SB conducted a study to explore the possibility of developing groundwater sources in the region as a source of water supply for Karachi. The study was titled
+Feasibility Study to Explore Groundwater Source in Karachi District and explored the availability of groundwater from the basins of Malir,
+Gadap, Lyari and Hub to supplement the existing supplies. After extensive surveys and analyses, this study concluded that since there was limited precipitation and minimal groundwater recharge in
+Karachi, the sustainable yield of ground water was already in balance with the existing pump discharge from about 1,000 existing wells and it was diﬃcult to develop new wells. The Study on Water Supply and Sewerage System in
+Over abstraction – damaging the aquifers
+Department of Geography, University of Karachi
+Khithar National Park – endangered wildlife
+Section 2: Understanding the Impacts
+
+[Page 42]
+clearly evident that the ground water resources of the Tuang Valley in the Park were already overdeveloped. 
+End note
+The probability of a drought aﬀecting Karachi would depend upon how much rain falls, how long are periods of reduced rainfall, and how sensitive the supply-demand balance for the various service areas is to drought. Ideally, based on such an analysis the water service provider could divide its supply area into smaller water resource zones, which are deﬁned on the basis of water supply connectivity. Such estimation for us does not exist. However for us, a critical realization should be that a drought scenario will not bring a crisis, it may aggravate an already existing crisis. There is a need for the KW&SB to move on a number of fronts. There is an urgent need to reduce the loss of water through leakage management that can happen within the context of a larger initiative to rehabilitate the decaying infrastructure and prevent theft. Water eﬃciency can be improved through introducing water metering that can lead to proper estimation of demand and development of related trends in ﬂuctuations in uses and also identifying the more water stressed areas.
+There is a need to promote water conservation practices both at the service provider and the consumer level. There is huge water eﬃciency potential in using reclaimed water for non-potable uses. The focus presently is directed mostly on augmenting water supply (e.g. focus on
+K-IV project to bring 100 mgd more water for Karachi for the Indus river source). Though an option in itself, it can only provide optimal beneﬁts if other factors mainly at the distribution level that are hindering eﬃciency in water supply and usage are tackled on an urgent basis simultaneously, if not with a greater priority. However, for all this to happen, the water utility needs to be ﬁnancially viable to begin with. A political will for holistic institutional reforms backed by relevant policy and administrative interventions are the only way to address this challenge.
+Within the context of the rural agrourban sector in Karachi, there is an urgent need to protect and replenish the ground water resources through relevant policy and project based interventions in addition to looking at promoting judicious use of the water resources. This can happen within a larger framework of protecting the threatened land use of the rural hinterland and developing a new vision of this land mass and related economy as a viable and sustainable source of providing food security for Karachi and also acting as a barrier to the unplanned, unregulated and unsustainable urban sprawl.
+ExtrEmE hEAt
+EVENtS
+Heat waves are typically deﬁned as extended periods of hotter than average temperatures, although the precise timing and temperature differential varies regionally. Within the context of extreme heat events, the following focus areas are being considered.
+• Urban Heat Island Eﬀect (natural and anthropogenic factors)
+• Increasing water usage
+Critical Challenges
+• It seems eﬀorts have been shelved for now to assess the ground water potential of
+Karachi – e.g. recharging the aquifers in the Malir river basin by setting up inﬁltration basins/check dams to facilitate rain water storage/harvesting and recharging of aquifers
+• A major hindrance is the absence of a ground water use policy in Pakistan – Karachi can take the lead in this regard by formulating a ‘ground water use policy for Karachi! 
+• Lack of focus on promoting conservation and recycling practices to reduce stress on available fresh water resources
+• Funding constraints to rehabilitate decaying urban water supply infrastructure
+
+[Page 43]
+There is a lack of speciﬁcity in the deﬁnition of an extreme heat event or heat wave due to the importance of local acclimatization to climate, which varies geographically. Previous research shows that populations in diﬀerent locations have varying abilities to deal with temperature extremes. For example, studies in Phoenix (US) have found no statistically signiﬁcant relationship between mortality rates and high temperatures below 43°C, while in Boston (US), an increase in the rates of mortality is observed at
+32°C.22
+There can be several explanations for these variable responses. If extremely high temperatures occur at infrequent intervals then the residents may not have the proper level of preparedness to cope with sudden variations. Housing structures have a role to play as in places where cold weather is more of a norm,most homes are built from
+Section 2: Understanding the Impacts
+22 Global report on human settlements 2011,United Nations Human Settlements Programme heat-retaining materials and few homes have central air conditioning.
+As a result, during extreme heat events, ambient air temperature inside such homes can be dangerously high. As a result of climate change, extreme heat events are predicted to become more frequent, intense and longer lasting over most land areas. In the case of Pakistan generally and In Karachi particularly, temperature levels are expected to rise.
+In Karachi, generally summers are hot and prolonged and temperatures in excess of 300C are quite the norm. During the Study,no such data could be located which could indicate deaths due to sustained more than average heat waves – say in excess of 40 0C. 
+Declining public health
+Public discontent and possible conﬂict
+Lost public recreational amenities
+Financial stressinfrastructure repair and health costs
+Possible migration – farming communities
+Consumers shift to more costly and possibly hazardous options and prioritize use 
+Possible water riots 
+Increased stress on Indus water source
+Services disturbed due to infrastructure damage
+Bio-diversity loss
+Adverse impacts on farming sector and associated livelihoods
+Reduced urban water supply (Hub Source) 
+Stressed ecosystems (E.g. Khirthar) an green spaces
+Infrastructure damage (E.g. water & sanitation)
+Reduced ground water replenishment 
+Drought
+Fig. 31 karachi City 
+Cascading Consequences for ‘Drought’ and reduced rainfall
+Extreme heat Events - possible Impacts
+• The ‘Urban Heat Island’ eﬀect
+• Increasing water usage
+• Increasing energy demand for cooling – air conditioning 
+• Increased ‘load shedding’
+• Heat related illness and deaths
+• Damage to temperature related infrastructure (such as electrical systems and transport networks)
+
+[Page 44]
+urban heat island eﬀect
+Urban settlements due to their speciﬁc land use and development proﬁles can generate unique local conditions while interacting with heat events. The most signiﬁcant of such eﬀect in the context of climate change and extreme heat events is known as the Urban Heat Island effect. The urban heat island describes the warmth of the surfaces and atmosphere that urban areasoften experience in comparison to the rural areas that surround them.
+Compared to rural areas, cities tend to have higher air and surface temperatures due to the urban heat-island eﬀect.
+For the average developed country city of 1 million people, this phenomenon can cause air temperatures that are 1°C to 3°C higher than the city’s surrounding area. At night, when urban heat-island eﬀects are strongest, temperature diﬀerences can reach 12°C. By increasing temperatures, urban heat-island eﬀects can aggravate the heat-related negative implications of climate change and impose costly energy demands on urban systems as they attempt to adapt to higher temperatures.Extreme heat events negatively impact upon human health and social stability, increase energy demand and aﬀect water supply. Heat waves are more likely to impact upon vulnerable populations, including the elderly, very young, individuals with pre-existing health conditions and the urban poor. The urban poor indeveloped countries are especially at an increased risk from extreme heat events because of their low adaptive capacity.23
+The scale of these eﬀects is however, not uniform across cities. The physical layout of a city, its population size and density, and structural features of the built environment all inﬂuence the intensity of the urban heat island eﬀect. In some cities, the heat generated by traﬃc movement, air conditioning systems, industrial emissions and other energy uses builds on the heat being radiated from the buildings and roads, further raising temperatures. This can be termed as an anthropogenic (man-made)contribution to the urban heat island eﬀect.
+the urban heat Island Eﬀect
+T he fabric of buildings and roads that make up the urban realm absorbssolar energy. By earlyevening, the buildings androads start to radiate this stored energy as heat,which escapes slowly, especially in narrow or tallstreets where it is re-absorbed and re-radiatedfrom the buildings that line the street. Thisabsorption and retention of heat is why urbanareas can be warmer at night than rural areasand is known as the ‘urban heat island eﬀect.
+23 Global report on human settlements 2011,United Nations Human Settlements Programme
+OF
+OC late Afternoon temperature
+Suburban
+Residential
+Rural
+Farmland
+Rural
+Commercial
+Downtown
+Park
+Urban
+Residential
+Suburban
+Residential
+Fig. 32 the Classic urban heat Island Eﬀect proﬁle
+
+[Page 45]
+karachi – a potential for urban heat island eﬀect?
+In Karachi it is diﬃcult to assess if the urban heat island eﬀect is taking place and if so at what strength.As heat waves aﬀect the whole of the city, mapping the intensity of the urban heat island represents the best available measure of determining how temperatures vary across a city. Surface temperature mapping is the best way at assess the likelihood and intensity of the phenomenon. However, available data on land surface temperatures in
+Karachi is inconclusive owing to its random nature and not being speciﬁc to determining urban heat island eﬀect. Karachi has the potential of developing a typical temperature proﬁle of an urban heat island, where temperatures rise from the rural fringe towards the city centre. 
+Following are factors in urban growth in Karachi that may contribute or are already contributing to raising the temperature levels in the city due to human actions. 
+Population density
+There is a strong relationship between density of development and intensity of the urban heat island.
+Karachi’s population is expected to increase to 27.5 million by 2020.24
+The population density within the core of the city is on the rise and is projected to increase even further in the next decade and more . According to the KSDP 2020:
+With mounting pressures exerted by the population growth over the last two decades, two basic trends in land use are observed.
+Recently, commercial growth has taken place along major arterials.
+While most residential neighborhoods have acquired one or two storey structures, signiﬁcant densiﬁcation has taken places through construction of upper ﬂoors and subdivisions of large plots. In many old and new areas, apartment buildings, 5-6 storeys high, have replaced the low-density bungalow type housing.
+Then there are some other developments that given our experiences in ill planned development are raising some serious concerns. The provincial government of Sindh passed the
+Sindh High Density Development
+Board Bill, 2010 in the provincial assembly on May 31, 2010, that was assented to by the Governor of
+Sindh on June 20, 2010 and through a Notiﬁcation issued on June 24,
+2010 was made an Act of the Legislature of Sindh. The Act sanctions the Board to identify and earmark the high density zones in the urban centers of the cities of the province and in consultation with respective utility agencies, keeping in view the general principles of the Master
+Plan. High Density Zone is described as an area designated under the Act for construction of high rise buildings in the urban centers of the
+Province.
+Section 2: Understanding the Impacts
+24 Karachi Strategic Development Plan 2020
+An ever expanding city
+Mohammad Arshad, Shehri-CBE
+
+[Page 46]
+While the development of a High
+Density Zone in itself is something quite normal for a large urban settlement, the history and practice of disregarding the relevant social and environmental consequences and lack of transparency of major urban development projects in Karachi and in the province generally has made the citizens wary of the likely adverse consequences should such a plan is put into practice. Maybe a discussion and focus on climate change and an urban heat island effect can provide an appropriate context for stimulating discussion regarding this government decision. transport
+Automobile load on the roads is increasing with more emphasis on the use of private vehicle. During 1990 to 2008, the observed growth in vehicles is comparatively greater than the population growth. There were
+1,113,000 registered vehicles in
+Karachi in 2002 and 8,420,000 registered vehicles in 2007. During this short time period, we saw the regular growth in vehicles. The observed
+Citizens protest!
+A
+Resolution was passed in a Seminar organized by Shehri-CBE that clearly indicates some fundamental crisis in urban development in Karachi. Relevant excerpts are quoted below:
+Having gathered here today, 16th
+June 2011, at the Auditorium of the
+IEP, Karachi, to examine:
+lThe Sindh High Density Development Board Act 2010, and lThe Sindh High Density Development Board (Rules & Procedures)
+2011
+We citizens (engineers, architects, town-planners, environmentalists, economists, other professionals, activists and concerned members of the public) express our disappointment and dismay at the legislation and rules that have been passed by our parliamentary and government representatives allegedly for the beneﬁt of the city and its residents. 
+The relevant issues include:
+1)
+The recommendations made by leading professionals of Karachi in the lead up to these legislation/rules have been entirely set aside or diluted beyond recognition.
+2)
+While purporting to “identify and earmark the high-density zones in the urban centers of the cities of the province, in consultation with the utility agencies, keeping in view the general principles of the Master
+Plan” (extract from the Act 2010), the legislation and rules have only been simplistically and crudely amended to permit: a) enhanced building sizes on existing plots (up to twelve times more) b) amalgamation of plots (up to any size) c) commercialization of residential properties d) elimination of set-backs (required for ventilation and sunlight penetration), and e) inadequate parking facilities
+3)
+The corresponding strengthening of the utility services, and expansion of the physical and social infrastructure (which will not be so simple to implement) has been disregarded. The implication on the rest of the city has been overlooked, and the poorer sections of society have been forgotten
+4)
+Such over-exploitation of the city will convert what is left into a concrete jungle, and destroy the social fabric. Amenity plots all over the city are being ruthlessly grabbed by encroachers today, while the government looks on silently. Utilities (water, gas, electricity) are becoming scarcer with each passing day, traﬃc chaos is multiplying, law and order is deteriorating and pollution will soon overwhelm us. Protests, public riots and violence are increasing.
+5)
+It is imperative that planning must be realistic, simple, and in line with our countries resources, both physical and human. While imitating the developed countries is fashionable, we must try for the possible.
+
+[Page 47]
+growth during this time period is about 656% and it is many time more that the growth in urban population.25
+The numbers are likely to grow multifold. In the JICA demand forecast study - Special Assistance for Project
+Formation (SAPROF) for Karachi Circular Railway Project, 2009 - vehicle ownership in 2020 was estimated at 61.6%. With the average number of household members taken as 3.9, which was obtained from the JICA person trip study, the number of households in 2020 was estimated at about 7 million and the number of vehicles owned estimated at about 4.3 million - equivalent to 156 vehicles per 1,000 people..
+The emission of air pollutants is directly related to fuel consumption.
+Pakistan’s consumption of petroleum products is growing at an annual rate of approximately 6 per cent, almost half of which is consumed by the transport sector26.
+Vehicle-generated air pollution is severe, with high concentrations of ﬁne and ultra ﬁne particles in the air which can cause respiratory problems among a large number of
+Karachi’s urban residents (ADB,
+2005b). The fastest growth in mobile sources has been in two-stroke delivery vehicles, but the number of diesel trucks and buses has also increased up to three times. International experience indicates that a major share of the emission load from motor vehicles can beat tributed to a relatively small number of smoky diesel and two-stroke vehicles (ADB,2005x). The main sources of ambient air pollution in Karachi are old and ill-maintained vehicles,waste burning (8,000 tones of waste generated/day), re-suspended dust, and smallscale businesses using ‘dirty fuels’ for manufacturing and production purposes. Air pollution levels in Karachi are extremely high by international standards and rising each year (WB
+2005).
+Section 2: Understanding the Impacts
+1990
+1992
+1994
+1996
+1998 2000
+2002 2004
+2006
+2008
+Population growth
+Trend line of vehicles growth
+Vehicles growth
+Trend line of population growth
+There were 1,113,000 registered vehicles in Karachi in 
+2002 and 8,420,000 registered vehicles in
+2007. During this short time period, there was a regular growth in vehicles.
+The observed growth during this time period is about 656% and it is many time more that the growth in urban population! 
+Source: The preliminary study of urbanization, fossil fuels consumptions and CO2 emission in Karachi
+S. H. Sajjad, N. Blond, A. Clappier, Asif Raza, Safdar Ali Shirazi and Khadija Shakrullah, African Journal of Biotechnology Vol. 9(13), pp. 1941-1948, 29 March, 2010
+Fig. 33 population and Vehicular growth
+25 The preliminary study of urbanization, fossil fuels consumptions and CO2 emission in Karachi
+S. H. Sajjad, N. Blond, A. Clappier, Asif Raza, Safdar Ali Shirazi and KhadijaShakrullah, African Journal of Biotechnology Vol. 9(13), pp. 19411948, 29 March, 2010
+26 A Strategic Approach for Air PollutionReduction in Karachi,Dieter Schwela, Gary Haq and Mohammad Aqib Uddin, Stockholm Environment
+Institute, IUCN, Pakistan Clean Air Network
+Promoting private transport use
+Mohammad Arshad, Shehri-CBE
+
+[Page 48]
+While regularly updated data on vehicular emissions is not available some recent surveys indicate a signiﬁcant air quality implication of the growth in traﬃc load. Ambient air quality monitoring including SO2,
+NO2, CO, CO2 and PM10 was carried out at 4 locations along the Karachi
+Circular Railway (KCR) route for the
+Special Assistance for Project Formation (SAPROF) for Karachi Circular Railway Project, 2009. The various sources of air pollution in the project area were indicated as industrial emissions, vehicular trafﬁc, and dust arising from ﬁeld road side and construction activities. The prime objective of baseline air quality survey was to determine the baseline of ambient air quality in and around the KCR route.The ambient air quality data indicated much higher value of suspended particulate matter at all the four locations than the prescribed limits. The values of SO2, NOx and CO were found to be within or slightly over the permissible limits.
+Industrial growth
+The major industrial development in
+Karachi was during 1947 to 1969 and during 1986 to 2009. The high growth rate in urban population and urbanization was also observed during in the era of industrialization.
+The computed growths in industrial units and industrial area are 249% and 147%, respectively. It clearly shows that the proportion of increasing trends between industrial units and area is not uniform and the industrial zones became denser with time.27 The emissions from industrial sources are discussed brieﬂy in the overall context of fossil fuel consumption and C02 emissions separately.
+Fossil fuel consumption and
+CO2 emissions
+Consumption of coal in 1980 was
+262,000 short tons that increased to
+1,009,000 short tons in 2007 with an increase of 285%. During 1993 to
+2000, the coal consumption was quite stable but during 2000 to
+2006 increased a lot. This rapid increase is mainly due to increase of consumption of coal in cement industry. The per day consumption of oil and petrol jumped from 16,000 barrels in 1980 to 51,000 barrels in
+9000
+8000
+7000
+6000
+5000
+4000
+3000
+2000
+1000
+1947-1953
+1961-1969
+1983-1986
+1987-2009
+Industrial 
+Units
+Industrial 
+Area (Km2)
+Industrial units
+Industrial area (km2)
+Source: The preliminary study of urbanization, fossil fuels consumptions and CO2 emission in
+Karachi -S. H. Sajjad, N. Blond, A. Clappier, Asif Raza, Safdar Ali Shirazi and Khadija Shakrullah,
+African Journal of Biotechnology Vol. 9(13), pp. 1941-1948, 29 March, 2010
+Fig. 34
+Industrial growth on the rise!
+2007 with an increase of 219%. This oil and petrol are mainly used in transport and power sectors (Sheikh, 2010). After 1993, along with the transport sector, the consumption of oil increased mainly due to usage of oil in thermal power stations which were established just after 1992 (Pakistan, 1994). After
+2001, thousands of the old diesel engine vehicles were replaced by the compressed natural gas (CNG) engines. Consumption of natural gas increased from 40 billion cubic feet in 1980 to 186 billion cubic feet with an increase of 365%. Its consumption has been regularly increasing with time. It is mainly consumed in power generation, industries and houses. Its consumption in transport sector is vibrantly increasing with time.
+27 The preliminary study of urbanization, fossil fuels consumptions and CO2 emission in Karachi
+
+[Page 49]
+A few critical vulnerabilities to be highlighted that render the power generation facilities and systems under severe stress during extreme heat spells include extended and sustained load shedding schedules (supply-demand gap) and frequent tripping of generation units.)
+Section 2: Understanding the Impacts thousands barrels/day
+Source: The preliminary study of urbanization, fossil fuels consumptions and CO2 emission in
+Karachi - S. H. Sajjad, N. Blond, A. Clappier, Asif Raza, Safdar Ali Shirazi and Khadija Shakrullah,
+African Journal of Biotechnology Vol. 9(13), pp. 1941-1948, 29 March, 2010
+1977
+1980
+1983
+1986
+1989
+1992
+1995
+1998
+2001
+2004
+2007
+2010 y = 1.5662x - 3083.7
+R2 = 0.9032
+51.9%
+39.2%
+5.9% 1.7% 0.7% 0.6%
+Fig. 35 karachi City - Energy Consumption trends million metric tons of Co2
+Source: The preliminary study of urbanization, fossil fuels consumptions and CO2 emission in Karachi
+-S. H. Sajjad, N. Blond, A. Clappier, Asif Raza, Safdar Ali Shirazi and Khadija Shakrullah, African Journal of Biotechnology Vol. 9(13), pp. 1941-1948, 29 March, 2010
+1976
+1980
+1984
+1988
+1992
+1996
+2000
+2004
+2008 y = 0.0963x - 189.52
+R2 = 0.9577
+Fig. 36 karachi City - Co2 Emissions proﬁle
+Co2 emission
+T otal per-capita energy consumption in Pakistan is 12.4 million BTUs (1 BTUs = 1,055.055 joules) that contributes 0.7 metric tons per-capita energy related
+CO2 emission in environment.
+Figure 9 is showing the regular increase of CO2 emission in atmosphere over Karachi. The rate of emission of CO2 is not only rapid but it is showing a regular and positive trend without any signiﬁcant down fall throughout the computed time. It is observed that the CO2 emission in atmosphere has reached up to 151 million metric tons in 2006 that was just 39 million metric tons in
+1980. This 287% increase in CO2 during 1980 to 2007 is the result of mass urbanization and energy consumption in Karachi
+Source: The preliminary study of urbanization, fossil fuels consumptions and CO2 emission in
+Karachi
+S. H. Sajjad, N. Blond, A. Clappier, Asif Raza,
+Safdar Ali Shirazi and Khadija Shakrullah,
+African Journal of Biotechnology Vol. 9(13), pp. 1941-1948, 29 March, 2010
+
+[Page 50]
+water usage
+In extreme heat events, a much greater than normal pressure is exerted on the potable water supply sources with increased consumption. As there is no water metering at the retail level in Karachi, there is no way of accurately assessing the ﬂuctuations or trends in water consumption. However, recently a public perception survey in the form of
+Increasing energy demand
+Mohammad Arshad, Shehri-CBE
+Widening gap in supply and demand
+Mohammad Arshad, Shehri-CBE a Citizen Report Card (CRC) was conducted at the initiative of the
+KW&SB with the technical support of the Water and Sanitation Program (WSP) Pakistan oﬃce. Among other service delivery aspects and consumer coping mechanisms it also investigated the water consumption trends and a clear increase in water consumption (based
+Informal service provision - Accessing a public water supply network
+Mohammad Arshad, Shehri-CBE
+Source: Water & Sewerage Services in Karachi – Citizen Report Card - Sustainable Service Delivery
+Improvements –2010 – KW&SB/WSP 
+January
+February
+March
+April
+May
+June
+July
+August
+September
+October
+November
+Decmber
+Seasonal water Scarcity
+Fig. 37 water usage proﬁle – Annual Fluctuations on consumer input) was indicated during the warmer months of the year. Capacity constraints at diﬀerent levels of the water utility to deal with the associated challenges of increased demand have already been discussed in detail earlier .
+weakening defences
+Green spaces (parks/farmlands) reduce the urban heat island by reﬂecting more of the incoming solar energy than urban materials, as well as absorbing energy through photosynthesis and providing cooling through evaporative transpiration.As already discussed earlier in detail the green cover in the city is decreasing.
+
+[Page 51]
+user while at the same time acting as possible physical barriers and constraints to the development of a viable public transport system.
+The issue of the ever existing and widening supply-demand gap in water supply, related cross cutting concerns and the grave institutional challenges being faced by the water utility – the KW&SB - has already been discussed. Yet again here the major cause of concern is on the prioritization of actions to tackle the challenges. Focus is largely on augmenting water supply. While such an action can provide beneﬁts in the short run, it cannot on its own provide a viable and lasting solution to the crisis unless it is linked with measures to drastically reduce water loss and actively work to promote water conservation and waste water reclamation practices to lessen the pressure on the already stressed water supply resources. A new paradigm in water resources management has to be envisioned by working with a basket of options for improved service provision and institutional reforms.
+Section 2: Understanding the Impacts
+Critical Challenges
+•
+Critical gaps in our ‘understanding’ of urban development trends overheating risks and target priority areas m
+Relation between population density and heat island eﬀect m
+Contribution of anthropogenic factors in raising urban heat – trafﬁc/air-condition use etc.) m
+Impact on infrastructure (E.g. power, water, transport) m
+Health impacts 
+•
+Shrinking green cover in the city
+•
+Promote a green roof/rooftop garden program
+•
+A transport infrastructure that discourages use of public transport and focuses on promoting use of ‘private automobiles’ 
+•
+Extremely high water and energy loss during transmission and distribution and no promotion of ‘water’ and ‘energy’ conservation measures – lack of focus on alternative and environment friendly ‘energy sources’ 
+•
+Critical gaps in the ‘health emergency response systems – health/emergency/trauma facilities
+End note
+Lack of appropriate data and research again act as a constraining factor in determining the presence and extent of the relevant climate change impacts such as the urban heat island eﬀect. However, possible contributing factors can be identiﬁed and mostly relate with the unplanned and unregulated growth that has now become the norm in
+Karachi’s development scenario.
+Options for horizontal growth are now negligible if not already exhausted within the inner city and vertical growth scenarios are being considered – however, without proper consideration for the social, environmental safeguards necessary for making them a viable planning and development strategy to accommodate residential and commercial growth pressures. 
+An appalling lack of focus and priority on providing the city with socially, environmentally and ﬁnancially viable public transport options has led to a phenomenal growth in the numbers of private vehicle usage that is now globally being discouraged as a sustainable mode of transport in terms of adverse impacts on the environment and sustainable growth of urban settlements. While there is much talk of investing in public transport options, it is a matter of grave concern that the present enhanced focus on speciﬁc transport infrastructure such as ﬂyovers is geared to the beneﬁt of the private vehicle
+
+[Page 52]
+Rising water table
+•
+Salt water intrusion
+•
+Inundation and ﬂooding
+•
+Storm surge
+•
+Coastal erosion
+Average sea levels have been rising around the world during recent decades, but with signiﬁcant regional variation. The average rate of rise accelerated from 1.8mm per year between 1961 and 2003 to
+3.1mm per year between 1993 and
+2003.Sea-level rise is a serious concern for coastal cities as rising water levels and storm surges can cause property damage, displacement of residents, disruption of transportation and wetland loss.28
+Tropical cyclones are weather systems that are being related with (though the science is not absolutely conclusive) possible rising of sea surface temperatures and consequent sea level rise. They are associated with thunderstorms and strong winds characterized by their wind circulation patterns and a wellSEA lEVEl rISE
+Sea-level rise refers to the increase in the mean level of the oceans.
+Within the context of extreme heat events, the following focus areas are being considered.
+• Damage to bio-diversity/ecosystems
+• Damage to sensitive government installations and
+Declining public health
+Public discontent and possible conﬂict
+Financial stressinfrastructure repair and health costs
+Setback to economy due to disruption of commercial and industrial activities
+Heavy ﬁnancial burden on already stressed public services for repair and maintenance works
+Increased gap in water‘supply and dmand’
+Increased gap in power ‘supply and demand’
+Stress on health in frastructure/facilities 
+Psycho logical and social stresses
+Disruption oﬁndustrial and commercial activities
+Urban services disturbed due to infrastructure damage (power supply, water supply, transport)
+Consumers shift to more costlyservice options (power/water supply)
+Urban heat Island’ eﬀect Increased water usage
+Increased energy demand for cooling (air conditioning) Heat related illness and deaths
+Damage to temperature related Infrastructure (power and transport)
+Increased ‘load shedding’ 
+ExtrEmE hEAt
+EVENtS
+Fig. 38
+- karachi City - 
+Cascading Consequences for ‘Extreme heat Events’
+Sea level rise: possible Impacts
+• Damage to sensitive government installations and residential/recreational and commercial properties 
+• Damage to bio-diversity/ ecosystems
+• Livelihoods loss – ﬁshing communities residential/recreational and commercial properties 
+• Livelihoods loss – ﬁshing communities
+Sea level rise, by itself and in combination with other coastal hazards, such as intense storms and the effects of climate change, can have many interacting consequences.
+Possible hazards include:
+28 Global Report on Human Settlements,2011,United Nations Human Settlements Programme
+
+[Page 53]
+Section 2: Understanding the Impacts disrupt supply of potable water and contaminate water supplies with saltwater, chemicals and waterborne diseases.
+table 5
+Sea level rise in karachi
+According to the Studies Carried out at the National Institute of oceanography (NIo), the Sea level Along the Coast of pakistan has Been rising Approximately at 1.2 mm per year, in Agreement with the Average global rise of 1.5 mm per year Since 1960. Based on karachi tidal Station records projections for the
+Next 100 years are Estimated at a rate of 1.1mm/yr rise tidal State present State (m) projected level (m) after 100 years
+Lowest Astronomical Tide
+-0.49 +0.11
+Mean Lower Low Water +0.97 +1.57
+Mean Higher Low Water +1.43 +2.03
+Mean Sea Level +2.04 +2.64
+Mean Lower High Water +2.65 +3.25
+Mean Higher High Water +3.38 +3.98
+Highest Astronomical Tide +3.84 +4.44 tropical Cyclone Impact
+C yclones are classiﬁed as ‘storms’ when sustained wind speeds reach between 63km to 118km per hour, while a hurricane is a tropical cyclone with sustained wind speeds exceeding 118km per hour
+The implications of increased cyclone activity andintensity are far reaching for cities. Power outages duringstorms disrupt transportation, economic activity and supplyof potable water. Physical destruction caused by storms isoften extremely expensive to repair and results in fatalitiesand injuries to humans and wildlife. Furthermore, inundationof water during storms can contaminate water supplieswith saltwater, chemicals and waterborne diseases
+Source:Global Report on Human Settlements 2011,United Nations Human Settlements Programme deﬁned centre resulting in waves and storm surges (i.e. temporary oﬀshore rise of water) that can damage property and threaten the safety of communities and bio-diversity in the aﬀected area.
+Assessing risk
+The risks posed by sea level rise itself for Karachi may be negligible in the short term and current timeframe but may become a cause for concern in a longer run. However, again, the science and related research is inconclusive but climate change then is all about considering possibilities and dealing with forecasts rather than certainties and predictions. The most viable and cost eﬀective approach to minimizing the possible impacts of sea level rise in the longterm is the integration of measures into infrastructure design and development planning in the short term. Such an approach would translate the long term risks of sea level into an active policy and planning, management issue for today.
+However, the implications of an extreme weather event such as cyclone have a greater urgency and intensity attached to them for
+Karachi. Major ﬂooding associated with a major cyclonic event can result in serious damage to businesses and residential complexes, disruption of economic activity (e.g. at the
+Karachi Port and Fish Harbor) injuries and fatalities, environmental damage due to wetlands destruction, inundation of sewage and damage to low lying residential/ recreational areas and coastal ﬁshing communities. Furthermore, inundation of water during storms can
+
+[Page 54]
+The National Institute of Oceanography (NIO) is of the view that the ground subsidence rates in the
+Indus deltaic region due to lack of sediment ﬂux and excessive ground water extraction are probably in the range 2-4 mm per year. The ground subsidence has already resulted in the sea water intrusion upstream of the delta extending up to 80 km in the coastal areas of Thatta, Hyderabad and Badin districts (Panhwar
+1999; Inam et al. 2007). The main factor considered responsible for intrusion of sea water into the Indus deltaic region is an insuﬃcient ﬂow of Indus water downstream Kotri barrage. An average of 35 maf went downstream Kotri during the period
+1976-77 to 2002- 03; it varied between 0.8 maf in 2000-01 (when the IRS inﬂow was 103 maf) and 92 maf in 1994-95 (when the IRS inﬂow was 166 maf) (GoP-MoW&P 2005).
+However, possible scale and impacts of salt water intrusion along the
+Karachi coast are still not clear. 
+At risk – people and assets
+Without having the facility of appropriate mapping and classiﬁcation an eﬀort nonetheless is being made to identify and classify areas of future impacts from ocean coastal ﬂooding due to projected sea level rise and storms in order to reduce risk in those areas.
+table 6
+Cyclones – Extreme Events
+Name/year
+Impact losses
+Yemyin (June
+2007)
+Sindh & Balochistan (coastal and adjoining regions)
+2.5 million aﬀected.
+7 districts of Balochistan and 2 of Sindh severely aﬀected
+Onil Oct 2004
+Sindh – Thatta and Badin
+Localized impact. Cyclone impacted with a reduced impact resulting in heavy local precipitation
+Cyclone of May
+1999
+Sindh coast - Thatta and
+Badin
+202 deaths. Houses fully / partially damaged -138,719
+15 Dec 1965
+Karachi and Thatta
+10,000 aﬀected (Source: Cyclone Contingency Plan for Karachi City 2008,NDMA) table 7
+Coastal Installations: lifelines of ‘National’ Economy the 
+Facility the Economic Importance
+Karachi
+Port 
+Trust 
+Karachi Port is now handling over 11.74 million tons of liquid cargo and
+25.45 million tons of dry cargo, including 1,213,744 TEUs which constitute about 60% of import/export of the country
+Port
+Qasim
+Authority
+The port encompasses a total area of 12,000 acres (49 km2) wherein many industrial zones operate. In addition to the Pakistan Steel Mills and KESC Bin Qasim Power Plant (1260 MW) around 80% of the Pakistan's automotive industry is located at Port Qasim. The port also provides direct waterfront access to two major nearby industrial areas,
+Export Processing Zone (Landhi) and Korangi Industrial Area. Approximately 60% of country's export and import is originated from these areas
+Karachi 
+Fishing 
+Industry
+Karachi is the biggest ﬁshery hub in Pakistan. Fisheries play an important role in Karachi's economy. They provide employment to about 300,000 ﬁshermen directly. In addition, another 400,000 people are employed in ancillary industries. It is also a major source of export earning. The Karachi Fish Harbor (handles about 90% of ﬁsh and seafood catch in Pakistan and 95% of ﬁsh and seafood exports from
+Pakistan) and Korangi Fish Harbor are two major ﬁsh harbors in Karachi
+KANUPP
+KANUPP, Karachi is a single unit CANDU PHWR with a total gross capacity of 137 MW
+
+[Page 55]
+Karachi. The approximated area of these islands is 4 km² and the population is about 12000. public and private infrastructure
+Public and private infrastructure dominates large sections of
+Karachi’s coastline. This infrastructure includes nuclear power plant, harbors and ports, sewage treatment plants along with the housing, businesses and recreational resources.
+public infrastructure -Some critical installations of national importance are located right along the coast. They include Karachi Nuclear
+Power Plant (KANUPP),the Karachi harbor (port and ﬁsheries), naval installations (PNS Himalya) and Port
+Qasim Authority (PQA). Any disruption in their functions even for a day costs the nation in billions of rupees. The TP-3 Mauripur Waste
+Karachi Fish Harbor play a critical role in sustaining its functions. For exports, the major ﬁshery is for prawns and the bulk of the catch is landed in Karachi where there are export facilities, which have been approved by the European Union (EU), and where the competent authority - the Federal Marine Fisheries Department is based. 
+It is estimated that 100,000 people (10,000 families) together with more than 30,000 (household heads) employed in the Karachi area from Karachi Fish harbor, Ibrahim
+Hyderi (most populace coastal ﬁshing village) and other landing centers in Korangi creek and elsewhere near Karachi depend on ﬁsheries.30
+More than the inland coastal communities would be the inhabitants of the twin islands of Babaand Bhit.
+Baba Bhit Island is the smallest neighborhood of Keamari Town in people
+In terms of communities located in the immediate risk zone, the most signiﬁcant human settlements both in terms of their exposure and vulnerability are the ﬁshing communities residing in ﬁshing villages dotted along the Karachi coast.No detailed Sector Study has been done on the ﬁsheries sector since
+1986 and there has been no work on the estimation of ﬁsh stocks within the 12-200 mile zone for 20 years29. According to the State Bank of Pakistan (2005), the share of ﬁsheries in GDP is only 0.3% while its share in agriculture is 1.3%. As such, ﬁsheries though not being a high value contributor to the national wealth nevertheless supports significant human livelihoods and that too of extremely vulnerable communities.
+Fishery is an export driven sector and the Karachi port and the
+Section 2: Understanding the Impacts
+29 Pakistan Coastal and Inland Community Development Project, 2005, ADB Technical Assistance Consultants Report (Financed by the Japan
+Special Fund) – Prepared by ANZDEC Limited Consultants, ANZDEC Limited, New Zealand – in cooperation with Resource Monitoring and
+Development Group, Pakistan and SEBCON (Pvt.) Limited Pakistan 
+30 Pakistan Coastal and Inland Community Development Project, 2005, ADB Technical Assistance Consultants Report (Financed by the Japan
+Special Fund) – Prepared by ANZDEC Limited Consultants, ANZDEC Limited, New Zealand – in cooperation with Resource Monitoring and
+Development Group, Pakistan and SEBCON (Pvt.) Limited Pakistan
+Fishing – an important livelihood source for coastal communities 
+Mohammad Arshad, Shehri-CBE
+Livelihoods at risk from shifting sea levels
+Mohammad Arshad, Shehri-CBE
+Fishing – A family industry
+Mohammad Arshad, Shehri-CBE
+
+[Page 56]
+Water Treatment Plant (54 MGD capacity) is also located close to the
+Lyari River estuary. Wastewater treatment plants in the coastal zone are at risk from ﬂooding and the associated corrosion caused by salt water inﬁltration. In addition to the treatment facilities themselves, the substrate for sewer pipes could be damaged by erosion and a rising water table. The combined sewer outfall systems, such as the Lyari and Malir river outfalls and drainage channel outfalls already experiencing untreated discharges during high-rainfall events in Karachi, can be further compromised by backﬂow and/or gravity discharge problems as sea level rises.
+private infrastructure -A key area of concern for the Karachi City planners could be the major residential, business and recreation areas being constructed along the waterfront land – along the Clifton beach for example. Coastal land reclamation has also taken place in the process and the possible impacts on the coastal hydrology – erosion and deposition patterns -are uncertain.
+A viable planning document – the
+Karachi Coastal Recreation Development Plan, 1990-2000 –(Karachi Development Authority Master Plan &
+Environmental Control Department,
+UNDP, United Nations Center for
+Human Settlement, Doxiadis Associate International Group S.A Consultant on Development and Ekistics &
+Osmani and Company Private Limited) serves as the guideline for coastline recreation development as per the Karachi Building and Town
+Planning Regulations where the entire 40 mile strip of Karachi coastline right from Hub River estuary passing through Paradise Point, Hawksbay,
+Manora and Western/eastern backwaters and Clifton, Gizri, Defence and Korangi right upto Gharo creek is an interim control area for the purpose and tourism.
+The guidelines are extensive in terms of identifying environmental
+The Karachi harbor – a critical national economic lifeline
+Mohammad Arshad, Shehri-CBE
+Expanding commercial development along the coastline
+Mohammad Arshad, Shehri-CBE
+Public recreation at Clifton beach
+Mohammad Arshad, Shehri-CBE
+
+[Page 57]
+planning zones – conservation, utilization, restricted zones – however, ﬁrstly there are no provisions for dealing with any scenarios that might be related with climate change and secondly, the level to which the guidelines are being followed in terms of completed or planned coastal development is far from satisfactory. 
+Ecosystems
+All the possible hazards associated with seal level rise scenario have the capacity of damaging, in cases irreversibly the exposed ecosystems viability. Following are highlighted some Karachi’s critical coastal ecosystems that are likely to be impacted:
+mangroves – tidal wetlands
+Wetland loss (mangrove forests) in coastal areas along the Indus delta and Karachi coast is a cause of serious concern. Wetlands are undergoing either rapid conversion to mudﬂats, or have been ﬁlled to create land for development. In addition to the loss of natural services caused by ﬁlling wetlands, the low-elevation communities or properties that come up at their cost can be at high risk from storm surge and sea level rise.Wetlands provide critical spawning grounds, nurseries, shelter, and food for ﬁnﬁsh, shellﬁsh, birds and other wildlife. They also improve surface water quality by ﬁltering, storing, and detoxifying wastes. The major export item in the ﬁshery sector for Pakistan is shrimps/prawns and mangroves provide a nursery area for shrimp post larvae and juveniles.31
+Recent studies suggest that storm surges superimposed on higher sea levels will increase the frequency and extent of ﬂooding in coastal regions and estuaries, thus increasing the risk of damage to vulnerable wetlands.At the lower end of projected sea level rise rates, the slow deposition of water-borne sediment will enable some tidal wetlands to migrate into adjacent upland areas,
+Section 2: Understanding the Impacts mitigating their loss. Such migration will not be possible in areas where shoreline protective structures, development, or natural impediments (open water or steep slopes) prevent it (already we are altering the
+Karachi shoreline through development related land reclamation).32
+Other than their bio-diversity and economic value, there are other reasons why coastal wetlands and marshes need to be protected. Such ecosystems are also an important form of natural infrastructure along the shore and are estimated to prevent approximately $23 billion dollars in coastal storm damage each year on the southeast and Gulf of
+Mexico coasts.33 There is some eviThe mangroves ecosystem – precious biodiversity 
+Mohammad Arshad, Shehri-CBE
+31 Pakistan Coastal and Inland Community Development Project, 2005, ADB Technical Assistance Consultants Report (Financed by the Japan
+Special Fund) – Prepared by ANZDEC Limited Consultants, ANZDEC Limited, New Zealand – in cooperation with Resource Monitoring and
+Development Group, Pakistan and SEBCON (Pvt.) Limited Pakistan
+32 New York State Sea Level Rise Task Force Report to the Legislature, December 2010 ralcap/nat-cap-overview.pdf.
+
+[Page 58]
+(Source: SHEHRI-CBE) turtle Nesting places
+2009 (Sep)
+0 155 310 620 930 Meters
+Fig. 39 the green turtle Nesting habitat – hawksbay/Sandspit Beach EcoSystem dence to suggest that as mangroves are able to absorb 70-90% of the energy from a normal wave, they acted as viable buﬀers during the
+2006 Tsunami catastrophe. the Sandspit/hawksbay ecosystem- threatened habitat
+To provide an idea of the ecological richness and sensitivity of the
+Karachi coastline a brief outline is being provided of the natural backwater habitat of the Sandspit/
+Hawksbay beach ecosystem. Some of the main wetland sites on Karachi coast that have been identiﬁed as
+Wetlands of International Importance and include the Sandspit/
+Hawksbay area. The area has already been included in the Directory of Asian Wetlands. A large area of Sandspit/Hawksbay back waters supports dense mangrove vegetation comprising Avicennia marina species of mangroves.The back waters contain a very rich and complex food web of algae, invertebrates living in the mud, such as worms, shrimps,crabs and juvenile ﬁsh.
+Many water birds are to be found in this area,especially herons,waders such as stints,sandpipers,redshanks,avocets and black winged stilts, and hawks such as ospreys, and brahminny kites.The ecosystem is one of the most important areas for wintering, passage and summering shorebirds in Pakistan,and also supports signiﬁcant numbers of cormorants,ﬂamingoes,ducks,gulls and terns.34
+Sea Turtles enjoy a protected status in Pakistan. Virtually all the marine turtles nesting sites in Sindh occur on the Hawksbay/Sandspit beaches, concentrated along one 5 km stretch but extending in some degree along the entire beach strip of around 20 km. These two beaches represent the largest nesting habitat for marine turtles in Pakistan where the dominant resident turtle is the green turtle. Due to various human activities the habitat and green turtles are already threatened . 
+There is a direct link between possible climate change scenarios and sustainability of turtle nesting and breeding. Sea level rise can result in reducing the available beach habitat. In addition to rising sea levels, climate change is also likely to result in further increases in the temperature of the sand, which could alter
+34 Directory of Asian Wetlands
+A nesting green turtle at the Sandspit beach 
+Shehri-CBE
+
+[Page 59]
+the sex ratio in sea turtle populations.As with some other reptile species, the sex of sea turtle hatchlings is determined by temperature.In the case of turtles, hatching when the sand is above the pivotal temperature produces a female; hatching below the temperature produces a male.Similarly, if the air and water temperatures rise, the time of year when sea turtle nesting occurs could be drastically changed.The major cause of sea level is expansion of the ocean due to raised temperatures(Since 1961, the world’s oceans have been absorbing more than 80 per cent of the heat added to the climate, causing ocean water to expand and contributing to rising sea levels.
+Between 1993 and 2003, ocean expansion was the largest contributor to sea-level rise35). Evidence is growing that changes in temperature due to climate change shift critical life events in many species including their breeding, feeding and migration cycles.One recent study concludes that it is likely that southern populations of turtles in the United
+States will become “ultra-biased” towards female populations if temperatures increase by even 1˚C.3 36
+A recent Study conducted by ShehriCitizens for a Better Environment (funded by the oﬃce of WWF Pakistan) - Assessing the habitat suitability for specie habitation- Case
+Section 2: Understanding the Impacts
+Study: Sandspit/Hawksbay Coastal
+Ecosystem as a Turtle Nesting Habitat, 2010- already established a direct relationship between:
+• increasing elevation of the beach and the increasing numbers of successful turtle nests 
+• decreasing ground water level and increasing number of successful turtle nests 
+Both favorable physical attributes are likely to change in case of a sea level rise scenario adversely impacting on the green turtle nesting patterns.
+tropical cyclone in karachi – likely scenario
+Not much has been done to simulate or think in a quantitative or tangible manner on the possible impacts of any climate change scenario. However, despite absence of historical data of cyclone impact on
+Karach,i two scenarios have been identiﬁed by the Pakistan Meteorological Department (PMD) that have been documented in the Cyclone
+Contingency Plan for Karachi City, prepared by the National Disaster
+Management Authority (NMDA)
+Government of Pakistan in 2008.
+The worst case scenario is highlighted below:
+Scenario 1 – Cyclone category III or above (worst cases scenario) depicts a World
+Meteorological Department (WMO) deﬁned Category III cyclone storm or above making landfall in Karachi
+City. Its key impacts are summarized below: - (Source: Shehri-CBE)
+SANDBAr
+Water depth
+Top Soil Core
+Soil Core-4
+Soil Core-6
+Soil Core-5
+Fig. 40 higher ground water level – less Nesting
+35 Global Report on Human Settlements,2011,United Nations Human SettlementsProgramme
+36 Elizabeth Griﬃn, Emily Frost, Lisa White, David Allison. Climate Change and Commercial Fishing: 
+A One-twoPunch for Sea Turtles. November, 2007
+
+[Page 60]
+Storm surge wave
+• It would start to impact Karachi
+City with increasing velocity when the cyclone is 25-30 kilometers from the coast
+• It reaches peak about 2 kilometres from the coast with maximum speed 
+• Height of the surge wave could range between 12-15 feet or above
+• The wave is likely to travel up to 5 km inland
+• The topography of Karachi City adjoining the coast does not oﬀer any natural resistance to the tidal wave - Impediments would be in the shape of city infrastructure or built up area 
+• Depending on the point of impact the water inﬂows would be regulated along the road network and along Malir and Lyari rivers plus other storm water drains
+• Immediate impact would be total paralysis within 3-5 kilometres of the coastal region depending on the point of the impact of storm surge wave 
+• However communications paralysis can occur in low lying areas located much deeper from the point of impact 
+Storm wind
+• Wind speed up to 64 – 120 knots (118-222 kmh) is expected 
+• Wind impact would commence when the cyclone is 25-30 kilometres from the coast
+• Its impact is most likely to be severe along the centre / eye of the cyclone 
+• Wind impact would vary depending on the direction / axis of the cyclone movement
+• Wind pressure decreases as cyclone passes certain point rainfall
+• Approximately 200 -225 mm rainfall (9-10 inches) is expected over a period of 36 hours in the City 
+• Its intensity is likely to be more pronounced along the centre / eye of the cyclone
+End note
+As with the case of other climate change scenarios, here again, there is a desperate need for research, ﬁlling of data gaps and working with data to inform appropriate decision making, starting with the outlining of areas of greatest vulnerability to
+Conclusion
+City authorities would have to evacuate population within a minimum of 2 kilometers along the coast (Source: Cyclone Contingency Plan for Karachi City 2008,NDMA)
+Fig. 41 potential Scale of urban Flooding
+
+[Page 61]
+coastal hazards. Shoreline inventories should be completed for public and private infrastructure and assets in addition to the status of the threatened bio-diversity and supporting ecosystems. The relevant agencies and authorities must continue to monitor coastal processes and improve understanding of how they will be aﬀected by sea level rise.
+Protective measures against ﬂooding say from a cyclonic event need to be considered, such as constructing ﬂood protection barriers, sea walls, beach nourishment or diverting and concentrating ﬂood waters to more conﬁned locations. However, another long term threat for which consideration can be given now is within the context of what is termed as residual damage – where irreversible damage takes place from a climate change scenario. This is more relevant in the case of sea level rise as rising sea level and resulting erosion may result in loss of coastal land. table 8 likely humanitarian Impact – Scenario 1 towns population
+Aﬀected population
+Worst aﬀected towns (5 towns)
+3,651,791
+2,395,368
+Moderately aﬀected towns (2 towns)
+1,730,957
+407,864
+Towns aﬀected by rain and winds (13 towns)
+9,737,082
+1,864,641 grand total
+15,119,830
+4,667,873
+Aﬀected pop / relief Caseload in worst Aﬀected towns
+Korangi
+829,813
+622,360 (75%)
+DHA
+379,596
+303,677 (80%)
+Saddar
+935,566
+654,897 (70%)
+Keamri
+583,640
+583,640 (100)
+Lyari
+923,176
+230,794 (25%) total
+3,651,791
+2,395,368
+50% of the entire population in the worst aﬀected towns would need to be evacuated (Source: Cyclone Contingency Plan for Karachi City 2008,NDMA)
+Critical Challenges
+• Critical assets and vulnerable communities at potential ﬂood risk
+• High potential for residual damage in case infrastructure changes to protect areas from property damage from storm surge/ﬂood water (diverting and concentrating ﬂood waters to more conﬁned locations) are not initiated
+• No focus on assessing needs for development of structural and non-structural ﬂood protection projects 
+• More extensive storm water capture infrastructure to decrease the potential of ﬂooding impacts 
+• No habitat management plan in placefor critical bio-diversity and habitats within the context of climate change risk
+• Urgent need to build capacity among exposed and vulnerable communities for reducing vulnerabilities 
+Section 2: Understanding the Impacts
+
+[Page 62]
+Over the long term, non-structural measures, such as elevation of at-risk structures and planned relocation away from the coastal shoreline, may prove more cost eﬀective, as structural solutions, other than being more costly also may limit public access to beaches and prevent natural systems from migrating inland as water levels increase owing to barriers created by coastal structures and changes in shoreline conﬁguration, leaving them to drown in place. However a strategy adopting mixed approaches of structural and non-structural solutions may oﬀer the best solutions.. 
+A critical priority is to build capacity in the exposed and vulnerable communities through raising awareness about the risks so that they can act to reduce the vulnerability of high-risk areas. Community-based organizations need to be engaged with for mobilizing public opinion and building the required adaptive capacity and resilience.
+Since a large number of federal and private entities own land and assets along the coast, a larger and more holistic framework around a comprehensive climate change adaptation strategy would have to be worked out so that the city government can mediate and negotiate the required actions and responses.
+Setback to local/national economic growth
+Possible resettlement and ﬁnancial /social support challenge (livelihood loss of ﬁshing communities)
+Job losses
+Financial stressinfrastructure repair and health costs
+Setback to real estate and property business
+Public discontent and possible conﬂict 
+Damage to bio-diversity and ecosystems
+Livelihoods loss ( ﬁshing communities)
+Damage to sensitive government installations and residential and recreational/ commercial properties 
+Services disturbed due to infrastructure damage (power, transport, water supply etc.)
+Heightened urban ﬂashﬂood risk (E.g. increased cyclone events)
+Salt water intrusion
+Increased ‘coastal erosion’
+SEA lEVEl rISE 
+Fig. 42 karachi City - Cascading Consequences for ‘Sea level rise’
+Fig. 43
+Climate Change risk Zone map (madiha Salam, Shehri-CBE) 
+EPZA
+Main Natural Nala
+Fishing Village
+Slum Settlements
+Agriculture Land
+Flora and Fauna
+Hub River
+Harbor
+Port Qasim
+Steel Mill
+Kanupp
+Clifton/Defance
+Navy Installions
+Power Stations
+Hill Settlements
+FB AREA ZONE
+SITE
+TP 4
+Climate Change risk Zone people and Assets
+
+[Page 63]
+Section 3 : Managing the Impacts
+I n a country like Pakistan where there are crisis a plenty with the economy and critical institutions of the state struggling to ﬁnd relevance within a viable governance framework, where the social sector is stressed and heightened security concerns a matter of daily routine it is diﬃcult to imagine that an issue like climate change and possible long term projections laced with uncertainties would create a sense of urgency and need for immediate action. Mobilizing people and institutions for action would then require placing the issue in a context that can ﬁnd both relevance and urgency within our larger planning priorities. 
+A discussion on climate change adaptation should therefore start with a discussion on how the climate change-related risks ﬁt within other existing risks and priority challenges rather than on the risks that climate change is bringing or may bring. Climate change adaptation is all about promoting good development and good governance and on bringing all relevant stakeholders under a common platform for action and coordination. The strategic framework that binds climate change adaptation actions are geared to meet already existing gaps and deﬁcits in key urban services such as provision for water, sanitation, drainage, energy eﬃciency, housing and healthcare, emphasis on sustainable public transport, and improving the ﬁnancial well being of marginalized communities – within which measures for climate change adaptation are integrated. This is what constitutes as making a city resilient not just to meet a climate change impact but to cope with the everyday risks and urban growth challenges generally. The context therefore is of making a city vibrant and well governed with preparedness to meet likely climate change scenarios accruing as a cobeneﬁt.This understanding can lead to a strategically important shift of not considering climate change adaptation as something separate rather incorporating the relevant policy and strategies in the overall development framework as they relate to speciﬁc sectors and institutions. 
+If we focus on Karachi than there are some fundamental challenges related to the larger governance and institutional framework that need to be addressed ﬁrst. Understanding the political economy is the ﬁrst step in moving towards devising a viable strategy for reforms.
+While developing and implementing a climate change adaptation strategy has to be a participatory process, the main responsibility for implementing policies to address the impacts of climate change in cities rests with local governments.
+For us this consideration oﬀers the most critical challenge of all. Over the years, the capacity and writ of local government entities in Karachi have steadily eroded. Karachi in effect is a highly decentralized city in terms of control over land and provision of services. This decentralization is manifested both oﬃcially and unoﬃcially.
+Nearly 90% of city land is under public ownership, where housing facilities cannot be extended without the consent of owning agency, of which there are 17 major institutions (ADB 2005). The city government owns only 30.9% of the land.37
+While decentralization may be one challenge, the greater challenge is the complete absence of a coordinating legislative or administrative mechanism binding these decentralized entities. Due to a variety of reasons, mostly political, the mandate and relevance of the local government development authorities has been minimized to a level that most development taking place along the peripheral areas is informal in nature mostly through land grabs. Provision of services is not sanctioned for these settlements rather are accessed illegally accessing tapping civic infrastructure. Conﬂicts, basically political in nature with ethnic, ﬁnancial and social underpinnings are making the city and the associated policy formulation and development processes more divisive and complicated. So the ﬁrst challenge is to resolve conﬂicts and place the city government in a rightful place of adopting the role of the guardians of the city with the requi37 Karachi Strategic Development Plan (KSDP) 2020
+
+[Page 64]
+managing the Impacts
+Flooding
+Drought
+Extreme heat Events
+Sea level rise
+Develop a ‘Flood Risk Zone’ (E.g. ‘Flood Plain’ identiﬁcation of Lyari/Malir Rivers)
+Develop ‘Flood Risk Maps’
+Identify critical ‘assets’ and ‘vulnerable communities’ at ﬂood risk
+Develop a ‘surface water management plan’
+Evaluate and improve the design (designed for an appropriate rainfall intensity and probability) and maintenance of the city ‘drainage network’
+Create an integrated ‘ﬂood reporting and response mechanism’ 
+Strict ‘policy/regulation’ to prevent settlements in the ‘river bed’, ‘hills’ and encroachments of drainage channels and land use changes impacting adversely on the ﬂood prevention and management capacity 
+Increase the ‘green cover’ in the city to facilitate improved drainage (surface water ﬂooding) and provide protection against tidal ﬂooding - Green urban
+Develop a ‘ground water proﬁle’
+Prepare a ‘ground water policy’ with identiﬁcation of ‘priority use’ and ‘water zoning’ 
+Implement projects to improve the ‘recharge’ and ‘storage capacity’ of river basins/aquifers (E.g. Inﬁltration basins, check/storage dams etc.) – sustainability of farming practices and bio-diversity
+Implement measures to promote ‘sustainable water use’ in farming/agricultural practices – cropping patterns/preventing water loss in irrigation etc. 
+Strict policy/regulation to prevent unsustainable ‘sand extraction’ from river basins/aquifers 
+Enhance technical, management and ﬁnancial capacity of the water service provider (Karachi Water &
+Sewerage Board) to better cope with crisis situations
+Promote ‘water conservation’ practices (reduce use -
+E.g. metering of water supImprove our ‘understanding’ of urban development trends overheating risks and target priority areas. 
+• Relation between ‘population density’ and ‘heat island eﬀect’
+• Contribution of ‘anthropogenic’ factors in raising urban heat – traﬃc/aircondition use etc.)
+• Impact on infrastructure (E.g. power, water, transport)
+• Health impacts 
+Increase the ‘green cover’ in the city
+Promote a ‘green roof/rooftop garden’ program
+Implement a ‘transport policy’ and ‘program’ that discourages use of private vehicles and focuses on sustainable ‘public transport options’ 
+Reduce ‘water’ and ‘energy’ loss during transmission and distribution and promote ‘water’ and ‘energy’ conservation measures – focus on ‘alternative’ and environment friendly ‘energy sources’
+The City Government in colRevised ‘planning guidelines’ for ‘development’ along the coastline – (E.g.
+reassessment of the ‘high water mark’) 
+Identify critical ‘assets’ and ‘vulnerable communities’ at ﬂood risk
+Application of ‘infrastructure changes’ to protect areas from property damage from storm surge/ﬂood water (diverting and concentrating ﬂood waters to more conﬁned locations)
+Assess need for development of ‘ﬂood protection’ projects such ‘barriers’ against tidal ﬂooding at appropriate locations (Lyari/Malir barriers?)
+More extensive ‘storm water capture’ infrastructure to decrease the potential of ﬂooding impacts 
+Develop a ‘habitat management plan’ for critical ‘biodiversity’ and ‘habitats’ within the context of climate change risk
+High focus on preparing a comprehensive assessment of the possible
+
+[Page 65]
+Section 3 : Managing the Impacts site capacity and willingness to assume that role eﬀectively. An overwhelming task but a requirement that is both imperative and urgent. 
+When we progress to the technical and procedural aspects of climate change adaptation than the ﬁrst step is of mapping the tasks at hand starting with a mapping of exposed and vulnerable people and assets. It would be a task that would require working with probabilities, trends and translating them into marking physical jurisdictions (risk zones) and assessing risks to the people and assets located within. This would require a willingness and capacity to invest in research and generate and work with data on a regular basis. Sector based approaches is one way of tackling the task as has been done for example in London (UK) and Bangkok (Thailand).
+The approach to climate change adaptationplanningin London and
+Bangkok has been to identify particular sectors that are at risk and develop plans to address each of these, and withthe delegation of responsibility to appropriate agencies.
+Thisrequires an eﬀective system of oversight and control, andrelies on these agents having suﬃcient ﬁnancial and technicalcapacity to make the appropriate investments andinterventions. However this again spaces (parks/playgrounds)
+Rural/farming land/Mangrove forests 
+Increase awareness and capacity of vulnerable communities to improve coping and response mechanisms – recommended at least one model ‘community ﬂood plan’ each for settlements in slums/coastal ﬁshing villages/rural land
+Evaluate requirements for ‘ﬂood protection’ projects such ‘embankments’/tidal surge barriers
+Assess gaps and develop comprehensive implementation plans for strengthening the ‘emergency response’ systems – health/emergency/trauma facilities, ﬁre services, law and order services (E.g.
+‘safe shelters’) etc. – ‘evacuation plans’ and required procedures and facilities ply - water harvesting etc.)
+Implement policies/programs to initiate ‘waste water recycling’ and ‘reuse’ practices laboration with technical bodies like the Pakistan
+Council of Architects and
+Town Planners (PCATP) and the Institute of Engineers
+Pakistan (IEP) publish ‘design guidance’ for architects and developers to reduce the risk of overheating and formulate relevant policies and procedures 
+Assess gaps and develop comprehensive implementation plans for strengthening the ‘health emergency response’ systems – health/emergency/trauma facilities ‘economic/livelihoods’ impacts of sea level rise on the ‘ﬁshing communities’ in particular and the ‘ﬁshing industry’ at large
+
+[Page 66]
+brings us to the fundamental challenge facing Karachi City and that is of a disorganized, ill-coordinated institutional and governance framework with substantial capacity deﬁcits.
+Some key sectors that can be identiﬁed in Karachi may include water and sanitation, drainage, housing and land use, transportation and emergency response – emergency medicine, health care, ﬁre services, law and order etc. What is needed is the initiation of a process of institutional reforms within these sectors where a new paradigm requires to be considered that accommodates sharing of roles and responsibilities in terms of ﬁnancing and provisioning of critical civic services between the public and private sectors and communities. 
+While a leading role has to be played by government institutions in implementing strategies for climate change adaptation, success and resilience can only be achieved if all sectors of the urban sphere right down to the household level are involved and have a role mapped out for them. While the city government should ideally be taking the lead coordinating role, important responsibilities in providing critical research, administration and service provision support will have to be provide by agencies such as NDMA, PDMA, SUPARCO, NIO,
+Met Department, academic institutions, KW&SB, SEPA, emergency response agencies etc. At the other level, initiatives at the city level for obtaining optimal results have to dovetail with a clearly mapped out
+National Adaptation Program for
+Action (NAPA). Here again, an opportunity exists to plug the gaps in the Climate Change Policy as it relates to the urban context and shift focus on a vitally important national growth priority – promoting and sustaining vibrant urban growth in
+Pakistan. Critically important would be provision of ﬁnancing options for implementing actions. 
+The challenges are many but more delayed the action, the more diﬃcult it will get. Developing a climate change adaptation strategy is not an end in itself. It is more in the nature of a journey that would evolve as the science around it evolves, new technological innovations surface and the capacities and responses of governments and communities adapt to changing scenarios. We need to take the ﬁrst step. The scope of this Study could not allow going into the deeper strategic aspects such as a detailed insight into critical vulnerabilities, the larger policy and governance aspects as they relate to climate change adaptation and identiﬁcation of key stakeholder, institutions and their possible roles and responsibilities. That work can be left for a
+Strategy document. The list of actions identiﬁed can be considered as some end goals – for us the most critical aspect relates more to developing willingness, a consensus and a strategy to achieve the end goalsand that can be the focus of hopefully a comprehensive climate change adaptation strategy for
+Karachi City.
+Sunset at Karachi coast
+Mohammad Arshad, Shehri-CBE

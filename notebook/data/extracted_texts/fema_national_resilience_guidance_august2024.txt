@@ -1,0 +1,631 @@
+[Page 1]
+NATIONAL 
+RESILIENCE 
+GUIDANCE 
+A Collaborative Approach to Building Resilience 
+AUGUST 2024
+
+[Page 3]
+NATIONAL RESILIENCE GUIDANCE: A COLLABORATIVE APPROACH TO BUILDING RESILIENCE
+LETTER FROM THE ADMINISTRATOR 
+I am excited to share with you the first National Resilience Guidance. 
+While FEMA is known for leading the way before, during, and after disasters, the National Resilience 
+Guidance (NRG) is a result of whole of community efforts that will help create a new pathway to broader and more inclusive approaches to building resilience for all. I want to thank the many organizations who participated in the development of the NRG. 
+There are many lenses through which we can view resilience—climate, disaster, economic, infrastructure, health and more—and so much good work is underway throughout the country to address the challenges each presents. The NRG is an umbrella that offers a unifying vision of resilience and the principles and steps all communities and organizations in every sector and discipline can take to increase their resilience. It provides critical concepts that communities can apply to comprehensively address the risks caused by both acute shocks and chronic community stressors. The NRG presents the definition of resilience, discusses the key principles that must be applied to strengthen resilience, and sets the foundation for operationalizing resilience. 
+In some communities, great initiatives and creative solutions are already underway, yet for others there is much work to be done. We all play a critical role in building resilience. This is a shared responsibility that requires full participation across the nation and no individuals or communities should be left behind. We must look for opportunities to create new partnerships and strengthen existing ones across disciplines and sectors using the strategies contained within the NRG. 
+I’d also like to acknowledge that Indigenous Peoples and Tribal Nations maintain place-based knowledge that holds thousands of years of natural resource relationships. This diversity of knowledge embodies multiple ways of understanding resilient interactions between humans and ecosystems. We can all use this guidance to apply ecologically sound nature-based solutions that have been time-tested and passed down for generations in indigenous cultures. 
+Whether you are just beginning your resilience journey, or your resilience planning is well-established, we all must act together under the umbrella of resilience. 
+We, as a nation, are at an important crossroad. Going down the same paths of the past will not work as we head into an uncertain future full of new risks and challenges. As FEMA works toward achieving the National 
+Preparedness Goal of a secure and resilient nation, we will use this important guidance to inform the next evolution of emergency management doctrine, guidance, and programs. 
+And the NRG is not just for emergency managers. As you apply this guidance, I challenge you to push boundaries, think creatively and look for approaches and new opportunities to build new partnerships, to engage all members of your communities, and to utilize the tools available to you to envision and build your resilient community.
+This is just the beginning, and this guidance is an important first step and a call to action. 
+To our shared success. 
+Deanne Criswell 
+FEMA Administrator
+
+[Page 4]
+NATIONAL RESILIENCE GUIDANCE: A COLLABORATIVE APPROACH TO BUILDING RESILIENCE
+INTRODUCTION 
+The United States faces an increasingly complex set of challenges. Disruptions from a range of acute incidents (also called shocks), such as natural disasters, pandemics, cyber and physical attacks, infrastructure failures, and sudden loss of key industries, are becoming more frequent and intense. Additionally, longterm strains on our communities (also called stressors), such as deteriorating infrastructure, environmental degradation, extreme weather amplified by climate change, social injustice, lack of affordable housing, food insecurity, and persistent poverty, negatively impact quality of life and well-being, worsen the impacts of shocks, and undermine our ability to thrive. Together, shocks and stressors have significant impacts on our security, economy, environment, and social and physical well-being. However, by understanding these challenges and applying a unified, whole community approach to addressing them, we can strengthen our collective security and resilience so that we can overcome these ever-evolving challenges and also thrive as a nation.
+
+[Page 5]
+NATIONAL RESILIENCE GUIDANCE: A COLLABORATIVE APPROACH TO BUILDING RESILIENCE
+UNDERSTANDING RESILIENCE 
+Resilience can be defined and approached in many ways. For the purposes of the National Resilience 
+Guidance (NRG), resilience is the ability to prepare for threats and hazards, adapt to changing conditions, and withstand and recover rapidly from adverse conditions and disruptions. With the interconnected and ever-evolving nature of people, places, and systems, strengthening resilience requires a collective approach—one that includes all sectors and disciplines, all levels of governments, the private and non-profit sectors, academia, communities, families, and individuals, and considers all facets of resilience such as climate, ecosystem, cultural, social, economic, infrastructure, and disaster resilience and their interdependencies. 
+Strengthening resilience also requires that we proactively improve systems to benefit and protect communities, create integrated, multi-objective solutions that comprehensively address shocks and stressors, and ensure that people, places, and systems can adapt and evolve in ways that support resilience for current and future generations. 
+SCOPE AND AUDIENCE 
+The NRG is intended to help all individuals, communities, and organizations understand our nation’s vision for resilience, the key principles that must be applied to strengthen resilience, and the players and systems that contribute to resilience. 
+It also outlines how to strengthen resilience by organizing and engaging people, incorporating resilience concepts into planning efforts, creating change through policies, prioritizing projects and programs, financing resilience efforts, and measuring and evaluating resilience. Finally, the NRG includes a Resilience Maturity Model that illustrates stages in the evolution of a community’s approach to resilience. 
+While disasters are often a catalyst for resilience efforts across the nation, enhancing resilience requires collective effort that includes, but extends beyond, emergency management, preparedness, and the missions of prevention, protection, mitigation, response, and recovery. As such, the NRG is not aimed solely at emergency management or any other specific sector or discipline, nor is it meant to be only for government or any particular type of organization or community. Rather, it is intended to establish a common understanding about resilience and drive collective action. Furthermore, resilience does not look the same for all communities, so the 
+NRG presents flexible approaches and ideas that can be tailored to the characteristics and needs of each individual, community, and organization. 
+The NRG is intentionally high-level. It provides a broad overview, inclusive of all facets of resilience. Additional detail is provided in supplemental resources.
+Supplemental Resources 
+Additional resources related to strengthening resilience, including case studies, toolkits, and gov/emergency-managers/national-preparedness/ plan/resilience-guidance. These resources dive deeper into some of the concepts from this guide and provide implementation strategies and concrete examples of how to build resilience. 
+Key Terms 
+Shocks are short-duration, rapid-onset or acute events that disrupt normal life. 
+Stressors are chronic, slow-onset or longer-term conditions that weaken a community over time, worsen the impacts of shocks, and negatively affect community functions and well-being. 
+Threats include capabilities, intentions, and attack methods of adversaries used to exploit circumstances or occurrences with the intent to cause harm. A threat is directed at an entity, asset, system, network, or geographic area. 
+Hazards are a source of actual or potential harm or difficulty. Unlike threats, a hazard is not directed.
+The terms “shock” and “stressor” are commonly used in the field of resilience. Other related fields often use the terms “threat” and “hazard.” 
+These four terms are related but look at things from different angles. Shocks and stressors are distinguished primarily by duration, while threats and hazards are distinguished primarily by intentionality.
+
+[Page 6]
+NATIONAL RESILIENCE GUIDANCE: A COLLABORATIVE APPROACH TO BUILDING RESILIENCE
+VISION 
+Strengthening resilience requires everyone working together toward our shared national vision of a future where all people and communities can participate, thrive, and reach their full potential. 
+The national vision of resilience includes the following: ■A resilient people whose health and well-being are supported through thriving community and social, economic and financial, environmental, housing, infrastructure, and governance systems. Everyone has a sense of security, trust, social connectedness, and belonging that serves as the foundation for thriving and resilient communities. ■A resilient society where all members feel a sense of ownership and are engaged in civic activities, including underserved populations and youth. Community culture and the natural environment are sustained and protected through meaningful stewardship. Effective, inclusive, transparent, and equitable governance and decision-making with meaningful opportunities for community participation provide the foundation for fulfilling a common vision. Resilience at all levels of government directly results in people receiving essential services. ■A resilient economy that supports all members of society and facilitates achievement of well-paying jobs that enable a high quality of life; prevention of illnesses, diseases, and injuries and their impact on wellbeing; and accumulation of individual, family, and community wealth. Economies are built around a diverse range of industries, draw on regional strengths and assets, and account for external costs and benefits from economic activity. Educational and workforce development systems facilitate lifelong learning, support economic transition for workers, and connect the workforce to employers. Public-private partnerships, cooperative organizations, and small businesses flourish, contributing to mutually beneficial outcomes. ■A resilient built environment that supports a high quality of life and builds social connections while avoiding, minimizing, or withstanding the impacts of shocks and stressors, including drivers of climateinduced hazards. There is affordable, safe, and accessible housing, and infrastructure that supports national and community level functions. Infrastructure systems are robust, secure, adaptable, integrate nature-based solutions, and support economic growth and innovation. Access to services and amenities, such as healthcare, food, green space, transportation, energy, and broadband, is equitable. Land use, building codes, and development standards consider current and future risks and impacts. ■A resilient natural environment with clean land, air, and water as well as intact, healthy ecosystems that can adapt to and withstand shocks and stressors and absorb many of the impacts to the built environment through natural protection. The strong health and long-term sustainability of the environment supports the built environment, economy, society, and community health and well-being of current and future generations.
+
+[Page 7]
+NATIONAL RESILIENCE GUIDANCE: A COLLABORATIVE APPROACH TO BUILDING RESILIENCE
+PRINCIPLES 
+Our nation is a constantly evolving, interconnected web of diverse people and communities supported by complex systems of relationships, services, institutions, and natural and built infrastructure. 
+Strengthening resilience requires a multi-pronged approach and dedicated effort across the whole community. 
+The following seven principles set the foundation for creating a more resilient nation. 
+THREATS AND HAZARDS 
+Identify, reduce risk of, prepare for, resist, and respond to shocks and stressors, prioritizing those that represent the greatest risks. 
+HUMAN-CENTERED 
+Position the well-being of individuals, families, communities, and society at the center of resilience goals, taking into consideration the needs of all community members. 
+EQUITABLE AND JUST
+Pursue solutions that address, and do not exacerbate, disparities between and within communities. Ensure strategies respond to the needs of underserved and marginalized communities that have historically borne the disproportionate burden of impacts and costs incurred through decisions made by both public and private actors. 
+ADAPTIVE 
+Maintain awareness of and a willingness to apply and implement innovative thinking, tools, and methods to quickly realign or take advantage of evolving circumstances. 
+COLLABORATIVE 
+Seek input that engages and empowers the public, private, academic, and non-profit sectors and all community members; reflects a commitment to collective deliberation; and utilizes transparent processes, metrics, and goals for data-driven decision making. 
+SUSTAINABLE AND DURABLE 
+Implement solutions that serve current and future needs by considering the entire life cycle of solutions. Seek to ensure that there is continuity of technical expertise and leadership as needed. 
+INTERDEPENDENT 
+Apply risk-informed approaches and integrated processes that account for the complexity and interdependencies of systems, prioritizing solutions and investments for the threats and hazards that pose the greatest risk and that can result in multiple benefits and enhance resilience over the long-term.
+
+[Page 8]
+NATIONAL RESILIENCE GUIDANCE: A COLLABORATIVE APPROACH TO BUILDING RESILIENCE
+RESILIENCE ROLES 
+Resilience requires collective action by all individuals, communities, and organizations. Everyone plays a role. Given the complexity and overlap among the roles of resilience players and the systems in which they operate, collaboration among individuals, communities, organizations, and all levels of government is essential to address the wide-reaching impacts of shocks and stressors. This collaboration builds important partnerships that increase trust and forms the backbone of resilient communities. Future success will be best achieved by building on and increasing collaboration and cooperation among players. 
+Individuals, Families, and Households ■Prepared and engaged individuals, families, and households are the foundation of a resilient community. Their resilience strengthens the resilience of those around them and a resilient community supports them. ■Everyone can strengthen their resilience–even small changes make a difference. Examples include building relationships with neighbors, making a disaster plan, obtaining and safeguarding critical documents, taking basic cybersecurity precautions, and purchasing insurance. ■Building strong, trusting relationships with friends, family, coworkers, and neighbors strengthens social connectedness, which is critical to resilience. These connections can reduce stress, provide emotional support, and provide access to seek assistance from others when needed. ■It is also important for individuals, families, and households to contribute to broader community resilience efforts. They can provide input to help ensure solutions meet the needs of community members, serve as advocates and leaders for resilience efforts, and play a role in implementation. 
+Communities ■Communities are groups of people who share common characteristics, such as geographic or virtual locations, social interests, ideas, beliefs, jobs, or culture. Formal communities like neighborhood associations, school communities, faith groups, senior centers, and mental health support groups, as well as informal communities like neighborhood friends, book clubs, parent groups, social media groups, and volunteer groups all play essential roles in strengthening resilience. They bring people together, enable them to share information and resources, and inspire action. ■Shared community spaces—also known as social infrastructure—such as libraries, schools, community gardens and farmers markets, parks and playgrounds, community centers, shops and restaurants, and shared office spaces are vital to strengthening resilience. They are places where informal but crucial social connections are made through routine encounters and events. These shared spaces can be part of deliberate community planning that includes social connection as a goal. ■Social connections build a sense of community and belonging, foster trust, and create common ground among diverse groups. Higher levels of trust can result in greater social capital that encourages mutual responsibility and supports collective action. ■Communities can strengthen resilience by directly supporting their community members and getting involved in local issues, such as crime, economic issues, transportation, homelessness and housing, unemployment, and environmental issues. Community members can also take an active role by collaborating and partnering with organizations to offer local, place-based and cultural knowledge and representing their community needs in broader resilience efforts.
+
+[Page 9]
+NATIONAL RESILIENCE GUIDANCE: A COLLABORATIVE APPROACH TO BUILDING RESILIENCE
+Nongovernmental Organizations ■Organizations such as nonprofit, community, voluntary, faith-based, arts/cultural, environmental, scientific, and advocacy organizations, philanthropies and foundations, national and professional associations, and academia/educational institutions help strengthen resilience by providing needed information, services, and support to communities.
+ ■They are often uniquely positioned to understand the strengths and challenges of the community, including the resilience (or lack thereof) of critical systems, such as housing, food, and transportation. ■They are often trusted sources of information and can build awareness of resilience efforts and actions that people and communities can take to strengthen their own resilience.
+ They can strengthen resilience by partnering with communities on resilience planning and implementation efforts; augmenting government efforts; providing services, training, and education; providing technical expertise, research, data, and systems for resilience efforts; connecting people to assistance programs; and supporting development of social capital and strong social networks. ■
+Businesses ■Business enterprises, including small or local businesses, business associations and professional networks, large corporations, healthcare providers, childcare providers, and other private sector service providers are integral parts of the community. Their resilience strengthens community and national resilience by helping to sustain economic vitality and diversity and ensuring the continued delivery of goods and services before, during, and after a disaster. For example, financial institutions, such as banks, can help strengthen resilience through various means, such as helping customers build savings or financing hazard mitigation projects that reduce risk to homes. ■Anchor institutions, such as large-scale employers, those with deep relationships in the community, or those that are historically important, are enduring organizations committed to the well-being of their communities and that remain in the community even as conditions change. These institutions can play a significant role in building resilience through partnerships, funding, and strategic planning. ■As the owners and operators of most of the nation’s infrastructure, businesses are essential to improving resilience through planning and risk management. Investments in continuity and risk management have benefits to the companies themselves, their employees, and the communities they touch. Public-private partnerships between businesses and government and other forms of collaboration are crucial in resilience building. 
+Governments ■All levels of government are responsible for the public safety, security, health, and welfare of the people in their jurisdiction. Through their capacity to adopt and enforce laws; collect, prioritize, and allocate resources; and provide essential services and technical and financial assistance, they can promote and strengthen resilience.
+ ■Different levels of government may play distinct roles in resilience. For instance, local governments may play a large role in zoning, land use, building codes, development standards, stormwater regulations, community engagement, planning, and project identification, while the federal government may play a larger role in activities like providing funding, creating data, and permitting.
+ ■Tribes, as sovereign nations, are responsible for the health, safety, and welfare of tribal members. 
+Tribes and Indigenous communities also hold Traditional Ecological Knowledge that provides relevant insights for resilience planning and solutions. Tribal governments and Indigenous communities should be appropriately consulted to consider this wealth of knowledge, cultivated since time immemorial. ■All levels of government can strengthen resilience by integrating resilience principles and priorities into their planning; adopting resilience standards for new and existing infrastructure; addressing stressors through policy changes; fully engaging community members in planning and decisionmaking; implementing practices to ensure continuity of government; and consistently coordinating and institutionalizing multi-agency and cross-jurisdictional action.
+
+[Page 10]
+NATIONAL RESILIENCE GUIDANCE: A COLLABORATIVE APPROACH TO BUILDING RESILIENCE
+SYSTEMS THAT CONTRIBUTE TO RESILIENCE 
+Many interconnected systems support communities. It is important for communities to consider the role of these systems and the risks they face from both shocks and stressors as part of their resilience efforts. In order to develop effective resilience solutions, it is essential that communities understand the interconnectedness of these systems and how they depend on each other to function well. 
+Below are six systems, with example organizations in each system, that have particularly strong connections to the health, safety, well-being, and prosperity of communities and a significant impact on resilience. 
+Community & 
+Social Systems 
+Relationships, groups, structures, and activities that address the cultural, psychological, behavioral, health, and social needs of individuals and communities and support strong social capital. 
+EXAMPLE ORGANIZATIONS 
+Health and social service organizations, educational/ academic institutions, libraries, community, civic, faith-based and neighborhood organizations, arts and cultural organizations, parks and recreation, political organizations, businesses, and virtual communities. 
+Economic & 
+Financial Systems 
+Activities that enhance the overall prosperity of individuals and communities through meaningful work that involve the production, consumption and exchange of resources (e.g., funds, time, natural resources), goods, and services. 
+EXAMPLE ORGANIZATIONS 
+Businesses (e.g., farms, stores, restaurants, movers), business associations, economic and workforce development agencies and organizations, financial institutions (e.g., banks, stock exchanges, insurance companies), philanthropies and foundations, non-profit and community-based organizations. 
+Infrastructure 
+Systems 
+Includes physical, cyber, and natural assets that support the physical and social functions of communities, economies, and society, provide essential services, support national security, and ensure public health and safety. 
+EXAMPLE ORGANIZATIONS 
+Public works, transportation, community planners, utilities and regulators (e.g., energy, water, sewer, buildings), communications, information technology and digital asset managers, infrastructure/ critical infrastructure owners and operators, and building safety professionals. 
+Environmental 
+Systems 
+Resources and activities that preserve and manage ecosystems, reduce environmental degradation, and improve environmental health. 
+EXAMPLE ORGANIZATIONS 
+Natural resources, environmental and sustainability, health, and conservation agencies and organizations; parks, recreation, and open space agencies, grassroots advocacy and volunteer environmental groups. 
+Governance 
+Systems 
+Activities that provide leadership, coordination, structure, and enforcement of policies including laws across organizations to support the functioning of communities and the well-being of people. 
+EXAMPLE ORGANIZATIONS 
+Federal, state, tribal, local, and territorial government agencies, cooperative associations, codes and standards organizations, metropolitan councils of government, courts. 
+Housing 
+Systems 
+Physical structures and supporting agencies and organizations that provide housing for individuals, families, and households. 
+EXAMPLE ORGANIZATIONS 
+Housing agencies and authorities, 
+Realtors, housing developers and builders, land use and building officials, community land trusts, insurance companies, banks and other financial institutions, homeowner and neighborhood associations.
+
+[Page 11]
+NATIONAL RESILIENCE GUIDANCE: A COLLABORATIVE APPROACH TO BUILDING RESILIENCE
+Since each system includes individual parts that work together and that also interact with parts of other systems, strengthening resilience requires applying systems thinking—the ability to understand these interconnections to achieve a desired purpose. This means looking at the complex world relationally and as a whole rather than just looking at its individual parts. Applying the resilience principles as part of thinking from a systems perspective will help ensure a holistic approach to resilience. 
+Systems thinking can support more effective resilience-building in several ways. For example, it can: ■Help us better see the big picture to understand what is working, what unintended negative consequences current systems are producing, and what needs to change. ■Support identification of the root causes of complex problems and uncover the unintended consequences of well-meant proposals. ■Encourage diverse participation to find effective integrated solutions that strengthen systems and benefit all parties. ■Promote longer-term planning that uses limited resources more efficiently. 
+Examples of Multi-System Resilience in Action 
+Nature-Based Solutions and 
+Reconnecting Communities 
+Protect critical transportation infrastructure by using nature-based solutions that enhance adaptability to novel and unexpected challenges, including habitat restoration to improve water quality and reduce flooding risk. Incorporate parks and community spaces to bring together arts, culture, and economic opportunity. Leverage public-private partnerships and multiple funding sources. 
+Housing, Transit, and Energy 
+Develop mixed-income housing, co-located with access to transit that takes residents to work and other community amenities. Incorporate on-site energy generation and storage systems to lower utility costs and reduce disruptions during disasters.
+
+[Page 12]
+NATIONAL RESILIENCE GUIDANCE: A COLLABORATIVE APPROACH TO BUILDING RESILIENCE
+HOW TO STRENGTHEN RESILIENCE 
+Resilience “cannot be accomplished by simply adding a cosmetic layer of policy or practice to a vulnerable community. Long-term shifts in physical approaches (new technologies, methods, materials, and infrastructure systems) and social practices and initiatives (the people, management processes, institutional arrangements, and legislation) are needed to advance community resilience.” — Disaster Resilience: A National Imperative 
+There are many ways to strengthen resilience and every community’s journey will be different. 
+However, for every community, no matter how big or small, developing a good understanding of the community’s shocks and stressors is a foundational first step. From there, communities can weave resilience considerations into existing activities and decision-making processes so they can prioritize activities that strengthen resilience. 
+As efforts continue to mature, communities can pursue dedicated resilience initiatives focused on strengthening resilience in specific ways. 
+Resilience Dividends “Building resilience creates two aspects of benefits: it enables individuals, communities, and organizations to better withstand a disruption more effectively, and it enables them to improve their current systems and situations. But it also enables them to build new relationships, take on new endeavors and initiatives and reach out for new opportunities, ones that may never have been imagined before. This is the resilience dividend.” — Dr. Judith Rodin 
+Author, The Resilience Dividend: Being Strong in a 
+World Where Things Go Wrong 
+GETTING STARTED: UNDERSTANDING 
+YOUR SHOCKS AND STRESSORS 
+Strengthening our security and resilience requires that we think about all threats and hazards and prioritize actions based on short- and long-term risks. While threats and hazards are often thought of in terms of shocks, such as natural disasters, pandemics, and cyber and physical attacks, they also include stressors, such as persistent poverty, homelessness, and deteriorating infrastructure. Stressors are often overlooked when considering risks, as their impacts can be more subtle than shocks and may be left to the community to absorb. However, both shocks and stressors must be addressed in resilience efforts. 
+Stressors, just like shocks, can have significant impacts and far-reaching consequences. Stressors can also increase the impact of shocks and reduce the quality of life across the community. 
+When examining shocks and stressors, it is important to consider how they may differ from what has been experienced in the past or what is currently experienced. For instance, a city may historically experience five days with a heat index above 95° but can expect to experience 24 days over that level by mid-century. As another example, higher housing costs have led to more people experiencing homelessness and may be much higher in the future. 
+Strengthening resilience requires that we anticipate and prepare for future conditions, such as climate impacts, shifts in community demographics, changes in land use, and technology advancements, so that we can adapt, lessen impacts, and be well-positioned to respond and recover quickly. 
+Understanding your shocks, stressors, and the connection between them is a basic step for building resilience. Developing this understanding includes the following activities: identifying shocks; analyzing risk, vulnerability, and potential consequences; evaluating chronic stressors; and assessing the interactions between shocks and stressors.
+
+[Page 13]
+NATIONAL RESILIENCE GUIDANCE: A COLLABORATIVE APPROACH TO BUILDING RESILIENCE
+Identifying Shocks: Shocks include natural hazards, human caused threats, and other short-duration, acute events that could result in significant impacts to a community or region. When identifying shocks, it is important to consider factors such as the location where the shock may occur, how long it may last, the impact of the shock, and the likelihood that the shock may occur. Risk assessments included in local, state, tribal, or territorial hazard mitigation plans or emergency operations plans can provide a good starting point for this kind of analysis. Additional research may be needed to better understand the magnitude, frequency, and uncertainty associated with shocks and stressors under current and future conditions. 
+Example Shocks ■Hurricanes ■Floods ■Wildfires ■Earthquakes ■Adversarial cyber and/or physical attacks ■Infrastructure and supply chain disruptions ■Sudden closures of key industries or employers (e.g., healthcare facilities, military bases, mines, power plants) 
+Analyzing Risk, Vulnerability, and Potential 
+Consequences: Once shocks are identified, it is important to determine how significantly they may impact systems, a community, or a region. Analyzing risk involves understanding the potential for damage or loss based on the interaction between the shock and community systems (e.g., a flood impacting people, roads, bridges, parks, homes, businesses, and ecosystems). Understanding vulnerability involves evaluating the characteristics and interdependencies of the community’s systems that may make them susceptible to impacts from shocks, such as community development in flood-prone areas. Finally, determining potential consequences involves understanding how severe the impacts of the shocks would be to systems and the community as a whole. Analyzing risk, vulnerability, and consequences can be informed by existing emergency management and community plans and studies (e.g., hazard mitigation plans, comprehensive plans, continuity plans), as well as a range of best available demographic (including social vulnerability), climate, economic, health, and infrastructure data and community feedback. Further, considering how future conditions will alter risk and vulnerability over time is important for identifying long-term and lasting resilience solutions. 
+Evaluating Chronic Stressors: Chronic stressors— long-term, persistent challenges—can weaken a community over time and can disrupt community functions and well-being. For example, deteriorating electric infrastructure can lead to more frequent outages and higher energy costs for households. 
+A lack of affordable housing can worsen income inequality and poverty; it can also lead to residential instability, which can have impacts on work and school performance as well as on physical and mental health. Chronic stressors not only affect day-to-day life but also make communities more vulnerable to impacts from shocks. Communities can use information like the first-hand experience of their community members and available demographic, economic, and infrastructure data sources, to better understand what stressors are present in the community, and how persistent and severe they may be. 
+Example Stressors ■Declining education systems ■Declining industries and economic opportunities ■Deteriorating infrastructure ■Diminishing social capital ■Drought ■Endemic crime ■Food insecurity ■Environmental degradation and contamination ■Lack of quality affordable housing ■Persistent poverty
+
+[Page 14]
+NATIONAL RESILIENCE GUIDANCE: A COLLABORATIVE APPROACH TO BUILDING RESILIENCE
+Assessing the Interactions Between Shocks and Stressors: Understanding the interaction of shocks and stressors is critical. Looking at shocks and stressors together and systematically can help identify where the stressors could make the shocks worse and vice versa. Another way to think about the connection between shocks and stressors is to consider cascading and compounding disasters. 
+Cascading disasters are when one shock event leads to subsequent shock events. One example is an earthquake that causes the failure of a dam, which then leads to downstream flooding. Another example would be a tourism-dependent community overcome by wildfire, which not only devastates the community but also results in a sudden dramatic and longterm reduction in tourism, their main industry. The lack of jobs leads to people leaving the community, disrupting social connections, and shrinking its tax base. Compounding disasters are when multiple events happen at the same time or within a short timeframe. An example is a community that has a housing shortage and shelters that are near capacity, which is then hit by a tornado that displaces many people, which may lead to decreased population and tax base and a loss of social cohesion. Compounding disasters are often accompanied by stressors that can amplify negative conditions, circumstances, outcomes, and costs. 
+Part of assessing the interactions between shocks and stressors is understanding the unequal impact that some communities experience. Research and first-hand experiences show that shocks have a disproportionate impact on underserved communities because of historical and ongoing patterns of discriminatory political, economic, and social actions.1 For example, people of color have experienced historical inequities accessing a range of social and economic benefits that have affected where they live, learn, work, worship, and play (also known as social determinants of health). Similarly, people who live in rural areas, or those living on tribal lands, often must travel far distances to access jobs, stores, and health, educational, and social services. These factors, along with other social determinants of health, place these individuals at a greater risk 
+Substance Abuse and Mental Health Services Administration. (2017). Disaster Technical Assistance Center Supplemental 
+Research Bulletin Greater Impact: How Disasters Affect People of Low Socioeconomic Status. Retrieved from of poor health outcomes and disaster outcomes. 
+Many communities across the nation also have environmental justice concerns including those related to climate change, the adverse effects on health and the environment of public- and privatesector policy decisions and activities on minority and low-income populations, and the legacy of racism or other structural or systemic barriers. 
+Taking steps to increase equity, and address chronic stressors that often further drive inequity, strengthens resilience of those individuals, their community, and the entire nation. Equity should be pursued intentionally in partnership with community members and woven throughout plans, policy, and projects, consistent with applicable law, rather than viewed as a simple effort or single action. 
+Strengthening resilience also requires an acknowledgment and consideration of the trauma a community may have suffered due to shocks and stressors. Many individuals, households, families and communities have demonstrated resilience in the face of adversity and trauma, but that experience also makes them vulnerable to social, psychological, and emotional distress. Successful resilience efforts take into account these results of shocks and stressors in addition to the obvious physical and economic impacts. 
+Understanding shocks, stressors, and their interactions can help uncover collaborative approaches that provide co-benefits by reducing the likelihood and severity of disruptions while simultaneously improving quality of life. 
+FEMA Community Resilience Challenges Index by County
+
+[Page 15]
+NATIONAL RESILIENCE GUIDANCE: A COLLABORATIVE APPROACH TO BUILDING RESILIENCE
+FACTORING RESILIENCE CONSIDERATIONS INTO EXISTING ACTIVITIES 
+The NRG provides options to help any community or organization build resilience, from those that help a community or organization get started, all the way to large capital projects or programs. For any community or organization—large or small, well-resourced or under-resourced—several meaningful steps can be taken to strengthen resilience without requiring a dedicated resilience initiative or extensive funding. It starts with building on what already exists. Any project or activity can be used to help strengthen resilience by factoring in resilience concepts and principles. The following are examples of ways to build resilience into existing activities: 
+FEMA. (2020, November). Building Codes Save: A Nationwide Study. Retrieved from ■Consistent Coordination and Collaboration: 
+Building a collaborative culture within communities and across departments, organizations, systems, and sectors not only ensures shared awareness of each other’s priorities, but also creates opportunities for collaboration and integration to tackle root causes of vulnerabilities. One way to increase coordination and collaboration is to form a collaborative group with representatives from various organizations, such as state and local agencies, regional commissions, the private sector, academic advisors, anchor institutions, and tribes that can meet to share information on activities and initiatives. ■Resilience Prioritization Criteria: Guided by the resilience principles, criteria can be developed and incorporated into various community processes such as annual budgets, community planning processes, capital improvement plans, and project designs to identify priorities. The criteria can also be used across disciplines (e.g., planning and transportation departments) to build consistency and integration. ■Consider Multiple Scenarios When Planning: 
+Planning for a range of scenarios, including the worst-case scenario, fosters a culture of resilience as people, organizations, and institutions consider how they might respond in an extreme event. For example, continuity plans detail how functions and services may continue in light of such an event and can be created for the continuity of government, businesses, infrastructure, and institutions. 
+Resilient institutions are able to provide continuity of their mission or function, which then promotes resilience within their communities. ■Maintain and Enforce Updated Building Codes: 
+Building codes and standards are designed to protect public health and safety and reduce risk from shocks. Codes can also address stressors, such as energy burden. A recent FEMA study shows that from 2000 to 2016, adoption and implementation of the International Building 
+Code and International Residential Code provided $1.6 billion in risk reduction benefits from floods, hurricane winds, and earthquakes. Regular review and updating of codes and development standards can ensure that communities are incorporating the most state-of-the-art techniques and technologies into building practices. ■Meaningful Public Engagement: Consistent, robust, and meaningful engagement and participatory decision-making in all phases of resilience activities, including formal processes, such as budgeting, policy development, and community planning, strengthens trust, social capital, and ultimately resilience. Meeting members of the community where they are, hearing their concerns, getting a clearer sense of their experiences, and involving them in developing solutions can help identify strategies that are best tailored to address critical community challenges. For example, as part of a resilience planning effort, a community may hold a mix of public meetings including large town halls open to anyone, targeted meetings at houses of worship, and smaller meetings in people’s homes or neighborhoods. It may also include compensating people to enable their participation in planning efforts. Engaging with young people who will have to live with the consequences of today’s actions is particularly important.
+
+[Page 16]
+NATIONAL RESILIENCE GUIDANCE: A COLLABORATIVE APPROACH TO BUILDING RESILIENCE
+Incorporating Resilience Principles into Activities and Decision-Making 
+The resilience principles provide one approach for incorporating resilience considerations into existing activities and decision-making, including the identification of resilience evaluation and prioritization criteria. 
+Below are example questions for each principle that can be considered when making decisions about plans, policies, projects, programs, and other efforts. 
+THREATS AND HAZARDS □How are the root causes and risks of shocks and stressors understood and being addressed? □How is the relationship between shocks and stressors and their impacts being addressed? □Are future conditions, including climate and technology changes, being considered? 
+HUMAN-CENTERED □How does the community envision resilience? □Are the needs and well-being of people prioritized, including those most socially vulnerable and/or historically underserved? □Are the voices of people being sought, heard, and involved in decision-making? 
+EQUITABLE AND JUST □What are the benefits or unintended consequences for underserved communities? □Have equity considerations been explicitly identified and incorporated into all activities and phases of decision-making? 
+ADAPTIVE □How will solutions perform in the face of changing and unpredictable conditions? □Can ongoing adjustments be made easily as new information emerges?
+ □Has there been consideration that some challenges may be too big for incremental adaptation and instead require fundamental, transformational change? 
+COLLABORATIVE □Are the decisions based in community-centered collaboration with diverse representation and inclusive of informal community resilience leadership? □Are traditional and non-traditional partnerships across systems and sectors included? 
+SUSTAINABLE AND DURABLE □What are the immediate and generational impacts on social, economic, natural, and built environment resources? How will negative impacts be avoided or minimized? □How can decisions gain the political and financial support to be sustainable long-term? □Have nature-based solutions that often provide co-benefits been seriously considered? 
+INTERDEPENDENT □Have dependencies and interdependencies between systems been considered and have shocks and stressors been taken into account in the development of solutions? □What is the impact on other policies, plans, projects, or programs? Do they align and have their goals been deconflicted? □Do solutions prioritize building lasting capacity and address multiple objectives resulting in co-benefits?
+
+[Page 17]
+NATIONAL RESILIENCE GUIDANCE: A COLLABORATIVE APPROACH TO BUILDING RESILIENCE
+HOW TO DEVELOP AND IMPLEMENT 
+DEDICATED RESILIENCE EFFORTS 
+Overview 
+Successful dedicated residence efforts can take many forms but often include six elements: People, 
+Planning, Policies, Projects and Programs, Financing, and Measurement and Evaluation. These six elements can work together in various ways. They may all be done together at one time as part of a large initiative, or they may happen one after the other. The specific elements involved, and the order in which they occur, will depend on the community. 
+For example, in some cases a planning process may be the first step, followed by the development and implementation of policy. In other cases, policy may be a first step that lays the groundwork for planning. 
+Likewise, the form these elements take will vary by community. For example, some resilience efforts may require significant, dedicated financing, while others may be done through volunteers and low- to no-cost financing or use of existing funds in creative ways. The form these elements take may also evolve over time as conditions change, including an increased understanding of what resilience means in that community. These six elements are discussed in more detail in the following subsections, followed by a resilience maturity model that illustrates how actions across these elements can increase resilience over time. 
+The approaches outlined in this document are flexible. They account for the fact that efforts may focus on specific aspects of resilience and can and should happen at different scales, from a neighborhood, to regional like a watershed or seismic zone, to national. 
+Supplemental Resources 
+Additional resources related to strengthening resilience, including case studies, toolkits, and gov/emergency-managers/national-preparedness/ plan/resilience-guidance. These resources dive deeper into some of the concepts from this guide and provide implementation strategies and concrete examples of how to build resilience.
+
+[Page 18]
+NATIONAL RESILIENCE GUIDANCE: A COLLABORATIVE APPROACH TO BUILDING RESILIENCE
+Organizing and Engaging People 
+Whether developing a plan, implementing a project or program, or taking some other action, resilience efforts require strong leadership and collaboration by many individuals with various types of expertise and experience across organizations and even across jurisdictions. It is critical to identify the leaders, key players, and partners needed, and to include all types and levels of expertise, including those of community members. When filling these roles and engaging the community, it is important to consider the involvement of community segments, such as youth, older individuals, and women, as well as the organizations and systems that represent or serve these people. 
+One way to get the players involved, while keeping things manageable, is to take a layered approach and to grow the team over time.
+ ■Layered approach: Start with a smaller core team of key players and also have a larger collaborative team that includes people with different skills, knowledge, and experience. 
+The core team does most of the work while the larger team is consulted and involved regularly. 
+The most effective resilience efforts also engage members of the broader community. ■Grow over time: As more information is learned about the shocks, stressors, and issues facing the community, the team can consider what viewpoints might be missing and seek out new members from within and outside the community who can add new perspectives, guidance, and resources. 
+Organizing efforts also do not have to start from scratch. Involve people and groups that are already active in the community including in emergency preparedness, environmental and human service organizations, civic organizations, community foundations, and arts and cultural organizations.
+
+[Page 19]
+NATIONAL RESILIENCE GUIDANCE: A COLLABORATIVE APPROACH TO BUILDING RESILIENCE
+RESILIENCE LEADERS AND CHAMPIONS 
+Strong and effective leadership is critical for resilience efforts to be successful, as is a core group of champions who can rally broader support. 
+Resilience leaders and champions can take many forms. They may be found in families, households, neighborhoods, communities, government, private sector, and nongovernmental organizations. A resilience leader may be a single person or a group of people. They may have formal authority conferred by an official body, informal authority conferred from community trust, or a mix of both. Regardless of the type of leader or champion, they play an essential role in getting widespread support for resilience, providing a vision of resilience beyond any one sector or discipline, and allocating resources towards those efforts. They direct and ensure a collaborative, integrated process, provide consistency, elevate the importance of resilience, convene relevant parties, effectively communicate the goals and objectives of the resilience effort, and rally diverse community leadership and public support. 
+Across the nation, communities have used a variety of models for their resilience efforts. No matter the model used, the most successful use a systemsthinking approach that addresses both shocks and stressors and that are coordinated with a broad group of interagency and community partners. For example, some communities do the following: ■Establish formal groups to lead resilience efforts, such as task forces, commissions, working groups, compacts, or resilience authorities. ■Add the leadership responsibility to an existing position, such as a Sustainability Officer due to their focus on increasing sustainability and being environmentally and socially responsible, or an 
+Emergency Manager due to their role in managing shocks, reducing risk, coordinating across organizations, and their need to understand community stressors. ■Create a new office or position to lead resilience efforts, such as a Chief Resilience Officer (CRO). 
+CROs are a newer role that began appearing in state and local governments in the early 2010s. 
+Generally, the CRO’s role has been to lead the development and implementation of a resilience plan, incorporate resilience concepts and principles into other plans and initiatives, and generate broad support for resilience efforts including through interagency and external coordination. 
+They generally take a longer-term view with a focus on future conditions. CROs generally have been placed at relatively prominent positions within the governance structure, often reporting to the chief executive (e.g., mayor, governor, department head). 
+Dedicated CRO positions have also been placed in departments such as emergency management, energy, and commerce. ■Build coalitions from resilience leadership that emerges from grassroots efforts, such as when residents form groups to develop neighborhood resilience hubs that address immediate physical and social needs and are part of disaster planning.
+
+[Page 20]
+NATIONAL RESILIENCE GUIDANCE: A COLLABORATIVE APPROACH TO BUILDING RESILIENCE
+BUILDING CORE AND BROADENED COLLABORATIVE TEAMS 
+Resilience teams should reflect the composition, culture, and range of issues within the communities they represent, along with the expertise and backgrounds needed to develop and implement a range of solutions. 
+A successful resilience team requires continuous communication and decision-making that is inclusive, participatory, and transparent to all. Diverse voices from across the community should be included and have an active role in decision-making. 
+When thinking about whom to include on the resilience team and how best to organize them, consider the following: ■Purpose: Why are people being brought together as a team? For example, are they sponsoring or conducting research, identifying/understanding a community’s need or priority, writing a resilience plan, producing recommendations, developing or evaluating programs? ■Authority: What decision-making authority does the team have (e.g., are decisions binding or advisory)? What will be the team’s process for managing disagreements? What happens when consensus cannot be reached? How will minority opinions be honored? ■Duration: How long will people be asked to be engaged? Will it be a short-term group established with a defined deadline, or a long-term group that provides ongoing support and guidance? ■Members: Who should be included on the team (e.g., expertise, demographics)? Who are the anchor institutions and trusted messengers in the community? Will members be compensated either monetarily or otherwise? How will engagement, especially from underserved voices, be supported? 
+Who is being left out? What steps are you taking to account for the needs and perspectives of those who cannot be active members? ■Administrative Effort: What will be needed to manage the team, including the number of staff and needed skills (e.g., what skills are available within a core team and what will come from other places) and the resources needed to sustain the team?
+
+[Page 21]
+NATIONAL RESILIENCE GUIDANCE: A COLLABORATIVE APPROACH TO BUILDING RESILIENCE
+ENGAGING THE COMMUNITY 
+Effective resilience efforts require engagement of the whole community. Community participation is critical to identifying effective solutions, ensuring that community preferences and priorities can be fully integrated into resilience efforts, and creating support for resilience initiatives. Understanding risks and identifying effective solutions means recognizing the unique needs and contributions of all community members and including them in decisionmaking—in particular those who are underserved, disproportionately impacted, and the most socially vulnerable. Their voices must be heard and respected and actions should honor their lived experience, history, and cultural practices and traditions. This is especially important in areas where Indigenous 
+Peoples maintain place-based knowledge that holds thousands of years of sociocultural, economic, political, and natural resource relationships. 
+Engagement efforts can take many forms, such as holding public events like town halls and listening sessions; conducting surveys through a variety of mechanisms; or doing extensive community outreach like hosting booths at community festivals and attending existing community meetings to meet people where they are. Engagement efforts should include informational materials that are easy to understand, easy to access, and relevant to the community being engaged. It is also important that meeting facilitators are properly trained to engage with community members and ensure cultural sensitivities and community needs are addressed and met. Artists and artistic means of expression can be instrumental in bringing community voices into the process through interactive design and exhibits. 
+Transparency can take the form of open meetings and widespread dissemination of public meeting summaries and reports documenting the work being done. 
+Developing a Community Engagement Plan 
+The principle of collaboration is central to resilience, as is the importance of consistently including all voices, especially those of underserved communities and those most impacted by shocks and stressors. 
+A community engagement plan should consider: ■Why is engagement needed? What purpose(s) does engagement serve (e.g., gathering community input, building trust)? How does the community benefit from the engagement?
+■What previous engagements have occurred, and how can the team incorporate and build from previous input and feedback?
+■What does meaningful engagement look like? How are engagement efforts and outcomes measured?
+■Who needs to be engaged and what data are being used to identify them, to ensure representation from the full community, including those who are disproportionately impacted by shocks and stressors?
+■What are the barriers to participation by community members, and how can they be removed?
+■When during resilience planning and activities will engagement be needed?
+■What commitments will be made to the community upfront about their role in the process, and how their input will be used?
+■How can the team meet people where they are to make it easy for them to participate?
+■What does the team need to budget (e.g., money, time, people) to enable meaningful community engagement? Where will the resources come from?
+■How can participants be compensated for their time?
+■What is the plan to follow through on commitments to the community?
+
+[Page 22]
+NATIONAL RESILIENCE GUIDANCE: A COLLABORATIVE APPROACH TO BUILDING RESILIENCE
+Having an inclusive process requires an understanding of logistical, linguistic, cultural, accessibility, and economic/resource needs that should be addressed. Consider the following: ■Work with diverse community leaders to make participants feel welcome to engage in the process. ■Create opportunities for community members to be fully involved and always have an open mind when engaging with different groups. ■Use public events to listen and learn from the community about what they value and changes that are most meaningful to them, not just to educate or persuade them. ■Provide materials and services in all relevant languages, in formats accessible to individuals with disabilities, and in culturally appropriate ways to enable inclusive participation. This requires understanding the community context, including the demographics of the community and, when possible, community assets and resources, relationships, and institutional or cultural barriers. ■Employ qualified translators for written materials and qualified interpreters for public events. 
+Consider how different groups may receive the content and communication channels. ■Use a variety of channels to distribute information to ensure that outreach materials effectively reach their target audiences. ■Consider possible logistical barriers, such as physical and geographical issues, time constraints, caregiving responsibilities, and transportation problems. For instance, it is often easier for people with more time and resources to attend meetings or otherwise provide input. ■Don’t assume that underserved communities’ lack of engagement means lack of interest. 
+Instead, consider how to make participation accessible and inclusive for everyone. 
+For reference or additional guidance see FEMA’s limited English proficiency (LEP) policy, FEMA Policy FP-256-23-001 Language Access, assistance have language access responsibilities pursuant to applicable Federal civil rights laws and authorities. For more information see 
+Aldrich, D., & Meyer, M. (2015). “Social Capital and Community Resilience.” American Behavioral Scientist. 59. 254-269. https://doi.org/10.1177/0002764214550299. 
+Social Capital and Resilience4
+In addition to gathering critical input for resilience efforts, community engagement helps build social capital. Social capital comes from networks, norms, and trust that support collective action for a common purpose and that results in mutual benefit. It includes bonds within community groups, across different populations, and the relationship between those in positions of authority and the broader community. 
+It’s the intangible connection and trust between people and among community groups that is built through formal and informal interactions. Research shows that participation and engagement within and across groups in a community has positive individual and community-wide benefits before, during, and after disasters. Social capital is critical to resilience.
+
+[Page 23]
+NATIONAL RESILIENCE GUIDANCE: A COLLABORATIVE APPROACH TO BUILDING RESILIENCE
+Planning for Resilience 
+Any community or organization, from a neighborhood, to a business or nonprofit, to a government entity, can make a plan. Resilience planning can take a variety of paths, each with its own pros and cons as shown in the following table. These approaches are not mutually exclusive and may intersect and merge over time. 
+CREATE A STAND-ALONE PLAN FOCUSED ON RESILIENCE 
+PROS ■Keeps focus on strategic resilience goals and can pull individual resilience efforts together in a cohesive plan ■Enables creation of a planning team tailored to resilience, rather than reliance on an existing team ■Can be designed free of constraints that other plans may have 
+CONS ■May strain resources and add to planning fatigue ■Adds another plan to an already crowded field, which may create confusion ■May be disconnected from other planning efforts including authoritative plans 
+ADD RESILIENCE AS A CORE COMPONENT OF AN EXISTING PLAN 
+PROS ■Can leverage existing planning team, relationships, and processes to jump-start planning process ■Can include resilience goals and activities in plan(s) where there is the most overlap with resilience issues ■Can amplify existing resilience efforts 
+CONS ■May cause confusion about what resilience is or appear to just be re-branding existing efforts ■Resilience may lose prominence in plan ■Must work within other plan structure and requirements which may limit scope and ability to address interdependencies or cross-cutting nature of resilience 
+INTEGRATE RESILIENCE INTO ALL COMMUNITY PLANS 
+PROS ■Does not require creation of new plan or working group ■Can leverage existing planning team, relationships, processes, and plans to incorporate resilience ■May be able to fully address root causes and interdependencies because of the crosscutting nature of resilience ■Institutionalizes resilience into community decision-making 
+CONS ■Resilience may lose prominence in plan ■Must work within other plan structure or requirements ■Requires significant resources and coordination, which may not fit within the timeframe, scope, or authority of the entity leading the planning effort ■May be a challenge to keep the individual planning and associated implementation efforts aligned, particularly if plans are implemented or updated on varying timelines
+
+[Page 24]
+NATIONAL RESILIENCE GUIDANCE: A COLLABORATIVE APPROACH TO BUILDING RESILIENCE
+Some questions to consider when selecting a planning approach include the following: ■What is the current understanding of future conditions, shocks, and stressors, and how has this been integrated into previous plans? ■What resources are available to devote to resilience planning? ■What datasets or ongoing data collection initiatives are available to inform the planning process and measure outcomes? ■What other policies and plans will be developed or updated, including those at other levels of government, and what is the timing of those efforts? Are there gaps or conflicting goals in current plans that should be addressed? ■Who has been engaged in previous planning processes and how does that compare to who should be included in resilience planning? 
+No matter the approach selected, integration of resilience with other planning efforts is critical. At a minimum, plans should not conflict with one another. 
+Ideally, plans should complement or build from one another and acknowledge interconnections. For example, an economic development plan might have to address the need for affordable workforce housing and a robust transit system. 
+A wide range of existing plans can give ideas on whom to engage in planning efforts and provide information about the community’s past, present, and future, including policies, projects, and programs. 
+Opportunities may also exist to align goals and objectives and provide a coordinated path forward for the community. Some examples of the kinds of plans that may provide valuable input include comprehensive plans, affordable housing plans, hazard mitigation plans, climate adaptation plans, community energy plans, economic development plans, community development plans, and longrange transportation plans.
+
+[Page 25]
+NATIONAL RESILIENCE GUIDANCE: A COLLABORATIVE APPROACH TO BUILDING RESILIENCE
+APPLYING RESILIENCE TO THE PLANNING PROCESS 
+Resilience plans might be strategic, operational, or tactical in nature depending on where a community or organization is in its resilience journey. No matter the approach or nature of the plan, below are examples of questions that can help bring resilience principles into the planning process. 
+1. Form a Collaborative Planning Team □Who will be most impacted by the shocks and stressors, and how are they represented on the team and in the decision-making process? □Who can implement actions to address identified needs, and who are trusted community members that can engage others? □How will members be added over time to bring in other perspectives and information? □What is the strategy to build community engagement into the planning process? 
+2. Understand the Situation □Have shocks, stressors, and the interactions between them and systems been explored? □Have the root causes of impacts been explored through a systems-thinking approach? □Have scenarios considering future conditions, different timelines, and levels of risk been explored? □What disparities drive long-term vulnerability, especially of underserved populations? 
+3. Determine Goals and Objectives □Do the goals and objectives significantly improve the ability of the community to be resilient? □Are the needs of people front and center? 
+4. Develop the Plan □What are the intentional benefits and unintended consequences for underserved communities? □Do the proposed strategies adequately recognize and address the interdependency of systems? □Do the proposed strategies emphasize co-benefits and meeting multiple objectives? 
+5. Write, Review, and Approve the Plan □Is the plan accessible to all users including people with disabilities and those who speak languages other than English? □How are the voices of those most impacted by the shocks and stressors represented in the approval process? □What is the feedback loop to tell community members how their input was incorporated? 
+6. Implement and Maintain the Plan □Has the planning team provided all interested parties, especially underserved and/or disadvantaged communities with meaningful opportunities for continued understanding and involvement? □How is the plan integrated into broader community planning processes, products, and strategies?
+
+[Page 26]
+NATIONAL RESILIENCE GUIDANCE: A COLLABORATIVE APPROACH TO BUILDING RESILIENCE
+Strengthening Resilience through Policy 
+Policies are a key instrument for enabling action. They can allocate resources, provide authorities to take certain actions, or serve as a tool to communicate the priorities of an organization or community. While frequently associated with government, policies can be applied across the public, private, and non-profit sectors to build resilience. Policies can take a variety of formats, including laws, regulations and standards, resolutions and proclamations, and administrative/ procedural actions. This section provides an overview of the types of resilience policies that communities and organizations can consider. It also provides information on decision-making considerations that inform the development and implementation of policies. 
+Who is involved in the development of policy is important. Like the plans previously discussed, policies should be developed by a diverse range of voices including the people responsible for implementing them. The people directly affected by the policy and those implementing the policy can offer a perspective on unforeseen challenges or outcomes that others may lack. 
+Different policies should work together and not conflict with each other. It is important for collaborative teams to use a systems-thinking approach to identify and address unintended consequences and enable coherence and consistency among policy action. Working in partnership consistently in this way can create synergy among goals and more efficient resilience building.
+
+[Page 27]
+NATIONAL RESILIENCE GUIDANCE: A COLLABORATIVE APPROACH TO BUILDING RESILIENCE
+LAWS 
+Legislative bodies like the U.S. Congress, tribal councils, or county boards of commissioners pass laws, which are important tools to establish authorities, define roles and responsibilities, and allocate resources for resilience efforts at all levels of government. Resilience efforts may also incorporate enforcement of applicable civil rights laws such as those laws that require language access for individuals who have limited English proficiency and access for individuals with disabilities. While laws can take multiple forms, below are examples of three types of laws that have been used across the nation to build or strengthen resilience. 
+Example Resilience Laws 
+Authorities, Roles, Responsibilities, and Organizational Structures ■Creating resilience-focused positions or establishing resilience responsibilities within existing departments and agencies. ■Permanently establishing a CRO or office of resilience. ■Delegating authority to departments and agencies to regulate (e.g., land use, building codes, natural resource protections). ■Mandating the sharing or disclosure of key information, including risk from natural hazards to property. 
+Creating or Modifying Programs ■Creating resilience programs or structures, including establishing eligible applicants and activities, to deliver financial resources or technical assistance. ■
+Appropriations ■ ■Appropriating funding for resilience projects or programs. 
+RESOLUTIONS AND PROCLAMATIONS 
+Resolutions and proclamations are tools that senior-appointed and elected officials or other governing bodies (e.g., boards of directors) can use to communicate leadership intent, highlight a critical resilience issue, or recognize an event or key milestone. They can come through legislative or executive action. While not binding, resolutions and proclamations can be effective tools for establishing priorities, securing buy-in, and spurring action. Examples of resilience-focused resolutions or proclamations include the following: ■Adoption of resilience plans by chief-elected or appointed officials or governing bodies shows a commitment to implement the goals and strategies identified in the plan. In short, adoption communicates that a plan is not simply a document, but rather a blueprint to take action. ■Awareness days/months provide an opportunity to communicate about priority issues, educate the public, and raise awareness about actions that can be taken to strengthen resilience. For example, observing hazard-awareness months is a common practice that educates the public about specific risks and provides tangible information about how to lessen that risk. ■Remembrances or celebrations can bring the community together around a shared experience, such as a past disaster, as well as to celebrate key milestones or accomplishments. In both cases, they can help heal communities and build connection, cohesion, and momentum for resilience efforts.
+
+[Page 28]
+NATIONAL RESILIENCE GUIDANCE: A COLLABORATIVE APPROACH TO BUILDING RESILIENCE
+REGULATIONS AND STANDARDS 
+Agencies and organizations can apply regulations and standards to address specific resilience priorities, including shocks and stressors. 
+Community or organizational planning processes, including comprehensive plans, hazard mitigation plans, community development plans, and capital improvement plans, are important forums to evaluate what regulations and standards make the most sense to address resilience priorities and needs in that community. While adoption of regulations and standards is the first step, implementation and enforcement are crucial for long-term success. 
+Example Regulations and Standards 
+Codes and Standards ■Codes and standards, such as the International 
+Building Code, American Society of Civil Engineers standards, International Association of Plumbing and Mechanical Officials standards, National Fire 
+Protection Association standards, which regulate building structure design, engineering, construction, occupancy, and compliance to ensure public health, safety, and sustainability. Codes also help to provide standard requirements across communities for resilient design and construction. ■Hazard-specific codes that address building requirements related to shocks such as floods, wildfires, high winds, and earthquakes. ■Codes that address sustainability objectives, such as energy efficiency and resource conservation. ■Design or technology and interoperability standards, including climate-informed approaches, for cybersecurity and infrastructure systems, public safety systems, and nature-based solutions. 
+Regulations ■Zoning to guide what kinds of uses and development can occur in specific areas of a community to spur sustainable development and economic growth or to limit risk from specific hazards or limit hazard creep (e.g., a low-hazard dam can become a high-hazard dam when a community increases development downstream and within the dam breach inundation zone) and to alleviate stresses such as affordable housing shortages. ■Floodplain management regulations such as freeboard, minimum elevation requirements, buffers, and setbacks. This includes standards that exceed the National Flood Insurance Program minimum requirements. ■Conservation easements, land acquisitions, deed restrictions, and land trusts that restrict or remove development in environmentally sensitive or hazardous areas and improve environmental quality. ■Incorporation of future climate risk into land use and building regulations or guidelines. ■Requirements to protect people (e.g., employees, children) from outdoor and indoor heat illness hazards.
+
+[Page 29]
+NATIONAL RESILIENCE GUIDANCE: A COLLABORATIVE APPROACH TO BUILDING RESILIENCE
+BUSINESS PROCEDURES AND 
+ADMINISTRATIVE ACTIONS 
+Business procedures and administrative actions offer many opportunities to include and address resilience in the daily operations of governments and organizations. Because governments and organizations usually have the authority to oversee, change, and implement these procedures and actions, they can be some of the most practical, flexible, and adaptable tools for addressing resilience priorities. Administrative actions can be used to start new resilience programs and can be combined with laws to make these efforts permanent. 
+POLICY DECISION-MAKING CONSIDERATIONS 
+Identifying and determining the right policies to strengthen resilience requires understanding the community’s or organization’s situation, including shocks and stressors. In addition, decisions on new policies may be affected by policies at other levels of government. For example, federal or state laws may influence how policies are written and implemented at the local level, as well as in the private sector and non-governmental organizations. 
+Therefore, it is important to understand relevant resilience policies and how they may or may not support specific solutions. Questions that may help evaluate what type of policy makes the most sense include the following: ■Why is the policy needed? ■What outcome is intended? ■How can the policy be designed to be adaptive and flexible? ■Where does the policy apply? ■When does the policy apply? ■What are the primary benefits and the co-benefits? ■What are the unintended consequences or drawbacks? ■How does the policy interact with other policies? ■Whose input has and will inform the policy? ■How will the policy actions be funded and maintained? 
+Example Resilience Business Procedures and Administrative Actions 
+Executive Actions ■Establishing cross-cutting resilience policies across all departments within a government or organization to instill resilience as a core value. ■Creating new resilience leadership positions, organizational structures, or responsibilities. 
+Organizational Policies and Processes ■Prioritizing resilience initiatives by incorporating resilience criteria into budget processes, including capital improvement planning, project identification and scoping, and investment prioritization. ■Completing risk assessments, including consideration of future conditions and climate change, for funded infrastructure and other capital projects. ■Procuring pre-disaster contracts or development of mutual aid agreements that enable quick mobilization of resources after a disaster event (e.g., debris removal). ■Mapping supply chains to understand potential upstream and downstream vulnerabilities. ■Ensuring employees are engaged with and understand the resilience plan. ■ ■Tracking resilience-related expenditures and outcomes/benefits. 
+Permitting ■Enforcing resilience-related codes, standards, regulations, and other tools to ensure policy translates into action. ■Implementing measures to make permitting and inspection processes as transparent, accessible, and efficient as possible. 
+Performance Planning ■Incorporating resilience priorities, including measurable goals and objectives, into individual and organizational performance plans.
+
+[Page 30]
+NATIONAL RESILIENCE GUIDANCE: A COLLABORATIVE APPROACH TO BUILDING RESILIENCE
+Embedding Resilience in Projects and Programs 
+Projects and programs are the activities that communities engage in to improve their resilience. 
+Planning and policies set up the priorities and guidelines for resilience, while projects and programs are often where it becomes a reality. 
+The seven resilience principles should be considered during the development, selection, design, and implementation of projects and programs. By considering resilience principles and concepts in this way, any project can become a resilience project that maximizes the resilience value and creates resilience dividends. 
+Resilience efforts require a shift from looking not only at historical and current conditions, which provides a degree of certainty, to also considering future conditions and a range of uncertain shocks and stressors. That uncertainty requires projects and programs to be designed to be able to reduce risk under a range of scenarios and be adaptive as conditions change. A broad base of support for resilience projects and programs will ensure resources remain invested even as the normal cycle of leadership change within organizations happens. 
+TYPES OF PROJECTS AND PROGRAMS 
+Projects or programs can be implemented by a single organization or addressed through partnerships across organizations, including public-private partnerships. Resilience projects and programs can take many forms and may lead to incremental changes or to transformative changes. Resilience efforts also may be designed to be accomplished at once or to be added onto or adapted over time. 
+Resilience projects and programs are all characterized by their ability to provide co-benefits or meet multiple objectives. Examples include the following: ■A county in Appalachia has experienced severe ice storms and tornadoes several times over the past few years. The county is interested in protecting electric utility lines that serve the county seat where the county’s emergency operations center, main hospital, and high school are located. A coal mine in the county recently closed. A hazard mitigation project might be the construction of new power lines and poles to create alternatives to power distribution in the event of extreme weather. A resilience project, on the other hand, would include multiple objectives. It may also build a microgrid based on a renewable power source like solar with energy storage, which would reduce emissions, and pair it with an apprenticeship program that retrains coal miners, giving them marketable skills for future jobs. ■Many residents of a small city in the desert southwest have experienced food insecurity since the COVID-19 pandemic due to high unemployment. 
+The city is also concerned about the lack of jobs for younger residents, which may result in them moving out of the city. A social service project might be to open a food pantry, while a resilience project might address food security by pairing the food pantry with community gardens and incubating a drought-resistant aquaponics small business that also gives career pathways to youth.
+
+[Page 31]
+NATIONAL RESILIENCE GUIDANCE: A COLLABORATIVE APPROACH TO BUILDING RESILIENCE
+Below are three examples of resilience projects and programs: 
+White House Council on Environmental Quality, White House Office of Science and Technology Policy, White House Domestic Climate 
+Policy Office. (2022, November). Opportunities to Accelerate Nature-based Solutions: A Roadmap for Climate Progress, Thriving Nature, ■Nature-based solutions are actions to protect, sustain, or restore natural or modified ecosystems to address societal challenges, simultaneously providing benefits for people and the environment. 
+These solutions include sustainable planning, design, environmental management, and engineering practices that include natural features or processes, including into the built environment. They help mitigate risks, make us more adaptable and resilient, and often cost less than traditional infrastructure and offer significant financial and non-financial benefits. 
+Co-benefits include economic growth, green jobs, increased property values, and better public health. Nature-based solutions can also improve physical health and mental health and create opportunities for social connectedness. For example, a coastal community could use living shoreline, dunes, and reefs to reduce flood risk and coastal erosion while providing other cobenefits to the community (e.g., recreational areas, educational opportunities) and natural environment (e.g., purifying water, creating wildlife habitat, and storing carbon). ■A resilience hub is a community-based resource center that may provide social services, resilience education, community connection, disaster information, and other services before, during, and after a disaster. Many hubs are powered by microgrids with backup power capabilities to provide essential electricity to residents during disasters, and hubs powered by renewable sources have the co-benefit of reducing facility energy costs and greenhouse gas emissions. ■Microgrids are small networks of energy users supplied through a local energy source like solar panels, wind turbines, or battery storage. 
+Microgrids can function both independently and interdependently with the main power grid. 
+Microgrids can offer communities reduced greenhouse gas emissions, reduced energy costs to users, and a reliable source of power after an event that affects the larger grid.
+
+[Page 32]
+NATIONAL RESILIENCE GUIDANCE: A COLLABORATIVE APPROACH TO BUILDING RESILIENCE
+HOW TO IDENTIFY AND PRIORITIZE PROJECTS AND PROGRAMS 
+Resilience projects and programs should be grounded in a community’s needs, which can be identified through planning. They can be built on existing efforts or be a new effort. They will also be dependent on what resources are available, from what sources, and for what purpose; the 
+Financing Resilience Efforts section goes into more detail on how to pay for resilience projects and programs. 
+Communities should establish criteria for determining what projects and programs should be undertaken and how to prioritize the selected projects based on the community’s resilience goals. The criteria may be different for project selection (e.g., which projects are preferred) versus project prioritization (which projects to do first), or the criteria may be the same. The criteria should reflect the values of the community and consider the seven resilience principles. 
+Whatever criteria are selected, it is important to create a common scoring guide that defines what the criteria mean and how they will be evaluated. 
+Whether a quantitative system using numerical scores or a qualitative system such as high, medium, and low, the criteria and the process used to apply them should be clear and transparent to all people involved. The common scoring guide can be used in various community processes, such as resilience plans, annual budgets, or capital improvement plans. 
+The decisions on what projects and programs are selected should be made through a diverse and inclusive process that incorporates the preferences of community members. 
+Communities also should clearly identify trade-offs when there are competing goals, objectives, or outcomes of a project, and capture what trade-offs are acceptable versus unacceptable to community members, including the cost of not moving forward with resilience projects and programs. Projects may need to be revised to be responsive to those trade-off discussions.
+
+[Page 33]
+NATIONAL RESILIENCE GUIDANCE: A COLLABORATIVE APPROACH TO BUILDING RESILIENCE
+Financing Resilience Efforts 
+Many resilience efforts require funding. In some cases, this can be addressed by incorporating resilience priorities into existing planning processes, projects, and programs that already have funding. 
+In other cases, additional resources are needed. 
+The interdependent and multi-objective nature of resilience means that in some cases, multiple streams of funding may be available and needed to finance the project. Therefore, bringing together multiple funding sources as a portfolio is beneficial. 
+Oftentimes, the sources or mechanisms for funding resilience are not new, but how they are being used or combined for a specific activity may be. 
+Understanding the options available and how they can be used is critical, as is identifying what funding can be used early in the process to help unlock future funding opportunities. Accessing multiple funding sources may also result in opportunities to coordinate with multiple partners, strengthening both partnerships and resilience projects. This section provides examples of the types of funding sources and approaches that can be used to support resilience efforts. 
+SOURCES 
+A variety of funding sources can be used to support resilience efforts. In many cases, multiple funding sources can and will need to be used together to achieve multiple objectives. Careful consideration and clear understanding of eligibility criteria for applicants and activities, match requirements, regulatory reviews, and duplication of benefit policies are important to maximize the use of these resources. Understanding who has access to capital and how to ensure equitable access to financial resources is an equally important consideration. Also important is considering how funding sources align with community values and priorities; just because funding is available does not mean that it is funding the resilience work most important and of value to the community. 
+Government cannot be the sole source of funding for resilience. Public-private partnerships are another way to pay for resilience work and can be part of a portfolio of funding options. These partnerships generally consist of agreements between government, private sector, and in some cases, philanthropic organizations, where they share financial risk and beneficial outcomes of projects, the private sector provides expertise and resources, and the public sector retains oversight or control of the project. 
+Specific models can include the following: ■Guarantees and co-financing structures where the private sector obtains financing from lenders or investors, receives financing or loan guarantees from the public sector, and collects revenue once the project is complete. ■Incentive or Pay-for-Success models where private investors provide up-front capital for the execution of an evidence-based project or program. Then, a service provider provides the service, and if independent evaluators find that the project met or exceeded agreed-upon outcomes, the public sector repays the investors. 
+Project and program types can span a wide variety of activities including health services, social services, and nature-based infrastructure.
+
+[Page 34]
+NATIONAL RESILIENCE GUIDANCE: A COLLABORATIVE APPROACH TO BUILDING RESILIENCE
+FUNDING MECHANISMS 
+A broad range of funding mechanisms can be used, depending on the nature of the activity: ■Annual and capital budgets provide an opportunity for public, private, and nongovernmental organizations to build resilience priorities into annual programs and priorities. 
+Budgeting processes can also be used to drive collaboration and coordination across departments. Resilience decision-making criteria can also help evaluate budgets, refine priorities, and support procurement decisions. ■Grants from federal agencies, state, local, tribal, and territorial governments, philanthropic organizations, and the private sector can address a range of resilience priorities. While individual grant programs frequently focus on specific activities, organizations can, as feasible, bring together multiple funding sources to fund multiobjective resilience projects. ■Debt instruments can enable governments, businesses, other organizations, and in some cases individuals, families, and households, to secure funding up-front for high-priority resilience projects, while paying the funding back over time. The use of debt instruments for resilience priorities can depend on a variety of factors, including borrowing authorities, borrowing costs, and credit ratings. Examples of debt instruments include revolving loan funds, direct loans, loan guarantees, and bonds including green bonds, catastrophe bonds, and resilience bonds. ■Infrastructure authorities, infrastructure banks, and green banks are governmentoperated financing institutions that provide capital, including loans, loan guarantees, and equity investments, for sector-specific projects (e.g., transportation, energy). Infrastructure banks can be used to help further supplement private financing for capital projects. ■User fees and special assessments can be used to invest in resilience priorities, as well as to facilitate public-private partnerships. User fees, like tolls or utility fees, are charged to directly cover the cost of a provided service. Special assessments are taxes on property owners within a specific area or district for a specific service; a tax overlay district is an example of a special assessment. These tools are frequently applied for the use of public infrastructure or facilities such as roads and airports, as well as for natural amenities such as parks and open space. ■Tax credits are the funding that individuals and businesses can subtract from owed taxes and are usually applied to support the execution of specific economic, environmental, or capital projects (e.g., affordable housing, energy efficient home upgrades). Tax credits can be used to help finance capital projects and repay debt over time. ■Tax checkoff programs can help facilitate voluntary contributions from taxpayers to specific priorities (e.g., environmental conservation, research, support for socially vulnerable populations). They are most frequently used at the state level. ■Insurance provides individuals, families, and households; businesses; non-profits; and governments with access to funding when an adverse event such as a disaster occurs and causes damage to buildings, infrastructure, and other possessions, or disrupts regular activities (e.g., interruption of business activities). Some types of insurance cover multiple hazards (e.g., homeowners insurance) whereas others cover an individual peril not covered elsewhere (e.g., flood insurance or earthquake insurance). 
+Insurance products can also be designed to encourage practices that increase future resilience. For example, the U.S. Department of 
+Agriculture has provided crop insurance premium reductions to farmers who adopt practices that reduce soil erosion and improve soil health, changes that increase crop resilience. ■Value capture approaches help improve the benefit the private sector receives through infrastructure investments, such as increases in property values and economic activity. For example, tax increment financing taxes properties in a defined area based on future gains in real estate values to pay for new infrastructure improvements. ■Impact investment funds target projects and programs that have a measurable social or environmental co-benefit in addition to a financial return. This type of investment may result from venture capital, institutional investments, or philanthropies.
+
+[Page 35]
+NATIONAL RESILIENCE GUIDANCE: A COLLABORATIVE APPROACH TO BUILDING RESILIENCE
+Measuring and Evaluating Resilience 
+Measurement and evaluation are important at every stage of a community’s resilience journey. At the onset, measures are a key tool in understanding community context and evaluating shocks and stressors. Applying a measurement and evaluation perspective can also help make sure that resilience goals are actionable and define what success looks like. Measurement and evaluation also help to assess trade-offs and prioritize actions. Finally, they are a critical tool in monitoring progress towards goals, determining what efforts may need to be adjusted and when, and in identifying successes. 
+No standardized measure of resilience exists because the components of resilience look very different from one context to the next. To measure resilience for your community, intervention/project, or policy, metrics and indicators should be selected for each of the needs, goals, and outcomes that a community defines. 
+A mixed method approach (one that combines both quantitative and qualitative methods) is preferable as it gives a more complete picture of resilience, as the quantitative gives hard numbers while the qualitative provides context, nuance, and perception of resilience. For instance, housing affordability would be an indicator defined by quantitative measures like the percentage of households that are rent-burdened while a qualitative measure might be information from interviews with residents on their experience finding safe, sanitary housing given their income. 
+Measures generally fall into one of four distinct categories: ■Input measures focus on the number of resources being put into the effort, such as funding, labor hours, and number of partners involved. ■Process measures focus on the activities being performed, such as how long a step takes to complete, whether the effort is on schedule, and how much rework is needed. ■Output measures focus on the products or services produced by the effort, such as the number of people helped, the number of commodities delivered, and the acres of land protected. ■Outcome measures focus on the impact from the effort, such as decreased homelessness, increased food availability, improved physical and mental health, decreased flood risk, and an increased ability for resilient systems that are better able to withstand and maintain service despite shocks. 
+It is often easier to measure inputs, process, or outputs than outcomes, but a holistic approach to measurement or evaluation of resilience would include measures from all four categories, since each category has a different focus. Achieving resilience milestones or measurable outcomes can also be an opportunity to publicize accomplishments and progress made in building resilience, which is important to sustain long-term interest and investment in resilience activities.
+
+[Page 36]
+NATIONAL RESILIENCE GUIDANCE: A COLLABORATIVE APPROACH TO BUILDING RESILIENCE
+RESILIENCE MATURITY MODEL 
+The Resilience Maturity Model brings together the concepts discussed in this guidance and provides insights into what communities and organizations can do to bolster their resilience. The model identifies the key characteristics of resiliencerelated activities and how communities and organizations can progress from the early stages of starting to think about resilience, all the way to fully integrating resilience into all aspects of a community’s or organization’s functions. 
+While the model suggests four tiers of activities—
+Ad Hoc, Emerging, Enhanced, and Integrated— communities and organizations will likely find that they have characteristics in more than one tier. Communities might be further along in one area, like planning, than they are in another area, like projects and programs. Furthermore, while the tiers may appear linear in an attempt to show the progression of each activity, it is possible that communities and organizations will move back and forth between the tiers as people and leadership change. The model should be used as a way for communities to systematically think about where their efforts can be strengthened and where additional investment of resources might boost their ability to become more resilient. 
+While the Resilience Maturity Model provides a valuable means to systematically examine current resilience efforts and identify next steps to help strengthen resilience, it is not meant to officially rate or grade a community or organization’s resilience, nor to drive resource allocations. The model is one tool among many that communities and organizations can use to plan their progress on the road to a resilient future.
+
+[Page 37]
+NATIONAL RESILIENCE GUIDANCE: A COLLABORATIVE APPROACH TO BUILDING RESILIENCE
+Resilience Maturity Model RESILIE
+NCE
+AD HOC ■Leadership for resilience efforts is minimal, if any. ■Resilience efforts are informal, sporadic, and/or lack structure. ■ ■Decision-making is reactive, centralized, and largely informed by the availability of outside funding. ■Collaboration is minimal. 
+Efforts are primarily top-down. There is limited community and stakeholder engagement. ■There is limited understanding of the relationship between shocks and stressors; both are addressed ad hoc and independently. ■Goals and priorities are general, short-term, or unclear. ■Efforts focus primarily on short-term, singlepurpose solutions and immediate needs without a clear alignment to long-term goals or sustainability. ■Solutions do not account for the interdependence of systems. ■No efforts to measure resilience exist. 
+EMERGING ■Resilience leadership is informal and limited.
+ ■Efforts are more formalized, structured, and address a broader range of objectives, but still often reactive to immediate needs. ■People, planning, policies, and projects/programs are often disconnected. ■Decision-making is proactive and involves a broader range of participants. ■Collaboration is limited. There is greater engagement of partners and community members, but inclusion of underserved voices is still limited. ■The connection between shocks and stressors is starting to be understood and addressed. ■ ■ ■Systems thinking is used in a limited manner. ■Performance measurement is limited and input or process based. 
+ENHANCED ■ ■Efforts are proactive, forward thinking, and centered on the wellbeing of people. ■People, planning, policies, and projects/programs are well integrated. ■Decision-making is inclusive and data-driven, considering historical and forecasted data. ■ ■ ■ ■ ■Systems thinking is applied to identify and implement solutions. ■Performance measurement is strong and focused on outputs and outcomes. 
+INTEGRATED ■ ■ ■People, planning, policies, and projects/programs are fully integrated and driven by resilience goals.
+ ■Decision-making is highly inclusive, transparent, and data-driven, considering historical and forecasted data. ■Strong collaboration among diverse sectors fosters collective action and shared investment. 
+All community members, including historically underserved, are engaged. ■ ■Clear, coordinated longterm goals and priorities drive policy, plans, projects, and programs. ■ ■Systems thinking is applied to identify and implement solutions, including innovative and transformative solutions and financing models. ■Performance measurement is robust and outcome-based.
+
+[Page 38]
+NATIONAL RESILIENCE GUIDANCE: A COLLABORATIVE APPROACH TO BUILDING RESILIENCE
+CONCLUSION 
+Strengthening resilience requires collective effort from organizations across all systems, sectors, and disciplines, across all levels of governments, the private sector, non-profit organizations, and academia, as well as communities, families, and individuals. 
+To successfully build resilience, everyone must understand the role they play, and the nation must come together to work towards a shared vision of the following: ■A resilient people ■A resilient society ■A resilient economy ■A resilient built environment ■A resilient natural environment 
+Resilience looks different for different communities, as do the actions needed to strengthen resilience. 
+Factors such as history, culture, geography, and demographics influence a community’s resilience goals, priorities, and actions, as do the community’s risks and where the community is in its resilience journey. As the maturity model shows, some communities may just be starting to address resilience, tackling it primarily from an ad hoc perspective, while others may have resilience integrated into all that they do. For communities just starting their resilience journey, the first step may be gaining a strong understanding of the shocks and stressors in the community and setting resilience goals and priorities. For those who have started their resilience journey, the next step might be to implement projects and programs that tackle their identified shocks and stressors. Some communities are beginning to see the results of years of investment in resilience policies, plans, projects and programs and can evaluate the results, celebrate successes, and integrate lessons into future efforts. Not all communities have access to the same resources and may need help to ensure that they can start on the path towards resilience.
+Regardless of where a community is in its resilience journey, or the factors that influence the community’s resilience goals, priorities, and actions, concentrating on the seven principles—all threats and hazards, human-centered, equitable, adaptive, collaborative, sustainable, and interdependent— and effectively applying and integrating a systemsthinking approach and the six elements of people, planning, policies, projects and programs, financing, and measurement and evaluation, will enable the community to identify and implement effective solutions and strengthen the community’s resilience. 
+Supplemental Resources 
+Additional resources related to strengthening resilience, including case studies, toolkits, and gov/emergency-managers/national-preparedness/ plan/resilience-guidance. These resources dive deeper into some of the concepts from this guide and provide implementation strategies and concrete examples of how to build resilience.
+
+[Page 39]
+NATIONAL RESILIENCE GUIDANCE: A COLLABORATIVE APPROACH TO BUILDING RESILIENCE
+DEFINITIONS 
+Modified from National Academies of Sciences, Engineering, and Medicine. (2022). Resilience for Compounding and Cascading Events. 
+The National Academies Press. https://doi.org/10.17226/26659. 
+Intergovernmental Panel on Climate Change (IPCC). (2023, June). Climate Change 2022 — Impacts, Adaptation and 
+Vulnerability. https://doi.org/10.1017/9781009325844.
+National Academies of Sciences, Engineering, and Medicine. (2021). Enhancing Community Resilience through Social Capital and 
+Connectedness: Stronger Together!. Washington, DC: The National Academies Press. https://doi.org/10.17226/26123. 
+10 Modified from National Academies of Sciences, Engineering, and Medicine. (2022). Resilience for Compounding and Cascading Events. 
+The National Academies Press. https://doi.org/10.17226/26659.
+11 FEMA. (2018, February). Continuity Guidance Circular. Retrieved 
+12 Ibid.
+13 U.S. Executive Office of the President. (2013, February 12). “EO 13636: Improving Critical Infrastructure Cybersecurity.” Federal Register. 
+14 Davis, C.R., et al. (2024). Weathering the storm in Freedmen’s Towns: An exploration of residents’ cultural resilience through defiance. 
+Chapel Hill, NC. Coastal Resilience Center. 
+Cascading disaster (or incident): A primary event (trigger), such as heavy rainfall, followed by a chain of consequences that may range from modest (such as localized flooding leading to debris blocking roadways) to significant (such as roadways washed away or a dam overtopping leading to major flooding). The combined impacts over time (damage, losses, disruption) are more severe than if they had occurred separately.7 
+Co-benefits: A positive effect that a policy or measure aimed at one objective has on another objective, thereby increasing the total benefit to society or the environment.8 
+Community: A collectivity, the members of which share a common territorial area as their base of operation for daily activities. An organic natural kind of social group whose members are bound together by the sense of belonging, created out of everyday contacts covering the whole range of human activities.9 
+Compounding disaster: A combination of events that occur at the same time and lead to impacts that exceed the sum of the individual contributing events; for example, a tropical storm that requires extensive evacuation and sheltering during a public health crisis (e.g., COVID-19).10 
+Continuity: The ability to provide uninterrupted services and support while maintaining organizational viability before, during, and after an event that disrupts normal operations.11 
+Continuity of government: A coordinated effort within the executive, legislative, or judicial branches to ensure that essential functions continue to be performed before, during, and after an emergency or threat. Continuity of government is intended to preserve the statutory and constitutional authority of elected officials at all levels of government across the United States.12 
+Critical infrastructure: Systems and assets, whether physical or virtual, so vital to the United States that the incapacity or destruction of such systems and assets would have a debilitating impact on security, national economic security, national public health or safety, or any combination of those matters.13 
+Cultural resilience: Cultural resilience speaks to the capacity to preserve the physical (e.g., religious institution) and non-physical elements (i.e., customs) of a community in adverse environmental and contemporaneous conditions.14 
+Environmental Justice: The just treatment and meaningful involvement of all people, regardless of income, race, color, national origin, Tribal affiliation, or disability, in agency decision-making and other Federal activities that affect human health and the environment so that people (1) are fully protected from disproportionate and adverse human health and environmental effects (including risks) and hazards, including those related to climate change, the cumulative impacts of environmental and other burdens, and the legacy of racism or other structural or systemic barriers; and
+
+[Page 40]
+NATIONAL RESILIENCE GUIDANCE: A COLLABORATIVE APPROACH TO BUILDING RESILIENCE (2) have equitable access to a healthy, sustainable, and resilient environment in which to live, play, work, learn, grow, worship, and engage in cultural and subsistence practices.15 
+Equity: The consistent and systematic fair, just, and impartial treatment of all individuals, including individuals who belong to underserved communities that have been denied such treatment, such as 
+Black, Latino, and Indigenous and Native American persons, Asian Americans and Pacific Islanders and other persons of color; members of religious minorities; lesbian, gay, bisexual, transgender, and queer (LGBTQ+) persons; persons with disabilities; persons who live in rural areas; and persons otherwise adversely affected by persistent poverty or inequality.16 
+Hazard: A source or cause of harm or difficulty.17 
+Hazard mitigation: A sustained action to reduce or eliminate risk to people and property from hazards and their effects.18 
+Incremental Change: Change that happens with a series of small steps that adjust the status quo and, over time, can lead to larger changes. Incremental change can often happen more quickly than transformative change. 
+Nature-based solutions: Actions to protect, sustainability manage, or restore natural or modified ecosystems to address societal challenges, simultaneously providing benefits for people and the environment.19 
+15 U.S. Executive Office of the President. (2023, April 21). “EO 14096: Revitalizing Our Nation’s Commitment to Environmental Justice for commitment-to-environmental-justice-for-all.
+16 U.S. Executive Office of the President. (2021, January 20). “EO 13985: Advancing Racial Equity and Support for Underserved Communities advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government. 
+17 DHS. (2017, October 16). DHS Lexicon Terms and Definitions. Revision 2. Retrieved from 
+18 FEMA. (2021, September). Developing and Maintaining Emergency Operations Plans Comprehensive Preparedness Guide (CPG) 
+19 White House Council on Environmental Quality, White House Office of Science and Technology Policy, White House Domestic Climate 
+Policy Office. (2022, November). Opportunities to Accelerate Nature-based Solutions: A Roadmap for Climate Progress, Thriving Nature, 
+20 FEMA. (2011, January). FEMA Incident Management and Support Keystone. Retrieved from 
+21 FEMA. (2021, September). Developing and Maintaining Emergency Operations Plans Comprehensive Preparedness Guide (CPG) 
+22 Ibid. 
+23 Ibid. 
+Preparedness: Actions that involve a combination of planning, resources, training, exercising, and organizing to build, sustain, and improve operational capabilities. Preparedness is the process of identifying the personnel, training, and equipment needed for a wide range of potential incidents and developing jurisdiction-specific plans for delivering capabilities when needed for an incident.20 
+Prevention: The capabilities necessary to prevent, avoid or stop an imminent threatened or actual act of terrorism.21 
+Protection: The capabilities to safeguard the homeland against acts of terrorism and manmade or natural disasters, focusing on actions to protect 
+United States people, vital interests, and way of life.22 
+Qualitative: Not numerical but observed and recorded. 
+Quantitative: Characterized by numeric values. 
+Recovery: The timely restoration, strengthening and revitalization of infrastructure, housing, and a sustainable economy, as well as the health, social, cultural, historic, and environmental fabric of communities affected by an incident.23 
+Resilience: The ability to prepare for threats and hazards, adapt to changing conditions, and withstand and recover rapidly from adverse conditions and disruptions.
+
+[Page 41]
+NATIONAL RESILIENCE GUIDANCE: A COLLABORATIVE APPROACH TO BUILDING RESILIENCE
+Resilience Dividend: The net co-benefit (or cocost) of resilience investments, in the absence of a disruptive incident. Examples include enabling communities and organizations to better withstand shocks, reducing the impact of chronic stressors, and improving the community’s attractiveness to residents and businesses.24 
+Response: The capabilities necessary to save lives, protect property and the environment, and meet basic human needs after an incident has occurred.25 
+Risk: The potential for an unwanted outcome as determined by its likelihood and the consequences.26 
+Sector: A distinct part or branch of a nation’s economy or society or of a sphere of activity such as education.27 
+Shocks: Generally short-duration or acute events that cause a disruption to normal life. Examples include natural and human-caused disasters, rapid spread of an invasive species, significant market fluctuation or failure, and sudden closing of key employers. 
+Social Connectedness: The degree to which you have the number, quality, and variety of relationships that you want. It is when you feel like you belong and have the support and care that you need.28 
+Stressors: Chronic, longer-term conditions that weaken a community over time and can cause disruption to community functions and well-being. 
+Examples include declining industries, deteriorating infrastructure, endemic crime, diminishing social capital, extreme temperatures, persistent poverty, and lack of quality affordable housing. 
+24 Adapted from Fung, J. F., & Helgeson, J. F. (2017, April). Defining the Resilience Dividend: Accounting for Co-benefits of Resilience Planning. 
+NIST Technical Note 1959. https://doi.org/10.6028/NIST.TN.1959. 
+25 FEMA. (2021, September). Developing and Maintaining Emergency Operations Plans Comprehensive Preparedness Guide (CPG) 
+26 DHS. (2017, October 16). DHS Lexicon Terms and Definitions. 2017 Edition, Revision 2. Retrieved 
+28 Adapted from U.S. Centers for Disease Control and Prevention. (2024, March 27). Social Connection. Retrieved from 
+29 United Nations. (1987, March). Report of the World Commission on Environment and Development: Our Common Future. Retrieved from 
+31 Modified from DHS, DHS Lexicon Terms and Definitions. (2017, October 16). 2017 Edition, Revision 2. Retrieved from 
+32 Ibid. 
+33 FEMA. (2015). National Preparedness Goal. Second edition. Retrieved from 
+Sustainability: Meeting the needs of the present without compromising the ability of future generations to meet their own needs.29 
+System: A set of things working together as parts of a mechanism or an interconnecting network.30 
+Threat: Includes capabilities, intentions, and attack methods of adversaries used to exploit circumstances or occurrences with the intent to cause harm. A threat is directed at an entity, asset, system, network, or geographic area.31 
+Transformative Change: Actions that fundamentally change the current system or approach and are a complete departure from current ways. 
+Transformative change requires new ways and processes of doing things. 
+Vulnerability: Physical feature or operational attribute that renders an entity open to exploitation or susceptible to a given hazard.32 
+Whole Community: A focus on enabling the participation in national preparedness activities of a wider range of players from the private and nonprofit sectors, including nongovernmental organizations and the public, in conjunction with the participation of all levels of government to foster better coordination and working relationships. Used interchangeably with “all-of-Nation.” 33
+
+[Page 42]
+NATIONAL RESILIENCE GUIDANCE: A COLLABORATIVE APPROACH TO BUILDING RESILIENCE
+ACKNOWLEDGMENTS 
+FEMA wishes to thank the many individuals and organizations who contributed their time and knowledge to the development of the National Resilience Guidance, including the more than 1,200 individuals from across the whole community who participated in listening sessions; the state, local, tribal, territorial, and federal organizations, associations, nonprofits, and foundations that participated in individual meetings; and the following individuals who significantly contributed to the development and refinement of the guidance: 
+Adrion Tomas Perez 
+U.S. Small Business 
+Administration 
+Ariah Olsen 
+Washington State 
+Department of Commerce 
+Dr. Bethany DeSalvo 
+U.S. Department of Commerce, 
+Bureau of the Census 
+Bradley Dean 
+Department of Homeland Security 
+Science & Technology Directorate 
+Carolyn Fraioli 
+New York State 
+Department of State 
+Carrie Speranza 
+ESRI 
+Debbra A.K. Johnson 
+ARISE-U.S. 
+Deb Witmer 
+Washington State 
+Department of Commerce 
+Debra Lucero 
+County of Plumas, CA 
+Dixie Porter 
+U.S. Forest Service 
+Dr. S. Atyia Martin 
+All Aces, Inc. and Next 
+Leadership Development
+Elaine Kohrman 
+U.S. Forest Service 
+Emily Martuscello 
+City of Nashua, New Hampshire 
+Office of Emergency Management 
+Dr. Erin McDonald 
+U.S. Department of 
+Health and Human Services 
+Ernest Bartosh 
+U.S. Department of Commerce 
+George “Chip” Walker 
+U.S. Department of Commerce, 
+Bureau of the Census
+Greg Engle 
+Wisconsin Emergency 
+Management 
+Jane Cage 
+InsightFive22 
+John Ferris 
+U.S. Environmental 
+Protection Agency 
+Dr. Juan Fung 
+U.S. Department of Commerce, 
+National Institute of Standards and Technology 
+Justin Kates 
+International Association of Emergency Managers 
+Marguerite Harden 
+Colorado Resiliency Office 
+Dr. Maria Dillard 
+U.S. Department of Commerce, 
+National Institute of Standards and Technology 
+Marissa Aho 
+King County Executive 
+Climate Office 
+Dr. Minah Zadeh 
+Centers for Disease Control and Prevention 
+Naomi Friedman 
+U.S. Department of Commerce, 
+Economic Development 
+Administration 
+Natacha Vacroux 
+U.S. Small Business 
+Administration 
+Paul Beyer 
+New York State 
+Department of State 
+Scott Morrill 
+Gunnison County Emergency 
+Management, Colorado 
+Tamara Telles 
+Association of Schools and 
+Programs of Public Health
+Theodore (Ted) Berger 
+Cook County Department of Emergency Management and Regional Security 
+Dr. Therese McAllister 
+U.S. Department of Commerce, 
+National Institute of Standards and Technology
+
+[Page 43]
+NATIONAL RESILIENCE GUIDANCE: A COLLABORATIVE APPROACH TO BUILDING RESILIENCE

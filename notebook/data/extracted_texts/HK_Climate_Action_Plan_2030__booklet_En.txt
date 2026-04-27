@@ -1,0 +1,1739 @@
+[Page 1]
+HONG KONG’S
+CLIMATE 
+ACTION PLAN 
+2030+
+January 2017
+
+[Page 2]
+Published by: 
+Environment Bureau 
+In Collaboration with members of the Steering Committee on Climate Change:
+Chief Secretary for Administration’s Ofﬁ ce
+Civil Service Bureau
+Commerce and Economic Development Bureau
+Constitutional and Mainland Affairs Bureau
+Development Bureau
+Education Bureau
+Financial Services and the Treasury Bureau
+Food and Health Bureau
+Home Affairs Bureau
+Innovation and Technology Bureau
+Labour and Welfare Bureau
+Security Bureau
+Transport and Housing Bureau
+Information Services Department
+Financial Secretary’s Ofﬁ ce Economic Analysis and Business Facilitation Unit
+Hong Kong Observatory
+
+[Page 4]
+he Hong Kong’s Climate Action Plan 2030+ report, published by the Environment 
+Bureau represents the outcome of the dedicated work of 16 bureaux and departments, in support of the Steering Committee on Climate Change led by the Chief Secretary for 
+Administration. The report sets out Hong Kong’s new carbon emissions reduction target for 
+2030 and the concerted plans for meeting it. I sincerely congratulate the Committee on their successful completion of this important report. 
+This report responds to the Paris Agreement, an ambitious multilateral treaty that came into force in November 2016. The report covers an extensive range of initiatives. They call for not only the work of Government but also the participation and contribution of business and the community at large.
+Despite the costs involved, these measures would reward us with a cleaner, safer and more sustainable environment, as well as substantial reduction in energy consumption and other advantages. In short, Hong Kong’s Climate Action Plan 2030+ seeks to make Hong Kong a better and smarter place to live and work. It would also create new economic and social opportunities for Hong Kong.
+My sincere thanks go again to the Steering Committee on Climate Change for producing the Hong Kong’s Climate Action Plan 2030+ report which has far-reaching impact on our environment. I look forward to our concerted efforts in taking it forward.
+CY Leung
+Chief Executive
+Hong Kong Special Administrative Region
+MESSAGE FROM 
+THE CHIEF EXECUTIVE
+
+[Page 5]
+MESSAGES FROM 
+THE PRINCIPAL OFFICIALS
+We have been working relentlessly in improving the business environment and infrastructure of 
+Hong Kong, in order to promote diversiﬁ ed economic development. With climate resilience in mind, I believe we can enhance the overall beneﬁ t of our development initiatives, creating more job opportunities and building a more liveable city. 
+Paul MP Chan Financial Secretary
+Climate change is a cross-sector, cross-domain subject which has far-reaching socio-economic and cultural impacts across the globe. As a member of the global village, Hong Kong needs to respond proactively. The current-term Government has set up the high-level Steering Committee on 
+Climate Change to steer and co-ordinate efforts among various bureaux and departments in combating climate change and achieving carbon reduction targets. The committee, having collated a multitude of useful views and perspectives, is committed to taking the task forward. We have got off to a good start and the Paris Agreement will propel us forward in the long run. I encourage everyone in the community to participate actively in this cause. Let us all support an energy-saving, waste-less and low-carbon lifestyle and join hands to build a greener Hong Kong. 
+Matthew Cheung Kin-chung Chief Secretary for Administration
+A robust response to climate change requires not only concerted efforts of all stakeholders, but also support of an appropriate legal framework. The rule of law and sound legal system of Hong Kong will provide a solid foundation for government policies and initiatives to meet the challenges of climate change. The Department of Justice will actively support the relevant work of the Environment Bureau. 
+Rimsky Yuen, SC Secretary for Justice
+We have been spearheading green building in public housing, which will contribute to making 
+Hong Kong more climate-ready. As for transport, we strive to enhance walkability in Hong Kong alongside continuous efforts in developing a transportation system centred on public transport, with railway as the backbone. 
+Professor Anthony Cheung Secretary for Transport and Housing
+Innovation and technology has an important role in dealing with climate change. Our work to integrate ‘smart’ technologies into various aspects of life in Hong Kong will help to make the use of energy, water and material resources more efﬁ cient and effective.
+ 
+Nicholas Yang Secretary for Innovation and Technology
+The Government’s climate change target and plans will bring many beneﬁ ts to the community. I am sure district leaders will support these relevant initiatives, which will make Hong Kong a better place for all. 
+Lau Kong Wah Secretary for Home Affairs
+As an international ﬁ nancial centre, Hong Kong is well positioned to develop green ﬁ nance. We encourage our ﬁ nancial services sector to explore opportunities in green ﬁ nance. We are pleased to see that ﬁ nancial institutions are using our capital market to develop green ﬁ nancial business.
+Professor KC Chan Secretary for Financial Services and the Treasury
+
+[Page 6]
+Our next generations will bear the brunt of climate change risks. They will also be the ones to respond with innovative solutions. The Education Bureau holds a major competition for students to learn more about the subject, in a bid to strengthen their resilience against climate change. 
+Eddie Ng Secretary for Education
+Outdoor workers and low-income families are more vulnerable to the impacts of climate change, especially rising temperatures. We will work with employers, stakeholders and districts to see how best to prepare ourselves to cope with such risks. 
+Stephen Sui Acting Secretary for Labour and Welfare
+The business sector is becoming more and more aware of climate change and its impacts. 
+Industries have to see to it that energy efﬁ ciency is an integral part of their business considerations and the use of resources is optimized in daily operations. I welcome this trend. 
+Gregory So Secretary for Commerce and Economic Development
+To complement the concerted efforts of Government in tackling challenges brought about by climate change, we will make available learning resources for the civil service to keep them abreast of latest development in the global arena. With enhanced awareness, they could render support more readily towards making Hong Kong more climate-ready in the long run. 
+Clement Cheung Secretary for the Civil Service
+We have a good grasp of the climate change-related risks that could impact on the health of our people. We have a role in helping Hong Kong people to become more aware of those health risks, and for the community as a whole to prepare better. 
+Ko Wing-man Secretary for Food and Health
+We have worked successfully with the Central People’s Government for the Paris Agreement to be applied in the Hong Kong Special Administrative Region at the earliest opportunity. 
+Raymond Tam Secretary for Constitutional and Mainland Affairs
+MESSAGES FROM 
+THE PRINCIPAL OFFICIALS (continued)
+Our key task in climate change is to coordinate emergency preparedness. As the nature of climate risks change and become more intense, we will work with all relevant Government colleagues to ensure Hong Kong’s climate resilience is strengthened so that we can cope and recover as quickly as possible. 
+TK Lai Secretary for Security
+Development and environmental conservation are never mutually exclusive. The Development 
+Bureau and its departments are working on different fronts to enhance Hong Kong’s resilience in the face of climate change. The Hong Kong 2030+ study recommends the proactive enhancement of our development and environmental capacities, through strategic planning, to make Hong Kong more liveable and competitive for the sustainable development as the Asia’s world city. 
+Eric Ma Acting Secretary for Development
+
+[Page 7]
+ForewOrd
+T he Paris Agreement came into force in record time. It is unprecedented that a multilateral treaty received such resounding support from so many governments to make this happen in less than a year. This reﬂ ects the importance everyone attaches to climate change. The global task now is to embark upon actions to meet the terms of the 
+Paris Agreement.
+Under the leadership of the Chief Secretary for Administration, the whole Government has worked hard in the past year to review past efforts and to push ahead with a new carbon emissions reduction target for 2030 and action plans to meet the target. The Paris 
+Agreement requires us to review our actions every ﬁ ve years and adopt new actions. We believe the Paris Agreement provides the right momentum to stimulate governments to keep tracking efforts and pushing forward continuously. 
+Our new plans continue to phase down coal in local electricity generation, optimise the implementation of renewable energy, make our buildings and infrastructure more energy efﬁ cient, improve public transport and promote walking as a mobility means, strengthen the climate-readiness of the city as a whole, ‘cool’ the city through landscaping, and partner with stakeholders so that our community can be climate-resilient now and in the long-term. 
+Governments can make policies and we can commit to action plans but we need the people to be engaged. We are glad that many business leaders take climate change seriously as we need them to transform their companies to be climate-ready – a key aspect of which is to use natural resources much more efﬁ ciently. 
+The public too must participate. Each of us can choose to be more resource efﬁ cient – we can use less energy and water, don’t waste food, choose public transport, walk more and reduce our overall level of waste. Only then can we have a chance to meet the goals in the 
+Paris Agreement. Join me now in adopting a low carbon lifestyle.
+KS Wong
+Secretary for the Environment
+January 2017
+
+[Page 8]
+60%
+6570%
+2016
+2017
+2018
+20% 
+2014
+2030
+2020
+36%
+YEARS
+ENERGY 
+SAVING 
+PLAN
+For Hong Kong’s Built Environment 
+2015~2025+
+Environment Bureau in collaboration with 
+Development Bureau 
+Transport and Housing Bureau
+May 2015
+
+[Page 9]
+A
+Hong Kong
+Biodiversity 
+Strategy and 
+Action Plan
+2016-2021 
+Environment Bureau
+December 2016
+OFF
+24-26˚C
+4 mins
+COMMUNITY 
+CENTRE
+
+[Page 11]
+The Paris Agreement came into force on 4 November 
+2016, succeeding the 
+Kyoto Protocol. As decided by the Central People’s 
+Government, the Paris 
+Agreement applies to the Hong Kong Special 
+Administrative Region
+
+[Page 12]
+Multiple 
+CO-benefits
+LESS WASTE, 
+MORE SUSTAINABLE 
+EFFICIENT HOMES & 
+PRODUCTIVE OFFICES 
+GREEN LIFESTYLES, 
+GREEN JOBS , 
+HAPPIER PEOPLE
+LOW CARBON 
+TRANSPORT AND 
+MORE LEISURE 
+SPACES 
+RICHER BIODIVERSITY, 
+MORE CLIMATE RESILIENT
+CLEANER 
+ENVIRONMENT & 
+BETTER HEALTH
+While climate change is a very major challenge for the world, there are many opportunities for co-beneﬁ ts to be captured alongside climate mitigation and adaptation efforts. Hong Kong too can reap many qualitative beneﬁ ts, including liveability improvements.
+
+[Page 13]
+The Paris Agreement, an ambitious multilateral treaty agreed in December 2015, succeeds the 
+Kyoto Protocol that will expire in 2020. China formally signed it on Earth Day, 22 April 2016, and ratiﬁ ed it on 3 September 2016. The Paris 
+Agreement came into force on 4 November 2016. 
+The 2°C Target
+The key provisions of the Paris Agreement call for global actions to:
+• Achieve ‘peak’ greenhouse gas (GHG) emissions (referred to as carbon emissions hereinafter) as soon as possible and achieve a balance between carbon sources and sinks in the second half of the 21st century (i.e. to reach ‘carbon neutrality’ between 2051 and 2100); and
+• Keep global average temperature increase well below 2°C relative to pre-industrial levels and to pursue efforts to limit it to 1.5°C.
+Ratchet-up every 5 years
+Global actions are based on a “bottom-up” approach, where all the Parties must devise their own suitably ambitious “nationally determined contributions” (NDCs) with targets and timelines. 
+Each signatory must:
+• Prepare NDC every 5 years, and each successive 
+NDC to represent a progression beyond the previous one.
+Transparent implementation
+Since the Parties are all making efforts to meet their NDC obligations, the Paris Agreement requires action in the immediate years to:
+• Create a transparent mechanism to facilitate implementation of the Paris Agreement; 
+• Facilitate dialogue among the Parties on their collective efforts towards peak carbon and achieving the 1.5°C-2°C goal; and 
+• Conduct the ﬁ rst global stock-take in 2023, and every 5 years thereafter to assess collective progress.
+Collaboration
+The Paris Agreement also calls upon the Parties to cooperate with the private sector, civil society, ﬁ nancial institutions, cities and regions in order to mobilise stronger and more ambitious climate actions in the world. 
+China’s Nationally Determined 
+Contributions
+China’s nationally determined actions by 2030 include:
+• To achieve the peaking of carbon dioxide emissions around 2030 and making best efforts to peak early;
+• To lower carbon dioxide emissions per unit of 
+GDP by 60% to 65% from the 2005 level;
+• To increase the share of non-fossil fuels in primary energy consumption to around 20%; and
+• To increase the forest stock volume by around 4.5 billion cubic meters on the 2005 level.
+Moreover, China pledged to proactively adapt to climate change to defend against climate risks in key areas such as agriculture, forestry, water resources, ecologically vulnerable areas, as well as cities and coastal areas; and to strengthen early warning and emergency response systems and disaster prevention and reduction mechanism.
+Hong Kong has acceded to the Paris Agreement and will follow its reporting timeline. Hong 
+Kong has developed the 4Ts as its operational framework.
+
+[Page 14]
+Operationalising the Paris Agreement
+The Paris Agreement can be distilled into a simple framework that can be understood and operationalised for the Government, business and community. Setting targets with timelines, ensuring there are transparent metrics to track results, and for everyone to work together summarises the essential elements of what the Paris Agreement calls upon the world to do.
+Figure 1 
+Operational framework for 
+Hong Kong on climate change tional framework for ong on climate change
+4Ts 
+Timeline
+TARGETS
+TOGETHER
+TRANSPARENCY
+2016
+2017
+
+[Page 15]
+The Paris Agreement does not include international shipping and aviation. Climate change issues rest within the purview of the International Maritime Organization (IMO) and International Civil Aviation Organization (ICAO) respectively. IMO has already mandated energy efﬁ ciency design standards for new ships and associated operational energy efﬁ ciency measures for existing ships. In its most recent meetings in October 
+2016, IMO is working on requiring ships to record and report their fuel consumption as a starting point to consider how international shipping can be more fuel efﬁ cient. Moreover, deliberation is continuing on how the shipping industry may reduce carbon emissions, in line with a roadmap that was approved at the meeting 
+2017
+Hong Kong set new 2030 carbon target
+2019
+Update its plan (i.e. commit to further actions)
+Next climate action plan (i.e. commit to further actions)
+Figure 2 
+Timeline 2017-2030
+International shipping and aviation in October, with a view to adopting an initial IMO strategy in 2018. For aviation, ICAO decided in October 
+2016 to implement a Carbon Offset and Reduction 
+Scheme for International Aviation (CORSIA) as one of the measures to contribute to the carbon neutral growth from 2020 onwards. The scheme is expected to complement a broader package of measures to be implemented by the aviation sector including technological advancement on fuel efﬁ cient aircraft, improvement on operational procedures to reduce fuel consumption and promotion of the use of sustainable alternative fuels. 
+Hong Kong reviews its actions
+2020
+2024
+Hong Kong reviews its actions
+2025
+2029
+Hong Kong reviews its actions
+Next climate action plan (i.e. commit to further actions)
+2030 
+Hong Kong plays a part to help fulﬁ ll the obligations that China has under the Paris Agreement. As such, Hong 
+Kong will need to review our climate change efforts every 5 years and align them with the submission timelines under the Paris Agreement. The timeline for review up to 2030 for Hong 
+Kong is expected to be as follows:
+Paris 
+AgrEemEnt and Hong KonG
+
+[Page 16]
+Hong Kong will reduce its carbon intensity by 65% to 70% by 2030 using 2005 as the base 
+CARBON 
+EMISSIONS and Hong Kong
+
+[Page 17]
+Hong Kong’s 2030 Target
+Hong Kong will reduce its carbon intensity by 65% to 70% using 2005 as the base. While we are not ready at this stage to set a target beyond 2030, we can share some perspectives to further stimulate community discussion and action.
+This report will not repeat details on how we prepare and account for Hong Kong’s carbon emissions as these have been presented in the Hong Kong 
+Climate Change Report 2015.1
+Importance of peak carbon
+The Paris Agreement’s peak carbon goal and the 
+1.5°C-2°C target are based on sound science. The impact of 2°C would already result in increases in human mortality, extreme climate events, loss of biodiversity, decrease in food production in some regions of the world etc. Should global temperatures rise beyond that, the impacts would result in even greater increases in risks and vulnerabilities. 
+Since global carbon emissions is already on track such that the 2°C target will be exceeded, the Paris 
+Agreement aims to reduce emissions as quickly as possible through collective, concerted and sustained global efforts. To limit global warming to less than 
+2°C relative to the pre-industrial levels, the world will need to reduce absolute carbon emissions between 40% to 70% by 2050 and to achieve net zero emissions of CO2 and other GHG before 2100.2 
+Some jurisdictions, mainly developed countries and certain international cities, are broadly aiming to reduce their carbon emissions by 80% by 2050. 
+This may be referred to as the “80 x 50” midcentury decarbonisation challenge.
+China to ‘peak’ around 2030
+The Paris Agreement asks countries to move towards peaking as soon as possible. China, as a developing economy that is still expanding its energy generation and consumption, has pledged 
+Environment Bureau in collaboration with
+Development Bureau | Transport & Housing Bureau 
+Commerce & Economic Development Bureau | Food & Health Bureau | Security Bureau November 2015
+REPORT 2015
+HONG KONG
+We have set an ambitious carbon intensity target of 65% to 70% by 2030 using 2005 as the base, which is equivalent to 26% to 36% absolute reduction and a reduction to 3.3-3.8 tonnes on a per capita basis. 
+1. 
+Environment Bureau, Hong Kong Climate Change Report 2015, November 2015, 
+2. 
+Zero emission of CO2 should be achieved well before 2100 according to the 2˚C warming scenario and there should be negative emissions after 2080. The reference of absolute carbon emissions reduction between 40% to 70% by 2050 is relative to emissions in 2010.
+5060%
+6570%
+Base year 2005
+Figure 3 
+HONG KONG’s carbon INTENSITY targets for 
+2020 and 2030
+2030
+2020
+CARBON INTENSITY
+
+[Page 18]
+to achieve ‘peak carbon’ around 2030. The 
+Central People’s Government has also encouraged provinces and cities to ‘peak’ as soon as possible. 
+Hong Kong’s ‘peak carbon’
+Local electricity generation is by far the biggest contributor to carbon emissions making up about 
+70%. With rising population and economic growth, our emission levels have remained at around 4045 million tonnes of CO2-e in recent years. Hong 
+Kong’s emissions will peak by 2020 when we have more electricity generation from natural gas in our fuel mix. 
+Carbon intensity and absolute reduction
+Our current decarbonisation path will help us reduce our carbon intensity by around 50% by 
+2020 using 2005 as the base. This reduction would be equivalent to about 20% in absolute terms, which is substantial. Our 2030 target would take us to 65% to 70% carbon intensity reduction from the 
+2005 level, which equates to about 26% to 36% in absolute terms. Figure 4 shows the absolute carbon emissions reduction we expect in 2020 and 2030.
+In keeping with Hong Kong’s contribution towards the 2°C target, we would need to continue to substantially reduce our carbon emissions beyond 
+2030. Chapters 3 to 6 discuss in detail our decarbonisation efforts by 2030 on both the supply and demand-side of energy.
+Per capita carbon
+Carbon emissions may also be seen from a per capita basis. The per capita calculation is done by dividing the total carbon emissions with the population, which works out to around 6.2 tonnes for Hong Kong in 2014. 
+Given that global population in 2050 is projected to reach around 9 billion (7.5 billion in 2015), if the world is to do better than the 2°C target, it implies 
+Figure 4 
+HONG KONG’s expected absolute carbon emissions reduction and per capita carbon emissions level in 2020 and 2030
+20%
+26-36%
+2030
+PER CAPITA
+CARBON
+EMISSION
+2020
+2014
+3.3~3.8 tonnes <4.5 tonnes
+6.2 tonnes
+ABSOLUTE
+REDUCTION
+Base year 2005
+
+[Page 19]
+the per capita emissions for the world should average around 2 tonnes CO2-e. Our 2020 target will reduce 
+Hong Kong’s per capita contribution to less than 4.5 tonnes; and our 2030 target could reduce it further to about 3.3-3.8 tonnes. There would still be a way to go for Hong Kong to reach 2 tonnes per capita further into the future.
+Meeting the challenge beyond 2030
+It is extremely difﬁ cult to set speciﬁ c actions for 
+2050 at this stage as there are many uncertainties, including the development of innovation and technologies. What can be done today is to look at actions for 2030, where we can be more certain. 
+With the Paris Agreement’s stocktaking and ratchet mechanism, there is an obligation to consider and put forward new policies and actions every ﬁ ve years, the purpose for which is to enable continuous review towards achieving the 1.5°C-2°C target. 
+Cities and regions can use the Paris Agreement mechanism to shape their own plans towards 2050, which is what Hong Kong is doing. 
+No megacity has detailed strategies and plans yet for meeting the “80x50” challenge although a number of pioneering cities are beginning to work on how to develop long-term carbon reduction plans. What is obvious however is the magnitude of change that has to happen, which will require transformational systemic changes and also the development of new technologies, the timing for which is hard to predict at this stage. 
+Consumption-based emissions 
+Cities are large hubs of population and activities. The wealthier the city, the greater the consumption. For an externally-oriented economy like Hong Kong, most things need to be imported. The carbon emissions relating to the production and transportation of imported food, materials and products are external to the importing city. Higher income economies, such as ours, generally consume more and thus correlate with higher carbon emissions. Adjusting consumption demand can reduce carbon emissions.
+We have started to look into what sustainable consumption means for Hong Kong since it has an overall impact on global emissions. Our daily lifestyle choices – such as in clothing, food, overseas travel – involve many hidden and externalised carbon emissions. 
+Being more conscious about the resources we consume can help but this is a long journey for society to embark upon, and it would involve changing our choices. 
+While saving energy and water, reducing food waste and avoiding consuming endangered species etc have become somewhat familiar to Hong Kong people, we wish to see people commit ﬁ rmly to those efforts but there is much more we can all do each and every day. 
+The Council for Sustainable Development has already started to engage the public in 2016 on the sustainable consumption of biological resources. That exercise will not only promote public awareness but will also provide valuable insights for the Government to continue to shape public education, as well as our policies.      
+
+[Page 20]
+MiTiGating 
+Climate Change
+Electricity 
+GENERATION
+
+[Page 21]
+Our carbon reduction plan includes phasing down coal for electricity generation and replacing it with natural gas by 2030
+
+[Page 22]
+Hong Kong’s lack of indigenous primary energy resources means we must import energy and convert it into secondary energy to create electricity for ﬁ nal consumption. 
+Electricity accounts for about 55% of Hong Kong’s total annual energy-end-use. Our extreme high density, high-rise living and world-class business, ﬁ nancial, trading and logistics activities require highly reliable electricity that is safe, clean and affordable. Our carbon emissions reduction path must take into account Hong Kong’s speciﬁ c conditions to ensure strong functionality while achieving environmental sustainability. 
+Hong Kong began to import nuclear electricity from the Mainland in 1994, which resulted in air quality and carbon emissions improvements. Our current agreement to import nuclear electricity runs up until 
+2034. Thus, we will continue to have around 25% of our electricity coming from a carbon free source for the medium term. 
+This chapter deals with the supply-side of mitigating climate change with respect to local power generation by the two power companies, which represents the largest source of direct carbon emissions in Hong Kong. 
+Phase down coal by 2030
+Currently, about 70% of Hong Kong’s carbon emissions still come from electricity generation despite the decision in 1997 not to build new coal-ﬁ red electricity generating plants. The most appropriate and available large-scale replacement technology for Hong Kong is natural gas-ﬁ red electricity generation. The ﬁ rst gas-ﬁ red electricity generating plant was built in 1996, and today there are 10 such plants in Hong Kong providing 27% of electricity requirement in 2015. By around 2020, natural gas will generate about half of our electricity while coal will drop to about 25%. This will help us to achieve the target of 50% to 60% reduction in carbon intensity using 2005 as the base, equivalent to about 20% of absolute carbon emissions reduction as noted in Figure 4.
+Hong Kong will continue to phase down coal for electricity generation and use more natural gas and increase non-fossil fuel sources, which will enable Hong Kong to reduce carbon emissions signiﬁ cantly in the medium term, representing a very major commitment. 
+FIGURE 5 
+Reduction of coal in fuel mix for electricity generation 2015-2030
+Coal
+Natural Gas
+Non-fossil fuels
+2015
+48%
+27%
+25%
+2020
+50%
+25%
+25%
+2030 continue to phase down continue to increase continue to increase
+
+[Page 23]
+Electricity
+16%
+Transport
+Waste and others
+90%
+Buildings
+Figure 6 
+Electricity generation – largest source of local carbon emissions
+To meet our new carbon intensity reduction target of 
+65% to 70% by 2030, Hong Kong will phase down coal-ﬁ red electricity generation since coal is the most carbon-intensive fuel in our fuel mix. This means we will continue to phase down Hong Kong’s remaining coal plants as they reach their normal retirement life in the next decade and replace them with natural gas and non-fossil fuel sources as per Figure 5. 
+This is a very major commitment. While there is a signiﬁ cant ﬁ nancial cost of investing in a new ﬂ eet of gas plants and to promote renewable energy (RE), there are also signiﬁ cant air quality and public health beneﬁ ts, as well as climate change beneﬁ ts. 
+We plan on the basis that Hong Kong can afford to cover the cost and so reap the beneﬁ ts. It is vital that we have the support of the community as it will result in higher electricity tariffs. We will also need to work closely with the two power companies to transit away from coal.
+Secure supply-side sufﬁ ciency 
+We have to work with the two power companies to ensure they can secure adequate supplies of natural gas and have the infrastructure needed in the coming decade to handle very much larger quantities of natural gas. The power companies are exploring the feasibility of using an offshore liqueﬁ ed natural gas (LNG) terminal to bring LNG to Hong 
+Kong for regasiﬁ cation by a ﬂ oating unit. 
+Achieve supply-side efﬁ ciency
+We also want the new gas plants to be as energy efﬁ cient as possible. While our existing gas plants can achieve an efﬁ ciency of about 45%, the latest technology can achieve around 60% thermal efﬁ ciency. Our current coal plants have a thermal efﬁ ciency of about 37% on average. Thus, the new gas plants Hong Kong plans to build will be much more efﬁ cient.
+Achieving high efﬁ ciency is not only a function of the latest generation technology but also good management on a day-to-day basis for all the plants. 
+Thus, we encourage the two power companies to continue to invest in human resource training to ensure all the plants are functioning at optimal levels of efﬁ ciency. 
+While the power companies as public utilities should strive to be energy efﬁ cient, it is always useful to emphasise the overall importance of not wasting energy for the beneﬁ t of the present and future generations and protecting the earth.
+
+[Page 24]
+MiTiGating 
+Climate Change
+Increasing 
+Renewable 
+Energy
+
+[Page 25]
+Based on currently mature and commercially available technologies, we are ready to optimise the introduction of RE in a more systematic manner with the Government taking the lead
+
+[Page 26]
+Modest renewable potential 
+Hong Kong does not have favourable conditions for large-scale commercialised RE generation. Hong 
+Kong only has a land area of 1,106 sq km, much of which is hilly terrain. Our territorial waters are also limited. Nevertheless, we do have modest 
+RE potential. Based on currently mature and commercially available technologies, our estimate is that Hong Kong has about 3-4% of realisable 
+RE potential arising from wind, solar and waste-toenergy (WTE) that can be exploited between now and 2030. This estimate does not include options that have not yet been explored and possible nearer term technological advancement.We are ready to optimise the introduction of RE in a more systematic manner with the Government taking the lead. However, wind and solar power are not without challenge even though their technologies have advanced considerably. Firstly, although costs for 
+RE have dropped, they are still more expensive than conventional power. Secondly, electricity from wind turbines and photovoltaic (PV) cells are intermittent and its output is hard to predict when compared to conventional power sources. In the case of PV cells, they can only produce a limited amount of electricity during cloudy days, or where panels are occasionally shaded. In time, the technology for RE storage may enable large quantities of RE to be stored so that it can provide the reliability needed to power a city like 
+Hong Kong. 
+We will apply RE on a wider and larger scale in the immediate years ahead based on mature and commercially available technologies with the public sector taking the lead. We are also working to create the conditions to facilitate the private sector adopting RE, such as establishing feed-in tariff and RE certiﬁ cate systems. 
+In the longer-term, Hong Kong can consider adopting new technologies when they become commercially available.
+FIGURE 7 
+Hong Kong’s Realisable RE Potential up to 2030
+FIGURE 8 
+HONG KONG’s MAGNITUDE of electricity consumption
+1% 440 million kWh electricity used by ~90,000 households
+
+[Page 27]
+WTE technologies consist of waste treatment processes that produce energy in the form of electricity, heat, biogas, landﬁ ll gas or fuels from different waste sources. In other words, energy is a by-product of waste treatment. WTE technologies can be applied to sewage sludge and municipal solid waste (MSW) including food waste and waste cooking oils and fats. Hong Kong has already embarked on the path to capture as much as possible the energy derived from waste treatment.
+Implement more RE
+Our aim is to apply RE on a wider and larger scale in the immediate years ahead based on mature and commercially available technologies with the public sector taking the lead, and to create the conditions to enable the private sector to consider adopting RE. 
+In the longer-term, new technologies will become commercially available, which Hong Kong can consider and adopt where appropriate. 
+FIGURE 9 
+HONG KONG map of wind farms 
+Approximate location of offshore wind farms
+Hong Kong 
+Island
+Sai Kung
+Lamma 
+Island
+Basalt Is.
+Clearwater 
+Bay
+Ninepin 
+Group
+Estimated wind potential
+Currently, Hong Kong has a number of small wind projects, which together produce less than 1MW, the largest of which is an 800kW wind turbine on 
+Lamma Island operated by The Hongkong Electric 
+Company Limited (HEC) operational since 2006. 
+It has been assessed that Hong Kong has two possible off-shore sites suitable to develop wind power on a commercial scale. 
+Studies show that the site at South West Lamma can accommodate a 100MW capacity wind farm producing 175 gigawatt hour (GWh) of electricity annually. The other site at South East Ninepin can accommodate a 200MW wind farm. The combined cost would be well over HK$10 billion to provide less than 1.5% of Hong Kong’s total electricity consumed. This means electricity from wind will be considerably more expensive than from natural gas. 
+Nevertheless, we do not rule out the possibility of constructing these wind farms in the medium term.
+Lantau 
+Island
+New Territories
+
+[Page 28]
+Capturing more solar energy
+In total, the current cumulative PV installation capacity in Hong Kong is less than 5 MW. These are mainly relatively small projects, where PV panels and solar water heaters have been installed to generate RE. There are over 200 such projects in 
+Hong Kong, mainly at schools and on the rooftops of public sector buildings and facilities as a result of the Government taking the lead to encourage RE.3 
+These projects range from very small (under 
+10kW capacity) to modest-sized ones, such as the 350kW capacity at Electrical and Mechanical 
+Services Department (EMSD) Headquarters. The latter is connected to the grid and produces about 
+3% to 4% of the electricity consumption of the building. The two largest PV projects to date are the 
+1MW installation at HEC’s Lamma Power Station commissioned during 2010 and 2013, and Drainage 
+Services Department’s (DSD) new Solar Farm at Siu 
+Ho Wan Sewage Treatment Works, commissioned in December 2016 with an installed capacity of 
+1.1MW. The latter has the capability to supply about 
+25% of DSD’s electricity needs for the sewage treatment works there. 
+The electricity from all these solar generation projects have provided valuable lessons on implementing PV projects in Hong Kong. They are also improving local skills in installation, which will help to bring down cost. We are now ready to consider more and larger projects. Nevertheless, even with these new projects noted below and possible mechanisms to be introduced to promote distributed RE projects – for example, feed-in tariff – our current estimate is that only about 1% to 
+1.5% of Hong Kong’s total electricity need could be powered by solar by 2030. We may be able to revise this estimate in the coming years in light of technology advancement, cost reduction and the extent of uptake by the private sector in response to possible future initiatives to encourage the development of distributed RE.
+3. Environment Bureau, Energy Saving Plan for Hong Kong’s Built Environment 2015~2025+, May 2015, p. 42, 
+1% electricity consumption would need 
+3.6 km2 of space 
+FIGURE 11 
+SPACE NEEDED FOR PV TO GENERATE 1% of 
+HONG KONG’s electricity consumption about the size of
+Wanchai
+Eastern
+Central & 
+Western
+Southern
+1.5% electricity consumed in HK
+FIGURE 10 
+HONG KONG’s wind capacity (~660 million kWh)
+20 victoria parkS
+
+[Page 29]
+Government leadership
+The Government will continue to take the lead to adopt RE. Bureaux and Departments have put forward plans on where they can adopt RE on public sector infrastructure and facilities, as well as government buildings. 
+• Public infrastructure 
+Major opportunities rest with collaboration among 
+Departments at large public infrastructure, such as among Civil Engineering and Development 
+Department (CEDD), Highways Department (HyD), Water Supplies Department (WSD) and 
+DSD. Large energy users, such as WSD and 
+DSD, are particularly keen to generate more RE especially where they can use the energy since it helps them to lower their operational costs while enhancing sustainable development. For example, 
+DSD has the largest solar installation in Hong 
+Kong as well as a number of combined heat and power generation systems to capture solar and biomass energy respectively, and WSD has developed innovative small hydropower plants at its treatment works. 
+The following types of PV projects are being considered on public infrastructure:
+• Roofs or open areas of pumping stations and treatment works
+• Reservoirs
+• Rock slopes
+• Noise barriers
+• Roofs of covered footbridges and walkways
+• Roofs of public piers
+• Lights in parks, public housing etc.
+ 
+Solar hot water systems are also being implemented by Leisure and Cultural Services 
+Department (LCSD) for sports centres as these systems are technologically simple and cost effective. 
+Nevertheless, the potential for solar energy that can be realised by 2030 is not easy to estimate as the larger possibilities need to be trialled ﬁ rst in Hong Kong, such as ﬂ oating PV panels on reservoirs, and possibly on the rock face of the old Anderson Road Quarry. While these offer sizable RE potential, there may be public concerns about aesthetics or other reasons. 
+Feed-in tariff and RE Certificates
+One approach adopted in overseas jurisdictions to promote distributed RE is feed-in tariff. Such a system would encourage the private sector to consider investing in RE because the power generated could be sold to the power companies at a rate higher than the normal electricity tariff rate to cover the cost of generation. For cases where the generator of energy from larger-scale RE systems may not be able to use all the electricity generated, the project would only be workable ﬁ nancially if the surplus electricity could be sold to the power companies. At the same time, some regimes may opt to introduce RE certiﬁ cates so that buyers can claim their operation or activities are carbon-free. Depending on the design of the scheme, the premium paid for the certiﬁ cates (i.e. higher than the electricity tariff levels) could help to alleviate the overall tariff impact on all consumers brought about by the introduction of the feed-in tariff system. 
+We are exploring if feed-in tariff and RE certiﬁ cates could be introduced in the next Scheme of Control period with the power companies.
+
+[Page 30]
+Hydropower in Hong Kong
+The hydropower plant at Tuen Mun Water Treatment 
+Works (WTW) is an important RE project for WSD. 
+Developed in-house, WSD was able to design an innovative method to harvest the residual energy from the water pressure to generate electricity through installing hydropower generators at the inlet of the 
+WTW. The ﬁ rst stage of the project was completed in 2013. Upon completion of stage two in March 
+2017, the plant will be able to generate 3 million kWh of electricity annually for use by the treatment plant, saving around 10% of its electricity expenses. 
+In addition, WSD is installing a similar hydropower plant at the Sha Tin WTW, which is expected to be completed by 2018. WSD is also exploring the feasibility of installing hydropower generators at other waterworks where conditions are appropriate. 
+PV systems on buildings
+There have been various general studies on what may be the potential in Hong Kong of PV installation on buildings. However, there are constraints that are hard to estimate without looking at speciﬁ c buildings. 
+When evaluating an existing roof for PV installation, factors such as the load-carrying capacity of the deck and framing, the type of rooﬁ ng system and its gradient, the rooﬁ ng’s age and condition, building height, solar exposure and interblock shading, and the cost of installation and maintenance are all relevant. Moreover, the owners of buildings must also wish to put PV panels on their roofs. Beyond cost considerations, an owner may have other uses for their roofs, such as green rooﬁ ng or recreational uses. Alternatively, an owner may wish to invest in energy saving (such as those in Chapter 5), where they may consider the gains to be more immediately translatable into ﬁ nancial savings.
+As such, we wish to have a more speciﬁ c study on the potential for PV installation not only on rooftops but also on facades for future policy deliberation. 
+EMSD has commissioned a study taking into account the potential and the barriers and constraints identiﬁ ed. It will help Hong Kong to have a more in depth discussion, as the community will need to consider continuous enhancement under the Paris Agreement. 
+Tuen Mun Water Treatment Works generate 3 million kWh of electricity annually
+
+[Page 31]
+PV on reservoirs and rock slopes
+Over the past few years, ﬂ oating PV systems have been developed overseas on reservoirs. Apart from harvesting RE from the sun, the additional win-win beneﬁ ts of installing ﬂ oating PV systems include reducing water evaporation of reservoirs, suppressing algae growth, saving precious land resources and yielding a higher PV panel power generation efﬁ ciency.
+Hong Kong has drinking water and irrigation reservoirs although not all the surfaces would be suitable for 
+PV. Suitability would also need to take into account ecological consideration, as well as landscape aesthetics, since reservoirs are located in protected scenic areas. WSD has started to explore the potential for electricity generation from ﬂ oating PV systems on reservoirs by installing two small systems of 100 kW each on Shek Pik Reservoir and Plover Cove 
+Reservoir, both of which will be completed by 2017. 
+These projects will lay a solid foundation for the future development of ﬂ oating solar systems on reservoirs in 
+Hong Kong.
+CEDD is working on a comprehensive plan to develop the old Anderson Road Quarry site into an area where people can enjoy green and smart living after the quarry closes in 2017. There will be residential and commercial developments to accommodate about 
+25,000 people. 
+In this development, CEDD is also exploring the adoption of PV panels on the surface of the large scale rock slopes. Among other possibilities, the electricity so generated can support green features, such as grey water recycling and rainwater harvesting treatment facilities, being implemented within the site. 
+Public feedback would be important as the rock face can be seen from afar.
+Pilot ﬂ oating PV system at Shek Pik Reservoir (photomontage)
+Anderson Road Quarry Development site has potential for PV installations
+
+[Page 32]
+Waste-to-energy potential
+The energy generated as part of the waste treatment process can be captured and put to use. Hong 
+Kong is already on a committed path to turn waste into energy for the long-term.4 The energy arising from sludge treatment is already used and landﬁ ll gas usage is being expanded. Hong Kong also collects and produces biodiesel from waste cooking oils and fats. Energy will be captured from the ﬁ rst organic resources recovery centre scheduled to open towards the end of 2017, and a second plant is being planned for commissioning by 2021. A large-scale 
+WTE plant to treat general MSW is expected to be operational by 2024, which can supply about 480 
+GWh of surplus electricity each year that equates to the usage of about 100,000 households. 
+Thus, by 2024, the abovementioned projects are expected to provide about 1% of Hong Kong’s total electricity needs. By 2030, another 0.5% may be possible with new projects (such as more organic resources recovery centres) – i.e. a total of not more than 1.5% of Hong Kong’s total electricity needs may be derived from WTE projects.
+4. 
+5. 
+Environment Bureau, Energy Saving Plan for Hong Kong’s Built Environment 2015~2025+, May 2015, 
+PV on government buildings
+The Government has the largest number of PV installations as a result of RE promotion, which has resulted in a number of installations on public sector buildings and facilities. The Energy Saving Plan for 
+Hong Kong’s Built Environment 2015~2025+ (Energy 
+Saving Plan)5 provides the background to these efforts. Starting from April 2017, the Government will strengthen its guidelines for government buildings to:
+• upgrade the target of electricity consumption powered by RE in new schools and educational buildings from the existing 1% to 1.5%;
+• upgrade the RE target in new open space and public park projects from 15% of general public lighting to 25%;
+• require government buildings to allocate at least 
+10% of available roof space to incorporate RE technologies;
+• require existing government buildings undergoing major retroﬁ tting and/or renovation to incorporate 
+RE technologies wherever practicable; and
+• install display panels, where appropriate, to show the amount of RE generated at prominent locations in new schools and educational buildings, as well as open spaces and public parks to promote the concept of RE to the public.
+The PV installation in the APB Centre in Hung Hom (Existing building retroﬁ t)
+T • PARK Sewage Treatment Works
+
+[Page 33]
+Energy from sewage sludge treatment
+Currently, the largest WTE generator, T • PARK, was fully commissioned in April 2016. It reduces the volume of dewatered sewage sludge by 90% and the heat generated by the incineration process is used to provide electricity to meet on-site operational needs. 
+The surplus electricity is exported to the power grid for meeting the needs of up to 4,000 homes at maximum design throughput (2,000 tonnes of sludge per day), which is expected by 2030. The current quantity being treated per day is about 
+1,200 tonnes. 
+Apart from producing biogas from sewage sludge in four major sewage treatment works for supplying energy equivalent to some 32 
+GWh a year to help meet internal operational needs, we are also exploring the use of some existing sewage treatment facilities for food waste-sewage sludge anaerobic co-digestion as an additional part of the network for organic resource recovery treatment. We have started the preparation work for a co-digestion pilot plant at the Tai Po Sewage Treatment Works, which includes a food waste pre-treatment facility at the Shuen Wan Leachate Pre-treatment Plant next door to supply up to 50 tonnes per day of pre-treated food waste for co-digestion. The biogas produced will be converted into energy for internal usage at the sewage treatment works.
+RE adoption in the future
+Emerging technologies
+We will remain open to emerging technologies becoming mature and commercially viable in the coming years, such as PV glazing systems on buildings and energy storage battery, and seek to trial them as soon as practicable in the public sector and also encourage the private sector to do likewise.
+Regional opportunities
+The Mainland has very substantial plans to increase its RE generation capacity in the coming years. The 
+Mainland is increasing the share of non-fossil fuels (hydro, wind, solar and nuclear) in its energy mix to around 20% by 2030, and it is the world’s leading producer of RE, and also leads the world in clean energy investment. Guangdong Province also has RE potential. For example, it is estimated to have 14GW of exploitable on-shore and 11GW of off-shore wind power capacities, and it has targets set for 2020.6 
+6. 
+Renewable Energy World, China’s Guangdong Province Speeds Up Development of the Province’s Clean Energy Industry, 
+10 September 2015; Guangdong DRC’s information.
+Tai Po Sewage Treatment Works trials co-digestion
+
+[Page 34]
+Energy and Carbon 
+Efficiency IN
+Buildings and 
+Infrastructure
+
+[Page 35]
+Saving energy is not only possible but proﬁ table. 
+Energy saving is the most critical means for Hong 
+Kong to continuously reduce carbon emissions where there will also be an air quality beneﬁ t
+
+[Page 36]
+Energy and Carbon Efﬁ ciency 
+Saving energy is not only possible but proﬁ table. 
+Energy saving is the most critical means for Hong 
+Kong to continuously reduce carbon emissions where there will also be an air quality beneﬁ t. Design and technological development, good integrative management to save energy, and behaviour change make all the difference. Our ability to save energy may even help us to reduce our electricity generation capacity in the longer-term future. 
+Our Energy Saving Plan is the sister document to this chapter. It laid out an overall 40% energy intensity reduction target by 2025 using 2005 as the base. It represents the foundation from which we plan our energy saving work and from which we will stretch efforts to 2030 in carbon emissions terms. 
+This chapter covers the two major areas where 
+Hong Kong can save energy – in our public and private sector buildings; and also our infrastructure many of which are in the public sector.
+Energy Saving in Buildings
+The major source of carbon emissions in cities is the building sector. Hong Kong’s buildings account for about 90% of the city’s electricity usage. Over 
+60% of our carbon emissions are attributable to generating electricity for our buildings. Thus, achieving energy saving in the buildings sector is our primary target for the short-and-long-term. Our strategies include: 
+• Government taking the lead in public sector buildings;
+• Promote the ‘4Ts’ and work with stakeholders to energise continuous improvement; and
+• Stimulate a new energy efﬁ ciency market so that building owners can access the capital they need to invest in energy efﬁ ciency.
+New Buildings
+Our Energy Saving Plan already discussed the importance of promoting green buildings by means of tightening standards, promoting rating through the BEAM Plus system giving economic incentive to new buildings (through granting gross ﬂ oor area (GFA) concessions in development projects) and leading by example on the part of the Government for public sector buildings. Since 2010, over 880 projects with nearly 26 million square metres space were registered under BEAM Plus assessment, which represented about 40% of all new buildings completed up until September 2016. 
+ENERGY 
+SAVING 
+PLAN
+For Hong Kong’s Built Environment 
+2015~2025+
+Environment Bureau in collaboration with 
+Development Bureau 
+Transport and Housing Bureau
+May 2015
+Energy saving is important for all times. While we will continue to improve energy saving for new buildings, our main focus is on existing buildings and public infrastructure. Our 4T partnership with the major commercial and institutional building owners to upgrade existing buildings will also help stimulate a local energy efﬁ ciency market. Changing behaviour in energy use and management through partnership is also a priority.
+
+[Page 37]
+Use low carbon construction materials
+The construction industry consumes 40% of materials entering the global economy. The embodied carbon of construction materials used can contribute up to a signiﬁ cant portion of a building’s lifetime carbon footprint. It is thus important to minimise the carbon emissions through the prudent selection of low carbon construction products.
+The government-industry supported Construction 
+Industry Council (CIC) initiated the Carbon Labelling 
+Scheme for Construction Products to provide veriﬁ able and accurate information on the carbon footprint of construction products for the building design and construction sector. It currently covers four categories of carbon-intensive construction products: cement, reinforcing bars, structural steel and ready-mixed concrete. More product categories will be added.
+The Hong Kong Green Building Council (HKGBC) devised a locally-based labelling scheme – HKGBC 
+Green Product Accreditation and Standard (HK 
+G-PASS) – to certify environmentally-friendly building materials, products and building services components. 
+Since its launch in January 2015, HK G-PASS now covers 20 product categories to help stimulate the supply and demand of greener materials and products for the building sector. 
+At the same time, the Nano and Advanced Materials 
+Institute (NAMI) and others are working on a range of materials relevant to the construction sector that are energy efﬁ cient (See Chapter 9). 
+Hong Kong 
+Science Park 
+Phase 3 
+Sun-shading anti-glare – 
+Control direct solar radiation
+Footbridge with fritted glass tops & sun shading tensile - minimise solar heat gain and insulate western sun
+Sun shading anti glare
+Bamboo shading device
+Paving blocks made from recycled materials
+Energising 
+Kowloon East 
+Ofﬁ ce
+Interior green wall to enliven the interior space
+Ofﬁ ce of the Printing 
+Division, Government 
+Logistics Department
+
+[Page 38]
+As to the direction going forward for new buildings, 
+Development Bureau and Buildings Department (BD) will review the current arrangement where 
+BEAM Plus registration is a prerequisite for a project to be eligible to GFA concessions for its green and amenity features, with a view to promoting green building in the private sector.
+Existing Buildings
+Our key focus going forward is existing buildings, since these represent the majority of buildings where the potential for energy saving is very signiﬁ cant. 
+Figure 12 shows the electricity consumption of Hong 
+Kong by sector. With 65% of the electricity being consumed by the commercial sector, which includes government and institutional buildings, this is where we must focus our early attention. 
+Figure 12 
+Electricity consumption by sector, 2014
+Total
+158,147TJ
+Commercial 102,627 TJ 
+Residential 
+43,415 TJ
+Industrial 
+9,230 TJ
+Transport 
+2,875 TJ
+27%
+65%
+2%
+Commercial 
+Existing 
+Buildings
+Government buildings
+5%
+Schools & universities
+4%
+Hospital 
+Authority
+3%
+Airport 
+Authority
+1%
+Top 400 commercial buildings (common areas)
+11%
+Hotels
+4%
+MTR ofﬁ ces, depots and stations
+1%
+6%
+Public Sector 
+Existing 
+Buildings
+FIGURE 13 
+Percentage of electricity in commercial sector (includes government and institutional buildings) equivalent to 20% of total electricity use in Hong Kong
+Housing 
+Authority (common areas)
+
+[Page 39]
+Figure 13 further shows the electricity consumption shares of the major existing public sector and commercial buildings groups. Together, these buildings represent 30% of the electricity used in the commercial sector or about 20% of the total electricity consumed in Hong Kong. They are our primary targets for energy saving in the coming years.
+It makes sense for the Government and public sector to take the lead in energy saving in public sector existing buildings. Our efforts are combined with promoting green building since the two are intimately connected. We will study and consider how to do so.
+EMSD HQ Building, an adaptive reuse project completed in 2005, awarded BEAM Plus (Existing Buildings) Platinum in 2016
+
+[Page 40]
+Energy saving in government buildings and schools
+Government buildings use about 54% of the electricity that the Government consumes. The Government set a 5% electricity consumption reduction target for government buildings in 2015 to be achieved by 2020. The Government would allocate no less than $500 million for departments to implement electricity saving projects or procure energy saving equipment starting from 2017. Moreover, Architectural 
+Services Department (ArchSD) is considering how to combine energy saving potential at public schools with providing real-time data monitoring systems to students. Thus, such projects could include student participation to show how people’s behaviour could inﬂ uence energy saving.
+Kai Tak Fire Station, BEAM Plus (New Buildings) Platinum
+Redevelopment of Kowloon Junior School, BEAM Plus (New Buildings) Certiﬁ cation
+
+[Page 41]
+Existing Policies
+Going Forward by 2030
+Energy Audit
+Energy Audit Code (EAC) requires audit every 10 years for 4 types of building services installations of prescribed buildings
+Require more frequent audit for air conditioning system for major energy use buildings
+Benchmarking
+Buildings Energy Efﬁ ciency 
+Ordinance requires disclosure of Energy Utilization Index (EUI)
+Voluntary sharing of data moving to mandatory system
+Retro-commissioning
+No requirement and not a common practice yet
+Promote good practice in public sector buildings and co-learn with private sector and professionals
+Retrofitting
+EAC audit provides recommendations but no requirement to carry them out
+Promote recommendations to be carried out
+Green Building Standard
+A new BEAM Plus rating with the option of selective assessment in addition to comprehensive assessment has been developed for existing buildings
+Encourage building owners to consider using the new rating when retro-ﬁ tting buildings 
+Beyond Compliance
+Created ‘Dialogue Platform’ for public-private sector collaboration
+Continue to energise energy saving in existing buildings
+Review of Possible Pathways for Large Existing Building Strategies
+
+[Page 42]
+As noted in the Energy Saving Plan, the Secretary for the Environment created a Dialogue Platform to collaborate with the key stakeholders of the building sector. The ﬁ rst focus of attention has been the owners and managers of the commercial sector, which includes institutional buildings. This group of buildings consists of the heaviest electricity users (Figure 13). 
+Through several rounds of gatherings and information exchange with the Government and each other, a broad consensus has been reached for the building sector to partner under the voluntary 
+4T framework to reduce electricity consumption on an on-going basis. The partnership includes:
+• Setting energy saving targets according to a timeline that would eventually dovetail with that of the Paris Agreement reporting timeline (as per 
+Figure 2);
+• Carrying out building energy audits and implementing recommendations;
+• Conducting retro-commissioning periodically;
+• Procuring green products that would help to save energy;
+• Out-performing the Building Energy Code for new buildings and major retroﬁ t where possible; 
+• Applying BEAM Plus rating or equivalent for new and existing buildings; and 
+• Joining the Government’s Energy Saving Charter (see Chapter 9).
+The outcome of these energy saving efforts has also been agreed for both the public and private sector buildings. This will add transparency to the energy saving achievements of Hong Kong’s buildings. This partnership will be on-going and we welcome more stakeholders to join. While it is early days, we believe it has the potential to strengthen the capacity of Hong Kong to save energy. It will also enable building developers and managers to co-learn and share best practices, as well as professionals in building design, construction and management to upgrade their knowledge and skills continuously.
+4Ts and partnering with stakeholders
+Dialogue Platform with building sector, 23 April 2016
+
+[Page 43]
+4T partnership between 
+Government and Building Sector
+HONG KONG
+Government
+BUILDING 
+SECTOR
+Audit and implement energy management opportunities through retroﬁ t 
+Retro- commissioning
+Out-perform 
+Building Energy 
+Code (BEC) for new buildings
+Showcase 
+Green Building
+Green procurement
+Plan, set 
+Target and 
+TIMELINE
+YEARS
+TOGETHER
+TRANSPARENCY
+
+[Page 44]
+Stimulating an energy efficiency market for existing buildingS
+The Government is working on retro-commissioning and retroﬁ tting projects of government buildings. 
+Property developers and managers have also started to issue green bonds that include retroﬁ tting existing buildings (see Chapter 9). Moreover, the 
+4Ts partnership with public sector bodies, as well as with the private property sector will also help to stimulate energy efﬁ ciency market in the immediate years ahead. We believe that our partnership with 
+HKGBC and the built environment sector will take energy saving and building transformation for existing buildings from a secondary activity to being mainstream in the next decade.
+Moreover, in order to maximise the energy saving potential of existing buildings, we need to adopt a multi-faceted approach on the basis of a thorough cost-beneﬁ t analysis to determine the optimal combination of energy saving measures appropriate to each particular building. This can be achieved by the engagement of energy experts to compile and analyse energy data and to conduct energy assessment with a view to recommending a basket of appropriate energy saving measures, which may include retroﬁ tting, retro-commissioning and green management measures, etc. Retro-commissioning is a cost-effective systematic process to periodically check an existing building performance. The process identiﬁ es operational improvements that can save energy and thus lower energy bills. EMSD has commissioned a consultancy to develop technical guidelines on retro-commissioning, and engaged different providers to conduct pilot retro-commissioning for six existing government buildings. The technical guidelines on retrocommissioning are expected to be ﬁ nalised for publication in mid-2017, and the results of the pilot project for demonstration purposes will be released at the same time, which will be useful for our ongoing partnership with other organisations.
+
+[Page 45]
+Energy Saving in Infrastructure
+Figure 14 
+Electricity consumption of Government infrastructure, 2014-15 
+Water Supplies Department
+Drainage Services Department
+Highways Department
+Leisure and Cultural Services Department
+Other Departments
+53.8%
+20.8%
+16.5%
+5.9%
+3%
+Government infrastructure uses about 46% of all the electricity that the Government consumes. All relevant departments will work on improving their energy performance. 
+As could be seen from Figure 14, WSD and DSD use the largest portion of electricity among government infrastructure (almost 75%) because their services require constant pumping and thus need signiﬁ cant energy. As such, they have on-going plans to maximise energy efﬁ ciency in their treatment works and pumping stations, as well as to replace or renovate aged facilities with highly energy efﬁ cient ones and optimise their operations etc. Through saving energy and generating RE, as per Chapter 
+4, WSD and DSD can improve their overall energy performance and reduce their carbon footprint even as population increases. As for street lighting, with the development of LED technology, HyD can use low-tomedium wattage LED lights in appropriate parts of the public lighting system to save energy. Similarly, LCSD also plans to deploy available resources in phases to implement energy saving projects such as replacing mercury-halogen and discharge lamps with LED lights at the venues that it manages.
+Saving Energy in Sea Water 
+Supply for Flushing 
+Wah Fu Salt Water Pumping Station is the ﬁ rst salt water pumping station equipped with variable speed pumps in Hong Kong. Despite higher cost of equipment, variable speed pumping at this site can help optimise machine operation in accordance with the ﬂ uctuating demand and reduce the energy consumption up to 20%. 
+Salt Water Service Reservoir and the high level distribution system
+Wah Fu Salt Water Pumping Station
+
+[Page 46]
+Reducing energy in air-conditioning
+Among the various electricity uses, air-conditioning is the largest portion (about 30%) of consumption in hot and humid Hong Kong. Saving energy here makes a lot of difference to the ﬁ nal outcome. EMSD’s fresh water cooling tower scheme and the phased implementation of the district cooling system at Kai 
+Tak Development represent very major effort. 
+Fresh Water Cooling Towers (FWCT)
+Most existing commercial buildings use the traditional air-cooled air-conditioning systems. However, watercooled air-conditioning system is more energy efﬁ cient, using up to 20% less electricity even though it requires some water for cooling purpose. Since the launch of the FWCT Scheme in 2000, more than 
+2,000 new and replacement fresh water cooling tower projects have been completed by end-2016 resulting in an annual saving of 410 million kWh. The 
+Government will continue to promote the wider use of 
+FWCT, including an increase in designated areas for adoption of FWCTs. The number of designated areas has increased from 6 in 2000 to 114 as of 2016. 
+District Cooling Systems (DCS) 
+DCS is a centralised energy saving infrastructure. 
+It is 35% more efﬁ cient than the conventional aircooled air-conditioning system. The implementation of DCS at Kai Tak Development (KTD) to provide more energy efﬁ cient air-conditioning services for all non-domestic buildings is the ﬁ rst of its kind in Hong 
+Kong. The annual saving in electricity consumption upon completion is estimated to be 85 million kWh. 
+The Government is exploring the feasibility of proposed 
+DCS in a number of areas, namely the Topside 
+Development of Hong Kong Boundary Crossing 
+Facilities Island of the Hong Kong-Zhuhai-Macao 
+Bridge, Tung Chung New Town Extension, as well as 
+Kwu Tung North and other new development areas (NDAs).
+District Cooling System at Kai Tak Development
+District Cooling System
+Central 
+Chiller Plant
+Seawater Intake
+User buildings
+Underground water pipe network
+Heat 
+Exchangers
+
+[Page 47]
+Changing Behaviour and Energy Saving
+Buildings, equipment, electrical products and systems, including smart meters are operated by inhabitants of buildings. Promoting energy saving to them can have a major impact on the overall outcome. One of the most effective regulatory means is the Mandatory Energy Efﬁ ciency Labelling 
+Scheme (MEELS), which provides energy use information for the major electrical appliances. 
+People can choose to buy the more energy efﬁ cient products, while the Government continues to tighten standards of these products and to add more products to the scheme. 
+Beyond MEELS, we are partnering with businesses, social enterprises and non-proﬁ t organisations specialising in promoting energy saving services to ride on their expertise to extend awareness. Their innovative ways are being adopted by building developers and managers, institutional bodies and universities to help building inhabitants to reduce energy use.
+
+[Page 48]
+Lowering 
+Carbon Emissions and 
+Transportation
+
+[Page 49]
+Hong Kong has a welldeveloped public transport system with railway as its backbone. Going forward, we will facilitate walking as well as continue to provide a safe, efﬁ cient, reliable and environmentfriendly transport system with multi-modal choices that meets the community’s needs
+
+[Page 50]
+Proﬁ le of transport-related emissions 
+Carbon emissions from transport make up about 
+16% of the total emissions in Hong Kong. Figure 15 shows the transport sector energy end-use, which is aligned with their respective carbon emissions. The rail and tram systems are powered by electricity, while road vehicles are mostly powered by diesel, petrol and liqueﬁ ed petroleum gas (LPG), and ships are powered by marine diesel. 
+Hong Kong has a well-developed public transport system with railway as its backbone. The 
+Government’s aim is to provide a safe, efﬁ cient, reliable and environmentally-friendly transport system with multi-modal choices that meets the community’s needs. About 90% of Hong Kong’s daily passenger trips (about 12.6 million in number) are made by public transport. The proportion is amongst the highest in the world. Hong Kong’s public transport was ranked ﬁ rst among 84 cities in an international survey published in 2014. Hong 
+Kong’s levels transport-related emissions is also relatively low on a per capita basis.7 The Paris 
+Agreement reminds us that we must strive to do better still. 
+Better integrated planning 
+Whilst 90% of Hong Kong’s daily passenger trips are already by public transport, Hong Kong 2030+: 
+Towards a Planning Vision and Strategy Transcending 
+2030 (Hong Kong 2030+)8 proposes to reshape the travel pattern to reduce vehicle-based commuting needs through spatial planning. More employmentrelated uses would be planned in NDAs and outside of the main urban area to bring jobs closer to homes. 
+Our key actions include extending rail services, as well as improving all public transport services – including smarter road usage management – so that public transport remains the preferred choice of commuters and Hong Kong’s transport sector has a low level of transport-related emissions per capita. Our policy also includes improving the planning of and design for universal accessibility with unique connecting infrastructure suitable for the city’s vertical topography to enable more people to walk for short and medium distances. 
+Partnership with public transport operators, including the airport, to trial new technologies and reduce energy is also a top priority.
+7. 
+Arthur D Little, The Future of Urban Mobility 2.0, January 2014.
+8. 
+Hong Kong 2030+: Towards a Planning Vision and Strategy Transcending 2030 (Hong Kong 2030+) serves to guide future planning, land and infrastructure development and the shaping of the built environment of Hong Kong beyond 2030. A 6-month public engagement commenced 
+FIGURE 15 
+Transport sector energy end-uses, 2015
+Railway
+Goods vehicles
+Private cars and motorcycles
+Buses
+Taxis
+Others
+28%
+3%
+8%
+24%
+21%
+
+[Page 51]
+To keep Hong Kong’s per capita transport-related emissions on the low side, the Government will continue to improve public transport and facilitate daily walking for short and medium distances.
+Overall Aims
+Ensure public transport remains the preferred choice for the community
+Reshape travel patterns to minimise vehicle-based community needs and facilitate walking
+Improve trafﬁ c management systems to reduce congestion 
+Save energy where possible
+Partner with stakeholders and community to optimise overall gains
+Going Forward
+Expanding rail and better integration of urban planning, housing and transport
+Improving accessibility and connectivity for walking, and quality of urban footpaths and streetscapes
+Enhancing further the quality of public transport services
+Leveraging smart technology for better trafﬁ c management
+Fostering further a bicyclefriendly environment in suitable areas 
+Partnering with public transport operators to further improve operational efﬁ ciencies, trial greener vehicles, study the applicability of green ferry technologies, as well as save energy
+Facilitating the introduction of new automotive technology
+Strengthening enforcement against trafﬁ c congestion offences 
+Keeping Hong Kong’s per capita transport-related emissions low
+
+[Page 52]
+Rail as low-carbon public transport backbone in its railway assets to maintain service quality. The 
+MTRCL has a 99.9% on time record. To keep this level of service, it invested more than $7 billion in upgrading, renewing and maintaining its railway assets and infrastructure in 2015. A further $9.3 billion has been earmarked to replace signalling systems of seven railway lines and the ﬁ rst generation trains, which will also increase capacity and help to save energy, as well as minimise carbon emissions.
+Our railway network serves as the backbone of Hong 
+Kong’s low-carbon public transport network. The on-going investments to expand and extend rail-lines involve long-term planning and enormous expenditure, including overcoming many engineering challenges. 
+Serving more than 5 million rail passenger journeys per day in Hong Kong, the MTR Corporation Limited (MTRCL) has been making continuous investment 
+Extension of Admiralty Station involve many engineering challenges
+
+[Page 53]
+Homantin Station opened in October 2016 
+Moreover, population and activities would be planned within the catchments of public transport nodes, and walking and cycling are promoted to reduce vehiclebased travel, and hence carbon footprint. All in all, 
+Hong Kong 2030+ continues to pursue an integrated land use-transport-environment approach to promote more sustainable urban mobility with lower carbon emission. 
+9. 
+MTR Corporation Limited, Sustainability Report 2015
+Rail uses about 3% of Hong Kong’s total electricity consumption. The carbon emissions attributed to rail services in 2015 was about 994,316 tonnes CO2-e.9 
+The MTRCL has a target of 21% electricity intensity reduction to be achieved by 2020 compared with 
+2008, and will consider further targets in due course.
+The new rail lines MTRCL is building together with major enhancements to its existing networks are collectively creating ‘Rail Gen 2.0’ – a new era for rail travel in Hong Kong, which will beneﬁ t the community with enhanced connectivity and help drive economic and social development. 
+Railway Development Strategy 2014
+A well-planned railway network not only fulﬁ ls lowcarbon travel needs but also unleashes the potential for strategic development along the alignments. 
+New towns and railway expansion have a synergistic relationship that Hong Kong has exploited over the years. With the completion in due course of the seven new railway projects recommended under Railway 
+Development Strategy 2014, the rail share in public transport patronage will rise from the current around 
+40 % to some 45% to 50% of the total number of trips, with 75% of the population having convenient access to rail. There will be other socio-economic beneﬁ ts, including supporting land use development, improving connectivity across the city, creating jobs, reducing congestion and vehicular pollution, etc. 
+Enhance complementarity of public transport services 
+The Government’s Public Transport Strategy Study is examining the roles and positioning of various public transport services other than heavy rail so as to enhance the complementarity among them. The objective of the study is to provide more efﬁ cient, sustainable and well-coordinated public transport services to the travelling public.
+
+[Page 54]
+Public light buses (PLBs) 
+Currently, there are a total of 4,350 PLBs operating in Hong Kong. Over 70% of them are fuelled by LPG with the rest by diesel. LPG is a lower-carbon fuel than other hydrocarbons. The Government has been considering various measures to help improve PLB service. For instance, the Transport Department (TD) is considering newly registered green minibuses to have a half-step at the middle door so as to facilitate the elderly and passengers with minor mobility difﬁ culties. We have completed the priority study on PLB service and recommended increasing the maximum seating capacity of PLBs, which is currently at 16. Meanwhile, the Government is working with the trade to explore whether there are low-ﬂ oor wheelchair-accessible PLB models suitable for trial use in certain hospital routes in Hong Kong. 
+Keeping the tramway going with the times 
+Hong Kong Tramways’ 160-strong home-built electric tram ﬂ eet provides an important road transport means that complements rail and bus services on the north 
+Hong Kong Island corridor with the advantages of low fares, frequent and convenient at-grade stops and zero roadside emission. It carries on average 185,000 passengers daily and is the busiest tram line in the world. 
+In recent years, the operator has implemented various measures to ensure that the century-old service continues to improve. For example, Hong 
+Kong Tramways has replaced wood with aluminium to rebuild tram bodies to reduce weight and improve durability. It has improved energy efﬁ ciency signiﬁ cantly through replacing the traction system and introducing regenerative braking system; and improved tram track maintenance technology to reduce friction as well as noise. Furthermore, information technology is being used to optimise tram dispatching and disseminate arrival information through mobile platforms.
+Enhance the quality of public transport services 
+Hong Kong’s rail and franchised bus services are highly efﬁ cient and the operators are keen to enhance the travel experience. A positive experience is conducive to encouraging even more people to opt for public transport services, and is thus an important aspect of discouraging private car growth and usage. 
+Moreover, as it is not uncommon for passengers to make use of more than one transport modes in their journeys, the quality of modal interchanges plays another key role in encouraging the use of public transport. The facilities of the interchanges have improved over the years. The public transport operators have also been offering various interchange fare concessions to passengers. Currently, there are around some 450 bus-bus, bus-rail and green minibus-rail interchange schemes. The Government will continue to encourage public transport operators to enhance their quality of services.
+
+[Page 55]
+The Government’s policy goals are to reinvent the public realm into quality spaces and enhance the walkability, connectivity and universal accessibility of the city. Hong Kong 2030+ has embraced the concept of walkability in the planning and design of the built environment and pedestrian networks. 
+This concept will be adopted in projects at different planning levels. 
+Research shows that Hong Kong people walk a lot compared to residents of other cities, most of which is through walking to take transport.10 We have been putting in place various measures to encourage people to walk short and medium distances. 
+We are working on more projects to promote walkability. Building on the solid foundation laid by our past efforts, we will further promote walkability under the theme of “Walk in HK” in a new Transport and Housing 
+Bureau initiative to i. “Make it smart”, by providing user-friendly information on walking routes; ii. “Make it connected”, by enhancing our pedestrian networks; iii. “Make it enjoyable”, by making walking a pleasant experience; and iv. “Make it safe”, by providing a safe and quality pedestrian environment. 
+Our aim is to make walking an integral part of Hong 
+Kong as a sustainable city. 
+Universal accessibility programme 
+The Government is progressively enhancing barrierfree access facilities at public walkways (i.e. public footbridges, elevated walkways and pedestrian subways maintained by HyD) under the Universal 
+Accessibility Programme. Having completed more than 
+40 projects as at the end of 2016, the Government will press ahead with the remainder of about 160 projects in all 18 districts, including the three priority projects identiﬁ ed by each District Council (DC). From 
+December 2016, the Government has been inviting the 
+DCs to further nominate not more than three existing walkways in each district for the implementation in the next phase of the programme. The walkways eligible for consideration by the DCs will no longer be conﬁ ned to public walkways maintained by the HyD, provided that certain criteria are met.
+Lift installed at footbridge across Castle Peak Road near Nan Fung Centre, Tsuen Wan
+Lift installed at subway Across Tai Po Road near 
+Pei Ho Street in Sham Shui Po
+WalkABILITY, connectivity and accessibility 
+10. Study on Environment and Physical Activity, 
+The Lancet, 2 April 2016.
+
+[Page 56]
+Unique Hong Kong Innovation – 
+Urban Escalators 
+Hong Kong is hilly with heavy population on hillsides. 
+With the success of the Central Mid-Levels Escalator 
+Link commissioned in 1993, we have also built the 
+Centre Street Escalator Link on Hong Kong Island that together carry about 100,000 people every day. 
+The older Central Mid-Levels Escalator Link will be refurbished in phases starting from 2017. The new escalator link at Tsz Wan Shan will be fully completed by 2017. Construction works for one lift and pedestrian walkway system project commenced in December 
+2016 and two more will commence within the ﬁ rst half of 2017, whilst design studies and preliminary technical studies are being carried out in another seven projects, which will add substantially to the walking experience and improve accessibility for many people every day. 
+Western District Centre Street Escalator Link
+Central Mid-Levels Escalator Link
+
+[Page 57]
+At the same time, the harbourfront will also become increasingly accessible and connected. Walking will be more pleasant since strolling is a form of recreation, especially along the harbourfront where long promenades are being created. These efforts will minimise the need for mechanised transport over short and even medium distances and hence are zero-carbon choices.
+Harbourfront Promenades
+Tamar LED Lights
+Central Harbourfront
+West Kowloon Harbourfront Promenade
+
+[Page 58]
+Fanling
+Sha Tin
+Ma On 
+Shan
+Sheung Shui
+Yuen Long
+Tuen Mun
+Tin Shui 
+Wai
+Tsuen Wan
+Cycling where appropriate 
+There are extensive cycling opportunities in Hong 
+Kong although mainly for recreation, as cycling in the dense urban areas present safety challenges that cannot be easily resolved.
+New Territories Cycle Track Network
+Since 2009, the Government has been building in phases a tailor-made recreational cycle-track network in the New Territories to provide a continuous eastwest cycle track from Ma On Shan to Tsuen Wan with a total length of 82 km. The network comprises a backbone section from Ma On Shan to Tuen Mun (60 km) – of which the section from Ma On Shan to 
+FIGURE 16 
+Cycle Track Network in the New Territories
+Existing cycle tracks
+Proposed cycle tracks
+Urban footpath maintenance 
+HyD is gradually replacing concrete footpath with paving blocks when suitable opportunities arise. The carbon reduction from the difference in footpath design and materials used between 2017 and 2022 is about 480 tonnes annually. In addition, these more environmentally-friendly paving blocks also make it easier to maintain, which also results in annual carbon savings amounting to 4,600 tonnes per year. With 
+HyD’s continued replacement of concrete footpath with paving blocks, this additional carbon reduction will continue to improve by about 120 tonnes per annum between 2017 and 2022.
+
+[Page 59]
+Sheung Shui has been completed and the section from Sheung Shui to Tuen Mun is in progress. The section from Tuen Mun to Tsuen Wan (22 km) is being planned. 
+Cycling in new towns and NDAs 
+The Government’s policy is to foster a bicyclefriendly environment in new towns and NDAs, so as to promote cycling as a zero-carbon mode for short-distance commuting or leisure, and to reduce the use of mechanised means of transport. TD has commissioned a consultancy study and drawn up a list of about 900 sites in new towns for implementing improvement measures at cycle tracks. The ﬁ rst batch of improvement works for about 100 sites, which include additional bicycle parking spaces, safety enhancement at and extensions to existing cycle tracks, have started in 2016 in phases, with a target for completion in two years. Improvements will be on-going. 
+Controlling rate of private car growth 
+There are now over 578,000 (as at the end of July 
+2016) licensed private vehicles (i.e. private cars and motorcycles) in Hong Kong, accounting for 78% of the total vehicle ﬂ eet. The average annual growth rate of private vehicles over the past 20 years (1995 to 2014) was over 3%. The growth rate is affected by a variety of factors, such as population and household growth, 
+Hong Kong’s overall economic performance, vehicle and energy prices, currency ﬂ uctuations, public aspirations and the government’s ﬁ scal measures to curb vehicle growth, etc. The annual private vehicle growth rate from 2010 to 2015 has surged to about 5% and this is clearly unsustainable by any measure in terms of land requirements, supporting infrastructure, car parking facilities, added trafﬁ c and the consequential environmental and climate impacts. The Government has been adopting a multipronged approach in tackling road trafﬁ c congestion, namely improving transport infrastructure, enhancing public transport system and managing road use. The 
+Government has also undertaken to implement in phases the recommendations made by the Transport 
+Advisory Committee (TAC) in its earlier study report on road trafﬁ c congestion (including enforcement, ﬁ scal measures and road charging), having regard to stakeholders’ views, feasibility of available options and overseas experiences, etc.
+The Government also endeavours to promote green mobility, such as enhancing walking by improving connectivity and universal accessibility (see above) to reduce the reliance on vehicle-based transport mode.
+FIGURE 17 
+Average annual grow rates (1995-2014)
+0.78%
+1.65%
+POPULATION
+HOUSEHOLD
+3%
+PRIVATE
+VEHICLES
+
+[Page 60]
+Smart management of road usage 
+Hong Kong transport system is extensive and extremely busy. To maximise the utilisation of our limited road space through the application of innovative trafﬁ c management, TD has been developing the Intelligent Transport Systems (ITS) under a three-pronged approach, viz. for dissemination of trafﬁ c information to the public, for trafﬁ c control and for trafﬁ c enforcement support. 
+TD will continue to enhance effective road usage through the development of ITS. Various ITS has been in operation, for example, the Journey Time 
+Indication System, HKeRouting, HKeTransport and the mobile application “eTrafﬁ c News”. The MTRCL and the franchised bus companies will also continue to provide information through ‘smart’ means (see relevant sections below), which also forms a part of improving the overall travel experience for passengers.
+Electronic road pricing 
+Electronic road pricing (ERP) is an effective trafﬁ c management tool to tackle localised road trafﬁ c congestion by rationalising trafﬁ c through levying appropriate charges on vehicles following a “user pays” principle. The Transport and Housing Bureau completed a three-month public consultation exercise in March 2016 on an ERP pilot scheme in Central and its adjacent areas. An in-depth feasibility study will be conducted having regard to the comments received to develop detailed options of the pilot scheme to facilitate decision-making. 
+Partnering with public transport operators 
+Public transport services in Hong Kong are run by private operators on commercial principles to maximise efﬁ ciency and cost-effectiveness. The 
+Government has been working closely with the operators to ensure the provision of proper, efﬁ cient and reliable public transport services. 
+Energy saving and route rationalisation 
+All the operators have a direct interest in energy saving. The energy saving efforts of the MTRCL and franchised bus companies that have been described in Energy Saving Plan and will not be repeated here. 
+Bus route rationalisation is an ongoing task of TD. 
+Bus routes with persistently low patronage would be rationalised and resources so saved would be used to strengthen existing services with increased demand or introduce new services with a view to better utilising resources, enhancing bus network efﬁ ciency, alleviating trafﬁ c congestion and reducing roadside air pollution. Since 2013, TD and the franchised bus companies have been pursuing bus route rationalisation with greater vigour through the annual route planning programmes and taking an area approach (i.e. TD will consider the transport service package for a district/area in a holistic manner instead of by individual routes). This makes the bus service rationalisation proposals more beneﬁ cial to the district/area concerned from the trafﬁ c and environment angles in overall terms. Area approach rationalisation has been implemented in the North District, Tuen Mun, Yuen Long, Sha 
+Tin, Tsing Yi, Tai Po and Kowloon in the past few years. In tandem with the expansion of the railway network, road-based public transport services in the catchment area of new railway lines are reorganised to meet the changing demand. Route rationalisation, however, has not been easy. The Government will continue to canvass support from the community for rationalisation proposals.
+
+[Page 61]
+Hybrid bus
+New vehicle technologies USES AND TRIALS
+Electric bus brid bus
+Supercapacitor bus
+Electric light goods vehicles
+Electric taxi
+Hybrid light bus
+Hybrid light goods vehicles
+Hybrid light
+Hybrid medium goods vehicles
+S it
+
+[Page 62]
+Trial of new technologies
+Beyond energy saving, higher efﬁ ciency and lower carbon can be achieved by changing technology. 
+There have been trials with more environmentallyfriendly vehicle types in Hong Kong for franchised buses, PLBs and taxis. 
+The current franchised bus standard is Euro 5 and will change to Euro 6 by 2018. While there will be signiﬁ cant pollutant emissions reduction with 
+Euro 6, its fuel efﬁ ciency performance may only be similar to that for Euro 5. The Euro technology runs on diesel and is well-known to the operators in terms of its performance and operation cost. 
+Nevertheless, the Government and the franchised bus operators have embarked on a few trials of new technologies that can reduce or even eliminate roadside pollutant emissions and/or save energy. 
+We are partnering with the franchised bus operators to trial several types of new technologies. There are currently hybrid-electric (Euro 6 and electric) double-decked buses, as well as battery and super-capacitor single-decked buses on trial in 
+Hong Kong, where the purchase costs of the buses were covered by the Environmental Protection 
+Department (EPD). The purpose of the trial runs is to assess the operational efﬁ ciency and performance of the hybrid/electric buses under local conditions. The Government will need to assess the performance of the hybrid/electric buses as well as the operational and ﬁ nancial implications 
+Waterborne transport 
+Waterborne transport 
+Being surrounded by water and with sizable population living on the outlying islands, ferry services forms part of Hong Kong’s public transport system. 
+For some areas, there is no alternative land public transport. There are currently 14 franchised and licensed ferry operators running 21 regular passenger and goods ferry services and two cross-harbour services and trips to new towns and outlying islands. 
+Cross-boundary high-speed ferries to Macao and 
+Mainland ports are also important – in 2015, over 26 million travellers used those services. 
+Green ferries
+Green ferries are those adopting evolving technologies and/or new materials to lower their carbon emissions. 
+Examples of green ferries include those powered by natural gas, battery or hybrid propulsion systems, and those using techniques, such as light-weight materials, to save energy. Cross-boundary ferry operators are beginning to replace their ﬂ eet with new vessels made of carbon ﬁ bre, which are much lighter and therefore more energy efﬁ cient. By 2030, we expect there will be many such vessels serving regional routes. There will also be opportunities where we can work with service operators to study how new technology vessels work, which is also subject to availability of supporting facilities, such as refuelling or recharging facilities and pier design. Consideration would need to be given to the impact on the ﬁ nancial viability of ferry operators and whether subsidies would be needed.
+Diesel electric vessels
+The Government launched two diesel electric vessels in 2015 for transferring sewage sludge from the 
+Stonecutter Island Sewage Treatment works to 
+T • PARK in Tuen Mun. A trial to retroﬁ t a Star Ferry with diesel electric power system has been approved under the Pilot Green Transport Fund.
+
+[Page 63]
+HKIA’s CARBON MANAGEMENT PROGRAMME AND NEW TARGET
+On 3 November 2016, Airport Authority Hong Kong (AAHK) and 53 airport business partners committed to reduce airport-wide carbon intensity at Hong Kong 
+International Airport (HKIA) by 10% between 2016 and 
+2020 from a 2015 baseline. This pledge followed the achievement of a 25.6% reduction in carbon intensity between 2010 and 2015 by AAHK and 40 partners, surpassing the target, set in 2010, of 25%. 
+The airport community completed more than 400 initiatives to achieve this goal. A key project was the replacement of over 100,000 traditional lights with LEDs. 
+In addition to delivering signiﬁ cant carbon reductions, the replacement was supported by a strong business case; the total cost of ownership of LEDs has proven to be less than traditional lighting when maintenance and replacement costs are taken into account. As a result AAHK intends to replace a further 80,000 LEDs in Terminal 1 to further drive down energy costs and emissions. Other key carbon reduction measures either planned or implemented by AAHK and its partners include replacement and reconﬁ guration of cooling systems and the introduction of electric vehicles (EVs) and charging facilities, a re-commissioning programme to optimise the energy consumption of the Midﬁ eld Concourse and the conversion of apron high-mast lighting to LEDs. 
+AAHK is unique among operators worldwide in setting a carbon reduction target that includes the emissions of the majority of its business partners. AAHK takes this approach because some 60% of the airport’s emissions are generated by the partners. Choosing to address this larger airport-wide carbon footprint has enabled AAHK to accelerate the rate of carbon reductions at HKIA. At the heart of the programme is AAHK’s online carbon audit system. Designed to be both useful and easy to use, the system enables AAHK to gather key carbon data from participating partners and report collectively on the emissions for the whole airport. 
+A key outcome of this programme, which has earned 
+HKIA a host of local and international awards for carbon management and reporting, was that in 2013 HKIA became the ﬁ rst airport in Asia Paciﬁ c to receive the 
+Airport Carbon Accreditation “Optimization” certiﬁ cate from Airports Council International. Looking forward, AAHK will work with the participating partners to achieve the new target through engagement with senior management and technical teams, and by developing benchmarking and recognition schemes to identify and share best practices in carbon reduction.
+Airlines’ low carbon contributions
+Hong Kong-based carriers, Cathay Paciﬁ c and Cathay 
+Dragon, are investing in renewable fuel, whilst studying the possibility of producing such fuels in Hong Kong. The use of low carbon jet fuel will reduce carbon emissions at the global level and may also have local beneﬁ ts from the use of MSW and residues as the source of bio-jet fuel production.
+of their wider usage in Hong Kong before considering the way forward.
+Moreover, EVs require different types of infrastructure support for charging that present many challenges in Hong Kong, such as adequate land for charging facilities and road retroﬁ ts.
+EPD’s $300 million Pilot Green Transport Fund, setup in March 2011, is supporting the testing of green and innovative technologies for goods vehicles and the public transport sector. 
+The fund has subsidised light goods vehicles, PLBs and taxis to trial new technologies. The experience has not always been immediately positive. New technologies trials require the full support of the new vehicle manufacturers since all sorts of technical assessment and adjustments are needed, including replacing vehicles as a result of breakdowns. The vehicle owners need to be willing and available to deal with such inconveniences.
+
+[Page 65]
+Hong Kong has done substantial work on climate adaptation over the years although more will be needed going
+
+[Page 66]
+Building from a strong foundation
+As average global temperature has already increased by over 1°C from pre-industrial levels, the world has to adapt to the changing climate. 
+Moreover, global warming will continue before it could be arrested in the coming decades. This chapter deals with strengthening the city’s hard infrastructure in order to deal with extreme weather. 
+Hong Kong has done a substantial amount of adaptation work in light of the fact that we face tropical cyclones and rainstorms every year. We have the infrastructure and management systems to build upon in dealing with heavy rain, strong winds, landslides and ﬂ ooding. We have also begun to take high urban temperatures into account in planning the city and its infrastructure.
+The power utilities and the MTRCL are taking infrastructure resilience into account as they plan to protect their assets and operations from extreme weather. There is also close coordination with relevant government departments in the event of service disruption as a result of extreme weather for services to resume as soon as possible.
+Our Hong Kong Climate Change Report 2015 includes an extensive description of Hong Kong’s risks and vulnerabilities to extreme weather (including higher temperatures, which is also addressed in Chapter 9) and what have been done to date in climate adaptation. Those details will not be repeated here. This chapter articulates new efforts to strengthen infrastructure planning and management up until 2030.
+Improve planning and coordination
+Hong Kong 2030+ has proposed a smart, green and resilient city strategy framework. It highlighted that the threats of climate change to humans and the environment are pressing. Hong Kong’s climate- readiness should be enhanced, which calls for fundamental change in mindset, a comprehensive planning strategy for a low-carbon city, and actions for mitigation, adaptation and resilience. Concurrently, government departments are continuing to conduct a variety of studies that are relevant to adaptation decisionmaking. To enable the sharing of knowledge 
+While Hong Kong has a strong foundation in climate adaptation, we are improving the internal knowledge-sharing and coordination framework to strengthen public sector infrastructure and works programmes. We will strengthen the urban fabric and slope safety. We will also integrate drainage and ﬂ ood management projects with good landscaping so as to upgrade their amenity and biodiversity value. Furthermore, by reclaiming water, recycling grey water and harvesting rainwater plus implementing desalination, Hong Kong will increase its sources of water. We have started to consider how best to meet the challenge of sea level rise.
+
+[Page 67]
+Strengthening the urban fabric
+The Energy Saving Plan and Chapter 5 of this document provide a thorough discussion on Hong Kong’s effort to promote energy saving in buildings. The BEAM Plus rating system promotes green building in Hong Kong. 
+The new buildings built in recent years are on the whole more robust to withstand extreme weather. Moreover, 
+BD is formulating a new Code of Practice on Wind 
+Effects to update the current one, which has been in place since 2004, taking into account the possible increase in tropical cyclone intensity as a result of climate change. 
+To alleviate the urban heat island effect, to improve the urban climate and respond to climate change, we are incorporating urban climatic and air ventilation considerations in planning and urban design. Air ventilation assessments are carried out where necessary so that the impact of the proposed developments on the pedestrian wind environment can be minimised and improved. Moving a step further, the Hong Kong 
+Urban Climatic Planning Recommendation Map and the associated recommended measures provide more information on urban climatically valuable areas and problematic areas, as well as give a set of broad strategic planning actions with the overarching objective to improve urban thermal comfort and wind environment through optimising the planning and design of our city. 
+Hong Kong has a rapidly ageing building stock in large quantity, posing challenges for strengthening the urban fabric to better prepare for climate change. According to Hong Kong 2030+, it is estimated that there will be around 326,000 private housing units aged 70 years or above in 2046. Hong Kong 2030+ proposes to rejuvenate the urban fabric, and the community has to step up its urban regeneration efforts targeted at the dilapidated urban areas. 
+Building neglect has been a longstanding problem, especially for private residential buildings with fragmented ownership. As the building stock continues to age, their vulnerability to extreme weather will increase. BD enforces two mandatory schemes for building and window inspections with over 45,000 and 390,000 inspection notices issued respectively since the launch of the schemes in 2012. Since 2003, the Urban 
+Renewal Authority (URA) has also implemented various rehabilitation schemes through providing technical and ﬁ nancial assistance to owners of buildings aged 30 years or more for carrying out repairs works to the common areas of their buildings. Up until September 2016, the 
+URA has assisted about 3,700 building blocks to do such repair works. Going forward, the URA plans to assist about 250 applicants (estimated to be about 400 building blocks) to rehabilitate their buildings per year. 
+The six month public engagement on Hong Kong 2030+ that started in October 2016 is receiving views from the public, including built environment professionals, on how we can rise to the challenge of a rapidly ageing building stock, which will help the Government to consider what more can be done going forward in rejuvenating the urban fabric. 
+Existing building stock in need of maintenance and repair
+11. Members of the working group include CEDD, DSD, HyD, WSD, ArchSD and EMSD.
+and experience, and ensure efforts among works department are aligned, the interdepartmental 
+Climate Change Working Group on Infrastructure (CCWGI) was formed in June 2016 to oversee the revision of design standards; and examine the scope of enhancement works needed for strengthening the resilience of the existing infrastructure.11 A study will be done to determine the extent of enhancement necessary for existing critical infrastructures and implementation strategy. The CCWGI is currently focusing on the effects of increase in rainfall intensity, increase in extremely wet years, sea level rise, storm surge, and extreme temperatures. These new efforts will help enhance the adaptability and resilience of our existing and new infrastructural assets under the effects of climate change.
+
+[Page 68]
+Slope safety and climate change
+Hong Kong is a hilly city with large population living near hillsides. Natural terrain is particularly vulnerable to extreme rainfall events. Nevertheless, fatalities from landslides have dropped very signiﬁ cantly since the 
+1970s, as a result of the setting up of a comprehensive 
+Slope Safety System. Although it has been performing well and is internationally renowned, landslide risk can never be ’zero’. For example, the record-breaking rainstorm hitting Lantau Island on 7 June 2008 triggered widespread landslides in West Lantau. Under the inﬂ uence of climate change, extreme rainfall events will become more frequent and intense. There is an increasing chance of extreme weather that could cause serious landslide disasters with multiple fatalities and economic losses in our city.
+In recognition of the likelihood of more frequent and intense extreme rainfall events, CEDD Landslip 
+Prevention and Mitigation Programme, ﬁ rst established in 2010, deals with natural hillsides and man-made slopes. Creative mitigation solutions, such as creating a debris barrier to protect expressways, work well. 
+Studies and assessments are carried out periodically. 
+Design and mitigation guidelines are published. 
+Moreover, all government slopes are regularly maintained as slope maintenance is very effective in enhancing the resilience against slope failure to extreme short-duration intense rainfall. Guidelines and advisory services are provided to private slope owners who are responsible for slope maintenance on private property. 
+Widespread natural terrain landslides at Tai O under June 2008 rainstorm
+
+[Page 69]
+North Lantau Expressway paralysed by debris ﬂ ow during 
+June 2008 rainstorm
+A debris-resisting barrier protecting North Lantau Expressway, the major road-link to the airport, against debris ﬂ ow
+All government slopes are regularly maintained in enhancing the resilience against slope failure due to extreme short-duration intense rainfall. Guidelines and advisory services are provided to private slope owners who are responsible for slope maintenance on private property
+
+[Page 70]
+Capturing multiple benefits 
+Drainage Management and Flood Control through ‘Blue-Green Infrastructure’ Concept
+DSD is actively promoting the ‘Blue-Green 
+Infrastructure’ concept to improve the city’s ﬂ ood resilience. The concept, which resembles other similar concepts, such as ‘Water Sensitive Cities’, ‘Sustainable 
+Drainage System’, ‘Low Impact Development’ and ‘Sponge City’, aims to mimic the natural water cycle through inﬁ ltration, evaporation and transpiration to capture rain, control ﬂ ood and reuse stormwater. Thus, instead of funnelling rainwater to the sea, the city will be able to retain it for beneﬁ cial use. In developing projects, government departments are collaborating to increase water resources and create attractive ‘Blue-Green Infrastructure’ in managing drainage and ﬂ ooding, where landscape, biodiversity, connectivity and multifunctional beneﬁ ts are optimised.
+Proper drainage requires good planning and large infrastructure to intercept, store and discharge stormwater. DSD’s Drainage Master Plans (DMPs) are being updated in phases with due consideration of the prevailing climate projections of rainfall increase and sea level rise. The Reviews of the DMPs for Tai 
+Po (2013-2017); Sha Tin and Sai Kung (2013-2017); 
+Northern Hong Kong Island (2014-2018); and Lantau and Outlying Islands (2016-2018) are on-going. The 
+Reviews of DMP for Tuen Mun, Tsuen Wan and Kwai 
+Tsing, Tseung Kwan O, and Southern Hong Kong 
+Island will commence in phases in the coming years. 
+Since 1989, Hong Kong has spent over $25 billion on providing the city’s ﬂ ood prevention infrastructure. 
+Concept of Blue-Green Infrastructure 
+Wetland
+Retention lake
+Eco-river channel
+Green roof
+Rain garden
+Retention tank
+Porous pavement
+Water harvesting
+Bioswale
+
+[Page 71]
+New projects will optimise the multifunctional beneﬁ ts that are available, such as the completed Yuen Long 
+Bypass Floodway that enhances attractive landscapes and ecosystems for public enjoyment; and the ongoing stormwater storage project underneath Happy 
+Valley Recreation Ground that harvests groundwater and rainwater for irrigation and toilet ﬂ ushing. Going forward, there are TWO new climate adaptive approaches:
+• Plan for barrage scheme: DSD will investigate a barrage scheme in Yuen Long. This is a multifunctional project that is a ﬂ ood control scheme to alleviate ﬂ ooding in low-lying areas, turning the existing concrete-paved drainage channel into a pleasant blue-green corridor to enhance public amenity of Yuen Long town centre.
+• Extend sustainability for projects: With the success and popularity of the Yuen Long Bypass Floodway, 
+Ho Chung River and Lam Tsuen River, on-going revitalisation plans at Kai Tak River, Shenzhen 
+River, Tsui Ping River and Tung Chung River Park are adopting ecologically sensitive methods and designing connectivity for public enjoyment. Flood retention lakes are being planned at the Anderson 
+Road Quarry Development (also see Page 71), Yuen 
+Long South Development, Hung Shui Kiu NDA, all of which will serve multifunctional purposes.
+Water harvesting for irrigation at sport pitches at Happy Valley 
+Recreation Ground
+Kai Tak River revitalisation (photomontage)
+Constructed wetland at Yuen Long Bypass Floodway
+
+[Page 72]
+Hong Kong’s plan for water for the long-term is to strengthen our water security in light of changing rainfall patterns in South China as a whole through adding new sources of water, including seawater desalination and water recycling, and using water much more efﬁ ciently. 
+WSD and DSD have been collaborating closely to dovetail their efforts in order to maximise multifunctional outcomes. WSD promulgated the Total Water 
+Management Strategy (TWMS) in 2008 to contain water demand growth through water loss management and water conservation, and strengthening water supply management. TWMS is currently under review to introduce new measures to better prepare Hong Kong for climate change. 
+Multiple water sources
+We treasure the water that Hong Kong imports from the Mainland, which provides 70-80% of our fresh water needs. We also strive to increase our own water resources to become more water sufﬁ cient locally. We have been extending our seawater supply network for ﬂ ushing which now covers 85% of our population, hence saving precious fresh water resources. Our TWMS also aims to increase our water sources from 3 (local yield, imported water and seawater ﬂ ushing) to 6 through the addition of seawater desalination; water reclamation; and grey water reuse and rainwater harvesting (Figure 18). 
+Long-term planning for water security
+Figure 18 
+Moving towards a 6-pronged water supply structure
+Local 
+YiELD
+Seawater flushing dongjiang water
+Desalinated water reclaimed water recycled grey water & harvested rainwater
+EXISTING
+NEW
+Performing mains rehabilitation work in 
+Tolo Highway
+15-year replacement and rehabilitation programme of 3,000 km aged water mains - advanced trenchless technology was adopted to minimise disturbance to the public and trafﬁ c
+
+[Page 73]
+Anderson Road Quarry Development, photomontage image of proposed ﬂ ood lake which will serve not only as a recreational amenity but also as a rainwater harvesting facility
+From 3 taps to 6 taps
+Hong Kong already has projects to increase our water sources:
+• Desalination: We are currently carrying out the design of a desalination plant with an output capacity meeting 5% of Hong Kong’s overall fresh water demand. This may be expanded to 10% when the need arises. 
+• Water reclamation: The current target is to supply reclaimed water to the north-eastern part of New 
+Territories for non-potable uses, starting progressively with Sheung Shui and Fanling from 2022 onwards. 
+• Grey water reuse and rainwater harvesting: We are making wider reuse of grey water (water from bath, shower, wash basin, sinks etc.) and rainwater harvesting systems by installing them in new public sector projects. We currently have over 60 projects and will plan for more going forward, the most signiﬁ cant of which is to build a centralised grey water reuse system as part of the Anderson Road 
+Quarry Development project, which is estimated to be completed by 2024.
+
+[Page 74]
+Long-term planning for water security (continued)
+Minimising water loss and maximising local yield
+Apart from developing the 3 new water taps, we have two other key projects:
+• Minimise leakage through smart technology
+Minimise leakage through smart technology Through the completion of the 15-year programme to replace and rehabilitate 3,000 km of aged water mains, 
+Hong Kong has reduced water main leakage rate from over 25% in 2000 to 15% in 2015. We are now proceeding to implement a Water Intelligent Network (WIN) by installing sensors in the water distribution network to continuously monitor its conditions for timely detection and rectiﬁ cation of any problems and leakages (Figure 19). We plan to pilot the use of smart water meters and Automatic Meter Reading (AMR) 
+System to work in conjunction with WIN to help identify problems. Moreover, we are exploring the use of AMR coupled with mobile app to enhance consumers’ awareness of their water consumption on a timely basis thereby facilitating behavioural changes to save water. 
+We are also making efforts to facilitate stakeholders to properly maintain their underground inside services including detection and rectiﬁ cation of leaks in their private mains.
+ • Inter-reservoirs transfer scheme
+Inter-reservoirs transfer scheme
+To maximise local yield and alleviate ﬂ ooding risk, WSD and DSD are collaborating on an interreservoirs transfer scheme involving the transfer of surplus water from the Kowloon Group of Reservoirs to Lower Shing Mun Reservoir during heavy rain, and then conveyed to the Sha Tin WTW (Figure 20).
+Water conservation 
+There are many good opportunities for saving water. 
+WSD has been taking a multi-pronged approach of both software and hardware measures to promote water conservation. Public and sector-speciﬁ c education must be sustained on a long-term basis, and application of new technology will also help. The education efforts are noted in Chapter 9. 
+Figure 19 
+MinimiSing water loss through the implementation of WIN
+Figure 20 
+Inter-reservoirs transfer scheme
+Water distribution network divided into 2,000 District 
+Metering Areas (DMA) / Pressure 
+Management Areas (PMA)
+DMA
+PMA
+Monitoring and sensing equipment
+Determination of the most effective network management measures 
+Data 
+Collection
+Information 
+Analysis
+Insight
+Dashboard 
+Alarm
+Prioritisation
+Active leakage detection & control
+Pressure 
+Management
+Quality & 
+Speedy 
+Repair
+Reprovisioning of Water 
+Mains
+Intelligent Network Management System
+
+[Page 75]
+Sea level rise and coastal protection
+According to the latest Intergovernmental Panel on 
+Climate Change’s (IPCC) Fifth Assessment Report (AR5) published in September 2013 on climate science, it was predicted that climate change may raise sea level as much as 1 m globally towards end of the century and increase the threats of storm surges. Consequently, coastal areas could be subject to inundation or with increased frequency of ﬂ ooding due to storm surge. We will keep abreast of the latest science, including the speed of glacial melt in the 
+Arctic and Antarctic regions.
+Like all coastlines, Hong Kong’s coastal areas will be under increasing stress and become more and more vulnerable to sea level rise. In Hong Kong, with the exception of some low-lying areas, the risk of coastal inundation due solely to sea level rise is generally low, but more frequent ﬂ ooding brought about by storm surges during adverse weather will occur. 
+CEDD has commissioned studies to review the climate change effects based on the model outputs of AR5 and its implications on the design of coastal infrastructures. CEDD has already begun reviewing the current design standards in its Port Works Design 
+Manual.
+ 
+Beyond considering what might be a mid-term defensive approach to sea level rise, there are longer-term considerations that will need to be discussed in the coming years. There may be areas which should not be built on and even areas which a retreat in the future might have to be considered. Such considerations have wide social, ﬁ nancial and political implications. 
+19912000
+20312040
+20512060
+20912100
+20112020
+20712080
+1.2
+1.0
+0.8
+0.6
+0.4
+0.2
+0.0
+-0.2 m year range
+Observed
+High 
+Likely range (high)
+Medium-low
+Likely range (medium-low)
+Figure 21 
+PROJECTED CHANGES IN THE MEAN SEA LEVEL IN HONG KONG TO 2100 UNDER HIGH AND 
+MEDIUM-LOW GREENHOUSE GAS CONCENTRATION SCENARIOS (relative to the average of 1986 - 2005)
+
+[Page 77]
+The Paris Agreement recognises the critical importance of forests as carbon sinks and speciﬁ cally calls for protection of forests, as well as maintenance of ecosystems
+
+[Page 78]
+Protecting and enhancing ecosystems 
+Climate change is altering the frequency and intensity of disturbances to the natural environment. 
+Its effects include storms, droughts, wildﬁ res and insect outbreaks, which can damage ecosystems and biodiversity. Plants, especially trees, have enormous capability to absorb and store carbon from the atmosphere. In this sense, forests have an essential role in climate mitigation. At the same time, plants can help lower temperatures in urban areas. Slopes can remain stable and surface runoff can be improved through good watershed management. Coastal erosion and storm surge can be greatly reduced by maintaining the integrity of ecosystems, such as mangroves. Thus, there are also climate adaptation beneﬁ ts to be gained by protecting and enhancing ecosystems. 
+Multiple values 
+In addition to the environmental beneﬁ ts, natural and man-made landscapes have many socio-economic beneﬁ ts across ages, physiology and spectrum of society. Types of beneﬁ ts include therapeutic values that promote our mental and physical health and wellbeing; localised and organic food production; improved air and water quality; amelioration of noise and visual pollution; reduction of urban heat island effect and the development of more resilience in our way of life. These are now being factored into 
+Hong Kong’s urban planning and design. By 2030, there will be more country parks, marine parks and enriched urban forestry both big and small. Hong 
+Kong 2030+ has proposed an integrated green and blue assets system network for the territory.
+Conservation and biodiversity management
+Hong Kong has a hilly and rugged terrain, as well as a highly crenulated coastline with many offshore islands. Natural terrain covers about 60% of Hong 
+Kong total land area. Despite the small size of the city, Hong Kong has a good variety of natural habitats. Maintaining the integrity of the ecosystems is important to our overall climate-readiness. 
+The ﬁ rst Hong Kong Biodiversity Strategy and 
+Action Plan 2016-2021 (BSAP) published in 
+December 2016 provides an overview of Hong 
+Kong’s conservation plans over the next ﬁ ve years.12 
+Actions that are relevant to climate mitigation and adaptation in the 
+BSAP include: maintaining and enhancing protected areas, maintaining habitat connectivity for wildlife, promoting biodiversity in urban environment, promoting 
+Enhancing ecosystems and appropriate landscaping in urban areas can help to deal with climate change. We have plans to expand country and marine parks, as well as a long-term programme to promote urban forestry and ecology, which will also help to cool the city as temperature rises as a result of climate change.
+
+[Page 79]
+Enhancing biodiversity in country parks
+In the early stage of afforestation in the past, the planting strategy was to grow a large quantity of trees to cover barren hillsides in order to improve the landscape of countryside and to prevent soil erosion. Exotic tree species with hardy and fast-growing characteristics were used. Today, the afforestation plan focuses on enhancing ecological value so that reforested habitats can have higher biodiversity value through using native species, which offer fruits and nectar as food sources for local wildlife. About 80% of tree seedlings planted in country parks are native species. 
+Our country parks require active management. The 
+Agriculture, Fisheries and Conservation Department (AFCD) carries out post-planting maintenance (weeding, fertilising and pruning, etc) of seedlings planted in country parks. Since 2009, about 50 hectares of exotic plantations in country parks have been successfully enriched. About 60,000 tree seedlings comprising about 50 native species were inplanted in the various sites. In the coming years, AFCD plans to extend the forest enrichment areas.
+Elevated view of an exotic plantation for enrichment sustainable ﬁ sheries and agriculture, promoting conservation of target species, and conducting studies on climate change and ecosystem services.
+Forests and country parks
+Hong Kong’s original vegetation no longer exists as a result of centuries of deforestation and ﬁ re. 
+However, afforestation has been carried out since the 1870s. Today, about 70% of the city’s total land area is vegetated with forests (24%), shrubs and grassland. About 40% of the total land area is protected by law as country parks and special areas, and over two-thirds of the forests lie within country parks. 
+Hong Kong has 24 country parks and we are preparing to designate one more at Robin’s Nest. 
+The country parks are protected for their biodiversity and outdoor recreation value, and many of them also serve as part of the city’s water catchment system.
+
+[Page 80]
+Urban Forestry and Ecology
+With the leadership of the Greening, Landscape and 
+Tree Management Section (GLTMS) under Development 
+Bureau, the Government’s new initiatives include:
+• Formulating an urban forestry management strategy to optimise the provision of a diverse landscape during the planning, design and implementation stages of all public sector landscape related project;
+• Implementing the concept of ‘Place Ecology’13 in urban landscape design for public sector infrastructure projects to achieve multifunctional beneﬁ ts, such as those noted in Chapter 7;
+• Diversifying species mix and optimising the use of native species, when planning and carrying out replacement planting programmes. An example is the Acacia replacement programme being undertaken progressively by various relevant departments, in which senescent Acacia has been gradually replaced by native species; and
+• Promoting knowledge and experience among government departments, as well as with the private sector, so as to strengthen partnerships to maximise opportunities to create sustainable urban ecosystems and make Hong Kong more climate-ready.
+Enhancement of Vegetated Slope at Pui Man Street, KOWLOON CITY
+Replacement (2012)
+Original condition of senescent 
+Acacia trees
+Replacement and replanting works carried out on site
+The environment and ecological habitat are signiﬁ cantly improved by replacing the senescent Acacia with suitable plants
+Before (2011)
+After (2016)
+Before landscaping
+After landscaping
+Ko Shan Theatre New Wing
+Rooftop landscaping at Fu Shan Estate Wet 
+Market, Po Kong Village Rd, Hammer Hill
+13. Place ecology is the relations and interactions between places through a holistic integration of social, technological, environmental, economics and design of external landscapes that contribute to the overall place identity and sustainability of our urban environment.
+
+[Page 81]
+Urban forestry management
+While natural vegetation in our country parks and other areas cover a very large part of Hong Kong, we can also create forests in our urban areas. These urban landscapes provide important ecological linkages to our country parks along with the many beneﬁ ts such landscapes have to offer in an urban setting. The biodiversity enhancement approach for the country parks through planting native species is being adopted in the urban setting. The active creation of ‘Blue-Green Infrastructure’, described in Chapter 
+7, shows the importance of blue and green spaces in the city. They both have cooling effects, and they contribute to Hong Kong’s overall climate-readiness.
+Indeed, Environment Bureau and Development 
+Bureau – working together through AFCD and the 
+GLTMS respectively – see blue and green spaces holistically as the Government continues to plan and enhance Hong Kong’s overall liveability, biodiversity and climate-readiness. NDAs provide many opportunities for a more holistic approach to our landscape environment.
+Creating urban forests
+Urban forests can enrich our city landscapes and improve the local urban environments; contributing to a wide range of environmental and socioeconomic beneﬁ ts. Urban forests can also serve as ecological linkages with natural habitats in our countryside. Creating an urban forest is not an easy task and needs to carefully balance the life-cycle requirements of trees amidst our growing population in a dense and compact city. Not all locations will be suitable to plant trees and the lifespan of species will vary depending on a variety of urban environmental factors, such as access to sunlight, soil and air quality, and the interactions associated with growing in a city environment.
+Urban forestry provides the strategic framework for sustainable long-term management of our urban vegetation. It is designed to regulate and replenish our urban tree stock; maximise vegetation diversity from tree to herbaceous species; improve ecological health within our urban forestry assets; and foster a deeper understanding on the life-cycle of trees and vegetation in a city environment toward a more sustainable and resilient future.
+Sustainable farming and ﬁ sheries
+Hong Kong imports the majority of its food. An increase in local supply of food can help reduce reliance on imported food and the carbon footprint of our food consumption, albeit to a modest extent.
+The Management Agreement (MA) scheme has been implemented at the Long Valley area, a site widely recognised to be of high ecological value, by the Conservancy Association and the Hong 
+Kong Bird Watching Society since November 
+2005, to engage the local farming community in adopting sustainable eco-agricultural practices and conserving the habitat and associated biodiversity. 
+The eco-friendly produce grown by the Long Valley farmers are promoted and sold in local farmers’ 
+A demonstration ﬁ eld on organic farming in Tai Lung Experimental Station
+
+[Page 82]
+markets, which generates a reasonable ﬁ nancial return for the farmers, and provides excellent outreach opportunities for the promotion of sustainable agriculture to the general public. 
+Announced by the Government in early 2016, the 
+New Agriculture Policy (NAP) aims at promoting the modernisation and sustainable development of local agriculture, enhancing the productivity of local farms and encouraging agricultural rehabilitation of fallow farmland. The support measures under the NAP, including the Agricultural Park and a $500 million 
+Sustainable Agricultural Development Fund, will encourage the adoption of agro-technology in local farms and put our farmland resources for productive use, thereby increasing the agricultural outputs. 
+In addition, the Government has also established a $500 million Sustainable Fisheries Development 
+Fund to help ﬁ shermen switch to sustainable ﬁ sheries operations and contribute to enhancing the supply of local ﬁ sheries products.
+Long Valley, Sheung Shui
+The Government has banned trawling activities since the end of 2012. In addition, the Government restricts new entrants into the ﬁ shing industry through a registration system of ﬁ shing vessels, and encourages the development of local aquaculture to increase supply of cultured ﬁ shes. Fisheries 
+Protection Areas will be set up to protect important ﬁ sh nursery grounds in the Hong Kong waters. 
+These measures could relieve the pressure on marine ﬁ sheries and help conserve our ﬁ sheries resources in the long-run.
+The Long Valley area in Sheung Shui has a patchwork of wet agricultural habitats and is the largest freshwater wetland in Hong 
+Kong. Traditional crops such as paddy rice, water chestnut and Chinese arrowhead have been re-introduced here by the Management 
+Agreement project, alongside conventional crops such as leafy vegetables and fruit trees. The Management Agreement project is operated with funding support from the 
+Environment and Conservation Fund which was established with capital injection by the 
+Government.
+
+[Page 83]
+A more sustainable rooftop landscape
+Rooftop landscapes can help improve the urban environment in Hong Kong by lowering the urban heat island effect at roof level. Rooftop landscapes can also increase building insulation and energy efﬁ ciency. Government buildings have incorporated since 2001 the design of landscaped roof/terrace into new government building projects where practicable and will continue for the long-term. 
+Rooftop landscapes have also been adopted in many private sector buildings, especially new buildings scoring under the BEAM Plus system.
+Green roof of Hong Kong Wetland Park, Tin Shui Wai
+Rooftop landscapes range from sophisticated podia and sky gardens to simple planting in shallow growing medium. Moreover, soft landscaping and 
+PV panels can work in tandem to create innovative landscape environments. Indeed, PV systems work more efﬁ ciently when the ambient temperatures are lowered to below 25°C, which can be achieved more cost-effectively through soft landscaping. By being creative, PV panels also provide shade, which may expand the available species palette. Structural integrity of the building – especially the roof – is the foremost consideration to any rooftop landscape.
+
+[Page 87]
+Our assessment is that the city is reasonably well-prepared in terms of the physical risks brought about by severe weather events as we have a long history in dealing with building-up and strengthening our infrastructure
+
+[Page 88]
+Figure 22 
+Possible MAJOR CLIMATE CHANGE IMPACTS AFFECTING HONG KONG
+Biodiversity
+Built environment and physical infrastructure
+Business and industry
+Energy supply
+Greater stress to montane and freshwater ecosystems due to increase in surface temperatures and extreme weather; loss of intertidal habitats, such as coral reefs or mangroves due to sea-level rise; harsher growing environments; increased erosion and landscape degradation and change in species distribution and migration patterns
+Damage to building foundations; damage to utilities cables, pipes and assets; increase risk of rain penetration, ﬂ ooding and landslides due to heavy rain, storm surges, tree failures and extreme weather
+Higher maintenance and insurance costs due to extreme weather related damage; staff training to deal with extreme weather events
+Damage to power lines and other assets under extreme weather; higher energy demand due to increase in temperature and extreme weather; supply interruptions and power spikes
+Financial services
+Food resources
+Human health
+Water resources
+Direct and indirect risk related to telecommunications and computer system failure; changes in risk proﬁ le of individual business and investment; insurance sector exposed to higher extreme weather risks
+Lower availability of local/ regional food output as a result of extreme weather
+Aggravate chronic health condition; higher risk of thermal stress, exacerbation of asthma and heat stroke; more accidents and emergency situations; changes in transmission patterns of infectious diseases
+Change in rainfall pattern and rise of demand under higher temperature may affect local water resources 
+This chapter deals with Hong Kong’s preparedness in facing climate change. Our assessment is that the city is reasonably well-prepared in terms of the physical risks brought about by severe weather events up until the medium term because we have a long history in dealing with building-up and strengthening our infrastructure. Chapter 7 noted the areas for further consideration, such as sea level rise.
+Beyond hardware, the “software” of society is also critical and this is where everyone in Hong Kong has a role to play. After all, human behaviour, including our ability to learn and cooperate, determines how well the city as a whole deals with all kinds of challenges, including climate risks. Government plans require community participation. This chapter focuses on the societal side of the equation. 
+Climate resilience requires not only efforts in mitigation and adaptation but also in strengthening the social response to climate-related risks and emergencies. Filling knowledge gaps and creating an appropriate decision-making structure to implement the Paris Agreement within the Government are two critical aspects. Facilitating and encouraging dialogue among stakeholders, and continuing to promote public education about climate change are also priorities. Everyone in Hong Kong can make lower-carbon choices.
+
+[Page 89]
+Our Hong Kong Climate Change Report 2015 provides the foundation on how we see climate risks and vulnerabilities, and thus what actions we have to take to become more climate-resilient. We articulate some additional thoughts and plans in this chapter.
+It’s about ‘Together’
+To become more climate-resilient, Hong Kong must continuously ﬁ ll knowledge gaps, encourage innovation, build greater capacity to act, prepare better for emergencies, work with stakeholders, as well as raise public awareness.
+Filling knowledge gaps overtime
+The Government as a whole conducts a large number of research that are relevant to climate change. Funded by resources including the 
+Research Grants Council, Innovation and 
+Technology Fund (ITF) and Environment and 
+Conservation Fund (ECF), the universities and tertiary institutions, in many cases in cooperation with government departments, also do relevant research useful for policy-making and designing climate plans. Examples include energy supply, energy saving, green building, water efﬁ ciency, urban infrastructure, low-carbon materials, smart city, environmental protection, biodiversity, landscaping, waste reduction, WTE technologies, public health, climate change science and understanding the morphology of the city to enable urban planning and design to enhance air ﬂ ow and ventilation. The Government also participates in many climate relevant international forums, including the Conference of the Parties to the 
+United Nations Framework Convention on Climate 
+Change (UNFCCC), C40 Cities Climate Leadership 
+Group, Covenant of Mayors, Intergovernmental 
+Panel on Climate Change and Intergovernmental 
+Board on Climate Services. 
+Strengthen capacity to act
+Knowledge and experience has to be shared and used. Within the Government, the new interdepartmental CCWGI, noted in Chapter 7, can identify and ﬁ ll knowledge gaps, and apply new 
+Research partnership and filling knowledge gaps
+An example of the Government’s research partnerships is GLTMS new research and development framework on ‘Augmenting Liveability in Hong Kong’. 
+The topics cover place ecology, urban forestry and resilient landscapes with scales ranging from a bird’s eye level down to street level. It also considers changes over time. The framework is a collaborative endeavour across universities, Bureaux and 
+Departments, and industry sectors. The purpose is to facilitate knowledge-sharing and policy alignment for better outcomes. Furthermore, GLTMS is now working with the Polytechnic University of Hong Kong through their University-Government-Industry Consortium to expand the scope and outreach potential of this framework. As a founding member of the consortium, 
+GLTMS, along with Environment Bureau, can deepen partnerships across disciplines and sectors to support applied research and development that can help make 
+Hong Kong climate-ready.
+R+D Knowledge Sharing Augmenting Liveability in Hong Kong
+
+[Page 90]
+Encouraging Innovation
+The Government supports R&D projects via the ITF. In the past 5 ﬁ nancial years, the ITF has supported about 
+50 projects related to environmental technologies with funding of about $107 million. Many of them are related to energy saving and new energy. Examples include: 
+• NAMI developed an advanced thermal insulation coating material that can reduce thermal conduction through outdoor ceiling and building rooftop that helps to reduce energy consumption. 
+With the support of the Hong Kong Housing 
+Authority and CIC, NAMI has trialed it in several site ofﬁ ces, building rooftop and demonstrated that it could save 15% of electricity compared with other coating. The technology has already been licensed to a Hong Kong company for further development and commercialization.
+• The Automotive Parts and Accessory Systems 
+Research and Development Centre is actively developing technologies relating to EVs. In 2014, it developed a fast EV charger that signiﬁ cantly reduces the charging time of an average EV from a few hours to less than an hour. 
+• The Hong Kong University of Science and 
+Technology has developed an energy efﬁ cient absorption cooling system for buildings and industrial applications powered by RE, including solar energy.
+• The Hong Kong Research Institute of Textiles and 
+Apparel developed ﬁ bres for textiles using food waste that is bio-degradable. The invention was awarded a gold medal with jury’s commendation at the 44th International Exhibition of Inventions in 
+Geneva in 2016. 
+In addition, the Innovation and Technology 
+Commission promotes R&D on smart technologies that can help combat climate change through environmentally-friendly innovations. information and experience across departments. 
+Likewise, the experience of the Secretary for the 
+Environment’s internal Steering Committee on Green 
+Building, formed in 2013, is that it has absorbed knowledge from both government departments and external parties for better decision-making and strengthening partnerships with external bodies, such as the CIC and HKGBC. 
+Dialogue with private sector stakeholders
+Power generation and buildings are the two sectors where we have focused considerable efforts since they are most relevant to climate change mitigation. 
+Other key stakeholders operate the city’s public transport, including the airport and rail services. 
+Knowledge sharing with them is essential to improve our mitigation and adaptation efforts, thereby making Hong Kong as a whole more climateresilient. We are in regular dialogue with all of them.
+The Secretary for the Environment’s dialogue platform with building developers and managers, created in 2015 and noted in Chapter 5, has brought together the major private sector companies, public bodies and relevant organisations to build a new partnership to focus on achieving energy saving in existing buildings. Moreover, through our 5-yearly mandatory Air Quality 
+Objectives Review process, we are also in regular dialogue with stakeholders from the land and 
+Textiles made from conversion of food waste into polylactic acid ﬁ bre
+
+[Page 91]
+marine transportation sectors, where energy saving is a key topic of discussion as it contributes to both air pollution control and carbon emissions reduction.
+Prepare for emergencies
+Security Bureau has longstanding responsibility to coordinate emergency operations. Beyond that, the 
+Government has also focused on strengthening the response of speciﬁ c departments such as WSD’s drought contingency plan. We also feature the latest work by CEDD and Development Bureau in this report (see page 91).
+Different types of natural hazards could occur at the same time. For instance, a tropical cyclone could bring high winds, heavy downpour, as well as storm surge. The Interdepartmental Task Force on Emergency Preparedness, set up in October 
+2014 and led by Development Bureau, examines the potential impact of multiple hazards arising from extreme weather events. The Task Force is creating a GIS-enabled Common Operational 
+Picture to enhance the emergency information sharing and support mechanism for dealing with multiple hazards. This IT platform could provide a timely overall picture of emergency situations, which will greatly improve the situational awareness across relevant departments and facilitate decision-making and coordination of emergency response.
+Raise community awareness
+Climate change has become an active subject of discussion within the community. The ECF is available to fund non-proﬁ t projects to help raise community awareness related to climate change. 
+Many commercial, professional, academic and community bodies organise workshops and events related to climate change, where government departments are their partners. Hong Kong 
+Observatory (HKO) – the Government’s climate change science authority – studies and makes longterm projections about climate change impacts in 
+Hong Kong, and provides such information through its website.14 HKO also organises regular school and public talks, as well as other public education activities to promote climate change understanding, including a highly popular roving exhibition in 2016 developed in collaboration with other government departments and stakeholders. 
+Engagement of students in regular climate change talks
+
+[Page 92]
+PUBLIC CLINIC
+HOT
+Dealing with extreme heat in Hong Kong
+Generally, Hong Kong have more hot days and fewer cold days going forward. However, if the temperature targets set by the Paris Agreement are not met and a businessas-usual approach is continued under the high GHG scenario, HKO predicts that annual mean temperature will rise by 3°C to 6°C (relative to 1986 – 2005) by the end of this century. A statistical modelling study conducted by the Chinese University of Hong Kong found that an average 1°C increase in daily mean temperature above 28.2°C was associated with an estimated 1.8% increase in mortality.15 With higher temperature still, mortality rises even higher. The summer (June to 
+August) mean temperatures in 2014, 2015 and 2016 were all above 28.2°C.
+Human health is at greater risk when very hot days persist into multiday heat waves. High humidity and high temperatures present the greatest risk in causing heat-related illness and mortality. People suffer from heat stress when our bodies are unable to stay cool effectively. When both heat and humidity are high, it becomes harder to cool our bodies through sweating, which can lead to heat stroke. The risks are particularly 
+Observed
+High
+Medium-high
+Medium-low 
+Low 
+2000
+2040
+2060
+2100
+2020
+2080
+-1 ºC
+10-year average temperature anomaly year
+Mediumhigh
+Mediumlow
+Low likely range for 
+2091-2100
+Figure 23 
+Projected changes in the annual MEAN temperature of Hong Kong under different greenhouse gas concentration scenarios relative to 1986-2005 annual mean temperature in 2091-2100
+3˚C
+High
+15. Emily Chan et al, A study of intracity variation in temperature-related mortality and socioeconomic status among the Chinese population in 
+Hong Kong, Journal of Epidemiology and Community Health, April 2012.
+or
+
+[Page 93]
+COMMUNITY 
+CENTRE
+C signiﬁ cant for people who are already suffering from illness, the elderly whose health may already be weakened, and low-income people who live in extremely cramped and crowded conditions, such as in sub-divided ﬂ ats. People working outdoors, such as workers in construction, transportation, power supply, grounds maintenance, landscaping and waste collection are also at higher risk.
+While the Government will alert the general public on extremely hot days and provide relevant health advice, our air-conditioned community centres are also opened for temporary respite. Luckily, we have not had to face prolonged heat waves yet but going forward we will need to identify the groups most at risk, how to outreach to them and how they may be accommodated should there be prolonged periods of extremely hot days. 
+We will also need to focus on outdoor workers and business sectors to devise plans to help reduce risk for the workers on very hot days. Beyond taking rests and drinking more water to reduce the risk of dehydration, there may be a need to develop protocols to deal with heat-induced problems so that workers and their employers know how to keep workers safe from heat-related hazards.
+Enhancing Emergency 
+Preparedness for Landslides
+Extreme rainfall events could lead to serious landslides all over the territory. In light of this, CEDD has enhanced its emergency preparedness for dealing with severe landslide scenarios. The enhancements include setting-up the service continuity plan to maintain landslide emergency service operation under prolonged disruption of power supply or communication services in CEDD Headquarters. 
+CEDD has also stepped up public education to enhance community resilience against extreme landslide events. The booklet Natural Terrain Landslide 
+Hazards in Hong Kong, published in 2016, informs the public about landslide risks, forming the basis of longterm public awareness raising efforts.
+
+[Page 94]
+Climate change and financial services
+The Financial Secretary’s Budget Speech 20162017 referred to green ﬁ nance and stated that the 
+Government would strengthen efforts to publicise its competitive capital markets and highlight Hong 
+Kong’s edge in developing green ﬁ nancial products. 
+In May 2016, the Government’s advisory Financial 
+Services Development Council (FSDC) released the report Hong Kong as a Regional Green Finance 
+Hub.16 The report notes that Hong Kong has many unique advantages to act as the green ﬁ nance hub in 
+Asia. The report recommends, among other things, the Government and public-sector issuers to issue benchmark green bonds and to establish a green labelling scheme for projects and securities to attract issuers and new investors to Hong Kong.
+In July 2016, Link Asset Management Limited, as manager of Link Real Estate Investment Trust, announced the issue of a green bond of US$500 million at 2.875% ﬁ xed rate due 2026, which is the ﬁ rst green bond issue by a Hong Kong business enterprise and the ﬁ rst such issue by a property company in Asia. Proceeds from the bond are speciﬁ cally earmarked to fund Link’s Kowloon East ofﬁ ce project, a commercial project that will be built to BEAM Plus Platinum and LEED Platinum green building standards. In October 2016, the MTRCL issued its ﬁ rst US$600 million 10-year green bond at a rate of 2.5% to drive investment in service enhancement and environmental performance. 
+16. Government’s advisory Financial Services Development Council (FSDC), Hong Kong as a Regional Green Finance Hub 
+CARBON Emissions Trading – A national plan
+For the past few years, the Mainland has been piloting various carbon emissions trading schemes that are diverse in design and scope on a regional basis in order to learn from hands-on experience under China’s own conditions and in preparation for developing a nationwide cap-and-trade programme. 
+The national market is expected to cover multiple sectors, including power generation. The national authorities are expected to launch a national carbon emissions trading scheme in 2017. 
+The Central Policy Unit is supporting a research project to look at what role Hong Kong might play in emissions trading in light of the launch of the national scheme. The project involves studying the possible impact on different parties in Hong Kong, including the ﬁ nancial services opportunities that might be available to Hong Kong as a ﬁ nancial services hub. 
+The research has helped to raise awareness and it will also help the Government to consider what role Hong 
+Kong could play.
+Green Finance Forum co-organised by FSDC and HKU SPACE 
+Executive Academy, 7 November 2016
+Launch of FSDC’s report on green ﬁ nance, 24 May 2016
+
+[Page 95]
+Steering Committee on Climate Change
+Mainstreaming within the Government
+Environment Bureau plays the leading role in climate change policy within the Government and coordinates action plans among other Bureaux and Departments. 
+In 2015, Environment Bureau collaborated within the 
+Government and externally with key non-government stakeholders to prepare the Hong Kong Climate 
+Change Report 2015 for launch prior to the UNFCCC meeting that resulted in the Paris Agreement. 
+With the Paris Agreement concluded in December 
+2015, the Chief Executive called for the setting-up of a ministerial level Steering Committee on Climate 
+Change (SCCC) in his 2016 Policy Address led by the Chief Secretary for Administration. This was a major step in strengthening the Government’s overall policy and implementation capacity to meet the climate change challenge. The SCCC mechanism will likely continue and evolve from administration to administration.
+Under the guidance of the Chief Secretary for 
+Administration, Bureaux and Departments worked together over the course of 2016 to review previous work, set a new 2030 carbon intensity reduction target, and mapped out the strategy and the enhanced actions noted in this document. A large stakeholder engagement forum was held on 12 July 
+2016 to share and collect views.
+Environment Bureau will continue to play the climate change policy leadership role within the Government. The 
+SCCC governance structure can evolve to enable each successive administration to meet the 
+5-yearly stock-taking and ratchet requirements under the Paris 
+Agreement.
+Climate Change Engagement Forum, 12 July 2016 
+Environment Bureau in collaboration with
+Development Bureau | Transport & Housing Bureau 
+Commerce & Economic Development Bureau | Food & Health Bureau | Security Bureau November 2015
+REPORT 2015
+HONG KONG
+Launch of Hong Kong Climate Change Report 2015 in November 2015
+
+[Page 96]
+Energy Saving for all and for always
+EMSD makes continuous efforts to raise public awareness about the importance of energy saving and this work will continue to be important in the future. 
+Apart from its longstanding efforts to outreach to schools through exhibitions, talks, tours, competitions and providing published as well as on-line information to the public, EMSD’s Energy Saving Charter, ﬁ rst launched in 2012, aims to build closer partnership with business and community organisations, which dovetails with the 4Ts approach noted in previous chapters.
+The initial Energy Saving Charter campaign focused on inviting the building and property management sectors to pledge to reduce electricity consumption on air-conditioning during mid-summer by maintaining the indoor temperature at their premises between 
+24˚C and 26˚C. In 2016, the Energy Saving Charter was extended. Apart from maintaining the appropriate indoor temperature, the signatories are also required to pledge to switch off electrical appliances when they are not in use, and to procure energy efﬁ cient appliances, including electrical appliances with MEELS 
+Grade 1 Energy Label, so as to collaboratively reduce 
+Hong Kong’s total electricity consumption and carbon emissions. So far, over 3,300 participants have signed up for the Energy Saving Charter 2016. EMSD will continue to promote energy saving to other sectors in the future.
+EMSD has launched a “Energy Saving for All” website in 
+2015, which provides a portal platform for the general public to learn more about energy saving. More than 50 public organisations, academic institutions, professional groups, public utilities, chambers of commerce, think tanks and green groups have contributed diverse and practical information on energy savings, including energy tips, teaching kits, curricula, energy ﬁ gures, energy saving tips, energy saving competitions and events, as well as hyperlinks to websites of local and overseas organisations. This website will help to provide practical references and recommendations to the public to practise energy saving.
+One of EMSD’s new efforts – the Energy Saving 
+Championship Scheme – is proving to be popular. 
+It serves to commend organisations with excellent performance in energy saving through such means as adopting energy efﬁ cient technologies, optimising operation of energy consuming systems, and engaging their tenants/occupants in energy saving so as to encourage them and others to sustain good practices. The Scheme covers 5 categories, namely shopping malls, ofﬁ ce premises, housing estates and residential buildings, primary/ secondary schools and post-secondary education institutions.
+17. Energy Saving for All by Environment Bureau & Electrical and Mechanical Services Department, 
+Launch of Energy Saving for All 2016 Campaign, 20 June 2016
+
+[Page 97]
+Make every drop of water count
+WSD has on-going campaigns to raise public awareness about water conservation. In 2014, WSD launched the Let’s Save 10L Water campaign. Since the start of the 2015-16 school year, WSD has been running the “Cherish Water Campus” Education 
+Programme targeted at primary school students. 
+As of October 2016, the programme has attracted participation from over 200 schools. The next target is to develop an education kit for kindergarten. Its mascot, “Water Save Dave 滴惜仔” is proving to be highly popular. A Water Resources Education Centre is set for commissioning in 2018-19 to introduce more new initiatives and in-depth materials covering various aspects of water conservation and water resources to cater for a wider spectrum of visitors. 
+WSD has been promoting the use of water saving devices through a voluntary Water Efﬁ ciency Labelling 
+Scheme; and installing water-efﬁ cient devices and ﬂ ow controllers in public projects, including government buildings and public rental housing estates. The next step is to mandate the use of such devices. We are also drawing on successful overseas experience and exploring further initiatives to promote use of water saving devices.
+“Cherish Water Campus” Pledging Ceremony
+
+[Page 98]
+Don’t be a Big Waster
+One of the Government’s most successful public awareness campaigns is food waste reduction. The target is to reduce food waste by 40% sent to landﬁ ll by 2022. This requires everyone to reduce per capita food waste through their everyday actions. The food and hospitality sector can improve practices aimed at reducing food waste along the chain of their operations, while members of the public can be more judicious in how they consume food. The Food Wise Hong Kong campaign, started in 2013, created Big Waster to help raise public awareness, and Big Waster has become a beloved icon in Hong Kong. By the end of 2015, per capita food waste to landﬁ ll had dropped about 8%. By end-2017, Hong Kong’s ﬁ rst food waste-to-energy plant will be commissioned, with further plants being built and planned. 
+Continuing efforts will be made by EPD to strengthen food waste reduction through partnering with the food and hospitality sector, as well as others, such as schools and the general public to reduce food waste at source, and to separate food waste from other MSW so that it can be sent to the 
+WTE plants as more of them come on stream. 
+In addition to the original focus on reducing food waste, the Big Waster image has further been used to promote other waste reduction and recycling programmes. It has also been transformed into “Hanson” to promote energy saving and combating climate change as we roll out the 
+Climate Ready @HK Campaign, by appealing to people to jointly involve in low-carbon transformation in respect of clothing, food, living and travel. h further nned. en 
+Involving young people 
+The Education Bureau’s signature event for 2016-17 is the Inter-school Cross-curricular Project Competition on Climate Change, designed to enhance learning of primary and secondary students about climate change. The project has many partners comprising government departments, local universities, major school councils and NGOs. The competition aims to integrate creativity and technology, and is the ﬁ rst of its kind using science, technology, engineering and mathematics projects or different modes of projects that allows students to use spatial analysis and mapping tools to conduct research on climate change from micro to macro perspectives, so as to come up with innovative ideas on mitigation, adaptation and resilience strategies. 
+Launch of Inter-school Cross-curricular Project Competition on Climate 
+Change 2016-17, 25 October 2016
+
+[Page 99]
+It is with public support and by everyone working together that Hong Kong can become climate-
+
+[Page 100]
+Airport Authority Hong Kong
+AFCD 
+Agriculture, Fisheries and Conservation Department
+AMR 
+Automatic Meter Reading
+AR5 
+Fifth Assessment Report (of the Intergovernmental Panel on Climate Change)
+ArchSD 
+Architectural Services Department
+BD 
+Buildings Department 
+BEAM 
+Building Environmental Assessment Method
+BEC 
+Building Energy Code
+BSAP 
+Hong Kong Biodiversity Strategy and Action Plan 2016-2021
+CCWGI 
+Interdepartmental Climate Change Working Group on Infrastructure
+CEDD 
+Civil Engineering and Development Department
+CIC 
+Construction Industry Council
+DC 
+District Council
+DCS 
+District Cooling Systems 
+DMA 
+District Metering Areas
+DMPs 
+Drainage Master Plans
+DSD 
+Drainage Services Department
+EAC 
+Energy Audit Code
+ECF 
+Environment and Conservation Fund
+EMSD 
+Electrical and Mechanical Services Department
+EPD 
+Environmental Protection Department
+ERP 
+Electronic Road Pricing
+EUI 
+Energy Utilization Index
+EV 
+Electric Vehicle
+FSDC 
+Financial Services Development Council
+FWCT 
+Fresh Water Cooling Towers
+GFA 
+Gross Floor Area
+GHG 
+Greenhouse Gas
+GLTMS 
+Greening, Landscape and Tree Management Section 
+GWh gigawatt hour
+HEC 
+Hongkong Electric Company Limited
+HKO 
+Hong Kong Observatory
+HKGBC 
+Hong Kong Green Building Council
+HK G-PASS 
+HKGBC Green Product Accreditation and Standard
+HKIA 
+Hong Kong International Airport 
+ABBREVIATIONS
+
+[Page 101]
+Hong Kong 2030+ Hong Kong 2030+: Towards a Planning Vision and Strategy Transcending 2030
+HyD 
+Highways Department
+ICAO 
+International Civil Aviation Organisation
+IMO 
+International Maritime Organisation
+IPCC 
+Intergovernmental Panel on Climate Change
+ITF 
+Innovation and Technology Fund
+ITS 
+Intelligent Transport Systems
+KTD 
+Kai Tak Development
+LCSD 
+Leisure and Cultural Services Department
+LEED 
+Leadership in Energy and Environmental Design
+LNG 
+Liqueﬁ ed Natural Gas
+LPG 
+Liqueﬁ ed Petroleum Gas
+MA 
+Management Agreement
+MEELS 
+Mandatory Energy Efﬁ ciency Labelling Scheme
+MSW 
+Municipal Solid Waste
+MTRCL 
+MTR Corporation Limited
+NAMI 
+Nano and Advanced Materials Institute 
+NAP 
+New Agriculture Policy
+NB 
+New Building
+NDAs 
+New Development Areas
+NDC 
+Nationally Determined Contributions
+PLBs 
+Public Light Buses
+PMA 
+Pressure Management Areas
+PV 
+Photovoltaic
+RE 
+Renewable Energy
+SCCC 
+Steering Committee on Climate Change
+TAC 
+Transport Advisory Committee
+TD 
+Transport Department
+TWMS 
+Total Water Management Strategy
+UNFCCC 
+United Nations Framework Convention on Climate Change
+URA 
+Urban Renewal Authority
+WIN 
+Water Intelligent Network
+WSD 
+Water Supplies Department
+WTE 
+Waste-to-energy
+WTW 
+Water Treatment Works

@@ -1,0 +1,1453 @@
+[Page 1]
+BENGALURU CLIMATE ACTION AND RESILIENCE PLAN
+TOWARDS A NET ZERO 
+AND CLIMATE RESILIENT 
+BENGALURU
+Photo Credit: Praseeda Mukundan/WRI India
+GHG
+SUMMARY OF THE BENGALURU CLIMATE ACTION 
+AND RESILIENCE PLAN (BCAP)
+
+[Page 2]
+Thunderstorm
+Drought
+Air pollution
+GHG
+Stationary energy
+Transportation
+Waste
+Adaptation/
+Resilience
+Social inclusion
+Mitigation
+Green economy
+Public health
+Enhanced livability
+Energy & building
+Water
+Disaster management
+Air quality
+Coherence
+Ownership
+Monitoring
+Capacity
+Urban Planning, 
+Greening & 
+Biodiversity
+Governance
+Climate impact
+Climate hazard
+
+[Page 3]
+Forewords
+City Leaders’ Pledge for Climate Action 09 
+Messages 10
+Acknowledgements 12
+Vision
+1. Introduction
+2. Approach and Guiding Framework
+3. Climate Hazard Assessment
+4. Vulnerability and Risk Assessment
+5. Greenhouse Gas Emissions
+6. Future Emission Pathways
+7. Sectoral Priorities Framing of actions under BCAP I. Energy and Buildings II. Transportation III. Solid Waste IV. Air Quality V. Water, Wastewater and Storm Water VI. Urban Planning, Greening and Biodiversity VII. Disaster Management
+8. BCAP Governance
+9. Monitoring, Evaluation and Reporting of BCAP
+Way Forward 50
+Glossary 52
+References 54
+
+[Page 4]
+Fig-1: Administrative jurisdictions of Bengaluru
+Fig-2: Key milestones in BCAP preparation
+Fig-3: Built footprint evolution across Bengaluru (Between 
+1985-2019)
+Fig-4: Population of Bengaluru and the surrounding region
+Fig-5: Three-pronged approach for stakeholder consultations
+Fig-6: Approach to formulation of the BCAP
+Fig-7: Hazards identified for Bengaluru
+Fig-8: River valley system of Bengaluru and the adjoining region
+Fig-9: Flood risk zones in Bengaluru city
+Fig-10: Average land surface temperature of the built areas of Bengaluru city
+Fig-11: Change in groundwater recharge potential for 
+Bengaluru Metropolitan Region 
+Fig-12: Percentage change in projected air temperature based on RCP 4.5 for short and long-term epochs 
+LIST OF FIGURES & TABLES
+TABLES
+Table-1: Key findings from Bengaluru climate/environmental hazard assessment
+Table-2: Co-benefits of climate action 
+Fig-13: Percentage change in projected rainfall based on 
+RCP 4.5 for short-term and long-term epochs
+Fig-14: Parameters used for Vulnerability and Risk 
+Assessment
+Fig-15: Summarising order of priority based on hazard exposure - Surface flooding, urban heat and air pollution
+Fig-16: Order of priority based on sensitivity parameters
+Fig-17: Order of priority based on (lack of) adaptaive capacity
+Fig-18: GHG Baseline 2019 for Bengaluru (BBMP Area)
+Fig-19: Inventory of carbon sequestration by trees outside forests in Bengaluru (2001 - 2022)​
+Fig-20: Long-term GHG emission mitigation potential for 
+Bengaluru under different scenarios
+Fig-21: Sectors identified for BCAP action orientation
+Fig-22: Framing of actions for BCAP
+Fig-23: BCAP governance structure
+Fig-24: Components of the MER framework
+Fig-25: MER operational framework
+
+[Page 5]
+BENGALURU CLIMATE ACTION AND RESILIENCE PLAN
+LIST OF ABBREVIATIONS
+AQ: Air Quality
+BBMP: Bruhat Bengaluru Mahanagara Palike
+BCAP: Bengaluru Climate Action and Resilience Plan 
+CAC: Climate Action Cell
+CCRA: Climate Change Risk Assessment
+CCRA-VA: Climate Change Risk Assessment and 
+Vulnerability Assessment
+CHVA: Climate Hazard Vulnerability Assessment
+CIRIS: Cities Inventory Reporting and Information System
+CO2e: Carbon Dioxide Equivalent
+DM: Disaster Management
+E&B: Energy and Buildings sector
+FVA: Flood Vulnerable Areas
+GHG: Greenhouse Gases
+GPC: Global Protocol for Community-Scale Greenhouse Gas 
+Emission Inventories
+ICAP: Inclusive Climate Action Plan
+IEC: Information, Education and Communication
+IPCC: Intergovernmental Panel on Climate Change
+KSAPCC: Karnataka State Action Plan on Climate Change
+LST: Land Surface Temperature
+MER: Monitoring, Evaluation, Reporting
+NCAP: National Clean Air Programme
+NDC: Nationally Determined Contribution
+NMT: Non Motorised Transport
+PM: Particulate Matter
+PT: Public Transport
+RCP: Representative Concentration Pathway
+SWM: Solid Waste Management
+T: Transportation
+UPGBD: Urban Planning, Greening and Biodiversity
+W WW SW: Water, Wastewater and Stormwater
+WHO: World Health Organization
+WRI: World Resources Institute
+
+[Page 6]
+Shri D.K. Shivakumar 
+Bengaluru Development Minister and 
+Deputy Chief Minister, 
+Government of Karnataka
+Bengaluru, the capital of Karnataka and one of the fastest growing cities in India, holds a unique position in the country’s urban landscape. The city is one of the largest attractors of talent globally, with a strong innovation and startup ecosystem. Bengaluru, historically known as the Garden City of India, has gradually become the 
+Silicon Valley of India, being one of the largest hubs of Information Technology companies in the world. 
+While the city has been proactive in formulating progressive policies to manage its growth, it is not insulated from the perils of growth. The pressure of urbanisation has not only impacted the natural resources and ecological networks in the city-region, but its effect can be felt in the city’s liveability conditions. At the same time, the growing concern over climate change and its impact on cities has added a sense of urgency to our efforts to enhance Brand Bengaluru as one of the most liveable and inclusive cities in the world and a preferred investment destination. 
+The Government of Karnataka, together with Bruhat Bengaluru Mahanagara Palike (BBMP), in an effort to tackle these challenges and reiterate its commitment to the shared international goal to limit global warming and uphold the Paris Agreement as a member of the C40 cities, is pleased to put forward the first ever Bengaluru 
+Climate Action and Resilience Plan (BCAP). Developing an actionable roadmap to mitigate and adapt to climate change, and to build better resilience, is a priority of the government of Karnataka, and must be seen as a human development agenda. Over the next few years, the BCAP will be implemented as a multi-sectoral collaborative effort, drawing participation from various departments of the Government of Karnataka, civil society and the private sector. 
+Launching a roadmap for climate action for Bengaluru is a strategically significant step for the state of Karnataka. 
+With 1 in 7 persons in the state living in Bengaluru, and given the city’s forward and backward linkages in the state and national economy, the BCAP is going to positively impact not just the citizens of Bengaluru, but many more lives. I am confident that Bengaluru will emerge as a lighthouse not only for other cities in Karnataka and 
+India, but as a global example of inclusive climate action. 
+FOREWORD
+
+[Page 7]
+BENGALURU CLIMATE ACTION AND RESILIENCE PLAN
+BENGALURU CLIMATE ACTION AND RESILIENCE PLAN
+Smt. Vandita Sharma
+Chief Secretary to Government,
+Government of Karnataka
+FOREWORD
+As per the Intergovernmental Panel on Climate Change (IPCC) Sixth Assessment Report (AR6), with every increment in global warming, regional changes in the mean climate and extremes become more widespread and pronounced. Adverse impacts from climate change will continue to intensify in future. India’s updated Nationally 
+Determined Contribution (NDC) is a milestone in this effort, and seeks to enhance the country’s contributions towards strengthening the global response to the threat of climate change, as per the Paris Agreement. The 
+Government of Karnataka is committed to being a frontrunner in helping the country embark on low-emission and resilient pathways. Cities are the engines of economic growth, and it is high time that they take up the mantle. I am happy to see that Bengaluru is already championing this effort, with the Bengaluru Climate Action and Resilience Plan (BCAP). With the launch of the BCAP, it will become one of the few cities in the world, and the third in India, to have a global standard Climate Action Plan. 
+Spearheaded by the Bruhat Bengaluru Mahanagara Palike (BBMP), the BCAP is Bengaluru’s first data-driven, multi-stakeholder collaborative exercise to address its GHG mitigation and climate change adaptation challenges. The goals, targets and actions recommended by this plan provide clear pathways to achieve a net zero and climate-resilient Bengaluru. As it is the largest city of Karnataka, its plan is sure to provide a roadmap to other cities in the state to act against climate change. 
+For any plan to be successful it is imperative that all stakeholders take ownership. The successful implementation of the BCAP would require coordination and coherence amongst government departments, civil society organisations, NGOs, research organisations and, most importantly, citizens. With every actor playing their part in turning this plan into reality, I am optimistic that the city will transform its challenges into opportunities.
+
+[Page 8]
+Shri Rakesh Singh, IAS
+Additional Chief Secretary to Government,
+Urban Development Department,
+Government of Karnataka
+FOREWORD
+Climate change is one of the biggest challenges that cities are grappling with in the 21st century, and thus it must be addressed to achieve the mission of sustainable and inclusive urban development. With the successful adoption and launch of the Climate Action and Resilience Plan (BCAP), Bengaluru can become a model for other cities and towns in Karnataka to become climate-progressive. 
+Bengaluru is the largest of Karnataka's 10 municipal corporations. Therefore, the scale and complexity of the challenges it faces are mammoth. Apart from the Bruhat Bengaluru Mahanagara Palike (BBMP), there are multiple departments and agencies responsible for providing different types of services and planning for the city. These include the Bengaluru Electricity Supply Company Limited (BESCOM), Bangalore Water Supply and 
+Sewerage Board (BWSSB), Bengaluru Metropolitan Transport Corporation (BMTC), Bangalore Metro Rail 
+Corporation Limited (BMRCL), Bangalore Development Authority (BDA), and the Disaster Management 
+Department. Climate action is an agenda that cuts across sectors. The goals, targets, and actions for greenhouse gas mitigation and resilience-building set by the BCAP have been developed in consultation and consensus with all relevant agencies. It is now incumbent on us to deliver on the ambitious targets set by BCAP with the utmost sincerity. 
+The Urban Development Department of the Government of Karnataka is committed to supporting the BBMP and all other key stakeholder departments and agencies in implementing the BCAP with highest level of coordination and coherence. The momentous effort put in preparing the BCAP will only be realised on the ground when all the stakeholders working in and for Bengaluru align with each other. I hope this effort will set a precedent for other cities in Karnataka and the rest of the country in making cities plan and deliver on climate action commitments.
+
+[Page 9]
+BENGALURU CLIMATE ACTION AND RESILIENCE PLAN
+BENGALURU CLIMATE ACTION AND RESILIENCE PLAN
+Shri Tushar Girinath
+Chief Commissioner,
+Bruhat Bengaluru Mahanagara Palike
+Bengaluru, the capital of Karnataka and the fifth largest city in India, is among the handful of cities across the globe to decisively declare its commitment to tackle climate change. Bengaluru joined the C40 cities network in 
+2017, and is committed to contribute its fair share to limit warming to 1.5 degrees, while being equally committed to prepare itself to adapt to climate change impacts. The city is also the co-lead of the Global Air Quality Network. 
+By presenting the Bengaluru Climate Action and Resilience Plan (BCAP), we reaffirm the city’s commitment to fight climate change for Bengaluru’s citizens, for our country and, in the true spirit of a 21st century city, for the global community.
+The BCAP is not a mere document, but a firm step towards charting a roadmap for the city - informed by data, research, the best available knowledge practices and, most importantly, lived experiences. With this plan, 
+Bengaluru has embarked on an ambitious journey to reduce GHG emissions in line with the commitment given by the Govt of India to the United Nations Framework Convention on Climate Change. Our endeavour will be to achieve these long-term emission reduction targets by implementing BCAP actions within the framework of the relevant policies of the Govt of India. The BBMP will endeavour to actively pursue the policies and to contribute more to arrest the climate change. 
+An evaluation of BCAP goals and targets will be done every three years, based on insights provided by monitoring exercises described in the previous section. The goals and targets will be revised if required based on the evaluation exercise. The entire BCAP will be revisited every five years, based on updated evidence and progress on goals set.
+As we adopt and start the implementation of the BCAP, it is important to internalise the plan’s intent in letter and spirit, in the policies, processes and practices of planning, managing and governing the city. While the Bruhat 
+Bengaluru Mahanagara Palike, along with all the key departments of the Government of Karnataka working in and for the city, will lead the implementation of the plan from the front, the BCAP can only be a success with participation from and partnerships, which include citizens and civil society, knowledge institutions, and the private sector. With the adoption of the BCAP, Bengaluru takes yet another leap towards securing a healthy, safe, and resilient urban future for its citizens. 
+I thank C40 Cities and WRI India for their stewardship in developing the BCAP for Bengaluru.
+CITY LEADERS’ PLEDGE FOR CLIMATE ACTION
+
+[Page 10]
+Ms. Shruti Narayan,
+Regional Director, South and West Asia,
+C40 cities
+MESSAGE
+Bengaluru, the fifth most populous urban agglomeration in India, has been a C40 city since 2017, committing to accelerated climate action as a part of C40’s Leadership Standards. Integral to this, Bengaluru has now published its 
+Climate Action and Resilience Plan (BCAP) committing to playing its fair role in reducing carbon emissions, thereby setting a roadmap to becoming carbon neutral by 2050 aligned with the Paris Agreement and also contributing to 
+India’s NDCs and the target of carbon neutrality by 2070. 
+The Bengaluru Climate Action and Reslience Plan is data-driven based on a GHG inventory of 2019-2020, that sets clear yet achievable targets, of 16% by 2030, 26% by 2040 and 56% by 2050 and further endeavours to work towards achieving net zero by 2050 in line with the extended scenario (34% by 2030, 58% by 2040, and 91% reduction by 
+2050). This is an important milestone for Bengaluru and an inspiration for cities in the Global South, leading the way in demonstrating how political commitment and leadership bringing diverse stakeholders in the discussions, can result in an ambitious yet implementable climate action plan. 
+A critical component of the BCAP is to build resilience to immediate and future climate risks and address inclusive climate actions by putting health and economic recovery by creating jobs at the forefront. The BCAP has been developed on consensus, collaboration and coherence with national, state and city policies and actions. The Urban 
+Development Department, GoK and Bruhat Bengaluru Mahanagara Palike (BBMP), with strategic support from 
+WRI India and C40 Cities, have led from the front on many of these discussions and helped frame the key priorities that can enable this transition. We look forward to continuing our engagement with BBMP along with the State 
+Government and other institutions in the implementation and delivery of targets set out to create a Resilient and 
+Liveable Bengaluru.
+
+[Page 11]
+BENGALURU CLIMATE ACTION AND RESILIENCE PLAN
+BENGALURU CLIMATE ACTION AND RESILIENCE PLAN
+Ms. Jaya Dhindaw
+Director, WRI India Ross Center, and 
+Executive Program Director, Sustainable Cities, 
+WRI India
+MESSAGE 
+Bengaluru, one of the world’s largest innovation hubs, and fastest growing economies, is a favoured destination for investors and talent alike. In the phase of pandemic recovery, the city has been through a lot, given the hectic pace of growth and the continuous onslaught of extreme climate events. In this context, the Bengaluru Climate Action and 
+Resilience Plan (BCAP) provides a decisive and inclusive stance on climate action, training its lens on fore-fronting interconnected actions that are beneficial for people, nature and climate. 
+The BCAP is unprecedented because the solutions it suggests, to address Bengaluru’s vulnerabilities and strengthen climate resilient growth, are highly data and evidence-based. Furthermore, it also takes into account ground realities based on multiple deliberations with citizens and public agencies. 
+The Plan sets clear goals, targets, and actions across seven key sectors: Energy and buildings, transport, solid waste, water and wastewater, air quality, urban planning, greening and biodiversity, and disaster resilience. The recommendations offered in the Plan span institutional mechanisms and regulations, to infrastructure development, finance and capacity. The BCAP is a valuable opportunity to drive coherence across sectors and agencies towards delivering outcomes and impact on the ground. The plan interfaces with multiple disciplines and is therefore, wellequipped to inform policy and complementary action by a varied range of stakeholders to shape a liveable and thriving city. 
+As we focus on reducing emissions, inequities and restoring nature, there are reasons for optimism, as Bengaluru is only the third city in India with a climate action plan adhering to global standards and will play a pivotal role in 
+India’s transition towards climate proofing its citizens and economy.
+Climate-resilient, sustainable, well-planned urban development, reduces inequality, improves inclusion, and enables better quality of life, while respecting planetary boundaries. WRI India looks forward to supporting Bengaluru in achieving its goal of pursuing low-carbon, just, equitable and resilient growth, and safeguarding the future of 
+Bengalureans through collective climate-positive actions.
+
+[Page 12]
+ACKNOWLEDGEMENTS
+We sincerely thank the C40 Cities team for giving us the opportunity and guiding the city throughout the process of preparing the Bengaluru Climate Action and Resilience Plan (BCAP). We express our gratitude to 
+WRI India for supporting the Bruhat Bengaluru Mahanagara Palike as a knowledge partner in preparing the 
+BCAP since its inception and throughout its development and until the final approval stage. We thank all the stakeholder agencies, especially the nodal officers, who supported us with data, time, resources and suggestions. 
+We appreciate the support received from all the officials from BBMP, including its zonal and ward offices, who participated in the development of the BCAP. We thank all the experts, practitioners, and members of academia and civil society for their valuable time in making the preparation of the BCAP a multi-stakeholder consultative exercise. We express our gratitude to all the advisors and reviewers from C40 Cities and WRI India. Specifically, we would like to thank all the individuals, authors, the support teams and organisations listed below, for their unconditional support and contributions to the BCAP.
+Government of Karnataka
+Smt. Vandita Sharma, IAS, Chief Secretary
+Shri Rakesh Singh, IAS, Additional Chief Secretary to Government, Urban Development Department
+Bruhat Bengaluru Mahanagara Palike
+Shri Tushar Giri Nath, IAS, Chief Commissioner
+Dr. Harish Kumar K, IAS, Special Commissioner-Administration and Solid Waste Management
+Shri Basavaraj Kabade, Chief General Manager & Chief Engineer, BSWML; Nodal Officer of BCAP from BBMP 
+Dr. Rohini Balasubramanian, Nodal Officer (formerly associated)
+WRI India
+Project Coordinator
+Jaya Dhindaw, Director, WRI India Ross Center, and Executive Program Director, Sustainable Cities
+Authors
+Shrimoyee Bhattacharya, Program Lead - Urban Development 
+Praseeda Mukundan, Senior Program Research Associate - Urban Development
+Nanduri Prashanti, Senior Program Research Associate – Urban Development
+Chetan Venkataramana Naika, Senior Program Associate - Urban Development
+Sruthi Subbanna, Senior Program Research Associate - Urban Development
+Bhanu Khanna, Program Manager - Geo Analytics
+Radha Chanchani, Senior Manager - Urban Development 
+Dr. Priya Narayanan, Senior Program Manager - Urban Development
+Abhimanyu S, Program Associate - Geo Analytics
+Linda Regi, Program Associate - Geo Analytics
+Raj Bhagat Palanichamy, Senior Program Manager - Geo Analytics
+
+[Page 13]
+BENGALURU CLIMATE ACTION AND RESILIENCE PLAN
+BENGALURU CLIMATE ACTION AND RESILIENCE PLAN
+Contributors
+Deepak Krishnan, Deputy Director - Energy
+Sumedha Malaviya, Senior Manager - Energy
+Sahana Goswami, Senior Program Manager – Urban Water Resilience
+Rohan Rao, Program Lead - Electric Mobility
+Sudeept Maiti, Associate Program Director – Transport (formerly associated)
+Aloke Mukherjee, Manager - Transport
+Bhavay Sharma, Senior Program Manager - Air Quality
+Ajay Nagpure, Director - Air Quality (formerly associated)
+Bina Shetty, Program Head - Spatial Data and Data Analytics
+Jyoti, Program Associate - Geo Analytics
+Harsha K, Junior Program Associate - Geo Analytics
+Aditya Khare, Program Associate - Geo Analytics
+Sumedha Jain, Program Manager - Urban Development
+Design & Communications
+Rama Thoopal, Program Communications Lead
+Nileena S, Senior Communications Associate - Geo Analytics
+Safia Zahid, Communications Manager
+Abhinand Pulijala, Senior Program Communications Associate - Geo Analytics
+Anhad Imaan, Senior Program Communications Associate
+C40 Cities
+Shruti Narayan, Regional Director for South and West Asia Region
+Benjamin John, City Advisor, Chennai and Bengaluru
+Akshatha Venkatesha, Inclusive Climate Action City Adviser, Bengaluru
+Max Jamieson, Head of Climate Action Planning
+Ryan Green, Senior Technical Manager, Climate Action Planning
+Siyasanga Sauka, Head of Adaptation Planning
+Kirsty Griffin, Senior Technical Manager, Adaptation Planning
+Zoe Chafe, Technical Lead, Air Quality
+Helen Ho, Programme Manager, Air Quality Technical Assistance
+Toby Coombes, Project Manager, Air Quality Policy and Analysis
+Vivian Pun, Senior Technical Advisor, Air Quality and Health
+Surya Srinivas Boddu, Former Technical Advisor Air Quality Copy edited and proofed by Rama Thoopal and Uma Asher
+
+[Page 14]
+List of stakeholder departments/agencies consulted
+Bangalore Development Authority (BDA)
+Bangalore Electricity Supply Company Limited (BESCOM)
+Bangalore Water Supply & Sewerage Board (BWSSB)
+Bengaluru Metro Rail Corporation Limited (BMRCL)
+Bengaluru City Police
+Bengaluru Solid Waste Management Limited (BSWML)
+Bengaluru Traffic Police Department
+Bengaluru Metropolitan Transport Corporation (BMTC)
+Central Ground Water Board (CGWB)
+Commissionerate of Health and Family Welfare
+Department of Industries and Commerce
+Directorate of Urban Land Transport (DULT)
+District Disaster Management Authority (under Revenue Department) 
+Environmental Management and Policy Research Institute (EMPRI)
+GAIL (India) Limited 
+Ground Water Directorate (GWD)
+India Meteorological Department (IMD)
+Indian Institute of Science (IISc)
+Karnataka Biodiversity Board
+Karnataka Forest Department
+Karnataka Power Corporation Limited (KPCL) 
+Karnataka Power Transmission Corporation Limited (KPTCL)
+Karnataka Renewable Energy Development Limited (KREDL)
+Karnataka Solar Power Development Corporation Limited (KSPDCL)
+Karnataka State Pollution Control Board (KSPCB) 
+Karnataka State Remote Sensing Applications Centre (KSRSAC)
+Karnataka State Road Transport Corporation (KSRTC)
+Karnataka State Natural Disaster Monitoring Centre (KSNDMC)
+Karnataka Transport Department
+MSME Development Institute (DI)
+Petroleum Planning and Analysis Cell (PPAC)
+Power Company of Karnataka Limited (PCKL)
+Rail Infrastructure Development Company (Karnataka) Limited (KRIDE)
+The Energy & Resources Institute (TERI)
+Urban Development Department 
+Water Resource Department (WRD)
+
+[Page 15]
+BENGALURU CLIMATE ACTION AND RESILIENCE PLAN
+BENGALURU CLIMATE ACTION AND RESILIENCE PLAN ‘Urban systems are critical for achieving deep emissions reductions and advancing climate resilient development, particularly when this involves integrated planning that incorporates physical, natural and social infrastructure (high confidence).’
+The Bengaluru Climate Action and Resilience Plan (BCAP) foregrounds human wellbeing in the city’s fight against climate change through its commitment to tackle contributors and impact of climate change with equal priority, both of which have profound consequence on shaping Bengaluru’s transition to a future that is just, resilient, inclusive and equitable. 
+BCAP acknowledges that the window of opportunity for securing a livable future for Bengaluru is rapidly closing and the choices we make today will determine the choices we leave for future citizens of Bengaluru. BCAP sets ambitious goals for mitigating GHG emissions (in line with the commitment given by the Govt of India to the 
+United Nations Framework Convention on Climate Change) and enhance Bengaluru’s resilience by propelling adjustments in ecological, social or economic systems of the city in response to risks posed by climate change.
+BCAP acknowledges the 2070 net zero goal set by India's Nationally Determined Contributions. Bengaluru, as the hub of innovation and start-ups, with access to advanced knowledge and resources, and home to a thriving civil society, intends to lead the way by setting more ambitious targets and implementing innovative solutions to help achieve India's declared climate goals, and at the same time become an incubator of climate solutions which could be replicated by other cities. 
+Enshrining a three-pronged priority of human wellbeing, natural protection and economic growth, the pathways for achieving climate goals for the city are based on the following three pillars of success:​
+Consensus: Build informed conversation among all actors as a continuous process during preparation and implementation of BCAP and beyond .
+Collaboration: Catalyse radical partnerships with both state and non-state stakeholders for implementation of actions
+Coherence: Ensure interdependencies of policies, plans, processes and practices are well-addressed to ensure sustainability of actions.
+We believe that BCAP will provide a much-needed climate-progressive roadmap for Bengaluru. 
+VISION: TOWARDS A NET ZERO AND 
+CLIMATE RESILIENT BENGALURU
+Synthesis Report of the IPCC Sixth Assessment Report (AR6), 2023​
+
+[Page 16]
+INTRODUCTION 
+Figure 2 | Key milestones in BCAP preparation
+CHAPTER 1
+Bengaluru, formerly Bangalore, is the fifth most populous urban agglomeration and one of the fastest growing metropolises in India (Census 2011). The capital, and the most primate city in Karnataka, 
+Bengaluru accommodates about 39% of the total urban population of the state. 
+Located in the south-east of Karnataka, at an altitude of approximately 920 metres above mean sea level, the city is part of the Cauvery-Ponnaiyar (also known as Dakshin Pinakini) river basins. Bengaluru is an intrinsic network of watersheds, lakes and green spaces bestowed with rich biodiversity and natural resources (Eswar and Roy 2018).
+Originally a cantonment town and a manufacturing hub, the city has gradually transformed into a major economic centre, attracting businesses and talent within India and abroad as well. By the early 2000s, 
+Bengaluru came to be known as the Silicon Valley of 
+India, producing the largest share of India’s information technology jobs and exports. A thriving center of knowledge and innovation, Bengaluru has emerged as a leading start-up hub in recent years.
+At present, the jurisdiction of the Bruhat Bengaluru 
+Mahanagara 
+Palike (BBMP), the municipal corporation of the city, covers an area of about 713 sq. kms. (BBMP, 2019). In 2011, the population of BBMP was 85 lakhs (Census 2011).
+Being a member of the C40 Cities network and a signatory to Deadline 2020, Bengaluru is committed to mitigating the impact of climate change, while strengthening the adaptative capacity of the city’s people, economy and nature – to build local resilience against climate change hazards.
+Source: WRI India analysis using Census 2011; BBMP; BMRDA, Government of 
+Karnataka
+Figure 1 | Administrative jurisdictions of Bengaluru
+Bengaluru’s Climate Action and Resilience Plan (BCAP) gives the city the opportunity to intensify and coordinate efforts towards planning and managing rapid urban growth in a manner that is climate-aware and aligned to the global climate agenda and India’s 
+Nationally Determined Contributions (NDCs).
+
+[Page 17]
+BENGALURU CLIMATE ACTION AND RESILIENCE PLAN
+Figure 3 | Built footprint evolution across Bengaluru (Between 1985-2019)
+Source: WRI India analysis using World Settlement Footprint (WSF) Evolution 1985-2015, and WSF 2019; German Aerospace Center (DLR)
+Between 1991 to 2019, the population within BBMP grew by 25% even as the city’s built-up footprint increased by 170% between 1985-2015. The estimated population of BBMP was 10 million in 2019 (BBMP 
+2019), which is projected to almost double by 2050.
+ 
+The municipal corporation area comprises of eight zones and 198 wards. The city’s growth has brought opportunities for development across many fronts. 
+At the same time, the city is facing complex challenges as climate change shapes the growth pathways for cities globally.
+Source: WRI India analysis using Census 2011, BBMP, RSP 2031- BMRDA
+Figure 4 | Population of Bengaluru and the surrounding region
+Airport
+Railway
+Railway Station
+Major Road
+Water body
+BBMP Boundary
+Year of addition of built:
+1985
+2019
+Legend
+The city has grown rapidly, since the 1990s, resulting in an almost three-fold expansion of the municipal corporation area in 2007.
+
+[Page 18]
+APPROACH AND GUIDING FRAMEWORK 
+CHAPTER 2
+Three pillars anchor the overarching approach adopted in the preparation of the BCAP – commitment, evidence and action-based planning. 
+Guided by the C40 Cities Climate Action Planning 
+Framework, the BCAP addresses four essential components of meaningful climate action.
+• 
+Emission reduction/neutrality: Developing a baseline for city greenhouse gas (GHG) emissions and creating a pathway to achieve emission neutrality by 2050, including ambitious interim targets. 
+• 
+Climate change risk and vulnerability reduction: Assessing the city's climate change risks and vulnerabilities, along with planning for adaptation and resilience to climate hazards in current and future scenarios. 
+• 
+Governance and collaboration: Defining city governance, roles, and capacities while identifying key partners to accelerate mitigation targets and resilience goals. 
+• 
+Inclusivity and benefits: Engaging the community in the planning process, outlining social, environmental, and economic benefits of the plan, and ensuring fair distribution of benefits to the city's population. to the city's population.
+The approach to analytics, action framing and prioritization in the BCAP enshrines three key tenets of a thriving and sustainable city – i.e., human wellbeing, natural protection and economic growth.
+The BCAP is aligned with international, national and subnational goals and frameworks that Bengaluru, 
+Karnataka and India have committed to, including 
+Karnataka’s State Action Plan on Climate Change (KSAPCC) and India’s revised Nationally Determined 
+Contributions (NDCs) among others.
+Methodologies and Tools Used
+Specific methodologies guide different steps of the 
+BCAP preparation to ensure inclusivity in process, policy and impact. Broadly, the GHG Inventory for the city has been developed adhering to the Global 
+Protocol for Community-scale Greenhouse Gas 
+Emission Inventories (GPC). For assessment of risk from climate induced hazards, the study used the 
+Climate Change Risk Assessment (CCRA) framework developed by C40 and a Climate Hazard Vulnerability 
+Assessment (CHVA) Framework developed by WRI 
+India. An inclusive climate action planning approach has been followed to address equity and inclusivity. 
+Figure 5 | Three-pronged approach for stakeholder consultations
+BCAP Geographic Scope: Area under BBMP (713 sq. kms.) 
+Base Year: 2019 
+Horizon Year: 2050 (Interim horizon periods – 2030 and 
+2040) 
+Data sources: As shared by relevant government departments/agencies, published by reliable sources such as Census of India, published plans, reports, papers, articles etc. 
+Scope for reporting GHG emissions and future emission pathways: BASIC level (as per GPC reporting framework) which includes the sectors Stationary Energy, 
+Transportation and Waste
+Source: As identified by BBMP with the technical support of WRI India
+
+[Page 19]
+BENGALURU CLIMATE ACTION AND RESILIENCE PLAN
+Figure 6 | Approach to formulation of the BCAP
+Source: Collated by WRI India in consultation with BBMP & C40 Cities
+
+[Page 20]
+the two major climate variables, i.e., rainfall and air temperature, manifest into four types of climatic hazards:
+a) Urban flooding b) Urban heat c) Drought (water scarcity) d) Thunderstorms and lightning
+Air pollution is an associated anthropogenic environmental hazard which also poses a threat to 
+Bengaluru’s environment (Refer to Fig-7 for the conceptual diagram of climate hazard identification). 
+A detailed assessment of the above-mentioned hazards is provided in Chapter 3 of the BCAP Report and Chapter 4 of the CCRA-VA Report. Each hazard identified, is defined by a set of criteria based on the hydro-meteorological variables, physical events, or trends that depict deviations from the long-term averages. The findings from contributing factors, frequency, intensity, extremities and exposure of the city’s geographic area and population to these hazards are detailed in Table-1.
+CLIMATE HAZARD ASSESSMENT
+CHAPTER 3
+In the context of climate change impacts, risks result from dynamic interactions between climate-related hazards with the exposure and vulnerability of the affected human or ecological system. (IPCC 2022b)
+Source: Adapted from C40’s CCRA Framework and WRI India’s CHVA Framework
+Figure 7 | Hazards identified for Bengaluru 
+Bengaluru experiences a tropical savanna climate that is moderate through most of the annual cycle. 
+Like many other Indian cities, Bengaluru is also exposed to climate change but there are some unique aspects that impact the city, given its geographical context and river-valley systems (See Fig-8).
+The city of Bengaluru is divided by the larger Cauvery and Ponnaiyar river basins across a central ridge running from north to south, as illustrated in Fig-8. 
+Bengaluru's topography further subdivides it into a distinct network of streams and valley systems in synergy with the basin systems. The interlinkage between the larger river basins and valley systems influences two key aspects: availability of freshwater and natural drainage. Therefore, resilience-building against water scarcity and floods in Bengaluru needs to go beyond city limits, and should be informed by the interdependence between climatic parameters, topographical landscape and resource availability.
+For Bengaluru, the extended effects of extremes in
+
+[Page 21]
+BENGALURU CLIMATE ACTION AND RESILIENCE PLAN
+Table 1 | Key findings from the Bengaluru Climate/Environmental Hazard Assessment
+• Based on IMD classification of 24-hour accumulated rainfall, Bangalore Urban District (BUD) experienced 282 Heavy and 14 
+Very Heavy rain events per year on average between 2016 and 2021. These rainfall events contributed to nearly 11%, of the total annual average rainfall received in the area for the study period.
+• Most of the heavy rainfall events are observed in the south-western part of the district. Similarly, spatial distribution of days with consecutive (lasting two days or more) of rather heavy or moderate rainfall shows its high concentration in the 
+Vrishabhavathi valley within BBMP. 
+• KSNDMC has reported 1,167 flood events between 2013 and 2020, based on which 372 Flood Vulnerable Areas (FVAs) have been identified in the city. 
+• Flood risk zones, categorised as ‘High, Medium, and Low’ based on the composites of various inundation extents and prevalent rainfall scenarios, house about 6%, 4% and 11% of the city population, respectively. Refer to Fig-9 for details. 
+• The mean air temperature has been rising at 0.23°C per decade since 1975 in the city, with a more profound increase in the last decade (since 2009) at nearly half-a-degree rise. 
+• Bengaluru faces extreme air temperature conditions such as Heat Wave and Extreme Heat Wave days, at an average of 60 days per year (as per the analysis between 1975-2022). Notably, in 2014 and 2015 the city experienced extreme heat wave conditions for more than one-third of the year, as these events continue to rise throughout the period of analysis. 
+• Between the rural areas outside BBMP limits, and urban areas within BBMP boundaries, average night-time Land Surface 
+Temperature (LST) varies by more than 1.5°C. Areas with well-planned residential layouts, such as Jayanagar, Koramanga­ la, and Halasuru have relatively lower summer average LSTs, in contrast to areas like Peenya, Hebbal, Nagarabhavi, and 
+Chickpet, which have higher LSTs of about 35-36°C. Refer to Fig-10 for details. 
+Source: Exaggerated relief visualisation; WRI India using Shuttle Radar Topography Mission (SRTM) (refer to CCRA-VA report for details)
+Figure 8 | River valley system of Bengaluru and the adjoining region
+BBMP Boundary
+State Boundary
+Above Mean Sea Level:
+(in metres)
+River Network
+Water Body >950 m <650 m
+Basin boundary
+Urban Heat
+Temperature trends, extreme heat events, and urban heat islands
+Urban Flooding
+Extreme Rainfall Events
+Climate/Environmental Hazard
+Contributing factors assessed
+
+[Page 22]
+• Gaps and inconsistencies in pollutant observations remain a challenge in monitoring air quality trends. 
+• Both PM10 and PM2.5 concentrations were the highest between October and May during the study period of 2016-21. The pollutant concentrations remain the highest for the morning and evening peak hours across all monitoring stations. 
+• Bapuji Nagar, Jayanagar 5th Block, and Peenya are the stations which have crossed the daily CPCB permissible limits for 
+PM2.5 for more than one-third of the year 2021 - 58%, 36% and 34%, respectively. Areas such as Majestic, Silk Board and 
+Peenya cross the annual PM10 permissible limits for most of the years between 2016 and 2021. 
+• Households at risk of exposure to indoor pollution due to the most polluting cooking fuel (firewood and chips), are predom­ inantly located in the ¬wards of Nayandahalli, Jakkuru and Kuvempu Nagar, as per Census 2011. 
+• Under the current policy landscape and projected population and economic growth, ambient PM2.5 levels in Bengaluru is projected to increase to 45.9 µg/m3 by 2050, exceeding national air quality standards and resulting in air that contains 9 times the concentration of air pollution that the WHO deems safe. 
+• The occurrence of thunderstorms is usually accompanied by other severe weather occurrences such as heavy rain and floods, hail and lightning, etc. For the period from 1981 to 2010, as per IMD, an average of 44 days of thunderstorms occurred over Bengaluru annually. 
+• Karnataka saw a 68.74% rise in lightning strikes as per the Annual Lightning Report of 2021-22. 
+Air Pollution
+Outdoor air pollution: Particulate (PM10 and PM2.5) and gaseous pollutants; 
+Indoor air pollution: Particulate Matter (PM2.5); Pathways-Air Quality Assessment for PM2.5
+• Based on IMD rainfall data for the period from 1985 to 2020, nearly 50% area upstream to Cauvery has meteorological drought probability of >20% indicating higher risk for meteorological drought. Overall, based on the water resource avail­ ability and usage, 84% the study area is associated with the ‘Very High Risk’ of drought category.
+• 31% area within BBMP is assessed to have declined in GRP during the years from 2000 to 2020. Refer to Fig-11 for details.
+• Most groundwater observation wells within BBMP limits show a decline in groundwater levels in the pre-monsoon period, between 1993 and2021. The current stage of groundwater extraction in more than half of BMRDA limits, including the BBMP area¬, for the year 2020, is defined as ‘Over Exploited’. 
+Thunderstorms and 
+Lightning
+Annual occurrence, average duration 
+Drought
+Region-level drought risk, probability, and stage of groundwater development; 
+Groundwater Recharge Potential (GRP); Groundwater quality
+Climate/Environmental Hazard
+Contributing factors assessed
+
+[Page 23]
+BENGALURU CLIMATE ACTION AND RESILIENCE PLAN
+Figure 9 | Flood risk zones in Bengaluru city
+Source: WRI India analysis using topography from SRTM, rainfall from IMD (refer to CCRA-VA report for details)
+Airport
+Major Road
+Water body
+BBMP Boundary
+Above Mean Sea Level:
+(in metres)
+Flood Risk Zones:
+Low
+Medium
+High ≥1000 m ≤800 m
+River Basin Boundary
+
+[Page 24]
+Figure 10 | Average land surface temperature of the built areas of Bengaluru city (for summer months 2017-2021)
+Source: WRI India analysis using Landsat-8, USGS/ NASA (refer to CCRA-VA report for details)
+Airport
+Railway
+Railway Station
+Major Road
+Water body
+BBMP Boundary
+Land Surface Temperature:
+32 °C
+
+[Page 25]
+BENGALURU CLIMATE ACTION AND RESILIENCE PLAN
+Figure 11 | Change in groundwater recharge potential for Bengaluru Metropolitan Region
+Source: WRI India analysis using Landsat 8 (USGS/NASA), ASTER DEM (NASA), Groundwater Directorate (Government of Karnataka). Refer to CCRA-VA report for details.
+Water body
+BBMP
+Percentage change in Groundwater Recharge 
+Potential between the year 2000 and 2020:
+-20%
+20%
+BDA
+BMRDA
+State Boundary
+District Boundary
+
+[Page 26]
+Projected Scenarios for Air Temperature and Rainfall: Findings from Representative 
+Concentration Pathways 
+Temperature and Rainfall are the two critical climatic parameters that can alter larger hydro-meteorological conditions and resource balances of the region. For BCAP, these climatic parameters were studied for the 
+Cauvery-Ponnaiyar river basin.
+Figure 12 | Percentage change in projected air temperature based on RCP 4.5 for short and long-term epochs
+21 General circulation models
+Average minimum air temperature percentage change of all models
+21 General circulation models
+Average maximum air temperature percentage change of all models
+For a city like Bengaluru, with extreme dependence on a shared water basin that meets most of its water demand, it is essential to analyse these scenarios to understand the future probable extent of the deviations from the baseline. While there is a huge range of variation between the projections based on multiple models across temperature and rainfall trends, the increased variance indicates higher chances for extreme events.
+Rising air temperatures, both minimum and maximum, are seen in the findings across nearly all the models amongst both RCP 4.5 and RCP 6 as analysed. This can exacerbate health and livelihood risks of the population and productivity in the region in combination with pollution, rainfall variability, and localised socio-economic vulnerabilities.
+Results from rainfall projections, variations and direction of change, along with average rainfall changes, lack accuracy and consistency amongst models for both RCP 4.5 and RCP 6 as rainfall is highly seasonal and subject to local conditions. 
+However, all models largely point at an increase in variation extent, leading to greater possibilities of both wetter and drier periods. 
+To support decision-making with evidence-based planning for adaptation measures against climate change-induced hazards, a better understanding of the usability of localised (granular) climate projections and monitoring station information within the institutional context is a must.
+Percentage Change in Maximum Air Temperature from Historic Baseline
+Percentage Change in Minimum Air Temperature from Historic Baseline
+Source: WRI India analysis using ECMWF ERA5, and NEX-GDDP (NASA) processed in Google Earth Engine (refer to CCRA-VA report for details)
+
+[Page 27]
+BENGALURU CLIMATE ACTION AND RESILIENCE PLAN
+Figure 13 | Percentage change in projected rainfall based on RCP 4.5 for short-term and long-term epochs (select GCMs)
+Model MIROC - ESM -CHEM
+Short-term (2021-2050)
+Long-term (2071-2100)
+Model NorESM1 -M
+Short-term (2021-2050)
+Long-term (2071-2100)
+River
+Basin
+State Boundary
+Water Body
+National Boundary
+BBMP Boundary
+Legend
+Percentage difference between baseline and projected epochs:
+No change <=-15
+-12 to -10
+10-15 >20
+Source: WRI India analysis using ECMWF ERA5, and NEX-GDDP (NASA) processed in Google Earth Engine (refer to CCRA-VA report for details)
+
+[Page 28]
+VULNERABILITY AND RISK ASSESSMENT
+CHAPTER 4
+Vulnerability is a function of exposure, sensitivity, and adaptive capacity. The indicators in the vulnerability assessment can be used as the baseline for monitoring the socio-economic status of the identified communities, and also to evaluate potential adaptive strategies and measures.
+The analysis presented in this chapter covers four prime components mentioned below as per the three verticals of Climate Hazard Risk as shown in Fig-14.
+• 
+Performance of key demographic parameters and their spatial distribution including age, male and female ratio, literacy, ability, social composition.
+• 
+Socio-economic status of people basis informal settlements, home ownership, condition of housing, assets providing access to information, affordability, and livelihood.
+• 
+People's ease of access to various segments of services and infrastructure – electricity, clean cooking fuel, water supply, sanitation, transport, emergency services such as health care, and fire services, and social infrastructure such as schools, public parks, playgrounds and other open green spaces. 
+• 
+Probable impact on each of the listed sectors across the five identified hazards - Water and 
+Wastewater, Storm Water Management, Solid 
+Waste 
+Management, 
+Transport, 
+Energy 
+Efficiency and Green Buildings, and Urban 
+Planning, Greening and Biodiversity.
+Source: : WRI India, adapted from C40’s CCRA Framework and WRI India’s 
+CHVA Framework
+Figure 14 | Parameters used for Vulnerability and 
+Sensitivity Analysis: Highlights of demographic and socio-economic parameters used (*) City-wide averages from Census 2011 
+89% effective literacy rate
+85% female literacy rate.
+37% of households own their home.
+26% of house­ holds have temporary roofing material.
+257 notified slums with a population of more than 3 lakh.
+The long-term evidence driven hazard identification, and corresponding hazard exposure and impact, along with sensitivity and adaptative capacity paraments results aggregated at ward and zone level are illustrated in Fig-14 as climate hazard risk. This report does not conclude risk informed by vulnerability with a quantitative score, as ‘Vulnerability’ is a relative measure. 
+Risk Assessment
+*
+*
+*
+
+[Page 29]
+BENGALURU CLIMATE ACTION AND RESILIENCE PLAN
+Adaptive capacity assessment: Key Highlights of accessibility parameters used (*) City-wide averages from Census 2011 (**) City-wide statistics based on population derived using Census 2011 and recent amenities data available from public sources.
+(***) WRI India analysis using BBMP Landuse Data 
+98% of households have access to gridded electricity as the main source of lighting.
+79% of households use clean cooking fuel.
+19% of households do not have drinking water facility within the prem­ ises.
+97% of households have latrines within the premises.
+25% of the city’s pop­ ulation can access metro stations within 10 minutes' walking distance .
+94% of the city’s pop­ ulation can access to a bus stop within a 5 minute walking distance.
+32% people have access to 
+Government hospitals within standard ambulance response time of 10 minutes.
+89% of city’s population has access to a hospital within standard ambulance response time of 10 minutes
+100% of the city’s popu­ lation is within 10 minutes' walking distance from a school.
+97% of the city's popu­ lation is within 10 minutes' walking distance from a government school.
+Per capita organised green open space (parks, gardens, playgrounds) is at 
+1.3 m2 in the city. 
+CCRA-VA presents the findings in a manner that can help policymakers, implementers, and citizen platforms decide on their respective local priorities to build resilience against climate change. The entire exercise of deduction of risk provides an exhaustive baseline analysis of Bengaluru’s current socio-economic, demographic, infrastructure and service access, and sectoral situation, in a visually comprehensible and a succinct comparable format.
+*
+*
+*
+*
+**
+**
+**
+**
+**
+**
+
+[Page 30]
+The final output of risk assessment is presented by categorising wards under different 'Orders of Priority' in three broad categories:
+1. 
+Order of priority indicating exposure to hazards based on extent of impacted area and population (Fig-15)
+2. Order of priority indicating sensitivity to hazards based on underlying demographic and socio-economic conditions (Fig-16)
+3. Order of priority indicating (lack of) adaptive capacity based on access to services and amenities (Fig-17)
+Order of Priority:
+Zone 1: South
+Zone 2: Yelahanka
+Zone 5: RR Nagar
+Zone 6: East
+Zone 3: Mahadevpura
+Zone 4: Dasarahalli
+Zone 7: West
+Zone 8: Bommanahalli
+Priority 1
+BBMP
+Ward Boundary
+Zone Boundary
+Priority 2
+Priority 3
+Figure 15 | Summarising order of priority based on hazard exposure - Surface flooding, urban heat and air pollution
+Area exposed to surface flooding
+Population exposed to
+Land Surface Temperature >35°C
+Population exposed to surface flooding
+Area exposed to air pollution
+Area exposed to
+Land Surface Temperature >35°C
+Population exposed to air pollution
+Source: WRI India analysis using Census 2011, Built footprint from WSF 2019 and amenities from BBMP 2022; details in CCRA-VA report
+
+[Page 31]
+BENGALURU CLIMATE ACTION AND RESILIENCE PLAN
+Figure 16 | Order of priority based on sensitivity parameters
+* Population
+Number of female literates
+Households that own the property they reside at
+Population Density
+Number of females per 1000 males
+Housing with temporary roofing material
+Population under 6 years of age
+Area under informal settlements (km2)
+* Scheduled Caste and
+Scheduled Tribe population
+Order of Priority:
+Zone 1: South
+Zone 2: Yelahanka
+Zone 5: RR Nagar
+Zone 6: East
+Zone 3: Mahadevpura
+Zone 4: Dasarahalli
+Zone 7: West
+Zone 8: Bommanahalli
+Priority 1
+BBMP
+Ward Boundary
+Zone Boundary
+Priority 2
+Priority 3
+* Number of persons
+Source: WRI India analysis using Census 2011, Built footprint from WSF 2019 and amenities from BBMP 2022; details in CCRA-VA report
+
+[Page 32]
+Order of Priority:
+Zone 1: South
+Zone 2: Yelahanka
+Zone 3: Mahadevpura
+Zone 4: Dasarahalli
+Zone 5: RR Nagar
+Zone 6: East
+Zone 7: West
+Zone 8: Bommanahalli
+Priority 1
+BBMP
+Ward Boundary
+Zone Boundary
+Priority 2
+Priority 3
+Figure 17 | Order of priority based on (lack of) adaptive capacity
+Electricity as main source of lighting1 
+Piped sewer and septic tanks1 (scientifically managed)
+Government schools2
+Metro stations2
+Clean cooking fuel1
+Latrines within premises1
+Government health infrastructure2
+Parks and open spaces2
+Treated drinking water1
+Fire stations2
+Bus stops2
+Source: WRI India analysis using Census 2011, Built footprint from WSF 2019, google maps, and amenities from BBMP 2022; details in CCRA-VA report
+1Ward-wise % share of households not having access to the listed infrastructure or amenity.
+2Ward-wise % share of population not having access to the listed infrastructure or amenity within the standard walkable distance or vehicular speeds.
+
+[Page 34]
+GREENHOUSE GAS EMISSIONS 
+Baseline Inventory for Bengaluru
+Source: WRI India analysis for BBMP jurisdiction based on GHG-GPC framework (BASIC Level)
+Source: WRI India analysis using I-Tree Canopy, 2022; Google Earth Engine
+*Calculations are based on the extent of canopy cover for Trees outside Forests
+Figure 18 | GHG Baseline 2019 for Bengaluru (BBMP Area)
+18.7
+MILLION 
+METRIC
+TONNES (MMT) 
+OF CO2e
+1.84 TONNES 
+OF CO2e PER PERSON
+Figure 19 | Inventory of Carbon Sequestration by Trees outside Forests in 
+Carbon Sinks
+Between 2001 and 2022, Bengaluru wit­ nessed annual tree canopy density loss of about 720 ha/year, while it gained/main­ tained an annual tree canopy density of 
+924 ha/year of standing and newly plant­ ed trees.
+The carbon sequestration potential of standing and newly planted tree canopy cover corresponds to ~0.20 million metric tonnes of CO2/year.
+Total CO2 Emitted: 0.03 million metric tonnes per year 
+Area with Tree Canopy Density
+Lost Annually = 720 ha/year
+Area with Tree Canopy Density
+Gained or Maintained Annually = 
+924 ha/year
+Total CO2 removed: 0.20 million metric tonnes per year
+The GHG inventory for Bengaluru includes an analysis of all the major sectors/sources that emit GHGs into the atmosphere (as per the 
+GPC reporting framework-BASIC level). The baseline assessment also includes the major sectors/land uses that absorb or sequester GHGs from the atmosphere. This inventory will allow 
+Bengaluru to build evidence-based mitigation strategies and policies, and to measure progress on the actions taken.
+Critical Sources 
+The total GHG emissions of Bengaluru in 
+2019 were estimated at 18.73 million metric tonnes of CO2e. A major share of the emissions is from energy use in residential buildings (27%), followed by emissions from commercial buildings (26%) and on-road transport (20%). 
+Electricity consumption contributes significantly to total emissions (59%), due to a considerable share of fossil fuelderived electricity in the city’s energy mix.
+CHAPTER 5
+21%Transportation
+SECTOR-WISE 
+CONTRIBUTORS
+11%Waste
+68%Stationary Energy
+Bengaluru (2001 - 2022)
+
+[Page 35]
+BENGALURU CLIMATE ACTION AND RESILIENCE PLAN
+Business As Usual (BAU)
+No-action scenario which excludes the eﬀects of ongoing/planned policies. 
+Existing & Planned (E&P)
+Scenario which considers the eﬀect of ongoing/planned city actions along with regional and national policies. 
+Ambitious
+Scenario which includes the most ambitious yet achievable strategies for the city.Major source of residual emissions are from on-road transportation, and the energy and building sectors – mostly attributed to usage of fossil fuels and electricity grid not being fully decarbonized.
+Extended
+Scenario which was developed since the ambitious scenario was not suﬀicient to achieve the net-zero target by 2050. This scenario projects strategy assumptions which is currently infeasible due to political, legal, economic, social or technical barriers.
+2019
+2030
+2040
+2050
+29.9
+39.6
+49.8
+22.8
+27.0
+29.6
+15.8
+13.8
+8.2
+12.3
+7.9
+1.7
+18.7
+Million t CO2e/year
+Percentage change from base year (2019) emissions by 2050
+165%
+58%
+56%
+91%
+Bengaluru has embarked on a mission to adopt a strategic roadmap to mitigate GHG emissions within the framework of the relevant policies and commitments of the Govt of India. To develop a credible pathway towards achieving this goal and to set interim targets, four future emission scenarios were developed (refer to Fig-20).
+Source: WRI India analysis using the Pathways Tool developed by C40 Cities
+Note: The Pathways scenarios include the thee sectors covered under the BASIC scope of the GPC, i.e., Stationary Energy, Transport and Waste. Emissions from 
+Industrial Processes and Product Use (IPPU), and Agriculture, Forestry and Other Land Use (AFOLU) are excluded under this scope.
+The city will work towards mitigating GHG emissions informed by the ambitious scenario and aligning with the policies and commitments of the Govt of 
+India to arrest climate change.
+FUTURE EMISSION PATHWAYS
+CHAPTER 6
+Figure 20 | Long-term GHG emission mitigation potential for Bengaluru under different scenarios
+Some major strategies considered for achieving emission reduction targets under the ambitious and extended scenarios include:
+• Energy and Buildings: Decarbonization of the electricity grid, improvement in industrial energy efficiency, transition to electric cooking and improved energy efficiency in both residential and commercial buildings.
+• Transportation: Vehicular fuel shift towards cleaner fuels, greater modal share of public transport and land-use transport integration.
+• Waste: Diversion of waste from landfills by better segregation at source, scientific landfills with gas capture facility, increase resource recovery and circular economy.
+
+[Page 36]
+SECTORAL PRIORITIES 
+Figure 21 | Sectors identified for BCAP action orientation
+The BCAP aims to integrate climate objectives in planned and future deliverables of agencies working in and for Bengaluru. The climate actions proposed in the 
+BCAP have been aligned to seven major sectors (refer to 
+Fig-21). It is imperative that other critical sectors, such as health, education, economy, and so on, which have direct or indirect links with those seven sectors, work in tandem.
+While the mitigation of GHG emissions and reduction of risks from climate-induced hazards are the two main objectives of BCAP actions, there are several other cobenefits that impact the people, economy and nature of the city (Table-2).
+The development of climate actions is a logical and iterative process informed by the evidence generated by 
+BCAP (through means such as GHG inventory, pathways analysis, 
+Climate 
+Change 
+Risk and 
+Vulnerability Assessment), assessment of barriers in the city and sectoral ecosystem and development of a complete array of actions to address those barriers (refer to Fig-22).
+CHAPTER 7
+Source: As identified by BBMP with the technical support of WRI India
+Economic - These benefits include increased income generation, creation of jobs, savings in public expenditure, reduction in economic loss, cost savings associated with clean energy adoption, and so on.
+Social inclusion and equity - These benefits include the reduction of vulnerability to climate-related risks, enhancing resilience, access to basic services and amenities, and participation in decision-making by marginalised populations such as the urban poor, migrants, women, informal workers, persons with disabilities, unemployed youth, sexual minorities, the elderly, and ethnic and racial minorities. Their participation helps foster community cohesion, and ultimately to improve overall well-being.
+Public health - These benefits directly and positively impact people's health, such as reduced exposure to air pollution, lower incidence of respiratory problems due to air pollution, reduction in heat-related illnesses, reduction in loss of life and injury due to climate hazards and improved overall health and well-being due to better access to quality services, amenities and resources.
+Enhanced liveability - These benefits include improvement in the overall quality of life for communities and individuals in the city, through better access to opportunities and services, and better neighbourhoods that positively influence physical, mental and economic well-being.
+Co-benefits of Climate Action 
+Apart from the primary objective of GHG mitigation and resilience, the action tracks in each sector will have one or more of the following co-benefits.
+Table 2 | Co-benefits of climate action
+
+[Page 37]
+BENGALURU CLIMATE ACTION AND RESILIENCE PLAN
+Figure 22 | Framing of actions for BCAP
+INPUTS FOR ACTION FRAMING
+SECTORAL ANALYSIS
+ACTION FRAMING PROCESS
+TYPES OF ACTIONS (INFORMED BY BARRIERS)
+ACTION DETAILING
+Pathways Analysis
+Secondary 
+Research/Literature 
+Review
+Knowledge & experience gained from working in the city
+Consultations with stakeholder departments
+Citizen consultations
+Discussions with experts/ practitioners/ academia
+Sectoral overview and status quo
+Key sector briefing
+On-going initiatives
+Current initiatives proposed/under process with the departments
+Key gaps
+Challenges in sectoral actions that requires attention from a climatic lens
+Sectoral priorities
+Overall vision for the sectors for Bengaluru
+Approach
+Focusing on climatic lens, the approach identifies major objectives/strategies 
+Key barriers
+Emerging from data-based analysis, consultations and sec­ tor-wise assessment
+Action tracks
+Broader action areas for each sectors
+Goals/targets
+Measurable goals and targets for 2030, 
+2040 and 2050
+Infrastructure
+Legal, statutory, regulatory 
+Plans, Policies, Acts, 
+Guidelines, Standards
+Processes and institutional mechanisms
+Capacity
+Platforms & data systems
+Finance
+Inclusivity & equity
+Information, education, communication
+ACTIONS FOR BCAP GOVERNANCE, MONITORING, EVALUATION AND REPORTING
+Targeted actions aligned with ongo­ ing initiatives
+Responsible agencies
+Potential source of funding
+Action outputs & outcomes
+Timelines and priorities
+Co-benefits including inclusivity & equity
+S E C T O R – W I S E A C T I O N S
+Source: As identified by BBMP with the technical support of WRI India
+Stakeholder Consultations
+
+[Page 38]
+Energy and Buildings
+Adopt a multipronged approach to a low-carbon future by decarbonising Bengaluru's grid electricity, promoting energy efficiency, green and low-carbon buildings, and clean cooking fuels
+Action Tracks
+How will this action track be achieved?
+Co-benefits
+E&B-1
+Achieve higher penetration of energy-ef­ ficient appliances and clean fuel transi­ tion in all major sub-sectors (residential, commercial, institutional, & industrial). 
+40% of new appliance technology will be of high-range energy efficiency by 2030.
+E&B-2 
+Promote green buildings and low-carbon buildings with passive and active design strategies.
+By 2030, 42% of new residential buildings and 
+48% of new commercial buildings will adopt insulated walls and roofs, improved window technology, and improved building services design.
+E&B-3
+Increase the mix of non-fossil fuel sourc­ es in the city's grid electricity generation, 
+68% by 2030 and 89% by 2050.
+E&B-4 
+Implement effective communication methods for nudging behavioral changes by adopting behavioral science princi­ ples through IEC programs.
+E&B-5 
+Develop a roadmap for affordable clean cooking fuel transition.
+100% transition from solid fuel to clean cooking fuel by 2030.
+BCAP agenda that this action track primarily helps in achieving 
+Actions to be accomplished by the year
+Direct Co-benefits
+Mitigation
+Adaptation & Resilience
+2027
+2032
+2037
+Economic benefits
+Social inclusion
+Improved public health
+Enhanced livability
+Goals
+Number of actions to be accomplished
+2042
+2050
+1 1
+Note: For details of actions for each agency refer to section 5.3 of Bengaluru Climate Action and Resilience Plan Full Report, 2023
+
+[Page 39]
+BENGALURU CLIMATE ACTION AND RESILIENCE PLAN
+Transportation
+Promote low-carbon mobility solutions, with a strong focus on Public Transport (PT), Non Motorised 
+Transport (NMT) infrastructure and cleaner fuels for reducing GHG emissions, improving air quality and enhancing Bengaluru’s livability.
+T-1
+Reducing travel distances and minimizing travel needs by adopting suitable urban planning measures, improving transport planning processes and developing a co­ herent policy ecosystem.
+92% of the new households in the city (from 
+2019) should be in the Transit Oriented Develop­ ment Areas by 2050.
+T-2
+Improving public transport ridership through multimodal integration and de­ mand management away from private ve­ hicles.
+The combined share of public transport (PT) and non-motorised transport (NMT) in total no. of trips to be 75% by 2030, 80% by 2040, 85% by 
+2050.
+T-3
+Improving NMT access and infrastructure for a healthier and safer city.
+The combined share of public transport (PT) and non-motorised transport (NMT) in total no. of trips to be 75% by 2030, 80% by 2040, 85% by 
+2050.
+T-4
+Transitioning towards cleaner & greener vehicles; and improving vehicle efficiencies through increased access to finance, policy enablers, incentives and promoting R&D.
+90% of cars and motorcycles, 75% of buses is to be powered by cleaner fuels by 2050.
+T-5
+Transitioning towards cleaner & greener freight through policies, incentives and fleet management.
+47% of total freight vehicles is to be powered by cleaner fuels by 2050.
+T-6
+Ensuring a resilient urban transport system to avoid service disruptions and damage of transport infrastructure during extreme weather events which impacts people, na­ ture and economy of the city.
+Action Tracks
+How will this action track be achieved?
+Co-benefits
+Number of actions to be accomplished
+Goals
+BCAP agenda that this action track primarily helps in achieving 
+Actions to be accomplished by the year
+Direct Co-benefits
+Mitigation
+Adaptation & Resilience
+2027
+2032
+2037
+Economic benefits
+Social inclusion
+Improved public health
+Enhanced livability
+2042
+2050
+Note: For details of actions for each agency refer to section 5.3 of Bengaluru Climate Action and Resilience Plan Full Report, 2023
+
+[Page 40]
+Solid Waste
+Support and enhance circular economy, improved technology solutions and scientific waste management practices to achieve net zero greenhouse gas emissions from solid waste sector
+SWM-1
+Divert waste from landfill by better seg­ regation of waste at source.
+To achieve 100% segregation of waste by 2025 and achieve over 90% of diversion of waste from landfills by 2050 (60% by 2030 & 75% by 
+2040)
+SWM-2
+Increase resource recovery and circular economy by promoting decentralized waste management systems.
+Recycling of paper & plastic waste to be >60% by 2030, >75% by 2040 & >90% by 2050.
+SWM-3
+Implement scientific landfills with gas capture system and suitably repurpose the closed landfills/dump sites.
+Achieve about 25% gas capture from scientific landfill by 2030, 50% by 2040 & 75% by 2050.
+SWM-4
+Create inclusive and hazard resilient 
+SWM infrastructure and services.
+Action Tracks
+How will this action track be achieved?
+Co-benefits
+Goals
+Number of actions to be accomplished
+BCAP agenda that this action track primarily helps in achieving 
+Actions to be accomplished by the year
+Direct Co-benefits
+Mitigation
+Adaptation & Resilience
+2027
+2032
+2037
+Economic benefits
+Social inclusion
+Improved public health
+Enhanced livability
+2042
+2050
+Note: For details of actions for each agency refer to section 5.3 of Bengaluru Climate Action and Resilience Plan Full Report, 2023
+
+[Page 41]
+BENGALURU CLIMATE ACTION AND RESILIENCE PLAN
+Air Quality
+Maximize air quality improvement co-benefit opportunities from BCAP by enabling a shift to clean energy, improved technology, appropriate urban planning and greening solutions, and improved monitoring systems.
+AQ-1
+Prevent air pollution at source through comprehensive strategies across sectors informed by evidence.
+To achieve 40% reduction in PM10 concentra­ tion and 30% reduction in PM2.5 concentra­ tion by 2026 from 2017-18 levels as per revised targets prescribed by NCAP.
+AQ-2
+Reduce/maintain ambient air pollution levels to prescribed standards and min­ imize air pollution impacts through suit­ able local planning, urban design, and greening efforts.
+AQ-3
+Ensure WHO Indoor air quality stan­ dards and guidelines implementation in all public buildings by 2030 and all other buildings by 2040.
+AQ-4
+Developing a city-level comprehensive 
+Health Action Plan for tackling health risks posed by short-term and long-term exposures to air pollution.
+AQ-5
+Create/improve infrastructure and capacities to develop a robust evi­ dence-based and results-oriented AQ management paradigm through mon­ itoring, evaluation, feedback loop, and knowledge creation and dissemination to encourage behavioral shifts.
+30% of commercial & institutional buildings complying WHO Indoor air quality standards and guidelines by 2030.
+Preparation of a roadmap for a comprehensive health action plan tacking risks due to air pol­ lution for 2025-2035.
+To procure 13 new CAAQMS and transition the existing manual station to CAAQMS systems by 2035.
+Action Tracks
+How will this action track be achieved?
+Co-benefits
+Goals
+Number of actions to be accomplished
+BCAP agenda that this action track primarily helps in achieving 
+Actions to be accomplished by the year
+Direct Co-benefits
+Mitigation
+Adaptation & Resilience
+2027
+2032
+2037
+Economic benefits
+Social inclusion
+Improved public health
+Enhanced livability
+2042
+2050
+To achieve 40% reduction in PM10 concentra­ tion and 30% reduction in PM2.5 concentra­ tion by 2026 from 2017-18 levels as per revised targets prescribed by NCAP.
+Note: For details of actions for each agency refer to section 5.3 of Bengaluru Climate Action and Resilience Plan Full Report, 2023
+
+[Page 42]
+Water, Wastewater and Stormwater
+Enhance Bengaluru’s resilience to climate change by adopting an Integrated Urban Water Management 
+Approach including freshwater, wastewater and stormwater systems.
+W-WW-SW-1
+Enhance access to safe and reliable water and sanitation services for all.
+100% households to have access to water and sanitation infrastructure and services which is a combination of networked and decentral­ ized systems. 
+W-WW-SW-2
+Ensure water security by conserving water resources, recycling and safe reuse of wastewater, and diversifying the city's sources of water.
+By 2050, aim to reduce non-revenue water to 
+15%. Achieve reuse of treated wastewater to a minimum of 50% by 2030 and 90% by 2050.
+W-WW-SW-3
+Restore and enhance sponge spaces to increase groundwater recharge and de­ crease storm water runoff through green infrastructure technologies.
+40% of city’s surface area to become per­ meable by 2040 by reclaiming ecologically sensitive spaces and adopting Nature Based 
+Solutions.
+Convert 75% of the city’s footpaths to perme­ able surface material by 2050.
+W-WW-SW-4
+Adopt improved technologies and nature-based solutions for efficient and equitable wastewater treatment that are aligned to the city's mitigation goals.
+Achieve 95% wastewater treatment with a combination of centralised and decentralised system by 2050. Of this about 60% should adopt low carbon wastewater treatment technologies by 2050.
+Action Tracks
+How will this action track be achieved?
+Co-benefits
+Goals
+Number of actions to be accomplished
+BCAP agenda that this action track primarily helps in achieving 
+Actions to be accomplished by the year
+Direct Co-benefits
+Mitigation
+Adaptation & Resilience
+2027
+2032
+2037
+Economic benefits
+Social inclusion
+Improved public health
+Enhanced livability
+2042
+2050
+1 3
+Note: For details of actions for each agency refer to section 5.3 of Bengaluru Climate Action and Resilience Plan Full Report, 2023
+
+[Page 43]
+BENGALURU CLIMATE ACTION AND RESILIENCE PLAN
+Urban Planning, Greening and Biodiversity
+Improve Bengaluru’s climate resilience, livability and GHG mitigation potential by adopting climate-aware urban planning, greening and biodiversity management measures.
+UPGBD-1
+Promote compact development through mixed use, walkable neighborhoods.
+Prepare and adopt the RMP 2041, and set up the Master Plan Coordination Committee, by 
+2025.    
+UPGBD-2
+Develop climate-resilient and nature in­ tegrated plans for the city and city-region through participatory planning practices
+All spatial plans and DCRs to adopt climate ac­ tion as a lens by 2030. 
+UPGBD-3
+Adopt Nature-Based Solutions (NBS) as an urban planning and design tool to im­ prove resilience and livability.
+UPGBD-4
+Conserve, restore and manage the city's biodiversity.
+UPGBD-5
+Improve access to essential services and infrastructure, including safe and afford­ able housing for all.
+Conserve and restore all blue-green networks in the city. All urban infrastructure schemes and projects should adhere to disaster resil­ ience standards.
+Increase the city’s tree cover (canopy) from the baseline by 10% by 2030 and 20% by 2040.
+Increase the city’s green (vegetation) cover and permeable surface to 40% of the city's area by 2040, to tackle flood and heat-related disaster risk reduction.
+Convert 75% of the city’s footpaths to perme­ able surface material by 2050.
+Operationalise the (recently re-constituted) 
+BMC by 2023 and prepare the People's Biodi­ versity Register by 2025.
+By 2050, provide safe and affordable housing for 100% urban poor and vulnerable groups in locations having access to public transport stops/stations within a 5-minute walk.
+By 2050, increase the city’s publicly accessi­ ble per capita open space from the existing 2.2 sqm. to 6 sqm.
+Action Tracks
+How will this action track be achieved?
+Co-benefits
+Goals
+Number of actions to be accomplished
+BCAP agenda that this action track primarily helps in achieving 
+Actions to be accomplished by the year
+Direct Co-benefits
+Mitigation
+Adaptation & Resilience
+2027
+2032
+2037
+Economic benefits
+Social inclusion
+Improved public health
+Enhanced livability
+2042
+2050
+Note: For details of actions for each agency refer to section 5.3 of Bengaluru Climate Action and Resilience Plan Full Report, 2023
+
+[Page 44]
+Disaster Management
+Build an informed and proactive city supported by data-led and citizen-centric planning which is well prepared to efficiently reduce vulnerabilities and risks from extreme climate and environmental events with zero loss of life and minimal loss to its natural resources and local economy.
+DM-1
+Create a comprehensive spatio-temporal database pertaining to climate hazards, impacts, vulnerabilities.
+A comprehensive and regularly updated data repository for the city.
+DM-2
+Create a robust policy framework for Di­ saster Management including a policies for addressing loss and damage from cli­ mate and environmental hazards.
+A comprehensive Disaster Management Plan.
+DM-3
+Empower citizens, civil society and local platforms to adopt a decentralised and inclusive approach towards DRR.
+Empowered ward committees for better local­ ized preparedness, response and recovery of disasters.
+DM-4
+Enhance ecosystem capacity to reduce disaster risk through faster and better response.
+Reduction in loss of life, livelihoods, and assets due to climate and environmental hazards.
+Action Tracks
+How will this action track be achieved?
+Co-benefits
+Goals
+Number of actions to be accomplished
+BCAP agenda that this action track primarily helps in achieving 
+Actions to be accomplished by the year
+Direct Co-benefits
+Mitigation
+Adaptation & Resilience
+2027
+2032
+2037
+Economic benefits
+Social inclusion
+Improved public health
+Enhanced livability
+2042
+2050
+Note: For details of actions for each agency refer to section 5.3 of Bengaluru Climate Action and Resilience Plan Full Report, 2023
+
+[Page 46]
+BCAP GOVERNANCE
+CHAPTER 8
+Tenets of BCAP Governance for Inclusive Outcomes
+Coherence and Coordination
+• 
+Constitute a high-level committee on climate action for Bengaluru 
+• 
+Create and operationalise a climate action cell
+• 
+Mandate and start climate budget reporting
+• 
+Include climate change as a key aspect in all departmental mandates
+• 
+Designate/appoint a nodal officer in each department/agency to ensure the inclusion of the climate change agenda in policies/plans/ programmes/projects
+Ownership and Agency
+• 
+Prepare local-level plans with climate action as a component
+• 
+Include climate action as an agenda in Ward Committee mandates 
+• 
+Create climate working groups at the zone/ward level 
+• 
+Create a collaborative and shared platform for spatial data/analytics 
+• 
+Create a forum for locally led climate action in Bengaluru
+Capacity
+• 
+Assess climate action planning and implementation capacity in stakeholder depart­ ments identified in the BCAP
+• 
+Design and conduct programmes on sensitisation, training, and capacity-building for climate action 
+• 
+Knowledge dissemination platform for the BCAP
+• 
+Create a pool of partner agencies
+• 
+Create a project preparation facility
+• 
+Allocate budgets for climate action gap funding for Bengaluru
+Monitoring, Evaluation and Reporting
+• 
+An integrated digital platform for monitoring, evaluation, reporting, and learning on the BCAP will be created and operationalised, to facilitate collaboration and coordi­ nation with the utmost efficiency and transparency.
+Effective implementation of the BCAP rests on the following pillars, leading to a fair and just transition to towards net zero emissions and enhanced resilience of all citizens against the impacts of climate change.
+
+[Page 47]
+BENGALURU CLIMATE ACTION AND RESILIENCE PLAN
+Climate Action Cell (CAC) 
+Setting up a Bengaluru Climate Action Cell (CAC) is critical, considering the multi-sectoral and multistakeholder nature of the BCAP. The CAC will be a dedicated and well-capacitated institutional apparatus, which will anchor, aid and monitor the implementation of the BCAP. Besides the CAC, two other important facilitation centres will be created/identified for effective implementation of the BCAP: a technical support and knowledge centre and a project preparation facility.
+Figure 23 | BCAP governance structure
+Chief Commissioner
+Special Commissioner
+High-powered advisory committee
+BCAP Technical Support and Knowledge Centre
+Climate Action Cell (Anchored in BBMP)
+BCAP Project 
+Preparation Facility
+• 
+GHG Inventory updation
+• 
+Conduct periodic climate change risk and vulnera­ bility assessment 
+• 
+Anchor agency for capacity-building and training (including climate budget reporting)
+• 
+MERL activities relating to 
+BCAP
+• 
+Coordination with stake­ holder departments
+• 
+Coordination with Technical 
+Support and Knowledge 
+Centre, and BCAP Project 
+Preparation Facility
+• 
+Support in climate budget­ ing
+• 
+Other admin tasks
+• 
+Support departments in turning actions into fundable projects
+• 
+Help in raising funds
+• 
+Forge partnerships
+Centre of Excellence/ 
+Research-based Knowledge 
+Institute
+Stakeholder Departments (Nodal Officers)
+With participation from the private sector
+Source: As identified by BBMP with the technical support of WRI India
+
+[Page 48]
+Monitoring, Evaluation, Reporting, Learning (MER) structures would include indicators for measurement, reporting systems, communication protocols, and infrastructure required for effective implementation and tracking of progress on BCAP goals and targets. For the BCAP, the entirety of MER operational structures and tools will be designed based on three primary levels of MERL operations: Action, Outcome and Impact.
+Figure 24 | Components of the MER Framework
+MONITORING
+EVALUATION
+REPORTING
+Action Implementation
+Outcome Monitoring
+Impact Monitoring
+Template includes:
+• 
+Type of action
+• 
+Activity
+• 
+Output
+• 
+Timelines
+• 
+Implementation status (Frequency: Monthly/quarterly)
+Template includes:
+• 
+KPIs identified
+• 
+Performance of baseline year
+• 
+Performance of evalua­ tion year
+• 
+Change observed (Frequency: 
+6-monthly/ 
+Annual/ 
+2-yearly based on action type)
+• 
+GHG Inventory to be updated every 2 years
+• 
+Annual assessment of loss and damage due to climate related disasters
+• 
+Climate Change Risk and 
+Vulnerability Assessment (CCRA-VA) to be conducted every 3-5 years
+Shift observed in the performance of outcome and impact indicators (KPIs) & evaluated for course correction 
+Leadership Level
+Public Reporting
+Periodic reporting of actions, output and impact to department heads, nodal agencies and city leadership
+Reporting of the city’s performance towards net zero, adaptation, and resilience goals. 
+MONITORING, EVALUATION AND REPORTING 
+OF BCAP
+CHAPTER 9
+Source: As identified by BBMP with the technical support of WRI India
+BCAP goals and targets will be evaluated every three years based on insights from monitoring exercises and revised if necessary. The entire BCAP will be revisited every five years based on updated evidence and the progress made on goals and targets.
+
+[Page 49]
+BENGALURU CLIMATE ACTION AND RESILIENCE PLAN
+BCAP MER Operational Framework
+The figure below provides a schematic illustration of the BCAP MER operational framework.
+Figure 25 | MER Operational Framework
+ACTION LEVEL MER
+OUTCOME LEVEL
+IMPACT LEVEL
+• 
+Monitors progress of actions against planned outputs and timelines implementation
+• 
+Nodal officers in CAC coordinates with respective department point of contact for updating status of progress in the 
+MER platform
+• 
+Monitors performance of identified KPIs in each sector
+• 
+One nodal agency in each sector identified who will be responsible for collating outcome KPIs
+• 
+Nodal officers in CAC coordinates with identified nodal agency in each sector for updating status of KPIs in the MER platform
+• 
+Monitors change in key impact indicators: ie. 
+GHG emission, loss and damage, climate change risk and vulnerability
+• 
+Chief scientist, CAC, with support from nodal of­ ficers, coordinates with BCAP technical support and knowledge to update inventory results in the MER platform
+Summary of progress of actions published
+Monthly/quarterly report of progress of actions against planned timelines sent to respective 
+HODs, Special 
+Commissioner, 
+Chief Commis­ sioner
+Summary of performance of outcome KPIs published
+Half yearly/yearly report of perfor­ mance of KPIs sent to respective 
+HODs, Chief Com­ missioner, high- powered advisory committee
+Summary of 
+GHG inventory, loss and dam­ age, CCRA-VA published
+Summary of progress of actions published
+PUBLIC INTERFACE OF MER
+STAKEHOLDER DEPARTMENTS
+Source: As identified by BBMP with the technical support of WRI India
+
+[Page 50]
+WAY FORWARD
+The Bengaluru Climate Action and Resilience Plan is not an end in itself, but a step towards mainstreaming climate action in the political, economic and civic discourse that shapes the city’s future. A strong political commitment to the governance and financing of the BCAP in its early years will largely determine its success in the long term. The adoption of the BCAP by diverse stakeholders will require institutional alignment, coherence, and capacity across the decision-making value chain. Preparation of the BCAP saw a three-pronged consultative exercise involving a diverse range of stakeholders, at every stage of the process. Supported by an evidence-based approach, the BCAP is not restricted to mere notional suggestions about what needs to happen in the city but adopts a more critical data/ research lens. The BCAP lays out an actionable roadmap that city agencies and ward committees can use to carve out localised interventions.
+The seven sectors that have been identified to orient actions reflect the existing institutional set-up of the city, as well as the strong interdependencies certain sectors have on others. While such bucketing is useful for attributing action implementation responsibilities to one or more agencies, it is not sacrosanct and may need to be reoriented in line with future governance systems of the city as they evolve.
+The identified actions have been framed carefully to make them implementable. At the same time, some actions will require further detailing to make them fundable projects. This is an important step where the suggested project preparation facility would play an important role and help align those projects to available sources of finance.
+Lastly, an informed discourse on city-level climate action is extremely critical for consensus-building among diverse actors who influence decisions and perceptions but who are not essentially aligned. It forms the foundation for a continuous process of dialogue and collective consensus-building that aims to make climate action a civic agenda by involving the bottom tier of government and other non-state local actors. Enabling access to resources and information on the BCAP, and to platforms for participation, will help aid the process, bring about transparency and accountability, and instil a greater sense of ownership of climate actions among the citizens of Bengaluru.
+
+[Page 52]
+GLOSSARY
+Adaptation: As per IPCC, adaptation is a process of ad­ justment to actual or expected climate and its effects. 
+In human systems, adaptation seeks to moderate or avoid harm or exploit beneficial opportunities. In some natural systems, human intervention may facilitate ad­ justment to the expected climate and its effects.
+Adaptative capacity: The ability of an individual or a system or the local governing body to adapt them­ selves to the needs of the region and the people during hazard occurrence and to respond in a timely efficient manner, thereby reducing loss and damage.
+Carbon dioxide equivalent (CO2e): The IPCC defines 
+CO2e as “the amount of CO2 that would have the same global warming potential as a given amount of another 
+GHG, taking into account the difference in their radia­ tive properties and atmospheric lifetimes”
+Carbon sink: Any process, activity or mechanism that removes a greenhouse gas, an aerosol, or a precursor of a GHG or aerosol from the atmosphere.
+Climate change: The IPCC defines climate change as a long-term change in the average state of the climate, or in its variability, that persists for decades or longer. This includes changes in temperature, precipitation, sea lev­ el, and other climate variables, resulting from natural and human causes, that have significant impacts on natural and human systems.
+Climate change risk: The IPCC defines climate change risk as the potential for adverse effects, such as dam­ age or harm, resulting from climate change impacts and their interactions with vulnerabilities and exposure of human and natural systems. Climate change risk is assessed by considering the likelihood, magnitude, and timing of impacts, and can be mitigated through adap­ tation and mitigation actions.
+Exposure: The presence of people in a region that could potentially host hazards. It also refers to the adaptive capacity of an individual in the occurrence of the haz­ ard.
+Greenhouse Gases: The IPCC defines greenhouse gases (GHGs) as “gases that absorb and emit radiation within the thermal infrared range, leading to a warming effect on the climate system.” The main greenhouse gases of concern in the context of climate change are carbon dioxide (CO2), methane (CH4), nitrous oxide (N2O), and fluorinated gases (such as hydrofluorocarbons and sul­ phur hexafluoride). These gases are emitted through various human activities, including the burning of fossil fuels, deforestation, and agriculture.
+GHG emissions inventory: An estimate of emissions from the sources and sinks within a defined spatial and temporal dimension
+Global warming: Global warming is the long-term heating of Earth’s surface observed since the pre-in­ dustrial period (between 1850 and 1900) due to human activities, primarily fossil fuel burning, which increases heat-trapping greenhouse gas levels in Earth’s atmo­ sphere. 
+GPC BASIC level: The GPC BASIC level is a simplified version of the Greenhouse Gas Protocol Corporate Ac­ counting and Reporting Standard (GPC), designed for small and medium-sized enterprises (SMEs) and organ­ isations with limited capacity for greenhouse gas ac­ counting. The GPC BASIC level provides a standardised framework for calculating and reporting greenhouse gas emissions from a limited set of emission sources, such as energy use, business travel, and waste dispos­ al.
+Hazard: Hazard refers to the probability of occurrence of extreme weather events either due to natural causes or due to human interventions, resulting in loss. The loss could be in terms of life, injury, infrastructure dam­ age, natural resources, or livelihood.
+Mitigation: According to the Intergovernmental Panel on Climate Change (IPCC), Climate Change Mitigation is a human intervention to reduce the sources (of GHG emissions) or enhance the sinks of greenhouse gases
+
+[Page 53]
+BENGALURU CLIMATE ACTION AND RESILIENCE PLAN
+Net zero: Net zero means achieving a balance be­ tween the amount of GHG emissions produced and the amount removed from the atmosphere, resulting in no further increase in the concentration of these gases in the atmosphere. This balance can be achieved through a combination of reducing emissions and increasing carbon removal efforts, such as afforestation, reforesta­ tion, and carbon capture and storage technologies. 
+Representative Concentration Pathways (RCP) 
+Scenarios: RCP makes predictions for varied scenari­ os of how concentrations of greenhouse gases in the atmosphere will change in the future as a result of hu­ man activities. RCPs try to capture the consequences of changes in greenhouse gas concentration on the earth systems, simulate the response of climate systems, and provide a wide range of models. Scenarios include a stringent mitigation scenario (RCP2.6), two intermedi­ ate scenarios (RCP4.5 and RCP6.0), and one scenario with very high GHG emissions (RCP8.5).
+Resilience: The ability of a system, its people, and its economy to anticipate, absorb and accommodate, or recover from a hazardous event in a timely and efficient manner.
+Vulnerability: The tendency of a region and/or an indi­ vidual to be exposed to climate hazards and their im­ pact. It would also encompass the extent of exposure of an individual to a particular hazard based on the extent of exposure.
+
+[Page 54]
+REFERENCES
+1. 
+2. BDA. 2015. “BDA Revised Master Plan.” 2015. 
+3. BWSSB. 2017. “BWSSB Vision Document.” https://bwssb.karnataka.gov.in/storage/pdf-files/documents/Vision%20
+Document%202050%20%20new.pdf.
+4. C40. 2018a. “C40 Climate Action Planning Resource Centre.” 2018. https://resourcecentre.c40.org/resources/inclusiveclimate-action.
+org/s/article/Climate-Change-Risk-Assessment-Guidance?language=en_US 
+6. CMP-Bengaluru. 2020. “Comprehensive Mobility Plan.” https://data.opencity.in/dataset/ddc35621-d3c2-49d7-a14e06425f3cb336/resource/58f2bd6c-2b93-4300-8a14-2929430dcc34/download/dult-comprehensive-mobility-plan-2020.
+pdf.
+7. 
+Department, Planning. 2021. “Economic Survey 2021-22.” 2021. https://planning.karnataka.gov.in/info-4/Reports/
+Economic+Survey+2021-22/en 
+8. “District Bengaluru Urban, Government of Karnataka | Silicon Valley of India | India.” BUD. BUD. https://bengaluruurban.
+nic.in/en/.
+11. EMPRI. 2021. “Karnataka State Action Plan on Climate Change: Version 2 (Draft Report)” https://empri.karnataka.gov.in/ storage/pdf-files/CCC/KSAPCC%20.pdf 
+12. ESG. 2021. “Make Bengaluru Climate Friendly: Webinar Report” September. https://esgindia.org/new/wp-content/ uploads/2021/09/BangaloreClimateActionReportEnglish.pdf 
+13. Goswami, Sahana, Samrat Basak, Aakash Malik, and Raj Bhagat Palanichamy. 2022. “Urban Blue-Green Conundrum: research/urban-blue-green-conundrum-10-city-study-impacts-urbanization-natural-infrastructure-india.
+14. GPC GHG. 2014. “Global Protocol for Community-Scale Greenhouse Gas Emission Inventories (GPC)” 2014. https:// ghgprotocol.org/ghg-protocol-cities or.jp/public/2006gl/vol5.html.
+17. i-Tree. tool. “I-Tree Canopy.” tool. https://canopy.itreetools.org/.
+
+[Page 55]
+BENGALURU CLIMATE ACTION AND RESILIENCE PLAN
+18. KSNDMC. 2022. “Karnataka State Thunderstorm And Lightning Action Plan - 2022.” 2022. https://ksndmc.org/kn/
+ViewPdf?pdfdoc=LIGHTNING-ACTION%20PLAN-2022 
+19. Office of the Registrar General & Census commissioner, India. Ministry of Home Affairs, Government of India. Census 2011. https://censusindia.gov.in/census.website/data/census-tables 
+20. MoEFCC. 2019. “National Clean Air Programme (NCAP)” 
+21. https://moef.gov.in/wp-content/uploads/2019/05/NCAP_Report.pdf 
+22. MSME. 2016. “District Industrial Profile, MSME.” https://msmedibangalore.gov.in/files/Bengaluru%20Urban.pdf.
+23. NIUA. 2021. “Cities Readiness Report.” https://niua.in/c-cube/c-cube-documents 
+24. Ramachandra, T V, Asulabha K. S., Sincy Varghese, Vinay Shivamurthy, Dr. Bharath Aithal, Sudarshan Bhat, and Durga 
+Mahapatra. 2015. “Pathetic status of wetlands in Bangalore: epitome of inefficient and uncoordinated governance”. https://doi.org/10.13140/RG.2.1.1092.7846 explore-topics/resource-efficiency/what-we-do/cities/cities-and-climate-change 
+27. UNFCCC. 2022a. “India Updated First Nationally Determined Contribution | UNFCCC.” 2022. https://unfccc.int/ documents/611411 (The exhaustive list of references is available in the BCAP Full Report)
+
+[Page 57]
+BENGALURU CLIMATE ACTION AND RESILIENCE PLAN
+This is a short summary of the upcoming ‘Bengaluru Climate Action and Resilience Plan (BCAP), 2023'. This must not be construed as the full report. The BCAP full report will be made available online towards the end of 2023. 
+In addition, a supporting publication – Climate Change Risk and Vulnerability Assessment (CCRA-VA) for Bengaluru – will also be released shortly.
+ 
+To know more please contact:
+Basavaraj Kabade - basavarajkabade@hotmail.com
+Shrimoyee Bhattacharya - shrimoyee.bhattacharya@wri.org 
+Note: All maps in this report are intended as visualizations to communicate city-wide data analysis for information purposes only and are not to scale.

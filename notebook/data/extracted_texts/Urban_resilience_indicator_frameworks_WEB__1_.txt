@@ -1,0 +1,4006 @@
+[Page 1]
+Review of indicator frameworks supporting urban planning for resilience and health
+Third report on protecting environments and health by building urban resilience
+
+[Page 2]
+The WHO European Centre for Environment and Health, now located in Bonn, Germany, was established in 1989 by the First European Conference on Environment and Health and is an integral part of the WHO Regional Office for Europe. The Centre provides technical and scientific expertise on the impacts of the environment on health. It delivers policy advice and tools to inform and support decision-making in the areas of air quality; access to safe drinking-water, sanitation and hygiene; minimizing the adverse effects of chemicals; adaptation to and mitigation of climate change; environmental sustainability of health systems; urban health planning, including transport and mobility; and violence and injury prevention. It works with partners to develop collaborative initiatives addressing environment-related diseases. The Centre also strengthens country capacities to address environment and health challenges through a range of training courses on environment and health, including health impact assessments.
+
+[Page 3]
+Review of indicator frameworks supporting urban planning for resilience and health
+Third report on protecting environments and health by building urban resilience
+
+[Page 4]
+Review of indicator frameworks supporting urban planning for resilience and health
+Abstract
+Urban planning, risk governance and resilience have become increasingly important pathways to promote and protect public health at the local level. Climate change, inadequately planned urbanization and environmental degradation have left many cities vulnerable to disasters. The COVID-19 pandemic has further highlighted the links between health and urban environments, and the relevance of sustainable and resilient planning. 
+Various global frameworks have been established to address sustainable development, urban environments and resilience, and awareness of the local benefits associated with implementation of these global agendas is increasing. The Protecting environments and health by building urban resilience project aims to support local authorities and decision-makers to reflect on the environment and health dimensions of local preparedness and resilience, and to promote the application of urban planning approaches to establish safe, healthy and sustainable cities. This third report of the project reviews the relevance of international indicators and datasets to support urban planning for resilience, and the suitability of international monitoring frameworks to identify priorities for establishing resilience in urban settings.
+Keywords
+• Urban planning
+• Resilience
+• Environment and health
+• Emergencies
+• Healthy cities
+• Well-being
+• Indicators
+• Disaster risk reduction
+• Preparedness
+• Governance
+• Building forward better
+WHO/EURO:2022-5649-45414-64989 © World Health Organization 2022
+Some rights reserved. This work is available under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 IGO licence (CC BY-NCSA 3.0 IGO; https://creativecommons.org/licenses/by-nc-sa/3.0/igo).
+Under the terms of this licence, you may copy, redistribute and adapt the work for non-commercial purposes, provided the work is appropriately cited, as indicated below. In any use of this work, there should be no suggestion that WHO endorses any specific organization, products or services. The use of the WHO logo is not permitted. If you adapt the work, then you must license your work under the same or equivalent Creative Commons licence. If you create a translation of this work, you should add the following disclaimer along with the suggested citation: “This translation was not created by the World Health Organization (WHO). WHO is not responsible for the content or accuracy of this translation. The original English edition shall be the binding and authentic edition: Review of indicator frameworks supporting urban planning for resilience and health: third report on protecting environments and health by building urban resilience. Copenhagen: WHO 
+Regional Office for Europe; 2022”.
+Any mediation relating to disputes arising under the licence shall be conducted in accordance with the mediation rules of the World 
+Suggested citation. Review of indicator frameworks supporting urban planning for resilience and health: third report on protecting environments and health by building urban resilience. Copenhagen: WHO Regional Office for Europe; 2022. Licence: CC BY-NC-SA 3.0 IGO.
+Cataloguing-in-Publication (CIP) data. CIP data are available at http://apps.who.int/iris.
+Sales, rights and licensing. To purchase WHO publications, see http://apps.who.int/bookorders. To submit requests for commercial use and 
+Third-party materials. If you wish to reuse material from this work that is attributed to a third party, such as tables, figures or images, it is your responsibility to determine whether permission is needed for that reuse and to obtain permission from the copyright holder. The risk of claims resulting from infringement of any third-party-owned component in the work rests solely with the user.
+General disclaimers. All reasonable precautions have been taken by WHO to verify the information contained in this publication. However, the published material is being distributed without warranty of any kind, either expressed or implied. The responsibility for the interpretation and use of the material lies with the reader. In no event shall WHO be liable for damages arising from its use. The named authors alone are responsible for the views expressed in this publication..
+Design by ACW, London
+
+[Page 5]
+Third report on protecting environments and health by building urban resilience
+Acknowledgements iv
+Abbreviations v
+Glossary vi
+Executive summary vii
+1. Introduction: the Protecting environments and health by building urban resilience project 
+1.1 Project context 
+1.2 Project objectives and deliverables 
+2. Indicator framework review 
+3. Background 
+4. Scope and methodology 
+4.1 Indicator framework selection 
+4.2 Urban indicator assessment approach 
+4.3 Limitations of the study 
+5. Results of the urban indicator framework review 
+5.1 SDG indicators 
+5.2 New Urban Agenda Monitoring Framework and related indicators 
+5.3 UNDRR Disaster Resilience Scorecard for Cities and Public Health System Resilience Addendum 
+5.4 OECD indicators for resilient cities 
+5.5 Risk Systemicity Questionnaire 
+5.6 ThinkHazard! tool 
+6. Discussion 
+7. Conclusion 
+References 
+Annex 1. Framework review matrices
+
+[Page 6]
+Review of indicator frameworks supporting urban planning for resilience and health
+Acknowledgements
+The WHO Regional Office for Europe wishes to express its appreciation to all those whose efforts made the production of this report possible.
+This report was written by Amaya Celaya Alvarez, Anna Karaan, Yana Antonenko, Sozvin Al Youssef and Esteban 
+Leon (UN-Habitat, City Resilience Global Programme, Spain).
+Inputs to content, structure and strategic development of the report were provided by Matthias Braubach and Sinaia 
+Netanyahu (WHO European Centre for Environment and Health, Germany). Information on the WHO Strategic Toolkit for Assessing Risks was provided by Adrienne Rashford and Jetri Regmi (WHO Regional Office for Europe). 
+A draft version of the report was reviewed by Ivone Pereira Martins (European Environment Agency, Denmark), 
+Virginia Murray (UK Health Security Agency, United Kingdom) and Helena Monteiro and Olga Shaskina (United 
+Nations Office for Disaster Risk Reduction, Regional Office for Europe and Central Asia).
+The report was produced with the financial support of the German Federal Ministry of Health and the German 
+Federal Ministry for the Environment, Nature Conservation, Nuclear Safety and Consumer Protection.
+
+[Page 7]
+Third report on protecting environments and health by building urban resilience
+Abbreviations
+ISO 
+International Organization for Standardization
+NUA 
+New Urban Agenda
+OECD 
+Organisation for Economic Co-operation and Development
+RSQ 
+Risk Systemicity Questionnaire
+SDG 
+Sustainable Development Goal
+SMR 
+Smart Mature Resilience [project]
+STAR 
+WHO Strategic Tool for Assessing Risk
+UN-Habitat 
+United Nations Human Settlement Programme
+UNDRR 
+United Nations Office for Disaster Risk Reduction (formerly UNISDR)
+
+[Page 8]
+Review of indicator frameworks supporting urban planning for resilience and health
+Glossary
+For all three project reports and the summary report, the following terminology is used, as defined by the United 
+Nations Office for Disaster Risk Reduction.1
+Disaster risk reduction is aimed at preventing new and red,ucing existing disaster risk and managing residual risk, all of which contribute to strengthening resilience and therefore to the achievement of sustainable development.
+Hazard is a process, phenomenon or human activity that may cause loss of life, injury or other health impacts, property damage, social and economic disruption or environmental degradation. Hazards may be natural, anthropogenic or socionatural in origin. Natural hazards are predominantly associated with natural processes and phenomena. Anthropogenic hazards, or human-induced hazards, are induced entirely or predominantly by human activities and choices. Several hazards are socionatural, in that they are associated with a combination of natural and anthropogenic factors, including environmental degradation and climate change.
+Mitigation is the lessening or minimizing of the adverse impacts of a hazardous event.
+Preparedness is the knowledge and capacities developed by governments, response and recovery organizations, communities and individuals to effectively anticipate, respond to and recover from the impacts of likely, imminent or current disasters. Preparedness is based on a sound analysis of disaster risks and good linkages with early warning systems, and includes such activities as contingency planning, the stockpiling of equipment and supplies, the development of arrangements for coordination, evacuation and public information, and associated training and field exercises.
+Resilience is the ability of a system, community or society exposed to hazards to resist, absorb, accommodate, adapt to, transform and recover from the effects of a hazard in a timely and efficient manner, including through the preservation and restoration of its essential basic structures and functions through risk management.
+Vulnerability reflects the conditions determined by physical, social, economic and environmental factors or processes which increase the susceptibility of an individual, a community, assets or systems to the impacts of hazards.
+understanding-disaster-risk/terminology, accessed 25 March 2022).
+
+[Page 9]
+Third report on protecting environments and health by building urban resilience
+Executive summary
+Public health and its links to urban planning, risk management, natural capital and the built environment of cities have become more relevant than ever in recent years. As Europe continues to grow increasingly urban, it faces new health-related challenges triggered by many factors, including demographic changes, migration dynamics, economic growth, environmental pressures, climate emergency and the recent COVID-19 crisis. This wide range of health risk drivers and internal pressures renders urban systems fragile, with a negative impact on the quality of life and well-being of citizens.
+This study evaluates the relevance and applicability of existing urban indicators for building more resilient and healthy cities through urban planning. To provide a more holistic perspective of urban health risks, it uses the concept of “urban resilience” as a new way of planning cities to prevent, prepare for, mitigate and adapt to not only shocks but also stresses and challenges, with the aim of building resilience through better information collection, policies, plans and initiatives. Since indicators and data are crucial to assess and manage urban health risks, as they provide essential evidence-based information that facilitates decision-making and action-taking, this study addresses several questions: Are existing indicator frameworks assessing current urban systemic vulnerabilities related to urban planning, resilience and health? Are they reflecting urban trends and their links with health risks? Could they assist local actors in identifying priority areas for action and provide guidance on how to improve urban planning and preparedness to enhance health and resilience?
+The analysis focuses on six frameworks, selected for assessment based on their relevance to the topic and scale, political and regional significance, public availability and variety: the Sustainable Development Goal (SDG) indicators (including links with the Sendai Framework and Paris Agreement); the New Urban Agenda Monitoring 
+Framework and related indicators; the United Nations Office for Disaster Risk Reduction (UNDRR) Disaster 
+Resilience Scorecard for Cities and its Public Health System Resilience Addendum; the Organisation for Economic 
+Co-operation and Development (OECD) indicators for resilient cities; the Risk Systemicity Questionnaire; and the 
+ThinkHazard! tool.
+The assessment approach is systemic and analyses the relationship of indicators to:
+• the current state of the urban environment – this identifies existing vulnerabilities and priority areas; and 
+• risk-oriented urban planning and interventions of the city – this provides an idea of how cities prepare for and/ or mitigate the impacts of hazards. 
+A secondary analysis examines the opportunities for local implementation of each framework.
+Key messages
+Complete coverage by the component indicators of both the dimensions was not found in any of the selected frameworks. While each individual framework cannot encapsulate all aspects of urban planning for health and resilience, they can complement each other to provide an idea of the city’s systemic vulnerabilities, and to reflect in part on risk trends and interventions.
+Review of the current state of the urban environment revealed no explicit link between this dimension and the potential related health consequences for citizens, even though all frameworks try to build such links from various perspectives. References to ecosystems and biodiversity, as well as environmental quality of water and soil, were largely found to be missing.
+The reviewed frameworks had a particular focus on risk-informed planning and assessment, which is a promising first step in addressing urban environmental hazards and challenges. However, more detailed and concrete risk-oriented planning and interventions indicators for urban settings still need to be compiled. Current frameworks tend to inform these only in part: the review found gaps related to public resource availability to address risk and risk-oriented and participatory planning.
+One crucial factor for evidence-based urban action is the measurability of the indicators and the feasibility of their implementing them at the local level. It is irrefutable that local-level indicators and data can lead to better urban planning; however, significant data challenges – such as data adequacy and design, availability at the local level and a lack of resources to gather data – need to be addressed to make data relevant and applicable locally.
+Making indicators actionable requires governance systems that consider a multiplicity of stakeholders to engage in the process in an open and participatory manner. While urban planning may be a specific jurisdiction of one municipality department, the factors that comprise a healthy and resilient city involve a wide range of sectors and call for integrated and Health in All Policies approaches.
+
+[Page 10]
+Review of indicator frameworks supporting urban planning for resilience and health
+Suggestions for action
+In applying various indicator frameworks for urban planning to increase health and resilience, it is important to understand which indicators are useful in providing guidance to which areas, and to identify how these can complement each other or supplement existing planning processes in the city. This study encourages local governments to engage in wider resilience-building efforts and to select or design indicators that are locally appropriate and measurable, and that address city-specific priorities, urban contexts and associated risks and challenges. This requires whole-of-government (international, national and local) and whole-of-society approaches, ensuring integration of environmental and health considerations in urban planning, local policies and governance processes. By empowering and financing local governments, efforts should be made to localize indicators (for example, through voluntary local reviews of the SDGs) and incentivize plans and initiatives for building healthy and resilient cities.
+As well as providing information for national reporting, local application can lead to innovative indicators that can better respond to and reflect urban realities, address gaps and trigger action. Peer learning and exchanges among cities should also be encouraged, to address the issues faced by this process collectively. A comprehensive survey of practical application of urban indicators in European cities and succeeding health policies and planning outputs would further enhance this study and support efforts to develop urban indicators for resilience and health.
+
+[Page 11]
+Third report on protecting environments and health by building urban resilience
+1. Introduction: the Protecting environments and health by building urban resilience project
+1.1 Project context
+Climate change, rapid and/or inadequately planned urbanization and environmental degradation have left many cities vulnerable to disasters. In addition, cities increasingly face local emergencies through industrial accidents and system failures, indicating the high degree of interdependencies especially within large cities. Inadequate planning has thus been recognized as a relevant disaster risk factor, affecting urban hazards, exposure and level of vulnerability (UNDRR, 2021).
+Disasters and local emergencies have a direct impact on population health, causing injuries, diseases, and mental and psychosocial outcomes. In addition, they may significantly affect the functionality of critical infrastructure, such as health-care facilities or water and energy supply, thereby further increasing existing health challenges due to lack of treatment and care services, with specific impacts for chronic and infectious diseases. Increasing local preparedness for health emergencies should therefore be considered a priority by national governments as well as local authorities (WHO, 2021a).
+Cities need to understand what features and processes make them vulnerable to crises and environmental emergencies, and their associated health impacts. They also need to recognize the most effective counteractions to take to reduce risk, prepare and become resilient (WHO, 2020). Reflecting the global relevance of this challenge, various international commitments and agreements have highlighted the need to address disaster risk, emergency preparedness and resilience at urban scale. The Sendai Framework for Disaster Risk Reduction 2015–2030 (United 
+Nations, 2015a) stipulates four action priorities: understanding disaster risk, strengthening governance to manage it, investing in disaster reduction for resilience, and enhancing preparedness for better response – all priorities to protect lives, livelihoods and health. Sustainable Development Goal (SDG) 11 on sustainable cities and communities (United Nations, 2015b) requires increased efforts by cities to adopt and implement policies on disaster resilience, and to establish disaster risk-management schemes. The Paris Agreement (United Nations, 2015c) established – alongside its focus on climate change mitigation – the first universal, legally binding global commitment on climatechange adaptation to strengthen resilience and reduce vulnerability.
+Much can be done at the city level by local authorities, planners and managers to translate these global agendas into local action, using urban planning and design as an instrument to reduce risks and vulnerabilities and build resilience – ultimately resulting in the protection of health and well-being (WHO, 2021b). Reflecting this need to localize global commitments, the New Urban Agenda seeks to ensure healthy, resilient and sustainable cities through disaster risk reduction and management, reduced vulnerability, and increased resilience and responsiveness to natural and human-made hazards (United Nations, 2017).
+1.2 Project objectives and deliverables
+This report is one of the deliverables of the Protecting environments and health by building urban resilience project, led by the European Centre for Environment and Health of the WHO Regional Office for Europe. The project is designed to support local authorities and decision-makers in building urban resilience. The project team compiled local-level experiences and lessons learned in relation to:
+• reducing health risks posed by local disasters and emergencies;
+• mitigating local vulnerability to associated hazards; and
+• identifying local priorities and actions for improving resilience (and health) through urban planning and design, as well as urban infrastructure management.
+The project placed focus on availability of data and indicators to support local assessments and decisionmaking regarding vulnerabilities and resilience needs. Exploring how cities can use urban and infrastructural interventions to reduce local disaster risks, increase preparedness and improve resilience is therefore not only a mechanism to address health protection but also a central component of the broader objective of sustainable, equitable and healthy urban development.
+A series of reports sets out the project findings on how urban resilience and preparedness can be improved by city structures and design, and through urban management and monitoring:
+• Urban planning, design and management approaches to building resilience – an evidence review, which documents urban challenges and implications associated with disasters and extreme events, and identifies associated priorities to prepare for future challenges and increase urban resilience through urban planning, design and management;
+• Urban planning for health – experiences of building resilience in 12 cities, which summarizes city interviews about their practical experience with local emergencies and disasters, and the local lessons learned for building forward better by reducing risks and vulnerabilities and creating more resilient urban design and infrastructure;
+• Review of indicator frameworks supporting urban planning for resilience and health, which explores how international monitoring frameworks can be applied at subnational or city level to describe crisis impacts
+
+[Page 12]
+Review of indicator frameworks supporting urban planning for resilience and health during an emergency situation, and/or to assess vulnerabilities and inform the establishment of more resilient urban settings; and
+• Urban planning for resilience and health: key messages, a summary report compiling key messages from all three technical reports and providing a condensed briefing for urban decision-makers on how to protect health and well-being through preparedness and resilient urban planning, design and management.
+All these reports can be accessed online via the WHO project website.1
+2. Indicator framework review
+Modern urban planning developed primarily as a result of the health concerns associated with unprecedented mass migration to urban centres triggered by the industrial revolution in the late eighteenth century. At that time, increasing pollution, growing sanitation issues and the emergence of diseases required new spatial solutions. 
+Nowadays, as Europe continues to grow increasingly urban – with more than 80% of the population estimated to live in cities by 2030 (Carmichael et al., 2017) – health should remain a lynchpin in the planning and governance of cities. This is especially the case as a wide range of drivers and pressures continue to make the urban system susceptible to various health-associated risks (Martinez et al., 2020).2 This has been particularly evident during the 
+COVID-19 pandemic, during which an estimated 90% of cases were reported in urban areas (United Nations, 2020).
+While in general health in European cities has improved in recent decades, new challenges brought on by demographic changes and ageing populations, migration dynamics, economic growth, environmental pressures and climate change – as well as the increasing frequency and severity of extreme weather events, storms, floods and other disasters – have put urban systems under pressure. This presents a danger to citizens’ lives and health, either directly or through cascading effects. Potential systemic risks that climate change may trigger in the future present a serious threat for cities. These include growing occurrence of infectious diseases and changing distribution patterns due to temperature changes, as well as risks associated with waterborne infectious diseases resulting from the impact of extreme events on water quality and availability. The consequences of these disasters can be devastating at all levels, as highlighted by WHO’s health emergency and disaster risk management framework (WHO, 2019) and the Sendai Framework for Disaster Risk Reduction 2015–2030 (United Nations, 
+2015a), which stress the need for effective disaster risk management systems and coordination among various sectors and stakeholders. Reflecting the public health relevance of disasters, health emergencies are established as a main pillar of the WHO European Programme of Work (WHO Regional Office for Europe, 2020). 
+Since urban planning touches on numerous elements and metabolic processes in the city, however, resilient planning for health should not only involve disaster and emergency risk but also encompass a broader array of risks. “Silent” health risks associated with biodiversity loss, air pollution, water and soil contamination and unhealthy diets, as well as sedentary behaviour and isolation, have become more prominent in the European policy agenda, as their effects on physical and mental health and health equity become increasingly evident. While the immediate effects of these risks are difficult to sense or measure, in the longer term they may have far-reaching impacts on health, reaching magnitude levels comparable to those of disasters. For instance, air pollution exposure is increasingly reported to be linked to a wide range of diseases, affecting every organ of the body. In 2018 air pollution accounted for approximately 379 000 premature deaths in the 27 European Union Member States and the United 
+Kingdom; it can thus be considered the single largest environmental health risk in Europe (EEA, 2020). Another example is mental health impacts, which are often disregarded but can seriously undermine physical health.
+The right to health is a universal human right, promoted and protected by the United Nations mandate, and a healthy population is one of the most important assets of a city. Urban and territorial planning shape citizens’ environment, behaviour, well-being and quality of life significantly (UN-Habitat & WHO, 2020). By offering healthenabling built environments and supporting fundamentals for a healthy life, cities can contribute to maintaining an ecosystems balance, build resilience to health risks, reduce associated costs and enhance health equity (Martinez et al., 2020). According to WHO, the “good health of all its citizens is one of the most effective markers of any city’s sustainable development. Healthy cities are environmentally sustainable and resilient” (WHO, 2016a). 
+They are also socially inclusive – a notion that reflects the vital sign of health as the “pulse” of key international sustainable development agendas, such as the 2030 Agenda for Sustainable Development (United Nations, 
+2015b) and the New Urban Agenda (United Nations, 2017). For more than 30 years, through its Healthy Cities and European Healthy Cities Network initiatives, WHO has promoted health in the social, economic and political agendas of more than 100 cities in Europe (WHO Regional Office for Europe, 2021).
+Health in cities can be measured in various ways. To support bringing health-resilient urban planning into the mainstream, it is important to rely on evidence to manage risks effectively. Urban indicators, in this sense, are tools that support the achievement of healthy, resilient and sustainable cities by providing evidence for 
+1 Protecting environments and health by building urban resilience. In: WHO/Europe [website]. Copenhagen: WHO Regional Office for Europe; 2022 
+2 See the first report on protecting environments and health by building urban resilience (Urban planning, design and management approaches to building resilience – an evidence review) for further information on the environmental health challenges in cities, as well as relevant countermeasures through urban planning, design and management.
+
+[Page 13]
+Third report on protecting environments and health by building urban resilience planning and decision-making. This study attempts to determine whether existing urban indicator frameworks assess current urban systemic vulnerabilities related to health – particularly those driven by urban processes and planning. It also analyses whether they anticipate urban risk trends and their links with health through the knowledge and measurement of known and plausible events and impacts, while acknowledging uncertainty. The final goal of the study is to discover whether application and implementation of these indicator frameworks in cities can assist local actors in unravelling priority areas for action and provide guidance on how to improve urban planning to enhance health and resilience. This study will inform the WHO project on protecting environments and health by building urban resilience.
+3. Background
+The importance of healthy populations and the prevalence of health issues have made public health an increasingly essential aspect of various disciplines and sectors, requiring new, strategic and global approaches (Burkle, 2010). In 2015, various international agreements and frameworks helped to consolidate a move towards a stronger link between health and urban development, marking a shift from a notion of health in the city that is limited to provision of health services (Box 1). These cover the spectrum from disaster risk reduction and management – the Sendai Framework (United Nations, 2015a); to climate change – Paris Agreement (United 
+Nations, 2015c); and sustainability – 2030 Agenda for Sustainable Development (United Nations, 2015b). While these are global visions, they remain crucial for ensuring an ambitious and holistic approach in tackling healthrelated issues at the urban level, by supporting a strategic vision to drive and support cities’ actions (EEA, 2021).
+Box 1. Relevant international agendas for building resilient and healthy cities
+The 2030 Agenda for Sustainable Development, comprising 17 Sustainable Development Goals (SDGs), is the most comprehensive international agenda agreed upon by the United Nations Member States (United Nations, 
+2015b). It sets as specific goals SDG 11: Sustainable cities and communities and SDG 3: Good health and wellbeing, although the links between the goals mean that most contribute to the achievement of healthy and resilient cities (ISGlobal, 2021).
+The Sendai Framework (United Nations, 2015a) and its application at the local scale – the United Nations Office for Disaster Risk Reduction (UNDRR) Disaster Resilience Scorecard for Cities (UNDRR, 2017) – act as the primary reference for disaster resilience in the international community, with explicit reference to health-related vulnerabilities and hazards (Aitsi-Selmi & Murray, 2015). The Sendai Framework promotes an all-hazards approach, considering more than one hazard in a given place. It also considers the potential links among them, including concepts of simultaneous or cumulative occurrence, such as how natural hazards can exacerbate conditions of biological hazards.
+Similarly, the Paris Agreement (United Nations, 2015c) – a legally binding international treaty on climate change – was described by WHO as “potentially the most important public health agreement of the century” (WHO, 2021a), since failing to mitigate climate change will have devastating impacts on the environmental determinants of health and exacerbate the severity and impacts of hazards at the local level. These agendas need to be implemented effectively at the local level to reach their targets.
+The New Urban Agenda provides a common vision for urban areas to ensure “safe, healthy, accessible, affordable, resilient, and sustainable cities and human settlements to foster prosperity and quality of life for all by 2030” through good urban governance, policies, planning and design (United Nations, 2017).
+With this increasing focus on cities’ roles (along with the associated risks) in ensuring sustainable development, the concept of urban resilience (UN-Habitat City Resilience Global Programme, 2021) becomes an operational meeting area of these different agendas (Fig. 1). European city networks and organizations have increasingly made resilience a key component of their work (UNDRR, 2015). The concept of urban resilience looks at new way of planning cities and leading them through better policies to a transformative new state. This necessitates a multihazard systems approach that considers the multiplicity of hazards – natural or anthropogenic; sudden or slow-onset – that may affect the city, and their cascading or cumulative impacts on the various systems comprising a city and its inhabitants. With this approach, resilient cities can work towards sustainability to ensure positive long-term impacts while preventing, preparing for, mitigating and adapting to disaster and climate risk to drive and protect development goals and citizens’ health and well-being (UN-Habitat, 2018).3
+3 City experiences, lessons learned and local priorities for shaping urban resilience are presented and discussed in the second report on protecting environments and health by building urban resilience (Urban planning for health – experiences of building resilience in 12 cities).
+
+[Page 14]
+Review of indicator frameworks supporting urban planning for resilience and health
+Fig. 1. The context of resilience and sustainability
+Source: adapted from Morchain & Robrecht (2012).
+Urban health has multiple determinants, from individual factors – such as age, hereditary conditions, income and lifestyle – to wider environmental factors – such as the built and natural environment – to the global ecosystem and climate stability (Fig. 2). These determinants can affect both physical and mental health of citizens in a more or less direct way.
+Fig. 2. Determinants of health
+Source: Barton & Grant (2012).
+While urban planning acts directly on the environmental determinants of health, in doing so, it also influences other factors. Indeed, urban planning, financing and governance decisions can produce a double-edged effect: they “can create or exacerbate major health risks – or they can foster healthier environments and lifestyles, that in turn reduce the risks of both communicable and noncommunicable diseases” (WHO, 2016a). For example, expanding the network of walkable and cyclable pathways in a city can help enhance citizens’ health and wellbeing. If these interventions are planned as standalone measures without a holistic approach, however (for example, next to busy roads or without enabling infrastructure/comprehensive transition plans for new mobility), they can exacerbate public health risks, such as those associated with air pollution or injuries, and mortality from traffic accidents. In the context of the current COVID-19 pandemic, the impact of less tangible built environment determinants – such as housing habitability, noise pollution levels or accessibility to green open spaces – on both physical and mental health and well-being of citizens has become more palpable, especially during lockdowns. 
+The pandemic is becoming a turning-point for this realization, and this is likely to help to accelerate the paradigm shift towards more resilient urban planning for health.
+Sustainability
+Resilience
+Climate change adaptation and mitigation
+Disaster risk reduction
+T h e d e t e r m
+I n a n t s o f h e al t h a n d w el lb ei n g in o ur n ei g hb o ur h o o d s
+Other neighbourhoods, other regions
+Macro-economy, politics, global forces
+GL
+OB
+AL E
+CO
+SY
+ST
+EM
+N
+AT
+U
+RA
+L 
+EN
+VI
+R
+O
+N
+M
+EN
+T
+B
+UI
+LT E
+N
+VI
+R
+O
+N
+M
+E
+N
+T
+A
+C
+TI
+VI
+TI
+E
+S
+L
+O
+C
+A
+L 
+C
+O
+M
+M
+U
+N
+I
+T
+Y
+C
+O
+M
+M
+U
+N
+I
+T
+Y
+L
+I
+F
+E
+S
+T
+Y
+L
+E
+Cli ma te ch an ge
+Na tu ra l h ab it at s
+B ui ld in g s, p la ce s
+W or ki ng , s h o p pi n g, m o vi n g
+W e a l th c r e a ti o n
+S o ci a l c a p i t a l
+Bi od iv er sit y 
+Ai r, wa te r, la nd
+St re ss , r o ut es
+Li vi n g, p la yi n g, l e ar ni n g
+M a r k e t s
+N e t w o r k s
+P
+E
+O
+P
+L
+
+[Page 15]
+Third report on protecting environments and health by building urban resilience
+Information is crucial to manage risks and improve health in urban settings successfully using a resilience lens. 
+According to the WHO report Advancing health emergency preparedness in cities and urban settings in COVID-19 and beyond, data collection, analysis, monitoring and reporting at the local level, and adopting a whole-ofgovernment, whole-of-society approach are critical (WHO, 2021b). Fortunately, a variety of urban indicator frameworks have been developed by international institutions such as UNDRR, the United Nations Human 
+Settlement Programme (UN-Habitat), Organisation for Economic Co-operation and Development (OECD) and 
+Global Facility for Disaster Risk Reduction (GFDRR). These monitor, inform or align with the targets of the relevant international agendas. Indicators, unlike raw data or statistics, are directional. Through the use of quantitative or qualitative data, they signify that a situation, condition or trend exists, and provide essential evidence-based information to underpin action (Knox Clarke & Darcy, 2014). In essence, indicators act as the bridge between data and policy (Westfall & De Villa, 2001).
+Some indicators give information about processes through time, whereas others measure outcomes that could be considered static measurements, even though they can be monitored against themselves periodically. 
+Indicators can be used in isolation or as a set of aggregated or combined criteria – benchmarked or not (Knox 
+Clarke & Darcy, 2014). Indicators can also be linked to a deductive or inductive vocation. A deductive vocation extracts data from the past – related to corrective risk management; an inductive vocation tries to anticipate and establish potential future pathways on critical issues – related to prospective risk management (Celaya 
+Alvarez, 2015). Through these, indicators can provide evidence for policy- and decision-making that will ultimately facilitate resilience-building interventions.
+Since indicators that are collected and analysed are those acted upon, the design of indicators and their frameworks is extremely important in policies and planning. Often, important aspects may not be included due to intent and focus, conceptual differences or the difficulty of collecting data. Indeed, data collection for relevant indicators – particularly quantitative ones – remains challenging at the local level, owing to an absence of disaggregated data, conflicting boundaries and jurisdictions, and a lack of resources (Cardona et al., 2003). 
+While some can be extrapolated from national data or existing surveys and statistics, many more specific and innovative urban indicators – derived from evolving understandings of urban health and resilience – do not have local data collection and management mechanisms in place, often owing to limited local government capacity and jurisdiction. It is, however, these types of indicator that may be more relevant to place-based urban planning and resilience interventions.
+4. Scope and methodology
+To evaluate the relevance and applicability of existing urban indicators in building more resilient and healthy cities through urban planning, this report first focuses on selection of the indicator frameworks to be assessed. It then presents an in-depth qualitative review and evaluation of indicators within each framework, based on desk research. This section sets out the criteria for selection and a review of the indicator frameworks, based on their ability to answer two main questions:
+• Can the underlying indicators assess systemic vulnerabilities related to health – particularly those driven by urban planning processes and practices?
+• Do the indicators have the capacity to reflect and anticipate resulting urban risk trends, their links to known plausible events and their potential impacts on health, while acknowledging uncertainty?
+By answering these questions, the study aimed to reveal whether application and implementation of these frameworks in cities could assist local actors in unravelling priority areas for action and provide guidance on how to improve urban planning to enhance health and resilience.
+4.1 Indicator framework selection
+Since many indicator frameworks attempt to capture urban resilience and health information, it was necessary to create a selection of relevant frameworks. This study focuses on the physical environment of cities, so it was important that the frameworks reviewed should collect urban-scale information that could provide information useful for spatial planning and its links with health and resilience. Furthermore, as indicators with the highest possibility of being collected and monitored are often those that align with political priorities, this study considers indicator frameworks that attempt to monitor achievement of relevant international agendas. While countries and cities have varying priorities, agendas that are internationally agreed upon can serve as common and shared objectives that have been committed to by heads of state, serving as powerful frameworks that all levels of government should adhere to. At the urban level, this could be either directly through localized application of associated indicators or through tools developed and promoted by relevant organizations and city networks in 
+Europe. This ensures alignment with important issues in the region and precludes systems that are developed and implemented only in non-European contexts.
+Another important consideration for selection was the accessibility of the framework. This study prioritizes frameworks that cities could apply independently thanks to public availability of the framework’s indicators and underlying methodology and/or databases. Finally, the selection needed to capture a variety of framework and
+
+[Page 16]
+Review of indicator frameworks supporting urban planning for resilience and health indicator designs to explore the broad range of existing urban indicators that cities have at their disposal. The resilience debate is broad and multifaceted, so it was anticipated that no singular approach would be able to capture it in totality; this required a concerted effort to look into various framework designs. Different indicator types also provide various ways of collecting and analysing information, providing options for different contextual situations.
+In summary, the frameworks for assessment were selected based on relevance to topic and scale, political and regional significance, public availability and variety. Using these criteria, the initial list of frameworks was narrowed down to six (Table 1).
+Table 1. Frameworks selected for review
+Framework
+Scale
+Developer
+Year
+SDG indicators (United Nations, 2015d)
+Country
+United Nations
+2015
+New Urban Agenda Monitoring Framework and related indicators (UN-Habitat, 2020)
+City
+UN-Habitat
+2020
+Disaster Resilience Scorecard for Cities (UNDRR, 2017)
+City
+UNDRR – Making Cities Resilient 
+2030 campaign
+2019
+Indicators for resilient cities (Figueiredo, Honiden & Schumann, 2018)
+City
+OECD
+2018
+Risk Systemicity Questionnaire (SMR, 2021a)
+City
+ICLEI European Secretariat – 
+Smart Mature Resilience project
+2018
+ThinkHazard! tool (GFDRR, 2020)
+Region/ district
+Global Facility for Disaster Risk 
+Reduction
+2007
+Notable exclusions of indicator frameworks include the monitoring indicators for the Sendai Framework and 
+Paris Agreement, since neither of these are generally applied at the urban level. They are not entirely absent from the assessment, however, as both are captured in certain SDGs (particularly SDG 1: No poverty, SDG 11: 
+Sustainable cities and communities and SDG 13: Climate action). In addition, the Disaster Resilience Scorecard for Cities, based on the Ten Essentials for Making Cities Resilient, is promoted as an operational framework of the Sendai Framework at the local level (UNDRR, 2021a). Other relevant urban-focused resilience tools – such as UN-Habitat’s (2018) City Resilience Profiling Tool and Arup’s Resilient City Index (Rockefeller Foundation & 
+Arup, 2015) – were not included, as the associated indicators are not publicly available and require external partners for implementation.
+4.2 Urban indicator assessment approach
+In reviewing the indicator frameworks, criteria for evaluation were developed to answer the study’s main research questions to determine whether underlying indicators provide the necessary information to aid urban planning policy. Urban resilience literature often uses a systems approach in assessing cities, stemming from the key concept that cities are a system of systems – interdependent and dynamic. A common example of this is the pressure-state-response model, originally developed by the OECD (2013). It describes a cause-and-effect relationship between human pressures on the environment, the actual state of the environment and responses taken to address environmental damage. This model has since been expanded to include other factors and applied to areas other than the environment (such as the driving forces, pressures, state, exposures, health effects and actions; and the driver-pressure-state-impact-response frameworks). It remains useful in representing causality in urban systems for better planning and decision-making (Westfall & De Villa, 2001).
+This study used a simplified pressure-state-response model to evaluate whether urban indicators provide the information required for cities to reflect on and improve their resilience and health. Two dimensions were used to assess the relevant indicators:
+• the current state of the urban environment – this identifies existing vulnerabilities and priority areas;
+• risk-oriented urban planning and interventions of the city – this provides an idea of how cities prepare for and/or mitigate the impacts of hazards.
+To determine the most applicable areas for this analysis, this study used as a basis the urban planning areas relevant for public health – encapsulating natural and built environment determinants for both physical and
+
+[Page 17]
+Third report on protecting environments and health by building urban resilience mental health. These are described in WHO’s recent reports Health as the pulse of the New Urban Agenda (WHO, 2016a), Integrating health in urban and territorial planning: a sourcebook (UN-Habitat & WHO, 2020) and 
+Environment and health for European cities in the 21st century: making a difference (Carmichael et al., 2017), and informed by the priorities for action and targets of the Sendai Framework. From these, components were derived to assess what would inform the city’s current situation and aspects of risk management where urban planning might be relevant. The evaluation was conducted using a matrix that cross-checked relevant indicators from each urban monitoring framework on whether they provided information on these components, categorized into the two dimensions (Table 2).
+Table 2. Dimensions and components considered in the framework review
+Dimension 
+Components 
+1: Current state of the urban environment
+1.1: Environmental quality (clean water, air and soil)
+1.2: Ecosystem and biodiversity
+1.3: Walkability and access to green and public spaces
+1.4: Safe and sustainable transport
+1.5: Access to basic infrastructure, services and food
+1.6: Sustainable energy resources and management (low-carbon city)
+1.7: Sustainable wastewater services and treatment
+1.8: Sustainable waste collection and management
+1.9: Adequate and healthy housing and workplaces (provision, density and space, structure and materials, location)
+2: Risk-oriented urban planning and interventions
+2.1: Systematic urban risk analysis and assessment and its health links
+2.2: Risk-informed land use planning
+2.3: Risk-informed infrastructure and critical assets
+2.4: Risk-informed building code and regulations
+2.5: Structural and infrastructure protection measures
+2.6: Natural system and environmental protection measures
+2.7: Public resources (human, budgetary and financial) to address risk
+2.8: Risk-oriented participatory planning
+These components provide an idea of the relevance of indicators in building resilience through urban planning; however, it is also important to determine whether the indicators are applicable and ultimately useful for the city. Indicator frameworks were assessed by considering the actual or potential localization and tailoring of the indicators to an urban setting, adapting them to the context while maintaining the spirit of the original goals and targets. The frameworks were also evaluated on their measurability in terms of how the selected indicators were designed and defined, although the practicability of collecting the required data – which depends on the availability of raw data and the human and material capacities of the responsible parties – lies beyond the scope of this project. With these considerations, each indicator reviewed was evaluated in the matrix on its level of localization (localized, localizable and not localizable) and measurability (measurable, partially measurable and not measurable). If the information was available, this report includes how the framework had been applied in cities as part of the review.
+
+[Page 18]
+Review of indicator frameworks supporting urban planning for resilience and health
+4.3 Limitations of the study
+This review was conducted in a limited time frame through desk research of publicly available sources. These factors constrained the study to a select number of indicator frameworks that were most relevant for these purposes; therefore, the succeeding discussions are only reflective of this category of frameworks. The review of each framework was mainly conducted through document-based qualitative assessment and mostly limited to the framework text. While each framework was assessed thoroughly, based on the dimensions and components described in section 4.2, this report does not aim to determine which indicators best reflect certain components. Furthermore, the review focused on the framework and indicator design rather than examples of application at the local level, as availability of data and application of frameworks vary widely among cities and would require a wider survey.
+5. Results of the urban indicator framework review
+This section provides a review of whether the selected frameworks and associated indicators can provide information on dimension 1: Current state of the urban environment and dimension 2: Risk-oriented urban planning and interventions to highlight priorities and support decision-making for more resilient and healthy cities. The study used a matrix to map out the indicators and their links for each framework (see Annex 1 Table 
+A1). Each subsection introduces the framework’s purpose and design, offers key observations from the mapping activity, and concludes with reflections on the framework’s application in cities.
+5.1 SDG indicators
+The 17 SDGs and their related 169 targets and 231 indicators structure the 2030 Agenda for Sustainable 
+Development (United Nations, 2015b). As this has been adopted by all United Nations Member States, countries make concerted efforts to collect the necessary data for these indicators and provide annual reports (Sachs et al., 
+2020). The SDGs encapsulate monitoring indicators of the Sendai Framework (Fig. 3), as well as indicators that could lead to achievement of the Paris Agreement’s intended nationally determined contributions (Fig. 4).
+Fig. 3. Links between Sendai Framework targets and SDGs
+Source: Wright et al. (2020).
+Sustainable Development Goals
+Sendai Framework
+Number of deaths and missing persons attributed by disaster, per 100,000 people
+Target 1.5
+A
+C
+F
+B
+E
+D
+G
+Goal 1
+Target 2.4
+Goal 2
+Target 3.D
+Goal 3
+Target 4.A
+Goal 4
+Target 6.5
+Goal 6
+Goal 9
+Goal 11
+Goal 13
+Goal 14
+Goal 15
+Goal 17
+Target 9.1
+Target 9.A
+Target 11.5
+Target 11.B
+Target 13.1
+Target 13.2
+Target 14.2
+Target 15.3
+Target 17.6
+Target 17.9
+Number of persons affected by disaster, per 100,000 people
+Direct disaster economic loss in relation to global GDP; including agriculture, productive assets, housing sectors, critical infrastructure and cultural heritage
+Disaster damage to critical infrastructure and distruption of basic services; among them health and educational facilities
+Number of countries and local governments that adopt and implement national and local disaster risk reduction strategies
+International cooperation to developing countries through adequate and sustainable support to complement their national actions for implementation of the present Framework
+Number of countries that have multi-hazard early warning systems, access to disaster risk information
+
+[Page 19]
+Third report on protecting environments and health by building urban resilience
+Fig. 4. The degree of alignment between SDGs and intended nationally determined contributions
+Source: Northrop et al. (2016).
+While SDG 3: Good health and well-being and SDG 11: Sustainable cities and communities are specific goals targeting urban conditions and health, cross-cutting approaches can be found in almost all the individual SDG targets. Nevertheless, not all the indicators for each goal were found relevant for the scope and purpose of this study. Of all the SDG indicators, 30 (32 if considering two repeated indicators) were identified as relevant (see 
+Annex 1 Table A2). These were found in SDG 1: No poverty, SDG 3: Good health and well-being, SDG 6: Clean water and sanitation, SDG 7: Affordable and clean energy, SDG 11: Sustainable cities and communities, SDG 12: 
+Sustainable production and consumption, SDG 13: Climate action and SDG 15: Life on land. Among these, 21 indicators provided information on the components of dimension 1: Current state of the urban environment, while all of them addressed the components of dimension 2: Risk-oriented urban planning and interventions dimension, albeit less directly.
+Owing to the focus on sustainability of the SDGs, they mainly address matters related to sustainable practices, pointing out vulnerabilities that prevent sectors and systems from becoming sustainable. The risk perspective is also considered, since this could affect the sustainability of various sectors and systems. An initial review of all the indicators for each goal showed that the framework maintains a balance between questions addressing both of this study’s dimensions.
+Many of the 21 indicators informing dimension 1: Current state of the urban environment address a wide range of its components. For example, SDG indicator 11.1.1: Proportion of urban population living in slums, informal settlements or inadequate housing provides information on all components within this dimension. The specific components that are best addressed by the SDG indicators are 1.1: Environmental quality (clean water, air and soil), 1.2: Ecosystem and biodiversity and 1.5: Access to basic infrastructure, services and food: more than 50% of all indicators provide information on these components. In comparison, 1.3: Walkability and access to green and public spaces is less well addressed.
+The selected SDG indicators that do not correspond to the components of dimension 1 tend to relate to the implementation of the International Health Regulations (defining countries’ rights and obligations in handling public health events and emergencies that have the potential to cross borders; WHO 2016b) or implementation and applicability of the Sendai Framework (United Nations, 2015a). These are precisely the indicators that almost completely cover the components of dimension 2: Risk-oriented urban planning and interventions. Examples include SDG indicators 1.5.4: Proportion of local governments that adopt and implement local disaster risk 
+SDGS
+Number of SDG targets for which there were aligned climate actions in INDCS
+0%
+
+[Page 20]
+Review of indicator frameworks supporting urban planning for resilience and health reduction strategies in line with national disaster risk reduction strategies, 3.d.1: International Health Regulations capacity and health emergency preparedness and 13.1.3: Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies. 
+Many of the SDG indicators provide information on the components of dimension 2 – including 2.1: Systematic urban risk analysis and assessment and its health links and 2.2: Risk-informed land use planning – although most provide such information only in part, as these are generally extrapolations from vulnerability indicators. A number of indicators concern past impacts or current outcomes related to potential risks, but they do not necessarily lead the cities to risk-informed decision-making in infrastructure (as reflected in 2.3: Riskinformed infrastructure and critical assets and 2.4 Risk-informed building codes and regulations). 
+Examples include SDG indicators 11.5.1: Number of deaths, missing people and directly affected people attributed to disasters per 100 000 population and 11.5.2: Direct economic loss in relation to global gross domestic product, damage to critical infrastructure and number of disruptions to basic services, attributed to disasters. There is notably less focus on component 2.8: Risk-oriented participatory planning, although this is very specifically addressed through SDG indicator 11.3.2: Proportion of cities with a direct participation structure of civil society in urban planning and management that operate regularly and democratically.
+Thus, even though there seems to be complementarity between SDG indicators and the study dimensions, it cannot be claimed that dimension 2 is given as much attention as dimension 1. A focus on planning aspects is needed, however, to lead to concrete actions and plans. This could be achieved by following an iterative process that assesses the current state of the environment and comes back to the analysis or risk information and trends.
+Another concern is local application of the SDG indicators (Fig. 5). This framework does not take the local scale into consideration explicitly, as its primary purpose is national annual reporting. Only 19% of the SDG indicators evaluated are localized, all of which fall under the specifically urban-focused SDG 11. SDG indicator databases, where available, provide national-level information and are difficult to translate or disaggregate to provide local information.
+Furthermore, owing to the complexity of some of the targets, 25% of the SDG indicators are only partly measurable. Nevertheless, it is important to consider the relevance of the SDGs as the leading framework in providing guidance and direction for different levels of government, and many cities have committed to local achievement of the SDGs. To address these issues, concerted efforts have been made in European Union countries to localize the SDGs through voluntary local reviews (Siragusa et al., 2020; Ciambra, 2021). The aim is to support cities to achieve these targets, although the indicators used vary from city to city.
+Fig. 5. SDG indicators localization and measurability
+In summary, the SDG indicators have a conceptual role to play in directing cities towards priorities for sustainable development, including a range of aspects that will contribute to strengthening urban preparedness and resilience. Nevertheless, many SDG indicators (in their original format) are not very implementable at the local level and require adaptation.
+5.2 New Urban Agenda Monitoring Framework and related indicators
+The New Urban Agenda (NUA) Monitoring Framework and its 77 indicators, first launched in September 2020 (UNHabitat, 2020), were designed to support local and central governments in tracking their progress following the 
+Guidelines for reporting on implementation of the New Urban Agenda (UN-Habitat, 2019). The NUA Monitoring 
+Framework is organized into two main categories: transformative commitments and effective implementation. 
+Within these, several matters are addressed, including social inclusion and ending poverty, sustainable and inclusive urban prosperity and opportunities for all, environmentally sustainable and resilient urban development, building governance structures, planning and managing urban spatial development, and means of 
+Localization of SDG indicators ■ Localized ■ Localizable ■ Not localizable ■ Measurable ■ Partly measurable ■ Not measurable
+Measurability of SDG indicators
+
+[Page 21]
+Third report on protecting environments and health by building urban resilience implementation. The framework works hand in hand with the SDGs and the City Prosperity Initiative (UN-Habitat, 
+2021a). A web platform is available for Member States to upload the data collected from the indicators they are monitoring (UN-Habitat, 2021b).
+While reporting on the NUA is intended to be done at the national scale, this is an urban framework, focusing on city conditions; it is therefore of relevance to this report. Nevertheless, not all the NUA indicators were found to be relevant for the scope and purpose of this study: 23 of the 77 indicators (30%) were selected as supporting urban health and resilience-building (see Annex 1 Table A3). The majority of these can be found within the social inclusion and ending poverty and the environmentally sustainable and resilient urban development sections of the NUA framework, although the 23 indicators chosen are spread across the complete list. An initial review found a balance in the analysis related to both dimensions analysed. Of the selected indicators, 18 (78%) can be useful in highlighting vulnerabilities in dimension 1: Current state of the urban environment (such as 40: Number of cities having annual budget allocations addressing any of the five slum deprivations and inclusive public spaces in known slum areas and 13: Proportion of urban population living in slums, informal settlements or inadequate housing). All, however, inform dimension 2: Risk-oriented urban planning and interventions – at least in part (including indicators 51: Percentage of cities with multihazard mapping and 54: Existence of an enforced coastal and/or land management plan in the country). NUA indicators that only provide information on dimension 2 are those on multihazard mapping and forecasting, and on adoption and implementation of local disaster risk reduction strategies in line with national strategies.
+For dimension 1: Current state of the urban environment, the NUA indicators attempt to address, in large part, components 1.1: Environmental quality (clean water, air and soil), 1.3: Walkability and access to green and public spaces and 1.9: Adequate and healthy housing and workplaces (provision, density and space, structure and materials, location). For dimension 2: Risk-oriented urban planning and interventions, the NUA indicators focus in parallel on components 2.1: Systematic urban risk analysis and assessment and its health links, 2.2: Riskinformed land use planning and 2.6: Natural system and environmental protection measures. All components in both dimensions are covered by some level of information from the NUA framework.
+The NUA framework indicators could serve cities better if the urban analysis is developed through an iterative process, assessing the current state of the urban environment and linking it to the analysis or risk information and trends, rather than as a set of isolated questions. Nevertheless, the NUA seems to provide information on many of the components that are crucial in planning for resilient and healthy cities, and it could be useful in highlighting vulnerabilities and priority areas. Designed as an urban framework, most of the indicators are localized (74%) or at least localizable (26%) (Fig. 6). While the indicators are generally considered measurable (83%), however, available data and capacities for collection can be assumed to vary widely, even among European cities. The NUA is a relatively new framework, and some indicators may already be monitored via existing SDG and City Prosperity 
+Initiative applications.
+Fig. 6. NUA indicators localization and measurability
+In summary, the NUA framework has a critical role in designing and monitoring cities’ resilience-based sustainable development, including transformative and implementable health-related targets. Furthermore, it is an urban framework in which almost all the indicators are localized, or at least localizable. Working hand in hand with the 
+SDGs, the NUA lays the foundations for a specific focus at the urban scale and its particularities without forgetting the need to report from the national scale.
+5.3 UNDRR Disaster Resilience Scorecard for Cities and Public Health System 
+Resilience Addendum
+The Disaster Resilience Scorecard for Cities, developed by UNDRR (2017), provides a set of questions that allow local governments to assess their disaster resilience. The Scorecard is structured around UNDRR’s Ten ■ Measurable ■ Partly measurable ■ Not measurable ■ Localized ■ Localizable ■ Not localizable
+Localization of NUA indicators
+Measurability of NUA indicators
+
+[Page 22]
+Review of indicator frameworks supporting urban planning for resilience and health
+Essentials for Making Cities Resilient (UNDRR, 2021a).4 These were developed to accelerate implementation of the 
+Sendai Framework (United Nations, 2015a), and were mapped against its four priorities for action.5 They facilitate monitoring and reviewing of progress and challenges in implementation of the Sendai Framework at the local level.
+The Sendai Framework identifies seven global targets that inform the logic behind its indicators and the associated UNDRR Scorecard to be implemented in cities:
+• A. Substantially reduce global disaster mortality by 2030, aiming to lower average per 100 000 global mortality between 2020–2030 compared with 2005–2015;
+• B. Substantially reduce the Number of affected people globally by 2030, aiming to lower the average global figure per 100 000 between 2020–2030 compared with 2005–2015;
+• C. Reduce direct disaster economic loss in relation to global gross domestic product by 2030;
+• D. Substantially reduce disaster damage to critical infrastructure and disruption of basic services, among them health and educational facilities, including through developing their resilience by 2030;
+• E. Substantially increase the number of countries with national and local disaster risk reduction strategies by 
+2020;
+• F. Substantially enhance international cooperation to developing countries through adequate and sustainable support to complement their national actions for implementation of this framework by 2030;
+• G. Substantially increase the availability of and access to multi‑hazard early warning systems and disaster risk information and assessments to the people by 2030.
+Global targets A–D involve deductive indicators, establishing the crisis’s consequences for deaths, affected people, economic loss and infrastructure damage (such as D-2: Number of destroyed or damaged health facilities attributed to disasters) (UNDRR, 2020a). Global targets E–G include proactive indicators related to disaster resilience governance matters (such as E-2: Percentage of local governments that adopt and implement local disaster risk reduction strategies in line with national strategies). Global targets E–G inform the Disaster Resilience 
+Scorecard for Cities and its related indicators.
+Cities can use the Scorecard assessment as a basis for disaster resilience strategies. Two versions of the Scorecard are available: the preliminary level with 47 question indicators, which is suggested for use in 1–2-day workshops; and the detailed assessment with 117 question indicators, which requires 1–4 months of application. The indicators are self-assessed: each respondent gives a score of 0–5 to each indicator (0–3 for the preliminary level), depending on which response is selected of the options provided.
+An initial review of the detailed Scorecard assessment approach, using this study’s analytical framework, shows that the tool is markedly focused on risk-oriented planning aspects, and relatively less so on characterizing current urban environment conditions. Of 117 indicators, 110 were found relevant either directly or indirectly to components of the study’s analytical framework (see Annex 1 Table A4). Among these, 79 indicators (71%) are concerned with identifying weaknesses and challenges in dimension 2: Risk-oriented urban planning and interventions, whereas 2 indicators (1.8%) highlight only components from dimension 1: Current state of the urban environment. The remaining 29 indicators (26%) inform both dimensions.
+Closer examination of the key issues most of the indicators assess shows that, for dimension 1, the tool largely focuses on aspects of safeguarding natural buffers and ecosystem functions (under Essential 4: Pursue resilient urban development and design) and increasing infrastructure resilience (under Essential 8: Increase infrastructure resilience). For dimension 2, the majority of indicators are concerned with components 2.1: Systematic urban risk analysis and assessment and its health links, 2.3: Risk-informed infrastructure and critical assets and 2.4: Risk-informed building code and regulations. These aspects are assessed in terms of financial, organizational and institutional capacities to respond to and recover from a varied range of risk scenarios – specifically the most probable and most severe (worst case) scenarios. UNDRR recommends the use of the Quick 
+Risk Estimation tool (UNDRR, 2021b) to identify these scenarios related to probability and severity.
+It is important to note that the Scorecard assessment is significantly focused on types of risk best described as “shocks” (including flood, failure of supplies or infectious disease) in urban resilience literature, as entry points for its assessment. Accordingly, the tool evaluates vulnerable parts of the built environment and population related to their exposure – mostly spatial and physical exposure – and whether planning (land use plans) and structural measures (such as building codes) are in place and enforced. It may thus overlook other types of vulnerabilities driven by urban planning, such as inadequate access to or coverage of basic services (water, sanitation, electricity), open and green spaces or clean air. These in turn have the potential to render significant parts of urban populations vulnerable to multiple hazards and to undermine their capabilities to withstand adverse events, in conjunction with their role in generating new types of risks.
+4 The UNDRR’s Ten Essentials are: 1. Organize for disaster resilience; 2. Identify, understand and use current and future risk scenarios; 3. Strengthen financial capacity for resilience; 4. Pursue resilient urban development and design; 5. Safeguard natural buffers to enhance the protective functions offered by natural ecosystems; 6. Strengthen institutional capacity for resilience; 7. Understand and strengthen societal capacity for resilience; 8. Increase infrastructure resilience; 
+9. Ensure effective preparedness and disaster response; and 10. Expedite recovery and build back bette
+5 The Sendai Framework’s four priorities for action are: 1. Understanding disaster risk; 2. Strengthening disaster risk governance to manage disaster risk; 3. 
+Investing in disaster risk reduction for resilience; and 4. Enhancing disaster preparedness for effective response and to “build back better” in rehabilitation, recovery and construction.
+
+[Page 23]
+Third report on protecting environments and health by building urban resilience
+As the framework promotes scenario planning, presumably based on known plausible shock events, most questions assess the city’s preparedness and capacity to respond to such scenarios. Most of these indicators are centred around organizational and management aspects, however, and the framework overlooks the links between urban planning realities and risks. Although the tool provides several indicators to assess disruption to water, electricity, transportation and food provision, these indicators are focused on evaluating continuity of a service’s operations, rather than focusing on the impacts on population access to such infrastructure and services from a spatial planning perspective.
+All the indicators are localized and designed to reflect and measure realities at the local level (Fig. 7). The selfassessment nature of indicators raises risks of subjectivity in measuring and assessment, however, and the extent to which the assessment can result in objective findings and highlighting priority areas for action may be limited. 
+Implementation of the detailed Scorecard assessment in 20 pilot cities as part of the Making Cities Sustainable and Resilient Campaign (Schofield & Twigg, 2019) – a joint initiative of UNDRR, UN-Habitat and the European 
+Commission – highlighted a number of challenges encountered by implementing cities. These mainly involved:
+• unclear and overly technical language and terminology;
+• greater suitability for larger urban centres and less for small urban contexts;
+• significant time commitment, costs and logistics required, as the tool requires organizing multistakeholder workshops for this purpose.
+Finally, in translating evidence into action, consensus proved hard to achieve across different sectors.
+Fig. 7. Scorecard indicators localization and measurability
+It should also be noted that in 2018, with the support of WHO and partners, the first version of a Public Health 
+System Resilience Addendum (UNDRR, 2020b) was launched to fill the gaps identified in the original version of the 
+Scorecard with regard to assessing and monitoring public health issues. It covers 23 indicators, all of which were considered for this review (see Annex 1 Table A5). The Addendum aims to evaluate local capacities – which can highlight existing weaknesses and vulnerabilities – of urban health systems and their underlying processes in terms of resilience to various types of disaster (Fig. 8). It also facilitates a multisectoral approach to integrating public health issues in disaster risk reduction and resilience planning at the city level. The Addendum is designed to be used with the Scorecard and WHO’s health emergency and disaster risk management framework (WHO, 2019), particularly emphasizing the need for integration of public health systems in UNDRR’s Ten Essentials for Making Cities Resilient (UNDRR, 2021a).
+Fig. 8. Addendum indicators localization and measurability
+Localization of Scorecard indicators
+Localization of Addendum indicators
+Measurability of Scorecard indicators
+Measurability of Addendum indicators ■ Localized ■ Localizable ■ Not localizable ■ Localized ■ Localizable ■ Not localizable ■ Measurable ■ Partly measurable ■ Not measurable ■ Measurable ■ Partly measurable ■ Not measurable
+
+[Page 24]
+Review of indicator frameworks supporting urban planning for resilience and health
+The implementation experience suggests that without a thorough understanding of the public health risks from any hazard it is difficult for participants in the multistakeholder Scorecard workshops to indicate whether the cities have adequate capacities in place, and whether they have the appropriate staff to address their public health risks. It is therefore recommended that the Addendum assessments should be aligned with the WHO 
+Strategic Toolkit for Assessing Risks (STAR) (WHO, 2021c)6 results. There are advantages to conducting a prior initial strategic risk assessment with the same group of experts involved at any city level, facilitating identification of public health risks and guiding replies to the main Addendum questions (Box 2).
+Box 2. STAR
+The STAR approach developed by WHO (2021c) offers an easy-to-use comprehensive toolkit to enable national, subnational and local authorities to conduct a strategic and evidence-based assessment of public health risks rapidly for planning and prioritization of health emergency preparedness and disaster risk management activities. It has been rolled out in the country work of several WHO regional offices, and at the time of writing was being prepared for formal publication.
+• The STAR approach involves six key steps, using a participatory approach and consolidation of existing evidence to describe the risks in the country:
+• identifying country hazards and describing scenarios that would require a national response to be activated;
+• assessing the likelihood that the risk will occur;
+• estimating the impact of the risk to the country;
+• determining the estimated level of risk;
+• drafting key recommendations and priority actions based on the risk ranking;
+• integrating recommendations into the national and subnational action planning process.
+The hazards covered by STAR include geological, hydro-meteorological and biological hazards, as well as technological, social and environmental hazards. The expected outputs from a STAR workshop include a risk profile with three components:
+• a risk matrix, ranking the risks and describing the likelihood and impact of the hazard;
+• a risk summary, describing the health consequences, scale of the hazard and identified population at risk, frequency of occurrence, likelihood to occur, seasonality, severity, vulnerability, coping capacity, potential impact and confidence level in data available for each hazard;
+• an overall workshop report that consolidates the risk matrix, risk summary and initial short-term prioritized action planning.
+While the STAR process does not replace other more rigorous methods of predicting risk within the country, it does provide an easily adaptable all-hazard approach that facilitates consolidation of available evidence and exchange of national and subnational emergency management experience among multisectoral experts.
+In summary – and acknowledging the focus of the Disaster Resilience Scorecard for Cities and Public Health System 
+Resilience Addendum on processes of preparedness and response to risks and emergency, rather than on impacts – the Scorecard and related tools can be effective in identifying vulnerabilities and priority areas of actions if the assessments are implemented comprehensively and objectively. The resulting outcomes of such assessments provide little insight into areas of urban planning and design and the systemic links between such aspects and vulnerabilities, however. The presence of the Addendum adds a more specific health focus to the Scorecard. 
+Nevertheless, the focus remains on organizational capacities of cities in terms of planning for emergency and reactive response, rather than proactive planning that accounts for the role of multiple dimensions of urban systems in either exacerbating vulnerabilities to hazards or improving the urban system’s capacity for resilience.
+5.4 OECD indicators for resilient cities
+The OECD working paper on indicators for resilient cities (Figueiredo, Honiden & Schumann, 2018) discusses the use of indicators for building and monitoring urban resilience. The paper suggests a total of 68 indicators; these are selected and compiled from various other frameworks and resources, including International Organization for Standardization (ISO) standards, the SDGs, UN-Habitat, UNDRR, Arup and Eurostat. The indicator framework is built on the four drivers of resilience identified by the OECD Ministerial Council statement (OECD, 2014): social, economic, environmental and institutional dimensions. These embrace the notion of resilience as a multidimensional and complex capacity and are in turn broken down into subdimensions related to thematic areas, such as social inclusion or health and well-being. Each indicator is described by its type and capacities, and the paper includes a justification for its selection.
+6 The STAR was being developed and applied in various WHO regions at the time of writing; it was formally published in November 2021.
+
+[Page 25]
+Third report on protecting environments and health by building urban resilience
+Of the 68 indicators, 30 (44%) were found to be relevant to the scope of this study (see Annex 1 Table A6). An initial review of these using the analytical framework revealed that they address both the study dimensions. All OECD indicators for resilient cities relate to dimension 2: Risk-oriented urban planning and interventions in some way, while 17 of the 30 (56%) also relate to dimension 1: Current state of the urban environment. Of these, 9 indicators can be said to cover a very broad range of components either entirely or partly within both dimensions.
+A closer review revealed that within dimension 1, key issues the indicators touch on are components 1.1: 
+Environmental quality (clean water, air and soil), 1.5: Access to basic infrastructure, services and food and 1.9: Adequate and healthy housing and workplaces (provision, density and space, structure and materials, location). Examples include OECD indicators Proportion of urban solid waste regularly collected and with adequate final discharge out of total urban solid waste generated and Percentage of houses which have passed local building code inspections. Within dimension 2, almost all the OECD indicators (90%) generate information about components 2.1: Systematic urban risk analysis and assessment and its health links (for example, Risk assessment report and hazard-mapping efforts, including energy facilities and industrial uses). A significant number can also be classified as related to components 2.7: Public resources (human, budgetary and financial) to address risk (for example, Ten-year average per capita budget for mitigation projects) and 2.5: 
+Structural and infrastructure protection measures (for example, Percentage of housing units exposed to a high level of hazard that have been designed or retrofitted to withstand the force of the hazard).
+As a compilation of indicators from other global frameworks, the OECD indicators for resilient cities are comprehensive in nature. They address all the components of both dimensions of this study, although there is a marked focus on dimension 2: Risk-oriented urban planning and interventions. This can be accounted for by the specific resilience theme of the framework. Even the 17 indicators that cover dimension 1: Current state of the urban environment can also address the second dimension, since these multifaceted indicators touch on fundamentals for a healthy environment; they can be used not only to describe the current situation but also to assess and prevent risk. An example of this is the OECD indicator Percentage of population with access to improved sanitation coverage: this corresponds to most of the components (11 out of 17) in both dimensions owing to its relatedness to water and basic services and therefore direct and indirect impacts on various aspects of health and environment, as well as risk management and mitigation.
+Since the OECD framework focuses on city resilience, the indicators are either already localized (67%) or localizable (33%), reflecting the scale of the original frameworks. Most are also considered measurable (Fig. 9). 
+Regarding use of the framework and indicators by cities, it should be noted that the OECD is continuing work on a framework on resilient cities (OECD, 2021a), for which various cities globally were used as case studies. Whether these cities have gone through the practical exercise of collecting data for the suggested indicators remains unclear, however, since the outcome case studies are of a qualitative nature. The OECD also maintains a database containing general data at the city level, which features some of the suggested indicators (OECD, 2021b).
+Fig. 9. OECD indicators localization and measurability
+In summary, the OECD indicators for resilient cities, as a resilience-focused framework, primarily inform dimension 2: Risk-oriented urban planning and interventions, although the indicators that also address dimension 1: Current state of the urban environment cover all the components. As with other quantitative frameworks, however, the OECD indicators in essence present a generalized profile of the city; as such, they could only highlight potential areas to look into more closely when considering actual urban dynamics. The social, economic, environmental and institutional resilience drivers could work better if they offered clearer understanding of how these categories affect and are affected by – now and in the future – the built environment in urban settings.
+Localization of OECD indicators
+Measurability of OECD indicators ■ Localized ■ Localizable ■ Not localizable ■ Measurable ■ Partly measurable ■ Not measurable
+
+[Page 26]
+Review of indicator frameworks supporting urban planning for resilience and health
+5.5 Risk Systemicity Questionnaire
+The Smart Mature Resilience (SMR) project, supported by the ICLEI European Secretariat (2019), developed five tools to enhance resilience in cities: the Resilience Maturity Model (SMR, 2019); the Risk Systemicity Questionnaire (RSQ) (SMR, 2021a); the Resilience Information Portal (SMR, 2019); the City Resilience Dynamics tool (SMR, 
+2021b); and the Resilience Building Policies tool (SMR, 2021c). Of these, only the RSQ provides publicly available indicators, set out as questions to be completed by a group of urban stakeholders. The 118 questions focus on 10 risk areas (climate change – air pollution, climate change – flooding, health, critical infrastructure, social cohesion, social alienation, social inequalities, elderly population, community integration and public unrest). Four of these risk areas were selected as relevant topics to be analysed for this report as they affect and are affected by the built environment: climate change – air pollution, climate change – flooding, health and critical infrastructure. These risk areas cover 54 questions (see Annex 1 Table A7), which include some overlapping and redundancy because the same approach is applied through different scenarios for disaster risk reduction.
+Although the RSQ focuses on risk resilience and risk trends in the city, the analysis is relatively balanced between both dimensions of the analytical framework, albeit in an incomplete manner. Emphasis is evident on certain aspects linked to the performance of the system that affect and are affected by current and potential risks, as well as influences on the physical environment and urban planning vision of the city. It should also be noted that the coverage of each indicator is generally limited, matching only one or two components per dimension.
+Of the 55 indicator questions, 32 (59%) address some components of dimension 1: Current state of the urban environment, although (as noted above) this coverage is limited. In particular, the RSQ can provide information on components 1.1: Environmental quality (clean water, air and soil) and 1.5: Access to basic infrastructure, services and food. Examples include indicators addressing the likelihood of air pollution impacts due to colder winters or the likelihood of less productive farming land in a concrete region due to critical infrastructure risks. There is, however, surprisingly little correspondence with component 1.3: Walkability and access to green spaces – a key concern for Europe – and none with component 1.8: Sustainable waste collection and management, although this could be because it is seen less as a risk issue than a sustainability one.
+As indicated by its name, the RSQ is particularly useful for dimension 2: Risk-oriented urban planning and interventions, and specifically component 2.1: Systematic urban risk analysis and assessment and its health links, which all the RSQ indicators address in part. The indicators are generally qualitative projections for each risk area, which should provide different information for each risk reflected. Since the RSQ is designed as a risk assessment tool, component 2.7: Public resources (human, budgetary and financial) to address risk is minimally addressed, and component 2.8: Risk-oriented participatory planning is not addressed at all. Depending on the stakeholders providing the answers, however, the RSQ could be considered or applied as a participatory process.
+The RSQ relies primarily on qualitative assessments by stakeholders rather than quantitative indicators; this removes many difficulties surrounding data collection. Indeed, as a self-assessment tool for local use, all the indicators can be said to be localized (Fig. 10). However, this gives rise to challenges in conducting the exercise. To be able to provide informed and unbiased assessments, the stakeholders involved should be well versed in the risk areas and topics assessed, necessitating a good base of available information on the topic in the city. This is particularly crucial because the majority of the indicators are based on personal projections and not on existing information, making the framework indicators only 11% measurable, with the rest partly measurable (Fig. 10). Furthermore, the use of qualitative assessments strongly restricts the ability to compare city findings, as different city teams may have applied different approaches and benchmarks according to the local conditions and priorities.
+Fig. 10. RSQ indicators localization and measurability
+Localization of RSQ indicators
+Measurability of RSQ indicators
+Localization of RSQ indicators
+Measurability of RSQ indicators ■ Localized ■ Localizable ■ Not localizable ■ Measurable ■ Partly measurable ■ Not measurable
+
+[Page 27]
+Third report on protecting environments and health by building urban resilience
+In summary, the RSQ is narrow and targeted in its scope and purpose and should be considered as part of the wider set of tools offered by the SMR project. The questions partly cover some of the components of dimension 1: 
+Current state of the urban environment, as well as component 2.8: Risk-oriented participatory planning, although these can expose areas of greatest concern. As the RSQ framework relies on collaborative answers from many stakeholders, its application could create an iterative process and a qualitative analysis that might provide relevant insight for cities.
+5.6 ThinkHazard! tool
+ThinkHazard! is a web-based tool developed by the Global Facility for Disaster Reduction and Recovery, which provides a general view of the potential hazards to be considered for a given location in project design and implementation (GFDRR, 2020). The tool highlights the likelihood of 11 natural hazards affecting project areas, and provides guidance on how to reduce the impact of these hazards and on where to find more information. 
+All 11 hazards were considered relevant for this review (see Annex 1 Table A8). 
+It uses probabilistic data and information related to frequency and severity parameters to provide information on a concrete hazard, based on published hazard data and aggregated to the country, region/state and county levels. Where available, it prioritizes local over global data. ThinkHazard! displays the hazard level for selected national, provincial or district locations, but not the risk level: it does not attempt to estimate risk based on exposure and vulnerability to hazard (Fraser, 2017). The tool also analyses hazards under current climate conditions and provides guidance from the Intergovernmental Panel on Climate Change on how climate change may alter hazard frequency and intensity in the future.
+With this focus, it is unsurprising that the ThinkHazard! tool is mainly focused on dimension 2: Risk-oriented urban planning and interventions. Considering the hazard information provided and the implicit information embedded in the detailed recommendations for each hazard, all the indicators relate to component 2.1: 
+Systematic urban risk analysis and assessment and its health links, even if most of them are partly rather than completely covered (for example, Geophysical hazard: earthquake; intensity parameter: acceleration; frequency indicator: return period in years). The indicators also address components 2.2: Risk-informed land use planning, 2.3: Risk-informed infrastructure and critical assets, 2.4: Risk-informed building code and regulations and 2.5: Structural and infrastructure protection measures (for example, Meteo-climatological hazard: cyclonic strong winds; intensity parameter: mean wind speed; frequency indicator: return period in years). Since it is intended more for projects rather than urban policies, it does not specifically consider components 2.7: Public resources (human, budgetary and financial) to address risk or 2.8: Risk-oriented participatory planning. Coverage of dimension 1: Current state of the urban environment is restricted to components 1.1: Environmental quality (clean water, air and soil), 1.2: Ecosystem and biodiversity and 
+1.5: Access to basic infrastructure, services and food.
+In addition, application of the tool leads to provision of recommendations for risk management, covering various hazard-related subjects such as vulnerability assessments, emergency response plans, early warning systems and capacity-building. The tool also contains other relevant topics that may help to mitigate the impact of hazards. These include understanding risk-informed land use planning and therefore carefully considering safe site locations; developing protection measures for critical infrastructure; and considering acquiring insurance to cover potential losses. Finally, recommendations highlight the interdependence between the built environment and natural systems.
+While the risk management recommendations cover various hazard-related subjects, the ThinkHazard! tool does not provide specific information about dimension 1: Current state of the urban environment. 
+Nevertheless, taking into consideration the information embedded in the detailed recommendations for each hazard, some components of this dimension could be considered partly covered.
+In summary, the purpose of the ThinkHazard! tool is clearly making hazard information – including climate change-related projections – readily available for public use, removing the data collection burden to make it easier to formulate better risk-informed choices. While it only focuses on natural hazards and is not specifically urban-focused in its scale, it provides vital information and guidance as an initial step for cities to develop future-proof projects and plans. As the data are presented in the tool, it can be said that it is 100% measurable; however, the data are not yet localized, as the tool presents the county/district level as its most focused scale (Fig. 11). Thus, ThinkHazard! is a starting-point, which should be complemented by local or regional hazard ratings when assessments are updated and available, as well as appropriate urban risk assessments that consider the multitude of other factors working within urban systems.
+
+[Page 28]
+Review of indicator frameworks supporting urban planning for resilience and health
+Fig. 11. ThinkHazard! indicators localization and measurability
+6. Discussion
+It is essential for urban resilience and related planning interventions to rely on data-driven information. The review of urban indicator frameworks, while limited in number, revealed a wide range of existing urban indicators that could provide a level of guidance to cities on aspects related to planning for health and resilience. Because the frameworks serve varying purposes, it is important to note which areas the indicators provide useful guidance on, and how these can serve to complement each other or supplement existing urban planning processes.
+From the framework review, it was immediately clear that, unsurprisingly, frameworks designed specifically for risk and resilience purposes (the OECD indicators for resilient cities, UNDRR Disaster Resilience Scorecard, 
+RSQ and ThinkHazard! tool) are focused on dimension 2: Risk-oriented urban planning and interventions. Wideranging sustainability frameworks, such as the SDGs and NUA seem more balanced. These provide information for the various components of dimension 1: Current state of the urban environment, and attempt to point out underlying vulnerabilities, while also informing dimension 2 – although less directly. As the SDGs and NUA are global frameworks, they tend to focus more on general issues that may not be priority areas for Europe, such as informal settlements or access to basic services; however, as a baseline, many SDG and NUA indicators are applicable for the WHO European Region – increasingly so, as crises and conflicts have created new areas of deprivation in many European cities. It should be noted that the analysis found relatively little focus on component 1.2: Ecosystem and biodiversity, and almost no focus on components 2.7: Public resources (human, budgetary and financial) to address risk and 2.8: Risk-oriented participatory planning.
+Within the frameworks themselves, some indicators cover both dimensions – the underlying vulnerabilities of the city that may undermine healthy urban environments and the capacities of the city to address risks and prevent disasters. Indicators that assess improvements for specific hazards as well as actual or projected impacts of disasters tend to do this well, especially if disaggregated for specific sectors or assets. Examples are SDG indicator 
+3.b.3: Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis and NUA indicator 6: Proportion of population using safely managed sanitation services, including a hand-washing facility with soap and water.
+All frameworks have a marked focus on risk information and assessments. This is indeed the main purpose of the RSQ and ThinkHazard! tool, although they have very different approaches: the former involves qualitative self-assessments, while the latter involves quantitative hazard modelling. This focus can probably be attributed to the fact that risk information and assessments often serve an initial yet essential stage in both the risk reduction cycle and many planning activities to ensure long-term feasibility. Significantly fewer indicators, however, address how risk information and assessments have been applied in the city and embedded in planning. Examples include the 
+RSQ indicator How likely do you think the scenario of hotter, drier summers and climate change will develop in your city/region? and the ThinkHazard! indicator Hydraulic hazard: coastal floods; intensity parameter: inundation depth; frequency indicator: return period in years. This connection is important to create a better picture of how the city has prepared for possible shocks and how it is planning its future from a risk-oriented lens, specifically for natural hazards that interface with the physical environment. Furthermore, very few indicators address participatory planning processes in the city, which are essential to ensuring that plans take into account the needs, concerns and interests of stakeholder groups. The framework closest to making this link is the UNDRR Disaster Resilience Scorecard through its scenario-based indicators and scoring, although this mostly focuses on organizational and institutional capacities and resources, and offers fewer indicator questions on the physical and spatial aspects of the city.
+For illustrative purposes, Table 3 and Table 4 provide a sample of indicators (two or three examples per component). 
+This is not intended to be a compilation of the best or a complete list of indicators for each dimension and component; rather, it aims to portray the range of information that could be provided by the different frameworks. 
+It should also be noted that while an indicator may be listed under one component in these tables, in view of the interlinkages of the urban system, it may also serve as a valuable indicator for other components.
+Localization of ThinkHazard! indicators
+Measurability of ThinkHazard! indicators ■ Localized ■ Localizable ■ Not localizable ■ Measurable ■ Partly measurable ■ Not measurable
+
+[Page 29]
+Third report on protecting environments and health by building urban resilience
+Table 3. Dimension 1: Current state of the urban environment – example indicators
+Component
+Selected example indicators
+Framework(s)
+1.1: Environmental quality (clean water, air & soil)
+3.9.3: Mortality rate attributed to unintentional poisoning (deaths and illnesses from hazardous chemicals and air, water and soil pollution and contamination)
+SDG
+Estimated average exposure to air pollution (OECD stat) or PM10 [particulate matter with a diameter of 10 micrometres and less] concentration (μg/m3)
+OECD
+1.2: Ecosystem and biodiversity
+How likely do you think the scenario of the ramifications of acid rains will develop in your city/region?
+RSQ
+Percentage of wetland loss
+OECD
+1.3: Walkability and access to green and public spaces
+11.7.1: Average share of the built-up area of cities that is open space for public use for all, by sex, age and people with disabilities
+SDG 
+36: Percentage of road length that has dedicated sidewalks (excluding motorways)
+NUA 
+Green area (hectares) per 100 000 population or average percentage of pervious surfaces
+OECD
+1.4: Safe and sustainable transport 
+11.2.1: Proportion of population that has convenient access to public transport, by sex, age and people with disabilities
+SDG/OECD
+44: Percentage of commuters using public transport
+NUA
+Death rate due to traffic road injuries (SDG indicator 3.6.1)
+SDG/OECD
+1.5: Access to basic infrastructure, services and food
+Number of different supply sources providing at least 5% of water supply capacity
+OECD
+3.9.2: Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (exposure to unsafe water, sanitation and hygiene for all services)
+SDG
+Percentage per capita of food reserves within a city (including supermarket agreements) for 72 hours (percentage of the population which could be served) 
+OECD
+1.6: Sustainable energy resources and management (low-carbon city)
+7.1.2: Proportion of population with primary reliance on clean fuels and technology
+SDG
+13.2.2: Total greenhouse gas emissions per year
+SDG
+How likely do you think the scenario of loss of electricity will develop in your city/region?
+RSQ
+1.7: Sustainable wastewater services and treatment
+6.2.1: Proportion of population using (a) safely managed sanitation services and (b) a hand-washing facility with soap and water
+SDG
+Percentage of population with access to improved sanitation coverage
+OECD
+How likely do you think the scenario of sewage system7 will develop in your city/region?
+RSQ
+7 “Scenario of sewage system” relates to a situation in which flooding within the city causes a lot of water to float on the ground because the drainage system does not have sufficient capacity, leading to further flooding – particularly in low-rise buildings; this means the sewage system becomes filled with loosened materials (such as tarmac, plants, rocks, paving slabs and trees), causing long-term damage to the sewage system.
+
+[Page 30]
+Review of indicator frameworks supporting urban planning for resilience and health
+Component
+Selected example indicators
+Framework(s)
+1.8: Sustainable waste collection and management 
+11.6.1: Proportion of municipal solid waste collected and managed in controlled facilities out of total municipal waste generated, by cities
+SDG
+12.4.2: (a) Hazardous waste generated per capita; and (b) proportion of hazardous waste treated, by type of treatment
+SDG
+18: Proportion of municipal solid waste collected and managed in controlled facilities
+NUA
+1.9: Adequate and healthy housing and workplaces (provision, density and space, structure and materials, location) 
+3.9.1: Mortality rate attributed to household and ambient air pollution
+SDG/NUA
+Housing deprivation: percentage of population living in dwelling considered overcrowded, while: 1) leaking roof or damp walls, floors, foundations or rot in window frames and floor; 2) no bath or shower; or 3) too dark
+OECD
+11.1.1: Proportion of urban population living in slums, informal settlements or inadequate housing
+SDG
+Table 4. Dimension 2: Risk-oriented urban planning and interventions – example indicators
+Component
+Selected example indicators
+Framework(s)
+2.1: Systematic urban risk analysis and assessment and its health links
+52: Does the city have a multihazard monitoring and forecasting system?
+NUA
+Existence of recent, expert-reviewed estimates of probability of known hazards or perils and their extents.
+Scorecard
+Geophysical hazard: earthquake; intensity parameter: acceleration; frequency indicator: return period in years
+ThinkHazard!
+2.2: Risk-informed land use planning
+1.5.4: Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies
+SDG
+Land use plans that have been developed with reference to local hazard risk assessment and that have been subjected to a formal consultation process
+OECD
+Is the city faced with increasing air pollution?
+RSQ
+2.3: Risk-informed infrastructure and critical assets
+Protective infrastructure exists or is in the process of construction – capabilities known to match hazards envisioned in “most probable” and “most severe” scenarios
+Scorecard
+Hazard-mapping efforts, including energy facilities and industrial uses
+OECD
+Number of days that city fuel supplies could maintain essential household functions 
+OECD
+Table 3. contd
+
+[Page 31]
+Third report on protecting environments and health by building urban resilience
+Component
+Selected example indicators
+Framework(s)
+2.4: Risk-informed building code and regulations
+Conformity of statutory codes with latest standards in building practice and with perils faced.
+Scorecard
+Percentage of buildings with insurance cover for high-risk hazards relevant to the city
+OECD
+Meteo-climatological hazard: extreme temperatures; intensity parameter: 
+Wet Bulb Globe Temperature; frequency indicator: return period in years
+ThinkHazard!
+2.5: Structural and infrastructure protection measures
+Extent of insurance coverage of non-domestic property, infrastructure and assets
+Scorecard
+Percentage of hospitals that have carried out disaster Flexible preparedness drills in the last year
+OECD
+Meteo-climatological hazard: cyclonic strong winds; intensity parameter: mean wind speed; frequency indicator: return period in years
+ThinkHazard!
+2.6: Natural system and environmental protection measures
+Ecosystem services are specifically identified and managed as critical assets.
+Scorecard
+48: Proportion of land under protected natural areas
+NUA
+54: Existence of an enforced coastal and/or land management plan in the country
+NUA
+2.7: Public resources (human, budgetary and financial) to address risk
+11.a.1: Number of countries that have national urban policies or regional development plans that (a) respond to population dynamics; (b) ensure balanced territorial development; and (c) increase local fiscal space
+SDG
+40: Annual budget allocations addressing any of the five slum deprivations and inclusive public spaces in known slum areas
+NUA
+Ability of the city government to play the critical convening and plan-making role for disaster risk reduction. Do the city and or other agencies have the authority and resources to deliver on their disaster risk reduction commitments?
+Scorecard
+2.8: Risk-oriented participatory planning
+11.3.2: Proportion of cities with a direct participation structure of civil society in urban planning and management that operate regularly and democratically
+SDG
+Is this strategy developed through inclusive participatory, multistakeholder consultation?
+Scorecard
+Land use plans that have been developed with reference to local hazard risk assessment and that have been subjected to a formal consultation process
+OECD
+Urban planning shapes the built environment in which citizens breathe and live, so applying the evidence from these indicators is essential for managing risks in many areas. For instance, expanding green infrastructure in the city – including open public spaces and natural areas, parks and trees, green streets and squares, cycle and pedestrian paths – can:
+• influence well-being and health by improving mental health (lowering levels of mental distress and increasing positive feelings related to life satisfaction);
+• improve physical health (mitigating air pollution and reducing noise pollution and facilitating physical activity to address noncommunicable diseases such as cancer and obesity); and
+• enhance social cohesion (enabling community activities and social interaction) (Celaya Alvarez, 2021).
+Green and open areas have a long history of alleviating both the physical and mental effects of infectious diseases, as can be seen in the current COVID-19 pandemic, where they have been low-risk areas for recreation and improvement of well-being during times of social distancing (Herman & Drozda, 2021). Furthermore, children and elderly people – who are usually most affected by the recurrent shocks of heatwaves – benefit from the reduction of the urban heat island effect brought about by green infrastructure. To utilize these spaces effectively to manage risk, cities need to form strategies that consider their actual use by citizens through participatory planning. New planning solutions, such as sustainable urban drainage systems that respect the 
+Table 4. contd
+
+[Page 32]
+Review of indicator frameworks supporting urban planning for resilience and health water management cycle and new pavement materials that increase perviousness and sequester carbon, should also be considered.8
+While all the components in the analytical framework provide essential information that is helpful for determining priorities in planning for healthier and more resilient cities, another important factor for evidencebased urban action is the measurability of the indicators and feasibility of implementation at the local level. 
+It is irrefutable that local-level indicators and data can lead to more appropriate territorial plans; however, significant data challenges need to be addressed. Many urban indicators – especially quantitative ones – need to extract information from national or regional databases owing to a lack of available data at the local level, and even qualitative indicators, such as those based on stakeholder workshops, require significant resources that are often limited in cities.
+The WHO European Region can be considered relatively data-rich, with various databases that can be referenced easily and a generally open data policy. An example of this is Eurostat (2021), the statistical office of the European Union, which has a comprehensive data platform on various themes, including SDG monitoring, at the national level. It also has an urban audit database, containing data on over 1000 cities. Many cities, however, do not have data for even these more common indicators, and it should be noted that these data collection initiatives only cover the western part of the WHO European Region.
+The urban indicator frameworks reviewed in this study are designed to be universally applicable; they are therefore not tailored to the specificities of each city they will be applied to. Given the difficulties in implementing these frameworks at the local level, it may be easier to consider the overall approach and target the framework wants to achieve, rather than using the pre-set indicators. Local and tailored indicators that are measurable and useful for the individual city could then be designed. This type of exercise would challenge cities to think in a critical manner about indicators and reflect on how to act locally, although this requires a certain level of knowledge of the topic. Barcelona in Spain, for example, went through this exercise with the 
+SDGs. The city created its own indicators to monitor the operational targets it derived from the targets set by the SDG framework (Box 3).
+Box 3. SDGs localization in Barcelona, Spain
+The United Nations Declaration approving the 2030 Agenda for Sustainable Development calls on states and strategic stakeholders to implement action plans to work towards its achievement. It is, however, predominantly major cities that have acted as pioneers for voluntary local reviews. Barcelona, Spain, was one of the first cities to carry out a complete adaptation of the 169 SDG targets to its local reality.
+“Think global, act local” was the idea that guided Barcelona when adapting the SDGs. In this sense, the 
+Barcelona 2030 Agenda (Barcelona City Council, 2020) can be used as a guide and as encouragement for all the institutions, businesses and organizations that wish to work on the shared task of achieving the SDGs in the city. Its technical basis and cross-cutting nature will enable Barcelona to monitor through indicators all the local areas of action in the coming years, with special attention focused on public policies and on civil society.
+The first aim considered by the Barcelona 2030 Agenda is adapting the global agenda’s goals and targets to the city’s context and needs. This localization began by determining which of these could be transferred to the local level – to governance of a city. This was confirmed in 139 of the 169 targets, because the City Council has the appropriate jurisdiction, or because there was clear willingness to act in order to achieve the target. 
+The second step was defining a “Barcelona target” for each of the 139 localizable targets. The Barcelona 2030 
+Agenda described a roadmap for municipal action by aligning the SDGs with municipal plans and policies, and by establishing a detailed set of indicators, as the following health-related indicators show (Table 5).
+Table 5. Examples of health-related localized indicators
+SDG indicator
+Localized operational targets and indicators
+6.3.1: Proportion of wastewater safely treated
+Operational target
+Increase the surface area of the sustainable urban drainage system by 20 000 m2 and reduce the annual consumption of water by municipal services by 100 000 m3 a year
+Indicators
+• 
+Increase the operational surface area of sustainable urban drainage systems
+• 
+Network water consumed by municipal services (m3)
+8 Also see subsection 6.8 on green infrastructure and nature-based solutions in the first report on protecting environments and health by building urban resilience (Urban planning, design and management approaches to building resilience – an evidence review).
+
+[Page 33]
+Third report on protecting environments and health by building urban resilience
+Table 5. contd
+SDG indicator
+Localized operational targets and indicators
+7.1.1: Proportion of population with access to electricity
+Operational target
+Reduce the number of households who cannot maintain their homes at an adequate temperature to below 3%, and reduce the indicator for power cuts to 0.3
+Indicators
+• Proportion of households who cannot maintain their homes at an adequate temperature
+• Duration of power cut equivalent to the installed capacity at medium voltage in urban areas in the Province of Barcelona
+11.7.1: Average share of the built-up area of cities that is open space for public use for all, by sex, age and people with disabilities
+Operational target
+Create 160 hectares of urban green areas, giving priority to places that most lack them, setting the index for the quality of public areas above 7 and achieving 10 of the targets in the Plan for Play in Barcelona’s Public Spaces 2019–2030
+Indicators
+• 
+Surface area of non-woodland urban green areas
+• Index of public area quality (a composite indicator that includes a number of social, coexistence and services indicators, as well as urban features)
+• Index value for the achievement of the 10 targets in the Plan for Play in Barcelona’s 
+Public Spaces 2019–2030
+12.4.2: Hazardous waste generated per capita and proportion of hazardous waste treated, by type of treatment
+Operational target
+Achieve a significant reduction in the use of plastic in everyday life and suitable management and recycling of the plastic waste generated
+Indicators
+• 
+Presence of plastic waste in Barcelona’s environment (to be determined)
+• Policy to combat the impact of plastic and microplastics on Barcelona’s environment (to be determined)
+Designing more appropriate and measurable indicators for the specific context can lessen the data collection burden, but it also requires more significant investment in creating the city-customized framework. It is important to begin by applying theory to practice. The existing urban indicator frameworks reviewed in section 5 can act as a starting-point; through their application, cities can develop a better understanding and tailor indicators to what is important and possible to monitor in the city. Using an iterative process, this will support achievement of the anticipated sustainability, health and resilience targets.
+Indicators cannot be translated into resilience actions if they are not supported by more specific studies. 
+While important for policy-making, urban indicators can only suggest main areas of concern and further priorities. Specifically, for urban planning to improve health equity and protection, it is important to disaggregate spatially and to determine pockets of vulnerabilities in the city (Martinez et al., 2020). National and local policies, plans, initiatives and concrete competency scenarios are also important data required to understand the opportunities the city has to act within its boundaries in various matters. Making indicators actionable requires enabling governance systems that consider a multiplicity of stakeholders engaging in the process in an open and participatory manner: while urban planning may be the specific jurisdiction of one municipality department, the factors that comprise a healthy and resilient city involve a wide range of sectors. From this perspective, use of indicators is just one stage within a wider process that starts with a deep understanding of what healthy and resilient cities should be, and ideally results in place-based plans and tangible outcomes. While not within the scope of this study, many communities of practice, guidance and tools that cities can engage with to support their resilience-building process already exist (Box 4).
+
+[Page 34]
+Review of indicator frameworks supporting urban planning for resilience and health
+Box 4. UN-Habitat City Resilience Profiling Tool
+The UN-Habitat City Resilience Global Programme (2021) understands urban resilience as the measurable ability of any urban system, with its inhabitants, to maintain continuity through all shocks and stresses while positively adapting and transforming towards sustainability. UN-Habitat’s tool for urban resilience, the City 
+Resilience Profiling Tool, provides a universal framework that uses verifiable and contextualized city data to establish a resilience profile and create an analysis and diagnosis of its most urgent challenges. It addresses the current urban physical environment and infrastructure dimensions that could be affected by disasters (included in the urban system’s performance); and the risk information and orientation for future urban plans and interventions (included in the risk profile).
+The tool uses a guided framework for data collection, with the generation of metrics for urban resilience to establish a baseline (or “profile”) that covers the entire urban system’s weaknesses, vulnerabilities, strengths and the local risk trends, together with their interdependencies. An outline of the general context of the city, including stakeholders and plausible shocks and stresses, facilitates a preliminary identification of gaps and opportunities over a series of different aspects regarding the city’s structure and functionality, and provides a baseline for the creation of evidence-based and implementable actions for resilience. These actions, created through multistakeholder collaboration, are underpinned by the policies, plans and initiatives of the city to generate its vision of a resilient and sustainable future, and are designed to be incorporated into current urban development strategies and management processes of the city.
+Source: adapted from UN-Habitat (2018).
+7. Conclusion
+Urban planning is a critical enabler for health in cities. By managing environmental determinants through planning measures, disasters and health risks can be lessened and vulnerable populations better protected. 
+This review shows that existing urban indicator frameworks can highlight priorities in planning for health and resilience to a certain degree. While the frameworks are not able to encapsulate all aspects separately, they can complement each other to provide an idea of the systemic vulnerabilities of the city, and to reflect on risk trends and interventions. For instance, the SDG and NUA indicators, as wider frameworks, can be used to determine areas of vulnerability in the urban system, while resilience-specific frameworks – such as the UNDRR Scorecard and OECD indicators for resilient cities – provide more risk-oriented planning perspectives. The RSQ and ThinkHazard! tools have a narrower focus, since both provide risk information and touch on risk assessment; while delivering on their purpose, these should be seen as part of an ecosystem of related tools and indicators. More detailed and focused health-oriented planning and riskoriented planning indicators for urban settings, along with health-oriented urban governance measures, are yet to be designed and compiled.
+Application of these frameworks in cities and their use in decision-making appear to be more of a challenge. 
+While it is not within the scope of this study to evaluate actual implementation, it is important to highlight that indicators and data are often difficult to collect at the local level. Furthermore, they should be understood not as a final outcome but as mechanism to work proactively and inductively towards resilient and healthy urban environments. Ideally, the use of urban indicators should entail a comprehensive process rather than ad hoc application. Data and indicators must lead the discussion, but it is necessary to think carefully about which indicators are needed and for what purpose, being conscious that data are dynamic and must be understandable. Proper interpretation and consideration of the future are the best ways to anticipate scenarios that cities could face, and to plan accordingly. It is important that local governments adapt frameworks to their local realities and goals through efforts such as the SDG voluntary local reviews and wider resilience diagnostic-planning processes to successfully utilize indicator frameworks locally.9
+As cities are at the forefront of managing pressing health risks and environmental challenges, their role in addressing risks while achieving sustainable development targets is crucial. Local governments in Europe have largely responded to this call, as evidenced by the promulgation of resilience networks, projects and other such initiatives, coupled with an increasingly strong focus on healthy cities in the WHO European 
+Region. The severe impacts of the ongoing COVID-19 pandemic on cities highlight the need to apply the health perspective in urban planning more proactively. The pandemic has exposed the critical role the urban environment plays in health (physical and mental). As cities have responded to this, they have gained better knowledge and tools to understand, monitor and plan for health in urban settings. The trend for digitalization, which has become a key strategy for cities during the pandemic, has also changed the way cities collect, process and use information.
+9 On the relevance and impact of international agendas and commitments at the local level, see subsection 7.5 of the first report on protecting environments and health by building urban resilience (Urban planning, design and management approaches to building resilience – an evidence review), and subsection 5.5 of the second report on protecting environments and health by building urban resilience (Urban planning for health – experiences of building resilience in 12 cities).
+
+[Page 35]
+Third report on protecting environments and health by building urban resilience
+With heightened awareness, knowledge and capacities, cities should be more capable than ever of engaging in the process of evidence-based urban planning, using data and indicators to manage disaster and health risks effectively. This study presents an overview of which existing urban indicators can be used and how, and further encourages local governments to engage in wider resilience-building efforts and to select or design indicators that are locally appropriate and measurable, addressing city-specific priorities, possibilities and risks. This requires a whole-of-government, whole-of-society approach, engaging with various city stakeholders, taking into consideration various local perspectives, and ensuring integration in urban planning, local policies and governance processes.
+National governments and the international community should be supportive of efforts to localize indicators and incentivize plans and initiatives to build healthy resilient cities, through empowering and financing. 
+Apart from providing information on national reporting, local application can lead to innovative indicators that better respond to and reflect urban realities, cover gaps and promote action, especially considering the new challenges befalling cities. Peer learning and exchanges among cities should also be encouraged to address the issues faced by this process collectively. While examples were occasionally reflected in the foregoing discussion, a comprehensive survey of the practical application of urban indicators in European cities and succeeding health policies and planning outputs would further enhance this research. It would also provide invaluable information to support further efforts on urban indicators for resilience and health.
+
+[Page 36]
+Review of indicator frameworks supporting urban planning for resilience and health
+References
+Aitsi-Selmi A, Murray V (2015). The Sendai Framework: disaster risk reduction through a health lens. Bull World Health Organ. 93:362. doi:10.2471/BLT.15.157362.
+Barcelona City Council (2020). Barcelona: sustainable future – Seventeen social, economic and environmental objectives. Barcelona: Barcelona City 
+Council (https://ajuntament.barcelona.cat/agenda2030/sites/default/ files/2021-01/Barcelona’s%202030%20Agenda%20-%20SDG%20targets%20 and%20key%20indicators_0.pdf, accessed 29 November 2021).
+Barton H, Grant M (2012). Urban planning for healthy cities: a review of the progress of the European Healthy Cities Programme. J Urban Health. 
+90(Suppl 1):129–41. doi:10.1007/s11524-011-9649-3.
+Burkle FJ (2010). Future humanitarian crises: challenges for practice, policy, and public health. Prehosp Disaster Med. 25(3):191–9. doi:10.1017/ s1049023x00007998.
+Cardona OD, Hurtado JE, Duque G, Moreno A, Chardon AC, Velásquez 
+LS et al. (2003). Indicators for risk measurement: fundamentals for a methodological approach. Manizales. IADB/IDEA. Program on Indicators for 
+Disaster Risk Management, Universidad Nacional de Colombia (http://idea.
+unalmzl.edu.co, accessed 30 August 2021).
+Carmichael L, Racioppi F, Calvert T, Sinnett D (2017). Environment and health for European cities in the 21st century: making a difference. Geneva: 
+World Health Organization (https://apps.who.int/iris/handle/10665/344155, accessed 1 November 2021).
+Celaya Alvarez A (2015). Scope and limitations of indicators related to disaster risk reduction in urban settings: towards an urban resilience model [Master’s thesis]. Bilbao and Brussels: Network on Humanitarian Action 
+Master, Deusto University and NOHA Network.
+Celaya Alvarez A (2021). Resilient cities after COVID-19: the need for green infrastructure. In: UIA [website]. Lille: Urban Innovative Actions (https:// infrastructure, accessed 30 August 2021).
+Ciambra A (2021). European SDG voluntary local reviews: a comparative analysis of local indicators and data, edited by Siragusa A, Proietti 
+P. Luxembourg: Publications Office of the European Union (https:// publications.jrc.ec.europa.eu/repository/handle/JRC124580, accessed 3 
+November 2021).
+EEA (2020). Air pollution: how it affects our health. In: European 
+Environment Agency [website]. Copenhagen: European Environment pollution, accessed 30 August 2021).
+EEA (2021). Urban sustainability in Europe: what is driving cities’ environmental change? Copenhagen: European Environment Agency what, accessed 1 November 2021).
+Eurostat (2021). City statistics. In: Eurostat [database]. Luxembourg: Eurostat (https://ec.europa.eu/eurostat/web/cities/data/database, accessed 30 
+August 2021).
+Figueiredo L, Honiden T, Schumann A (2018). Indicators for resilient cities. 
+Paris: OECD Publishing (https://doi.org/10.1787/6f1f6065-en, accessed 30 
+August 2021).
+Fraser S (2017). Methodology report: updated for ThinkHazard! version 2. 
+Washington DC: Global Facility for Disaster Reduction and Recovery (https:// gfdrr.github.io/thinkhazardmethods/#meteo-climatological-hazards, accessed 30 August 2021).
+GFDRR (2020). ThinkHazard! [website]. Washington DC: Global Facility for 
+Disaster Reduction and Recovery (https://understandrisk.org/tool/thinkhazard-online-resource-thor/, accessed 30 August 2021).
+Herman K, Drozda Ł (2021). Green infrastructure in the time of social distancing: urban policy and the tactical pandemic urbanism. 
+Sustainability. 13(4):1632. doi:10.3390/su13041632.
+ICLEI European Secretariat (2019). Resilience maturity model smart handbook. San Sebastián: ICLEI European Secretariat (https://smr-project.
+eu/fileadmin/user_upload/Documents/Resources/WP_7/SMR-handbookISGlobal (2021). The Sustainable Development Goals (SDGs) and Global 
+Health. In: ISGlobal [website]. Barcelona: Barcelona Institute for Global 
+August 2021).
+Knox Clarke P, Darcy J (2014). Insufficient evidence? The quality and use of evidence. London: ALNAP and Overseas Development Institute (https:// evidence-in-humanitarian-action-alnap-0, accessed 30 August 2021).
+Martinez L, León E, Al Youssef S, Karaan A (2020). Strengthening the health lens in urban resilience frameworks. Cities & Health. 4(1):229–36. doi:10.108
+0/23748834.2020.1731918.
+Morchain D, Robrecht H (2012). Background paper for Council of Europe’s report on Resilient Cities. San Sebastián: ICLEI European Secretariat (https://rm.coe.int/1680719be7, accessed 30 August 2021).
+Northrop E, Biru H, Lima S, Bouye M, Song R (2016). Examining the alignment between the intended nationally determined contributions and 
+Sustainable Development Goals. Washington DC: World Resources Institute. betweenintended-nationally-determined-contributions-and-sustainable, accessed 30 August 2021).
+OECD (2013). Framework of OECD work on environmental data and indicators. In: Environment at a Glance 2013: OECD indicators. Paris: OECD at-a-glance-2013/framework-of-oecd-work-on-environmental-data-andindicators_9789264185715-3-en, accessed 2 November 2021).
+OECD (2014). “Resilient economies and inclusive societies – empowering people for jobs and growth”: 2014 Ministerial Council Statement. Paris: statement.htm, accessed 30 August 2021).
+OECD (2021a). Resilient cities. In: OECD [website]. Paris: OECD Publishing accessed 30 August 2021).
+OECD (2021b). OECD.Stat [website]. Paris: OECD Publishing (https://stats.
+oecd.org/Index.aspx?Datasetcode=CITIES, accessed 30 August 2021).
+Rockefeller Foundation, Arup (2015). City Resilience Index. London: Arup city-resilience-index, accessed 10 December 2021).
+Sachs J, Schmidt-Traub G, Kroll C, Lafortune G, Fuller G, Woelmn F (2020). 
+Sustainable Development Report 2020: the Sustainable Development 
+Goals and COVID-19. Cambridge: Cambridge University Press (https://
+E7A0A979B98F855FE1FC7769E2182D59#, accessed 30 August 2021).
+Schofield H, Twigg J (2019). Making cities sustainable and resilient: lessons learned from the Disaster Resilience Scorecard assessment and Disaster 
+Risk Reduction (DRR) action planning. Geneva: United Nations Disaster Risk sustainable-and-resilient-lessons-learned-disaster-resilience-scorecard, accessed 30 August 2021).
+Siragusa A, Vizcaino P, Proietti P, Lavalle C (2020). European handbook for SDG voluntary local reviews. Luxembourg: Publications Office of the 
+European Union (https://publications.jrc.ec.europa.eu/repository/handle/
+JRC118682, accessed 3 November 2021).
+
+[Page 37]
+Third report on protecting environments and health by building urban resilience
+SMR (2019). Resilience maturity model. In: SMR: Smart Mature Resilience [website]. San Sebastián: University of Navarra (https://smr-project.eu/ tools/maturity-model-guide/, accessed 30 August 2021).
+SMR (2021a). Risk Systemicity Questionnaire. In: SMR: Smart Mature 
+Resilience [website]. San Sebastián: University of Navarra (https://smrproject.eu/tools/risk-systemicity-questionnaire/, accessed 30 August 2021).
+SMR (2021b). City Resilience Dynamics. In: SMR: Smart Mature Resilience [website]. San Sebastián: University of Navarra (https://crd.smr-project.eu/, accessed 30 August 2021).
+SMR (2021c). Resilience Building Policies. In: SMR: Smart Mature Resilience [website]. San Sebastián: University of Navarra (https://smr-project.eu/ tools/resilience-building-policies/, accessed 30 August 2021).
+UNDRR (2015). EFDRR 2015–2020 roadmap review. Geneva: United Nations efdrrroadmapreview.pdf. accessed 30 August 2021).
+UNDRR (2017). Disaster Resilience Scorecard for Cities. Geneva: United resilientcities/toolkit/article/disaster-resilience-scorecard-for-cities.html, accessed 2 November 2021).
+UNDRR (2020a). Voluntary Commitments. In: Sendai Framework for 
+Disaster Risk Reduction 2015–2030 [website]. Geneva: United Nations 
+Disaster Risk Reduction (https://sendaicommitments.undrr.org/ commitments/20201225_001, accessed 30 November 2021).
+UNDRR (2020b). Disaster Resilience Scorecard for Cities: Public Health 
+System Resilience Addendum, consultative version 2.0. Geneva: United 
+Nations Disaster Risk Reduction (https://mcr2030.undrr.org/public-healthsystem-resilience-scorecard, accessed 30 August 2021).
+UNDRR (2021a). The Ten Essentials for Making Cities Resilient [website]. 
+Geneva: United Nations Disaster Risk Reduction (https://mcr2030.undrr.org/ ten-essentials-making-cities-resilient, accessed 3 November 2021).
+UNDRR (2021b). Quick Risk Estimation (QRE) tool [website]. Geneva: United 
+Nations Disaster Risk Reduction (https://mcr2030.undrr.org/quick-riskestimation-tool, accessed 30 August 2021).
+UN-Habitat (2018). City Resilience Profiling Tool: guide. Nairobi: United 
+Nations Human Settlements Programme (https://unhabitat.org/guide-tothe-city-resilience-profiling-tool, accessed 30 August 2021).
+UN-Habitat (2019). Guidelines for reporting on the implementation of the New Urban Agenda. Nairobi: United Nations Human Settlements 
+Programme (https://unhabitat.org/guidelines-for-reporting-on-theimplementation-of-the-new-urban-agenda, accessed 30 August 2021).
+UN-Habitat (2020). NUA Monitoring Framework and related indicators. Draft version. Nairobi: United Nations Human Settlements Programme (https://
+UN-Habitat (2021a). City Prosperity Initiative. Nairobi: United Nations 
+Human Settlements Programme (https://unhabitat.org/programme/cityprosperity-initiative, accessed 30 August 2021).
+UN-Habitat (2021b). Data analytics. In: Urban Agenda Platform [website]. urbanagendaplatform.org/data_analytics, accessed 30 August 2021).
+UN-Habitat City Resilience Global Programme (2021). Urban Resilience 
+Hub. Nairobi: United Nations Human Settlements Programme (http:// urbanresiliencehub.org/building-resilience/, accessed 30 August 2021).
+UN-Habitat, WHO (2020). Integrating health in urban and territorial planning: a sourcebook. Geneva: United Nations Human Settlements 
+Programme and World Health Organization (https://apps.who.int/iris/ handle/10665/331678, accessed 30 August 2021).
+United Nations (2015a). Sendai Framework for Disaster Risk Reduction 2015– framework-disaster-risk-reduction-2015-2030, accessed 9 September 2021).
+United Nations (2015b). Transforming our world: the 2030 Agenda for 
+Sustainable Development. New York: United Nations (https://sdgs.
+un.org/publications/transforming-our-world-2030-agenda-sustainabledevelopment-17981, accessed 21 September 2021).
+United Nations (2015c). Paris Agreement. New York: United Nations (https://unfccc.int/process-and-meetings/the-paris-agreement/the-parisagreement, accessed 9 September 2021).
+United Nations (2015d). Indicators and a Monitoring Framework for the 
+Sustainable Development Goals: launching a data revolution for the SDGs. 
+New York: United Nations (https://sdgs.un.org/publications/indicators-andmonitoring-framework-sustainable-development-goals-17958, accessed 2 
+November 2021).
+United Nations (2017). New Urban Agenda. New York: United Nations (https://habitat3.org/the-new-urban-agenda/, accessed 9 September 2021).
+United Nations (2020). Policy Brief: COVID-19 in an urban world. New York: 
+United Nations (https://unsdg.un.org/resources/policy-brief-covid-19urban-world, accessed 30 August 2021).
+Westfall M, De Villa, V (2001). Urban indicators for managing cities. Manila: indicators-managing-cities, accessed 30 August 2021).
+WHO (2016a). Health as the pulse of the New Urban Agenda: United Nations 
+Conference on Housing and Sustainable Urban Development, Quito, 
+October 2016. Geneva: World Health Organization (https://apps.who.int/iris/ handle/10665/250367, accessed 30 August 2021).
+WHO (2016b). International Health Regulations (2005), third edition. item/9789241580496)
+WHO (2019). Health emergency and disaster risk management framework. Geneva: World Health Organization (https://apps.who.int/iris/ handle/10665/326106, accessed 30 August 2021).
+WHO (2021a). Climate change. In: World Health Organization [website]. climate-change#tab=tab_1, accessed 30 August 2021).
+WHO (2021b). Advancing health emergency preparedness in cities and urban settings in COVID-19 and beyond: report on a series of global technical working group meetings, February–April 2021. Geneva: World Health 
+Organization (https://apps.who.int/iris/handle/10665/343394, accessed 
+30 August 2021).
+WHO (2021c). Strategic toolkit for assessing risks: a comprehensive toolkit for all-hazards health emergency risk assessment. Geneva: World Health 
+Organization (https://apps.who.int/iris/handle/10665/348763, accessed 9 
+May 2022).
+WHO Regional Office for Europe (2020). European Programme of Work, 
+2020–2025: United Action for Better Health. Copenhagen: WHO Regional 
+Office for Europe (EUR/RC70/11Rev.4; (https://apps.who.int/iris/ handle/10665/339209, accessed 30 August 2021).
+WHO Regional Office for Europe (2021). WHO European Healthy Cities 
+Network. In: WHO/Europe [website]. Copenhagen: WHO Regional Office health/urban-health/who-european-healthy-cities-network, accessed 
+30 August 2021).
+Wright N, Fagan L, Lapitan JM, Kayano R, Abrahams J, Huda Q et al. (2020). Health emergency and disaster risk management: five years into implementation of the Sendai Framework. Int J Disaster Risk Sci. 11(2):206–
+17. doi:10.1007/s13753-020-00274-x.
+
+[Page 38]
+Review of indicator frameworks supporting urban planning for resilience and health
+Annex 1. Framework review matrices
+Relevant indicators from each of the selected frameworks were chosen and assessed according to whether they provided information on the components of the two dimensions used in the study (Table A1). Tables A2–A8 set out the assessment findings for each framework. For each component covered by an indicator, the cell in the component column is coloured green if the answer is yes (Y) and yellow if the indicator only partly (P) informs that component. Empty cells signify that the indicator has marginal or no information value for that component.
+Table A1. Dimensions and components considered in the framework review
+Dimension
+Component
+1: Current state of the urban environment
+1.1: Environmental quality (clean water, air and soil)
+1.2: Ecosystem and biodiversity
+1.3: Walkability and access to green and public spaces
+1.4: Safe and sustainable transport
+1.5: Access to basic infrastructure, services and food
+1.6: Sustainable energy resources and management (low-carbon city)
+1.7: Sustainable wastewater services and treatment
+1.8: Sustainable waste collection and management 
+1.9: Adequate and healthy housing and workplaces (provision, density and space, structure and materials, location)
+2. Risk-oriented urban planning and interventions
+2.1: Systematic urban risk analysis and assessment and its health links
+2.2: Risk-informed land use planning
+2.3: Risk-informed infrastructure and critical assets
+2.4: Risk-informed building code and regulations
+2.5: Structural and infrastructure protection measures
+2.6: Natural system and environmental protection measures
+2.7: Public resources (human, budgetary and financial) to address risk
+2.8: Risk-oriented participatory planning
+
+[Page 39]
+Third report on protecting environments and health by building urban resilience
+Table A2. SDG indicators
+SDGs and indicators
+Localization Measurability
+Dimension 1 
+Current state of the urban environmentcomponents
+Dimension 2
+Risk-oriented urban planning and interventions components
+1.1
+1.2
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+1.9
+2.1
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+SDG 1: End poverty in all its forms everywhere
+1.4.1: Proportion of population living in households with access to basic services
+Localizable
+Partly
+P
+Y
+P
+P
+P
+Y
+P
+1.5.3: Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai 
+Framework
+Not localizable
+Yes
+P
+P
+P
+P
+P
+P
+P
+1.5.4: Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies
+Localizable
+Yes
+Y
+Y
+Y
+Y
+Y
+Y
+P
+SDG 3: Ensure healthy lives and promote well-being for all at all ages
+3.6.1: Death rate due to road traffic injuries
+Localizable
+Yes
+Y
+P
+P
+3.9.1: Mortality rate attributed to household and ambient air pollution
+Localizable
+Yes
+Y
+P
+Y
+P
+P
+P
+3.9.2: Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (exposure to unsafe water, sanitation and hygiene for all services)
+Localizable
+Yes
+P
+P
+Y
+P
+Y
+Y
+Y
+P
+P
+P
+P
+3.9.3: Mortality rate attributed to unintentional poisoning
+Localizable
+Yes
+Y
+Y
+Y
+P
+P
+P
+3.b.3: Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis
+Localizable
+Yes
+Y
+P
+P
+3.c.1: Health worker density and distribution
+Localizable
+Yes
+P
+P
+P
+3.d.1: International 
+Health Regulations capacity and health emergency preparedness
+Not localizable
+Yes
+P
+
+[Page 40]
+Review of indicator frameworks supporting urban planning for resilience and health
+SDGs and indicators
+Localization Measurability
+Dimension 1 
+Current state of the urban environmentcomponents
+Dimension 2
+Risk-oriented urban planning and interventions components
+1.1
+1.2
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+1.9
+2.1
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+SDG 6: Ensure access to water and sanitation for all
+6.1.1: Proportion of population using safely managed drinking-water services 
+Localizable
+Yes
+Y
+P
+Y
+P
+P
+Y
+Y
+Y
+P
+6.2.1: Proportion of population using (a) safely managed sanitation services and (b) a hand-washing facility with soap and water
+Localizable
+Partly
+Y
+P
+Y
+Y
+P
+Y
+Y
+Y
+P
+6.3.1: Proportion of domestic and industrial wastewater flows safely treated
+Localizable
+Partly
+Y
+Y
+Y
+P
+Y
+Y
+Y
+P
+P
+P
+P
+6.4.1: Change in wateruse efficiency over time
+Localizable
+Yes
+Y
+Y
+P
+P
+6.4.2: Level of water stress: freshwater withdrawal as a proportion of available freshwater resources
+Localizable
+Yes
+Y
+Y
+P
+Y
+Y
+P
+P
+P
+6.5.1: Degree of integrated water resources management
+Localizable
+Partly
+Y
+Y
+P
+Y
+P
+Y
+P
+Y
+P
+P
+P
+P
+P
+6.5.2: Proportion of transboundary basin area with an operational arrangement for water cooperation
+Not localizable
+Partly
+P
+P
+SDG 7: Ensure access to affordable, reliable, sustainable and modern energy for all
+7.1.2: Proportion of population with primary reliance on clean fuels and technology
+Localizable
+Yes
+Y
+P
+Y
+Y
+Y
+P
+P
+SDG 11: Make cities and human settlements inclusive, safe, resilient and sustainable
+11.1.1: Proportion of urban population living in slums, informal settlements or inadequate housing
+Localized
+Yes
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+P
+P
+P
+P
+P
+P
+11.2.1: Proportion of population that has convenient access to public transport, by sex, age and people with disabilities
+Localized
+Yes
+Y
+P
+Y
+Y
+P
+P
+Table A2. contd
+
+[Page 41]
+Third report on protecting environments and health by building urban resilience
+SDGs and indicators
+Localization Measurability
+Dimension 1 
+Current state of the urban environment components
+Dimension 2
+Risk-oriented urban planning and interventions components
+1.1
+1.2
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+1.9
+2.1
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+SDG 11: Contd
+11.3.2: Proportion of cities with a direct participation structure of civil society in urban planning and management that operate regularly and democratically
+Localized
+Yes
+P
+Y
+11.5.1: Number of deaths, missing people and directly affected people attributed to disasters per 100 000 population
+Localizable
+Partly
+P
+P
+11.5.2: Direct economic loss in relation to global gross domestic product, damage to critical infrastructure and number of disruptions to basic services, attributed to disasters 
+Not localizable
+Partly
+P
+P
+P
+11.6.1: Proportion of municipal solid waste collected and managed in controlled facilities out of total municipal waste generated, by cities
+Localized
+Yes
+Y
+Y
+Y
+P
+P
+Y
+P
+P
+P
+P
+11.6.2: Annual mean levels of fine particulate matter (e.g. PM2.5 and PM10) in cities (population weighted)
+Localized
+Yes
+Y
+Y
+P
+Y
+Y
+P
+P
+P
+P
+P
+P
+P
+P
+11.7.1: Average share of the built-up area of cities that is open space for public use for all, by sex, age and people with disabilities
+Localized
+Yes
+Y
+Y
+Y
+P
+P
+11.a.1: Number of countries that have national urban policies or regional development plans that (a) respond to population dynamics; (b) ensure balanced territorial development; and (c) increase local fiscal space
+Not localizable
+Yes
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+11.b.1: Number of countries that adopt and implement national disaster risk reduction strategies in line with the 
+Sendai Framework
+Not localizable
+Yes
+P
+P
+P
+P
+P
+P
+P
+Table A2. contd
+
+[Page 42]
+Review of indicator frameworks supporting urban planning for resilience and health
+SDGs and indicators
+Localization Measurability
+Dimension 1 
+Current state of the urban environmentcomponents
+Dimension 2
+Risk-oriented urban planning and interventions components
+1.1
+1.2
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+1.9
+2.1
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+SDG 12: Ensure sustainable consumption and production patterns
+12.4.2: (a) Hazardous waste generated per capita; and (b) proportion of hazardous waste treated, by type of treatment
+Localizable
+Yes
+Y
+Y
+P
+P
+Y
+Y
+P
+P
+SDG 13: Take urgent action to combat climate change and its impacts
+13.1.3: Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies
+Localizable
+Yes
+Y
+Y
+Y
+Y
+Y
+Y
+P
+13.2.2: Total greenhouse gas emissions per year
+Localizable
+Yes
+Y
+Y
+Y
+Y
+P
+Y
+Y
+P
+P
+P
+P
+P
+SDG 15: Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification and halt and reverse land degradation and halt biodiversity loss
+15.2.1: Progress towards sustainable forest management
+Localizable
+Partly
+Y
+Y
+Y
+Y
+Y
+Y
+Table A2. contd
+
+[Page 43]
+Third report on protecting environments and health by building urban resilience
+Table A3. NUA Monitoring Framework and related indicators
+Indicator
+Localization Measurability
+Dimension 1 
+Current state of the urban environment components
+Dimension 2
+Risk-oriented urban planning and interventions components
+1.1
+1.2
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+1.9
+2.1
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+3: Mortality rate attributed to household and ambient air pollution 
+Localized
+Yes
+Y
+Y
+P
+P
+5: Proportion of population using safely managed drinkingwater services 
+Localized
+Yes
+Y
+P
+Y
+P
+P
+Y
+Y
+Y
+P
+6: Proportion of population using safely managed sanitation services, including a hand-washing facility with soap and water 
+Localized
+Yes
+Y
+P
+Y
+Y
+P
+Y
+Y
+Y
+P
+7: Renewable energy share in the total final energy consumption 
+Localizable
+Yes
+Y
+Y
+13: Proportion of urban population living in slums, informal settlements or inadequate housing 
+Localized
+Partly
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+P
+P
+P
+P
+P
+P
+14: Proportion of the population that has convenient access to public transport disaggregated by age group, sex and people with disabilities 
+Localized
+Partly
+Y
+P
+Y
+Y
+P
+P
+15: Ratio of land consumption rate to population growth rate 
+Localized
+Yes
+Y
+Y
+Y
+Y
+Y
+P
+17: Total expenditure (public and private) per capita spent on the preservation, protection and conservation of all cultural and natural heritage, by type of heritage, level of government, type of expenditure and type of private funding 
+Localizable
+Partly
+Y
+Y
+P
+Y
+Y
+P
+P
+P
+Y
+Y
+18: Proportion of municipal solid waste collected and managed in controlled facilities
+Localized
+Yes
+Y
+Y
+Y
+P
+P
+Y
+P
+P
+P
+P
+19: Average share of the built-up area of cities that is open space for public use for all, by sex, age and people with disabilities 
+Localized
+Yes
+Y
+Y
+Y
+P
+P
+Y
+Y
+P
+P
+
+[Page 44]
+Review of indicator frameworks supporting urban planning for resilience and health
+Indicator
+Localization Measurability
+Dimension 1 
+Current state of the urban environment components
+Dimension 2
+Risk-oriented urban planning and interventions components
+1.1
+1.2
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+1.9
+2.1
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+23: Recycling rate, tonnes of material recycled 
+Localizable
+Yes
+Y
+27: Green area per capita 
+Localizable
+Yes
+Y
+Y
+Y
+P
+Y
+Y
+P
+Y
+28: Population density 
+Localized
+Yes
+Y
+Y
+Y
+P
+P
+P
+P
+P
+Y
+P
+P
+35: Percentage of road length that has dedicated bike lanes (excluding motorways) 
+Localized
+Yes
+Y
+P
+P
+36: Percentage of road length that has dedicated sidewalks (excluding motorways) 
+Localized
+Yes
+Y
+P
+P
+40: Annual budget allocations addressing any of the five slum deprivations and inclusive public spaces in known slum areas 
+Localized
+Partly
+Y
+Y
+P
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+43: Percentage of government expenditure dedicated to housing and community amenities
+Localizable
+Yes
+Y
+Y
+44: Percentage of commuters using public transport 
+Localized
+Yes
+Y
+P
+Y
+Y
+P
+P
+48: Proportion of land under protected natural areas 
+Localizable
+Yes
+Y
+Y
+Y
+P
+Y
+Y
+P
+Y
+49: Percentage of local governments that adopt and implement local disaster risk reduction strategies in line with national strategies 
+Localized
+Yes
+Y
+Y
+Y
+Y
+Y
+Y
+P
+50: Percentage of subnational/local government budgets dedicated to climate change mitigation and adaptation actions 
+Localized
+Yes
+P
+P
+Y
+51: Percentage of cities with multihazard mapping 
+Localizable
+Yes
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Table A3. contd
+
+[Page 45]
+Third report on protecting environments and health by building urban resilience
+Indicator
+Localization Measurability
+Dimension 1 
+Current state of the urban environment components
+Dimension 2
+Risk-oriented urban planning and interventions components
+1.1
+1.2
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+1.9
+2.1
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+52: Does the city have a multihazard monitoring and forecasting system? 
+Localized
+Yes
+Y
+Y
+Y
+Y
+54: Existence of an enforced coastal and/ or land management plan in the country 
+Localizable
+Yes
+Y
+Y
+P
+P
+P
+P
+Y
+Y
+Y
+Y
+P
+Y
+Y
+65: Existence of national structure or office or committee for implementing the NUA 
+Localized
+Yes
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+Y
+Table A3. contd
+
+[Page 46]
+Review of indicator frameworks supporting urban planning for resilience and health
+Table A4. UNDRR Disaster Resilience Scorecard for Cities 
+Indicator
+Localization Measurability
+Dimension 1 
+Current state of the urban environment components
+Dimension 2 
+Risk-oriented urban planning and interventions components
+1.1
+1.2
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+1.9
+2.1
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+Essential 1: Organize for disaster resilience
+To what extent are risk factors considered within the city vision/ strategic plan?
+Localized
+Partly
+P
+Y
+Y
+P
+P
+P
+Y
+P
+Is this strategy developed through inclusive participatory, multistakeholder consultation?
+Localized
+Yes
+Y
+Is the city strategic plan reviewed on a regular basis?
+Localized
+Yes
+P
+P
+Coordination of all relevant pre-event planning activities exists for the city’s area, with clarity and accountability across all relevant organizations?
+Localized
+No
+P
+Coordination of all relevant event response activities exists for the city’s area, with clarity and accountability across all relevant organizations?
+Localized
+No
+P
+Ability of the city government to play the critical convening and plan-making role for disaster risk reduction. 
+Do the city and or other agencies have the authority and resources to deliver on their disaster risk reduction commitments?
+Localized
+Partly
+Y
+Co-option of physical contributions by both public and private sectors (identification of physical contribution for each major organization)
+Localized
+Partly
+P
+Extent to which any proposal in government is also evaluated for disaster resilience benefits or impairments
+Localized
+Yes
+Y
+P
+P
+P
+Availability of a single “version of truth” – a single integrated set of resilience data for practitioners
+Localized
+Yes
+
+[Page 47]
+Third report on protecting environments and health by building urban resilience
+Indicator
+Localization Measurability
+Dimension 1 
+Current state of the urban environment components
+Dimension 2 
+Risk-oriented urban planning and interventions components
+1.1
+1.2
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+1.9
+2.1
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+Essential 2: Identify, understand and use current and future risk scenarios
+Existence of recent, expert-reviewed estimates of probability of known hazards or perils and their extents
+Localized
+Partly
+Y
+P
+P
+P
+P
+P
+Existence of recent, expert-reviewed estimates of probability of known hazards or perils existence of scenarios setting out city-wide exposure and vulnerability from each hazard level
+Localized
+Partly
+Y
+P
+P
+P
+P
+P
+Do risk assessments identify business output and employment at risk, populations at risk, housing at risk, agricultural land and ecosystem at risk, cultural heritage at risk for key identified scenarios?
+Localized
+Partly
+Y
+P
+P
+P
+P
+P
+P
+All critical assets are identified and relationships between them are identified in the form of potential “failure chains”
+Localized
+Yes
+P
+P
+P
+P
+Presence of hazard maps (for example, flood or seismic risk maps)
+Localized
+Yes
+P
+P
+P
+P
+Existence of a process agreed between relevant agencies to: update hazard estimates every three years or less; update exposure and vulnerability assessments and asset inventory every 18 months or less
+Localized
+Yes
+Y
+Table A4. contd
+
+[Page 48]
+Review of indicator frameworks supporting urban planning for resilience and health
+Table A4. contd
+Indicator
+Localization Measurability
+Dimension 1 
+Current state of the urban environment components
+Dimension 2 
+Risk-oriented urban planning and interventions components
+1.1
+1.2
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+1.9
+2.1
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+Essential 3: Strengthen financial capacity for resilience
+The extent to which the city is actively trying to meet funding needs and has a clear responsibility for this 
+Localized
+Partly
+Y
+Presence of financial (capital and operating) plans with a reasoned set of priorities, based on disaster resilience impact achieved, and linked to “most probable” and “most severe” scenarios (Essential 2)
+Localized
+Yes
+Y
+Percentage funding for capital elements of plans relative to estimated cost
+Localized
+Yes
+P
+Funding for operating expenses relative to estimated costs: presence of separately delineated budget line items
+Localized
+Yes
+P
+Existence of funds capable of dealing with estimated impacts from “most severe” scenario
+Localized
+Yes
+Y
+Extent of coverage of domestic housing (insurance coverage)
+Localized
+Yes
+P
+P
+P
+Extent of insurance coverage of nondomestic property, infrastructure and assets
+Localized
+Yes
+P
+Y
+Y
+P
+Existence of incentives to help business owners to take steps to improve disaster resilience to a standard to deal with the “most severe” scenario
+Localized
+Partly
+P
+Existence of incentives to help non-profits take steps to improve disaster resilience to a standard to deal with the “most severe” scenario
+Localized
+Partly
+P
+Existence of incentives to help home-owners take steps to improve disaster resilience to a standard to deal with the most “severe scenario”
+Localized
+Partly
+P
+
+[Page 49]
+Third report on protecting environments and health by building urban resilience
+Indicator
+Localization Measurability
+Dimension 1 
+Current state of the urban environment components
+Dimension 2 
+Risk-oriented urban planning and interventions components
+1.1
+1.2
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+1.9
+2.1
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+Essential 4: Pursue resilient urban development and design
+Percentage of population at risk of displacement
+Localized
+Yes
+Y
+P
+Percentage of employment at risk
+Localized
+Yes
+P
+Percentage of business outputs at risk
+Localized
+Partly
+P
+P
+Percentage of agricultural land at risk
+Localized
+Yes
+P
+P
+P
+P
+Use of urban design solutions to improve resilience; often by maximizing the extent and benefits of ecosystem services within the city
+Localized
+Partly
+P
+P
+P
+P
+Y
+Existence of applicable codes to all physical assets
+Localized
+Partly
+Y
+Y
+Y
+Conformity of \statutory codes with latest standards in building practice and with perils faced
+Localized
+Partly
+Y
+Use of sustainable building standards such as REDi, LEED, 
+GreenStar and BREEAM to improve resilience
+Localized
+Yes
+P
+Y
+P
+Extent to which land use zoning is enforced
+Localized
+Partly
+Y
+P
+Implementation of building codes on relevant structures
+Localized
+Partly
+Y
+Y
+Y
+Essential 5: Safeguard natural buffers to enhance ecosystems’ protective functions
+Ecosystem services are specifically identified, and managed as critical assets
+Localized
+Yes
+Y
+P
+Y
+P
+Y
+Change in health, extent or benefits of each ecosystem services in the last five years
+Localized
+Partly
+Y
+P
+P
+Absence of policies or land uses liable to weaken ecosystem services
+Localized
+Partly
+P
+Y
+P
+Table A4. contd
+
+[Page 50]
+Review of indicator frameworks supporting urban planning for resilience and health
+Table A4. contd
+Indicator
+Localization Measurability
+Dimension 1 
+Current state of the urban environment components
+Dimension 2 
+Risk-oriented urban planning and interventions components
+1.1
+1.2
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+1.9
+2.1
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+Essential 5: Contd
+Green and blue infrastructure is routinely embedded into projects across the city – in new urban developments, regeneration and infrastructure projects
+Localized
+Partly
+P
+Y
+Y
+P
+Y
+P
+P
+P
+How many critical ecosystem have been identified outside of the city boundaries that act towards enhancing city resilience?
+Localized
+Partly
+Y
+Y
+P
+Are there transboundary agreements and collaborations in place to enable policy and planning for the implementation of ecosystem-based approaches?
+Localized
+Yes
+Y
+P
+Essential 6: Strengthen institutional capacity for resilience
+Known availability of key skills, experience and knowledge
+Localized
+Partly
+P
+P
+To what extent does the city utilize and engage the private sector?
+Localized
+Partly
+P
+Is the city engaging with the insurance sector to assess, mitigate and manage risk and stimulate a market for insurance products?
+Localized
+Partly
+Y
+To what extent does the city utilize and engage civil society organizations?
+Localized
+Partly
+P
+P
+Coordinated public relations and education campaign exists, with structured messaging, channels and delivery
+Localized
+Partly
+P
+Exposure per member of the public, per month to messaging
+Localized
+Yes
+
+[Page 51]
+Third report on protecting environments and health by building urban resilience
+Indicator
+Localization Measurability
+Dimension 1 
+Current state of the urban environment components
+Dimension 2 
+Risk-oriented urban planning and interventions components
+1.1
+1.2
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+1.9
+2.1
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+Essential 5: Contd
+Training offered and available to resilience professionals (from city government, voluntary or other sources)
+Localized
+Yes
+P
+Percentage of population trained in last year
+Localized
+Yes
+P
+Frequency of repeat training
+Localized
+Yes
+P
+Availability of all education and training in all languages spoken in the city
+Localized
+Yes
+P
+Learning activities executed with other cities and other practitioners
+Localized
+Partly
+P
+Essential 7: Understand and strengthen societal capacity for resilience
+Presence of at least one non-government body for planning disaster risk reduction and postevent response for each neighbourhood in the city
+Localized
+Yes
+P
+P
+P
+P
+P
+Community organization meeting frequency and attendance
+Localized
+Partly
+P
+Clear identification and coordination of disaster risk reduction actions and post-event roles for community bodies, supported by training
+Localized
+Partly
+P
+P
+Likelihood that residents will be contacted immediately after an event, and regularly thereafter to confirm safety, issues, needs etc.
+Localized
+Partly
+P
+P
+Evidence of disaster resilience planning with or for the relevant groups covering the span of the vulnerable population
+Localized
+Partly
+P
+P
+P
+Table A4. contd
+
+[Page 52]
+Review of indicator frameworks supporting urban planning for resilience and health
+Indicator
+Localization Measurability
+Dimension 1 
+Current state of the urban environment components
+Dimension 2 
+Risk-oriented urban planning and interventions components
+1.1
+1.2
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+1.9
+2.1
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+Essential 7: Contd
+Proportion of employers that pass resilience communications to employees and limited time off for resilience volunteer activities
+Localized
+No
+P
+Proportion of businesses with solid business continuity plan
+Localized
+Partly
+P
+Use of regular overlapping modes of engagement to create repeated and reinforcing message delivery
+Localized
+Partly
+P
+Use of mobile and social computing-enables systems of engagement
+Localized
+Partly
+P
+Knowledge of “most probable” risk scenario and knowledge of key response and preparation steps is widespread throughout city
+Localized
+No
+P
+P
+Essential 8: Increase infrastructure resilience
+Protective infrastructure exists or is in the process of construction – capabilities known to match hazards envisioned in “most probable” and “most severe” scenarios
+Localized
+Yes
+P
+Y
+Y
+Y
+P
+Processes exist to maintain protective infrastructure and ensure integrity and operability of critical assets
+Localized
+Yes
+Y
+Y
+Water/sanitation loss factor
+Localized
+Yes
+P
+P
+Y
+Y
+P
+P
+Water/sanitation critical assets loss factor
+Localized
+Yes
+P
+P
+Y
+Y
+P
+P
+P
+Electrical energy loss factor
+Localized
+Yes
+P
+Y
+P
+P
+Electricity critical asset loss factor
+Localized
+Yes
+P
+Y
+P
+P
+Table A4. contd
+
+[Page 53]
+Third report on protecting environments and health by building urban resilience
+Indicator
+Localization Measurability
+Dimension 1 
+Current state of the urban environment components
+Dimension 2 
+Risk-oriented urban planning and interventions components
+1.1
+1.2
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+1.9
+2.1
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+Essential 8: Contd
+Use of fracture resistant gas pipes in seismic or flood zones, and installation of automated shut-off capabilities
+Localized
+Yes
+P
+Y
+Y
+Gas loss factor
+Localized
+Yes
+P
+Y
+P
+P
+Gas critical asset loss factor
+Localized
+Yes
+P
+Y
+P
+P
+Road loss factor
+Localized
+Yes
+Y
+P
+P
+Road critical asset loss factor
+Localized
+Yes
+Y
+P
+P
+Rail loss factor
+Localized
+Yes
+Y
+P
+P
+Airport loss factor
+Localized
+Yes
+Y
+P
+P
+Cost of lost services (all transport modes) and restoration
+Localized
+Partly
+Y
+Communications loss factor
+Localized
+Yes
+Y
+P
+P
+Communication critical asset loss factor
+Localized
+Yes
+Y
+P
+P
+Bed days lost – estimated of beds at risk × number of days loss under “most probable” and “most severe” scenarios
+Localized
+Yes
+Y
+P
+Critical bed days lost
+Localized
+Yes
+Y
+P
+Percentage of patients and health system data and associated apps stored and accessible at location unlikely to be affected by the event
+Localized
+Yes
+P
+Sufficient acute health care capabilities exist to deal with expected major injuries
+Localized
+Yes
+P
+P
+P
+P
+Percentage of education structures at risk of damage from “most probable” and “most severe” scenarios
+Localized
+Yes
+P
+P
+P
+Number of teaching days lost as percentage of total in academic year
+Localized
+Yes
+P
+Table A4. contd
+
+[Page 54]
+Review of indicator frameworks supporting urban planning for resilience and health
+Indicator
+Localization Measurability
+Dimension 1 
+Current state of the urban environment components
+Dimension 2 
+Risk-oriented urban planning and interventions components
+1.1
+1.2
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+1.9
+2.1
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+Essential 8: Contd
+Percentage of critical education and associated applications imaged at remote site
+Localized
+Yes
+P
+Ability of prison systems to survive the “most probable” and “most severe” scenarios
+Localized
+Partly
+P
+P
+P
+Estimated days of disruption to critical administration services under “most probable” and “most severe” scenarios
+Localized
+Yes
+P
+P
+P
+Percentage of critical applications and associated data imaged at and accessible from remote sites
+Localized
+Yes
+P
+Essential 9: Ensure effective disaster response
+Length and reliability of warning – enabling practical action to be taken
+Localized
+Partly
+P
+P
+Will 100% of population receive it?
+Localized
+Yes
+P
+P
+Existence of plans formulated to address “most likely” and “most severe” scenarios, shared and signed off by all relevant actors (including citizen organizations)
+Localized
+Yes
+P
+Y
+Sufficient back-up or para-professional capacity to maintain law and order in “most severe” and “most probable” scenarios? In addition to supporting the burden of first responder duties
+Localized
+Partly
+Y
+Staffing needs are defined for most probable and most severe scenarios
+Localized
+Yes
+Y
+Equipment and supply needs are defined for “most probable” and “most severe” scenarios?
+Localized
+Partly
+P
+Y
+Table A4. contd
+
+[Page 55]
+Third report on protecting environments and health by building urban resilience
+Indicator
+Localization Measurability
+Dimension 1 
+Current state of the urban environment components
+Dimension 2 
+Risk-oriented urban planning and interventions components
+1.1
+1.2
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+1.9
+2.1
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+Essential 9: Contd
+Estimated shortfall in available equipment per defined needs – potentially from multiple sources
+Localized
+Partly
+P
+P
+Y
+Food gap – number of days that city can feed all segments of its population likely to be affected minus of days disruption estimated under those scenarios
+Localized
+Yes
+Y
+P
+P
+Shelter gap – number of displaced people minus shelter places available within 24 hours
+Localized
+Yes
+P
+Shelter gap – ability of shelters to withstand disaster events and remain safe and usable
+Localized
+Partly
+P
+P
+Staples gap – percentage of shortfall in supply within 24 hours relative to demand
+Localized
+Yes
+P
+Fuel gap
+Localized
+Yes
+P
+P
+Ability to cooperate at all levels with neighbouring cities and other levels of government
+Localized
+Partly
+P
+P
+Existence of emergency operations centre with participation from all agencies, automating standard operating procedures specifically designed to deal with “most likely” and “most severe” scenarios
+Localized
+Yes
+Y
+Coordination arrangements identified in advance for all postevent activities in the city’s area with clarity of roles and accountability across all relevant organizations?
+Localized
+Partly
+Y
+Testing of drill plans annually, by reference to simulated emergency and actual nonemergency events
+Localized
+Partly
+Y
+Table A4. contd
+
+[Page 56]
+Review of indicator frameworks supporting urban planning for resilience and health
+Table A4. contd
+Indicator
+Localization Measurability
+Dimension 1 
+Current state of the urban environment components
+Dimension 2 
+Risk-oriented urban planning and interventions components
+1.1
+1.2
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+1.9
+2.1
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+Essential 9: Contd
+Level of effectiveness of drills
+Localized
+Partly
+Y
+Essential 10: Expedite recovery and build back better
+Existence of comprehensive postevent recovery and economic reboot plan
+Localized
+Yes
+P
+Stakeholders involved in build back better plan
+Localized
+Partly
+P
+P
+Post-event arrangements exist for dealing with incoming financial aid and disbursements
+Localized
+Partly
+P
+Existence of process and format for “postmortems” on what went well and less well in the event response and post-event phases
+Localized
+Partly
+
+[Page 57]
+Third report on protecting environments and health by building urban resilience
+Indicator
+Localization Measurability
+Dimension 1 
+Current state of the urban environment components
+Dimension 2 
+Risk-oriented urban planning and interventions components
+1.1
+1.2
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+1.9
+2.1
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+Essential 1: Organize for disaster resilience
+To what extent does/ do the governance mechanism(s) for disaster risk management integrate the full breadth of public health considerations?
+Localized
+Partly
+P
+P
+P
+P
+P
+P
+P
+Essential 2: Identify, understand and use current and future risk scenarios
+To what extent are emergencies and disasters including disease outbreaks are included in disaster risk planning?
+Localized
+Partly
+P
+P
+P
+P
+To what extent are public health impacts included in the city’s scenario planning for other disaster risks?
+Localized
+Partly
+P
+P
+P
+P
+P
+To what extent are pre-existing chronic health issues included in scenarios where disasters are likely to exacerbate these, or where they are likely to impede recovery?
+Localized
+Partly
+P
+Essential 3: Strengthen financial capacity for resilience
+To what extent is funding identified and available to address public health risks and impacts of disasters?
+Localized
+Yes
+Y
+Essential 4: Pursue resilient urban development and design
+To what extent are key health facilities located and built in a manner that will allow them to continue to be operational after a disaster?
+Localized
+Partly
+P
+P
+P
+Y
+P
+Y
+Essential 5: Safeguard natural buffers to enhance ecosystems’ protective functions
+To what extent are ecosystem services that provide public health benefits identified and protected?
+Localized
+Partly
+P
+P
+P
+Y
+Table A5. UNDRR Public Health System Resilience Addendum
+
+[Page 58]
+Review of indicator frameworks supporting urban planning for resilience and health
+Table A5. contd
+Indicator
+Localization Measurability
+Dimension 1 
+Current state of the urban environment components
+Dimension 2 
+Risk-oriented urban planning and interventions components
+1.1
+1.2
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+1.9
+2.1
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+Essential 6: Strengthen institutional capacity for resilience
+To what extent are the workforce, competencies and skills required to plan and maintain public health systems and services for disaster resilience available to the city?
+Localized
+Yes
+P
+To what extent is public health data on health vulnerabilities and capacities, as well as risks and early warning of outbreaks shared with other stakeholders who need it?
+Localized
+Yes
+P
+P
+To what extent is data from other critical systems shared with public health system stakeholders who need it?
+Localized
+Yes
+P
+P
+P
+To what extent are individuals’ health and prescription records protected from a disaster, and accessible in the aftermath of a disaster?
+Localized
+Partly
+P
+P
+P
+P
+Essential 7: Understand and strengthen societal capacity for resilience
+To what extent do communities understand and are able to fulfil their roles in maintaining public health and well-being levels before, during and after a disaster?
+Localized
+Partly
+P
+P
+To what extent do communities receive, respect and are willing to act upon public health information?
+Localized
+Partly
+P
+P
+To what extent are communities’ mental health needs addressed?
+Localized
+Partly
+Essential 8: Increase infrastructure resilience
+To what extent is public health infrastructure (besides hospitals) resilient?
+Localized
+Yes
+P
+P
+P
+P
+P
+
+[Page 59]
+Third report on protecting environments and health by building urban resilience
+Indicator
+Localization Measurability
+Dimension 1 
+Current state of the urban environment components
+Dimension 2 
+Risk-oriented urban planning and interventions components
+1.1
+1.2
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+1.9
+2.1
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+Essential 8: Contd
+To what extent are hospitals and emergency care centres able to manage a sudden influx of patients?
+Localized
+Yes
+P
+P
+P
+P
+P
+To what extent can care be maintained for those who are already sick or dependent?
+Localized
+Yes
+P
+Essential 9: Ensure effective disaster response
+To what extent do early warning systems exist for impending emergencies that have potential health effects?
+Localized
+Yes
+P
+P
+To what extent are public health sector and professionals integrated with the emergency management team?
+Localized
+Partly
+P
+P
+To what extent are the needs of higher risk populations considered, such as citizens with pre-existing medical conditions, disabilities or loss of function that may mean that they require additional support?
+Localized
+Partly
+P
+To what extent can the city supply items and equipment required to maintain public health during and after a disaster?
+Localized
+Yes
+P
+P
+P
+P
+P
+P
+Essential 10: Expedite recovery and build back better
+To what extent do comprehensive post-event public health plans exist?
+Localized
+Yes
+P
+P
+To what extent do formalized mechanism to learn from performance of public health system before, during and after disasters exist?
+Localized
+Partly
+P
+P
+Table A5. contd
+
+[Page 60]
+Review of indicator frameworks supporting urban planning for resilience and health
+Indicator
+Localization Measurability
+Dimension 1 
+Current state of the urban environment components
+Dimension 2 
+Risk-oriented urban planning and interventions components
+1.1
+1.2
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+1.9
+2.1
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+Proportion of population using safely managed drinkingwater services 
+Localizable
+Yes
+Y
+P
+Y
+Y
+P
+Y
+Y
+Y
+P
+Estimated average exposure to air pollution (or PM10 concentration (μg/m3) 
+Localized
+Yes
+Y
+Y
+Y
+Y
+P
+P
+Y
+Percentage of wetland loss
+Localizable
+Yes
+Y
+Y
+P
+P
+Y
+P
+P
+Y
+Green area (hectares) per 100 000 population or average percentage of pervious surfaces
+Localized
+Yes
+Y
+Y
+Y
+Y
+P
+Y
+Y
+P
+P
+Y
+Proportion of population that has convenient access to public transport, by sex, age and people with disabilities
+Localized
+Partly
+Y
+P
+Y
+Y
+P
+P
+Death rated due to traffic road injuries 
+Localizable
+Yes
+Y
+P
+P
+Percentage of population with access to improved sanitation coverage 
+Localizable
+Yes
+Y
+P
+Y
+P
+Y
+Y
+Y
+P
+Y
+P
+Y
+Number of different supply sources providing at least 5% of water supply capacity 
+Localizable
+Yes
+Y
+Y
+P
+Y
+Y
+P
+Y
+Y
+Y
+Proportion of municipal solid waste regularly collected and with adequate final discharge out of total urban solid waste generated 
+Localized
+Partly
+Y
+Y
+Y
+P
+P
+Y
+P
+P
+P
+P
+Housing deprivation: percentage of population living in dwelling considered overcrowded, while: 
+1) leaking roof or damp walls, floors, foundations or rot in window frames and floor; 2) no bath or shower; or 3) too dark 
+Localizable
+Partly
+P
+P
+Y
+P
+P
+P
+Y
+Y
+Y
+Percentage of houses which have passed local building code inspections
+Localized
+Yes
+Y
+P
+P
+P
+Y
+Y
+Y
+Percentage of household income spent on housing by the poorest 
+20% of the population 
+Localized
+Yes
+Y
+P
+P
+Table A6. OECD indicators for resilient cities
+
+[Page 61]
+Third report on protecting environments and health by building urban resilience
+Indicator
+Localization Measurability
+Dimension 1 
+Current state of the urban environment components
+Dimension 2 
+Risk-oriented urban planning and interventions components
+1.1
+1.2
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+1.9
+2.1
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+Risk assessment report
+Localized
+Yes
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Land use plans that have been developed with reference to local hazard risk assessment and that have been subjected to a formal consultation process 
+Localized
+Yes
+Y
+Y
+Y
+P
+P
+P
+P
+Y
+Hazard-mapping efforts, including energy facilities and industrial uses
+Localized
+Yes
+Y
+Y
+Y
+P
+P
+Safe hazard shelter versus expected public demand 
+Localized
+Yes
+Y
+P
+P
+Y
+Y
+Percentage of hospitals that have carried out disaster Flexible preparedness drills in the last year 
+Localizable
+Yes
+Y
+Y
+Y
+Percentage of buildings with insurance cover for high-risk hazards relevant to the city 
+Localized
+Partly
+Y
+Y
+Y
+Y
+Percentage of housing units exposed to a high level of hazard that have been designed or retrofitted to withstand the force of the hazard
+Localized
+Partly
+Y
+Y
+P
+Y
+Y
+Multihazard early warning system
+Localized
+Yes
+Y
+P
+P
+Y
+Percentage of population that has received training on first aid and emergency response skills in past two years
+Localizable
+Yes
+Y
+Y
+Percentage of schoolchildren educated in disaster risk reduction 
+Localizable
+Yes
+Y
+Y
+Capacity-development platforms (online portal, brochures, guides, toolkits)
+Localizable
+Yes
+Y
+Y
+Percentage of neighbourhoods with emergency groups (e.g. local Red Cross groups, voluntary firefighting associations, etc.) 
+Localized
+Yes
+Y
+Y
+P
+Table A6. contd
+
+[Page 62]
+Review of indicator frameworks supporting urban planning for resilience and health
+Indicator
+Localization Measurability
+Dimension 1 
+Current state of the urban environment components
+Dimension 2 
+Risk-oriented urban planning and interventions components
+1.1
+1.2
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+1.9
+2.1
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+Number of days that city fuel supplies could maintain essential household functions 
+Localized
+Yes
+Y
+Y
+Y
+Y
+Y
+Y
+Ten-year average per capita budget for mitigation projects 
+Localized
+Yes
+Y
+Percentage of municipal budget spent in fire, police and emergency services 
+Localized
+Yes
+Y
+Proportion of total government spending on essential services (education, health and social protection) 
+Localized
+Yes
+Y
+Y
+Y
+Percentage of population that could be served by city’s access to stock of emergency shelter for 72 hours 
+Localized
+Yes
+Y
+Y
+Y
+Y
+Percentage per capita of food reserves within a city (including supermarket agreements) for 72 hours (percentage of the population which could be served) 
+Localized
+Yes
+Y
+Y
+Y
+Y
+Y
+Table A6. contd
+
+[Page 63]
+Third report on protecting environments and health by building urban resilience
+Indicator
+Localization Measurability
+Dimension 1 
+Current state of the urban environment components
+Dimension 2 
+Risk-oriented urban planning and interventions components
+1.1
+1.2
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+1.9
+2.1
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+Air pollution 
+Is the city faced with increasing air pollution?
+Localized
+Yes
+P
+P
+P
+P
+How likely do you think the scenario of colder winters and climate change will develop in your city/region?
+Localized
+Partly
+P
+P
+P
+P
+How likely do you think the scenario of hotter, drier summers and climate change will develop in your city/region?
+Localized
+Partly
+P
+P
+P
+P
+How likely do you think the scenario of 
+Respiratory Disease will develop in your city/region?
+Localized
+Partly
+P
+P
+How likely do you think the scenario of traffic density and air pollution will develop in your city/region?
+Localized
+Partly
+P
+P
+P
+P
+P
+How likely do you think the scenario of pollution and citizens spending time outdoors will develop in your city/region?
+Localized
+Partly
+P
+P
+How likely do you think the scenario of pollution and professionals and skilled workers will develop in your city/ region?
+Localized
+Partly
+P
+P
+P
+How likely do you think the scenario of pollution and business competitiveness will develop in your city/ region?
+Localized
+Partly
+P
+P
+How likely do you think the scenario of water quality will develop in your city/region?
+Localized
+Partly
+P
+P
+P
+P
+P
+P
+How likely do you think the scenario of farming and air pollution will develop in your city/region?
+Localized
+Partly
+P
+P
+P
+P
+Table A7. RSQ
+
+[Page 64]
+Review of indicator frameworks supporting urban planning for resilience and health
+Table A7. contd
+Indicator
+Localization Measurability
+Dimension 1 
+Current state of the urban environment components
+Dimension 2 
+Risk-oriented urban planning and interventions components
+1.1
+1.2
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+1.9
+2.1
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+How likely do you think the scenario of the ramifications of acid rains in the city will develop in your city/region?
+Localized
+Partly
+P
+P
+P
+P
+P
+How likely do you think the scenario of damage to invaluable cultural/historical assets will develop in your city/region?
+Localized
+Partly
+P
+P
+P
+P
+Flooding
+Is flooding from coastal, river or surface water likely to occur in your city?
+Localized
+Yes
+P
+P
+P
+P
+How likely do you think the scenario of drainage systems will develop in your city/region?
+Localized
+Partly
+P
+P
+P
+P
+How likely do you think the scenario of flooding and the emergency services will develop in your city/region?
+Localized
+Partly
+P
+How likely do you think the scenario of flooding and homelessness will develop in your city/region?
+Localized
+Partly
+P
+P
+P
+How likely do you think the scenario of skilled workers and flooding will develop in your city/region?
+Localized
+Partly
+P
+P
+P
+P
+How likely do you think the scenario of loss of electricity will develop in your city/region?
+Localized
+Partly
+P
+P
+P
+P
+P
+P
+How likely do you think the scenario of local businesses and flooding will develop in your city/region?
+Localized
+Partly
+P
+How likely do you think the scenario of informal settlement in floodprone areas will develop in your city/region?
+Localized
+Partly
+P
+P
+P
+
+[Page 65]
+Third report on protecting environments and health by building urban resilience
+Indicator
+Localization Measurability
+Dimension 1 
+Current state of the urban environment components
+Dimension 2 
+Risk-oriented urban planning and interventions components
+1.1
+1.2
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+1.9
+2.1
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+How likely do you think the scenario of less productive farming land will develop in your city/region?
+Localized
+Partly
+P
+P
+P
+P
+How likely do you think the scenario of quality of urban green spaces will develop in your city/region?
+Localized
+Partly
+P
+P
+P
+P
+P
+How likely do you think the scenario of flooding and sanitation will develop in your city/region?
+Localized
+Partly
+P
+P
+P
+P
+P
+P
+How likely do you think the scenario of drinking-water supplies will develop in your city/region?
+Localized
+Partly
+P
+P
+P
+P
+P
+How likely do you think the scenario of sewage system will develop in your city/region?
+Localized
+Partly
+P
+P
+P
+P
+How likely do you think the scenario of lack of home insurance will develop in your city/region?
+Localized
+Partly
+P
+P
+Health
+Is the overall health of the city’s population likely to be decreasing?
+Localized
+Yes
+P
+How likely do you think the scenario of drug and alcohol abuse will develop in your city/region?
+Localized
+Partly
+P
+How likely do you think the scenario of obesity will develop in your city/region?
+Localized
+Partly
+P
+How likely do you think the scenario of respiratory disease will develop in your city/region?
+Localized
+Partly
+P
+P
+How likely do you think the scenario of cost of delivering health care will develop in your city/region?
+Localized
+Partly
+P
+Table A7. contd
+
+[Page 66]
+Review of indicator frameworks supporting urban planning for resilience and health
+Indicator
+Localization Measurability
+Dimension 1 
+Current state of the urban environment components
+Dimension 2 
+Risk-oriented urban planning and interventions components
+1.1
+1.2
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+1.9
+2.1
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+How likely do you think the scenario of health inequalities will develop in your city/region?
+Localized
+Partly
+P
+How likely do you think the scenario of dementia and elderly people will develop in your city/region?
+Localized
+Partly
+P
+How likely do you think the scenario of mental health and loneliness will develop in your city/region?
+Localized
+Partly
+P
+How likely do you think the scenario of health care under pressure will develop in your city/region?
+Localized
+Partly
+P
+How likely do you think the scenario of workrelated stress will develop in your city/region?
+Localized
+Partly
+P
+How likely do you think the scenario of the trap of loneliness will develop in your city/region?
+Localized
+Partly
+P
+How likely do you think the scenario of flooding and sanitation will develop in your city/region?
+Localized
+Partly
+P
+P
+P
+P
+P
+P
+P
+P
+How likely do you think the scenario of drinking-water supplies will develop in your city/region?
+Localized
+Partly
+P
+P
+P
+P
+P
+P
+P
+Critical infrastructure
+Is your city subject to increasing air pollution?
+Localized
+Yes
+P
+P
+P
+P
+How likely do you think the scenario of the ramifications of acid rains will develop in your city/region?
+Localized
+Partly
+P
+P
+P
+P
+P
+How likely do you think the scenario of damage to invaluable cultural/historical assets will develop in your city/region?
+Localized
+Partly
+P
+P
+P
+P
+Table A7. contd
+
+[Page 67]
+Third report on protecting environments and health by building urban resilience
+Indicator
+Localization Measurability
+Dimension 1 
+Current state of the urban environment components
+Dimension 2 
+Risk-oriented urban planning and interventions components
+1.1
+1.2
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+1.9
+2.1
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8 is flooding from coastal, river or surface water likely to occur in your city?
+Localized
+Yes
+P
+P
+P
+P
+How likely do you think the scenario of lack of home insurance will develop in your city/region?
+Localized
+Partly
+P
+P
+How likely do you think the scenario of loss of electricity will develop in your city/region?
+Localized
+Partly
+P
+P
+P
+P
+P
+How likely do you think the scenario of flooding and the emergency services will develop in your city/region?
+Localized
+Partly
+P
+How likely do you think the scenario of less productive farming land will develop in your city/region?
+Localized
+Partly
+P
+P
+P
+P
+P
+How likely do you think the scenario of drinking-water supplies will develop in your city/region?
+Localized
+Partly
+P
+P
+P
+P
+P
+How likely do you think the scenario of sewage system will develop in your city/region?
+Localized
+Partly
+P
+P
+P
+P
+P
+P
+How likely do you think the scenario of demand for temporary housing will develop in your city/region?
+Localized
+Partly
+P
+P
+How likely do you think the scenario of local authorities’ budgets under pressure will develop in your city/region?
+Localized
+Partly
+P
+P
+Is the city subject to public unrest in the streets?
+Localized
+Yes
+P
+How likely do you think the scenario of transport critical infrastructure will develop in your city/region?
+Localized
+Partly
+P
+P
+P
+Table A7. contd
+
+[Page 68]
+Review of indicator frameworks supporting urban planning for resilience and health
+Table A7. contd
+Indicator
+Localization Measurability
+Dimension 1 
+Current state of the urban environment components
+Dimension 2 
+Risk-oriented urban planning and interventions components
+1.1
+1.2
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+1.9
+2.1
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+How likely do you think the scenario of buildings, shops and transport will develop in your city/region?
+Localized
+Partly
+P
+P
+P
+
+[Page 69]
+Third report on protecting environments and health by building urban resilience
+Indicator
+Localization Measurability
+Dimension 1 
+Current state of the urban environment components
+Dimension 2 
+Risk-oriented urban planning and interventions components
+1.1
+1.2
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+1.9
+2.1
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+Geophysical hazards
+Geophysical hazard: earthquake
+Intensity parameter: acceleration (peak ground acceleration)
+Frequency indicator: return period in years
+Localizable
+Yes
+P
+P
+P
+Y
+P
+P
+P
+P
+Geophysical hazard: tsunami
+Intensity parameter: coastal maximum amplitude
+Frequency indicator: return period in years
+Localizable
+Yes
+P
+P
+P
+Y
+P
+P
+P
+P
+Geophysical hazard: volcanic eruption
+Intensity parameter: historical eruption records
+Frequency indicator: return period in years
+Localizable
+Yes
+P
+P
+P
+Y
+P
+P
+P
+P
+Hydraulic hazards
+Hydraulic hazard: pluvial flood
+Intensity parameter: inundation depth
+Frequency indicator: return period in years
+Localizable
+Yes
+P
+Y
+P
+P
+P
+P
+Hydraulic hazard: fluvial flood
+Intensity parameter: inundation depth
+Frequency indicator: return period in years
+Localizable
+Yes
+P
+Y
+P
+P
+P
+P
+Hydraulic hazard: landslide
+Frequency indicator: return period in years
+Frequency indicator: annual frequency of landslide due to seismic trigger and rainfall (precipitation) 
+Localizable
+Yes
+P
+P
+Y
+P
+P
+P
+P
+Table A8. ThinkHazard! tool
+
+[Page 70]
+Review of indicator frameworks supporting urban planning for resilience and health
+Table A8. contd
+Indicator
+Localization Measurability
+Dimension 1 
+Current state of the urban environment components
+Dimension 2 
+Risk-oriented urban planning and interventions components
+1.1
+1.2
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+1.9
+2.1
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+Hydraulic hazard: coastal flood
+Intensity parameter: inundation depth
+Frequency indicator: return period in years
+Localizable
+Yes
+P
+Y
+P
+P
+P
+P
+Meteo-climatological hazards 
+Meteo-climatological hazard: cyclonic strong winds
+Intensity parameter: mean wind speed
+Frequency indicator: return period in years
+Localizable
+Yes
+P
+P
+Y
+P
+P
+P
+P
+Meteo-climatological hazard: water scarcity
+Intensity parameter: water availability
+Frequency indicator: return period in years
+Localizable
+Yes
+P
+P
+Y
+P
+P
+P
+Meteo-climatological hazard: extreme temperatures
+Intensity parameter: 
+Wet Bulb Globe 
+Temperature
+Frequency indicator: return period in years
+Localizable
+Yes
+P
+P
+Y
+P
+P
+P
+Meteo-climatological hazard: wildfires
+Intensity parameter: 
+Canadian Fire 
+Weather Index
+Frequency indicator: return period in years
+Localizable
+Yes
+P
+P
+Y
+P
+P
+P
+
+[Page 72]
+WHO/EURO:2022-5649-45414-64989
+WHO European Centre for Environment and Health 
+Platz der Vereinten Nationen 1 
+D-53113 Bonn, Germany 
+Tel.: +49 228 815 0400 
+Fax: +49 228 815 0440 
+E-mail: euroeceh@who.int 
+The WHO Regional Office for Europe 
+The World Health Organization (WHO) is a specialized agency of the United Nations created in 1948 with the primary responsibility for international health matters and public health. The WHO Regional Office for Europe is one of six regional offices throughout the world, each with its own programme geared to the particular health conditions of the countries it serves. 
+Member States 
+Albania 
+Andorra 
+Armenia 
+Austria 
+Azerbaijan 
+Belarus 
+Belgium 
+Bosnia and Herzegovina 
+Bulgaria 
+Croatia 
+Cyprus 
+Czechia 
+Denmark 
+Estonia 
+Finland 
+France 
+Georgia 
+Germany 
+Greece 
+Hungary 
+Iceland 
+Ireland 
+Israel 
+Italy 
+Kazakhstan 
+Kyrgyzstan 
+Latvia 
+Lithuania 
+Luxembourg 
+Malta 
+Monaco 
+Montenegro 
+Netherlands 
+North Macedonia 
+Norway 
+Poland 
+Portugal 
+Republic of Moldova 
+Romania 
+Russian Federation 
+San Marino 
+Serbia 
+Slovakia 
+Slovenia 
+Spain 
+Sweden 
+Switzerland 
+Tajikistan 
+Türkiye 
+Turkmenistan 
+Ukraine 
+United Kingdom 
+Uzbekistan

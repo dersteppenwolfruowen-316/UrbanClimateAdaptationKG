@@ -1,0 +1,625 @@
+[Page 1]
+Resilience for Sustainable, 
+Inclusive Growth
+W H I T E P A P E R
+M A Y 2 0 2 2
+In collaboration with 
+McKinsey & Company
+
+[Page 2]
+Foreword
+Executive summary
+Introduction: Resilience for sustainable, inclusive growth
+1 Meeting the challenges crises pose to sustainable, inclusive growth
+1.1 Managing disruptions defines sustainable growth more than managing continuity
+1.2 Crises evolve across categories and do not have singlepoint solutions
+1.3 Networks hide interdependencies, accelerating crises (though they can also enable faster recovery)
+1.4 Lack of preparation and inadequate responses can magnify the damage of crises
+1.5 Crises disproportionately affect the most vulnerable
+1.6 Crisis preparedness goes beyond financial reserves and buffers
+2 Resilience perspectives of the public and private sectors
+2.1 Business resilience
+2.2 Economic and societal resilience
+2.3 A coordinated public- and private-sector response
+3 A common resilience framework 
+4 Building a resilience muscle
+4.1 Prepare
+4.2 Perceive
+4.3 Propel 
+5 Seven resilience themes that are shaping the future
+5.1 Climate, food and energy 
+5.2 People, education and organizational resilience 
+5.3 Healthcare
+5.4 Sustainable economic development
+5.5 Trade and supply chain
+5.6 Digital resilience, trust and inclusion 
+5.7 Finance and risk capacity 
+A call to action: The Resilience Consortium 
+Contributors
+Endnotes
+Images: Getty Images, Unsplash
+No part of this publication may be reproduced or transmitted in any form or by any means, including photocopying and recording, or by any information storage and retrieval system.
+Disclaimer 
+This document is published by the World Economic 
+Forum as a contribution to a project, insight area or interaction. The findings, interpretations and conclusions expressed herein are a result of a collaborative process facilitated and endorsed by the World Economic Forum but whose results do not necessarily represent the views of the World Economic 
+Forum, nor the entirety of its 
+Members, Partners or other stakeholders.
+Resilience for Sustainable, Inclusive Growth
+
+[Page 3]
+Foreword
+The stakes in developing resilience as an essential capability are high. The United Nations, World 
+Economic Forum, McKinsey Global Institute, 
+International Monetary Fund and other leading organizations estimate that a significant share of annual GDP growth will depend on the degree to which organizations and societies develop resilience. Growth differentials of between 1% and 5% globally can be expected depending on how leaders respond to the many challenges, including climate change, the energy transition, supply chain disruptions, healthcare availability and income, gender and racial inequalities. Against this environment of continuous disruption and uncertainty, sufficient investment and new capabilities are required to build a new “resilience muscle”. 
+The experience of past crises and disruptions has taught essential lessons on meeting challenges to sustainable, inclusive growth: –
+Managing disruptions defines sustainable growth more than managing continuity.
+–
+Crises evolve across categories and do not have single-point solutions.
+–
+Networks hide interdependencies, accelerating crises (although they can also enable faster recovery).
+–
+Inadequate responses and unpreparedness can magnify the damage of crises.
+–
+Crises disproportionately affect the most vulnerable in a society.
+To move beyond reactive approaches, governments and companies need to develop a more preventive position, taking a wider view of potential disruptions. 
+More flexible societal, industrial and corporate structures are needed to enable more effective responses to disruptions and changes in the environment. The resilience muscle consequently supports growth-oriented strategies: buffers become protection against immediate impact and challenges that resist more immediate answers.
+The resilience muscle importantly enables organizations to orient towards quality growth, supporting climate goals and inclusive growth, helping to ensure that crises do not widen equality gaps. Resilience is the strategic stance for achieving long-term, sustainable and inclusive growth.
+The Resilience Consortium: 
+Linking today’s initiatives to a holistic resilience agenda
+With each new crisis, corporations, governments and international bodies have launched new task forces and initiatives. These efforts, focused on individual challenges, will remain of high importance. The World Economic Forum and its partners have previously established initiatives to promote resilience across many key issue areas. The Resilience Consortium will focus on the interdependencies within and across these areas, developing a collective prioritized agenda to address them. 
+This new public-private leadership effort will bring together key ministers, chief executives and heads of international organizations to accelerate collective action and enable more systemic investment in the drivers of global resilience. We know this is a complex challenge, yet people, organizations and economic buffers are becoming exhausted from continuously operating in crisis mode. We need to build resilience cooperatively, now. We ask you to join us in this effort.
+Børge Brende 
+President, 
+World Economic Forum
+Bob Sternfels 
+Global Managing Partner, 
+McKinsey & Company
+Resilience for Sustainable, 
+Inclusive Growth
+May 2022
+Resilience for Sustainable, Inclusive Growth
+
+[Page 4]
+Executive summary
+Economies and societies are enduring several crises simultaneously, all of which have a major humanitarian impact and potentially long-lasting second- and third-order effects. Climate change, the COVID-19 pandemic, a very weak recovery and the danger of stagflation and now Russia’s invasion of Ukraine pose urgent questions of organizational resilience that cannot be addressed in isolation. These world-shaping events overlap in time, magnifying their impact. The current era is increasingly defined by the interplay of complex disruptions, with their disparate origins and longterm consequences. Institutions are not fully prepared for the new reality. Many react separately to each disruption in all-consuming responses. 
+Before they can recover, the next crisis is at the door. 
+Most public- and private-sector organizations struggle to define a resilience agenda and approach. In initial World Economic Forum consultations about building a Resilience 
+Consortium, business and government leaders urged for clarification on what resilience means practically and underscored the need to develop a common resilience framework. A framework would provide guidance on how to protect and enhance sustainability and inclusiveness in an environment of more frequent crises and disruptions. With such a framework as a basis, organizations could move beyond their current, mostly reactive, risk management practices, harness strategic thinking and take a more forward-looking view. A resilience framework would help leaders identify areas for preventative action, protective investments and public-private-sector cooperation. 
+A resilience framework will, by design, foster the cooperation of public- and private-sector organizations in supporting sustainability and inclusiveness across societies. For companies, resilience will translate into sustainable business growth directly linked to their purpose. For societies, resilience both enables and depends on meaningful economic growth, emphasizing improved quality of life, equality and inclusiveness. 
+Wealth creation becomes meaningful when it also elevates the standing of the most vulnerable and poorer populations in economies of all developmental stages. Without sustained social advancement, societies are less resilient and secure. Likewise, the goal of sustainable, inclusive growth includes protecting and repairing the natural environment beyond mitigation of the effects of the climate crisis. 
+A resilience framework must be supported by assessment and measurement capabilities. Public- and private-sector leaders need the means to weigh the costs and benefits of resilience-building actions as they evolve. Resilience actions come with a degree of uncertainty that makes them difficult to measure, particularly in light of the sustainability and inclusiveness considerations. Nonetheless, leaders need to decide when inaction has become more costly than preventative action. At that point, they can better prioritize resilience investments and resource allocation ahead of immediate shareholder wealth creation.
+The World Economic Forum Resilience Consortium comprises leaders from the public and private sectors committed to working together to build resilience globally, across regions, economies and industries. It is guided by the following objectives:
+ –
+Develop a common resilience framework for public- and private-sector organizations.
+ –
+Develop a shared understanding of the drivers of resilience and a prioritized resilience agenda to align public- and private-sector approaches and efforts. –
+Identify potential public-private partnerships to build more resilient societies and economies.
+ –
+Use leadership positions in the public and private sectors to advocate for a cultural change in organizations and societies.
+In a world of continuous, overlapping disruptions, organizations need to build and manage resilience to ensure a sustainable, inclusive future for all.
+Resilience for Sustainable, Inclusive Growth
+
+[Page 5]
+Introduction: Resilience for sustainable inclusive growth
+Since the beginning of the millennium, societies, economies and the Earth itself have been subject to disruptions of increasing frequency and severity. 
+Each evolves differently from the others, but many disruptions have overlapping consequences that can be long-lived and are not completely understood at the time of impact. Disruptions are not new and societies have developed sophisticated ways of managing them, using institutions to create stability against extreme events. 
+Today, the world is beset by several crises of global importance. Russia’s invasion of Ukraine has precipitated a humanitarian tragedy with farreaching social and economic consequences. The refugee crisis stemming from this war amplifies attention on a wider refugee crisis involving tens of millions of people around the globe. 
+The economic and humanitarian repercussions of rising costs of energy and food are likewise intensifying. The war in Ukraine has also shocked a world weary and damaged by the COVID-19 pandemic. The virus has taken more than six million lives and in April 2022, it is still causing thousands of deaths each day. The context within which these disruptions occur, furthermore, is an ever-present climate crisis, whose effective mitigation will require a global transition to a low-carbon economy. The human displacement and economic cost this entails could become disruptors of historic proportions in their own right.
+The current era is increasingly defined by the interplay of complex disruptions, with their disparate origins and long-term consequences. 
+Institutions are not fully prepared for the new reality, often reacting separately to each disruption. 
+This position is untenable and organizations are finding that their current risk management practices must evolve to suit this new environment. Leaders are now discussing resilience as the essential condition. How can public- and private-sector organizations arrive at a resilient stance, alert to what is over the horizon, ready to withstand shocks and accelerate into the next reality? 
+Resilience has been described as the ability to recover quickly but recovery alone is not an adequate goal. Truly resilient organizations bounce back better and even thrive. 
+Resilience should be seen as the ability to deal with adversity, withstand shocks and continuously adapt and accelerate as disruptions and crises arise over time. 
+Resilience for Sustainable, Inclusive Growth
+
+[Page 6]
+Meeting the challenges crises pose to sustainable, inclusive growth
+Lessons learned from past crises should inform innovative, adaptable solutions to future disruptions. 
+Crises damage institutions and communities, but the process of rebuilding can create stronger foundations for future growth. The financial crisis and recession of the late-2000s, for example, led to actions by banks and regulatory changes that made the banking system stronger. The system has remained robust through subsequent economic disruptions. Likewise, changes introduced during the COVID-19 pandemic can provide new impetus for accelerated growth: the shift towards digitalization, new hybrid working models, the rethinking of supply chains and the acceleration of public investments towards climate change. These are the kinds of structural shifts that crises often force on otherwise recalcitrant institutions. Resilience is thus more than protective measures, it is also the ability to reinvent and innovate in response to disruptions.
+Resilience pertains to public and private sector organizations, as well as to whole economies and societies. The resilient stance for organizations must be forward-looking, anticipating disruption rather than simply reacting, but continuously learning and amending based on experience. 
+Disruptions are focal points that reveal where capabilities are strong and where investment is needed. The experience of past crises and disruptions teaches essential lessons on how to proceed. These lessons will contribute to the architecture of the common resilience framework across the public and private sectors.
+Managing disruptions defines sustainable growth more than managing continuity
+1.1
+Resilience for Sustainable, Inclusive Growth
+
+[Page 7]
+The extent of networks within the global economy, societies and industries is only partly visible. In a disruption, hidden interdependencies can emerge, unexpectedly accelerating the impact. Supply chain disruptions affect production, availability and prices more quickly. The war in Ukraine threatens food security in low-income countries in the Middle East and North Africa. New and hidden interconnectivity makes systems more vulnerable. On the other hand, networks that provide more flexibility and reduce interdependencies permit a wider range of solutions to emerge and be shared quickly. Understanding networks and connections better in today’s environment is a key aspect of resilience.
+Networks hide interdependencies, accelerating crises (although they can also enable faster recovery)
+1.3
+Significant crises are not single-issue events confined to rigid categories. They break through predefined areas of expertise and responsibilities, gaining momentum as they grow in scope and across regions. The COVID-19 pandemic spread worldwide as a public health crisis but quickly evolved into an economic, social and, in places, organizational crisis. 
+The issues that trigger crises, and the public- and private-sector responses to these primary issues, have initial effects and produce secondary and tertiary effects. These can give rise to a new primary issue. To navigate these rapid interactions, organizations need to respond with sets of correlated solutions that can be adjusted as conditions evolve. 
+Crises evolve across categories and do not have single-point solutions
+1.2
+Resilience for Sustainable, Inclusive Growth
+
+[Page 8]
+Crises and disruptions cut deeper in poorer countries, among more marginalized and vulnerable population segments and particularly in fragile and conflict-affected states. Inequality in terms of income, wealth, social mobility, health, access to services and learning opportunities leads to an unequal baseline for resilience. In developed economies, the recovery from the pandemic relies on ample government stimulus spending. Low-income countries rely on development assistance and emergency loans from international financial institutions, increasing the risk of sovereign debt vulnerabilities. The stimulus measures in richer countries magnify demand, putting further pressure on pandemic-disrupted supply chains. This dynamic has resulted in higher commodity prices and consumer inflation, which, in turn, have hit lower-income countries hardest. Other global developments, positive as they are for richer countries, could cause hardship in poorer countries, including the accelerated shift to the digital economy and pressures to reduce carbon emissions. 
+According to their nature, many crises transmit globally the effects of heavier burdens, which are borne immediately by developing nations. Resource scarcity or refugee crises created by wars or climate change make the emphasis on inclusive growth of crucial importance. Exposed populations must not be left behind on a shared planet. The disruptions should be seized upon as opportunities to ramp up collective efforts to improve habitats, food and water security, public health, and social and technical infrastructure where these are most needed.
+The rise in fragility and decrease in resilience among some populations or in some country contexts pose additional risks of spillover effects, including deeper supply chain disruptions, increases in extreme poverty and the potential for conflict. A resilience muscle must ultimately serve the broader goal of sustainable, inclusive growth. 
+Growth is sustainable insofar as it supports the health and repair of the natural environment; it is inclusive when it meaningfully improves the livelihood of wider population segments. At a company level, questions of equality and fairness are directly linked to an organization’s purpose and values discussions.
+Crises disproportionately affect the most vulnerable
+1.5
+A poor response can easily magnify the damage directly caused by a crisis. An effective response, on the other hand, can significantly limit the damage. Decisions are crucial, and past crises have certainly produced their share of bad ones. Even highly successful organizations make decisions that, in hindsight, were all wrong. However, few probe more deeply about why bad decisions are made. It may seem obvious, but the reason is usually that the decision was not well thought out. Under pressure, leaders tend to favour action that can be implemented quickly, eschewing a slower, more thoughtful course. Decisions made under pressure and at speed can entail unintended consequences. The resilience framework will necessarily provide space for thoughtful decisionmaking. Organizations will need to create the means for deciding when to move quickly and when to slow down, and test decisions in a given crisis with people outside of the core network.
+Lack of preparation and inadequate responses can magnify the damage of crises
+1.4 Growth is sustainable insofar as it supports the health and repair of the natural environment; it is inclusive when it meaningfully improves the livelihood of wider population segments.
+Resilience for Sustainable, Inclusive Growth
+
+[Page 9]
+Optimal crisis preparedness includes defensive measures such as buffers and financial reserves but equally important are active response capabilities. 
+These allow organizations to quickly adapt, grow into the new conditions and move fast on new opportunities. Crises have accelerated the growth of the digital economy, with more organizational and societal buy-in for remote meetings, cloud computing and digital banking. In the automotive industry, vehicle electrification is expanding as governments set emissions targets, offer subsidies and install charging infrastructure.
+In the public and governmental spheres, many national healthcare systems and pandemicresponse programmes are overstressed. Success in applying existing emergency plans has varied from country to country and within states and departments. The difficulties underscore the importance of combining defensive buffers (stockpiles of supplies and financial resources) with flexibility and less centralized approaches. Certainly, geopolitical crises can have serious implications for supply chains and energy supplies. Buffers will provide only partial, temporary solutions. 
+Response capabilities and adaptability therefore matter as much as preparedness. In crises, half the impact arises from the crisis itself, while the other half, good or bad, is determined by the response.
+Crisis preparedness goes beyond financial reserves and buffers
+1.6
+Resilience for Sustainable, Inclusive Growth
+
+[Page 10]
+Resilience perspectives of the public and private sectors
+Strategies across sectors must be coordinated to ensure disruptions do not diminish growth. 
+Resilience is a broadly used term covering many aspects of organizational health and operations within governments and public foundations as well as corporations and financial institutions. The World 
+Economic Forum Resilience Consortium endorses the strategic view of resilience and emphasizes the long-term ability of organizations and economies to create the capabilities needed to deal with disruptions, withstand the shocks and continuously adapt as disruptions and crises arise over time. It is the strategic prerequisite for long-term, sustainable and inclusive growth.
+Resilience failures cost. World Economic Forum research suggests that the impact of resilience (or lack of it) on annual GDP growth is 1% to 5% globally. In the COVID-19 pandemic, for example, workforce attrition may have shaved 3.6% off growth in some countries. In addition, low vaccination rates in developing countries have reduced growth by 1%. 
+Beyond the pandemic, income, gender and racial inequalities are likely to reduce growth by between 
+0.6% and 1.0%, while extreme weather events are taking 0.4% of growth. On the other hand, success in reskilling and upskilling the labour force in the digitizing economy could increase growth by 4.5% annually to 2030. Proportionate short- and longterm economic improvements can be captured through successful responses to the major risks and impact drivers in each of the resilience themes. 
+Given the interconnectedness of the themes, the enhancements are not discrete and cumulative, and their magnitude will vary across economies, industries and populations (Figure 1).
+Resilience for Sustainable, Inclusive Growth
+
+[Page 11]
+Impact on global GDP growth across resilience themes ranges from 1% to 5%
+F I G U R E 1
+One-time effects of COVID-19 crisis
+Persistent effects of structural drivers
+Resilience theme
+Climate, food and nature
+Forced migration of people
+0.1-0.5
+0.1-0.5
+1.0-2.5
+4.0-5.0
+4.0-5.0
+3.5-4.0
+0.1-1.0
+0.1-1.0
+0.1-1.0
+0.5-1.0
+0.1-1.0
+0.1-0.5
+2.0-3.0
+2.0-2.5
+1.0-1.5
+0.1-1.0
+Pandemic-related unemployment
+Pandemic-related labor-force skills gap
+Income, gender and racial inequalities
+Mortality from vaccination delays
+Corruption
+Lack of infrastructure
+Pandemic supply shocks
+Lack of market openness among G20 countries
+Low resilience of non-digital sectors during pandemic
+Lost potential due to lack of advanced technologies
+Financial inclusion gaps and limited ﬁnancial services
+Air pollution and malnutrition
+Lack of heathcare
+Damage from extreme weather events
+Energy and supply-chain disruptions
+People, education and organizational resilience
+Healthcare
+Sustainable economic development
+Trade and supply chain
+Digital resilience, trust and inclusion
+Finance and risk capacity
+Key impact drivers (select examples)
+Expert estimates of impact on global annual 
+GDP growth (%)
+Resilient organizations and economies accelerate from inflexion points. Crises and disruptions expose weaknesses, separating the resilient from the unprepared. McKinsey’s research has shown that companies evaluated as more resilient generated greater shareholder value than less resilient peers across the entire life cycle of the major economic shocks of the past two decades.1 
+In the world financial crisis of 2007-09, resilient companies generated around 20% more shareholder returns, an advantage which accelerated to around 50% in the turnaround years of 2009-11 and 120% during the stable period of 2011-17. Two equally important dimensions of resilience emerged: financial strength (cash reserves, a flexible cost base and profitability) and decisive adaptations to the business model through divestments and reinvestments. 
+A study of the performance of 1,500 companies during the financial crisis revealed that 20% in every sector emerged from the trough of the downturn a little ahead of the rest. They then converted that small advantage into clearly superior performance against peers for the next decade. Assumptions that the better performance resulted from longentrenched advantages did not withstand close inspection. The resilient companies had not been the clear leaders before the disruption and most did not have pre-existing businesses that the disruption advantaged. What the 20% did have was a selfmade advantage, which they acquired by moving fast, early and decisively in the disruption. This did not happen accidentally; strategies had been worked out in advance to protect margins (rather than revenue) or to buy good businesses at deflated prices and use them to catalyse growth as the downturn shifted to recovery. 
+Business resilience
+2.1
+1 Institute of Migration of the UN 2020; Internal Displacing Monitoring Centre, 2021, 2 The World Economic Forum, 2022 , 3 Kiel institute, 2022; Organization for 
+Economic Cooperation and Development (OECD), 2022; International Renewable Energy Agency, 2020, 4 International Labour Organization, 2020, 5 The World 
+Economic Forum, 2021, 6 International Monetary Fund, 2020; OECD, 2014; McKinsey Global Institute, 2020, 7 United Nations Development Programme, 2021, 
+8 OECD 2016; Global Panel for Nutrition, 2016 , 9 McKinsey Global Institute, 2021, 10 The World Economic Forum, 2018 , 11 The World Bank, 2019, 
+12 The European Central Bank, 2021, 13 The Hongkong and Shanghai Banking Corporation, 2020 , 14 UN Conference on Trade and Development, 2021, 
+15 McKinsey Global Institute, 2018, 16 McKinsey Global Institute, 2021; EY, 2018 A study of the performance of 
+1,500 companies during the financial crisis revealed that 20% in every sector emerged from the trough of the downturn a little ahead of the rest.
+Resilience for Sustainable, Inclusive Growth
+
+[Page 12]
+Likewise, through the downturn and disruptions of the COVID-19 pandemic, resilient companies generally performed better than peers. The “resilients” generated 10% more total return to shareholders during the economic downturn of 
+Q4 2019-Q2 2020. During the period of economic recovery (Q2 2020-Q3 2021), the differential accelerated to 50%. These adapted more flexibly in the economic slump and pivoted quickly to meet the resurgence in demand. They embraced digitalized business models, organizational flexibility and needed business portfolio changes (Figure 2).
+Business leaders will play a crucial role in steering society towards this more prosperous, sustainable and inclusive future. The business sector drives 
+72% of GDP and as much as 85% of technology investment and labour productivity growth.2
+Resilient companies did better at the outset of the downturn and after
+F I G U R E 2
+2007
+2019
+2020
+Q1
+2020
+Q2
+2020
+Q3
+2020
+Q4
+2021
+Q1
+2021
+Q2
+2021
+Q3
+2021
+Q4
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+Standard and Poor's 500
+Non-resilients
+Resilients2
+Total returns to shareholder performance during ﬁnancial crisis1
+Indexed to 100 (2007 year end)
+Indexed to 100 (2019 year end)
+Total returns to shareholder performance during COVID-19 crisis2 
+Downturn
+Recovery
+Downturn
+Recovery
+Note: This analysis excludes financial companies
+1 Total returns to shareholder; calculated as average of sub-sector median performance of resilients and non-resilients. Includes 1,140 companies (excludes FIG and REITs), 2 Calculated as average of sub-sector median performance of resilients and non-resilients. Includes 1,796 companies (excludes FIG and REITs), 
+3 Resilient companies defined as top geometric mean TRS quantile by sector
+Source: CPAnalytics; McKinsey analysis
+Resilience for Sustainable, Inclusive Growth
+
+[Page 13]
+Similar patterns can be observed at the level of economies and societies, with financial measures or public health interventions, for example. Once the COVID-19 pandemic struck, countries that combined fiscal stimulus with effective management were able to stabilize local economies and protect societies. Many countries recovered quickly, but the pace varied from country to country.
+While economic resilience can be measured by overall long-term growth, an important aspect considers societal resilience as a reflection of social, gender and racial-ethnic inequalities. The Organisation for 
+Economic Co-operation and Development (OECD) estimated the relationship between income inequality and GDP growth per capita. It found that the change over time in income inequality (measured as the ratio of top to bottom income deciles) has a significant impact on GDP per capita on average across OECD countries. The impact is statistically significant: an increase in income inequality of 1% lowers overall 
+GDP potential by 0.6% to 1.1%.3 
+The World Bank measures the economic cost of gender inequality globally at $160.2 trillion, an astonishing number. The research discovered that women possess only 38% of individual wealth overall and less than 33% in low- and lowermiddle-income countries. The study emphasized that investments in advancing education and opportunity for girls and women make economic sense since closing the gender wealth gap is essential for sustainable, inclusive development.4 
+Much the same can be said of wealth gaps based on racial inequality. In the United States, the median wealth of white families is ten times that of Black and Hispanic families, whose wealth did not essentially change between 1992 and 2016, a 24-year period. During this time, the median wealth of white families expanded by more than 
+50%. McKinsey’s research suggests that this gross disparity will cost the US economy trillions in lost consumption and investment in the next decade.5
+Economic and societal resilience
+2.2 In the United 
+States, the median wealth of white families is ten times that of Black and 
+Hispanic families, whose wealth did not essentially change between 
+1992 and 2016.
+Resilience for Sustainable, Inclusive Growth
+
+[Page 14]
+Crises and disruptions require a coordinated response by the public and private sectors. In fact, the world’s most pressing crises are breaking down traditional divisions in how and when public and private organizations respond. Increasingly, business, economic and societal resilience are interlinked. A consensus has lately emerged among leaders of both sectors that neither can go it alone – the world and its organizations are too interconnected (Figure 3).
+The general nature and extent of certain crises have been well estimated in advance. Most leaders understand that taking no action or limited actions will only result in worse outcomes. The climate crisis clearly illustrates how industry sectors, for example, must align goals and values. Many companies are moving on climate goals ahead of government regulation. The financial sector is exploring ways to measure climate resilience in valuations, recognizing that stronger responses will show in economic and shareholder outcomes. 
+A coordinated public- and private-sector response
+2.3
+Business, economic and societal resilience are interlinked
+F I G U R E 3
+Public sector
+Economic resilience (sustainable GDP growth)
+Private sector
+Resilience for sustainability growth
+Societal resilience (inclusive growth)
+Social welfare and policies – – Education – Health care – Economic development – Crisis response
+Monetary and ﬁscal policy – – Labour and ﬁnancial markets – Trade, energy and industrial policy – Climate change and environmental policies – Regulation and governmental policies
+Financial strength – – Operational resilience (includes supply chain) – IT resilience and digital trust – Organizational resilience and leadership – Market position and geographic footprint – Environmental, societal and regulatory alignment
+Business resilience (purposeful company growth)
+N e t w o r k o f p u b li c
+- a n d p r iv a t e
+- s e c t o r i n s ti t u ti o n s
+Source: World Economic Forum and McKinsey analysis
+Resilience for Sustainable, Inclusive Growth
+
+[Page 15]
+A common resilience framework
+A framework would provide organizations with a common language, structure and objectives for resilience.
+The current resilience discussion is still characterized by differences in interpretation and opaqueness on objectives, measurability and areas for action. Consequently, the prerequisite for a coordinated, systematic approach to resilience is a common resilience framework. Such a framework, similar to Environmental, Social and Governance (ESG), would provide organizations with a common resilience language, structure and objectives. It would also provide guidance on how to protect and enhance sustainability and inclusiveness in an environment of more frequent crises and disruptions. With the framework as a basis, organizations can enhance their mostly reactive risk management practices, harness strategic thinking, and take a more forward-looking view. 
+The framework would prioritize human capacity above all, while recognizing essential reskilling and upskilling requirements. It will encompass an adaptive supply chain, with technology as an enabler, and deploy financial and fiscal buffers as defensive supports within an overall active stance. 
+Within the framework, organizations can identify preventative actions, proactive investments, and areas to deepen public-private-sector cooperation. 
+Like ESG frameworks, the resilience framework is designed to help leaders see past the immediate bottom line and short-term financial goals. 
+A further affinity with ESG is that the resilience framework must be supported by assessment and measurement capabilities. These will allow leaders to understand and weigh the costs and benefits of particular resilience-building actions. Inaction will certainly be more costly than an agenda of preventative actions, but resource allocation needs to be linked to real and inclusive wealth creation – whether that is reflected in shareholder value, renewable energy growth, or the eradication of poverty. 
+Finally, the resilience framework will, by design, foster the cooperation of public- and private-sector organizations in supporting sustainability and inclusiveness across societies. For companies, resilience will translate into sustainable business growth; for societies, resilience both enables and depends on meaningful economic growth, emphasizing improved quality of life, equality, and inclusiveness. Wealth creation becomes meaningful when it also elevates the standing of the most vulnerable and poorer populations, in economies of all developmental stages. Without sustained social advancement, societies are less resilient and secure. Likewise, the goal of sustainable, inclusive growth includes the protection and repair of natural environments, beyond mitigation of the effects of the climate crisis.
+ The resilience framework will foster the cooperation of public- and private-sector organizations in supporting sustainability and inclusiveness across societies.
+Resilience for Sustainable, Inclusive Growth
+
+[Page 16]
+Building a resilience 
+Invest ahead, sense early, respond immediately and pivot to accelerate out of disruption.
+Organizations usually consider resilience from a risk standpoint. Solutions are often defensive, focused on building costly buffers and risk-avoidance, approaches that tend to limit rather than support growth. The new approach to resilience goes beyond the defensive stance towards growthoriented strategies. It focuses on creating a flexible system that orients and adapts more quickly to environmental disruptions and changes.
+An active strategy is based on flexibility and speed, allowing organizations to take on more risk rather than less. In this context, buffers become a residual power to protect against uncertainties that resist more immediate answers. These considerations lead to the enhanced response depicted in Figure 4.
+The resilience muscle is strengthened through three key actions: prepare, perceive and propel.
+Building a resilience muscle – for businesses, economies and societies
+F I G U R E 4
+Prepare
+Perceive
+Propel
+Invest ahead of large disruptions to reduce impact magnitude and speed.
+Done in three ways:
+Design ﬂexibility: Invest to create viable alternatives, such as having multiple suppliers across several geographic regions.
+–
+Build buffers: Add redundancy by increasing safety factors in products or maintaining higher stock levels for critical resources.
+–
+Strengthen networks: Invest in building relationship capital by increasing strength and network breadth.
+– – –
+Done in two ways:
+Done in two ways:
+Sense early: Build capabilities to detect a potential disruption early.
+Plan ahead: Build a planning capability that accounts for uncertainty by creating scenarios, creating options and analysing possible second-order implications, laying the foundation for bold action.
+Establish a nerve centre (after the disruption, if required): Build a mechanism to ensure organizational continuity and effective response amidst extreme uncertainty, across multiple levels of governance (e.g. board, top-team, operations teams).
+–
+Accelerate and improve (exit out of disruption): Enable a pivot from rapid response to strategic actions and acceleration from a new baseline.
+–
+Sense early, orient and plan ahead immediately after a disruption hits.
+Ensure immediate response and pivot to accelerate out of disruption.
+Source: World Economic Forum and McKinsey analysis
+Resilience for Sustainable, Inclusive Growth
+
+[Page 17]
+Prepare is about investing ahead of large disruptions to reduce the magnitude and speed of the impact. 
+Three types of actions can usually be taken: designing flexibility in products and processes, building buffers and strengthening networks. –
+Designing flexibility usually means investing to create viable alternatives; for instance, by having multiple suppliers across several geographic regions. One example of this is an energy company that relied heavily on a proprietary trading software. In the event of a software disruption, revenue would be seriously affected. 
+The company invested in “over-collateralizing” revenue shortfall and arranged to continue trading with their top customers in the event of a technical issue.
+ –
+Building buffers means adding redundancy; for instance, by increasing safety factors in products or maintaining higher stock levels for critical resources. As an example, a government was concerned about potential disruption to the national water supply. To prepare for such an event, it identified and acquired in advance equipment and consumables essential to operations that would be difficult to acquire quickly in the event of a crisis (including those from single-source vendors). The government also built safety buffers and then identified critical high-skill roles, ensuring that these people had access to the site to maintain operations in several scenarios. This example shows an government willing to accept the higher costs of operations, building redundancy and hence resilience against extreme events. –
+Strengthening networks is another kind of preparation that allows organizations to build better solutions. Companies and governments are increasingly investing in improving their cybersecurity protocols, for example, and relying on their networks to share information and develop tools and capabilities to fight increasingly sophisticated threats. 
+While each of these types of actions is conceptually simple, figuring out which of these actions to take, and for which disruption, is far from obvious, especially if the organization has not experienced a crisis of a similar nature before. 
+It is therefore unlikely that organizations can fully prepare for crises that do not have a clear, relatively well-established solution. However, actions can be motivated if organizations grasp the immediacy of potential disruptions and envision well-established solutions.
+Metrics are an essential part of the common resilience framework. Measuring the value of resilience investments can, however, be difficult. Approaches to calculating returns on investments (ROI) by expected value losses can underestimate the extent of investment needed for true resilience. A more suitable approach, used by insurers and ratings agencies to calculate risks in a business, focuses on reducing the tail value at risk. Another potentially useful measure is to identify a set of “predictably unpredictable” disruptions – those likely to occur in the next decade – and then calculate the ROI based on the overall avoided loss.
+Prepare
+4.1
+Resilience for Sustainable, Inclusive Growth
+
+[Page 18]
+Perceive is the part of the resilience muscle that detects a present disruption, quickly discovers its extent and implications, and defines the appropriate response. –
+Respond appropriately. Far too many organizations either jump the gun or move too slowly. One healthcare organization experienced a cyberattack after warning signs had been glowing red for months. The team had detected ransomware on their servers but sat on the information before escalating because the threat did not trigger the escalation criteria that had been set. –
+Unite risk and crisis management within a business resilience framework. A leading fastmoving consumer goods company established a business resilience framework that united traditional risk management with crisis management, business continuity, security and fraud, and insurance. It designed assets that could identify disruptions early – for example, a vending machine fitted with a temperature sensor to support operational continuity in cold supply chains.
+ –
+Create an effective planning team. In addition to the ability to sense disruptions early on, organizations need an effective planning team that can use scenarios to account for uncertainty and convert it from a large list of issues to clear risk evolutions that can be categorized and acted on. The best scenarios consider a wide range of potential social, geopolitical, climate and technological disruptions. Networks and sometimes hidden dependencies create new vulnerabilities that must be stress-tested as future evolutions are crafted. –
+Pressure test strategy and act on results. 
+A global automotive original equipment manufacturer (OEM) pressure tested its strategy by assessing the impact of a hypothetical prohibition on imports of vehicles and components by a nation-state customer. 
+The company assessed the potential results with and without resilience levers in place. When the levers were present, sales and profits regenerated two years earlier than when there were no levers. The key resilience levers were foresight (based on monitoring the country’s regulatory landscape), response capacity (quick reaction after the first announcement) and financial resilience (including a low fixed-cost base and deprioritization of selected investments).
+ –
+Apply planning to supply chains. A major pharmaceutical company set up early-warning indicators for critical materials in their supply chain. It also used trigger-based plans (including automated ordering) to ensure rapidly escalating responses in case of early disruptions. The triggers were based on practical actions, including specific thresholds for escalation to senior managers or the top team.
+Perceive
+4.2 Organizations need an effective planning team that can use scenarios to account for uncertainty and convert it from a large list of issues to clear risk evolutions that can be categorized and acted on. 
+Resilience for Sustainable, Inclusive Growth
+
+[Page 19]
+Propel is the part of the resilience muscle that enables public- and private-sector organizations to move quickly, ensuring an effective response early in the disruption and pivoting to accelerate out of the disruption faster than peers. –
+Create cross-functional teams. A structure that can function in extreme uncertainty is a critical component of a successful response. A large industrial company created cross-functional teams from operations, customer support, legal, finance and other functions. Team members developed trust in each other and were prepared to rely on each other when needed. The team was a central organ designed to allow the organization to limit uncertainty and move decisively in spite of it. The structure needs clear rules, supported by team members and norms ensuring continuity of decision-making and execution.
+ –
+Cut through silos. To propel organizations towards recovery, the responsible teams need to cut through silos without destroying trust. A large industrial company facing a major product failure created teams composed of people from business, finance, engineering, operations, sales and legal. Each team focused on a single issue: one team stabilized franchise owners with capital injections; another quickly resolved the technical side of the product failure; and a third defined liquidity actions to ensure company survival and minimal impact on growth.
+ –
+Pivot and move quickly. The example of Iceland in the financial crisis of 2008 is instructive. 
+Iceland was little prepared for what was about to happen. The liabilities of its three largest banks were more than 800% of the national 
+GDP – there was limited governance of sales and equity lending between banks. Iceland was therefore hit hard during the crisis (peak-totrough GDP declines were worse than 10%). 
+However, aided by its small size (315,000 people then) and, to some degree, by having its own currency, Iceland moved faster than other countries. It made a series of quick strategic moves: deleveraging household debt, driving large-scale default where needed and cleaning up firms’ overleveraged balance sheets. This brought household debt to less than 75% of 
+GDP by 2015 (some neighbouring countries’ debt-to-GDP ratio exceeded 120%), and employment rose above 2007 levels by 2013.
+Public- and private-sector leaders taking an appropriately broad view of resilience encounter risks and challenges addressed in isolation – whether labour shortages, digital risks, supply-chain disruptions, inflation or inequality. Yet, this approach cannot discover the many interdependencies, nor the system-wide, longer-term trends driven by climate change, societal developments and geopolitical dynamics. A model alternative to one-off approaches is the European Commission’s 
+Recovery Plan for Europe.6 The plan emphasizes the interdependencies between education, healthcare, housing, climate change, economic growth, competition and jobs, and addresses them in a holistic framework. The difficulties encountered in implementing such plans will be a measure of what it will take to bring along everyone in society.
+Propel
+4.3
+Resilience for Sustainable, Inclusive Growth
+
+[Page 20]
+Seven resilience themes that are shaping the future
+Crises can only be addressed effectively if an enhanced agenda that acknowledges their interconnectedness is adopted.
+Economies and societies are enduring several crises simultaneously, all of which have major humanitarian impacts and potentially long-lasting second- and third-order effects. The kinds of resilience questions urgently posed by climate change, war and the COVID-19 pandemic have typically been addressed individually, often in isolation. This approach is no longer sufficient, if it ever was. 
+The enhanced resilience agenda must take a broader view, focusing on the specific challenges but also their interconnectedness. The broader view can only be obtained if the effort is based on the private and public sectors acting together to develop mutually reinforcing solutions. The 
+World Economic Forum’s activities and initiatives addressing the challenges from current crises and disruptions can be grouped into seven resilience themes, with fundamental cross-cutting business, economic and societal implications (Figure 5). 
+Sustainable, inclusive growth depends on companies, economies and societies building resilience across a network of seven themes 
+F I G U R E 5
+Resilience themes
+Resilience topics
+Climate, food and nature
+Protect people and assets, reduce carbon, reduce vulnerabilities, mobilize ﬁnance and insurance
+Support education for all, foster inclusive leadership and talent, build dynamic operating models
+Act on pandemic’s lessons to improve public health through global healthcare resilience
+Promote industrial and economic growth, invest in education and technology, build risk management
+Design a more ﬂexible, just-in-case supply chain, building redundancy in supply routes and sources
+Digitally integrate societies, erase inequality of access and opportunity, protect digital assets
+Develop funding for climate-change transition and capital for innovation and growth, ensure risk capacity, resilience of monetary system
+People, education and organizational resilience
+Healthcare
+Sustainable economic development
+Trade and supply chain
+Digital resilience, trust and inclusion
+Finance and risk capacity
+Private sector
+Public sector
+Economic resilience (GDP growth)
+Business resilience (company growth) (inclusive growth)
+Societal resilience + + +
+Resilience for Sustainable, Inclusive Growth
+
+[Page 21]
+The United Nations Climate Change Conference (COP26) in Glasgow in 2021 drew attention to global commitments to reduce greenhouse gas emissions. Research shows that on the path to net zero, cumulative carbon emissions to 2050 will have to be 1000 gigatonnes or less if global average temperatures are to remain below 2°C above preindustrial levels.7 This great transformation will only be possible through the replacement at scale of the global economy’s productive asset base with non-emissive technologies. The First 
+Movers Coalition was established to help address this challenge. Composed of a group of forwardthinking companies, this coalition was created to trigger demand to make emerging clean technologies accessible and scalable.
+The UN Environment Programme is leading efforts to finance adaptation to climate change in the most vulnerable locations. 45 ecosystem-based adaptation projects are already under way to protect exposed populations from extreme weather and habitat loss while ensuring clean water and food.8 
+To make real progress, deep cooperation between the public and private sectors is required on all resilience themes. Cooperative public-private efforts are needed to protect people and assets by hardening existing infrastructure, prioritizing emergency response and preparedness, and adjusting working conditions for heat events. 
+Systems need to be made more resilient and robust by building inventories of food and raw materials and securing production by storing spare parts, strengthening supply chains and developing alternative production sites. 
+Climate change is triggering more frequent and severe droughts, flooding and wildfires, damaging crop and grazing lands, and ultimately increasing global levels of hunger and food insecurity. The damage is compounded by additional shocks, including the COVID-19 pandemic and inflation. 
+Biological diversity is threatened, with scientists estimating that nearly one million species of plants and animals are headed for extinction in the coming decades.9 According to the UN, undernourishment is on the rise, harming 9.9% of the world population in 2020 (8.4% in 2019). Nearly one-third of the world’s population – 2.37 billion people – do not have access to adequate food.10 The problem will likely worsen due to the direct and indirect effects of Russia’s war in Ukraine, as the two nations are among the world’s largest exporters of grain. 
+The effects of climate change on global food production can be dangerously magnified by apparently discrete disruptions. The interactions of events in the physical environment, societies and the economy make it the more imperative that societies reduce the exposure of populations to the effects of climate change. This includes relocating assets and communities from regions where protection is too difficult while factoring climate risks into decisions on future locations. 
+In keeping with the goals of the Paris Agreement, many organizations and economies have committed to achieving net-zero carbon emissions as an organizing principle. McKinsey analysis indicates that financing the transition to renewable power and sustainable growth could require $100 trillion or more in capital spending, two-thirds of it in developing economies. The needed capital is beginning to form. Financial institutions are leading the effort, as demonstrated at COP26. There, the 
+Glasgow Financial Alliance for Net Zero (GFANZ) brought together more than 450 institutions, representing $130 trillion of financial assets (40% of the global total), which promised to align portfolios with net-zero goals.11 
+Climate, food and energy
+5.1 Climate change is triggering more frequent and severe droughts, flooding and wildfires, damaging crop and grazing lands, and ultimately increasing global levels of hunger and food insecurity.
+Resilience for Sustainable, Inclusive Growth
+
+[Page 22]
+The difficulty in attaining these goals was starkly disclosed in the Western response to Russia’s invasion of Ukraine. The attempt to isolate Russia from the world economy creates challenges to the near-term security of Europe’s supply of crude oil, natural gas and solid fuel (mostly coal). The conflict has contributed to global energy inflation, pushing up prices of the three types of fossil fuels, which together accounted for 
+83.1% of the world’s primary energy in 2020.12 Global progress on renewables, meanwhile, has been very slow, reaching a share of 4.3% in the 2020 energy mix.
+Companies and governments have long developed business cases for the low-carbon transition, including scenarios for various speeds, accounting also for inflation and extreme price volatility in energy markets. The shortfall to a net-zero economy remains very great. Yet the continual ramping up of fossil fuel exploration, production and delivery will accelerate global warming and promote economic dependence on energy commodities for both producers and consumers. 
+A fundamental requirement for ensuring sustainable, inclusive growth globally is an educated population. The UN’s Millennium 
+Development Goal of sustainable development includes raising the level of education available to low-income countries and poorer and historically excluded population segments everywhere. In 
+2021, the UN estimated that one-third of young people were not receiving secondary education; 
+617 million youth worldwide do not have basic mathematics or literacy skills. As of 2016, 750 million adults were illiterate, two-thirds of whom were women. Furthermore, millions of refugee children were out of school completely, including nearly half the estimated total of 7.9 million refugee children in the care of the UN refugee agency.13 The UN’s education goal emphasizes the economic benefits of investments in education for all, calculating that each additional year of schooling adds 0.37% to GDP. The benefits of a widely educated population multiply this advantage for society and the economy, with better personal health, higher workforce productivity and readiness for more highly skilled jobs.14 
+Leaders in the public and private sectors will need to intensify efforts to raise education levels while building new capabilities to strengthen talent and organizational resilience. Millions of workers in many job categories lost their jobs during the pandemic, while millions of others left their positions. Hardest hit were women workers, on whom family-care obligations disproportionally fell. 
+In the United States in the fourth quarter of 2021, for example, the labour force was smaller by three million people than it had been in February 2020, with two million fewer women.15 According to the 
+International Labour Organization, the pandemicdriven recession resulted in a 4.2% drop in women’s employment, compared with a 3% drop for men. This difference subsequently moderated in many developed economies but remained in Latin 
+American countries such as Brazil and Mexico.16 
+A complicating issue is that pre-existing trends in remote work, e‑commerce and automation accelerated during the pandemic, putting some workers in higher demand but displacing many more. In developed and developing nations alike, employers are finding it difficult to hire enough specialized talent to expand. Tech workers, for example, are in high demand in economies large and small, a shortage that may be the best indication of the kind of high-level reskilling organizations need for the economies of the future. Furthermore, IT workers and cybersecurity professionals are now especially sought after, as they are crucial to the rising demands of remote work and building organizational resilience. 
+The World Economic Forum’s Insurance and 
+Asset Management Industry Action Group has developed an organizational resilience framework for businesses, recognizing the new reality that resilience has risen to the top of the list of business considerations after the unprecedented disruptions of the COVID-19 pandemic.
+People, education and organizational resilience
+5.2 Leaders in the public and private sectors will need to intensify efforts to raise education levels while building new capabilities to strengthen talent and organizational resilience.
+Resilience for Sustainable, Inclusive Growth
+
+[Page 23]
+The Partnership for Health System Sustainability and 
+Resilience is a global collaboration of the London 
+School of Economics, the World Economic Forum and AstraZeneca. Its purpose is to ensure that health systems can withstand future crises. The 
+Partnership’s study of many health systems revealed that most were not adequately prepared to cope with the shock of the COVID-19 pandemic.17 Many were not adequately financed, given the persistent influence of the banking crisis of 2009 on public sector finances. Other worrying aspects were also at play: governance systems were shown in many cases to lack leadership and clear strategies. In terms of COVID-19 pandemic responses, perhaps this is an expected outcome, given that many systems are still “firefighting” in terms of their response. However, it also highlights that policies for existing strategies are not clearly defined and implemented. In some countries, the chains of command are unclear when facing a systemic shock and tensions between central and local authorities can impede responsiveness. During the pandemic, some countries facing workforce shortages lacked workforce planning, while workplace well-being was sometimes a secondary consideration. In some countries, investment in health system capital was limited in places, including in digital health and health technology assessment. Within healthcare systems described as “integrated” (such as the NHS in the 
+United Kingdom), a lack of coordination was found at various levels and across different aspects of service delivery.
+Building on the pandemic’s lessons, governments and healthcare providers can revitalize healthcare systems and improve the state of global public health. Health crisis preparation and response can be improved at the national and regional levels. 
+Crisis protocols should be adjusted and crucial supplies stockpiled, for example. Among the improvement areas identified by the Partnership for Health System Sustainability are government financing models for healthcare systems, digital innovation, distributed and virtual care, regulatory harmonization for new technology, investment in preventative care, workforce reskilling and changes in incentive structures to pay for valuebased outcomes. 
+International resilience to future health threats can be strengthened with improved monitoring, greater transparency, better response coordination and clearer communication. The pandemic has also highlighted, and exacerbated, mental health issues, whose scale and impact must be better acknowledged and addressed, especially with measures accessible to all population segments. 
+Health research programmes to eradicate diseases and deliver care can be based on government and private-sector cooperation, modelled on the 
+COVID-19 vaccine efforts.
+Healthcare professionals, it must be recognized, are often working at their limit in the pandemic, many in substandard conditions with inadequate equipment. Governments and providers can improve the conditions of healthcare work, while building a flexible workforce of the future, with skills optimized for cross-country and cross-sector cooperation to meet demand surges during crises.
+Healthcare
+5.3
+Resilience for Sustainable, Inclusive Growth
+
+[Page 24]
+For developing economies, resilience-building is a form of economic advancement, benefiting businesses, government and society while reducing historical vulnerabilities. Massive investment is needed, but many local projects can be completed in increments at a relatively low cost. Primary objectives must include improvements in housing, agricultural diversity and food supply, water infrastructure and sewerage. Furthermore, due to income loss during the pandemic, the number of people without access to energy in the global south increased. This was the first such increase in more than a decade and highlights the continued energyaccess gap that must be closed.
+Parallel efforts are also needed to improve education and technical training, and to establish and expand digital infrastructure, as digital inclusiveness will help increase the adaptive capacities of businesses and society as a whole. 
+Initial resilience activities can act as catalysts to engage the private sector to magnify sustainable, inclusive growth. Proper planning is essential to assess the economy and ensure that programmes and initiatives support sustainable growth. 
+Undertakings that involve communities and community organizing are especially important, as stronger societal engagement is needed to overcome the many social challenges.
+Global economic interdependencies have deepened for decades, resulting in a steep incline in world trade volumes.18 Globalized production and supply, aided by many free trade agreements concluded in the late-20th and early-21st centuries, allowed economies and businesses to develop strong international relationships. While limits to these new relationships were posed by geopolitical friction, the 
+COVID-19 pandemic revealed other vulnerabilities. 
+As borders were closed and mobility was restricted in efforts to control the spread of the virus, supply chains were disrupted, often radically. Customer demand experienced some volatility, but with shifts (such as the accelerating use of digital channels), it soon recovered. Supply chains, however, continue to struggle. Just-in-time practices, used in many sectors to minimize waste by keeping supply inventories low, were put to the test. Limited stocks were quickly exhausted. 
+In response, manufacturers improvised. Some established dedicated teams to develop supply and demand intelligence, combining data on the supply chain and supplier commitments. Some began to reconsider, at least in part, just-in-time delivery and maintenance of low stock levels along their value chains. Some governments, concerned about dependence on single suppliers and distant countries for vital needs, began to push for more regional and diverse sourcing.
+The effects of the present pandemic-related supply shocks will continue to appear as a result of trade policy changes, workforce scarcity and inflation. 
+While there is no such thing as a disruption-proof supply chain, governments and companies can cooperatively work towards a flexible design. 
+The solutions will likely combine several elements: a limited just-in-case approach with redesigned inventory holding; an expanded supply base, including diverse regions and routes; vertical integration where appropriate; and radical transparency across supplier tiers and new operating models and partnerships. Governments can help by establishing connections across segregated data, using accelerated regulatory approvals to advance adoption and innovation (such as 3D printing for flexible production close to point of use). Collaboration and coordination by the public and private sectors is needed to target investment and avoid duplication of effort.
+Sustainable economic development
+Trade and supply chain
+5.4
+5.5
+Resilience for Sustainable, Inclusive Growth
+
+[Page 25]
+Many global companies and financial institutions sustained operations during the COVID-19 pandemic through digital enablement of remote working arrangements. The World Economic 
+Forum cites research suggesting that the digital economy accounts for 15% of global GDP today and could expand to 26% by 2040.19 Digital inclusion is thus a growth imperative. It means improving digital infrastructure and connecting wider populations and heretofore excluded segments. The Forum-sponsored EDISON Alliance for Digital Inclusion seeks to create affordable and accessible digital opportunities for all by 2025 through an unprecedented collaboration between the information and communications technology community and other critical sectors of the economy.
+In the next ten years, more innovation is expected than at any other time in history, as technology reshapes healthcare, mobility, materials sciences and energy production. Accelerating developments in such technologies as cloud computing, robotics, process automation and the industrial internet of things are already affecting many aspects of productive activity. 
+These developments will require more integrated cybersecurity measures to minimize risks and improve resilience. This means having the right cybersecurity and other operational processes, plans and mechanisms in place to ensure business continuity during a cyber incident. While cyber resilience within enterprises is vital, the scale of the resilience crisis in systemic critical infrastructure points to an even more significant challenge. The resilience of sectors that are most crucial to societal and economic security and stability should therefore be a priority for public and private actors.
+In light of these developments and directional signals, digital trust and digital inclusivity grow in importance. Many nations and companies want to achieve digital inclusivity, a goal requiring sufficient funding to reach across society. Investments are needed in digital education, equipment and infrastructure so that poorer nations and excluded populations can share in the prosperity of the digital ecosystem. Digital trust means that companies and governments make their systems and data secure against cyberthreats using the most advanced approaches. Organizations must reflect the values of wider society, safeguarding personal data while ensuring reliable services. 
+Many companies have yet to discover the competitive advantage of being a leader in digital trust. Developing and promoting digital trust, however, will be key to transforming security into a value proposition and securing the wider domain. Unless users can trust digital systems, the advantages of the digitized economy will be lost.
+Digital resilience, trust and inclusion
+5.6
+The financial sector will have an enormous role in building a resilient, sustainable future. The world economy demonstrated financial resilience through the pandemic, as companies relied on access to funding, including historic levels of government support. The importance of capital buffers at the company level and fiscal and monetary capacity in the public sector has not diminished, their extent being the subject of continuous debate, especially since the return of inflation. By far the financial sector’s greatest responsibility in the coming decades, and largest growth opportunity, is in financing the transition to a low-carbon future. 20 
+Most of the investment will come from the private sector, with the public sector playing an important role in mitigating risk for renewable energy projects. 
+Furthermore, most of the expenditure is expected to take place in emerging economies. The Forum launched Financing the Transition to a Net Zero 
+Future in 2020, an initiative to mobilize capital for the breakthrough technologies needed to support the transition to a low-carbon future.
+Finance and risk capacity
+5.7 Investments are needed in digital education, equipment and infrastructure so that poorer nations and excluded populations can share in the prosperity of the digital ecosystem.
+Resilience for Sustainable, Inclusive Growth
+
+[Page 26]
+A call to action: The 
+Resilience Consortium
+The World Economic Forum Resilience 
+Consortium comprises leaders from the public and private sectors committed to working together to build resilience globally, across regions, economies and industries. It is guided by the following objectives:
+Develop a common resilience framework for public- and private-sector organizations that can help them achieve more sustainable, inclusive growth. The common resilience framework provides the basis for developing stronger institutional capabilities – the elements of the new resilience muscle.
+Develop a shared understanding of the drivers of resilience and a prioritized resilience agenda to align public- and private-sector approaches and efforts. The prioritized agenda can also support current initiatives from the perspective of the wider resilience framework. 
+Identify potential public-private partnerships to build more resilient societies and economies and take common action to support sustainable, inclusive growth, prioritizing investments and scaling solutions that help mitigate risks for future shocks.
+Use leadership positions in the public and private sectors to advocate for a cultural change in organizations and societies as society moves away from narrowly focused, short-term responses towards long-term value creation.
+It is committed to shaping a new resilience agenda based on adaptability and decisiveness. Now is the time for action, as the policy decisions and financial commitments made today will determine the future course of the planet, economies and societies. A shared, comprehensive view of resilience and its drivers will help policy-makers and business leaders recognize the opportunities and act to lay the foundations of sustainable and inclusive, long-term global growth.
+Resilience for Sustainable, Inclusive Growth
+
+[Page 27]
+Contributors
+McKinsey & Company
+Daniel Pacthod 
+Senior Partner, New York, Global Head, 
+Sustainability Practice 
+Sven Smit 
+Senior Partner, Amsterdam, Chair, McKinsey 
+Global Institute 
+Maria Martinez 
+Senior Partner, Madrid, Global Co-Leader Risk and Resilience Practice 
+Thomas Poppensieker 
+Senior Partner, Munich, Risk and Resilience Practice 
+Mihir Mysore 
+Partner, Houston, Risk and Resilience Practice
+Alfonso Natale 
+Partner, Milan, Risk and Resilience Practice 
+Michael Thun 
+Senior Expert, Munich, Risk and Resilience Practice
+Richard Bucci 
+Senior Editor, New York
+Sebastian Scheurle 
+Associate Principal, Munich
+Guillermo Ayestaran 
+Project Manager, New York
+Sofiia Markovych 
+Consultant, Kyiv/Prague 
+World Economic Forum
+Miriam Schive 
+Deputy Head of International Organizations and 
+Humanitarian Agenda, World Economic Forum 
+Andrej Kirn 
+Head of International Organizations and 
+Humanitarian Agenda, World Economic Forum 
+Andre Belelieu 
+Head of Insurance, Asset Management, and 
+Institutional Investors, World Economic Forum 
+Acknowledgements
+This paper is based on numerous consultations and inputs from World Economic Forum colleagues leading resilience related initiatives. Sincere thanks is given to all those who contributed their insights via interviews or written contributions, including those not captured here.
+Resilience for Sustainable, Inclusive Growth
+
+[Page 28]
+Endnotes
+Resilience in a business context was mainly measured according to margin improvement, revenue growth and optionality (retained additional optional investment opportunities). These criteria proved more important than stock-market performance: see Cindy Levy, Bob Sternfels and Mihir Mysore, “The emerging resilients: Achieving ‘escape velocity”, 
+McKinsey.com, 6 October 2020; and Martin Hirt, Kevin Laczkowski and Mihir Mysore, “Bubbles pop, downturns stop,” insights/bubbles-pop-downturns-stop. 
+2. 
+Manyika James, et al., “A new look at how corporations impact the economy and households”, McKinsey & Company, at-how-corporations-impact-the-economy-and-households. 
+3. 
+Causa, Orsetta, Alain de Serres and Nicolas Ruiz, “Growth and inequality: A close relationship?”, OECD Economics relationship.htm. 
+4. 
+Wodon, Quentin T., Bénédicte de la Briére “Unrealized Potential: The High Cost of Gender Inequality in Earnings”, World inequality-in-earnings.
+5. 
+Noel Nick, Duwain Pinder, Shelley Stewart, and Jason Wright, The economic impact of closing the racial wealth gap, impact-of-closing-the-racial-wealth-gap.
+6. 
+European Commission, Recovery plan for Europe, n.d., https://ec.europa.eu/info/strategy/recovery-plan-europe_en.
+7. 
+Henderson, Kimberly, Dickon Pinner, Matt Rogers, Bram Smeets, Christer Tryggestad, Daniela Vargas, “Climate math: functions/sustainability/our-insights/climate-math-what-a-1-point-5-degree-pathway-would-take.
+8. “What does COP26 mean for adaptation?”, UN Environment Programme (UNEP), 17 November 2021,
+9. “Halting the Extinction Crisis”, Center for Biological Diversity, n.d., https://biologicaldiversity.org/programs/biodiversity/ elements_of_biodiversity/extinction_crisis/index.html.
+10. “UN report: Pandemic year marked by spike in world hunger”, World Health Organization, 12 July 2021, 
+11. 
+Bowcott, Harry, Daniel Pacthod and Dickon Pinner, “COP26 made net zero a core principle for business”, McKinsey & net-zero-a-core-principle-for-business-heres-how-leaders-can-act. 
+12. statistical-review-of-world-energy/primary-energy.html. 
+13. education/. 
+14. 
+UNESCO, Education counts: towards the Millennium Development Goals, 2010, https://unesdoc.unesco.org/ark:/48223/ pf0000190214.
+15. 
+Janelle Jones and Sarah Jane Glynn, “Rebuilding the Economy Requires Rebuilding Care Infrastructure”, US Department of Labor Blog, 7 December 2021, https://blog.dol.gov/2021/12/07/rebuilding-the-economy-requires-rebuilding-careinfrastructure. 
+16. 
+Jones, Janelle, Sarah Jane Glynn, “Fewer women than men will regain employment during the COVID-19 recovery says index.htm; “Women take hit on jobs as Latin America recovers from the pandemic”, Financial Times, 25 November 2021, 
+17. 
+18. evolution_e/evolution_trade_wto_e.htm. 
+19. 
+Goldin, Ian, Robert Muggah and Rafal Rohozinski, “The dark side of digitalization – and how to fix it”, World Economic 
+20. “New Energy Outlook 2021”, BloombergNEF, n.d., https://about.bnef.com/new-energy-outlook/; “Aligning portfolios com/business-functions/risk-and-resilience/our-insights/aligning-portfolios-with-climate-goals-a-new-approach-forfinancial-institutions. 
+Resilience for Sustainable, Inclusive Growth
+
+[Page 29]
+World Economic Forum
+91–93 route de la Capite
+CH-1223 Cologny/Geneva
+Switzerland 
+Tel.: +41 (0) 22 869 1212
+Fax: +41 (0) 22 786 2744 contact@weforum.org
+The World Economic Forum, committed to improving the state of the world, is the 
+International Organization for 
+Public-Private Cooperation.
+ 
+The Forum engages the foremost political, business and other leaders of society to shape global, regional and industry agendas.

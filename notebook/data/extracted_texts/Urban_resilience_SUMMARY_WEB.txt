@@ -1,0 +1,578 @@
+[Page 1]
+Urban planning for resilience and health: key messages
+Summary report on protecting environments and health by building urban resilience
+
+[Page 2]
+The WHO European Centre for Environment and Health, now located in Bonn, Germany, was established in 1989 by the First European Conference on Environment and Health and is an integral part of the WHO Regional Office for Europe. The Centre provides technical and scientific expertise on the impacts of the environment on health. It delivers policy advice and tools to inform and support decision-making in the areas of air quality; access to safe drinking-water, sanitation and hygiene; minimizing the adverse effects of chemicals; adaptation to and mitigation of climate change; environmental sustainability of health systems; urban health planning, including transport and mobility; and violence and injury prevention. It works with partners to develop collaborative initiatives addressing environment-related diseases. The Centre also strengthens country capacities to address environment and health challenges through a range of training courses on environment and health, including health impact assessments.
+
+[Page 3]
+Urban planning for resilience and health: key messages
+Summary report on protecting environments and health by building urban resilience
+
+[Page 4]
+Abstract
+Urban planning, risk governance and resilience have become increasingly important pathways to promote and protect public health at the local level. Climate change, inadequately planned urbanization and environmental degradation have left many cities vulnerable to disasters. The COVID-19 pandemic has further highlighted the links between health and urban environments, and the relevance of sustainable and resilient planning. Various global frameworks have been established to address sustainable development, urban environments and resilience, and awareness of the local benefits associated with implementation of these global agendas is increasing. The Protecting environments and health by building urban resilience project aims to support local authorities and decision-makers to reflect on the environment and health dimensions of local preparedness and resilience, and to promote the application of urban planning approaches to establish safe, healthy and sustainable cities. This report summarizes the three project reports and presents key messages on how to build forward better and apply environmental and infrastructural planning as an important pathway towards building urban resilience.
+Keywords
+• Urban planning
+• Environment and health
+• Emergencies
+• Healthy cities 
+• Prevention
+• Resilience
+• Preparedness
+• Building forward better
+WHO/EURO:2022-5650-45415-64990 © World Health Organization 2022
+Some rights reserved. This work is available under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 IGO licence (CC BY-NC-SA 3.0 IGO; https://creativecommons.org/licenses/by-nc-sa/3.0/igo). 
+Under the terms of this licence, you may copy, redistribute and adapt the work for non-commercial purposes, provided the work is appropriately cited, as indicated below. In any use of this work, there should be no suggestion that WHO endorses any specific organization, products or services. The use of the WHO logo is not permitted. If you adapt the work, then you must license your work under the same or equivalent Creative Commons licence. If you create a translation of this work, you should add the following disclaimer along with the suggested citation: “This translation was not created by the World Health Organization (WHO). WHO is not responsible for the content or accuracy of this translation. The original English edition shall be the binding and authentic edition: Urban planning for resilience and health: key messages – summary report on protecting environments and health by building urban resilience. Copenhagen: WHO 
+Regional Office for Europe; 2022”. 
+Any mediation relating to disputes arising under the licence shall be conducted in accordance with the mediation rules of the World 
+Suggested citation. Urban planning for resilience and health: key messages – summary report on protecting environments and health by building urban resilience. Copenhagen: WHO Regional Office for Europe; 2022. Licence: CC BY-NC-SA 3.0 IGO.
+Cataloguing-in-Publication (CIP) data. CIP data are available at http://apps.who.int/iris.
+Sales, rights and licensing. To purchase WHO publications, see http://apps.who.int/bookorders. To submit requests for commercial use and 
+Third-party materials. If you wish to reuse material from this work that is attributed to a third party, such as tables, figures or images, it is your responsibility to determine whether permission is needed for that reuse and to obtain permission from the copyright holder. The risk of claims resulting from infringement of any third-party-owned component in the work rests solely with the user.
+General disclaimers. All reasonable precautions have been taken by WHO to verify the information contained in this publication. However, the published material is being distributed without warranty of any kind, either expressed or implied. The responsibility for the interpretation and use of the material lies with the reader. In no event shall WHO be liable for damages arising from its use. The named authors alone are responsible for the views expressed in this publication.
+Design by ACW, London
+
+[Page 5]
+Foreword iv
+Acknowledgements v
+Glossary vi
+Cities, resilience, environment and health 
+Action needed to build resilience at the local level 
+Action area A: administrative and organizational processes 
+Action area B: tools, indicators and frameworks 
+Action area C: spatial planning, design and management interventions in the built environment 
+Current gaps and challenges that hinder local action to make cities more resilient 
+Syntheses for local policy-makers and urban planners 
+Key messages on policy-making for urban resilience and health 
+Key messages on resilient and sustainable urban planning for health 
+References
+
+[Page 6]
+Urban planning for resilience and health: key messages
+Foreword
+Disasters and local emergencies have a direct impact on population health, causing injuries, diseases, and mental and psychosocial outcomes. Extreme events also significantly affect the functionality of critical infrastructure – such as health-care facilities, water and energy supply and transport infrastructure. They thereby further increase the health impacts due to interruption of treatment and care services, as well as lack of access to and basic provision of services – mostly affecting vulnerable and susceptible population groups. 
+Climate change and environmental pressures make cities ever more vulnerable to disasters, and an increase especially in flooding and storm events has been observed, causing more than 300 000 deaths globally during 
+2000–2019. Furthermore, local emergencies are also triggered by industrial accidents, technological disasters and system failures, showing population vulnerability resulting from reliance on modern technology. In Europe alone, the estimated economic loss due to disasters amounts to US$ 271 billion over the last two decades.1
+Increasing preparedness for emergencies and their related health impacts should therefore be considered a priority by national governments and local authorities. Acknowledging the significant health impact of emergencies, WHO’s 
+European Programme of Work (2020–2025) – “United Action for Better Health in Europe” defines “Protecting against health emergencies” as one of its core priorities, urging national governments to learn from the past and invest in stronger systems and capacities to prevent and manage extreme events. One fundamental element of this is the establishment of local living environments that promote health and well-being, which is another core priority of the 
+European Programme of Work and supports the protection of citizens from emergencies.
+Cities need to understand what features and processes make them vulnerable to crises and to environmental and technological emergencies, and their associated health impacts. They also need to recognize the most effective counteractions to prevent emergencies and become resilient. Reflecting the global relevance of this challenge, various international commitments and agreements (such as the Sendai Framework for Disaster Risk Reduction 
+2015–2030, the Sustainable Development Agenda and the Paris Agreement) have highlighted the need to address and manage disaster risk, emergency preparedness and resilience at urban scale. Focusing on this need to localize global commitments, the New Urban Agenda seeks to ensure healthy, resilient and sustainable cities through disaster risk reduction and management, reduced vulnerability, and increased resilience and responsiveness to natural and technological hazards. 
+This summary report documents the results of a WHO project on protecting environments and health by building urban resilience, which reviewed current evidence and city experiences on shaping urban resilience, and examined the relevance of available data and indicator frameworks to assess urban resilience conditions. It highlights the health relevance of forward-looking approaches at the local level, and provides evidence on how urban planning can support local preparedness and urban resilience.
+I truly hope that this summary report, and the associated project reports, can support local authorities, urban decision-makers and city managers in applying urban planning, design and management as an instrument to reduce local risks and vulnerabilities and to build urban resilience to promote and protect health and well-being. 
+Dr Nino Berdzuli
+Director
+Division of Country Health Programmes org/publication/human-cost-disasters-overview-last-20-years-2000-2019, accessed 10 May 2022).
+
+[Page 7]
+Summary report on protecting environments and health by building urban resilience
+Acknowledgements
+The WHO Regional Office for Europe wishes to express its appreciation to all those whose efforts made the production of this summary report possible. This report summarizes the three independent reports created for WHO’s Protecting environments and health by building urban resilience project, examining academic evidence on the urban environmental impact of disasters and extreme events; cities’ practical experiences with environmental emergencies and disasters; and international indicators, datasets and monitoring frameworks for urban planning for resilience.
+The summary report was written by Carlota Sáenz de Tejada, Carolyn Daher, Laura Hidalgo and Mark 
+Nieuwenhuijsen (ISGlobal, Urban Planning, Environment and Health Initiative, Spain).
+Inputs to content, structure and strategic development of the summary report were provided by Matthias Braubach and Sinaia Netanyahu (WHO European Centre for Environment and Health, Germany).
+A draft version was reviewed by Amaya Celaya Alvarez (UN-Habitat, City Resilience Global Programme, Spain).
+This summary report is based on three technical reports produced for the Protecting environments and health by building urban resilience project:
+1. Urban planning, design and management approaches to building resilience – an evidence review (written by 
+Carlota Sáenz de Tejada, Laura Hidalgo, Carolyn Daher and Mark Nieuwenhuijsen (ISGlobal, Urban Planning, 
+Environment and Health Initiative, Spain) and reviewed by Aleksandra Kazmierczak, Juan Calero Rodriguez and Gerardo Sanchez Martinez (European Environment Agency, Denmark), Michael Hagenlocher (United 
+Nations University, Institute for Environment and Human Security, Germany) and Vladimir Kendrovski (WHO 
+European Centre for Environment and Health, Germany));
+2. Urban planning for health – experiences of building resilience in 12 cities (written by Carlota Sáenz de Tejada, Laura Hidalgo, Carolyn Daher, Oriana Ramírez and Mark Nieuwenhuijsen (ISGlobal, Urban Planning, Environment and Health Initiative, Spain) and reviewed by Carme Borrell (Barcelona Public Health Agency, Spain), Andrew Bower, Dragan Linacin, Maja Markovic, Helena Monteiro and Olga Shashkina (United Nations Office for Disaster Risk Reduction, Regional Office for Europe and Central 
+Asia) and Danielle Sinnett (University of the West of England and WHO Collaborating Centre on Healthy Urban 
+Environments, United Kingdom));
+3. Review of indicator frameworks supporting urban planning for resilience and health (written by Amaya Celaya Alvarez, Anna Karaan, Yana Antonenko, Sozvin Al Youssef and Esteban Leon (UNHabitat, City Resilience Global Programme, Spain) and reviewed by Ivone Pereira Martins (European Environment 
+Agency, Denmark), Virginia Murray (UK Health Security Agency, United Kingdom) and Helena Monteiro and Olga 
+Shaskina (United Nations Office for Disaster Risk Reduction, Regional Office for Europe and Central Asia)).
+All the project reports were produced with the financial support of the German Federal Ministry of Health and the 
+German Federal Ministry for the Environment, Nature Conservation, Nuclear Safety and Consumer Protection.
+
+[Page 8]
+Urban planning for resilience and health: key messages
+Glossary
+For all three project reports and this summary report, the following terminology is used, as defined by the United 
+Nations Office for Disaster Risk Reduction.2
+Disaster risk reduction is aimed at preventing new and reducing existing disaster risk and managing residual risk, all of which contribute to strengthening resilience and therefore to the achievement of sustainable development.
+Hazard is a process, phenomenon or human activity that may cause loss of life, injury or other health impacts, property damage, social and economic disruption or environmental degradation. Hazards may be natural, anthropogenic or socionatural in origin. Natural hazards are predominantly associated with natural processes and phenomena. Anthropogenic hazards, or human-induced hazards, are induced entirely or predominantly by human activities and choices. Several hazards are socionatural, in that they are associated with a combination of natural and anthropogenic factors, including environmental degradation and climate change.
+Mitigation is the lessening or minimizing of the adverse impacts of a hazardous event.
+Preparedness is the knowledge and capacities developed by governments, response and recovery organizations, communities and individuals to effectively anticipate, respond to and recover from the impacts of likely, imminent or current disasters. Preparedness is based on a sound analysis of disaster risks and good linkages with early warning systems, and includes such activities as contingency planning, the stockpiling of equipment and supplies, the development of arrangements for coordination, evacuation and public information, and associated training and field exercises.
+Resilience is the ability of a system, community or society exposed to hazards to resist, absorb, accommodate, adapt to, transform and recover from the effects of a hazard in a timely and efficient manner, including through the preservation and restoration of its essential basic structures and functions through risk management.
+Vulnerability reflects the conditions determined by physical, social, economic and environmental factors or processes which increase the susceptibility of an individual, a community, assets or systems to the impacts of hazards.
+understanding-disaster-risk/terminology, accessed 25 March 2022).
+
+[Page 9]
+Summary report on protecting environments and health by building urban resilience
+Cities, resilience, environment and health
+Public health and its relationship with urban planning, risk governance, and the natural and built environment in cities have become more relevant than ever. Climate change, rapid and/or inadequately planned urbanization and environmental degradation have left many cities more vulnerable to disasters, many of which are triggered or associated with changing climate and environment conditions. The COVID-19 pandemic has highlighted for governments and citizens the links between health and urban environments – especially housing, public space, basic services and infrastructure, and transport. The recent United Nations Intergovernmental Panel on Climate 
+Change (IPCC) report gives new urgency to both the need for preventive action and the requirement to prepare for increased frequency and significance of climate and related natural events (IPCC, 2021). In addition, cities increasingly face local emergencies resulting from industrial accidents and system failures, indicating the high degree of interdependencies that especially large cities have. Inadequate planning has thus been recognized as a relevant disaster risk factor, affecting urban hazards, exposure and the level of vulnerability (UNDRR, 2021). 
+Cities need to understand the features and processes that make them vulnerable to crises and environmental emergencies – and their associated health impacts – and to recognize the most effective policies and actions to reduce risk, be better prepared and become more resilient.
+The Protecting environments and health by building urban resilience project led by the European Centre for 
+Environment and Health of the WHO Regional Office for Europe aims to support local authorities and decisionmakers to reflect on local preparedness needs and to build resilience. The project team compiled evidence and local-level experiences and lessons learned related to:
+• reducing health risks posed by local hazards from disasters and emergencies;
+• mitigating local vulnerability to these hazards; and
+• local priorities and actions for improving preparedness, resilience (and health) through urban planning and design, as well as urban infrastructure management.
+The project’s exploration of how cities can utilize urban and infrastructural interventions, available data and local indicators and assessments to reduce local disaster risks and increase preparedness and resilience is a contribution to urban resilience (see definition in Box 1) and local coping capacities. It is also a central component of the broader objective of sustainable, equitable and healthy urban development.
+Box 1. Definition of urban resilience
+The measurable ability of any urban system, with its inhabitants, to maintain continuity through all shocks and stresses, while positively adapting and transforming toward sustainability.
+Source: UN-Habitat (2021).
+This summary report brings together key messages and conclusions from three separate work strands, to identify how urban resilience and preparedness can be improved by city structure and design, and through urban management and monitoring. The project produced three main reports:
+• Urban planning, design and management approaches to building resilience – an evidence review, which selects 172 studies and reports worldwide to document urban challenges and implications associated with disasters and extreme events, and identifies associated local priorities to prepare for future challenges and increase urban resilience through urban planning, design and management;
+• Urban planning for health – experiences of building resilience in 12 cities, which summarizes semi-structured interviews with 12 European case study cities about their practical experience with local emergencies and disasters, compiles the conclusions for connecting health and urban planning with reconstruction and preparedness needs, and presents the local lessons learned for building forward better by reducing risks and vulnerabilities and creating more resilient urban design and infrastructure to promote health and well-being; and
+• Review of indicator frameworks supporting urban planning for resilience and health, which reviews six selected international monitoring frameworks that can be applied at subnational or city level and include data and indicators covering urban environment and health conditions, focusing on their capacity to reflect and describe crises impacts during an emergency situation, and their suitability for identifying existing vulnerabilities and highlighting priorities for establishing more resilient urban settings.
+All these reports can be accessed online via the WHO project website (WHO Regional Office for Europe, 2022). 
+Urban planning for health – experiences of building resilience in 12 cities
+Second report on protecting environments and health by building urban resilience
+Urban planning, design and management approaches to building resilience – an evidence review
+Third report on protecting environments and health by building urban resilience
+Review of indicator frameworks supporting urban planning for resilience and health
+Third report on protecting environments and health by building urban resilience
+
+[Page 10]
+Urban planning for resilience and health: key messages
+Action needed to build resilience at the local level
+Urban planning and design can play a key role in making cities more prepared for future emergencies, thereby protecting the health of their communities. Urban conditions and design features may have a direct impact in all four phases of emergency and risk management (Fig. 1).
+Fig. 1. The four phases of emergency management
+Sources: the authors, based on Boston University (2021); Horita et al. (2013); FEMA (2006).
+Response is what happens during and right after the event. It consists of protecting life and property through actions such as extinguishing fires, evacuating people, and search and rescue. Urban planning is unlikely to have a direct contribution to emergency response, but urban conditions and design features may affect the distribution of disaster impacts and the corresponding vulnerability of citizens, districts, infrastructures and supply chains. 
+Recovery happens after the emergency and consists of rebuilding and getting “back to normal”. Immediate recovery aims to re-establish a reasonable (though not optimal) functionality as soon as possible, while full recovery takes more time to reach and is likely to include urban planning measures, such as deciding whether certain infrastructures are to be rebuilt as and where they were before, with a different design or functionality, or at a different location.
+Mitigation consists of taking measures to prevent future similar emergencies or to minimize their effects. This may include risk identification, analysis and appraisal; strengthening of regulations, planning and practice; and implementation of technical solutions. From an urban planning perspective, examples of mitigation strategies are the incorporation of risk maps into land-use planning, use of buffer zones and restricted areas, and implementation of nature-based solutions.
+Preparedness happens before an emergency takes place and should address governance, capacities and resources. Examples of preparedness actions are capacity-building, emergency training and early warning tools. 
+Urban preparedness strategies may include provision of independent supply chains and emergency plans for public services and temporary accommodation. 
+It is, however, before a new emergency strikes that local governments (and society in general) should reflect on how to become more resilient to future crises, implementing concrete actions that will provide multiple cobenefits in terms of health, equity and sustainability.
+WHO’s Protecting environments and health by building urban resilience project explored the many opportunities for local decision-makers to prepare for future disasters and extreme events, and to shape urban resilience through urban planning, design and management. The three project reports provide a wide array of urban lessons learned from past experiences with different types of emergencies, as well as suggested tools and actions to prevent future ones. They show the benefits of working proactively to create resilient and healthy cities by considering disaster risk prevention in urban planning and management decisions, and in all related processes. 
+The project’s main findings – across the three reports – suggest that particular benefits could be gained by addressing three distinct and interconnected “Action areas”. These cover administrative and organizational processes; tools, indicators and frameworks; and spatial planning, design and management interventions in the urban and built environment (Fig. 2).
+Emergency management
+R
+E
+C
+O
+V
+E
+R
+Y 
+M
+I
+T
+I
+G
+A
+T
+I
+O
+N
+R
+E
+S
+P
+O
+N
+S
+E 
+P
+R
+E
+P
+A
+R
+E
+D
+N
+E
+S
+S
+D
+U
+R
+I
+N
+G 
+B
+E
+F
+O
+R
+E
+A
+F
+T
+E
+
+[Page 11]
+Summary report on protecting environments and health by building urban resilience
+Fig. 2. Conceptual diagram categorizing the three interconnected Action areas
+Action area A: administrative and organizational processes covers:
+• local cross-sectoral data collection and data sharing;
+• improved communication and collaboration within and beyond local government structures; and
+• establishing institutional and operational capacities.
+Action area B: tools, indicators and frameworks covers:
+• implementing risk assessment and screening methods;
+• using available framework indicators; and
+• aligning with international commitments and agendas that cover preparedness and resilience objectives.
+Action area C: spatial planning, design and management interventions in the built environment covers:
+• creating and complying with land-use and building regulations;
+• promoting opportunities for active urban mobility;
+• increasing and protecting green and blue space and nature-based solutions (NBSs); and
+• promoting and implementing proximity lifestyle paradigms in the city.
+The content and practical relevance of these three Action areas is described in more detail in the following subsections, indicating their contribution to urban preparedness and resilience.
+Action area A: administrative and organizational processes
+Data collection
+This category includes systematic collection, monitoring, analysis, reporting and sharing of relevant local-level data for various urban sectors.
+Challenges to be addressed include the following considerations. Data management and analysis of large amounts of data require sustained investment and human resources, which local governments may not be able to assume. Furthermore, effective data analysis needs to look at various urban dimensions and sectors combined, reflecting potential dependencies and interactions and identifying related vulnerabilities to be tackled. This requires cross-sectoral data sharing and analysis. Lack of data collection, analysis and sharing makes it difficult, for instance, to identify priorities to be tackled, or to define vulnerable groups that would benefit most from certain preparedness actions. It also hinders the use of more specific and innovative urban indicators that may be more relevant to define place-based urban planning and resilience interventions.
+Risk assessment
+Urban indicators
+Institutional capacity
+Communication and collaboration
+Spatial planning, design and management interventions in the built environment
+Data collection
+Action area A: administrative and organizational processes
+Action area B: tools, indicators and frameworks
+Action area C: spatial planning, design and management interventions in the built environment
+• land-use and building regulations
+• active mobility
+• green space and nature-based solutions
+• proximity lifestyle
+International commitments and framework documents
+
+[Page 12]
+Urban planning for resilience and health: key messages
+Solutions suggested are as follows. Having relevant local-level information (such as environmental quality data, predictions of climate change effects, flooding projections and other natural or infrastructural hazard potential) can inform local administrations to improve decision-making processes. It may also feed into forecasting models and early warning systems aimed at mitigating the effects of future hazards. Digitalization has changed the way cities collect, process and utilize information; it also facilitates better modes of sharing and cross-sectoral analysis. Precise and updated mapping of the physical infrastructure, often based on geographical information systems (GISs), has proved a great resource, helping local authorities to respond to emergencies effectively and efficiently, and to work towards preventing them in the future. This could be enhanced through collaboration at the regional and national levels, and by using flexible means of data collection that allow repurposing for specific needs in different emergency situations. Prioritization of the most relevant and usable data can also help cities focus data collection and analysis, thereby optimizing investment and resources, and facilitating their use in indicator frameworks and other risk assessment tools.
+Communication and collaboration
+This category includes improving intersectoral and cross-level communication, city–citizen collaboration and peer-to-peer exchange among cities, enabling them to learn from one another.
+Challenges to be addressed include the following considerations. Difficulty in reaching effective and efficient collaboration and coordination within administrative bodies is often linked to institutional fragmentation (with competencies issues and departments/sectors working in silos). It is also associated with a lack of defined roles and responsibilities among government levels and/or departments, or with differences in internal priorities, visions and capacities. The success of risk mitigation and preparedness efforts often depends on behavioural change by the community, which may not be possible when public engagement and awareness are lacking, when effective administrative and regulatory processes are not in place, and when integration of public participation as part of these processes is insufficient. Most cities do not have defined mechanisms in place to learn from their own experiences in emergency management, or opportunities to learn from experiences in other cities that share similar vulnerabilities and exposure to hazards.
+For environmental health emergencies that have the potential to cross borders and affect other countries, the 
+International Health Regulations provide an overarching legal framework that defines countries’ rights and obligations in handling such events and enabling international collaboration (WHO, 2016).
+Solutions suggested are as follows. Building resilience and including health as a transversal element is about breaking the silos and creating collaborative environments to facilitate a whole-of-government, wholeof-society approach to emergency management and preparedness. This requires institutional innovation, promoting leadership, establishing common visions, and clarifying roles and responsibilities across departments. 
+Mechanisms to improve city–citizen collaboration include reinforcing access to clear and relevant information, enabling participation mechanisms and co-creation/co-development processes with different stakeholders, and being accountable for the longer term. These may enhance public engagement and awareness and personal/ household preparedness, as well as facilitating behavioural change. Peer-to-peer exchange (for example, among flood-prone cities) can often be more relevant than theoretical guidance and standards. In this sense, cities would benefit from stronger mechanisms and platforms for sharing of knowledge, such as through city networks.
+Institutional capacity
+This category includes finding synergies and win–win solutions, creating and ensuring compliance with urban planning and management plans and regulations that consider disaster risk prevention, and providing access to funding and finance for emergency recovery, mitigation and preparedness projects.
+Challenges to be addressed include the following considerations. The capacity of local governments to create and implement strategies and interventions to build resilience can be limited by institutional fragmentation and pressure from apparently conflicting interests. In addition, cities do not always have urban planning and management plans in place that consider disaster risk prevention (and its health and environmental implications); if they do, issues with compliance may also arise. The success of plans and interventions may also be diminished when these do not integrate equity as an equally important outcome. Limited financial resources constrain recovery efforts after disasters, critical infrastructure overhauls and implementation of projects that may require larger initial investments (or higher maintenance costs) but provide multiple long-term health, environmental and disaster risk reduction benefits. In addition, private developers may not always find enough motivation to incorporate resilience measures, as these may require higher building costs and smaller overall built-up areas, thus affecting short-time financial profit.
+Solutions suggested are as follows. Defining priorities and common visions across sectors, departments and government levels that account for health benefits can contribute to developing urban planning, design and management plans that consider disaster risk prevention and simultaneously align with other needs and goals of the city. In particular, taking into account the sustainability as well as the health and equity implications of decisions can avoid harmful impacts and systematic exclusion of vulnerable groups from resilience interventions.
+
+[Page 13]
+Summary report on protecting environments and health by building urban resilience
+Mechanisms to ensure implementation and compliance of such plans should also be put in place (for example, through increased inspection efforts). Cities can also develop innovative financing mechanisms to encourage sustainable development, health and resilience in urban development and regeneration projects by the private sector (for example, through eco-labelling or financial incentives and disincentives).
+Action area B: tools, indicators and frameworks
+Risk assessment
+This category includes creating awareness of local vulnerabilities, assessing health and environmental risks associated with different types of hazards, and considering their potential cascading effects.
+Challenges to be addressed include the following considerations. Some emergency events, like industrial or technical disasters, cannot be predicted. Others cannot be predicted early or well enough for sufficient preparedness, as with earthquakes or flash floods. Forecasting systems can predict events such as storms or heatwaves to some extent, but these forecasts are usually not specific enough; nor do they consider local-level characteristics that might make certain cities or neighbourhoods especially vulnerable. Cascading effects of different hazards (such as a storm causing an energy outage) often amplify the health impacts and can delay recovery significantly. Identifying interdependencies among critical infrastructure in different scenarios can be challenging, however, and creating the means to mitigate or avoid them can entail large financial investments (especially with pre-existing infrastructure). Risk analysis and assessment methods and tools are also often limited in terms of factoring in socioenvironmental vulnerability, or reaching quantification of potential effects of different scenarios on an urban environment.
+Solutions suggested are as follows. Improving forecasting and early warning systems, with as much specificity at the local level as possible, can be critical to avoid or mitigate the effects of several hazard types. Scenariowise thinking – considering hazards occurring simultaneously and cascading effects – and identifying potential dependencies of critical infrastructure systems (such as energy, communications and mobility) can also be critical to remaining functional during an emergency and significantly reducing the impacts (on health, environment and the economy) of different hazards. The scientific literature provides several risk analysis and assessment tools (both disaster-specific and, especially, using an all-hazards approach, with GIS and risk factor maps) to predict different scenarios. Their use by cities could help to identify vulnerabilities, increase risk awareness, support preparedness and assist with setting priorities for resilient and sustainable urban infrastructure and planning interventions.
+Urban indicators
+This category includes using indicator frameworks to highlight priorities in planning for health and resilience and to bridge the gap between data and policy.
+Challenges to be addressed include the following considerations. Existing and publicly available urban indicator frameworks can highlight priorities in planning for health and resilience in cities to a certain degree. Nevertheless, one indicator framework alone is not able to encapsulate all aspects of building resilience through urban management and planning, and there is a general need for more detail and concretion in health-oriented and riskoriented planning indicators for urban settings. Applicability at the local level can be limited by a lack of specificity of universal indicators to the city characteristics, or by local administrations and stakeholders encountering difficulties in collecting or accessing disaggregated data.
+Solutions suggested are as follows. The use of relevant local-level indicators can bridge the gap between data and policy. While existing available frameworks will not be able separately to encapsulate all aspects of building resilience through urban management and planning, they can complement each other to provide an idea of the systemic vulnerabilities of the city, and to reflect on risk trends and interventions. It is necessary to think carefully about what indicators are needed and for what purpose, being conscious of the dynamic nature of data; frameworks need to be well designed and understandable. In this sense, rather than using preset indicators in existing urban indicator frameworks, local implementation could be enhanced by considering the overall approach and target that the framework wants to achieve instead. From that standpoint, local and tailored indicators that would be measurable and useful for the city can be designed.
+
+[Page 14]
+Urban planning for resilience and health: key messages
+International commitments and framework documents
+This category includes aligning with international sustainability, climate change and resilience agendas, and embedding their principles in local policy and action.
+Challenges to be addressed include the following considerations. The literature review found multiple references to the climate-related challenges of growing urbanization and the general call to mitigate greenhouse gases in urban areas. It found few references to international framework documents, however, and very few examples of local plans, strategies and actions being explicitly linked to their principles. 
+The abundant (and growing) literature focused on the benefits of green infrastructure and NBSs seems to include many of the principles of recent international agendas, but often without explicitly referencing them. The case study cities showed that international framework documents – such as the Paris Agreement, the Sustainable Development Goals (SDGs) and the Sendai Framework for Disaster Risk Reduction 2015–
+2030 – were mostly used as strategic frameworks at higher government levels rather than as technical guidance documents. They were therefore not embedded in local-level practical guidance. Cities seemed to be most familiar with the SDGs (and were in some cases using them in their plans and actions), while the Paris Agreement was known but generally not used at the local level, and the Sendai Framework was seldom known or used except in departments specifically focused on resilience. With the increasing specificity of the frameworks, streamlining across municipality departments seems to decrease, and awareness is mostly limited to specific relevant sections. The report on framework indicators also pointed to difficulties in implementing these frameworks and certain indicators at the local level. In general, successful implementation of these agendas requires thinking across silos, which can be a challenge for local governments organized according to strict territorial jurisdictions and sectors/departments.
+Solutions suggested are as follows. Internationally agreed agendas can be drivers of resilient planning and serve as common and shared objectives at all levels of government. Various recent international agreements and frameworks help to consolidate a change towards stronger links between health and urban development and mark a shift from the former notion of health as limited to provision of health services. Adhering to the principles of the Sendai Framework, Paris Agreement, SDGs (particularly SDG 11 on sustainable cities and communities and SDG 3 on good health and well-being) and New Urban Agenda could help to reframe resilience in cities by bringing sustainability, climate change and disaster risk reduction together. The project’s findings suggest that, while these international frameworks and commitments can play an important supportive role and provide policy context to reorient urban planning schemes, practical guidance and broader positioning may be necessary to make them applicable and relevant at the local scale and across all sectors of local government. Institutional innovation, leadership and improved communication and collaboration among government sectors and levels could together provide a more favourable environment for these principles to be embedded in local policy and action.
+Action area C: spatial planning, design and management interventions in the built environment
+Land-use and building regulations
+This category includes reducing risk exposure by creating and complying with risk-informed land-use and building regulations.
+Challenges to be addressed include the following considerations. Risk-informed land-use planning requires incorporation of up-to-date hazard maps and predictions relevant to local-level characteristics in the planning process, which may not be available for cities. In addition, development pressure (especially in compact, growing cities) can challenge preventive approaches such as buffer zones or protection of environmental resources. Compliance with regulations might also be reduced by lack of public and private sector awareness or other socioeconomic factors (leading, for example, to development of informal settlements in flood-risk areas), while participatory processes often exclude the most vulnerable population groups. Infrastructure design does not always consider flexibility and redundancy of key services in case of emergency, often requiring additional financial investment (especially if not considered from the design phase). Older and/or lower-quality buildings are usually less resistant to strong winds and seismic events, fires and water damage. Strengthening existing building stock entails significant public and private resources and financial investment, which might not be available for local governments and households.
+Solutions suggested are as follows. Cities should be able to access up-to-date hazard maps and predictions to inform preventive approaches in local land-use planning – for example, defining buffer zones and riskprone areas where future urban development is to be avoided, or critical infrastructure and functions
+
+[Page 15]
+Summary report on protecting environments and health by building urban resilience should not be sited (including potential relocation of critical infrastructure already present in such riskprone areas). Collaboration with higher government levels and other key stakeholders (such as research institutes and universities) could contribute to providing the required knowledge and information. Flexibility and redundancy of critical infrastructure, as well as more stringent standards for structural resistance and climate resilience of buildings, should be considered from the design phase when possible, or retrofitted in pre-existing structures. Compliance with regulations can be enhanced by increased inspections and use of incentives and disincentives. Public authorities should also make relevant information available to the community to promote personal and household preparedness measures. Participatory planning should involve different population groups, especially vulnerable ones, to understand their needs and potentially to increase risk awareness and compliance with regulations.
+Active mobility
+This category includes promoting opportunities and establishing infrastructure for public transportation and (especially) active urban mobility across the city, and reducing private vehicle dependency.
+Challenges to be addressed include the following considerations. Active mobility systems are generally easier to implement (and more likely to succeed) in compact cities than in dispersed ones, meaning that the level of investment and success of such programmes in cities may strongly depend on their preexisting urban model characteristics. In addition, in many cities where the urban centre is especially attractive (and more expensive) to live in, vulnerable groups may be pushed to the periphery and therefore have greater difficulty in accessing and benefiting from active mobility interventions, further exacerbating pendular movements and pre-existing inequalities. Active mobility programmes also rely heavily on public perception, engagement and behavioural change. If these dimensions are not considered as key components of project design and implementation, predicted benefits may be significantly reduced. In this sense, the project’s findings show some concern about potential long-lasting negative attitudes towards public transportation and preferences for individual travel modes as a result of the COVID-19 experience.
+Solutions suggested are as follows. Promoting access to multiple modes of transportation throughout the city (especially cycle paths and pedestrianized routes) can have risk-reduction benefits for several hazard types, along with health, environmental and equity co-benefits – especially in vulnerable neighbourhoods. In this sense, co-creation and co-development processes that involve such population groups can provide relevant information about their needs and preferences, and can contribute to increased acceptance and motivation for behavioural change, increasing the overall success of these interventions. Active mobility can be further enhanced by, for example, encouraging bike-sharing programmes and assessing their use. Cities may also use tactical urbanism and street redesign (such as widening sidewalks and greening strategies) to promote walkability, reduce noise and air pollution, and create safer and healthier environments for vulnerable groups (such as children and elderly people) and for the community in general.
+Green and blue space and NBSs
+This category includes increasing the amount of (and protecting existing) green and blue space and NBSs in cities.
+Challenges to be addressed include the following considerations. Difficulty in implementing green and blue infrastructure and NBSs may derive from governance issues mentioned in previous sections, such as a lack of financial resources at the local level (related not just to construction costs but also to long-term maintenance), difficulty in setting priorities against other needs and pressures, and lack of public acceptance of (and engagement in) such projects. For instance, compact cities might have higher development pressure, which could hinder implementation of more natural space or protection of existing green and blue space. A lack of risk awareness, technical knowledge and practical examples (such as those from other cities with similar characteristics and vulnerabilities) could also become an obstacle to implementing such interventions (in both the public and private sector). In general, vulnerable neighbourhoods have less access to green and blue spaces, further exacerbating environmental and health inequalities.
+Solutions suggested are as follows. Protecting and promoting urban green and blue space and NBSs has multiple mitigation and preparedness benefits for all emergency types. For instance, especially in compact, impervious and vulnerable neighbourhoods, NBSs can contribute to mitigating heat and managing surface water. Furthermore, green and blue infrastructure together can have synergistic cooling and ecosystem services benefits. Green spaces and NBSs should therefore be promoted across the city, especially in vulnerable neighbourhoods. Public authorities can provide helpful examples for the private sector (for example, through public green infrastructure and NBS projects). They can also establish mandatory minimum green space ratios in local planning regulations (including for residential gardens and other private open areas such as parks) or regulate the ratio of cool roofs, green roofs and walls.
+
+[Page 16]
+Urban planning for resilience and health: key messages
+Proximity lifestyle
+This category includes promoting and implementing proximity lifestyle paradigms in the city.
+Challenges to be addressed include the following considerations. Cities often present inequalities in access to services and public spaces: it is often the most vulnerable groups who suffer from less access to green spaces and public transportation options, for instance. This became especially clear during the confinements and restrictions required during the COVID-19 pandemic. This experience also raised concern about potential longlasting dynamics, such as the boom in second-home real estate that is likely to increase investment in suburban developments, consequently increasing reliance on private vehicles and increasing the risk of urban sprawl (where, for example, active mobility programmes are less likely to succeed). A proximity lifestyle entails effectively distributing services throughout cities. This model does not necessarily match the traditional urban morphology of downtowns, however, where most services and public transportation lines are concentrated and pass through the city centre, generating recurrent pendular movements and hindering urban functionalities.
+Solutions suggested are as follows. In general, the project’s findings show that promoting adequate levels of urban compactness, with sufficient open and green space, mixed use and access to basic services (such as green space and public transportation at a walkable or cyclable distance) yields multiple benefits in terms of health, well-being, environment and equity. Such conditions can also make cities more resilient to hazards and less dependent on external factors. For these reasons, cities should consider the spatial distribution of infrastructure and services – particularly in vulnerable neighbourhoods. This might require creating secondary transportation and service hubs in the urban fringe to distribute services better and ease congestion downtown. 
+Local production and supply can be strengthened through use and promotion of local markets, modifying the production and supply chain to support local producers and reducing dependency on imported goods. Practical examples of proximity lifestyle projects implemented in cities (such as the 15-minute city model in Paris or the “superblock” in Barcelona) can be particularly useful for other local governments to consider and tailor to the specificities of each city and context.
+Fig. 3 sets out a synthesis of the elements and actions included in the three Action areas.
+
+[Page 17]
+Summary report on protecting environments and health by building urban resilience
+Fig. 3. Elements needed to build resilience at the local level, by action area
+Data collection
+Collecting and sharing data from past emergency experiences for evaluation of impacts and management
+Systematically collecting and sharing local-level data on urban environmental quality (e.g. air, water, soil, noise)
+Collecting and sharing data on local building stock and critical infrastructure (e.g. water and energy supply, road network)
+Disaggregating and sharing data on vulnerable groups at the neighbourhood or district levels
+Collecting, sharing and processing data on use and behaviour (regarding public and green space, public transportation and similar) 
+Communication and collaboration
+Improving and innovating city–citizen communication through consultation and participation mechanisms, and co-creation/co-development processes for better public perception, accountability, engagement and awareness
+Opening access to information to increase transparency and autonomous preparedness/ adaptation to risks
+Improving and promoting collaboration between sectors and departments across local government
+Improving and promoting communication and collaboration with higher levels of government (regional and national)
+Promoting peer learning and exchange among cities – nationally and internationally (e.g. through city networks)
+Promoting leadership within local government through clarification of roles and responsibilities (e.g. in climate change) across urban planning, health and emergency-related departments 
+Institutional capacity
+Defining priorities and common visions across sectors, departments and government levels
+Developing emergency plans and protocols addressing all phases of emergency management (response, recovery, mitigation and preparedness) and mechanisms to ensure implementation and compliance
+Creating and implementing urban planning and building regulations that consider disaster risk prevention
+Developing innovative financing mechanisms to encourage sustainable development, health and resilience in urban development and regeneration projects
+Developing learning mechanisms (e.g. evaluation of management during past events, peer learning and exchange among cities, emergency drills) 
+Administrative and organizational processes
+Action area
+
+[Page 18]
+Urban planning for resilience and health: key messages
+Risk assessment
+Improving forecasting and early warning systems with as much specificity at the local level as possible
+Evaluating health and environmental risks, as well as socioeconomic impacts derived from different crises/disasters, based on past experience and/or predictive models
+Considering potential cascading effects derived from emergencies and identifying critical infrastructure to be kept functional during an emergency
+Using risk analysis and assessment tools (both disaster-specific and with an all-hazards approach, using GIS and risk factor maps) to predict different scenarios 
+Urban indicators
+Developing innovative indicators that are measurable and actionable at the local level
+Reinforcing the presence of environmental quality and biodiversity indicators in existing and new frameworks
+Considering how different indicator frameworks can serve varying purposes, and how they may complement each other
+Promoting public availability of indicator frameworks for cities to be able to apply them independently 
+International commitments and frameworks
+Committing to reducing greenhouse gas emissions significantly in a set timeframe
+Evaluating local compliance with the SDGs
+Using international framework documents and commitments to reorient urban planning schemes and support emergency preparedness policy (including climate change mitigation and adaptation policy)
+Embedding the central claims and principles of international framework documents in locallevel practical guidance 
+Fig. 3 contd
+Tools, indicators and frameworks
+Action area
+
+[Page 19]
+Summary report on protecting environments and health by building urban resilience
+Land-use and building regulations
+Using preventive approaches in land-use planning to reduce risk exposure (e.g. buffer zones, risk maps to avoid development in risk-prone areas, siting restrictions for critical infrastructure)
+Creating and applying regulations to control development pressure, protect environmental resources and provide safe open areas for evacuation
+Promoting participatory planning processes with cross-sectoral, cross-professional and interactive designs to enhance social acceptance and cohesion
+Strengthening building regulations to make building stock more resistant to strong winds, seismic events, fires and water damage
+Improving infrastructure design, including flexibility and redundancy for key services (e.g. power systems) 
+Active mobility
+Creating and reinforcing active transport infrastructure for different types of vehicles and users (particularly cycle paths and pedestrianized routes)
+Promoting access to multiple modes of active transportation throughout the city, especially in vulnerable neighbourhoods
+Encouraging bike-sharing programmes and assessing their use
+Considering tactical urbanism and street redesign (e.g. widening sidewalks, greening strategies) to promote walkability, reduce noise and air pollution, and create safe environments for vulnerable groups 
+Green and blue space and NBSs
+Promoting urban greening across the city, especially in vulnerable neighbourhoods
+Implementing NBSs to manage surface water (e.g. stormwater parks, retention ponds, rainwater harvesting and permeable pavements)
+Implementing NBSs to mitigate the urban heat island effect, especially in compact and vulnerable neighbourhoods (e.g. urban tree canopy, permeable surfaces such as green roofs and walls)
+Employing green and blue infrastructure together for its synergistic cooling and ecosystem services benefits 
+Proximity lifestyle
+Promoting compactness, land-use mix (including mixed-income housing) and connectivity throughout the city
+Ensuring local access to basic services (e.g. green space, public transportation) through equitable distribution across the city, especially considering vulnerable neighbourhoods
+Implementing proximity lifestyle paradigms such as “the 15-minute city” or the “superblock” to reconcile urban compactness with quality of life 
+Fig. 3 contd
+Spatial planning, design and management interventions in the built environment
+Action area
+
+[Page 20]
+Urban planning for resilience and health: key messages
+Current gaps and challenges that hinder local action to make cities more resilient
+WHO’s Protecting environments and health by building urban resilience project, through its three project reports, shows that strong motivation exists to learn from past experiences and apply more healthy and sustainable approaches – especially regarding the increasing frequency of climate-related hazards in urban areas. The project also identified, however, a number of gaps and challenges that hinder local action to make cities more resilient (and thereby to protect health).
+One important gap is the lack of specific mechanisms in local government to learn from past experiences and to share this knowledge with other cities. Considering the many city networks, international conferences and forums that aim to share experiences and promote collective learning on urban issues among cities, it seems that significant opportunities in utilizing urban networks and exchanges to support local planning could be available – whether with a focus on resilience and preparedness or to promote sustainable and healthy cities overall. 
+In general, larger cities in developed countries are ahead in terms of emergency preparedness and resilience strategies; they have more available resources (including data), greater knowledge capacity, and more mitigation and adaptation plans in place. They also face more complex urban systems and higher risks of certain hazards such as extreme heat, however, and they often have larger disparities and inequity rates among neighbourhoods. 
+Further focus should be placed on growing, medium-sized cities, which have the opportunity to integrate healthy and resilient strategies and to take advantage of the lessons learned from other cities (such as adaptation to climate change) into their ongoing development processes.
+Lessons learned from past disasters suggest that the application of urban planning regulations can prevent or reduce risks and contribute to urban preparedness and resilience. Based on mapping of urban areas and their vulnerabilities, risk-informed planning offers a variety of established approaches and instruments. These include defining buffer zones or vulnerable areas where no future urban development should be planned and from where certain functions and critical infrastructure should be removed, careful siting of infrastructure and critical functions, and regulations requiring sound design and stability of infrastructure. All these approaches can be enforced through establishment and stringent implementation of regulations, and compliance with such regulations can be enhanced by increased inspections and use of planning incentives and disincentives.
+Another gap identified is in the implementation of indicator frameworks. Several frameworks with different scopes, strengths and weaknesses are available; these can be used to complement each other. In general, however, they seem to lack local-level applicability, often due to the challenge of collecting relevant locallevel, disaggregated data. More detail and concretion in health-oriented and risk-oriented planning indicators for urban settings are also needed. The use of indicators should serve a purpose, and they should often be redesigned and tailored to be particularly useful for the city; hence the importance of setting priorities and common visions, and aligning with international commitments and frameworks. The evidence review and the city interview report illustrate how this is more developed regarding climate change mitigation strategies and in consideration of the SDGs, but less so in terms of disaster risk reduction.
+Embedding international commitments and framework documents in local policy and action could offer a different perspective on the way cities frame resilience, bringing sustainability, climate change, health and disaster risk reduction together. It could also contribute to building a common vision and to learning from other cities, as they share common elements and parameters. This is still incipient, however, and probably requires further institutional innovation and city–citizen collaboration to be enabled. Practice guidance and broader positioning of the international agreements (and their associated indicators and measurements) to make them applicable and relevant at the local scale and across all sectors of local government are also required. Better operationalization of international commitments (such as the SDGs, Paris Agreement, Sendai Framework and New Urban Agenda) to serve and support local needs and conditions would therefore be an useful step to translate such commitments into local policies. This would also enable action on more sustainable and resilient communities – for example, for SDG implementation, cities have the opportunity to develop “voluntary local reviews”.
+Overall, there is still a long way to go to integrate health and urban planning to build better futures. Focus does seem to be growing on mechanisms to promote health and well-being by supporting healthy and active urban lifestyles and enabling good quality of life (in line with the Health in all policies approach1), rather than an emphasis on health care and treatment, especially as such a health system competency is generally held by regional or national rather than local authorities. In this sense, local and national governance issues still need to be resolved, as budgets and mechanisms for health-related interventions are often set at the national level, and cities see little economic return or gain at the local level from investing in healthy conditions. On the other hand, more work needs to be done to include and assess health co-benefits of risk-oriented urban planning interventions and the related cost saving or offsetting systematically – a finding that is valid for urban planning in general, as well as for urban resilience and preparedness.
+1 Health in all policies is the policy practice of including, integrating or internalizing health in policies of non-health sectors. See, for example, 
+McQueen et al. (2012).
+
+[Page 21]
+Summary report on protecting environments and health by building urban resilience
+Growing interest in urban planning and design mechanisms to promote health and well-being is especially illustrated by the abundance of references to climate-related events and the protective role of green infrastructure and NBSs in urban settings throughout the three project reports. Equity and inclusiveness still need to be integrated further into design and implementation of strategies to build resilience to avoid systematic exclusion of (and further health burden on) vulnerable groups, however. When synergies among strategies are found (by adopting an all-hazards approach) and unwanted consequences are controlled, resilient planning and preparedness for emergencies and disasters can make for better cities in general. If this is strategically planned and designed to benefit the entire population, the health benefits will be both greater and more equitable.
+Syntheses for local policy-makers and urban planners
+Policy-makers are responsible for translating urban commitments and evidence-based data into plans, policies and regulations through priority-setting and decision-making processes. Factors influencing these processes include data availability, national commitments, government structures and capacities at the local level, and funding allocation and restrictions. 
+Policy-makers play a significant role in the administrative and organizational processes within local administrations (Action area A), as well as in the definition and development of indicators and frameworks that can support and guide decision-making (Action area B). They are also key actors in controlling development pressure and protecting environmental resources, creating and modifying land-use and building regulations to strengthen risk prevention, and establishing mechanisms to ensure compliance (Action area C).
+Urban planners and practitioners are responsible for shaping the physical environment of cities. They are used to envisaging future urban needs and dynamics, and to working with a variety of stakeholders and sectors. Planners and practitioners can thus provide instrumental input on how to implement disaster risk reduction strategies practically (and successfully) by finding co-benefits and synergies within the complexity of urban systems.
+Urban planners and practitioners can benefit from improved administrative and organizational processes (Action area A) – particularly access to relevant data and participation in decision-making processes. They can also use and participate in the definition and development of indicators and frameworks that can reorient, support and guide plans and interventions (Action area B). Where they can be most influential, however, is in the design and implementation of concrete urban planning, design and management strategies and actions (often through participatory processes) that consider disaster risk reduction and protect health in cities (Action area C).
+Key messages 1–3 on policy-making for urban resilience and health
+Key messages 1–3 were derived for policy-makers from WHO’s Protecting environments and health by building urban resilience project findings. They relate to governance needs to support and enhance urban preparedness with the goal of creating better, healthier and more resilient cities.
+Key messages 4–6 on resilient and sustainable urban planning for health
+Key messages 4–6 were derived for urban planners and practitioners from the project findings. They relate to local planning and design interventions that could be instrumental in improving urban preparedness, resilience and health in cities.
+
+[Page 22]
+Urban planning for resilience and health: key messages
+Key message 1 Policy-makers should use relevant data and tools to enhance risk-informed decision-making and address inequality.
+Policy-makers can engage with research to prioritize the most relevant and useful data to focus collection and analysis requirements (identifying the city’s most likely environmental threats or hazards). Investment in and resources for purposeful use of this data in indicator frameworks and other risk assessment tools should be optimized. Data on vulnerable groups – disaggregated to the neighbourhood level – are not usually available, despite their relevance in targeting interventions and predicting potential outcomes (including health and equity benefits); policy-makers should therefore also promote collection and analysis of such information. These actions could result in stronger land-use and building regulations using preventive approaches, promotion of urban greening and NBSs, and more equitable distribution and access to basic services across the city.
+Fig. 4 sets out the elements of the three Action areas (see Fig. 3 for the full list) that are involved in key message 1..
+
+[Page 23]
+Summary report on protecting environments and health by building urban resilience
+Fig. 4. Action area elements involved in key message 1 n  Collecting and sharing data from past emergency experiences for evaluation of impacts and management n  Systematically collecting and sharing local-level data on urban environmental quality (e.g. air, water, soil, noise) n  Collecting and sharing data on local building stock and critical infrastructure (e.g. water and energy supply, road network) n  Disaggregating and sharing data on vulnerable groups at the neighbourhood or district levels n  Collecting, sharing and processing data on use and behaviour (regarding public and green space, public transportation and similar) n  Evaluating health and environmental risks, as well as socioeconomic impacts derived from different crises/disasters, based on past experience and/or predictive models n  Considering potential cascading effects derived from emergencies and identifying critical infrastructure to be kept functional during an emergency n  Improving forecasting and early warning systems with as much specificity at the local level as possible n  Using risk analysis and assessment tools (both disaster-specific and with an all-hazards approach, using GIS and risk factor maps) to predict different scenarios n  Developing innovative indicators that are measurable and actionable at the local level n  Reinforcing the presence of environmental quality and biodiversity indicators in existing and new frameworks n  Considering how different indicator frameworks can serve varying purposes, and how they may complement each other n  Creating and applying regulations to control development pressure, protect environmental resources and provide safe open areas for evacuation n  Strengthening building regulations to make building stock more resistant to strong winds, seismic events, fires and water damage n  Promoting urban greening across the city, especially in vulnerable neighbourhoods n  Ensuring local access to basic services (e.g. green space, public transportation) through equitable distribution across the city, especially considering vulnerable neighbourhoods
+Action area A
+Administrative and organizational processes
+Action area B
+Tools, indicators and frameworks
+Action area C
+Spatial planning, design and management interventions in the built environment
+
+[Page 24]
+Urban planning for resilience and health: key messages
+Key message 2 Policy-makers should strengthen community involvement and engagement in urban interventions through participatory planning, improved transparency and long-term accountability.
+The success of risk mitigation and preparedness efforts in cities often depends on behavioural change by the community. Community involvement can be strengthened through participation and consultation mechanisms, facilitating collection of inputs on the aspirations, concerns and priorities of different groups and stakeholders. Co-creation and co-development processes, alongside innovative financing mechanisms for implementation, can further strengthen community engagement in projects. 
+Providing open access to relevant data and indicators may also enhance transparency and could improve public perception and risk awareness. Committing to compliance with international agendas and setting specific goals in a fixed time frame not only brings together different stakeholders to work towards a common goal but also makes local government departments more accountable for their actions.
+Fig. 5 sets out the elements of the three action areas (see Fig. 3 for the full list) that are involved in key message 2.
+
+[Page 25]
+Summary report on protecting environments and health by building urban resilience
+Fig. 5. Action area elements involved in key message 2 n  Collecting, sharing and processing data on use and behaviour (regarding public and green space, public transportation and similar) n  Improving and innovating city–citizen communication through consultation and participation mechanisms, and co-creation/co-development processes for better public perception, accountability, engagement and awareness n  Opening access to information to increase transparency and autonomous preparedness/ adaptation to risks n  Developing innovative financing mechanisms to encourage sustainable development, health and resilience in urban development and regeneration projects n  Promoting public availability of indicator frameworks for cities to be able to apply them independently n  Committing to reducing greenhouse gas emissions significantly in a set timeframe n  Evaluating local compliance with the SDGs n  Promoting participatory planning processes with cross-sectoral, cross-professional and interactive designs to enhance social acceptance and cohesion n  Encouraging bike-sharing programmes and assessing their use n  Implementing proximity lifestyle paradigms such as “the 15-minute city” or the “superblock” to reconcile urban compactness with quality of life.
+Action area A
+Administrative and organizational processes
+Action area B
+Tools, indicators and frameworks
+Action area C
+Spatial planning, design and management interventions in the built environment
+
+[Page 26]
+Urban planning for resilience and health: key messages
+Key message 3 Policy-makers should apply institutional innovation by breaking down silos, establishing common goals, improving learning mechanisms and enabling a wholeof-government approach to emergency management and preparedness.
+Improving government intersectoral and cross-level communication and collaboration can facilitate efforts to break down silos and find synergies. It can also promote leadership and clarify roles and responsibilities when facing complex, cross-boundary emergencies. 
+Alongside implementation of framework indicators and alignment with international commitments, improved communication and collaboration can also help establish common priorities and visions across sectors and departments This may aid creation of more holistic disaster risk prevention plans and regulations, which should be complemented with development of learning mechanisms (from past events and from other cities). Such actions may result in stronger preventive land-use and building regulations, or public transport connectivity and urban greening projects that particularly consider the health and equity benefits for vulnerable groups and neighbourhoods.
+Fig. 6 sets out the elements of the three Action areas (see Fig. 3 for the full list) that are involved in key message 3.
+
+[Page 27]
+Summary report on protecting environments and health by building urban resilience
+Fig. 6. Action area elements involved in key message 3 n  Improving and promoting collaboration between sectors and departments across local government n  Improving and promoting communication and collaboration with higher levels of government (regional and national) n  Promoting leadership within local government through clarification of roles and responsibilities (e.g. in climate change) across urban planning, health and emergency- related departments n  Defining priorities and common visions across sectors, departments and government levels n  Developing learning mechanisms (e.g. evaluation of management during past events, peer learning and exchange among cities, emergency drills) n  Evaluating health and environmental risks, as well as socioeconomic impacts derived from different crises/disasters, based on past experience and/or predictive models n  Considering potential cascading effects derived from emergencies and identifying critical infrastructure to be kept functional during an emergency n  Developing innovative indicators that are measurable and actionable at the local level n  Using international framework documents and commitments to reorient urban planning schemes and support emergency preparedness policy (including climate change mitigation and adaptation policy) n  Embedding the central claims and principles of international framework documents in local-level practical guidance n  Creating and applying regulations to control development pressure, protect environmental resources and provide safe open areas for evacuation n  Strengthening building regulations to make building stock more resistant to strong winds, seismic events, fires and water damage n  Improving infrastructure design, including flexibility and redundancy for key services (e.g. power systems) n  Promoting access to multiple modes of active transportation throughout the city, especially in vulnerable neighbourhoods n  Promoting urban greening across the city, especially in vulnerable neighbourhoods
+Action area A
+Administrative and organizational processes
+Action area B
+Tools, indicators and frameworks
+Action area C
+Spatial planning, design and management interventions in the built environment
+
+[Page 28]
+Urban planning for resilience and health: key messages
+Key message 4 Urban planners and practitioners should establish and implement land-use, building and infrastructure planning and regulations with a preventive approach to protect health.
+Urban planners have the mandate to implement risk-informed land-use regulations to create sustainable, health-promoting and resilient urban environments. Risk-informed land-use planning can use buffer zones, protect and enhance existing infrastructure that contributes to resilience, and design careful siting of infrastructure and critical functions. Improved building regulations can improve structural resistance to strong winds, seismic events, fires and water damage, protecting lives and property under several emergency scenarios. 
+Infrastructure design can be improved by considering future predictions and mitigating potential cascading effects of emergencies through more flexible systems with inbuilt redundancies. For such actions to be better informed and targeted, availability of relevant local-level data is crucial. Risk analyses and assessments, consideration of cascading effects and evaluation of multiple potential impacts (health, environmental and socioeconomic) can also be areas where practitioners can participate and translate their findings into more risk-informed strategies and actions.
+Fig. 7 sets out the elements of the three Action areas (see Fig. 3 for the full list) that are involved in key message 4.
+
+[Page 29]
+Summary report on protecting environments and health by building urban resilience
+Fig. 7. Action area elements involved in key message 4 n  Collecting and sharing data on local building stock and critical infrastructure (e.g. water and energy supply, road network) n  Disaggregating and sharing data on vulnerable groups at the neighbourhood or district levels n  Improving and innovating city–citizen communication through consultation and participation mechanisms, and co-creation/co-development processes for better public perception, accountability, engagement and awareness n  Creating and implementing urban planning and building regulations that consider disaster risk prevention n  Evaluating health and environmental risks, as well as socioeconomic impacts derived from different crises/disasters, based on past experience and/or predictive models n  Considering potential cascading effects derived from emergencies and identifying critical infrastructure to be kept functional during an emergency n  Using risk analysis and assessment tools (both disaster-specific and with an all-hazards approach, using GIS and risk factor maps) to predict different scenarios n  Using preventive approaches in land-use planning to reduce risk exposure (e.g. buffer zones, risk maps to avoid development in risk-prone areas, siting restrictions for critical infrastructure) n  Promoting participatory planning processes with cross-sectoral, cross-professional and interactive designs to enhance social acceptance and cohesion n  Strengthening building regulations to make building stock more resistant to strong winds, seismic events, fires and water damage n  Improving infrastructure design, including flexibility and redundancy for key services (e.g. power systems)
+Action area A
+Administrative and organizational processes
+Action area B
+Tools, indicators and frameworks
+Action area C
+Spatial planning, design and management interventions in the built environment
+
+[Page 30]
+Urban planning for resilience and health: key messages
+Key message 5 Urban planners and practitioners should promote compactness, land-use mix and connectivity throughout the city to help create more healthy and equitable proximity lifestyles and reduced dependencies.
+Compact urban models reduce demand for land and entail less infrastructure development. They are also more likely to have higher levels of landuse mix than urban sprawl models. Compactness can be reconciled with quality of life when coupled with sufficient and well distributed green and open space, NBSs for flooding protection and heat mitigation, and equitable access to basic services. These lay the grounds for more active, healthy, resilient and equitable proximity lifestyles. Tactical urbanism and street redesign can contribute to this goal by promoting walkability, reducing noise and air pollution, and creating a safer and healthier environment for vulnerable groups. The planning and design of such actions should be based on relevant data. It can be further guided by use of measurable, local-level indicators and principles/ commitments found in international framework documents on climate change, sustainable development and disaster risk prevention. International documents and city networks may also provide case study examples adaptable to other local contexts.
+Fig. 8 sets out the elements of the three Action areas (see Fig. 3 for the full list) that are involved in key message 5.
+
+[Page 31]
+Summary report on protecting environments and health by building urban resilience
+Fig. 8. Action area elements involved in key message 5 n  Disaggregating and sharing data on vulnerable groups at the neighbourhood or district levels n  Collecting, sharing and processing data on use and behaviour (regarding public and green space, public transportation and similar) n  Promoting peer learning and exchange among cities – nationally and internationally (e.g. through city networks) n  Evaluating health and environmental risks, as well as socioeconomic impacts derived from different crises/disasters, based on past experience and/or predictive models n  Developing innovative indicators that are measurable and actionable at the local level n  Using international framework documents and commitments to reorient urban planning schemes and support emergency preparedness policy (including climate change mitigation and adaptation policy) n  Creating and reinforcing active transport infrastructure for different types of vehicles and users (particularly cycle paths and pedestrianized routes) n  Considering tactical urbanism and street redesign (e.g. widening sidewalks, greening strategies) to promote walkability, reduce noise and air pollution, and create safe environments for vulnerable groups n  Promoting urban greening across the city, especially in vulnerable neighbourhoods n  Promoting compactness, land-use mix (including mixed-income housing) and connectivity throughout the city n  Ensuring local access to basic services (e.g. green space, public transportation) through equitable distribution across the city, especially considering vulnerable neighbourhoods n  Implementing proximity lifestyle paradigms such as “the 15-minute city” or the “superblock” to reconcile urban compactness with quality of life
+Action area A
+Administrative and organizational processes
+Action area B
+Tools, indicators and frameworks
+Action area C
+Spatial planning, design and management interventions in the built environment
+
+[Page 32]
+Urban planning for resilience and health: key messages
+Key message 6 Urban planners and practitioners should use green and blue spaces and NBSs strategically and synergistically in urban environments to build resilience and protect health.
+Urban green and blue infrastructure contributes to heat mitigation and water management, complementing and enhancing pre-existing grey infrastructure, improving environmental quality, providing space for recreation, and protecting health overall. NBSs can be applied from the building scale (for example, in green roofs and walls) to the neighbourhood scale (such as parks and urban tree canopy) and the landscape scale (including wetlands and waterfront renaturing). 
+They should be targeted especially towards vulnerable neighbourhoods, which tend to have more impervious surfaces and less access to green space in general. The planning and design of such urban greening actions should be based on available data on environmental quality, neighbourhood characteristics, use and behaviour towards green space, and opportunities for urban greening on private land. Development of innovative indicators can further orient implementation efforts, alongside technical knowledge and examples provided by international guides.
+Fig. 9 sets out the elements of the three Action areas (see Fig. 3 for the full list) that are involved in key message 6.
+
+[Page 33]
+Summary report on protecting environments and health by building urban resilience
+Fig. 9. Action area elements involved in key message 6 n  Systematically collecting and sharing local-level data on urban environmental quality (e.g. air, water, soil, noise) n  Disaggregating and sharing data on vulnerable groups at the neighbourhood or district levels n  Collecting, sharing and processing data on use and behaviour (regarding public and green space, public transportation and similar) n  Evaluating health and environmental risks, as well as socioeconomic impacts derived from different crises/disasters, based on past experience and/or predictive models n  Evaluating local compliance with the SDGs n  Embedding the central claims and principles of international framework documents in locallevel practical guidance n  Creating and applying regulations to control development pressure, protect environmental resources and provide safe open areas for evacuation n  Implementing NBSs to manage surface water (e.g. stormwater parks, retention ponds, rainwater harvesting and permeable pavements) n  Implementing NBSs to mitigate the urban heat island effect, especially in compact and vulnerable neighbourhoods (e.g. urban tree canopy, permeable surfaces such as green roofs and walls) n  Employing green and blue infrastructure together for its synergistic cooling and ecosystem services benefits n  Ensuring local access to basic services (e.g. green space, public transportation) through equitable distribution across the city, especially considering vulnerable neighbourhoods
+Action area A
+Administrative and organizational processes
+Action area B
+Tools, indicators and frameworks
+Action area C
+Spatial planning, design and management interventions in the built environment
+
+[Page 34]
+Urban planning for resilience and health: key messages
+References
+Boston University (2021). Emergency management principles [website]. Boston, MA: Boston University 
+FEMA (2021). Building community resilience with nature-based solutions: a guide for local communities. fema_riskmap-nature-based-solutions-guide_2021.pdf).
+Horita FEA, Degrossi LC, Assis LFFG, Zipf A, De Albuquerque JP (2013). The use of volunteered geographic information and crowdsourcing in disaster management: a systematic literature review. In: Proceedings. 
+Nineteenth Americas Conference on Information Systems, Chicago, Illinois, August 15–17 2013 (https://core.ac.uk/download/pdf/301359284.pdf).
+IPCC (2021). Climate change 2021: the physical science basis. Contribution of Working Group I to the Sixth 
+Assessment Report of the Intergovernmental Panel on Climate Change. Cambridge: Cambridge University Press 
+McQueen DV, Wismar M, Lin V, Jones CM, Davies M, editors (2012). Intersectoral governance for health in all policies: structures, actions and experiences. Copenhagen: WHO Regional Office for Europe (https://apps.who.int/iris/handle/10665/326430).
+UNDRR (2021). Poorly planned urban development. In: PreventionWeb [website]. Geneva: United Nations Office planned-urban-development).
+UN-Habitat (2021). What is urban resilience? In: Urban Resilience Hub. Nairobi: United Nations Human 
+Settlements Programme (https://urbanresiliencehub.org/what-is-urban-resilience/).
+WHO (2016). International Health Regulations (2005), third edition. Geneva: World Health Organization 
+WHO Regional Office for Europe (2022). Protecting environments and health by building urban resilience. protecting-environments-and-health-by-building-urban-resilience).
+1 All URLs accessed 10 May 2022.
+
+[Page 36]
+WHO/EURO:2022-5650-45415-64990 
+WHO European Centre for Environment and Health 
+Platz der Vereinten Nationen 1 
+D-53113 Bonn, Germany 
+Tel.: +49 228 815 0400 
+Fax: +49 228 815 0440 
+E-mail: euroeceh@who.int 
+The WHO Regional Office for Europe 
+The World Health Organization (WHO) is a specialized agency of the United Nations created in 1948 with the primary responsibility for international health matters and public health. The WHO Regional Office for Europe is one of six regional offices throughout the world, each with its own programme geared to the particular health conditions of the countries it serves. 
+Member States 
+Albania 
+Andorra 
+Armenia 
+Austria 
+Azerbaijan 
+Belarus 
+Belgium 
+Bosnia and Herzegovina 
+Bulgaria 
+Croatia 
+Cyprus 
+Czechia 
+Denmark 
+Estonia 
+Finland 
+France 
+Georgia 
+Germany 
+Greece 
+Hungary 
+Iceland 
+Ireland 
+Israel 
+Italy 
+Kazakhstan 
+Kyrgyzstan 
+Latvia 
+Lithuania 
+Luxembourg 
+Malta 
+Monaco 
+Montenegro 
+Netherlands 
+North Macedonia 
+Norway 
+Poland 
+Portugal 
+Republic of Moldova 
+Romania 
+Russian Federation 
+San Marino 
+Serbia 
+Slovakia 
+Slovenia 
+Spain 
+Sweden 
+Switzerland 
+Tajikistan 
+Türkiye 
+Turkmenistan 
+Ukraine 
+United Kingdom 
+Uzbekistan

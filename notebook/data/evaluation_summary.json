@@ -1,0 +1,41 @@
+{
+  "overall": {
+    "faithfulness": {
+      "GraphRAG": 0.699,
+      "VectorRAG": 0.708
+    },
+    "answer_relevancy": {
+      "GraphRAG": 0.74,
+      "VectorRAG": 0.437
+    }
+  },
+  "by_query_type": {
+    "GraphRAG_cross_city": {
+      "faithfulness": 0.777,
+      "answer_relevancy": 0.693
+    },
+    "GraphRAG_multi_hop": {
+      "faithfulness": 0.659,
+      "answer_relevancy": 0.658
+    },
+    "GraphRAG_single_hop": {
+      "faithfulness": 0.7,
+      "answer_relevancy": 0.844
+    },
+    "VectorRAG_cross_city": {
+      "faithfulness": 0.593,
+      "answer_relevancy": 0.532
+    },
+    "VectorRAG_multi_hop": {
+      "faithfulness": 0.731,
+      "answer_relevancy": 0.253
+    },
+    "VectorRAG_single_hop": {
+      "faithfulness": 0.744,
+      "answer_relevancy": 0.574
+    }
+  },
+  "graphrag_path_validity": 1.0,
+  "n_queries": 25,
+  "key_finding": "GraphRAG outperforms VectorRAG in Answer Relevancy by +0.303 overall, with largest gap in multi-hop queries (+0.405)"
+}

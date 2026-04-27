@@ -1,0 +1,1922 @@
+[Page 1]
+NetZeroCities has received funding from the H2020 Research and Innovation 
+Programme under the grant agreement n°101036519. 
+Climate City Contract 
+2030 Climate Neutrality Action 
+Plan 
+2030 Climate Neutrality Action Plan of the City of Stockholm 
+13 April 2023
+
+[Page 3]
+2030 Climate Neutrality Action 
+Plan 
+Summary 
+An abstract summarizes the content of the 2030 Climate Neutrality Action Plan (Action Plan) that is developed jointly by local authorities, local businesses and other stakeholders. 
+Textual element 
+The world is in a climate emergency. Climate change poses a threat to human health and all life on the planet. Cities have an important role in the transition, and Stockholm aims to be a world leader in this process by reducing emissions and being a role model for others. The transition is not only about lower emission levels, but will also lead to new ways to consume, travel, work and live. 
+The City’s Environment Program includes the long-term goal to become fossil-free by 2040. Further, the City has adopted a Climate Action Plan 2020-2023 including a climate budget that permits a maximum of 19 million tonnes of greenhouse gases to be emitted during the period 2020–2040. 
+Moreover, the City has a goal to achieve emission free inner-city traffic by 2030. In the City’s financial budget for 2023, the ambitions have been raised considerably. A new goal of becoming climate neutral, and even climate positive, by 2030 has been set and formally adopted in 2022. This will be achieved through emission reduction measures and bio-energy carbon capture and storage. 
+During 2023, in accordance with an assignment given in the City’s financial budget for 2023, the 
+City's environment programme, climate action plan and climate budget will be updated with a 2030 perspective and take into account scientific findings on what is required to reach the 1.5 degree target and what is considered just based on our historical emissions. 
+The transport sector poses particular challenges when it comes to reducing greenhouse gases. 
+Therefore, new goals are set in the City’s financial budget for 2023. Emissions from the transport sector should be reduced by 80 percent by 2030 compared to the year 2010, and total car traffic volumes should be reduced by 30 percent from the 2017 level. 
+Since the 1990s, Stockholm has worked to decrease its climate impact. District heating, energy efficiency measures, and incentives to walk, cycle, and use public transport etc. have contributed to the achievement of relatively low emissions. With the current budget, Stockholm aims for net zero by 2030. The road towards this goal is described in this 2030 Climate Neutrality Action Plan. 
+The work process builds on the climate governance structure already in place. In fact, the environment and climate goals and actions have been fully integrated in the City’s management system for the past two decades, and the mandate to prioritise the climate goals is strong. To move faster forward, the City has started to use the NetZeroCities and the Viable Cities transition model to inform the governance structure. Recent development work includes the co-creation of portfolios of actions, and climate investment plans. The transition is truly systemic in nature, and this insight will permeate the work process towards climate neutrality, 
+To reach the goal of a climate positive Stockholm, annual emissions need to be reduced by 450,000 tonnes, compared to the estimated level in 2023, to reach 700,000 tonnes of annual CO2e emissions in 2030. This would mean an 80% reduction since 1990. This will be a tough task and it will require: 
+- large reduction of emissions from road traffic through large-scale electrification, transport efficiency and sustainable biofuels 
+- reduction of emissions from construction machines and shipping 
+- reduction of the amount of fossil plastic in waste that go to energy recovery through incineration 
+- phase-out of remaining fossil oil for heating and electricity production 
+In addition, the residual 700,000 tonnes of CO2e also need to be countered and beyond with negative emissions, which is planned to be achieved by implementing a full-scale Bio Energy 
+Carbon Capture and Storage (BECCS) facility at an existing bio-CHP plant in Stockholm. In this way, the net emissions within the city's system boundary would correspond to net zero. However, the City of Stockholm will continuously strive to reduce residual CO2 emissions as the target is to
+
+[Page 4]
+become fossil-fuel free by 2040. Over the course of involvement in the Mission, added efforts to lower the foreseen residual emissions will be identified. 
+The City is engaged in a broad range of networks and partnerships that will be used to strengthen the transition work. Most tangible are NetZeroCities – the EU mission of climate neutral cities, the 
+Viable Cities national innovation programme, the business alliances (pacts) and partnerships with academia. A local eco-system of partners has been formed, and the full list with signatures is found in the 2030 Climate Neutrality Commitments document. 
+As the task to decrease emissions becomes more difficult and complex, a more systemic approach is required to tackle the barriers. Below is a summary of the systemic barriers that this 2030 Climate 
+Neutrality Action Plan aims to approach: 
+• 
+Multi-level governance coordination. Apart from organising the internal work and the cooperation with the local partners, it is crucial that polices on national and EU level are aligned with the climate neutrality target. 
+• 
+Behaviour change. The City aims to pursue the successful “carrot-and stick” approach with an emphasis on lowering the barriers for vulnerable groups. The sustainable option should be the most accessible. 
+• 
+Future-proofing infrastructures for climate neutrality. A major challenge is the construction and financing of the required infrastructure. The most tangible efforts will be in power grid reinforcement and charging equipment, plants for advanced sorting of waste, and the bioenergy carbon capture and storage plant. 
+In line with the systemic priorities identified by the City, impact pathways and action portfolios are underway, notably within energy systems, mobility and transport, and the achievement of negative emissions. 
+The district heating system in Stockholm covers 80% of the buildings, and incinerated waste is used as a source of energy in the City’s CHP plants. This means that the impact pathways for the energy sector, waste, and buildings are highly intertwined. In order to reduce the emissions connected to heating of buildings, the complex issue of fossil-based plastics in society needs to be addressed. 
+Recyclable plastics need to be sorted out for material recycling to a much greater extent. The introduction of the CCS/US technology in waste incineration carries a decisive potential to reduce the remaining fossil carbon dioxide emissions by 90% and create negative emissions of the biogenic carbon. Stockholm Exergi has started preliminary studies on how the technology can be introduced within the timeframe of 2030-2040. Stockholm is dependent on developments on national level and Europe to reduce plastic in waste incineration, and the City hopes its involvement in the Mission can open up some possible ways to address this, by bringing all actors to the table. 
+In addition to producing district heat, waste incineration plays a crucial role in managing the waste generated by society, reducing the need for landfilling and catering for the destruction of hazardous waste. On top of that, the CHP plants connected to the district heating provide a very important source of local electricity supply. The district heating system is therefore regarded as a very important asset in many respects. 
+In connection to the energy sector, in recent years an important impact pathway of creating negative emissions has emerged. The possibility to capture CO2 from the bio-CHP plant has been tested in a pilot since 2019, and a full-scale BECCS plant is planned to be operational in 2025/26. 
+As for mobility and transport, much has been done to incentivize sustainable modes of transport. 
+This includes an extensive regional public transport system, congestion charges, priority to cycles and buses in the road network and a basic infrastructure for charging of EVs and refueling of biomethane. In order to reach climate neutrality by 2030, a wider range of systemic levers need to be exploited. The EU, the state and the region are of great importance to the City's ability to reduce road transport through regulations. The city can continue to contribute by increasing the attractiveness of sustainable modes of transport. 
+An important prerequisite for electrification is the strengthening of the electricity grid in Stockholm by 
+2030. The expansion of charging facilities in the city needs to keep pace with the strong increase in the number of electric vehicles. Currently, 23% of all cars in Stockholm are chargeable, the majority
+
+[Page 5]
+being plug-in hybrids but the share of pure electric cars is increasing rapidly. Private businesses are important actors in contributing to electrification, for example by installing charging stations and increasing the production of electrified construction machines. Onshore power supply of ships at the quay requires expensive investments for both electric power amplification and adaptation of the ships. 
+To monitor progress towards the City’s climate mitigation goals, a number of indicators are used. 
+They are included in the City’s financial budget, monitored annually and reported through the City’s integrated management system (ILS) to the City Council. Hence, the progress is transparent and visible to the political level as well as to the citizens. 
+To reach the goal of climate positive Stockholm by 2030, the total implementation cost for all actors is estimated to approximately EUR 16 billion. Approximately 20% of this is the cost for the City of 
+Stockholm, and 80% is for businesses, citizens and other public organisations. The investments in the transport sector will be substantial e.g. purchase of electric vehicles, charging equipment and infrastructure for cycling and public transport. Investments in the energy sector will be dominated by the reinforcement of the electricity grid and the carbon capture and storage plants. More information is provided in the 2030 Climate Neutrality Investment Plan. 
+During 2023, the City’s climate action plan will be revised, and this work will be informed by the participation in the Cities Mission. The 2030 Climate Neutrality Action Plan will be updated with more details and elaborated on an ongoing basis, e.g. when new formal governing documents have been adopted. Every second year, an updated version will be sent to NetZeroCities and the EU. There will be an annual follow-up of the city's progress towards climate neutrality in connection to the evaluation of the City’s Environment Program. The monitoring will be done in the City's regular monitoring system and also reported to CDP. The ambition is to connect the Climate City Contract to the regular structures and organisation of the City’s Environmental Program and the Climate Action Plan. 
+List of figures 
+The list of figures identifies the titles and locations (page numbers) of all visual elements: figures, drawings, photos, maps, etc. used in the Action Plan. 
+Figure № 
+Figure title 
+Page № 
+Figure 1 … … 
+List of tables 
+The list of tables identifies the titles and locations (page numbers) of all tables used in the Action 
+Plan. 
+Table № 
+Table title 
+Page № 
+Table 1 … … 
+Abbreviations and acronyms 
+The list of abbreviations and acronyms identifies the abbreviations (a shortened form of a word used in place of the full word) and acronyms (a word formed from the first letters of each of the words in a phrase of name) used in the Action Plan. 
+Abbreviations and acronyms 
+Definition 
+CCS 
+Carbon Capture and Storage 
+CCS/US 
+Carbon Capture and Storage/Utilisation
+
+[Page 6]
+Bio-CCS or BECCS 
+Bio Energy Carbon Capture and Storage 
+EV 
+Electric Vehicles 
+SDG 
+UN Sustainable Development Goals 
+GHG 
+Greenhouse gases
+
+[Page 7]
+1 Introduction 
+The introduction should outline the local policy context in which the Action Plan is being developed and describe the gap it is addressing in broad terms. 
+Introduction - textual element 
+The City’s first comprehensive environment programme was adopted in 1976 in the wake of the UN 
+Conference on the Human Environment in Stockholm in 1972. The Swedish work on greenhouse gas mitigation started in the 1980s with the carbon tax of 1991 as an important milestone. A tangible effect of this price on carbon has been the transition away from fossil energy in the many cities in Sweden with district heating, and Stockholm is a good example of that; together with a strong focus on regional public transport development, and the use of biogas from sewage treatment as a fuel, this has been the foundation for the climate mitigation work. The first climate action plan (CAP) was adopted by the 
+Stockholm City Council in 1998, and after that a series of climate actions plans were produced and implemented. Important elements included energy retrofitting of buildings, sustainable city development projects such as Hammarby Waterfront and the Royal Seaport, joint procurements of biofuelled vehicles, the government congestion charge, the mobility strategy, and the regional bus fleet running on 100% biofuels. As a consequence of these efforts, emissions have been reduced significantly from 5.4 tonnes of CO2e per capita in 1990 to 1.6 tonnes in 2021. An important recognition of the successful work was the City being selected as Europe's first environmental capital in 2010. 
+The current Environment Programme 2020-2023 is the City's tenth and focuses on the most pressing environmental challenges, which includes efforts to reduce climate impact. The Climate Action Plan 
+2020-2023 outlines the steps the city is taking to achieve its climate goals, which are set out in the 
+Environment Programme. The current action plan quantifies the reduction needs and defines necessary measures to reduce greenhouse gas emissions to 1.5 tonnes CO2e per Stockholm resident per year by 2023. These reductions are necessary to achieve the long-term goal of a climate-positive 
+Stockholm by 2030 and fossil-free Stockholm by 2040. 
+In order to reach the climate positive goal in 2030, annual emissions need to be reduced by 450,000 tonnes, compared to the estimated level in 2023, to reach 700,000 tonnes of annual CO2e emissions in 2030. This would mean an 80% reduction from 1990. This will be a tough task and it will require: 
+- large reduction of emissions from road traffic through large-scale electrification, transport efficiency and sustainable biofuels 
+- reduction of emissions from construction machines and shipping 
+- reduction of the amount of fossil plastic in waste incineration 
+- phase-out of remaining fossil oil for heating and electricity production 
+In addition, the residual 700,000 tonnes of CO2e also need to be countered and beyond with negative emissions, which is planned to be achieved by implementing a full-scale Bio Energy Carbon Capture and Storage (BECCS) facility in Stockholm. However, the City of Stockholm will continuously strive to reduce CO2 emissions as the target is to become fossil-fuel free by 2040. Over the course of involvement in the Mission, added efforts to lower the foreseen residual emissions will be identified. 
+Stockholm was selected as one of 100 European climate neutral cites by 2030 to show the way to climate neutrality for all European cities by 2050. The purpose of this 2030 Climate Neutral Action 
+Plan is to identify the CO2 reductions needed and the additional efforts required when the City’s climate action plan 2020-2023 has been implemented. It outlines the path to 2030 and serves as a supporting document for the new climate action plan being developed during 2023. 
+In 2020, Stockholm signed a national climate contract based on the collaboration between 23 municipalities and six national authorities. This process is led by a national innovation program called 
+Viable Cities. The European Climate City Contract focuses on the relation between the local and the 
+European level. Both contracts aim at accelerating the climate transition in accordance with the Paris agreement and the Agenda 2030. 
+The political goals for the City of Stockholm are to:  be a role-model in decreasing climate gas emissions  be world-leading in the global work to implement the goals in the Paris Agreement
+
+[Page 8]
+ be climate-positive by 2030 and fossil-free by 2040  be fossil-free by 2030 in the City organisation  reduce the volume of road transport by 30% by 2030 (relative to 2017 levels)  reduce climate emissions from the entire transport sector by 80% by 2030 (relative to 2010)  reduce emissions caused by consumption by 50% by 2030 
+To achieve this, Stockholm needs to collaborate with the European Union, the Swedish government, companies, civil society, and citizens, and there are several obstacles and uncertainties that need to be solved by other actors for the work to proceed:  
+The future national policy for GHG reduction quotas in gasoline and diesel are unclear.  
+Insufficient national policies for reducing the amount of traffic for topics where the City lacks mandate.  
+The supply of electrified construction machines is too low to accelerate electrification.  
+Strengthening the electric grid is crucial for enabling electrification.  
+Phase-out of fossil plastics is a complex issue with many stakeholders involved including industries, other municipalities as well as countries.  
+CCS technology to neutralise emissions from waste incineration will be necessary to reach zero emissions. This technique is still being developed.  
+Emissions from electricity production in the Nordics is beyond Stockholm’s influence.  
+The consequences from the ongoing energy crisis in Europe are unknown.  
+The conditions to include negative emissions in Stockholm’s inventory are still uncertain. The regulatory frameworks need to be clear to assure investors trust in the business model. 
+Collaborations and partnerships with academia, the private sector and inhabitants are needed to reach the goals:  
+The City has formed the Environment and Climate pact, and the Electrification pact, with the business sector aiming to decrease emissions from transports, reduce plastics usage and accelerate electrification.  
+The City aims to be a pilot city and establish Climate Transition Arenas for climate and health in five geographical areas for testing solutions for climate and health in co-creation with civil society, trade and industry in the local communities.  
+The City has a strategic partnership with the Royal Institute of Technology (KTH), Stockholm 
+University (SU), and Karolinska Institutet (KI) in Stockholm. Sensible Stockholm Lab is a cooperation between the City of Stockholm, KTH and Massachusetts Institute of Technology (MIT) where new dimensions of a smart city, such as mobility, energy production and effectivity, environmental monitoring, water and waste treatment, public health, and models for governance, are investigated.  
+A digital citizen panel is used to collect input in different areas, and several other ways to engage citizens is being developed. Special emphasis is put on young people and to lower the barriers to a climate-positive life for vulnerable groups. 
+Stockholm’s climate work is financed via the municipal budget within each department or company and through a climate investment fund (the “climate billion”) which the departments can apply for. The 
+City is also active in applying for external funding from both national as well as European programs and funds. 
+A first Climate Investment Plan has been developed within the work of EU’s mission Climate neutral and Smart Cities by 2030. The plan has its starting point in those actions identified as crucial to reach climate neutrality by 2030. The necessary investments are identified for relevant actors. The major part of investments are linked to businesses and citizens. 
+2 Work Process 
+This section should list the working steps carried out, for example along the NZC Climate Transition 
+Map, or related steps planned as well as outline timeline and milestones for future iterations for the continuous development of the Action Plan.
+
+[Page 9]
+Work Process - combination of textual and visual elements 
+Stockholm has a long tradition of working with environmental and climate issues and doing so integrated across the entire municipal organisation and in collaboration with other stakeholders. To reach a sustainable and climate-positive Stockholm it is necessary to collaborate, work with all perspectives of sustainability and have an openness towards other stakeholders and people's ways of thinking and acting. This includes learning and exchange of experiences from others and an ability to include new knowledge from others into our work. 
+The Climate Action Plan 2020-2023 expresses the City's climate budget showing remaining emissions to 2040 as a maximum of 19 million tonnes CO2e in the period 2020-2040. The current climate targets in the environmental program are to reduce greenhouse gas emissions to 1.5 tonnes 
+CO2e per Stockholm resident per year by 2023. 
+According to an assignment in the City’s financial budget for 2023, a revised Environment Program and Climate Action Plan will be developed during 2023 to meet the goal to become climate positive by 2030. 
+This 2030 Climate Neutrality Action Plan has been developed in collaboration between the city's departments and companies through a collaborative management group and a directors' group linked to the City's climate work. Measures and responsibilities for implementation of measures will be further elaborated and co-created during 2023 and be part of the City’s new climate action plan. The process of producing the European climate city contract during 2022 has served as an important preparatory work for the coming revision of the City’s climate action plan. 
+Below is a description of the work process in terms of the NetZeroCities Transition map. 
+Build a Strong Mandate 
+The Stockholm Environment Programme is adopted by the City Council and sets goals that thoroughly permeate all planning processes of the municipal organisation. The Climate Action Plan, including a climate budget, further outlines the implementation and overall impact at all levels. 
+Since 2000, the City of Stockholm has integrated the Environment Programme into the City’s superordinate system for the management and monitoring of all operations and finances, ILS. This means that the committees or company boards should in their work plans or business plans, report how they intend to contribute to attain the City’s goals and report how the work is going through the follow-up of goals and indicators. This procedure ensures transparency and accountability, since the result it reported to the City Council and published on the City’s website. It also shows the political priority for this issues. 
+Within the municipality, there is a multi-level organisation to deliver on and develop the climate work. 
+From the highest political level, there is a priority to become climate-positive by 2030, and this permeates the entire organisation. A Chief Climate Officer is working at the City Executive Office. 
+This central position makes it easy to involve relevant actors within the City administration as well as connect with external actors. There are possibilities to involve the highest management level, the directors of departments and companies, when needed, in addition, to a more operational group of the top management that meets regularly to discuss climate issues. Moreover, a larger group with division heads within departments and companies gathers in a climate coordination group that manages most of the City's climate issues together with their employees. This creates an integrated way of working on several levels rather than forming separate silos. It ensures the access to relevant expertise, and also anchoring of proposed action in the whole organisation. 
+The City of Stockholm has many types of collaborations with the surrounding ecosystem that are involved in work for a climate positive city. Pacts are formed as a way to collaborate with business organisations. Here, the Climate Pact and the Electrification Pact are the most central. In the pacts, different actors gather together, identify common issues and develop roadmaps and concrete project work. Furthermore, collaboration with academia is central to the transition to a climate-positive 
+Stockholm. The municipality and the three largest universities in Stockholm have had cooperation agreements in place for several years. These are signed by the principals and the CEO of Stockholm. 
+As a result of these agreements, there are partnerships in which academics, the municipality and
+
+[Page 10]
+business partners work together and where environmental and climate issues are prioritized, e.g. 
+Digital Futures, Senseable Stockholm Lab and Open Lab. 
+All these works have a strong connection to the Chief Climate Officer and the Innovation Director at the City Executive Office, and the top management – this ensures a clear connection to the governing and steering of the city across key city departments. The multi-actor coalitions for climate mitigation have been developed from already existing structures and collaborations. The goal of climate-positive 
+Stockholm has provided a clear and strengthened focus to this work. 
+The City of Stockholm has a long experience in mainstreaming sustainability through its urban development processes. This goes back to the large transformation of Hammarby Waterfront, the first large urban development project with high environmental targets. This ambition has continued in a citizen-driven quadruple helix initiative called ElectriCity Innovation that strives for climate neutrality within Hammarby Waterfront. Stockholm Royal Seaport is the largest on-going urban development project in Sweden, with plans for at least 12,000 new homes and 35,000 workplaces. In 2009, the 
+Stockholm City Council decided that Stockholm Royal Seaport would be designated an environmental profile with the mandate to determine what is possible in the current situation and push the boundaries where possible, to become a model of sustainable urban development. This has resulted in an area that works as a testbed where new ideas, methods, and approaches are developed and tested. 
+The work towards a climate-positive Stockholm is not done in isolation. Rather multi-level governance activities are needed. Sweden has a goal to become the world’s first fossil-free welfare nation. 
+Stockholm is implementing this on the local level and pushes the agenda as a front-runner. Stockholm participates in the work of the governmental initiative Fossil Free Sweden, which works to increase the pace of the climate transition. The goal is to build a strong industrial sector and to create more jobs and export opportunities by going fossil-free. 
+The City of Stockholm works within the framework of the existing national Climate City Contract in collaboration with 23 Swedish municipalities, six national authorities and the Strategic Innovation 
+Programme Viable Cities. This contract highlights the need for coordination between stakeholders, coordinated funding and changed policy and regulations. Regular “transition labs” are arranged in this collaboration, and important themes have included citizen involvement, digital support tools, climate investment planning and system demonstration. At the regional level, the City of Stockholm participates in the regional Climate Arena that focuses on the construction sector. Moreover, the City of Stockholm has an important collaboration with the region in terms of public transport. 
+Stockholm is a member of and works within multiple European and global initiatives, such as 
+Eurocities, Civitas, Lighthouse Cities, C40 and Climate-Neutral Cities Alliance. This has both given opportunities to collaborate in innovation projects such as Growsmarter (a Lighthouse Smart Cities and Communities project) and working groups on different themes, most recently Just Transition within Eurocities. 
+During the development of this European Climate City Contract, many of the above mentioned stakeholders have been involved or informed about the process. 
+Understand the system 
+Stockholm has a long history of monitoring, meaning the City has extensive data and information concerning the current status of key indicators Besides this, all involved actors have contributed to analyse the gap to reach climate-neutrality, both in terms of CO2-emissions (for the Climate Neutrality 
+Action Plan) and in terms of capital and investments (for the Climate Neutrality Investment Plan) 
+Co-design a Portfolio 
+Stockholm works on breaking silo-structures through governance innovation to develop the City’s capacity for change. As one of six Swedish Innovation Platforms since 2013, Stockholm has been at the forefront of research relating to multi-level governance that reflects its current organisation. The recently adopted quality programme, integrating innovation, quality and digitalisation into one document works as a good start to bring together existing policies. It has six core approaches; the 
+Stockholmers' focus, learning, openness, sustainability, holistic view and action space. These approaches create the foundation for the entire City's work and actions.
+
+[Page 11]
+In recent years, the City of Stockholm has been a test bed for many successful innovative and sustainable solutions. To move further it is a necessity to develop the organisation and the collaboration for scaling of tested solutions and to also integrate consumption-based CO2-emissions. 
+The new goal on climate-positive Stockholm permeates all work within the city, highlighting the need to accelerate the efforts and make it the new normal. 
+The next step for Stockholm is to move from a single-project approach to an integrated portfolio approach. This is an ongoing work that starts with the areas of transport and circularity, aiming to involve broader perspectives of learnings within the City and beyond. This includes clearer processes for research and innovation projects, both to ensure the aim and intentions to fulfil the right goals, connect different projects on similar content and develop structures for organisational learning to better make use of results into implementation and scaling. As a part of this work, it is important to identify different systemic levers (technology, funding, behavioural changes, legal aspects, governance etc) that contribute to the targets. In practice, an excel tool for portfolio analyses is being developed and tested in collaboration with researchers at KTH – Royal Institute of Technology. 
+The various business collaborations that the City is engaged in will be instrumental in the co-designing work. One example is the Electrification Pact that gathers the most relevant stakeholder in order to move towards a large-scale electrification in 2030. During 2022, work to produce a common roadmap began, and this will be continued in 2023. 
+Take Action 
+Stockholm has implemented major climate measures since the 1990s. All of the low-hanging fruits have been picked, and the City now takes a comprehensive approach to make the city climatepositive. This is done with a special focus based on the prevailing climate urgency. The most difficult parts remain, requiring large investments, efforts and profound changes. Going forward, there will be a particular focus to develop processes for upscaling and implementation, increase the efforts for external funding and innovation projects, and work to develop cooperation between actors in 
+Stockholm as well as between policy actors regionally, nationally and globally. In addition, there is a need to further develop digital solutions that support climate work and to better involve, co-design and co-create the future Stockholm with the citizen and take advantage of the intense climate engagement in the city. 
+Learn & Reflect 
+The integration of the environment programme into the City’s superordinate system for the management and monitoring of all operations and finances is a special position compared to other policy documents and has been so for more than 20 years. There are established indicators that are followed-up three times a year: C02-emissions per capita, energy use, number of public charging stations, the share of collected food waste and road traffic work. These indicators are presented to the City Council. Besides this, numerous indicators are followed-up as part of the environment program monitoring and presented publicly on the City’s website. Every year there is a political negotiation of relevant targets for each indicator. The well-developed monitoring process creates a good overview and possibilities to further develop climate actions. The learning processes will be developed as described in relation to the portfolio approach. 
+Part of the learning and reflection is also demonstrated in Stockholm’s high ambitions to participate as an active partner in international collaboration such as EU projects and networks including 
+Eurocities, C40, CNCA, POLIS, etc. As a City, there are great intentions to share learnings with others and to take part in fruitful discussions to influence our work. Besides this Stockholm invites many visitors from different cities to study visits. In 2022, at least 4000 people visited the city’s development areas. 
+The 2030 Climate Neutrality Action Plan will be updated and elaborated on an ongoing basis, e.g. when new formal governing documents have been adopted. Every second year, an updated version will be sent to NetZeroCities and the EU. There will be an annual follow-up of the City's progress towards a climate positive city in connection to the evaluation of the City’s Environment Program. The monitoring will be done in the City's regular monitoring system and also reported to CDP. The ambition is to connect the Climate City Contract to the ordinary structures and organisation of the 
+Environmental Program and the Climate Action Plan. This process updates the governing documents at least every four years, with new goals, ambitions and assignments.
+
+[Page 12]
+Make it the New Normal 
+The fact that the Climate City Contract is integrated into the governance structure of the City of 
+Stockholm makes it connected and embedded. The connection between the environment program with its actions, and the City’s superordinate system for the management and monitoring of all operations and finances, has been the new normal since many years. Furthermore, the development of a project portfolio with an innovation focus will further inform the upcoming iterations of the contract. 
+This must now be accelerated, to faster integrate learnings, innovative solutions, develop collaborations and involve citizens and business collaborators in the work to achieve a climatepositive Stockholm. 
+3 Part A – Current State of Climate Action 
+Part A “Current State of Climate Action” describes the point of departure of the city towards climate neutrality, including commitments and strategies of key local businesses, and informs the subsequent modules and the outlined pathways to accelerated climate action. 
+3.1 Module A-1 Greenhouse Gas Emissions Baseline 
+Inventory 
+Module A-1 “Greenhouse Gas Emissions Baseline Inventory” should detail and describe the city’s latest 
+GHG inventory to establish the emission baseline and to establish the emissions gap to 2030 climate neutrality according to the inventory specifications defined in the Cities Mission’s Info Kit for Cities and the process outlined in the Action Plan Guidance. 
+Greenhouse gas emissions in Stockholm have decreased continuously since 1990, thanks to fossil fuel reduction in all sectors and more efficient use of energy. Stockholm's population has grown and energy use per inhabitant has become more efficient. More people are using public transport and other community resources, while workplaces and homes have become more space efficient. More efficient appliances, machinery and vehicles have contributed to further energy efficiency improvements. . Measures that provide large emission reductions have already been implemented and remaining emissions require major efforts to enable further reductions. For example, all fossil-energy CHP-plants have already been closed down. Today, the emissions from the heating sector mainly come from the fossil waste that is incinerated in in CHP-plants. Measures to reduce remaining emissions are complex and require cooperation with several actors both in the city and also nationally and within the EU. After
+
+[Page 13]
+2030, further reductions in residual emissions will be required if Stockholm is to meet its long-term goal of being fossil-free by 2040. 
+In 1990, the GHG emissions were 3,400,000 tonnes of CO2e, and 1990 is used as the base year in the 
+Climate Neutral Action Plan. From 2015 Stockholm has used the international reporting standard 
+Greenhouse Gas Protocol for Cities (GPC). 1990 is the baseline used for calculating climate neutrality by 2030. In the table below, 2020 is used for the monitoring as the data is more detailed. The system boundary for this inventory is the City’s geographical boundary. No sectors or geographical areas have been excluded from the inventory. 
+A-1.1: Final energy use by source sectors 
+2020 
+*Transport: GHG emissions from road transport are based on data for vehicle-kilometre (see A-1.3: Activity by source sectors) and emission factors for different vehicles. GHG emissions for waterborne navigation, construction machines, aviation (landing and takeoff) and railways emissions data (CO2e) are based on national statics from RUS1 and data from the local airport and harbor (see A-1.4: GHG emissions by source sectors). 
+**Waste: GHG emission from sewage sludge is based on data for local waste company (see A-1.4: GHG emissions by source sectors), and emission from waste incineration for district heat production is included in the emission factor for district heat (buildings) 
+Unit 
+MWh/year 
+Scope 1 
+Scope 2 
+Scope 3 
+Total 
+Buildings 
+Heating oil 
+173 000 
+173 000 
+Town gas/city gas 
+50 000 
+50 000 
+Wood 
+48 000 
+48 000 
+Electricity 
+6 409 000 
+6 409 000 
+District heating 
+6 034 000 
+6 034 000 
+Transport 
+* 
+* 
+* 
+Waste 
+** 
+** 
+** 
+Industrial Process and Product Use (IPPU) 
+Not significant2 
+- 
+- 
+Not significant2 
+Agricultural, 
+Forestry and Land 
+Use (AFOLU) 
+Not significant2 
+- 
+- 
+Not significant2 
+1 RUS stands for regional development and collaboration in the work with Sweden’s environmental goals 
+2 Conclusion from City’s Environment Department’s inventory of industries and agriculture within the municipal borders 
+A-1.2: Emission factors applied 
+Emissions factors are used for different fuels. For district heating a regional emission factor for the grid is used. 
+For electricity an emission factor for the Nordic electricity mix is used. 
+Emission factors include CO2, CH4 and N2O and when relevant also F-gases, SF6 and NF3. 
+IPCC AR5 is used. 
+Include scope 1 and 2 emissions 
+Wood or wood waste 
+5.2 tonnes CO2e/GWh 
+Heating oil (Eo1) 
+268.2 tonnes CO2e/GWh 
+Electricity (Nordic electricity mix) 
+31.6 tonnes CO2e/GWh 
+District heating 
+49 tonnes CO2e/GWh 2 
+Town gas or city gas1 
+32.7 tonnes CO2e/GWh 
+Biodiesels 
+5 tonnes CO2e/GWh 
+Road transport (mean value per vehicle-kilometre) 
+148 g CO2e/vehicle-kilometre 
+1 In 2020 the share of biogas was 84% and fossil gas 16%
+
+[Page 14]
+2 Recovery of energy from waste treatment (including both municipal and commercial) through incineration accounts for about one-third of the energy input in district heating production, but it generates about 90% of the emissions 
+A-1.3: Activity by source sectors 
+1990 is the baseline used for calculating climate neutrality by 2030. In this table, 2020 is used for the monitoring as the data is more detailed. 
+Buildings: GHG emissions are based on energy use (see A-1.1: Final energy use by source sectors) for district heating, electricity and other fuels. 
+Transport: GHG emissions for waterborne navigation, construction machines, aviation (landing and take-off) and railways emissions data (CO2e) are based on national statics from RUS1 and data from the local airport and harbor (see A-1.4: GHG emissions by source sectors). 
+Waste: GHG emission from sewage sludge is based on data for local waste company (see A-1.4: GHG emissions by source sectors), and emission from waste incineration for district heat production is included in the emission factor for district heating (buildings) 
+Scope 1 
+Scope 2 
+Scope 3 
+Buildings 
+Transport 
+On-road transportation (million vehiclekilometres) 
+3 023 vehicles with combustion engine electrical vehicles 
+Not included 
+To be investigated during 
+2023 
+Waste 
+Industrial Process and 
+Product Use (IPPU) 
+Not significant2 
+Agricultural, Forestry and Land Use (AFOLU) 
+Not significant2 
+1 RUS stands for regional development and collaboration in the work with Sweden’s environmental goals 
+2 Conclusion from City’s Environment Department’s inventory of industries and agriculture within the municipal borders 
+A-1.4: GHG emissions by source sectors 
+Greenhouse gas emissions for 2020 according to Greenhouse Gas Protocol for Cities. 
+Unit 
+Tonnes CO2equivalent/year 
+Scope 1 
+Scope 2 
+Scope 3 
+Total 
+Buildings 
+80 343 
+498 258 of which 
+261 330 is caused by wasteto-energy incineration 
+- 
+578 602 
+Transport 
+637 360 
+3 023 
+- 
+640 383 
+Waste 
+7 652 
+- 
+22 787 
+30 439 
+Industrial Process and Product Use (IPPU) 
+Not significant1 
+- 
+- 
+Not significant1 
+Agricultural, 
+Forestry and Land 
+Use (AFOLU) 
+Not significant1 
+- 
+- 
+Not significant1 
+Total 
+725 355 
+501 281 
+22 787 
+1 249 424 
+1 Conclusion from City’s Environment Department’s inventory of industries and agriculture within the municipal borders 
+A-1.5: Graphics and charts
+
+[Page 15]
+Figure 1. Total greenhouse gas emissions and emissions in tonnes CO2e per inhabitant 1990-2021. 
+*Emissions for 2021 are based on partially projected values. Partially different system boundaries than described in European Missions - 100 Climate-Neutral and Smart Cities by 2030. 
+This figure shows GHG emissions 1990-2021 from: heating (dark blue), electricity use (blue), and transports (light blue). 
+A-1.6: Description and assessment of GHG baseline inventory 
+Emissions for the base year 1990 were 3 400 000 tonnes of CO2e. By 2023, emissions are expected to have decreased to 1 150 000 tonnes CO2e, assuming that current climate goals are met. 
+Greenhouse gas emissions in Stockholm have decreased continuously since 1990, thanks to fossil fuel reduction in all sectors. Stockholm's population has grown and energy use per inhabitant has become more efficient. More people are using public transport and other community resources, while workplaces and homes have become more space efficient. More efficient appliances, machinery and vehicles have contributed to further energy efficiency improvements. 
+The main reduction has been in the heating sector, where emissions have decreased by approx. 75% due to reduced energy demand in the sector and an increased share of renewable fuels. Emissions from electricity and gas use were reduced by half since 1990 thanks to reduced emissions in Nordic electricity production. Between 1990 and 2021 emissions from the transport sector have been reduced by around 15%. 
+In Stockholm’s current climate goal for 2023 (1.5 tonnes CO2e per resident), partially different system boundaries are used than described in European Missions - 100 Climate-Neutral and Smart Cities by 
+2030. The current climate goal includes direct emissions from combustion as well as emissions from production and distribution of fuels/energy (sometimes referred to as LCA impacts). Biogenic CO2 emissions from the combustion of biofuels are not included in the calculations as these are assumed to be part of the natural carbon cycle and therefore do not result in a net release of CO2 to the atmosphere. However, emissions of methane and nitrous oxide from the combustion of biofuels are included in the calculations. 
+Summary of the City's emissions calculations:  
+In the heating sector, energy use is adjusted for variations in outdoor temperatures that occur between years, also known as weather normalization.  
+The emission factor from district heating is calculated on the regional district heating mix. From this year's emission calculations onwards, an annual value for the emission factor is used instead of a five-year, average. Recovery of energy from waste treatment (including both 
+1 976
+1 848
+1 406
+1 089
+1 121
+949892865907806742637583429389
+721558
+489506481440415415369348
+298277
+1 074
+1 049
+1 062
+1 063
+1 073
+1 070
+1 075
+1 111
+1 105
+1 036
+946920
+884893
+1 000
+1 500
+2 000
+2 500
+3 000
+3 500
+4 000 tonne per capita
+GHG emissions, 1000 tonne CO2e
+Heating
+Electricity
+Transports tonne/capita
+
+[Page 16]
+municipal and commercial) through incineration accounts for about one-third of the energy input in district heating production, but it generates about 90% of the emissions  
+Fossil oil use in the heating sector has previously been based on energy statistics from 
+Statistics Sweden at municipal level. Due to significant fluctuations in the oil statistics from 
+Statistics Sweden in recent years, oil use has been estimated since 2017.  
+Emissions from electricity use are calculated using the Nordic electricity mix where a five-year moving average is used for the emission factor and energy data from Statistics Sweden.  
+Emissions from road transport are calculated using data from Statistics Sweden and data from the city.  
+Emissions from other transport are obtained from RUS (Regional Development and 
+Collaboration in the Environmental Objectives System) and environmental reports. 
+From 2015 and onwards emission calculations are also made in line with the international calculation protocol, Global Protocol for Community-Scale Greenhouse Gas Emissions Inventories (GPC), in line with the recommendations in European Missions – 100 Climate Neutral and Smart Cities by 2030. . 
+Figure 2. The green bars represent emissions in tonnes CO2e according for 1990 (baseline), 2023 (assuming the current climate goals and planned actions are fulfilled) and 2030. An emission reduction of 80% is necessary in order to become climate neutral according to recommendations in European 
+Missions – 100 Climate Neutral and Smart Cities by 2030. The blue bar represents negative emission. 
+The orange line represents the expected net emission over time. 
+3 400 000
+1 150 000
+700 000
+-800 000
+1990
+2023
+2030
+GHG emissions (tonne CO2e)
+Negative CO2 emission (tonne CO2)
+Net emissions (tonne CO2e)
+
+[Page 17]
+Figure 3. GHG emission budget for Stockholm. The figure shows maximum permissible emissions according to the emission budget (blue bar) and actual emissions (red bar) over time. The aggregated emission for 2020-2040 should maximum be 19 million tonnes CO2e according to the GHG emission budget. 
+A-1.7: Emission gaps (between the baseline and the climate neutrality target) 
+In 1990 (base year) the total emissions of climate gases from Stockholm city were 3,400,000 tonnes 
+CO2e. In order to reach an 80% reduction, the emission goal is 700,000 tonnes by 2030 which would correspond to 0.7 tonnes CO2e of per capita emissions. To achieve this goal the emissions need to be reduced by 450,000 tonnes between 2024 and 2030 (assuming that the current climate target for 
+2023 is fulfilled), i.e. the emission gap is 450,000 tonnes. 
+In addition, to reach net zero emission, 700,000 tonnes of negative emissions must be accomplished by 2030. A full scale BECCS plant with the capacity of capturing 800,000 tonnes is planned to be operational in 2025/26, meaning that Stockholm in total would have net negative emission of 100,000 tonnes CO2e by 2030. 
+3.2 Module A-2 Current Policies and Strategies 
+Assessment 
+Module A-2 “Current Policies and Strategies” should list relevant policies, strategies, initiatives or regulation from local, regional and national level, relevant to the city’s climate neutrality transition. 
+A-2.1: List of relevant policies, strategies & regulations 
+Type 
+Level 
+Name & Title 
+Description 
+Relevance 
+Need for action 
+Programme 
+Local 
+Environment 
+Programme 2020-2023 
+The Programme contains seven prioritised goals and intermediate objectives that the 
+City must meet 
+The program contains the goals related to a decreased impact on climate change. 
+A revised 
+Environment programme will be developed in 
+2023. 
+Action Plan 
+Local 
+Climate Action Plan 
+2020-2023 
+Describes how the City will achieve its climate goals by assigning actions and emission reductions to relevant municipal departments and companies. 
+The plan is directly applicable to the 
+City's efforts to become fossil-free and climate positive. 
+A new 
+Climate 
+Action plan will be developed in 
+2023. 
+1 000
+1 500
+2 000
+2020
+2022
+2024
+2026
+2028
+2030
+2032
+2034
+2036
+2038
+2040
+GHG emissions (thousand tonne CO2e)
+Maximum GHG emission
+Estimated GHG emissions
+
+[Page 18]
+Plan 
+Local 
+Action Plan for 
+Sustainable Plastics Use 
+2022-2026 
+Sets out the direction for how the 
+City of Stockholm needs to work on an ongoing basis for sustainable plastic use, from purchasing to waste management. 
+The measures in the Plan contribute to the achievement of four objectives of the Environment Programme (1, 2, 
+4 and 7). 
+Implementati on 
+Plan 
+Local 
+Action Plan for Circular 
+Construction 2021-2024 
+Outlines measures to increase circularity and reduce construction waste, with an initial focus on testing new approaches and increasing knowledge through, among other things, pilot projects. 
+The Plan's measures contribute to the 
+Environment Programme's goal of a resource-smart Stockholm. By 2030 and beyond, the City of Stockholm will have developed into a city where resources are used efficiently and in accordance with the EU waste hierarchy. 
+Implementati on 
+Strategy 
+Local 
+Stockholm’s Urban 
+Mobility Strategy 
+Based on the objectives that 
+Stockholm should be efficient, safe, clean, sustainable, and healthy, provides guidance on how to prioritise when making decisions on roads and streets. 
+Road traffic is the main source of greenhouse gas emissions. Long-term investments in public transport, cycling and congestion charging have contributed to low emissions per person. 
+Implementati on 
+Strategy/pl an 
+Local 
+Stockholm City Master 
+Plan 
+Provides guidance related to urban development in the city. 
+Includes goals of reducing climate impact, as well as growing, being connected, and providing an environment that suits all people. 
+The plan sets an overall ambition for how the city should be planned, which is further developed in the detailed plans. 
+An update is on-going 
+Programme 
+Local 
+Quality programme 
+2022- 
+Guides the City departments and 
+City-owned companies to provide relevant service of high quality for 
+Stockholmers of today and tomorrow. The City needs to work systematically with quality work including continuous improvements, innovation and digitization. 
+Innovation, digitalisation and high quality are needed to develop a climate positive city. 
+Implementati on 
+Programme 
+Local 
+Programme for 
+Sustainable Urban 
+Development of the 
+Stockholm Royal 
+Seaport: showing the way to a sustainable future 2021- 
+Contains sustainability objectives and urban planning principles for the Royal Seaport, gathered in five strategies that ensure sustainable development (ecologically, economically and socially in relation to a spatial context) 
+The 
+Resource Management and 
+Climate 
+Responsibility strategy describes how the Royal Seaport will become a fossil-free district with low resource use and a high degree of circular systems by improving the efficiency of water and sewage systems and waste management. 
+New programme is developed for every new development phase 
+Plan 
+Regional 
+Public Transport 
+Strategy 
+Guides how public transport in 
+Stockholm County should be developed in the long-term to achieve the objectives of the 
+Regional Development Plan and the Transport Supply Programme 
+A public transport system that offers good travel opportunities -- combined with a transport efficient regional housing development, better conditions for walking and cycling, and measures to reduce congestion on the road network – contribute to a resource-efficient region with reduced environmental impact and reduced climate-impacting emissions (see objectives of RUFS 2050). 
+The City’ s 
+Public 
+Transport 
+Plan is under development and will be guiding the prioritisation of street space 
+Strategy 
+Local 
+The Food Strategy 2019- 
+Contributes to better public health and reduced environmental and climate impact through the food and meals purchased, produced, and served in the City's operations. 
+Aims to collect by 2021, 70% of the 
+City's food waste through the reduction and resource efficiency of food waste in the City's operations. 
+Increasing the share of vegetables and organic food also contributes to reducing environmental and climate impacts. 
+Implementati on 
+Plan 
+Local 
+Bicycle Action Plan 
+2022- 
+Provides a direction for the City to act to increase cycling. 
+Increasing both the number and proportion of cyclists by making it easier and safer to cycle (for existing and new cyclists) will help meet air quality and carbon dioxide emission targets. 
+Implementati on 
+Plan 
+Local 
+Waste Plan 2021-2024 
+Describes current waste management in Stockholm as well 
+Conscious production and consumption results in less waste, which contributes, among other 
+Implementati
+
+[Page 19]
+as future plans and presents objectives and needs for action. things, to the objectives of limited climate impact, but also, through energy efficiency and sustainable transport, to the objectives of sustainable cities and fresh air. 
+Plan 
+Local 
+Stockholm Freight Plan - 
+Part of Stockholm’s 
+Urban Mobility Strategy 
+2018-2022 
+Identifies challenges and formulates directions and activities to meet the objectives of the Accessibility Strategy. 
+The City also has other programmes and strategies related to freight transport (Environmental Programme, 
+Climate Action Plan, Quay 
+Strategy for Stockholm Ports, 
+Waste Plan, World Class Business 
+Areas) 
+Swedish emissions from the transport sector are to be reduced by 70% by 
+2030, compared to 2010. Traditional freight transport has a negative impact on the environment and climate in the form of noise, deteriorating air quality and carbon dioxide emissions. Well-functioning freight transport is a prerequisite for an attractive city by supplying goods and services and ensuring that waste and recyclable materials are transported away. 
+An up-date is ongoing 
+Plan 
+Local 
+Mass Excavation 
+Management Plan 
+2021-2022 
+Improves the resource efficiency and management of the soil and rocks generated by development. 
+Reduces the climate impact of increased construction activity. 
+Reduces emissions from lorry traffic and improves traffic accessibility. 
+Implementati on 
+A-2.2: Description & assessment of policies 
+There are several action plans connected to the current Environment programme 2020-2023 such as the current Climate Action plan 2020-2023. Actions in the climate action plan are followed up annually and reported to the City Council as part of the environmental monitoring programme. Companies and departments report if the targets have been met. The City's total emissions and climate budget are monitored annually and reported through the City’s integrated management system (ILS). 
+In addition to the strategies, programs and plans, political goals and assignments connected to them are set in the City’s financial budget. It is revised annually and the work on the assignments are also reported in the City’s integrated management system (ILS). The process from vision to expected results is illustrated in the figure below. 
+Identified strengths of the current policies are:  
+The structure of the environment programme with long-term and short term goals, and the array of action plans that address the relevant goals in detail  
+The strong focus on quantification of measures and impacts, and the full integration in the 
+City’s management system  
+The engagement of all relevant departments and companies in the City organization 
+There are also some gaps to be addressed in the coming work:  
+The need to co-create and detail climate mitigation action together with relevant stakeholders in the 2023 revision of the climate action plan  
+A better understanding of social sustainability and climate justice aspects in the environmental policies, also to be addressed in the 2023 revision of the climate action plan.
+
+[Page 20]
+The aim of the internal management system (ILS) is for planning and monitoring to:  be imbued with political goals and decisions,  take place in a common structure, at fixed times, in given contexts,  be based on clear roles and responsibilities,  be based on a structured dialogue,  integrate the governance of core business and overarching management issues such as Human Resources, Finance, IT and specific policy areas such as environment  contribute to learning and quality development of the City’s services. 
+Important lessons from innovation and development work such as the Viable Cities platform and the EU Cities Missions inform the governance process, enhances work processes and improves the possibility to reach the set goals. 
+The figure below describes to organisation of the Municipal Group and provides an overview of the City’s responsibilities. 
+The City's 
+Vision
+City Council
+• Goals
+• Objectives
+• Indicators
+Departments
+• Objectives
+• Indicators
+• Activites
+Divisions
+• Objectives
+• Expected results
+• Working methods
+• Resources needed
+Units
+• Results
+• Monitoring
+• Development
+Supplementary guidance documents
+
+[Page 21]
+A-2.3: Emissions gap 
+The table describes the emission gap from 2020 to 2030 and the emission gap to be addressed by climate actions for the period of 2024-2030 assuming that Stockholm’s current climate action plan for 2020-2023 is fulfilled 
+Baseline emissions (percentage) 
+GHG emission 
+2020 
+Residual emissions / offestting1 
+Residual emission 
+2030 
+Baseline emissions reduction target2 
+Emissions reductions in existing strategies3 
+Stockholm’s climate action plan 20202023 
+Emissions gap (to be addressed by action plan)4 
+Climate action plan 2024-2030 (absolute tonnes 
+CO2e) (%) (absolute tonnes 
+CO2e) (%) (absolute tonnes 
+CO2e) (%) (absolute tonnes 
+CO2e) (%) (absolute tonnes 
+CO2e) (%) 
+Buildings 
+577,000 
+324,000 
+253,000 
+44,000 
+209,00 
+Transports 
+640,000 
+359,000 
+281,000 
+49,000 
+232,000 
+Waste 
+30,000 
+17,000 
+13,000 
+2,000 
+11,000 
+Industrial 
+Process and 
+Product Use (IPPU) 
+Not significant 
+Not significant 
+Agricultural, 
+Forestry and 
+Land Use (AFOLU) 
+Not significant 
+Not significant 
+Total 
+1,247,000 
+* 
+700,000 
+* 
+547,000 
+* 
+95,000 
+* 
+453,000 
+* 
+1 Residual emissions consist of those emissions which can’t be reduced through climate action. Residual emission may amount to a maximum of 20% as stated by the Mission Info Kit. 
+2 Baseline reduction target = Baseline emissions – residual emissions. 
+3 Emission reductions planned for in existing action planning and strategies should be quantified per sector. 
+4 Emissions gap = Baseline emission reduction target – Emissions reduction in existing strategies. 
+* the residual emissions in 2030 are 20% of the baseline emissions in 1990. In this table, a baseline of 2020 is used in order to provide more details. 
+3.3 Module A-3 Systemic Barriers and Opportunities to 
+2030 Climate Neutrality 
+Module A-3 “Systemic Barriers to 2030 Climate Neutrality” should document the results of the stakeholder, systems and ecosystem mapping and identification of systemic barriers and opportunities. 
+A-3.1: Systems & stakeholder mapping 
+System description 
+Stakeholders involved 
+Networks 
+Influence 
+Interest 
+Governance and policy 
+National, regional and local level: 
+23 Swedish cities 
+6 government agencies 
+Viable Cities 
+The Viable Cities programme. Climate 
+City Contract 2030 – a concentrated effort from Swedish cities and the national level to speed up the work on reaching climate neutral cities. 
+This includes transition labs, workshops and an annual signing event with City mayors. 
+A long-term commitment that ensures cooperation between cities and the state-level, further assuming multilevel governance through quadruple helix collaboration, not least with civil society. 
+Revised annually. 
+Accelerate the transition toward 
+Climate neutral cities with a good life for all. 
+Local and national politicians, academia, private sector and civil society 
+Agenda 2030 Council 
+17 Commissioners (9 political and 8 nominated by civil society, private sector and academia) 
+Supports the City to implement Agenda 
+2030 targets 
+City staff 
+IPHS: 
+Innovation 
+Platform 
+Sustainable 
+Stockholm 
+One of six Swedish cities at the forefront of research relating to multilevel governance. 
+Strengthen the innovation system by clarifying the City's need for innovation, ongoing innovation processes as well as the City's functions, 
+The objective is to further develop the innovation capacity and strengthen internal and external collaboration.
+
+[Page 22]
+methods and tools for innovation. 
+Regional climate collaboration 
+Stockholm Region 
+County Administrative 
+Board in Stockholm 
+The Swedish Transport 
+Administration 
+The regional association of municipalities 
+The Climate Arena 
+Collaboration on public transport development and financing. 
+Common learning and co-operation, notably in the construction sector 
+An increased modal split for public transport 
+National climate road-map to 
+2045 
+Companies 
+Municipalities 
+Regions 
+Organisations 
+Fossil Free Sweden 
+Stockholm is participating in Zero 
+Emission goods 
+Delivery group working on guidelines for sustainable procurement. 
+National initiative to increase the pace of climate transition. 
+Goal: to build a strong industrial sector and to create more jobs and export opportunities by going fossil-free. 
+Accelerate the climate transition. Roadmaps for 22 different sectors has been developed describing actions needed to reach climate neutrality or to become fossil-free. 
+Business collaboration 
+Private sector 
+Civil society organisations 
+The Environment and 
+Climate Pact 
+340 members, two working groups focusing on sustainable plastic use and reducing transportation. 
+Collaboration with the city to reach a fossilfree Stockholm 2040. 
+Accelerate the reduction of GHG emissions. 
+Mobility, transportation and energy companies and public organisations 
+The Electrification Pact 
+63 organisations, with groups focusing on charging, infrastructure for EVs, electrification of heavy vehicles and electric power distribution. 
+Collaboration to implement measures necessary to reach an emission-free traffic in 
+Stockholm 2030. 
+Accelerate the transition towards electrification of the transport sector in the 
+Stockholm region 
+Transport authorities, research and businesses 
+The “Closer” 
+Roundtable on Urban 
+Freight 
+TripleF 
+Research collaboration 
+Support to efficient and emission free freight 
+Founding partners: 
+ABB, Ericsson, IBM, 
+KTH, Region 
+Stockholm, RISE, City of 
+Stockholm and 
+Stockholm University 
+Urban ICT Arena 
+Collaboration between academia, public sector and Business to create smart solutions for tomorrow’s cities. 
+An arena in Kista 
+Science City for creating, testing and showing the solutions for tomorrow’s sustainable cities. A testbed where innovations can be evaluated in a real urban environment 
+To develop new smart sustainability solutions to accelerate the transition. 
+Private sector 
+Academia 
+City of Stockholm 
+Green pilot 
+A network and association promoting urban farming. 
+Digital advice for urban cultivation, and leading several projects such as innovative installations of climate protected cultivation techniques in urban and vacant industrial premises. 
+Support urban cultivation. 
+Sustainable city development areas 
+Developers 
+Residents 
+Academia 
+Clean tech companies 
+Stockholm Royal 
+Seaport 
+An urban development project with the goal to be fossil-free by 2030. 
+Close collaboration with the developers providing the education and information needed to fulfil the sustainability 
+The area is used as a testbed to develop new approaches in urban development in collaboration with developers and academia. 
+To show the way to reach a fossil-free city by 2040.
+
+[Page 23]
+goals set in the development contracts. 
+Local stakeholders in Årsta, Meat packing area, 
+Hammarby 
+Waterfront and Sickla. 
+Private sector, civil society, academia and public organisations. 
+Stockholm 
+Green 
+Innovation District 
+Collaboration to reach climate-positive district by 2030 initiated by civil society. 
+The central urban development area was the first ECO-district in 
+Stockholm. Now it is extended and collaboration is leading to further innovation to accelerate the transition. 
+To accelerate the climate transition and export the smart solutions developed in the area. 
+Research 
+Royal Institute of 
+Technology (KTH) 
+Stockholm University (SU) 
+Karolinska Institutet (KI) 
+Partnership with academia in Stockholm 
+Formal collaboration for R&I to solve city challenges and use the city as a living lab. 
+Workshops to identify challenges to solve and developing solutions in various R&I projects for example in EUprojects. 
+To develop and implement sustainability solutions in Stockholm. 
+KTH 
+Massachusetts Institute of Technology (MIT) 
+Stockholm Chamber of 
+Commerce and Newsec 
+Senseable Stockholm 
+Lab 
+A collaboration between KTH Royal 
+Institute of 
+Technology, MIT 
+Massachusetts 
+Institute of 
+Technology, and the 
+City of Stockholm. It brings together cutting-edge research on cities, IoT and AI. 
+Create new solutions in sustainable urban development. Sensing the urban environment and how people and businesses use the city. 
+Use the knowledge for sustainable development of the city. 
+KTH 
+RISE 
+SU 
+Digital Futures 
+A cross-disciplinary research centre that explores and develops digital technologies of great societal importance. 
+The overall objective of 
+Digital Futures is to become one of the top five university research centres worldwide in the area of technologies for digital transformation, with tight interactions between academia, industry and society. 
+The vision of Digital 
+Futures is to shape a sustainable society through digital transformation and empower people by fostering innovation, education, leadership and entrepreneurial spirit and build a strong community. 
+A-3.2: Description of systemic barriers – textual elements 
+The City has over the years encountered numerous barriers in its work to reduce GHG emissions. Many have been overcome, but as the task to decrease emissions becomes more difficult and complex, a more systemic approach has to be taken to tackle the barriers. Below is a summary of the systemic barriers that this 2030 
+Climate Neutrality Action Plan aims to approach:  
+Multi-level governance coordination. Apart from organising the internal work and the cooperation with the local partners, it is crucial that polices on national and EU level are aligned with the climate neutrality target.  
+Behaviour change. The City aims to pursue the successful “carrot-and stick” approach with an emphasis on lowering the barriers for vulnerable groups. The sustainable option should be the most accessible. Policies such as mandatory collection of food waste and zero emission zones will be met by waste disposal equipment in the buildings and electric car-sharing hubs in residential areas.  
+Future-proofing infrastructures for climate neutrality. A major challenge is the construction and financing of necessary infrastructure. The most tangible efforts will be in power grid reinforcement and charging equipment, plants for advanced sorting of waste, and the bioenergy carbon capture and storage plant. Both private and municipally-owned companies are involved. 
+There are also systemic opportunities to be used as levers of change on the path to climate neutrality  
+The long history of working with the environment, and the pride and engagement shown by citizens and civil servant.
+
+[Page 24]
+ 
+The strong mandate given to climate mitigation work, and the full integration of environmental goals and indicators in the City’s management system.  
+The city-wide district heating system that provides multiple benefits in terms of secured heating of people’s homes, high system efficiency, energy recovery of non-recyclable waste, recovery of excess heat from i.e. data centres and local provision of electricity production.  
+The curiosity and eagerness to try out new technologies and solutions among businesses and citizens. 
+Below is a more elaborate description of the identified barriers and opportunities, structured along the main field of actions according the emissions inventory. 
+Road transport 
+The transport sector accounts for about half of total emissions. To meet the target of a 40% reduction, emissions from the transport sector need to be reduced by around 230,000 tonnes overall. Road transport is the main contributor to emissions in the sector, accounting for almost 80% of emissions. To reduce emissions in the transport sector, the following actions are needed:  
+Reducing road transport within the city  
+A significant increase in electrification  
+Increased use of sustainable biofuels 
+The Stockholm area has well-developed infrastructure for public transport with a metro system which has been developed since the 1950s. The metro network has been supplemented over time and a large expansion project is ongoing to connect Stockholm with the neighbouring municipalities of Nacka, Järfälla and Solna. The development is implemented by the Stockholm Region who is responsible for all public transport in Stockholm. 
+Thanks to an efficient metro and a network of trams and buses, the majority of citizens in Stockholm choose public transport when commuting. Approximately 75-80% of commuters rely on public transport, biking, or walking. The City assigns land, roads, and other areas owned by the City for expanding bike paths, walkways, and bus lanes to raise the attractiveness of choosing public transport, biking and walking. 
+The following barriers are relevant in order to further reduce road traffic volumes  
+Lack of influence over the extension and adjustment of congestion charges, which has a significant impact on reducing car traffic. These charges are part of national policy and subject to negotiations.  
+A factor influencing traffic volumes is the taxation on work travel. The government has suggested to return to a former system benefiting long work travels by car.  
+Regulating parking spaces and parking fees as part of the city’s parking plan, which promotes the use of non-car modes of transport. A barrier is that national policy does not allow municipalities to differentiate charges based on environmental performance and to reserve street parking spaces for high occupancy vehicles (car-sharing).  
+Introducing smart mobility options that offer more sustainable travel options such as bike- and car charing. A network of mobility services would complement existing public transport, cycling, and walking and provide alternatives to car transport. It can also improve access to electrified transport for travellers in Stockholm. A barrier is that such a network should be on a regional level and operationalized by private mobility companies and that national policy does not allow municipalities to reserve street parking spaces for car-sharing.  
+Leisure travel is still dominated by car transport. Approximately 70% of car journeys in Stockholm are for leisure purposes. This calls for more efforts in local and regional planning to connect attraction point with sustainable modes of transport. It is a challenge to succeed with the behavioural change needed by citizens. 
+To achieve an electrification of the transport sector, increased capacity of the electricity grid and charging infrastructure is needed. To facilitate the transition to electric vehicles, the City can increase the availability of charging infrastructure, both in its own parking garages and on-street parking in both the inner and outer city. 
+One challenge in the adoption of electric vehicles is ensuring that charging infrastructure keeps pace with the increasing number of electric cars on the road. According to the City budget 2023, outdoor and indoor parking spaces owned by the City in neighbourhood areas must be equipped with charging infrastructure as follows:  in the inner city, at least 50% of parking space owned by the City-owned parking companies shall be equipped with charging infrastructure by 2026 and 100% by 2028.  in the suburbs, at least 50% of the parking spaces shall be prepared for, and 25% equipped with, charging infrastructure by 2026 and 100% by 2030. 
+To further promote the adoption of electric vehicles, the City of Stockholm plans to implement zero emission zones, which are areas in which only emission free cars are allowed to operate. The City has the authority to introduce these zones, while the responsibility for monitoring and enforcing them falls on the police (which is funded at the national level). A zero emission zone will be established in the Old Town and another area of the
+
+[Page 25]
+city by introducing “Emission Zone 3” fully implemented by 2026. Legal aspects could be a barrier and will be investigated. 
+A significant barrier is the shift in national policy for biofuel use in fossil fuels, the so-called reduction quota. The 
+City has limited ability to influence the percentage of renewable fuels used in fuel consumption, which is established by national policy. Sweden’s policies include a requirement to increase the blend of renewable fuels in gasoline and diesel until 2030, but this requirement has been paused in 2023 by the Government. Instead, the 
+Government has decided to reduce the requirement to the minimum level required by the European Union. 
+Compared to the expected reductions due to the previous requirement, pausing the requirement will result in a significant increase in emissions until 2030. 
+The City is working to increase the share of renewable fuels in its own vehicle fleet and through contracted operations with the goal of being fossil-free by 2030. However, the City's fuel requirements are linked to the level of renewable fuels in the emission reduction requirement. If the Swedish Government removes, lowers or pauses the requirement, emissions from the City's contracted activities will be affected during the years that the contracts are in effect. 
+The City is providing information to encourage citizens to make more environmentally-friendly fuel choices and to use electric vehicles. One challenge is the lack of financial incentives to switch fuels since highly-blended renewable fuels are often more expensive. For citizens the purchase of an electric car requires a higher investment. The volatile price of electricity also makes it difficult to make relevant calculations on the investment. 
+Electric cars needs to be available through car-sharing and car rentals. 
+To reduce emissions from freight transport in the inner city, the ambition is reach emission-free transport by 
+2030. In addition to emission-free vehicles for delivery and freight transport, other strategies include consolidation of smaller shipments into larger ones to reduce the number of trips needed, and implementing “off-peak” transport. A shift towards "off-peak" transport, such as night deliveries, can reduce driving time in the city, reducing emissions by an average of 30%. Off-peak deliveries with emission-free vehicles are quieter, which means night deliveries can occur without noise complaints. To increase the electrification of heavy traffic, the 
+City needs to facilitate the establishment of fast-charging stations in strategic locations. 
+There is also potential to increase deliveries to the region by sea and rail. For example, Region Stockholm has required that the new metro project relies on barges instead of trucks to transport excavated rocks, which is estimated to reduce CO2e emissions by 60% compared to truck transport. Economic incentives are crucial for stimulating a change from truck to barges. However, only a few development projects in Stockholm are close to harbours. 
+Smaller vehicles such as cargo bikes may play an important role in smart city logistic solutions, as they can provide benefits such as increased accessibility and reduced parking needs for certain service and craft professions. The City can support the shift from trucks to cargo bikes through procurement requirements and establishing locations for loading/unloading. However, one barrier is that the economic feasibility of using cargo bikes for freight transport may be limited due to higher personnel costs since more personnel might be needed. 
+Construction machines 
+Construction machines signifies the full range of machinery used for various services in a city but not for transport of goods or people e.g. hand-held motorised tools, street sweepers, fork-lifts, wheel loaders and excavators. It is a diverse group of which the impact on GHG emissions is predominantly caused by machines used in the construction of buildings, road works and the like. 
+The City is developing a plan to manage and reuse materials generated during construction projects (reducing driving time and thus emissions). This plan may require intermediate storage and other measures to be successful. 
+To reduce emissions from construction vehicles, the City of Stockholm has established a requirement for 20% renewable fuel in addition to the reduction quota in its procurement. The requirement will increase each year until fossil-free fuels are phased out by 2030. However, this transition relies on national regulations. To further reduce emissions, the City will continue to require the use of renewable fuels and, to a greater extent, electricallypowered construction vehicles and fossil-free construction sites in its procurement. To support the use of electric construction vehicles, the City needs to ensure that sufficient charging space and access to electricity is provided in the vicinity of the construction sites. 
+The use of electrically-powered hand-held machines is becoming more common, but there is still a limited range of electrically powered heavy machinery available. There is also a shortage of these machines on the market. 
+Using electrically-powered machinery can be a significant investment, particularly for smaller suppliers, and the 
+City's increased requirements for such machinery may lead to cost increases for contractors and hence the City. 
+A register and registration system for machinery would make it easier to monitor and enforce procurement requirements.
+
+[Page 26]
+The Swedish Government has announced that the reduction quota for diesel, currently at 30%, will be replaced by a less stringent reduction by 2030. This will have an impact on emissions from previously signed contracts (unless the level set on a European level is more ambitious). It is possible that setting requirements for renewable fuels may become more expensive and challenging in the future, depending on the design of the reductions. 
+Port and waterways 
+The Port of Stockholm has the primary responsibility for implementing measures to reduce emissions at quaysides. For example, the port can offer electrical connections to ships at berth, which reduces emissions from ships' engines. 
+Revised EU regulations, such as the Alternative Fuels Infrastructure Regulation (AFIR), will help reduce emissions in ports and waterways, as part of the "Fit for 55" initiative. These regulations require ports to be able to provide electrical connections to at least 90% of ships over 5,000 GT at berth, starting on 1 January 2030. 
+There will be exceptions for ships berthed for less than 2 hours as well as ships that have adopted zero-emission technology. These measures are expected to significantly reduce emissions from shipping in ports and waterways. 
+To provide electrical connections to ships at berth, the Port of Stockholm will need to significantly increase its electrical power capacity, which will require significant investments. Further, shipping companies will need to invest to modify ships so they can be connected to electricity at berth. 
+To reduce emissions in waterways and during operation and manoeuvring in port areas, the transition to renewable fuels is necessary. The EU is currently developing regulations (FuelEU Maritime) that will require shipping companies to use more sustainable fuels and to convert their vessels for electricity connection. These regulations set target levels for reducing greenhouse gas emissions generated from energy use onboard ships: the reduction targets are (compared to 2020 levels) 2% in 2025, 6% in 2030, and 75% in 2050. These targets are intended to encourage a shift towards more environmentally-friendly shipping practices. 
+Local maritime transport in Stockholm already use renewable fuels and is expected to make the switch to 100% electric or renewable fuels by 2030. 
+Heating 
+The heating sector currently accounts for 28% of emissions. A 40% reduction in emissions would require a total reduction of approximately 125,000 tonnes CO2e. These emissions come mainly from district heating and fossil fuel heating in individual buildings. 
+Actions are mainly needed to:  
+Phase out all fossil oil in district heating production and in oil boilers in individual buildings; and  
+Reduce fossil-based plastics going to incineration. 
+Approximately 80% of the buildings in Stockholm are heated with district heating. In 2020, emissions from district heating production totalled around 300,000 tonnes CO2e. District heating in Stockholm is currently produced using a mix of biofuels, waste, electricity (for heat pumps, etc.), heat from seawater and wastewater, and a small amount of bio-oil and fossil oil. Reducing emissions from district heating will be important in achieving overall emission reduction targets. 
+Recovery of energy from waste treatment (including both municipal and commercial) through incineration accounts for about one-third of the energy input in district heating production, but it generates about 80% of the emissions In addition to producing district heat, waste incineration plays a crucial role in managing the waste generated by society, reducing the need for landfilling and catering for the destruction of hazardous waste On top of that, the CHP plants connected to the district heating provide a very important source of local electricity supply. The district heating system is therefore regarded as a very important asset. 
+Waste treatment in connection to heating 
+Municipal and commercial waste that remains after sorting activities is incinerated in CHP facilities and the energy is recovered to the local heating grid and electricity. The waste mainly originates from the entire 
+Stockholm area. 
+It can be debated whether these emissions should be linked to the heating requirement as done above, since the emission is not dependent on the heating requirement but on the composition of the waste. The activities required to reduce emissions are increased sorting of plastic in particular, as well as the introduction of CCS during incineration. Residual emissions, which are the long-term goal, will not be achieved until these measures are implemented. CCS in waste incineration is now being investigated by the energy company 
+Stockholm Exergi, and may be introduced after 2030. 
+Currently, most plastics are made from fossil fuel raw materials and only a small proportion of plastics are recycled after they become waste. Reducing the use of fossil-based plastics and increasing the recycling of plastics will be important in reducing emissions from the waste sector. 
+To reduce emissions from the incineration of fossil-based plastics in waste, action is needed throughout the entire plastics value chain: preventing plastic waste by controlling which products and packages are produced and sold, reducing the use of such plastics, and increasing the separation and collection of plastics for recycling.
+
+[Page 27]
+Reducing the use of fossil-based plastics and increasing the recycling of plastics will be important in reducing emissions from the waste sector. 
+Stockholm is taking several measures to prevent plastic waste and increase the recycling of separated plastics. 
+The Action Plan for Sustainable Plastic Use 2021-2026 outlines a comprehensive plastic strategy and 14 specific measures to promote more sustainable use of plastic and reduce the share of fossil-based plastics in waste. 
+These measures primarily target the City's own operations. The issue is also addressed in several other strategies and action plans in Stockholm, such as the Stockholm City Chemicals Plan 2020-2023, the Stockholm 
+City Action Plan for Circular Construction 2021-2024, and the Waste Plan for Stockholm 2021-2024. The City is also working on developing circular material flows, with a focus on prevention (in order to minimize or eliminate waste). These efforts aim to promote more sustainable use of plastics and reduce the environmental impacts of plastic production and disposal. 
+Both national and EU targets have been set for plastics, including a minimum recycling rate of 50% for packaging by 2025 and a 60% for municipal waste by 2030. These targets are intended to encourage the recycling of plastic materials and reduce the environmental impacts of plastic production and disposal. 
+There are various initiatives and new regulations at the national and EU level to reduce plastic use and increase the separation of plastic packaging. These include:  
+Improved rules on packaging collection from households and businesses, with municipalities taking over responsibility and eventually transitioning to property-based collection.  
+A requirement, in place since 2020, to separate construction and demolition waste (including plastics).  
+EU Directives and Swedish regulations to reduce single-use plastic items (with increasingly stricter requirements).  
+Several industry-wide roadmaps for fossil-free packaging, with a focus on plastic packaging and long-term targets.  
+The construction of a national plastic sorting facility in Motala to increase the recycling of plastic packaging. 
+Together with the waste management company SÖRAB, Stockholm Exergi (partly owned by the City) has invested in a post-sorting facility for municipal waste. The plant, which became operational in 2021, mechanically separates organic food waste, plastic, and metal. The Stockholm Water and Waste Company plans to commission a further sorting plant in Högdalen in 2024. Stockholm Exergi expects that the sorting facilities will be able to process 75% of plastic packaging and bags, which corresponds to over 60% of all plastic material in municipal waste. The increased separation of food waste also provides additional potential for biogas production. 
+Currently, only 35-40% of the plastic sent from the post-sorting facility is recycled, with the rest being incinerated. 
+The sorting of plastic partially transfers emissions from Stockholm to other municipalities. 
+Currently, only the combustible fraction of municipal waste is post-sorted. Both different and new technology are needed for post-sorting commercial waste. Currently, there are legal requirements for source separation for construction and civil engineering activities, but there is no legal requirement for the sorted waste to be submitted for recycling. 
+Stockholm Exergi's waste incineration plants have the capacity to process more waste than is generated by 
+Stockholm residents. Currently, waste is mainly incinerated from neighbouring municipalities, but there is also the possibility of importing waste. From a European perspective, there are benefits to treating waste in 
+Stockholm's waste incinerators and turning it into heat and electricity, rather than sending it to a landfill. 
+In other words, reducing the amount of plastic in Stockholm alone is not enough to reduce emissions from district heating use. The amount of fossil-based plastic must be reduced on a European, national and regional level. It is difficult to estimate what proportion of plastic will remain in waste flows to 2030, but it is expected that a significant proportion will still be present despite the initiatives described above. 
+Carbon Capture and Storage (CCS) is a potential option for reducing the remaining emissions from the incineration of fossil-based waste. CCS linked to fossil waste incineration does not contribute to negative emissions. Instead, the technology can achieve net-zero emissions by capturing and storing the fossil emissions that would otherwise be released. On the other hand, the biogenic portion of the carbon dioxide, if stored permanently, will at the same time create negative emissions. The net effect will be negative emissions as the biogenic share exceeds 50% of the carbon dioxide. 
+In district heating, oil is used for starting and stopping operating units, as well as for peaking facilities throughout the district heating system. Oil use varies from year to year but in 2021, emissions from fossil oil in district heating production were approximately 35,000 tonnes CO2e (equivalent to 10% of total district heating emissions). 
+Stockholm Exergi aims to use bio-oils as much as possible, but there may be shortages and high prices in some years. Additionally, many bio-oils do not have long shelf lives, which limits their use in facilities that are only run occasionally. District heating production without fossil oil during normal years without disturbances is expected by 2030. Additional optimization of district heating production is achieved by using surplus heat from data centres and other sources in the district heating network and by controlling sub-centres.
+
+[Page 28]
+Fossil oil for heating in individual buildings is limited in Stockholm. Emissions in 2020 were estimated at around 
+45,000 tonnes CO2e, but these statistics are uncertain. There are a few remaining oil boilers within the City's own organization. According to the Climate Action Plan 2020-2023, the City of Stockholm will phase out all oil heating in its own buildings by 2023. It is estimated that all oil boilers will be phased out by 2030. 
+On average, total heat demand in Stockholm has decreased by 1.2% per year between 2011 and 2020, despite the addition of new buildings, thanks to energy efficiency improvements. Continued energy efficiency improvements in existing buildings and ambitious energy requirements for new buildings will help to ensure that heating demand does not increase despite a growing population. 
+The current Environment programme includes a target to improve the City's energy efficiency by 5% by 2023. 
+As emissions from district heating are reduced, the climate impact of further energy efficiency gains will be relatively small. 
+Electricity use 
+Electricity in Stockholm is mainly produced through combined heat and power plants (which generate both electricity and district heating) and through solar panels. However, the current system used to calculate emissions from electricity takes into account the Nordic electricity mix, rather than the electricity that is actually produced within the City's boundaries. This means that electricity production within Stockholm does not impact the total emissions particularly. However, installing solar panels on buildings in the city decreases the amount of electricity purchased from outside sources. It is not feasible to establish wind power within the city due to concerns about safety and disturbance to residential areas and proximity to airports. Alternative forms of local electricity generation, such as biogas or hydrogen, could be investigated. 
+Emissions from electricity generation in the Nordic region have significantly decreased in the past decade as fossil fuels have been phased out. The energy crisis in Europe creates uncertainty in forecasting the future, particularly in the short term. There is a risk that emissions from Nordic electricity generation may increase in the coming years due to the use of fossil fuel backup power plants. However, high electricity prices may also drive the development of renewable energy sources, such as wind and solar power. The future of nuclear power is uncertain, but since it operates on long investment schedules, significant changes in production are unlikely by 2030. Overall, emissions from Nordic electricity production (g CO2/kWh of electricity produced) are expected to decrease by 2030. Emissions from electricity use in Stockholm could potentially be reduced by 
+65,000 tonnes CO2e between 2023 and 2030, despite the fact that overall electricity consumption will increase in Stockholm. Efforts to reduce these emissions should focus on improving electricity efficiency and phasing out fossil fuel-based electricity production in the Nordic region. It is important to note that the City cannot directly influence the development of electricity production in the Nordic region. 
+Electricity consumption in Stockholm is expected to increase by 2030 due to electrification of road traffic and construction vehicles, the electrification of ships at berth, and the expansion of the metro. 
+Electricity consumption for heating and household purposes in existing and planned new buildings in Stockholm is not expected to increase significantly by 2030 due to the use of more efficient appliances and systems. There are opportunities to improve electricity efficiency within the city, such as replacing existing public lighting, which could reduce electricity consumption by approximately 15 GWh (corresponding to about 1,000 tonnes of CO2e emissions). Additionally, SISAB (the municipal school building owner) has the potential to reduce electricity consumption by approximately 7 GWh (approximately 500 tonnes CO2 emissions) by installing more efficient light fixtures. These measures may require significant investments, given the high cost per tonne of CO2 reduced. 
+Opportunities for reducing the use of electricity in direct heating include the possibility of re-introduction state conversion grants (subsidies) for properties that currently use direct electricity for heating. The City is also working to decrease the use of direct electricity for heating in its own building stock. These types of conversions require significant investments and may provide relatively little benefit in terms of reducing carbon emissions, since the electricity used has relatively low emissions. 
+Overall, disruption of electricity delivery is not expected in Stockholm through 2030, although there may be short periods when shortages occur. This is because the current electricity transmission cables operated by the 
+Swedish National Grid do not have sufficient capacity to transport enough electricity during times of high consumption, such as during cold weather. To meet future demand in Stockholm, the electricity grid needs to be reinforced. Ellevio is responsible for the local electricity grid in the city, while the Swedish National Grid is responsible for the distribution network, ensuring that there is sufficient electricity available in Stockholm as a whole. The electricity grid is currently being expanded to double its capacity, but there is a risk of delays in the expansion of the grid and transformer stations, which could further delay reinforcement until after 2030. 
+To help reduce emissions and avoid the need for backup power plants, efforts can be made to reduce peak electricity demand. The City has identified measures to do this, such as adjusting the operating times of fans and ventilation systems, adapting charging times for vehicles, and implementing procedures in commercial kitchens.
+
+[Page 29]
+City gas 
+The use of gas is very limited in Stockholm in comparison with other European cities. Stockholm is not connected to the European natural gas grid but relies on locally-produced biogas and LNG storage. Gas is used mainly for cooking, as fuel in CNG vehicles and in crematories In 2021, the share of biogas was 78%, with the remaining portion being natural gas. The use of gas in Stockholm in 2020 resulted in an estimated 1,600 tonnes CO2e emissions. Methane leakage in the city gas network was responsible for approximately 27,000 tonnes CO2e emissions. There is potential to increase the production of biogas in Stockholm by 2030 through increased collection of food waste. By January 2023, it will be mandatory for households and businesses in the city to sort their food waste, which can then be converted into biogas and bio-fertilizer. Currently, only about 30% of 
+Stockholm's food waste is properly sorted. 
+It is estimated that emissions from city gas use in Stockholm could be reduced by around 10,000 tonnes CO2e between 2023 and 2030. The most significant potential is through reducing leakage in the gas network and replacing the remaining use of natural gas with biogas. 
+Wastewater treatment 
+During the treatment of wastewater, decomposition products such as methane and nitrous oxide are produced, leading to emissions of around 30,000 tonnes CO2e in 2020. It is estimated that emissions can be reduced by 
+40% by 2027, resulting in a reduction of approximately 12,000 tonnes CO2e. 
+Negative emissions 
+For Stockholm to become climate positive by 2030, remaining 700,000 tonnes CO2e emissions must be countered and beyond through negative emissions achieved within the City’s reporting boundaries. Currently, the technology with the most potential in Stockholm is Bio-Energy Carbon Capture and Storage, BECCS. A 
+BECCS plant linked to the biofuel-fired CHP plant (KKV8) is expected to be operational in 2025, with the capacity to produce 800,000 tonnes CO2e per year in negative emissions. The financing of a large-scale BECCS plant will likely rely on three sources: EU, national government, and the sale of negative emission certificates on a voluntary carbon market. The EU Innovation Fund has selected Stockholm Exergi's BECCS project as one of seven projects in the EU to receive €1.1 billion in funding. The negative emissions will be partially financed through sales to private operators, which means a system must be developed to avoid double counting of these emissions. Companies and cities often report emissions using different calculation protocols and system boundaries. This does not constitute double accounting, but is fully in accordance with the framework for national accounting and corporate accounting. The City will calculate both emissions and negative emissions that occur within Stockholm's territorial boundaries, and the target for 2030 is based on the negative emissions balancing the emissions that remain. This is not offsetting, but an accounting method that the city applies and which is reminiscent of the current framework for how emissions are reported by both nations and companies. The negative emissions that Stockholm Exergi creates with the BECCS project will thus be included in the nation of 
+Sweden's climate reporting, and at the same time they will be included in the climate reports prepared by companies that buy negative emissions on a voluntary market in order to reach their climate goals. The same principle applies to the City's climate reporting and development of the climate goal 2030. The City neither buys nor claims these negative emissions, but reports them in its climate report, where both emissions and carbon sinks within its geographical boundary are summed up. 
+A-3.3: Description or visualisation of participatory model for the city climate neutrality – textual and visual elements 
+The City has started a mission work by identifying the project portfolio and interventions which can be scaled up to contribute to the climate transformation. Deepened collaboration and co-creation with the private sector and citizens is planned in five geographical areas representing different types of urban areas. Transition arenas for climate and health will be built up with the local communities. These areas will work as indicators for what is needed within the whole city. This is part of an application to the Pilot Cities call and the project will also result in a model for scaling-up solutions which have been tested in the areas. 
+Another project concerning system demonstrations for reduced emissions from transport is focusing on development of the electrification together with stakeholders in the Electrification Pact. It is also collaborating with the local community in the same five geographical areas. The City is also collaborating with the private sector through the Climate Pact since fifteen years. Operative task forces are established to reduce the largest sources of emissions from transport and decreased use of plastics. 
+The City has established strategic partnership with several universities to explore new dimensions of a smart city; mobility, energy production and efficiency, environmental surveillance, water and waste handling, public health and governance models.
+
+[Page 30]
+Collaboration with citizens occurs in several forms, for example in the digital citizens' panel, when designing public spaces and in dialogue meetings with civil society organisations. Since 2019, an 
+Agenda 2030 SDG council with civil society participation convenes monthly and informs the City’s governing documents e.g. on how social and environmental sustainability could be achieved simultaneously. The governing documents are also sent for broad public consultation before being formally adopted. 
+The Climate Neutrality Commitments document is signed by the most important stakeholders to accelerate the climate transition. 
+The City’s climate effort is financed in several ways and is described in Table 2 and 3 in the 2030 
+Climate Investment Plan. 
+The Climate Neutrality Investment Plan for the City of Stockholm also identifies different actors' investment needs to implement the necessary actions. Much of the total climate investments needed to reach the goals has to be done by private companies and inhabitants while the City takes on a smaller share. This requires developed forms of collaboration and dialogue for coordinated planning and implementation of measures. A new climate action plan for the City will be developed in 2023 along with the above participatory model, using co-creation and portfolio thinking as crucial elements. 
+4 Part B – Pathways towards Climate Neutrality by 
+2030 
+Part B represents the core of the Action Plan, shaped by local authorities, local businesses and stakeholders, comprising of the most essential elements: scenarios, strategic objectives, impacts, action portfolios and indicators for monitoring, evaluation and learning. 
+4.1 Module B-1 Climate Neutrality Scenarios and Impact 
+Pathways 
+Module B-1 “Climate Neutrality Scenarios and Impact Pathways” should list impact pathways, early and late outcomes and direct and indirect impacts (co-benefits) according to and adapted from the NZC 
+Theory of Change and the AP Guidance – clustered by fields of action. 
+B-1.1: Impact Pathways 
+Fields of action 
+Systemic levers 
+Early changes (1-2 years) 
+Late outcomes (3-4 years) 
+Direct impacts (Emission reductions in tons CO2) 
+Indirect impacts (cobenefits) 
+Energy systems 
+Technology/ infrastructure 
+Plant for postsorting of plastic waste 
+Further upscaling 
+200 000 
+Increased circularity 
+Increased energy security 
+Improved air quality 
+Phasing out of oil boilers by 2025 
+Reinforced electric grid 
+Investigate CCS linked to waste incineration
+
+[Page 31]
+Governance & policy 
+Stricter requirements for recycling of construction plastics 
+Reduced volumes of plastic waste in construction and demolition 
+Social innovation 
+Increased awareness of plastics in society 
+Reduced use and increased sorting of plastics 
+Negative emissions 
+Technology/ infrastructure 
+Full-scale 
+BECCS 
+800 000 
+Mobility & transport 
+Technology/ infrastructure 
+Improved infrastructure for walking and cycling 
+New metro lines 
+239 000 
+Improved air quality and public health 
+Shorter travel times 
+Increased accessibility 
+More space for pedestrians and green infrastructure 
+Expanded charging infrastructure for 
+EVs 
+Enabling the emission-free inner city 
+Electricity connection at berths in the port 
+Increased use of renewable fuels and electrification of ships 
+Governance & policy 
+Zero emission zone in Old Town and parts of inner 
+City 
+Increased uptake of 
+EVs 
+An agreement on a congestion charge expansion and differentiation 
+Reduced traffic volumes and increased uptake of 
+EVs 
+Investigation of parking regulations and more efficient use of urban space 
+Reduced traffic volumes 
+Requirements in public procurements 
+Increased supply and use of electric
+
+[Page 32]
+trucks and machines 
+Mass Excavation 
+Management 
+Plan 
+Increased circularity, waterborne transport of construction material 
+Social innovation 
+Mobility hubs and services 
+Increased use of new mobility services 
+Democracy & participation 
+Developed cocreation within the Electrification 
+Pact 
+Increased uptake of 
+EVs 
+Changed use of public spaces e.g. less parking, pedestrian streets 
+Reduced traffic volumes 
+Finance & funding 
+Developed business models for EV charging 
+Increased uptake of 
+EVs notably in suburban areas 
+Learning & capabilities 
+Evaluation of innovative solutions 
+Upscaling 
+Waste & circular economy 
+Technology/ infrastructure 
+Measurement of methane leakage in sewage treatment 
+Investments to reduce leakage 
+12 000 
+Decreased consumptionbased emissions 
+Governance & policy 
+Mandatory food waste collection 
+Increased biogas production 
+Social innovation 
+Development of re-use centres 
+Potential for job creation 
+Green infrastructure & nature based solutions 
+Technology/ infrastructure 
+Increased demand for biochar as soil improver and carbon sink 
+Increased production of biochar from green waste tbd 
+Heat source from biochar production 
+Improved climate adaptation 
+Governance & policy 
+New tree policy 
+Increased carbon stock in green infrastructure 
+Built environment 
+Technology/ infrastructure 
+Decreased use of direct electricity for heating 
+Decreased peak power demand 
+Included in 
+Energy systems 
+Reduced energy costs 
+Energy retrofitting using LED lighting and AI control
+
+[Page 33]
+Apart from the above table of impact pathways, the City of Stockholm has also devised an impact assessment starting from the most tangible remaining sources of CO2-emissions. The table below shows a summary of this analysis together with a note on how the potential emission reductions have been calculated. 
+Areas where action is needed 
+Potential CO2e reduction 
+Comment 
+Road transport 
+195,000 tonnes CO2e 
+Based on 30% reduction in traffic (assuming 
+15% reduction in emissions), 42% fleet electrification, and a reduction quota equivalent to the 2019 level 
+Heating 
+Waste treatment 
+125,000 tonnes CO2e 
+Based on 100% phase-out of fossil oil 
+20% reduction of fossil share in waste incineration. 
+Electricity use 
+65,000 tonnes CO2e 
+Based on a 10% increase in electricity use and a 40% reduction in the emission factor for the Nordic electricity mix. 
+Port and waterways 
+28,000 tonnes CO2e 
+Based on 90% onshore power supply and 
+6% emission reduction according to EU directive FuelEU Maritime 
+Wastewater treatment 
+12,000 tonnes CO2e 
+Based on 40% emissions reduction by 2027 
+City gas 
+10,000 tonnes CO2e 
+Based on 30% leakage reduction between 
+2020 and 2030 and 100% conversion to biogas in the city gas network. 
+Construction vehicles 
+8,000 tonnes CO2e 
+Based on the 
+City’s procurement requirements and a reduction quota equivalent to the 2019 level 
+Air transport 
+8,000 tonnes CO2e 
+Based on the kerosene reduction quota and the aviation industry’s own roadmap 
+TOTAL 
+450,000 tonnes CO2e 
+Negative emissions 
+- 
+800,000 tonnes 
+CO2e 
+Based on CCS at the KKV8 bio-CHP plant 
+B-1.2: Description of impact pathways– textual and visual elements 
+The impact pathways to climate neutrality are founded on the systemic barriers identified previously.  
+Multi-level governance coordination  
+Behaviour change.  
+Future-proofing infrastructures for climate neutrality. 
+In order to interpret the above tables, it is important to remember that the district heating system in 
+Stockholm covers 80% of the buildings, and that incinerated waste is used as a major source of energy in the City’s CHP plants. This means that the impact pathways for the energy sector, waste and buildings are highly intertwined. In order to reduce the emissions connected to heating of buildings, the complex issue of fossil-based plastics in society needs to be addressed. Recyclable plastics need to be sorted out for material recycling to a much greater extent. The introduction of the CCS/US technology in waste incineration carries a decisive potential to reduce the remaining fossil carbon dioxide emissions by 90% and create negative emissions of the biogenic carbon. An alternative is that the carbon dioxide that is captured can be processed, upgraded and returned as a secondary raw material to the producers. This would create sustainable carbon cycles. Stockholm Exergi has started preliminary studies on how the technology can be introduced within the timeframe of 2030-2040. Moreover, energy retrofitting of buildings does not pay-off as much in terms of CO2-reductions due to the low emission factors for district heating and electricity. Energy efficiency is however and important element of a sustainable use of resources. 
+In addition to producing district heat, waste incineration plays a crucial role in managing the waste generated by society, reducing the need for landfilling and catering for the destruction of hazardous waste. On top of that, the CHP plants connected to district heating provide a very important source of
+
+[Page 34]
+local electricity supply. The district heating system is therefore regarded as a very important asset in many respects. The district heating company Stockholm Exergi AB is semi-owned by the City. 
+With regard to the energy sector, during recent years a very important impact pathway to create negative emissions has emerged. The possibility to capture CO2 from the bio-CHP plant has been tested in a pilot since 2019, and a full-scale plant is now underway. 
+As for mobility and transport, much has been done to incentivize sustainable modes of transport. This includes an extensive public transport system, congestion charges, priority to bikes and buses in the road network and a basic infrastructure for charging of EVs and refueling of biomethane. In order to reach climate neutrality by 2030, a wider range of systemic levers need to be exploited. This includes business models for new mobility services, combining policies with social innovation to promote new travel patterns and facilitate mobility for priority groups, new routines for the transport of construction material, and not least the massive investments needed for a full-scale electrification. 
+The figure below illustrates the quantities of emission reductions needed by 2030 divided into sectors. 
+Emissions need to be reduced by 40% (450,000 tonnes CO2e) between 2023 and 2030 in order to reach an 80% reduction from the base year of 1990. Road traffic contributes with the largest share of emissions (40%), followed by heating (28%), and electricity use (16%). 
+4.2 Module B-2 Climate Neutrality Portfolio Design 
+Module B-2 “Climate Neutrality Portfolio Design” should contain a project description for each intervention planned, including interventions by local businesses and industry, according to the template 
+B-2.1, including actions those interventions targeted at enhancing carbon sinks to address residual emissions. Narrative analysis and comments can be provided in B-2.2. A summary of how residual emissions are addressed, should be provided in B-2.3. 
+B-2.1: Description of action portfolios - textual or visual 
+Fields of action 
+Portfolio description 
+List of actions 
+Descriptions 
+Energy systems 
+Heating # Phase out fossil fuels in district heating # Phase out oil burners in buildings 
+To a limited extent, fossil oil is used on very cold days and as a back-up. This will be replaced by bio-oil.
+
+[Page 35]
+Waste treatment # Reduce the amount of fossil plastic in incineration (for district heating) 
+Electricity use # Reinforcements in the electricity grid # Phase out fossil fuels in the Nordic electricity production 
+City gas # Phase out natural gas # Reduce leakage from the city gas distribution network 
+Negative emissions # Establish negative emissions using carbon capture and storage in connection to the KVV6 bio-CHP plant (BECCS) 
+A limited number of houses still use oilburners. The city aims to phase these out. 
+Includes actions along the value chain of plastics: Prevent plastic waste from occurring, Increase sorting of fractions, 
+Increase collection of plastic waste for recycling. Plastic waste is the main fossil contributor in Stockholm’s district heating. 
+Hence, the main focus is on reducing the amount of plastics in the combustion plants. 
+Investments are planned to double the capacity by strengthening the grid and using digitalization. 
+Flexible market mechanisms are being tested. 
+Increase renewable energy production in the Nordic Region, and phase out oil, natural gas and coal from electricity production. 
+When the bus fleet is electrified, the demand for gas will decrease. The production of biogas is expected to increase as sorting of bio-waste becomes mandatory. New applications for biogas will be investigated. 
+Investments in the network will be coordinated with other infrastructure investments to cut costs and effort. 
+Combining 
+CO2 capture with heat recovery, the BECCS Stockholm-project will capture and permanently store large quantities of biogenic CO2. 
+Mobility & transport 
+Road transport # Improve infrastructure for walking and cycling # Increase availability of public transport # Introducing smart mobility services # Advocate for an expansion and differentiation of the congestion charges # Improve regulation of parking spaces and increase parking fees 
+A new cycle plan was adopted in 2022 to develop the cycle lanes. 
+Extension of the metro network is underway. 
+A network of strategically-placed mobility services would complement existing public transport, cycling, and walking and provide alternatives to car transport. 
+Could have a significant impact on reducing car traffic. Congestion charges are regulated by national law. 
+As part of the city’s mobility strategy, which promotes the use of non-car modes of transport.
+
+[Page 36]
+# Zero emission zone (Environmental zone 3) in Old Town and parts of inner 
+City # Reduction of freight transport # Charging infrastructure along streets # Charging infrastructure on land owned by the City 
+Construction machines # 
+Promote electric construction machines 
+Port and waterways # Onshore power supply for ships at quay # 
+Change from fossil fuels to renewables and electricity in vessels 
+Will stimulate the uptake of emission-free vehicles 
+Could be achieved by local reuse of construction materials and by waterborne transport of construction material instead of trucks. Promotion of cargo cycling in service professions through procurement and promotion of off-peak transports and consolidation hubs 
+Enable for private actors to invest in charging infrastructure in certain areas. 
+The City can provide accessibility to and enable charging infrastructure in Cityowned parking areas. 
+Increase the share of electric construction vehicles in the City's own and contracted activities 
+The City is responsible for investments in the infrastructure in the ports, while private companies need to make investments in the ships. 
+Investments are needed in new vessels or adjustments in existing vessels. Both local public waterborne transport and longdistance ferries and cruisers are affected. 
+Waste & circular economy 
+Wastewater treatment # Reduce emissions from sewage sludge 
+Decrease methane and nitrous oxide emissions through continuous measurement at the wastewater treatment plants to identify opportunities for emission reductions. 
+Green infrastructure & naturebased solutions # 
+Increase the carbon stock in vegetation and soil # Increase biochar production and use 
+Investigate methods for increasing the green space carbon stock in urban development processes. 
+Investigate the demand for biochar and aim for large-scale production from green waste. Biochar has multiple benefits as soil improver, carbon sink, heat source etc. 
+Built environment # Decrease the amount of houses with direct electricity for heating. # Decrease electricity usage in e.g. lighting, elevators, fans. # Energy efficiency measures e.g LED lighting and AI control 
+In both new and existing building stock. 
+Retrofitting of existing buildings. Strict energy requirements for new builds on municipal land. Reduce peak electricity demand. Use solar power to cut energy costs and meet the increased demand for charging of EVs.
+
+[Page 37]
+# PV - installations 
+The above table presents a selection of actions that are clustered into the most important portfolios. 
+During 2023 the City will produce a new climate action plan with elaborated portfolios of measures that are co-created with relevant stakeholders. The table below is an example of an action outline. 
+B-2.2a: Individual action outlines 
+Action outline 
+Action name 
+Road transport - electrification 
+Action type 
+Physical and spatial interventions 
+Technical interventions 
+Implementation and development of national and/or EU laws and regulations 
+Procurement actions 
+Business models 
+Action description 
+Electrification of road transport requires improved charging infrastructure. In areas provided by the City or in areas where the City enables charging infrastructure, actors can invest in charging infrastructure. This is further enabled by procurement and incentivized business models and policy measures. 
+Massive increase in purchase of light and heavy duty electric vehicles for use in fleets or by individuals. 
+Reinforcements are made by the grid owners to double the capacity of the electricity grid. 
+Introduction of environmental zones in parts of the city to promote the uptake of EVs 
+Development of mobility stations with charging of EVs 
+Procurement of transport services in which 
+EVs are prioritised 
+Reference to impact pathway 
+Field of action 
+Energy systems, Mobility & Transport 
+Systemic lever 
+Technology/ infrastructure 
+Governance & policy 
+Social innovation 
+Finance & funding 
+Learning & capabilities 
+Outcome (according to module B-1.1) 
+Expanded charging infrastructure for EVs 
+Environmental zone 3 in Old Town and City centre 
+Increased uptake of EVs 
+An agreement on a congestion charge expansion and differentiation 
+Enabling the emission free inner-city
+
+[Page 38]
+Requirements in public procurements 
+Increased supply and use of electric trucks and machines 
+Electrification of road transport provides a substantial part of the estimated emission reduction of 195,000 tonnes CO2/year for road transport. Important co-benefits are improved air quality and public health. 
+Implementation 
+Responsible bodies/person for implementation 
+The City’s Transport Department 
+Action scale & addressed entities 
+Full-scale electrification is necessary to obtain the goal of an emission-free inner-city traffic 
+Involved stakeholders 
+Members of the Electrification Pact i.e. electricity grid owners, fleet owners, property and land owners, mobility companies, providers of charging infrastructure etc. 
+Comments on implementation 
+This is a combination of interventions and investments with many stakeholders involved and affected. Cooperation and collaboration is crucial. 
+Impact & cost 
+Generated renewable energy (if applicable) 
+- 
+Removed/substituted energy, volume or fuel type 
+Fossil fuels (diesel and petrol) 
+GHG emissions reduction estimate (total) per emission source sector 
+Estimated reduction of 195,000 tonnes CO2e 
+2023-2030 for all actions within road transport, based on decreased traffic by 30%, 42% electric vehicle fleet, reduction quota at 2019 level. 
+Total costs and costs by 
+CO2e unit 
+See Climate Neutral Investment Plan 2030. 
+B-2.3: Summary strategy for residual emissions 
+The City of Stockholm has the long-term goal to be fossil-free by 2040. The primary task is to phase-out fossil energy and to continuously seek new ways to bring down residual emissions close to zero. 
+For Stockholm to become climate positive by 2030, the remaining 700,000 tonnes of CO2e emissions must be countered and beyond through negative emissions achieved within the City’s reporting boundaries. Currently, the technology with the most potential in Stockholm is Bio-Energy 
+Carbon Capture and Storage, BECCS or Bio-CCS. A BECCS plant linked to the biofuel-fired CHP plant (KKV8) near the Värtan port in east-central Stockholm is expected to be operational in 
+2025/26, with the capacity to capture and permanently store large quantities of biogenic CO2, resulting in carbon removal from the atmosphere and the creation of so-called “negative emissions” 
+The European Strategic Energy Technology Plan (SET-Plan) identifies the technique as one of the priority actions for accelerating the energy system’s transformation. Stockholm’s district energy provider Stockholm Exergi (50% owned by the municipality) develops a full-scale BECCS project to create a world-class, BECCS facility, combining CO2 capture with heat recovery. The BECCS 
+Stockholm project has the potential to remove around 800,000 tonnes of annual emissions, an important component of reaching a climate positive city. In addition to producing concrete climate benefits, this project is also intended to accelerate the development of a new market for net carbon removals. The BECCS Stockholm project is an important early adopter that has the potential to lead many other CCS projects to follow.
+
+[Page 39]
+The financing of a large-scale BECCS plant will likely rely on three sources: EU, national government, and the sales of negative emission certificates on a voluntary carbon market. The EU 
+Innovation Fund has selected Stockholm Exergi's BECCS project as one of seven projects in the 
+EU to receive €1.1 billion in funding. The negative emissions will be partially financed through sales to private operators, and the voluntary market will have to contain a system for bookkeeping and cancellation of carbon removal units that ensures that double claiming, i.e. that several companies (private operators) claim the same removal unit, cannot take place. Companies and cities often report the same emissions using different calculation protocols and system boundaries. This is fully in accordance with the framework for national accounting and corporate accounting of emissions. 
+The City will, to follow up its 2030 climate goal, calculate both emissions and negative emissions that occur within Stockholm's territorial boundaries, and the target for 2030 is based on the negative emissions balancing the emissions that remain. This is not offsetting emissions, but an accounting methodology that the city applies. The City will only account negative emissions to the extent that the nation of Sweden has included them in the national climate goal, as a way to ensure that the city stays within the same regime for double accounting as the nation. The negative emissions that 
+Stockholm Exergi creates with the BECCS project will be included in the nation of Sweden's climate reporting (unless sold to other parties under the rulebook of the Paris Agreement), and at the same time it is expected that they will be included in the climate reports prepared by companies that buy negative emissions on a voluntary market in order to reach their climate goals. The same principle applies to the City's climate reporting and development of the climate goal 2030. The City neither buys nor claims these negative emissions, but reports them in its climate report, where both emissions and carbon sinks within its geographical boundary are summed up. This applies to the municipal group as a whole. The municipal companies that act on the market cannot use the negative emissions from the City’s reporting to become climate-neutral. 
+The Stockholm Exergi company is also investigating a Carbon Capture and Storage (CCS) plant on the existing waste incineration district heating plant in Högdalen and on the planned plant in Lövsta. 
+These will capture CO2 from the fossil plastic but also from bio-waste, so it will partly contribute to the negative emissions. 
+Another possibility is the production of biochar. Since 2017, there is a test site for producing biochar; this pilot was financed by Bloomberg Philantropies as a result of Stockholm winning their 
+Mayor’s Challenge. Garden waste is used to produce biochar which in turn is used to improve the soil in the city´s gardens and tree plantations along the streets. Adding biochar to the soils significantly improves the growth of trees and bushes. This in turn leads to an enhanced storm water handling, reduced temperatures and a more pleasant urban environment. The excess heat that is produced is distributed into the district heating system, thereby contributing to reducing the residual emissions. These are co-benefits along with the provision of negative emissions. Biochar is therefore a truly multifunctional solution. However, the negative emission potential is much lower than that of BECCS and may not be regarded as permanent 
+A mapping of the carbon stock and carbon sinks in forests and in soil in Stockholm has been made. 
+The knowledge provides basis for decisions on urban development regarding green infrastructure. 
+The City has a goal to increase the tree canopy in Stockholm which also means an increase of carbon stock. 
+In conclusion, the City of Stockholm has chosen to work with the creation of carbon sinks and subsequent negative emissions within the municipal territory. 
+4.3 Module B-3 Indicators for Monitoring, Evaluation and 
+Learning 
+Module B-3 “Indicators for Monitoring, Evaluation and Learning” should contain a selection of indicators taken from the Comprehensive Indicator Sets developed by NZC. The following should be provided: An overview table listing the indicators selected per outcome and impact including targets and evaluation points (B-3.1); and a metadata table for each indicator selected, as specified in the Comprehensive 
+Indicator Sets (B-3.2).
+
+[Page 40]
+The table below lists a selection of relevant indicators that are used to monitor progress towards the 
+City’s climate mitigation goals. All indicators are included in the City’s financial budget, monitored annually and reported through the City’s integrated management system (ILS) to the City Council. 
+Hence, the progress is transparent and visible to the political level as well as to the citizens. 
+B-3.1: Impact Pathways 
+City Council’s goal for the area of operations 
+Indicator 
+City Council’s goal for 
+2023 
+City Council’s goal for 2024 
+City Council’s goal for 2025 
+2.1 Stockholm will become climate positive – through reduced emissions and increased carbon capture and storage 
+Emissions per capita 
+1,5 tonnes CO2e/capita 
+1,4 tonnes 
+CO2e/capita 
+1,3 tonnes 
+CO2e/capita 
+Share of food waste to biological treatment 
+75 % 
+75 % 
+75 % 
+Electricity and heat production based on solar energy 
+6,080 MWh 
+6,830 MWh 
+7,500 MWh 
+Purchased energy in the municipal organisation 
+1,945 GWh 
+1,945 GWh 
+1,945 GWh 
+Plastic waste to energy recovery 
+11 kg/inhabitant and year 
+11 kg/inhabitant and year 
+10 kg/inhabitant and year 
+Relative energy efficiency in the municipal organisation 
+5 % efficiency relative to 
+2018 
+5 % efficiency relative to 
+2018 
+6 % efficiency relative to 
+2018 
+2.3 
+Stockholm should be a city where mobility increases and emissions decrease 
+Emissions from transport per capita 
+0,86 tons 
+CO2e/capita 
+0,80 tons 
+CO2e/capita 
+0,71 tons 
+CO2e/capita 
+Number of public charging spots 
+Tbd by each committee/board 
+Tbd by each committee/board 
+Tbd by each committee/board 
+Reduction of car traffic volumes since 2017 
+Tbd by each committee/board 
+Tbd by each committee/board 
+Tbd by each committee/board 
+B-3.2: Indicator Metadata (for each indicator selected – take from Comprehensive Indicator Sets) 
+This is an example. All indicators are followed up in the integrated management system (ILS). 
+Indicator Name 
+Emissions from transport per capita 
+Indicator Unit 
+Tonnes CO2e/capita 
+Definition 
+Scope 1 and 2 GHG emissions from transport energy use within the City boundaries, and Scope 3 emissions from fuel, divided with the number of inhabitants in the municipality
+
+[Page 41]
+Calculation 
+Energy use × emission factor./ inhabitants. Followed up in the annual emission inventory and the integrated management system (ILS) 
+Indicator Context 
+Does the indicator measure direct impacts (i.e. reduction in greenhouse gas emissions?) 
+Yes 
+If yes, which emission source sectors does it impact? 
+Transport 
+Does the indicator measure indirect impacts (i.e. co- benefits)? 
+No 
+If yes, which co-benefit does it measure? 
+Can the indicator be used for monitoring impact pathways? 
+Yes 
+If yes, which NZC impact pathway is it relevant for? 
+Road transport 
+Is the indicator captured by the existing 
+CDP/ SCIS/ Covenant of Mayors platforms? 
+No, but several others of our indicators are 
+Data requirements 
+Expected data source 
+Emissions data compiled in greenhouse gas protocol for cities. Bases on regional and national statics and local data. 
+Expected availability 
+Certain 
+Suggested collection interval 
+Annually 
+References 
+Deliverables describing the indicator 
+Regional and national statics and local data. 
+Other indicator systems using this indicator 
+5 Part C – Enabling Climate Neutrality by 2030 
+Part C “Enabling Climate Neutrality by 2030” aims to outline any enabling interventions, i.e. with regard to organizational setting or collaborative governance models, or related to social innovations – designed to support and enable the climate action portfolios described in Module B-2 as well as aiming to achieve co-benefits outlined in the impact pathway (Module B-1). 
+5.1 Module C-1 Organisational and Governance 
+Innovation Interventions 
+Module C-1 “Organisational and Governance Innovation Interventions” consists of a summary table, listing organizational and governance interventions and describing their impact (C-1.1) and a section for more detailed descriptions and comments (C-1.2). 
+C-1.1: Enabling organisational and governance interventions 
+Intervention name 
+Description 
+Responsible entity/ dept./ person 
+Involved stakeholder 
+Enabling impact 
+Co-benefits (indicate name of intervention) (describe the substance of the intervention) (indicate responsible) (list all stakeholder involved and affected) (describe how intervention enables climate neutrality) (indicate how intervention helps achieve impact listed in Module B-1) 
+Viable Cities 
+A national strategic innovation programme to speed up the 
+National programme office located at KTH 
+23 cities and 6 agencies committed to the Swedish 
+Develops innovative work methods to speed up the transition 
+Works to support climate neutral cities and a good life for all
+
+[Page 42]
+work on reaching climate neutral cities. 
+Climate City 
+Contract 2030 
+Academic partnership 
+Formal collaboration for R&I to solve city challenges and use the city as a living lab. 
+The City (led by the 
+Executive 
+Office) 
+Royal Institute of Technology (KTH), 
+Stockholm 
+University (SU) and Karolinska 
+Institutet (KI) 
+Helps to develop and implement solutions for a sustainable city 
+The Environment and 
+Climate Pact 
+A cooperative platform that gathers companies engaged in the climate transition 
+The City (led by the 
+Environment 
+Department) 
+340 member companies. 
+Two working groups focusing on sustainable plastic use and reducing transportation 
+The Electrification 
+Pact 
+A cooperative platform around the electrification of road transport 
+The City (led by the Traffic 
+Office) 
+60 member companies and experts from academia 
+Four working groups on public and private charging, grid capacity and 
+HD vehicles 
+An emissionfree inner city 
+The Climate Arena 
+A cooperative platform for regional climate transition 
+Region 
+Stockholm and 
+Stockholm 
+County 
+Council 
+Municipalities, regional actors and small businesses 
+Common learning and sharing of experiences 
+City Climate 
+Coordination Group 
+An internal group of department heads with climate responsibilities 
+The Chief 
+Climate 
+Officer 
+Municipal departments and companies 
+Help to implement and develop the climate action plan 
+C-1.2: Description of organisation and governance interventions – textual and visual elements 
+The City of Stockholm has many types of collaborations with the surrounding ecosystem that are involved in work for a climate positive city. Pacts are used to collaborate with business organisations. 
+Here, the Environment and Climate Pact and the Electrification Pact are the most central. In the pacts, different actors gather together, identify common issues and develop roadmaps and concrete project work. Furthermore, collaboration with academia is central to the transition to a climate-positive 
+Stockholm. The municipality and the three largest universities in Stockholm have had cooperation agreements in place for several years. These are signed by the University chancellors and the CEO of Stockholm. As a result of these agreements, there are partnerships where academics, the municipality and business partners work together and where environmental and climate issues are prioritized, e.g. Digital Futures, Senseable Stockholm Lab and Open Lab. 
+All these activities have a strong connection to the Chief Climate Officer and the Innovation Director at the City Executive Office, and to the top management – this ensures a clear connection to the governing and steering of the City across key City departments. The multi-actor coalitions for climate mitigation have been developed from already existing structures and collaborations. The goal of 
+Climate-Positive Stockholm has provided a clear and strengthened focus to this work. 
+The City of Stockholm works within the framework of the existing national Climate City Contract in collaboration with 23 Swedish municipalities, six national authorities and the Strategic Innovation 
+Programme Viable Cities. This contract highlights the need for coordination between stakeholders, coordinated funding and changed policy and regulations. Regular “transition labs” are arranged in this collaboration, and important topics of discussion have included citizen involvement, digital support tools, climate investment planning and system demonstration.
+
+[Page 43]
+At the regional level, the City of Stockholm participates in the regional Climate Arena that focuses on the construction sector. Moreover, the City of Stockholm has an important collaboration with the region regarding public transport. 
+Stockholm is a member of and works within multiple European and global initiatives and networks, such as Eurocities, Civitas, Lighthouse Cities, C40 Cities and Climate-Neutral Cities Alliance (CNCA). 
+This has both given opportunities to collaborate in innovation projects such as Growsmarter (a 
+Lighthouse Smart Cities and Communities project) and working groups on different themes, most recently Just Transition within Eurocities. 
+5.2 Module C-2 Social and Other Innovation Interventions 
+Module C-2 “Social and Other Innovation Interventions” consists of a summary table, listing organizational and collaborative governance interventions and describing their impact (C-2.1) and a section for more detailed descriptions and comments (C-2.2). 
+C-2.1: Enabling social innovation interventions 
+Intervention name 
+Description 
+Responsible entity/ dept./ person 
+Involved stakeholder 
+Enabling impact 
+Coben efits (indicate name of intervention) (describe the substance of the intervention) (indicate responsible) (list all stakeholder involved and affected) (describe how intervention enables climate neutrality) 
+Online citizen panel 
+4,500 participants react to questions on the City’s development, refurbishment of public places, safety and climate. 
+City 
+Citizens 
+Participation to inform City’s climate work 
+Fokus Järva 
+Fokus Skärholmen 
+Two of the City’s selected geographical focus areas that are long-term efforts to achieve tangible improvements in social and environmental sustainability 
+City Executive 
+Office 
+City, citizens, 
+NGOs, businesses 
+Involvement of citizens in a priority area and making the climate transition relevant 
+ElectriCITY 
+Innovation 
+A citizen initiative with the aim to develop test beds in 
+Hammarby Waterfront and disseminate the findings. 
+Civil society organisation 
+Citizens, local companies 
+Develops local solutions for climate neutrality 
+SCALE Stockholm project 
+A project that aims to develop five transitions arenas in collaboration with citizens and businesses. 
+Proposed as a pilot city project in NZC 
+City 
+City, academia, business partners, 
+NGOs, citizens 
+Develops scalable climate solutions with a local focus 
+Climate forum in 
+Järva 
+Young people gather to discuss and develop climate solutions 
+NGO 
+NGOs, City, young citizens 
+Involvement of young people in the transition process 
+BeChange and 
+Minimeringsmästar na, Klimatvågen 
+Intervention to change behaviour and lower climate and environmental impact 
+NGO and the 
+City 
+NGO, City, students, citizens 
+Raised awareness of climate impact of lifestyles 
+Cykelvänligast 
+Supports workplaces to develop a cycle-friendly environment 
+City 
+Network of cities, businesses, citizens 
+Promotes cycling to reduce car traffic emissions
+
+[Page 44]
+Sommargågator, 
+Levande 
+Stockholm, ÄgaRum Klaraberg 
+Various initiatives that involves citizens through experimentation and gamification in public spaces. 
+City 
+City, citizens 
+Engages citizens in sustainable city development 
+C-2.2: Description of social innovation interventions – textual and visual elements 
+Stockholm’s vision 2040 is a city of opportunities. Socially, ecologically, and economically sustainable. 
+Through inclusion and participation, the Stockholmers influence the development. The interventions presented above demonstrate work underway to strengthen the climate dialogue. A special emphasis is put on the involvement of young people and on priority neighbourhoods such as Järva. These are efforts to bring relevant stakeholders together and involve them in a co-creation process, often in very practical contexts such as cycling, experimenting and development of the local neigbourhood. 
+The City of Stockholm has a long experience in driving sustainability through its urban development processes. This goes back to the large transformation of Hammarby Waterfront, the first large urban development project with high environmental targets. This ambition has continued in a citizen-driven quadruple helix initiative called ElectriCity Innovation that strives for climate neutrality within 
+Hammarby Sjöstad. Stockholm Royal Seaport is the largest on-going urban development project in 
+Sweden, and a recent project picks up the methodology for citizen engagement and brings it to the next level. 
+Scale Stockholm is a project that aims to involve citizens and businesses in five geographical areas within Stockholm to develop co-creative Transition Arenas. The project combines climate and health and will test new ways of working locally, and then integrate the learnings in a governance model for scaling these solutions in the city as a whole and in other cities. 
+5.3 Module C-3 Financing of Action Portfolio 
+Module C-3 “Financing of Action Portfolio” should contain the list of action portfolios and interventions outlined in Modules B-2, and those from C-1 and C-2 with cost implication to provide a summary list of interventions that need to be unpacked in the Investment Plan. 
+C-3.1: Summary of interventions with cost implication (to be unpacked in Investment Plan) 
+Action/ intervention name 
+Responsible entity and person 
+Start/end date 
+Field of action 
+Impact 
+Total cost estimated (list action portfolios and interventions from Modules 
+B-2, C-1 and C2, which have a cost implication) (indicate responsible entity and person) (indicate start and end date of the activity) (indicate the field of action the interventions belongs to) (indicate impact 
+- i.e. the GHG reduction/ cobenefit) 
+Reduction of 
+GHG emissions in tonnes of 
+CO2e per year (indicate the total costs in €, estimated for the intervention) 
+Total investment in million € (nd= no data) 
+Road transport 
+City in broad co-operation 
+2024-2030 
+Mobility and transport 
+195 000 
+11 800 
+Construction machines 
+City in broad co-operation 
+2024-2030 
+Mobility and transport 
+8 000 nd 
+Port and waterways 
+City in broad co-operation 
+2024-2030 
+Mobility and transport 
+28 000 
+Heating 
+Waste treatment 
+City in broad co-operation 
+2024-2030 
+Energy systems 
+125 000 
+1 120 
+Negative emissions 
+District Heating 
+Company 
+2024-2030 
+Energy systems 
+800 000 
+1 030 
+City gas 
+Gas distributor 
+2024-2030 
+Energy systems 
+10 000 nd 
+Electricity use 
+Power grid owner, power companies, City etc 
+2024-2030 
+Energy systems 
+65 000 
+1 740 
+Green 
+Infrastructure & 
+City 
+2024-2030 
+Green 
+Infrastructure & nd
+
+[Page 45]
+Nature-Based 
+Solutions 
+Nature-Based 
+Solutions 
+Wastewater treatment 
+City water and waste company 
+2024-2030 
+Waste and circular economy 
+12 000 
+Cross-cutting costs 
+City 
+2024-2030 
+Cross-cutting costs 
+Enabling action 
+6 Outlook and next steps 
+This section should draw any necessary conclusions on the Action Plan above and highlight next steps and plans for further refining the Action Plan as part of the Climate City Contract. 
+Plans for next CCC and Action Plan iteration – textual elements 
+The above 2030 Climate Neutrality Action Plan has been developed by a core team in collaboration between the City's departments and companies through a collaborative management group and a directors' group linked to the City's climate work. It builds on the City’s Climate Action Plan 2020-2023 that is in its final year of implementation, and on new analyses based on the City’s financial budget for 2023. According to an assignment in the City’s budget, a new revised Environment Programme and Climate Action Plan will be developed during 2023 to meet the goal to become climate-positive by 2030. Actions and responsibilities for implementation will be specified further, elaborated and cocreated during 2023 and be part of the City’s new climate action plan. The process of producing the 
+European climate city contract during 2022-23 has served as an important preparatory work for the coming revision of the City’s climate action plan. 
+The 2030 Climate Neutrality Action Plan will be updated with more details and elaborated on an ongoing basis, e.g. when new formal governing documents have been adopted. Every second year, an updated version will be sent to NetZeroCities and the EU. There will be an annual follow-up of the 
+City's progress towards climate a positive city in connection to the evaluation of the City’s Environment 
+Program. The monitoring will be done in the City's regular monitoring system and also reported to 
+CDP. The ambition is to connect the Climate City Contract to the regular structures and organisation of the Environmental Program and the Climate Action Plan. This process updates the governing documents at least every four years, with new goals, activities, indicators and assignments. 
+7 Annexes 
+Add any textual or visual material to the 2030 Climate Neutrality Action Plan in the ANNEX as necessary.
+
+[Page 46]
+NetZeroCities has received funding from the H2020 Research and Innovation 
+Programme under the grant agreement n°101036519. 
+Climate City Contract 
+2030 Climate Neutrality 
+Commitments 
+Climate Neutrality Commitments of the City of Stockholm 
+13 April 2023
+
+[Page 47]
+2030 Climate-Neutrality 
+Commitments 
+Disclaimer 
+The content of this document reflects only the author’s view. The European Commission is not responsible for any use that may be made of the information it contains.
+
+[Page 48]
+1 Introduction 
+Explain your city’s motivation to join the EU Mission “100 climate-neutral and smart cities by 2030” and highlight your city’s present commitments to climate action. You may also want to include the aims of this document. 
+Your text 
+A green and fossil-free Stockholm that leads a just climate transition 
+The world is in a climate emergency. The concentration of carbon dioxide in the atmosphere hits new records and people suffer from crises caused by extreme weather events. Climate change poses a threat to human health and all life on the planet. 
+Cities have an important role in the transition work, and Stockholm aims to be a world leader in this process by reducing emissions and being a role model for others. The transition is not only about lower emission levels, but also leads to new ways to consume, travel, work and live. Already now we can see how the change creates an economic development and new jobs. And this is just the beginning of that development. 
+The City of Stockholm has undoubtedly come a long way in the ambition to reach climate neutrality. 
+The Swedish work on greenhouse gas mitigation started in the 1980s with the carbon tax of 1991 as an important milestone. A tangible effect of this price on carbon has been the transition away from fossil energy in the many cities in Sweden with district heating, and Stockholm is a god example of that. Together with a strong focus on regional public transport development, and the use of biogas from sewage treatment as a fuel, this has been the foundation for the climate mitigation work. The first climate action plan (CAP) was adopted by the Stockholm city council in 1998, and after that a series of climate actions plans have been produced and implemented. Important elements have been energy retrofitting of buildings, sustainable city development projects such as 
+Hammarby Waterfront and the Royal Seaport, common procurements of biofuelled vehicles, the government congestion tax, the mobility strategy, and the regional bus fleet running on 100% biofuels. As a consequence of these efforts, the emissions have been reduced significantly from 5,4 tons of CO2 per capita in 1990 to 1,6 tons in 2021. During this journey the city has tackled great challenges. Lessons learned have been actively spread through European and international networks such as Eurocities, POLIS, CNCA and C40 Cities, and also through EU-funded projects. 
+In the light of the many testimonies of how our lessons have turned into other cities’ successes, we are eager to continue sharing our experience with other Swedish, European and global cities. 
+The EU Mission “100 climate-neutral and smart cities by 2030” is an additional arena for knowledge exchange to which the City wants to contribute actively. The City of Stockholm has taken several important initiatives in recent years, as lead partner of a lighthouse project and partner in other EU pilot projects, and not least as a frontrunner in the Swedish Viable Cities programme where 
+Stockholm has signed a climate contract with Swedish authorities. As a capital city we have a responsibility not only towards our own citizens, but also to lead by example and therewith stimulate change in other cities in Sweden and in Europe. 
+The City of Stockholm, together with its key partners, outlines in this document the path to climate neutrality by 2030. The City takes on this endeavour with both confidence and humility. The commitment is there, and the insights gained from many years of devoted work. But there are also great challenges and large investments ahead of us. Together with the citizens, the businesses and the academia, the City is determined to turn the commitment into a successful transition to a climate positive city with a good life for all.
+
+[Page 49]
+2 Goal: Climate neutrality by 2030 
+Articulate your 2030 climate neutrality ambition, as expressed and defined in your Cities Mission 
+Expression of Interest (EoI). This should include your ambition and commitment to a 2030 horizon as a whole city, as well as describe any exclusion areas and summarise how these areas would be addressed beyond 2030. (A more detailed plan for exclusion areas should be included in the 2030 Climate 
+Neutrality Action Plan.) Your 2030 ambition should be supported at a minimum by a Council decision, and it is recommended that it is also supported by a wider stakeholder group. We also recommend you to list other co-benefits you aim to achieve when working towards the climate neutrality goal, like wellbeing, health, equity, justice, financial savings. 
+Your text 
+As a frontrunner city, Stockholm has aspirations as a world leader when it comes to achieving the goals in the Paris agreement. This is demonstrated in the City’s environment program through a long-term goal to become fossil-free by 2040. Further, the city has adopted a Climate Action Plan 
+2020-2023 including a climate budget that permits a maximum of 19 million tonnes of greenhouse gases to be emitted during the period 2020–2040. The City also has a goal to achieve an emission free inner-city traffic by 2030. 
+In the City’s financial budget for 2023, the ambitions have been raised considerably. A new goal of becoming climate neutral, and even climate positive, by 2030 has been set. This will be achieved through emission reduction measures and bio-energy carbon capture and storage. The City will calculate both emissions and negative emissions that occur within Stockholm's territorial boundaries, and the target for 2030 is based on the negative emissions balancing the emissions that remain. However, the City of Stockholm will continuously strive to reduce residual CO2 emissions as the target is to become fossil-fuel free by 2040. Over the course of involvement in the 
+Mission, added efforts to lower the foreseen residual emissions will be identified. 
+The City of Stockholm’s financial budget for 2023, including the goal of becoming climate positive by 2030, was formally adopted by the City Council on 13 December 2022 (Register No. KS 
+2022/1045) 
+The attached 2030 Climate Neutrality Action Plan outlines the path to climate neutrality by 2030, and the 2030 Climate Neutrality Investment Plan describes how the transition could be financed. 
+During 2023, and according to an assignment given in the City’s financial budget for 2023, the City's environment programme, climate action plan and climate budget will be updated with a 2030 perspective and take into account scientific findings on what is required to reach the 1.5 degree target and what is considered just based on our historical emissions. 
+The transport sector poses particular challenges when it comes to reducing the greenhouse gases. 
+Therefore, new goals are set in the City’s financial budget for 2023. Emissions from the transport sector should be reduced by 80 percent by 2030 compared to the year 2010, and total car traffic volumes should be reduced by 30 percent from the 2017 level. 
+The City’s goal to become climate positive by 2030 is in line with the definition used in the Cities 
+Mission and covers all territorial emissions within the geographical borders of the municipality. No areas are excluded. This means that the work has to address also hard-to-abate sectors such as international shipping with ferries and cruiser ships as well as incineration of household waste for energy recovery. 
+The City’s financial budget of 2023 also contains a goal to halve the consumption-based emissions in Stockholm by 2030. This is an important step to take when the territorial emissions have been reduced considerably. Examples of expected measures to take are to reduce the embodied carbon in building materials and increase the circularity, to reduce the carbon footprint of purchased food, and to communicate with citizens about circular economy and sustainable choices.
+
+[Page 50]
+In order to pursue the climate city contract and reach climate neutrality by 2030, the City of 
+Stockholm has gathered a number of important stakeholders. A city cannot achieve the set out climate goals on its own but must collaborate closely with the business sector, citizens and academia. The key partners are the municipal companies, the energy company, the grid owner, the 
+Stockholm regional authority and the universities. Further partners will be added over the course of the Mission. 
+Apart from achieving climate neutrality, this climate city contract also leads to several co-benefits. 
+New job opportunities are already emerging in the energy, mobility and circularity sectors. The switch to renewable fuels and electricity leads to a healthier city environment with clean air and water and lower noise levels. Low energy technologies such as LED lighting, retrofitting of buildings and smart technologies such as AI control of heating and ventilation have already cut the energy bills considerably. And nature-based solutions provide multifunctional benefits in storm water management, reduced risks of urban heat island and a greener city. 
+The citizens of Stockholm participate actively in the climate transition by taking advantage of the sustainable options present in their everyday life. This will be pursued further within the Cities 
+Mission. Five city districts are pinpointed as system demonstrators to deepen the co-creation with the local community and further operationalise initiatives: Stockholm Royal Seaport, Skärholmen, 
+Järva, Green Innovation District, and Inner City District. In these geographical areas successful quadruple helix innovation is already ongoing, the city’s digital infrastructure is implemented and results from piloting can be replicated. 
+3 Key priorities and strategic interventions 
+This is the core section of the Commitments document that should summarise at least 3 or 4 systemic strategic priorities that need to be implemented for your city to become climate neutral by 2030. These should be meaningful changes that will have a profound impact on reducing GHG emissions in your city, like decarbonising the heating system in the city or generating 100% energy from renewables. The individual commitments between your city and other stakeholders should address these key priorities and contribute to reaching them. The annexed 2030 Climate Neutrality Action Plan should describe the all interventions, including those to reach your priorities as well as all further actions, in detail and describe how your city plans to implement them. 
+Your text 
+The City of Stockholm has for many years had a high ambition to reduce greenhouse gas emissions. The work started in the 1990s, a time when few other cities gave attention to this global issue. Since then, the city has more than halved its annual greenhouse gas emissions, while the population has greatly increased. The main reduction has been in the heating sector, where emissions have more than halved due to the phasing out of oil boilers, an increase in the proportion of renewables in district heating and a reduction in energy needs in the sector. However, largescale challenges remain to reduce the emissions connected to transport, consumption, fossil plastics in waste incineration, and to capture the remaining carbon dioxide. 
+The City of Stockholm understands the seriousness of the climate issue, and the immediate need for action characterises the work to accelerate change and develop deep collaboration to scale the needed solutions. Below are the largest systemic priorities for reaching a climate-positive 
+Stockholm by 2030. These priorities are all interconnected, involving a large number of actors, policy measures and investments for their implementation. 
+Systemic priority 1: Climate-neutral road transports 
+Electrification, increased use of biofuels, and reduced vehicle traffic are, according to the Swedish 
+Transport Administration, important tools for reaching the climate target for domestic transport. The 
+City of Stockholm has a goal to reduce emissions from the transport sector by 80 per cent by 2030 compared to 2010. To reach this goal, the City works to reduce car traffic, increase accessibility and
+
+[Page 51]
+create a more liveable city. This is done through expanded possibilities to walk, bike and use public transport and reduced vehicular traffic. There are plans for an environmental zone with only emission-free vehicles in the city centre and a target to reach an emission-free inner-city by 2030, as well as wide actions to increase electrification of all transports, including construction machines and heavy trucks. Besides the technology shift into electrification, there are extensive works that increase the possibilities for active mobility and public transport. 
+Well-connected to the electrification of transports is the capacity in the electricity grid. There is currently a limit on how much electricity that can be fed into Stockholm. This grid capacity is connected to how we can reach our climate goals. The City works to reduce power peaks, reduce energy consumption and increase local energy production. 
+Critical stakeholders in this work are the national government and its authorities, the region, business partners (all businesses involved in the transport of goods or people, from a broad perspective), the municipal organisation, grid operators, charging operators, and the citizens. 
+Systemic priority 2: Reduced use of plastics in society 
+District heating is an important part of the sustinable city. In Stockholm, the district heating system covers 80% of the buildings. Incineration of waste plays a vital role in making waste management efficient. In Stockholm, the incineration plants are generating both heating and electricity. In addition to producing district heat, waste incineration plays a crucial role in managing the waste generated by society, reducing the need for landfilling and catering for the destruction of hazardous waste. On top of that, the CHP plants connected to the district heating provides a very important source of local electricity supply. The district heating system is therefore regarded as a very important asset in many aspects. 
+Fossil plastic in the waste incineration plants is one of the major causes of carbon dioxide emissions from the heating sector. At the same time, the challenge to change this is much broader than just working with the waste and heating industry and needs a large mobilization on all governance levels. Plastic is mainly manufactured from fossil materials and thus contributes to climate change when it is incinerated as waste instead of being recycled. Many types of plastics are also associated with risks during manufacturing, use, and recycling due to their content of hazardous substances. There is a need to move from an unsustainable linear use of plastic to a circular and systematic one. This involves purchase requirements, waste prevention, increased material recycling and reduced use of plastics made from fossil oil. Here, the food industry, the construction sector and the healthcare sector are important industries for collaboration. Stockholm works to require re-used plastics in procurements, increase the sorting of plastic in the waste and has invested in an automatic sorting facility that started operationally in 2021. The facility mechanically sorts organic food waste, plastic and metal out of the waste so that it instead can be digested into biogas or recycled. A second plant is planned to be operational in 2024. 
+Critical stakeholders in this work are the business sector (mainly the food and packaging industry, the construction sector and the health care sector), all procurers (both private and public), the waste and energy industry, and national and European authorities. 
+Systemic priority 3: A climate-neutral construction sector 
+Stockholm is a growing city both in terms of housing and infrastructure, and it is an important priority to reduce emissions from the construction sector. Stockholm works hard to reduce emissions from construction machines through requirements in the planning and building process. This includes requirements on electrified machines and the use of biofuels, such as HVO. As an example, the 
+City of Stockholm has, in collaboration with business actors, introduced a pilot of one of the world’s first commercial electric heavy excavators to reduce CO2-emissions at construction sites. 
+The next step is to include the embodied carbon emissions. This is a part of the consumption-based emissions, beyond the territorial emissions covered by the 2030 Climate Neutrality Action Plan. The 
+City of Stockholm has developed requirements for the calculation of the climate impact of the construction process and analysis of the possibility of reducing climate impact. The requirements apply in connection with land allocation agreements for new production on the City’s land and
+
+[Page 52]
+agreements on development. The city also works to reduce emissions from transports of construction materials (gravel, rock material etc.) through local use of materials and bulk transport on barges. Furthermore, there is a growing re-use of materials and retrofitting of existing material. 
+An action plan for a circular building sector has already been adopted. The goal is to reduce emissions from consumption (not only from the building sector) in Stockholm by 50 per cent by 
+2030. A centre for circularity is to be established within the municipal organisation, as a support structure. 
+Critical stakeholders in this work are the municipal organisation, the building and construction sector, the steel and concrete industry, the academia, and new actors in the circular economy such as digital market places for recycling of material. 
+Systemic priority 4: Climate-neutral waterborne navigation 
+Stockholm integrates the emissions from shipping into the city’s work to reach climate neutrality. 
+Tough EU directives are important drivers, but also a progressive port industry that pushes companies and integrates innovative solutions. The City of Stockholm is a large port, with many international calls. The ports work to reduce climate emissions when the ships are at the quays, during their maneuvering within the city border, and from the road transports to and from the port. 
+This work involves electrification as well as increased use of biofuels. One of the largest upcoming environmental investments is in onshore power connection facilities for cruise ships that will be operational in 2023 and 2024. These are the first of their kind in Sweden and are among a few in 
+Europe. The Ports of Stockholm is an international frontrunner when it comes to sustainability in general and more specific an important change agent for sustainable transport in the Baltic Sea. 
+Critical stakeholders in this work are Global and European authorities, shipping companies, the Port of Stockholm, other international ports, the Region Stockholm and the electric grid operators. 
+Systemic priority 5: Bio Energy Carbon Capture and Storage to achieve a climate-positive 
+Stockholm 
+BECCS (Bio energy with carbon capture and storage) is a technique for permanently removing biogenic CO2 from the atmosphere. The European Strategic Energy Technology Plan (SET-Plan) identifies the technique as one of the priority actions for accelerating the energy system’s transformation. Stockholm’s district energy provider Stockholm Exergi (50% owned by the municipality) is now developing a large-scale BECCS project to create a world-class, full-scale 
+BECCS facility at Stockholm Exergi’s existing heat and power biomass plant (KVV8) in Stockholm. 
+Combining CO2 capture with heat recovery, the Beccs Stockholm-project will capture and permanently store large quantities of biogenic CO2, resulting in carbon removal from the atmosphere and the creation of so-called “negative emissions”. With the Beccs Stockholm project 
+Stockholm Exergi has the potential to remove around 800 000 tons of CO2 annually. The Carbon dioxide removals will be used by different companies to counter emissions that are hard to abate, an important component of reaching climate neutrality. Thus, in addition to producing concrete climate benefits, this project is also intended to accelerate the development of a new market for net carbon removals since the voluntary carbon market is assumed to be an important factor for the financing of negative emissions. The Beccs Stockholm project is an important early adopter that has the potential to lead many other CCS projects to follow. Beccs Stockholm was one of seven projects selected to receive funding from the European Union’s Innovation Fund in 2022. 
+Permanent carbon dioxide removals from the BECCS-project will exceed emissions within the City's territory by 2030, thereby contributing to the climate goal defined in the citys climate contract. 
+The City underlines that its target in the climate contract does not claim to own the negative emissions produced by Stockholm Exergi. Rather, the target should be considered to represent a territorial aggregation. 
+Critical stakeholders in this work are Stockholm Exergi, funders and investors, private companies within and outside the territorial boundaries of the city of Stockholm as well as the City’s municipal companies
+
+[Page 53]
+4 Principles and process 
+Highlight the key principles that will guide your city as it implements its Climate City Contract, like accountability, transparency, or an open attitude to new approaches. The process should encompass principles like co-creation, innovation, multi-actor and citizen engagement, and should be systemic and demand-driven in nature. It should also be based on monitoring and joint learning. The 
+Commitments Guidance document provides more specific guidance on how integrate these principles into your own process. 
+Your text 
+Stockholm has a long tradition of working with environmental and climate issues and doing so integrated across the entire organisation and in collaboration with other stakeholders. To reach a sustainable and climate-positive Stockholm it is necessary to collaborate, work with all perspectives of sustainability and have an openness towards other stakeholders and people's ways of thinking and acting. This includes learning and exchange of experiences from others and an ability to include new knowledge from others into our work. 
+Build a Strong Mandate 
+In line with the integrated model for municipal governance in Sweden, the Stockholm Environment 
+Programme was adopted by the City Council and sets goals that thoroughly permeate all planning processes of the municipal organisation. The Climate Action Plan, including a climate budget, further outlines the implementation and overall impact at all levels. 
+The City of Stockholm has since year 2000 integrated the environment programme into the City’s superordinate system for the management and monitoring of all operations and finances, ILS. This means that in their business plans the committees or company boards shall report how they intend to contribute to attain the city’s goals and report how the work is going through the follow-up of goals and indicators. This procedure ensures transparency and accountability since the result it reported to the City 
+Council and published on the city’s website. 
+Within the municipality, there is a multilevel organisation to deliver on and develop the climate work. From the highest political level, there is a priority to become climate positive by 2030, this permeates the entire organisation. A Chief Climate Officer is working at the 
+City Executive Office. This central position makes it easy to involve relevant actors within the city administration as well as connect with external actors. 
+There are possibilities to involve the highest management level, the directors of departments and companies, when needed, in addition to a more operational group of the top management that meets regularly on climate issues. In addition, a larger group with division heads within departments and companies gathers in a climate coordination group that manages most of the City's climate issues together with their employees. Every other week, the core group that manages the Climate City Contracts and central projects connected to this also meets. The coordination group and the core group consist of a network of people from relevant commitees and companies. There is an important point in working in this integrated fashion rather than forming separate teams. It ensures the access to relevant expertise, and also anchors the proposed action in the whole organisation which facilitates implementation considerably.
+
+[Page 54]
+The City of Stockholm works with pacts, as a way of collaborating with business organisations. Here, the 
+Climate Pact and the Electrification Pact are the most central. Both of these are essential in the work for a climate-positive Stockholm. In the pacts, business actors who want to be part of the transition gather together with the municipal organisation, identify common issues and develop roadmaps and concrete project work in thematic groups, such as sustainable plastics or charging for heavy trucks. 
+Collaboration with academia is central to the transition to a climate-positive Stockholm. The municipality and the three largest universities in Stockholm have had cooperation agreements in place for several years. This is signed by the principals and the CEO of Stockholm. As a result of these agreements, there are partnerships where the academy, the municipality and business partners work together and where environmental and climate issues are prioritized, e.g. Digital Futures, Senseable Stockholm Lab and 
+Open Lab. As an example, researchers contribute to the work of a new environmental programme and a long-term scientific council on climate is discussed with the collaborating universities. 
+All these works have a strong connection to the Chief Climate Officer, the City Executive Office, and the top management – this ensures a clear connection to the governing and steering of the city across key city departments. The multi-actor coalitions for climate mitigation have been developed from already existing structures and collaborations. The goal of Climate-Positive Stockholm has provided a clear and strengthened focus to this work. 
+The City of Stockholm has a long experience in driving sustainability through its urban development processes. This goes back to the large transformation of Hammarby Waterfront, the first large urban development project with high environmental targets. This ambition has continued in a citizen-driven quadruple helix initiative called ElectriCity Innovation that strives for climate neutrality within Hammarby 
+Waterfront. Stockholm Royal Seaport is the largest on-going urban development project in Sweden, with plans for at least 12,000 new homes and 35,000 workplaces. In 2009, the Stockholm City Council decided that Stockholm Royal Seaport would be a designated area with an environmental profile with the mandate to determine what is possible in the current situation and push the boundaries where possible, to become a model of sustainable urban development. This has resulted in an area that works as a testbed where new ideas, methods, and approaches are developed and tested to inspire other cities and municipalities, researchers, companies, and organisations to think in new ways. This includes many innovation projects within numerous themes such as stormwater, ecosystem services, logistics, as well as plus-energy houses, and low-carbon concrete and circularity. All these projects are done in collaboration with business partners, academic partners and sometimes also civic societal partners. 
+The work towards a Climate-Positive Stockholm is not done in isolation. Rather multi-level governance activities are needed. Sweden has a goal to become the world’s first fossil-free welfare nation. 
+Stockholm is implementing this on the local level and push the agenda as a front-runner. Stockholm participates in the work of the governmental initiative Fossil Free Sweden, which works to increase the pace of the climate transition. The goal is to build a strong industrial sector and to create more jobs and export opportunities by going fossil free. 
+The citizens of Stockholm are involved in the climate mitigation work in many ways. Public consultations are routinely performed in city development projects. A digital panel of citizens is consulted regularly, and the principle of « leaving no-one behind » is central for the City’s planning and operations. The sustainable options should be the most accessible ones, making it easy for all to live the sustainable life. 
+The City will strive to engage further with young people and civil society organisations, and turn their strong climate engagement into co-created solutions for the future. 
+The City of Stockholm works within the framework of the existing national Climate City Contract in collaboration with 23 Swedish municipalities, six national authorities and the Strategic Innovation 
+Programme Viable Cities. This contract highlights the need for coordination between stakeholders, coordinated funding and changed policy and regulations. Regular « transition labs » are arranged in this collaboration, and important themes have been citizen involvemenet, digital support tools, climate investment planning and system demonstration. 
+On the regional level, the City of Stockholm participates in the regional Climate Arena that focuses on the construction sector. Moreover, the City of Stockholm has an important collaboration with the region in terms of public transport.
+
+[Page 55]
+Stockholm is a member and works within multiple European and global organisations, such as 
+Eurocities, Civitas, POLIS, Lighthouse Cities, C40 and Climate-Neutral Cities Alliance. This has both given opportunities to collaborate in innovation projects such as Growsmarter (a Lighthouse Smart Cities and Communities project) and working groups on different themes, most recently Just Transition within 
+Eurocities. 
+Co-design a Portfolio 
+Stockholm works on breaking silo-structures through governance innovation to develop the city’s capacity for change. As one of six Swedish Innovation Platforms since 2013, Stockholm has been at the forefront of research relating to multilevel governance that reflects its current organisation. The recently adopted quality programme, integrating innovation, quality and digitalisation into one document works as a good start to bring together existing policies. It has six core approaches; the Stockholmers' focus, learning, openness, sustainability, holistic view and action space. These approaches create the foundation for the entire city's work and actions. 
+Based on previous experiences from environmental strategies, highly ambitious urban development projects, innovation projects and various triple helix collaborations it is clear that Stockholm has a high capacity to deliver sustainable solutions. The City of Stockholm has been a test bed for many successful innovative and sustainable solutions over the past years. To move further it is a necessity to develop the organisation and the collaboration for scaling of tested solutions and to also integrate consumptionbased CO2-emissions. The new goal on Climate-positive Stockholm permeates all work within the city, highlighting the need to accelerate the efforts and make it the new normal. A new environmental programme will be developed during 2023, with a new Climate Action Plan. This is a top priority for the whole organisation, which also infuses collaborations and partnerships with other actors. 
+The next step for Stockholm is to move from a single-project approach to an integrated portfolio approach. 
+This is an ongoing work that starts with transport and circularity, aiming to involve broader perspectives of learnings within the city and beyond. This includes clearer processes for research and innovation projects, both to ensure the aim and intentions to fulfil the right goals, connect different projects on similar content and develop structures for organisational learning to better make use of results into implementation and scaling. As a part of this work, it is important to identify different systemic levers (technology, funding, behavioural changes, legal aspects, governance etc) that contribute to the targets. 
+Take Action 
+Stockholm has implemented major environmental and climate measures for a long time. Climate work has been going on since the 1990s. Now, the City of Stockholm takes a comprehensive approach to make the city climate positive, this is done with a special focus based on the prevailing climate urgency. 
+However, the most difficult parts remain, requiring large investments, efforts and profound changes. 
+Going forward, there will be a particular focus to develop processes for upscaling and implementation, increase the efforts for external funding and innovation projects, and work to develop cooperation between actors in Stockholm as well as between policy actors regionally, nationally and globally. In addition, there is a need to further develop digital solutions that support climate work and to better involve, co-design and co-create the future Stockholm with the citizen and take advantage of the intense climate engagement in the city. 
+Learn & Reflect 
+The City of Stockholm has integrated the environment programme into the City’s superordinate system for the management and monitoring of all operations and finances. This is a special position for the environmental programme compared to other policy documents and has been so for more than 20 years. 
+There are established indicators that are followed three times a year: C02-emissions per capita, number of public charging stations, the share of collected food waste and road traffic work. These indicators are presented to the City Council. Besides this, numerous indicators are followed-up as part of the environmental program follow-up and presented publicly on the Stockholm web page. Every year there is a political negotiation of relevant targets for each indicator.
+
+[Page 56]
+The well-developed monitoring process is a success factor for developed climate actions and gives a good overview. The learning processes will be developed as described in relation to the portfolio approach. 
+Part of our learning and reflection is also Stockholm’s high ambitions to participate as an active partner in international projects and networks, such as EU projects, Eurocities, C40, CNCA, POLIS, etc. As a 
+City, there are great intentions to share learnings with others and to take part in fruitful discussions to influence our work. Besides this Stockholm invites many visitors from different cities to study visits. In 
+2022, no less than 4000 people visited the city’development areas in Stockholm. 
+The Climate City Contract will be updated when it is out of date, or when there are new governing documents to integrate. Most likely, it will be updated every second year. The ambition is to connect the 
+Climate City Contract to the ordinary structures and organisation of the Environmental Program and the 
+Climate Action Plan. This process updates the documents at least every fourth year, with new goals, ambitions and assignments. 
+Make it a New Normal 
+The fact that the Climate City Contract is integrated into the governance structure of the City of 
+Stockholm makes it connected and embedded. The connection between the environment program with its actions, and the City’s superordinate system for the management and monitoring of all operations and finances, is the new normal since many years. Furthermore, the development of a project portfolio with an innovation focus will further inform the upcoming iterations of the contract. 
+This must now be accelerated, to faster integrate learnings, innovative solutions, develop collaborations and involve citizens and business collaborators in the work to achieve a climate-positive Stockholm.
+
+[Page 57]
+2030 Climate-Neutrality Commitments 
+5 Signatories 
+Include a list of stakeholders who have committed to help your city achieve its goal to reach climate neutrality by 2030. Detailed commitments and agreements between individuals or groups of stakeholders should be appended to this Commitments document. This list will likely increase over time. 
+Below is a list of stakeholders who have committed to help the City achieve climate neutrality/positivity by 2030. The list is a starting point based on the many alliances and partnerships that the City already has established e.g. the Environment and Climate Pact, the Electrification Pact, the partnerships with academia etc. Over the course of the Mission, more signatories will be added, notably within the business sector and civil society organisations. 
+Name of the institution 
+Sector/Area 
+Legal form 
+Name of the responsible person 
+Position of the responsible person 
+City of Stockholm 
+Municipal 
+Municipality 
+Karin Wanngård 
+Mayor 
+Stockholm Vatten och Avfall AB 
+Water and waste 
+Municipal company 
+Mårten Frumerie 
+CEO 
+Stockholm stads parkerings AB 
+Parking 
+Municipal company 
+Christian Rockberger 
+CEO 
+AB Familjebostäder 
+Housing 
+Municipal company 
+Jonas Schneider 
+CEO 
+AB Svenska Bostäder 
+Housing 
+Municipal company 
+Stefan Sandberg 
+CEO 
+AB Stadsholmen 
+Housing 
+Municipal company 
+Stefan Sandberg 
+CEO 
+AB Stockholmshem 
+Housing 
+Municipal company 
+Olle Torefeldt 
+Acting CEO 
+Stockholms Hamn AB 
+Port 
+Municipal company 
+Magdalena Bosson 
+CEO 
+SISAB 
+School buildings 
+Municipal company 
+Ebba Agerman 
+CEO 
+Micasa Fastigheter i Stockholm 
+AB 
+Housing 
+Municipal company 
+Maria Mannerholm
+
+[Page 58]
+Stockholm Exergi AB 
+Energy 
+Company partly owned by the City 
+Anders Egelrud 
+CEO 
+Ellevio 
+Electric grid 
+Company 
+Johan Lindehag 
+CEO 
+Region Stockholm 
+Region 
+Regional authority 
+Gustav Hemming 
+Climate, infrastructure and archipelago regional council 
+KTH Royal Institute of 
+Technoogy 
+Research 
+University 
+Anders Söderholm 
+President 
+Stockholm University 
+Research 
+University 
+Clas Hättestrand 
+Vice President 
+Karolinska Institutet 
+Research 
+University 
+Annika Östman Wernerson 
+President

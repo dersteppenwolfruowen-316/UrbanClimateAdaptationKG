@@ -1,0 +1,1183 @@
+[Page 1]
+A Guide to Updating 
+Resilience Strategies for Success
+2024
+RESILIENCE PRACTICE:
+
+[Page 2]
+Resilient Cities Network (R-Cities):
+Lina Liakou
+Global Director of City Engagement & Practice
+Alvaro Soldevila
+Lead, Programs and Resilience Practice
+Authors:
+David Groisman
+María Mérola
+Marina Picollo
+Design/layout:
+Diego Feld
+Răzvan Zamfira
+URL links:
+This publication contains links to external websites. Responsibility for the content of the listed external sites lies with their respective publishers.
+
+[Page 3]
+INTRODUCTION 
+STEP 1. SET UP THE TEAM AND GOVERNANCE STRUCTURE 
+STEP 2. BUILD YOUR STAKEHOLDER ENGAGEMENT STRATEGY:
+FROM STAKEHOLDER ENGAGEMENT TO STAKEHOLDER COMMITMENT 
+STEP 3. THE RESILIENCE ASSESSMENT 
+STEP 4. ALIGNMENT WITH CITY PRIORITIES AND GLOBAL AGENDAS. 
+STEP 5. IMPLEMENT, MEASURE, EVALUATE AND SHARE
+
+[Page 4]
+RESILIENCE PRACTICE: A GUIDE TO UPDATING RESILIENCE STRATEGIES FOR SUCCESS
+INTRODUCTION
+The purpose
+During the formative years of the Resilient Cities Network (R-Cities), each member city appointed a Chief Resilience Officer (CRO) upon joining the network and proceeded to develop an Urban Resilience Strategy through an inclusive, multi-stage process. The 
+Resilience Strategy was the first planning tool that approached urban resilience with a holistic perspective, analyzing the main shocks and stresses that challenged cities’ systems. The strategy process was also an opportunity to establish and elevate the 
+CRO as the resilience leader in the city and in the network.
+Our resilience community has now been building resilience for a decade. The work undertaken by the CROs and their teams, as well as R-Cities and its partners, has led to a new practice of urban management and international cooperation.
+With climate and other shocks becoming more frequent, severe, and overlapping, there is an urgency to get smarter and faster in building resilience. Cities need to plan for uncertainty and prepare for current and future risks. Thus, Resilience Strategies must swiftly assimilate emerging shocks and stresses within urban environments to remain pertinent. Furthermore, shifts in political landscapes, whether at the municipal or national level, may necessitate realigning these strategies with the priorities of incoming administrations.
+The proposal
+To meet the evolving needs of our cities and communities, we have harnessed the collective intelligence of our members to develop this Guide to Updating Resilience 
+Strategies, which aligns with cities priorities, needs and perspectives, drawing upon a wealth of data and insights accumulated over the past decade.
+This guide is tailored for member cities seeking to enhance their Resilience Strategies, providing concise direction and practical methodologies to facilitate the development of updated strategies. It aims to leverage the insights gained from previous strategies, thereby enabling the creation of more robust and refined approaches. Users of this guide will find practice-oriented direction for the development of the new strategy, examples from different cities, recommended methodologies, and toolboxes with useful resources.
+“Resilience Practice: A Guide to Updating Resilience Strategies for Success” is meant to be a compass in the journey of updating a resilience strategy. It is made up by the 5 key steps that should be followed through this process:
+
+[Page 5]
+RESILIENCE PRACTICE: A GUIDE TO UPDATING RESILIENCE STRATEGIES FOR SUCCESS · Step 1. Set up the team and governance structure · Step 2. Build your Stakeholder Engagement Strategy: from stakeholder engagement to stakeholder commitment · Step 3. The Resilience Assessment · Step 4. Alignment with City Priorities and Global Agendas · Step 5. Implement, measure, evaluate and share
+As resilience is an ongoing journey, we commit to consistently refine and advance our resilience practice by developing and implementing new tools while enhancing existing ones. We will continue to experiment with new approaches, expanding our evidence base and sharing our learnings within the network and wider audiences. Building a collective knowledge is essential to ensure that cities consistently operate at the highest standards of resilience practice.
+
+[Page 7]
+STEP 1: SET UP THE TEAM AND GOVERNANCE STRUCTURE
+Congratulations! You have started your resilience journey. This guide is intended for Chief Resilience Officers (CROs) and resilience teams whose cities have a resilience strategy (from current or past administrations) that needs to be updated. Before you start, take a moment to answer the following questions:
+ 
+• Will the next resilience strategy be entirely new, or an update of the existing strategy?
+• What made you decide to work on a new or updated resilience strategy? 
+• What were the strengths and weaknesses of the existing resilience strategy development process?
+• What are the strengths and weaknesses of the overall resilience strategy? 
+• What elements of the resilience strategy were helpful and were any unhelpful? Are these elements relevant today? 
+• What do you want to change or do differently?
+• How has the concept of resilience evolved in your city since the last strategy was created? 
+This guide will help you consider all of these questions in depth. 
+
+Purpose of this step 
+
+The first step towards updating a resilience strategy is to set up your team and define your governance strategy. 
+Some of the key things you will learn here are: 
+• How to achieve political buy-in
+• How to define where the resilience team should sit in the city’s administration
+• How to engage effectively with other government areas
+• The types of roles a CRO can perform
+• The main elements of a resilience strategy update process workplan
+In this step you will revisit key concepts of urban resilience. Doing so will not only support development of the new strategy: it will also help justify and build awareness of resilience work across the city’s administration and, in particular, among potential allies. Here, we share a quick Q&A with the five things everyone should know about urban resilience.
+What is resilience?
+The term ‘resilience’ emerged from the field of ecology in the 1970s. It is defined as “the capacity of a system to maintain or recover functionality in the event of disruption, retaining its basic function and structure”.1
+What is urban resilience?
+Urban resilience is defined as “the capacity of a city’s systems, businesses, institutions, communities, and individuals to survive, adapt, and grow, no matter what chronic stresses and acute shocks they experience”.2
+What are shocks and stresses?
+A shock is defined as “an acute natural or human-made event or phenomenon threatening major loss of life, damage to assets and a city’s ability to function and provide basic services, particularly for poor or vulnerable populations”. 3
+Rodin (2014), pp. 41-45
+2 City Resilience Index. Research Report Volume 1.
+3 Resilience Tools Website
+
+[Page 8]
+STEP 1: SET UP THE TEAM AND GOVERNANCE STRUCTURE
+A stress is “a chronic (ongoing or cyclical) natural or human-made event or phenomenon that renders the city less able to function and provide basic services, particularly for poor or vulnerable populations”.4
+Globalization, climate change, pandemics and other modern challenges can be understood in terms of shocks and stresses that challenge the resilience of an entire system, with cities at the core.
+
+Why is the resilient perspective holistic?
+Resilience moves away from a siloed approach in which individual risks of shocks and stresses and means of addressing them are approached in a piecemeal fashion. Instead, “resilience focuses on enhancing the performance of a system in the face of multiple hazards, rather than preventing or mitigating the loss of assets due to specific events”.5
+What is a resilience strategy?
+Resilience strategies are long-term planning tools, designed to increase the cities’ resilience to acute shocks (such as natural disasters, infrastructure failures or acts of terror) and stresses (such as systemic inequality, lack of affordable housing or poorly maintained public transportation).6 
+
+The natural intersectionality of urban resilience necessarily creates a call for multidimensional and interdisciplinary teams that will work and engage stakeholders across all areas. 
+Importantly, efforts to advance urban resilience often simultaneously advance the progress of other agendas – for example, public health, basic services, the digital transition, improving jobs and livelihoods, mobilizing investment, and safeguarding urban green and blue spaces.
+ 
+But who within a city’s administrative structure is responsible for the resilience agenda?
+
+Usually, when a city decides to embark on its resilience journey and develop its first resilience strategy, there is no formal resilience office in place. When updating an existing strategy, a resilience office and governance strategy might already exist. In either case, five key steps must be taken before a city should start working on the updated resilience agenda:
+
+Some important factors that need to be addressed at the very beginning are:
+1. Get political buy-in from the city’s mayor and/or leadership
+To ensure the success of the new strategy, it is crucial to obtain the support of senior leadership. This will take time, particularly if working with a new administration: the resilience team should seek out opportunities to explain the concept of urban resilience and demonstrate the benefits an updated resilience strategy will bring. This is essential in order to develop an impactful agenda that truly engages teams across the city’s administration. 
+Two questions must be answered at this stage:
+1) Why does the city need an updated resilience strategy? and 
+2) How will the city accomplish it? 
+4 Resilient Cities Network
+5 Arup (2015)
+6 Resilient Cities Network
+
+[Page 9]
+STEP 1: SET UP THE TEAM AND GOVERNANCE STRUCTURE
+After establishing the key motives for updating the resilience strategy, the resilience office should adopt an educative approach, explaining to other government areas what resilience is, what the resilience office does, and how it may benefit and enhance the work that is already being done. This is necessary even if the concept of resilience has been around in the city for a relatively long time: staff and leadership change over time. It is always necessary to educate or re-educate key stakeholders about the basic concepts of resilience.
+2. Define where the resilience team should sit in the city’s administration, and how the team should be structured
+Having a strong and internally recognized resilience office is the next step for success. What is the best way forward to design and organize a resilience team and/or resilience office within the city’s administration? Who will it report to and how will it be connected to other key teams?
+There are different kinds of resilience offices: some have large teams, others may be just two people. Some resilience offices are institutionalized by law or by the city’s constitution, others must demonstrate their value when there is a change in government in order to continue their work. There is no unique formula for success.
+Members of the R-Cities Network frequently navigate challenging contexts to better embed resilience thinking in 
+We will address the ‘how’ in the next steps of the guide, and focus initially on the ‘why’. There might be various motivating factors for updating a city’s strategy, and it is vital to know which ones will guide the work. This will help explain and ‘sell’ the importance of the work to the city’s key stakeholders. 
+The following list presents some of the most common motives for updating the strategy. We invite you to mark those that apply to your city and add others you can think of:
+
+Square Change of government
+Square New political priorities
+Square The resilience office needs to increase its relevance and/or legitimacy
+Square New shocks and/or stresses
+Square New strategic planning tools
+Square New stakeholders
+Square The goals of the previous strategy have been achieved
+Square The initiatives of the previous strategy are no longer being implemented
+Square A need for international visibility
+Square A need to involve citizens in urban planning
+Square Other: …………………..
+
+[Page 10]
+STEP 1: SET UP THE TEAM AND GOVERNANCE STRUCTURE
+WHERE SHOULD THE 
+RESILIENCE OFFICE 
+SIT IN THE CITY’S 
+STRUCTURE?
+BOX 1
+There are many options, all of which shape the office’s competencies and attributes. Some examples are:
+• 
+Honolulu’s Office of Climate Change, 
+Sustainability and Resilience is located in the Office of the Mayor, which allows the resilience team to promote, coordinate, and track the resilience initiatives of other departments within the city’s administration.
+• 
+Lagos State’s Resilience Office is located in the Ministry of Economic 
+Planning and Budget. From there, the resilience team is able to monitor the implementation of the resilience strategy, as well as the allocated budget for resilience initiatives.
+• 
+Juarez Municipality’s Resilience 
+Coordination reports directly to the 
+Mayor’s Office. This allows the CRO to lead the international cooperation agenda, obtain funding for resilience projects, and provide technical assistance to other government areas.
+• 
+Paris’ Resilience, Strategic Foresight, 
+Research, and Innovation Office is located at the Department of 
+Ecological Transition and Climate. 
+From here, the resilience team is able to work on strategic planning and foster innovation projects.
+3. Agree and establish mechanisms on how the resilience office will work and engage other offices at the city level their cities’ structures. The profile of the 
+CROs, the specific needs of the city, the political leadership, and the different stakeholders are all important factors to consider. The challenge for the CRO and its team is to use the available resources to build networks and alliances, engage as many stakeholders as possible, and leverage every opportunity to embed resilience thinking into government practices.
+Updating the resilience strategy requires broad participation from different ministries and offices (such as infrastructure, environment, work, health, and education). Here are a few elements that successful resilience teams have considered when engaging other government areas:
+
+[Page 11]
+STEP 1: SET UP THE TEAM AND GOVERNANCE STRUCTURE
+Institutional arrangements, such as a ‘resilience council’ or thematic working groups, can be promoted to enhance participation and ownership of the new strategy, among both internal and external actors. In addition, identifying key stakeholders from other offices to act as resilience champions is often a useful tool.
+HOW TO EFFECTIVELY 
+ENGAGE OTHER 
+GOVERNMENT AREAS
+BOX 2
+BOX 3
+When engaging other government areas, remember to:
+• Explain clearly what resilience is, what it is not, and what can be expected from the resilience strategy.
+• Be open to ideas that could be incorporated into the resilience strategy. 
+Actively listen and avoid saying no as the first response to ideas or proposals.
+• Use the language and goals of the area in question and adapt the resilience agenda to their work.
+• Set out to quickly understand the biggest challenges and most pressing needs of the area in question, and think creatively about how a resilience focus can support addressing them. • 
+Implementation. This type 
+
+Mexico City became part of the 100 Resilient 
+Cities Network (100RC Network) in 2013 and published its first Resilience Strategy in 2016. The 
+Resilience Agency, a decentralized office within the Secretariat of Environment, was created in 
+2017. Its mission was to coordinate and support the work of different government areas to foster the implementation of resilience policies and programs.
+Following a political transition in 2018, the 
+Resilience Agency was closed, and instead, a new General Directorate of Resilience was created within the Secretariat of Risk 
+Management and Civil Protection. Under this new administration, the need for an updated resilience strategy soon became clear:
+SETTING UP A RESILIENCE 
+OFFICE: INSIGHTS 
+FROM MEXICO CITY’S 
+INSTITUTIONALIZATION
+
+[Page 12]
+STEP 1: SET UP THE TEAM AND GOVERNANCE STRUCTURE
+4. Engage powerful leadership for the office
+Each city has its own understanding of resilience, which is why every resilience office has its unique objectives and tasks. 
+However, updating a resilience strategy always requires powerful leadership that can leverage support from the mayor and other key stakeholders, as well as coordinate the governance of the strategy. For this reason, the role of the Chief Resilience Officer (CRO) within cities’ structures was promoted from the inception of the 100 Resilient Cities 
+Network.
+• The strategy was unknown to most of the new administration, and it did not entirely align with the government’s priorities.
+• The strategy lacked a risk management component, in particular with respect to the potential shock of an earthquake.
+• There were changes in the competencies and responsibilities of the government offices, and those who had previously overseen certain actions of the strategy were no longer able to implement them.
+Before updating the strategy, the resilience office organized a meeting with the 19 government agencies to ascertain if their work aligned with the current strategy. For most agencies it did not, so the team worked with the agencies to prioritize which action lines they could contribute to. This process was crucial to ensuring that key government stakeholders took ownership of the strategy.
+In addition, an analysis was performed to identify thematic specialists (for example, in the area of climate change). On doing so, the resilience office engaged with actors who possessed experience and pragmatic knowledge relevant to the development of each line of work.
+Finally, a Resilience Council was created, which comprised 100 stakeholders from government, the private sector, civil society organizations, and research centers. The update process was kicked off by sending a survey that focused on key issues to be addressed in the new strategy. Meetings were held every two months, and working groups on topics such as water resilience and seismic resilience were set up. The Resilience Council governs the work of the Resilience Directorate, enabling it to work across areas.ype 
+BOX 4
+
+This innovative position was designed in 
+2013 upon creation of the 100RC Network as the city’s lead point for resilience-building, ideally reporting to the city’s chief executive. 
+CROs were tasked to work across government departments to act as resilience champions and combine their formal authority with 
+QUALITIES OF A CRO
+
+[Page 13]
+STEP 1: SET UP THE TEAM AND GOVERNANCE STRUCTURE an ability to coordinate and lead a broad coalition of actors, both inside and outside government, to advance the holistic urban resilience agenda.
+A successful CRO is not only a positive leader with the appropriate seniority and political positioning. They must also excel at local and global relationship building, be able to work across disciplines and/or siloes, be entrepreneurial, and be skilled communicators who can drive the resilience conversation and engage others. 
+CROs have a variety of profiles and professional experience. For example, some are urban experts (Addis Ababa, Dallas, Paris, Kyoto), some have backgrounds in engineering or science (Rotterdam, Ciudad Juárez, Honolulu, 
+Surat, Pune), and others have a background in communications (Santa Fe). In a 2021 survey, 
+CROs were asked to identify their areas of greatest resilience expertise, which were found to be in the areas of Strategy and Governance, 
+Climate Resilience, Disaster Risk Reduction and 
+Monitoring and Evaluation. 7
+Due to the diversity of its functions and the differences that exist between cities, there are different types of CRO roles. 
+They are not mutually exclusive – they can and do overlap with each other:
+• Planning/cross-cutting. This type of CRO works to embed resilience throughout the city administration.
+• Thematic. This type of CRO is focused on a specific thematic area and works on the most ‘traditional’ definition of resilience, e.g. risk management. Many such CROs now focus their work on climate change and urban heat.
+• Social/development. Whilst working on thematic areas, this type of 
+CRO prioritizes social development agendas (inclusion, cohesion, etc.) as opposed to infrastructure agendas.
+• International cooperation. This type of CRO and their team are the face of international cooperation within their cities. Their role is very much linked to identifying and securing resources for implementing the resilience agenda.
+• Implementation. This type of CRO plays a key role in the strategy’s implementation, providing advice to other teams and/or key political positions on resilience matters.
+We invite you to mark which of the above examples describe your role as CRO (there can be more than one!). 
+Are there other areas of expertise that you would like to acquire to enhance resilience thinking in your city? What would it take to gain them?
+7 CRO Survey Results (2021)
+
+[Page 14]
+STEP 1: SET UP THE TEAM AND GOVERNANCE STRUCTURE
+5. Develop a workplan for updating the strategy
+Once the governance structure for updating the resilience strategy has been decided upon, it’s time to draft the workplan, which includes main activities and due dates. Although the next steps of this guide will provide useful insights for this task, key elements for consideration are:
+WORK PLAN/READINESS CHECKLIST
+Square Kick-off event
+Square Engagement meeting(s) with government areas
+Square Public participation activities
+Square Updated Preliminary Resilience 
+Assessment (PRA)
+Square Specific studies (i.e. surveys, risk and vulnerability maps)
+Square In-depth research: existing government plans, previous resilience strategies, international agendas, benchmarking
+Square Defining a vision, goals and initiatives
+Square Implementing pilot project(s)
+Square Launch event for the final strategy
+Finally, some CROs and former CROs of the network would like to share some advice while you embark on Step 1:
+“It is important to get together with all the stakeholders involved, build your own and close relationship, engage them, think with them what worked and what did not.” 
+Andrea Valsagna, former CRO of Santa Fe.
+“See how things could be linked to the plan and help others to implement and link their projects to the resilience plans.” Krystal 
+Reyes, CRO of Tulsa.
+“The CRO has to critically analyze and understand the needs and priorities of different stakeholders.” Dr. Moges Tadesse, 
+CRO of Addis Ababa.
+“You are not starting from scratch. Take into consideration all the conversations that have already been taking place -aspirations, hopes and dreams of the community-. Be a catalyst of everything that has already been discussed.” Matthew Gonser, CRO of 
+Honolulu.
+
+[Page 15]
+STEP 1: SET UP THE TEAM AND GOVERNANCE STRUCTURE
+STEP 1 TOOLBOX
+Resilient Cities, Resilient Lives. Learning from the 100RC Network. 
+This report captures 99 examples of resilience building work being done in cities across the global 100RC Network.
+100RC HANDBOOK
+Planning for Resilient Urban Growth
+The purpose of this handbook is to illustrate how rapidly growing cities can use urban growth projections to develop and implement municipal action programs to ensure that their future spatial expansion is orderly, cost effective, equitable and sustainable, leading to improved urban resilience
+
+[Page 16]
+BUILD YOUR STAKEHOLDER ENGAGEMENT 
+STRATEGY: FROM STAKEHOLDER 
+ENGAGEMENT TO STAKEHOLDER 
+COMMITMENT
+
+[Page 17]
+STEP 2: BUILD YOUR STAKEHOLDER ENGAGEMENT STRATEGY
+PURPOSE OF THIS STEP 
+Once the resilience office and its team are set up and equipped for success within the city structure, it is time to plan the process that leads to the updated resilience strategy. In this step, you will learn how to:
+• Identify the key stakeholders to involve
+• Plan a kick-off event
+• Build a stakeholder commitment approach
+The scope is reduced compared to the first time the city created the resilience strategy. The team’s goals will likely be to renew different stakeholders’ interest in the resilience agenda, engage new stakeholders, understand new risks (Step 3), and update its resilience approach (vision, goals and initiatives; addressed in Step 4) to address the city’s evolving challenges. This will help build momentum around the new strategy, foster dialogue, and engage with potential partners.
+ 
+1. Learn from experience
+
+To begin planning your stakeholder engagement strategy, you should focus on three tasks:
+
+I) Identify active stakeholders
+The resilience team should start by looking back at the process that led to the creation of the first resilience strategy, and its implementation. Although information may be incomplete (due to changes in government leadership and administration teams), the resilience team should be able to identify which stakeholders and institutions, both inside and outside city government, have been actively engaged in the resilience agenda. This initial list will give a clear picture of who has been involved to date, and therefore indicate who should be invited as key participants in the resilience strategy update process.
+II) Identify new players 
+In addition to listing the actors involved in the first strategy’s implementation, the resilience team should devote extra time and attention to identify players who have not yet been engaged in the resilience agenda but would likely add value to the process, either by identifying new shocks and stresses, or by actively engaging in resilience building.
+Information as to why these players did not participate in the past is highly valuable, as it will inform the engagement strategy in this new round.
+III) Learn from previous stakeholder engagement processes
+The team will benefit from identifying what worked well when engaging key stakeholders, and if there are participation tools or methodologies that proved successful with particular
+
+[Page 18]
+STEP 2: BUILD YOUR STAKEHOLDER ENGAGEMENT STRATEGY groups or actors. What did successful engagement look like for the first resilience strategy? What did the team learn through the process?
+These steps help to avoid starting from scratch and leverage the administration’s past efforts in building a resilience agenda that goes beyond 
+2. Plan a powerful kick-off event
+
+Once a basic plan and timeline are set, the team should organize an initial gathering or meeting, bringing together key stakeholders to launch the process and mobilize strategic contacts and media around the resilience agenda. This meeting, which can take different forms, government actors. If obtaining and systematizing information from the first strategy proves difficult, it is important to interview or seek feedback from previous city officers who led the strategy implementation process.
+ 
+The following grid allows you to capture an initial overview of your stakeholder engagement strategy. By completing this step, you will create a comprehensive toolbox for stakeholder analysis.
+is referred to as the kick-off.
+When planning the kick-off, the resilience team should note that a formal launch with speakers in a traditional conference room will not be enough. Instead, the team should create an engaging event, which will be an opportunity to:
+Stakeholder
+Type of
+Stakeholder (government/ academy/ civil society/ private sector/ international agency)
+Were they involved in the previous resilience strategy?
+Yes/No
+How can they contribute to the strategy update?
+(political support, diagnosis, financing, implementation, etc.)
+How can we involve
+
+[Page 19]
+STEP 2: BUILD YOUR STAKEHOLDER ENGAGEMENT STRATEGY
+• embed the principles of the new administration into the updated plan.
+• ensure that the concept of resilience is understood and incorporated by main stakeholders, old and new.
+• collect feedback and review critical points from the first strategy that may need updating.
+For example, the resilience team could use the kick-off to re-evaluate shocks and stresses, or share and discuss the results of the initiatives included in the first strategy.
+This is a key moment to:
+a. highlight and give credit to the role of players outside the core resilience team in the resilience-building process. The central stage should be shared with other city government units and external stakeholders who have been active players in the resilience agenda to date.
+ b. make the resilience building process visible to decision-makers and citizens. No matter what format the kick-off takes, good communication is vital and should be prioritized. 
+The kick-off needs the engagement of both internal and external stakeholders. Although each city will need to perform its own stakeholder mapping and identify who should be invited, here are some common groups to begin with: 
+• 
+City leadership
+• 
+Internal champions within city government
+• 
+Leaders from other levels of public administration (i.e. national level)
+• 
+Media and press 
+• 
+Civil society leaders
+• 
+Experts and academics from scientific community
+• 
+Youth organisations
+• 
+International organizations
+• 
+Citizens
+POSSIBLE 
+STAKEHOLDERS TO 
+ENGAGE IN THE KICKOFF
+
+[Page 20]
+STEP 2: BUILD YOUR STAKEHOLDER ENGAGEMENT STRATEGY
+The kick-off can take different forms depending on a variety of factors, such as the resilience team’s priorities, the city’s current resilience agenda, or the 
+• 
+The Small (30 people maximum) gathering with local authorities and key stakeholders can be used to work on a plan and distribute responsibilities. Key stakeholders from the initial strategy development should be identified and invited. As they played a crucial role due to their engagement or relevance and their commitment is already confirmed, the main purpose of this type of kickoff is to begin the resilience strategy update process, rather than engaging or convincing stakeholders about the need for a resilience strategy.
+readiness of stakeholders to engage deeply. Here are some examples of the types of kick-off meeting, depending on the circumstances:
+• The Medium gathering involves government stakeholders and leaders from different sectors that the new strategy needs to engage. This option is most suitable for cities that have had a change of leadership and need to re-engage specific internal and/or external stakeholders in resilience work.
+ 
+• The Big public gathering seeks to generate significant press and mass media engagement. If the resilience team is presented with an opportunity to tie the resilience strategy kick-off to significant local news and events, it 
+Participants
+Objective
+Small
+Local authorities and key stakeholders
+Work on a plan and distribute responsibilities
+Medium
+Government stakeholders and leaders from different sectors
+Re-engage stakeholders on resilience building
+Big
+All of the above, plus the general public and media
+Engage press and mass media
+Political
+Any of the above with highlevel internal and/or external representatives
+Ensure authorities engagement and support
+
+[Page 21]
+STEP 2: BUILD YOUR STAKEHOLDER ENGAGEMENT STRATEGY makes sense to engage the press and mass media in a larger event involving all of the above-mentioned groups. 
+This might be an opportunity to bring together international organizations working in the city or even potential funders who could be interested in supporting the implementation of the resilience strategy. The city administration should perform a temperature check to confirm such an event is strategically aligned with government priorities. 
+• The Political or high-level gathering is in addition to the other meetings, as the city government should run an internal and high-level political kick-off to ensure that heads of departments are engaged and willing to lead their teams in supporting the update process.
+• The resilience team has a designated 
+CRO and team with a clear position inside the city administration.
+• The original resilience strategy has been at least partially implemented and evaluated. 
+• 
+Key internal champions have been identified.
+• 
+A resilience committee or working group has been established within the city administration.
+• 
+Identified stakeholders have been invited.
+• 
+Innovative and engaging activities have been planned for the kick-off. This ensures that stakeholders have a key role to play in the set-up and framing of the new resilience strategy. For instance, a workshop might be held to identify new shocks and stresses (see Step 3 for examples about the participatory process of the PRA).
+• 
+Concise next steps for the post- kickoff phase have been articulated. 
+Invitees need to know how their inputs will be used and leave with a clear understanding of next steps and key dates for the resilience strategy update.
+ 
+• 
+A communications plan exists and media have been invited.
+ORGANIZING A KICKOFF EVENT: READINESS 
+CHECKLIST
+
+[Page 22]
+STEP 2: BUILD YOUR STAKEHOLDER ENGAGEMENT STRATEGY
+PARIS’ STAKEHOLDER 
+ENGAGEMENT 
+PROCESS 
+BOX 3
+3. Build a Stakeholder 
+Commitment approach
+
+Regardless of the kick-off format, the launch of the new resilience strategy update process is the perfect opportunity to leverage stakeholder engagement to obtain pledges or specific commitments from key stakeholders.
+ 
+The City of Paris has begun updating their resilience strategy, which will have a strong participatory component. In 2023, the Resilience, 
+Foresight, Research and Innovation Center of 
+Paris worked side-by-side with hundreds of 
+Parisians to co-create the new strategy. Activities included public meetings, workshops, and a digital consultation to gather proposals for action.
+• 
+The launch of the new strategy took place in October 2023, with 300 participants from institutions, partners, associations, and citizens.
+• 
+13 workshops open to all Parisians were held in the District Town Hall, to raise awareness of the concept of resilience and gather proposals for action to feed into the new strategy. Almost 300 concrete proposals were obtained.
+• 
+17 thematic workshops with professionals were organized, with topics ranging from encouraging local solidarity to creating resilient neighborhoods. 150 ideas and recommendations were gathered
+• 
+The hackathon ‘Resilience Challenges’, dedicated to 18–25-year-olds, was organized to find solutions in the face of various crises (heatwaves, power cuts, disruption of food supplies, drought).
+• 
+An online consultation was set up on the platform decider.paris, open to all 
+Parisians, to gather their opinion on relevant proposals for the new strategy.
+• 
+A crisis simulation exercise was carried out involving role-playing scenarios with different groups, including children, young people, and residents of retirement homes in the 19th and 13th districts of 
+Paris. The aim was to test how they would respond to a crisis and what measures could be taken to protect them.
+
+[Page 23]
+STEP 2: BUILD YOUR STAKEHOLDER ENGAGEMENT STRATEGY
+Such commitments have been used during recent years to involve regional and national governments, private sector actors, and civil society organizations in diverse public interest processes. A well-known example is the UN Common Pledge, established in 2019 at the Global Refugee Forum, which committed United Nations entities to “systematically include refugees into their analyses and plans, and to work with refugee-hosting governments and communities to facilitate the inclusion of refugees into national systems”. In its second edition, scheduled for 2023, the 
+Pledge has been expanded to include commitments made by a variety of actors (states, organizations, businesses, academics and refugees), who have committed to using their resources to advance the objectives set by the UN in the field of refugees. 
+When engaging stakeholders in the new resilience agenda, the resilience team will have the opportunity to use this commitment approach with key stakeholders. There are many ways to secure stakeholder commitment. 
+Testing, learning from experience, and sharing insights with other members of 
+R-Cities is encouraged.
+ 
+For example, resilience teams can call for specific commitments from stakeholders in a small gathering in which key stakeholders are already engaged and familiar with the city’s resilience challenges. Each stakeholder could be invited to the event to share their commitment towards urban resilience in the next period, considering the risks and stresses that the resilience team will prioritize in this new phase. This type of commitmentcentered kick-off can be a powerful media engagement tool; a summary of these commitments can be shared with the public to raise expectations for the new resilience strategy. Such commitments are an easy and clear way for citizens to track the progress of the resilience agenda and measure the success of the strategy and/or the government implementing it. 
+Alternatively, stakeholder commitments can be requested at a later stage of the strategy update process, when conducting a resilience assessment. 
+Different stakeholders can be invited by the resilience team to make very specific commitments that will add to the overall resilience strategy for this new period. 
+Engaging stakeholders beyond mere expressions of interest and support is a powerful tool that resilience teams are advised to use in their favor and will support achievement of the city’s resilience goals. Experience in R-Cities cities around the world has shown just how powerful resilience mainstreaming is when public–private partnerships are leveraged, and public commitments provide important support.
+
+[Page 24]
+STEP 2: BUILD YOUR STAKEHOLDER ENGAGEMENT STRATEGY
+The NetZeroCities project – a project designed to help European cities achieve climate neutrality by 2030 – has used commitments as a very specific way to engage all kinds of actors to support cities in achieving the Net Zero goal for 2030. 
+NetZeroCities collects information on best practices in Multi-Actor Commitments for climate action, such as the following example from the City of Oslo. 
+Oslo’s Business for Climate network
+Business for Climate is a collaboration between the municipality of Oslo and businesses in the Oslo region. Its objective is to create an arena for dialogue and cooperation to achieve the city’s climate goals. More than 150 companies have signed a Climate Contract with the city, which states a commitment to work actively to accomplish Oslo’s climate targets of 95% greenhouse gas reduction by 2030. All new members are invited to a ceremonial signing at the City Council.
+STAKEHOLDER 
+COMMITMENT IN THE 
+NETZEROCITIES PROCESS
+
+[Page 25]
+STEP 2: BUILD YOUR STAKEHOLDER ENGAGEMENT STRATEGY
+STEP 2 TOOLBOX
+Meaningful Stakeholder Engagement: A Joint 
+Publication of the MFI Working Group on 
+Environmental and Social Standards
+This technical note summarizes key objectives, principles and elements of stakeholder engagement.
+How to create a stakeholder map for your project (Part 1/2)
+How to create a stakeholder map for your project (Part 2/2)
+These blogs from the Inter-American 
+Development Bank (IDB) demonstrate how to identify and classify stakeholders, develop a needs matrix and create stakeholder management strategies.
+
+WHAT IS A ‘GOOD PRACTICE’?
+A framework to analyse the Quality of 
+Stakeholder Engagement in implementation and follow-up of the 2030 Agenda
+Developed by the United Nations Department of Economic and Social Affairs (UN-DESA) and United Nations Development Programme (UNDP), this framework is a helpful tool to improve stakeholder engagement practices, foster dialogue, and support the sharing of lessons learned and good practices.
+
+[Page 26]
+STEP 2: BUILD YOUR STAKEHOLDER ENGAGEMENT STRATEGY
+STEP 2 TOOLBOX
+NetZeroCities
+NetZeroCities has been designed to help 
+European cities overcome the current structural, institutional, and cultural barriers to achieving climate neutrality by 2030.
+
+[Page 28]
+STEP 3: THE RESILIENCE ASSESSMENTTO STAKEHOLDER COMMITMENT
+The update of the resilience strategy is now on track; you have set up your team and a governance strategy, and you have launched the process with the key stakeholders. Now it is time to move to the core of the strategy: the resilience assessment. In this step, you will learn about: 
+• The Preliminary Resilience Assessment (PRA)
+• How in-depth the PRA’s update needs to be 
+• Different kinds of risk assessments
+• Tools to identify and measure risks 
+1. The Preliminary Resilience 
+Assessment and what it means for the resilience strategy update process 
+
+Cities will have developed a Preliminary 
+Resilience Assessment (PRA) to document the evaluation of shocks and stresses as part of their initial resilience strategy. This is a diagnosis or baseline that measures how the city is preparing and understanding resilience issues. 
+Generally, cities use a participatory workshop with key stakeholders aimed at identifying shocks and stresses that affect the city and its key stakeholders. 
+During development of the first strategy, this is usually undertaken at the kickoff, using the event as an invitation to stakeholders to actively participate in the development of the strategy. 
+Participation in this type of workshop should be wide-ranging and include people from the public sector, private sector, academia, and civil society to ensure that diverse perspectives are considered. The primary result of this diagnosis is the PRA, and emerging issues that will guide the future development of the strategy should follow from it. 
+This initial process should take no more than three months. Thereafter, the shocks and stresses can be reviewed during the resilience strategy update. How in-depth a new analysis must be is dependent on: 
+• The level of analysis of the initial PRA, 
+• The level of stakeholder engagement in the initial PRA,
+• The resources and time available at city level for this step (which may depend on the political will and priorities of the incumbent government and its alignment with other plans and long-term strategies at the city level – see Step 4 for more information).
+• The level of technical knowledge and expertise to develop an in-depth risk assessment, and the availability and 
+PURPOSE OF THIS STEP
+
+[Page 29]
+STEP 3: THE RESILIENCE ASSESSMENTTO STAKEHOLDER COMMITMENT accessibility of risk assessment tools (see below for a table of resources).
+Depending on the local realities and risk exposure, a risk assessment performed within four or five years of the initial resilience strategy development is not expected to present significant changes in terms of the shocks and stresses that might affect the city. However, more specific and technical analyses can also be developed (i.e. a climate change risk assessment with an in-depth analysis of potential future scenarios) and the results should be reflected in the new 
+PRA.
+
+2. Approaches for developing the resilience assessment
+
+How in-depth should the PRA be? Here are a few options/ideas for moving forward:
+I) A light-touch risk assessment, with a medium level of stakeholder engagement, might involve a quick consultation with stakeholders on risk perception, city priorities, future challenges, and how to approach them. This exercise could take the form of an easily systematizable online survey that includes or highlights categories from the city’s resilience framework. 
+This exercise can also be undertaken during the kick-off of the resilience strategy update process. The initial round’s findings on shocks and stresses could be re-run using previous information as a baseline, instead of starting from scratch.
+ 
+Here are a few possible questions to stimulate the discussion:
+• What has changed at the city level?
+ 
+• What new risks have arisen?
+ 
+• Are there new stakeholders that need to be considered in this phase?
+• Have the city’s dynamics and processes to respond to potential shocks and stresses changed?
+• What lessons have been learned in responding to shocks and stresses?
+II) An in-depth thematic analysis, focusing on the analysis of a specific risk that has not been evaluated in the past but has emerged as highly relevant in this new phase.
+• For example, this could be a proper climate risk assessment that includes future climate scenarios and evaluates the city’s risk due to climate change exposure. Such an analysis should not only consider the main hazards to which a city is exposed, but also the distribution of vulnerabilities across the city territory; this is necessary for a proper understanding of how climate change affects the most vulnerable.
+
+[Page 30]
+STEP 3: THE RESILIENCE ASSESSMENTTO STAKEHOLDER COMMITMENT
+IN-DEPTH THEMATIC 
+ANALYSIS 
+BOX 1
+Buenos Aires’ Social Vulnerability 
+Map8
+
+During the development of its resilience strategy, the City of Buenos Aires, with the support of the School of Geography at the University of 
+Buenos Aires, elaborated a report on social vulnerability to disasters and specific risks. With contributions from different government areas, a Social Vulnerability Atlas was created in a 
+GIS-type web repository, consisting of six social vulnerability to disasters maps, ground heat spots, and a flood risk atlas.
+The social vulnerability maps were key inputs into the resilience assessment, providing a clear representation of the most vulnerable areas and neighborhoods of the city. The analysis shed light on the fact that more than half of the population live in areas at risk of flooding, with the increased risk in informal neighborhoods. 
+Consequently, these communities were prioritized during the implementation of resilience building policies.
+8 Mapa de vulnerabilidad social en la Ciudad Autónoma de Buenos Aires. Aportes para la evaluación del riesgo.
+ 
+Resilient Buenos Aires Resilient Buenos Aires
+
+[Page 31]
+STEP 3: THE RESILIENCE ASSESSMENTTO STAKEHOLDER COMMITMENT
+• Another example could be a specific risk and sectoral analysis, depending on the city’s interests and priorities. 
+This could involve evaluating the transportation sector by integrating climate-related data to assess the risks associated with developing new transport infrastructure in specific city areas. Further examples include conducting a detailed analysis of the public health sector to gauge its resilience or vulnerability in the event of an outbreak of an unknown disease, or an examination of the housing sector to understand the unique challenges related to housing access that impact major cities globally. This allows for the development of solutions tailored to the specific needs of each city.
+III) Combining a light-touch survey with a specific sectoral analysis. 
+Depending on the time and resources available, combining the suggestions above could work for cities that want to ensure participation while going into greater depth on the specific challenges identified. 
+In this case, the risk assessment could serve as the baseline with which to identify which topic or topics are most interesting or crucial to attend to, in order to develop a proper sectoral analysis of such topics. 
+This could imply a lengthier process (because a survey would need to be prepared, run, and its data processed before deciding on which sectoral analysis to perform), but it can be an important process for specific city teams that may have less experience in resilience planning or where the entire team has changed since the development of the first strategy.
+IV) Elaboration of a report with the main results of the assessment. 
+Regardless of the approach the resilience team decides to use, it is advisable to produce a short report (of no more than three or four pages) that summarizes and outlines the main results of the PRA. This report should be shared with those surveyed and other stakeholders and be included in the final updated resilience strategy.
+3. What tools can cities use to identify and measure risks?
+
+Although GRCN can provide support in developing an initial assessment workshop to identify shocks and stresses, a number of tools and indexes can be used by cities to identify, understand and measure risks in order to have a proper understanding on how to approach potential solutions, increase resilience and reduce people’s vuñnerability. 
+This section provides a non-exhaustive list of these resources that can be accessed by cities and a brief explanation on each of them.
+
+[Page 32]
+STEP 3: THE RESILIENCE ASSESSMENTTO STAKEHOLDER COMMITMENT
+STEP 3 TOOLBOX
+City-Wide Risk Assessment: Do-It-Together 
+Toolkit For Building Urban Community 
+Resilience
+Developed by the Global Disaster Preparedness 
+Center (GDPC), this toolkit provides an approach for assessing city-wide community resilience that allows identification of community resilience priorities and needs that require city-level attention and intervention.
+Quick Risk Estimation (QRE) Tool
+Developed by the United Nations Office for 
+Disaster Risk Reduction (UNDRR), the Quick Risk 
+Estimation (QRE) tool has been designed for the purposes of identifying and understanding current and future risks, stresses, shocks, and exposure threats to human and physical assets.
+The Vulnerability Sourcebook
+The GIZ Vulnerability Sourcebook offers conceptual and step-by-step guidelines for standardized assessments of vulnerability to climate change.
+
+[Page 33]
+STEP 3: THE RESILIENCE ASSESSMENTTO STAKEHOLDER COMMITMENT
+STEP 3 TOOLBOX
+Risk Supplement to the Vulnerability 
+Sourcebook - Impact Chains
+The Risk Supplement provides guidance on how to apply the Vulnerability Sourcebook’s approach with the new IPCC AR5 concept of climate risk. 
+An impact chain is an analytical tool that supports better understanding, systematization, and prioritization of the factors driving risks in a particular system.
+Global Risks Report 2023
+The World Economic Forum (WEF) Global Risks 
+Report 2023 presents the results of the latest 
+Global Risks Perception Survey (GRPS).
+“Global risk” is defined as the possibility of the occurrence of an event or condition which, if it occurs, would negatively impact a significant proportion of global GDP, population, or natural resources.
+
+Urban Flood Risk Handbook: Assessing Risk and Identifying Interventions
+Developed by the Global Facility for Disaster 
+Reduction and Recovery (GFDRR), the Urban 
+Flood Risk Handbook is a roadmap for conducting an urban flood risk assessment in any city in the world. It includes practical guidance for a flood risk assessment project, covering the key hazard and risk modeling stages as well as the evaluation of different flood-mitigating infrastructure intervention options and project management.
+
+[Page 34]
+ALIGNMENT WITH CITY PRIORITIES 
+AND GLOBAL AGENDAS
+
+[Page 35]
+STEP 4: ALIGNMENT WITH CITY PRIORITIES AND GLOBAL AGENDAS
+Having reached this point, you are well into the resilience journey: you have a team and governance strategy, you have launched the strategy update process, and elaborated (or refreshed) the preliminary risk assessment for your city. It is now time to take stock and understand how your resilience strategy will interact with other agendas, both in the global arena and at city level. In this step, the key things you will learn are: 
+• How to align and connect the urban resilience strategy with other relevant global agendas and government plans.
+ 
+• The importance of establishing a common vision and goals.
+ 
+• How to elaborate and prioritize resilient initiatives.
+• How to develop a solid planning document and best practices to design and deliver your resilience strategy.
+ 
+In Step 1, we addressed the question of why a city might need to update its resilience strategy and presented some of the most common drivers to embark on this process. We will ask this once again, this time with a focus on existing development priorities and agendas and how the resilience strategy can interact with them. This step is fundamental to equip you as CRO and your resilience team to address some of the most poignant questions you are likely to receive, such as:
+• Does the city really need a resilience strategy when it already has a 
+Climate Action Plan, or a Sustainable 
+Development Goals (SDG) plan?
+• Should the resilience strategy be inward-looking and address the main challenges faced by the city, or should it contemplate the main global problems and challenges originating from beyond the city?
+• Do key tensions and dilemmas in the global arena impact the resilience strategy?
+During this step, you will find simple, actionable answers to each of these questions. 
+1. Global Agendas and related local government plans 
+
+The world has changed in very significant ways during the last decade: a global pandemic, emerging international conflict, massive forced displacement, and an unprecedented global climate crisis are just a few of the issues that global leaders have learned to incorporate into their day-to-day work. 
+How does this changing landscape affect a city’s agenda, and in particular its resilience planning?
+PURPOSE OF THIS STEP
+
+[Page 36]
+STEP 4: ALIGNMENT WITH CITY PRIORITIES AND GLOBAL AGENDAS
+GLOBAL AGENDAS TO 
+HAVE ON THE RADAR 
+WHEN (RE)DESIGNING 
+THE RESILIENCE 
+STRATEGY 
+BOX 1
+
+In recent years, the international community has adopted global agendas which are key to sustainable development:
+The Sustainable Development 
+Goals (2015):
+
+The 2030 Agenda for Sustainable Development, adopted by all United Nations Member States in 2015, provides a shared blueprint for peace and prosperity for people and the planet. At its heart are the 17 Sustainable Development Goals (SDGs), which are an urgent call for action by all countries in a global partnership. They recognize that ending poverty and other deprivations must go hand-in-hand with strategies that improve health and education, reduce inequality, and spur economic growth – all while tackling climate change and working to preserve our oceans and forests.
+
+The Paris Agreement (2015):
+
+Adopted at the UN 
+Climate 
+Change 
+Conference (COP21) in 
+Paris, France, the Paris 
+Agreement is a landmark in the multilateral climate change process because, for the first time, a binding agreement brings all nations together to combat climate change and adapt to its effects. Its overarching goal is to hold “the increase in the global average temperature to well below 2°C above pre-industrial levels” and pursue efforts “to limit the temperature increase to 1.5°C above pre-industrial levels.”
+
+The Sendai 
+Framework for 
+Disaster Risk 
+Reduction (2015):
+
+Adopted at the Third UN 
+World Conference on 
+Disaster Risk Reduction in 
+Sendai, Japan, the Sendai Framework for Disaster 
+Risk Reduction 2015–2030 outlines four priorities for action to prevent new and reduce existing disaster risks: (i) Understanding disaster risk; (ii) Strengthening disaster risk governance to manage disaster risk; (iii) Investing in disaster reduction for resilience and; (iv) Enhancing disaster preparedness for effective response, and
+
+[Page 37]
+STEP 4: ALIGNMENT WITH CITY PRIORITIES AND GLOBAL AGENDAS to “Build Back Better” in recovery, rehabilitation and reconstruction.
+
+The New Urban Agenda (2016):
+ 
+Adopted at the United Nations Conference on 
+Housing and Sustainable 
+Urban Development (Habitat III) in Quito, 
+Ecuador, the New Urban 
+Agenda represents a shared vision for a better and more sustainable future. It lays out standards and principles for the planning, construction, development, management, and improvement of urban areas along its five main pillars of implementation: national urban policies; urban legislation and regulations; urban planning and design; local economy and municipal finance; and local implementation. It also underlines the linkages between good urbanization and job creation, livelihood opportunities, and improved quality of life, which should be included in every urban renewal policy and strategy.
+
+World Humanitarian Summit (2016):
+The World Humanitarian 
+Summit was a pivotal moment for the global humanitarian agenda. 
+It generated over 
+3,000 commitments to action, and over 2,500 alignments with the core commitments to deliver the Agenda for Humanity.
+In addition to these key global agreements that prepare the ground for working towards a more sustainable and livable world, other periodic reports and guidelines outline pathways for the work ahead, such as:
+• IPCC Reports: The latest Assessment 
+Report (AR6, 2022) published by the 
+Intergovernmental Panel on Climate 
+Change includes a full chapter on the role of cities in the mitigation of climate change (Chapter 8, Urban Systems and 
+Other Settlements). 
+• Summary for Urban Policymakers (SUP): 
+A report series directed at city leadership based on IPCC findings, launched in 
+November 2022 during COP27 (see toolbox for full reports).
+ 
+• The Seventh Assessment Cycle of the 
+IPCC (AR7), Expected to be published in a few years’ time, will also include a Special 
+Report on Climate Change and Cities.
+ 
+• Urban 20 communiques: Action-oriented documents that include U20 cities’ asks and recommendations to national governments on the most urgent urban issues. The communiqué is handed over to the G20 before the annual G20 Summit.
+All international agendas, such as those mentioned here, are important guides. 
+Their main function is to establish directions and objectives at a macro scale that reflect the consensus of the international community on global sustainable development and how to achieve it. In most cases, these agendas are ratified by national governments. 
+However, their purpose and aims will never
+
+[Page 38]
+STEP 4: ALIGNMENT WITH CITY PRIORITIES AND GLOBAL AGENDAS plans or risk atlases. Alongside these and since the creation of the last resilience strategy, the city government may have developed new initiatives, government programs, and strategies covering areas that have emerged in the PRA or initial benchmarking developed by the resilience team in the previous steps. The city may also provide incentives to align to national priorities or nationwide plans. It is very important for the success of the resilience strategy that, at this point, these plans and perspectives are incorporated through a resilience lens, and that the leaders of each of these local plans/agendas are engaged. 
+The objective here is to join forces: the resilience strategy should not be perceived as something new or competing with other government agendas, but rather as an umbrella encompassing different efforts and commitments that the city values as important, that together build a resilient future. The ability to knit together existing plans and agendas is an important power of the resilience strategy: establishing synergies, integrating existing efforts, and investing extra resource in weak spots that other plans encountered during implementation is a powerful feature of the resilience strategy. If done with care and professionalism, if stakeholders are properly engaged, and if an inclusive agenda is built, it is much more likely that the resilience strategy is a success.
+be achieved unless they translate into concrete actions at the local level. This is why the role of local governments is vitally important, and the update of the resilience strategy is a unique opportunity to align these visions and translate them into specific actions in any given city. 
+Based on these agendas the city may have developed government plans that localize these global agendas or cover specific issues regarding the use of resources and urban sustainability: some of the most frequently cited are climate action plans, Sustainable 
+Development Goals plans, land use 
+Global
+• 2030 Agenda and SOGs
+• UNFCCC and Paris 
+Agreement
+• Sendai Framework
+• Other global developmet
+• agendas
+• Urban networks
+RESILIENCE STRATEGY
+National
+• SDGs National Goals
+• NDC / National Adaptation
+• and Mitigation Plans
+• National Laws
+• National Plans and Programs
+• (urban development, land use, sustainable mobility, environmental management, economic development, etc.)
+Local
+• SDGs Localization
+• Climate Action Plan
+• Previous Resilience Strategy
+• Local Laws
+• City Plans and Programs
+• Local Tools and Research (Management Platforms, Risk 
+Atlas, Vulnerability Index, etc.)
+
+[Page 39]
+STEP 4: ALIGNMENT WITH CITY PRIORITIES AND GLOBAL AGENDAS
+INTEGRATION 
+OF STRATEGIC 
+PLANNING TOOLS IN 
+GUADALAJARA 
+BOX 2
+
+Prior to the development of the resilience strategy, the Metropolitan Area of Guadalajara had a relevant set of planning and management tools and documents in place. Among them were the Metropolitan Land Use Plan (POTmet), the 
+Metropolitan Risk Atlas, the Sustainable Urban 
+Mobility Plan (PIMUS), the Metropolitan Climate 
+Action Plan (PACmetro) and the Water Resilience 
+Agenda. Moreover, some of these documents also presented a resilience component or goal. For example, the POTmet had a strategic objective of promoting the construction of a comprehensive and dynamic system of urban resilience in the face of acute and chronic pressures.
+Each of these strategies and tools provided specific technical knowledge with vision and initiatives to improve the lives of the people who live in the Metropolitan Area of Guadalajara. They served as the starting point for the development of the resilience strategy, which, due to its holistic perspective, was able to integrate and prioritize them. Thus, the Metropolitan Resilience Strategy was built on a solid base of diagnoses, strategies, and measures, which were redefined during an analysis of impacts and tensions, and enhanced through a participatory process.
+The following chart presents the different planning tools and strategies of the Metropolitan Area of Guadalajara and their links to the resilience strategy:
+
+[Page 40]
+STEP 4: ALIGNMENT WITH CITY PRIORITIES AND GLOBAL AGENDAS
+INTEGRATING GLOBAL AGENDAS 
+AND LOCAL DEVELOPMENT PLANS 
+- READINESS CHECKLIST:
+Square Global development agendas that are relevant to the country and/or the city have been identified
+Square Other government plans in place have been scanned 
+Square Internal stakeholders leading relevant government plans have been identified and engaged with the resilience agenda
+Square Clear connection points have been established between relevant global agendas and the resilience strategy 
+Square Clear connection points have been established between relevant government plans and strategies and the resilience strategy
+2. Establishing a clear Vision 
+
+Identify relevant agendas and government plans. Establish clear and common themes shared with the resilience strategy. These are essential steps in creating a very important building block of the resilience strategy: its vision. Revising the vision of a resilience strategy is an excellent way to update the strategy to incorporate emerging and/or leading perspectives, in addition to new government priorities. 
+A city’s unique vision statement reflects the city’s aspirations for resilience building in terms of generational change. The statement should allude to the city’s main challenges and guide the planning, design, and implementation processes of the resilience strategy. 9
+Collectively identifying a shared vision is an excellent opportunity to join forces with other government plans and strategies. It is a way to express a unique and unified vision for the city’s future development and show that every plan or tool plays a role in bringing it to reality. Here, the concept of a ‘resilience dividend’ gains relevance.
+THE RESILIENCE 
+DIVIDEND
+The ‘resilience dividend’ is a concept coined by former Rockefeller Foundation 
+President Judith Rodin denoting the unrecognized benefits – e.g. social cohesion, job opportunities, environmental protections, and space for public use – that resilience solutions bring to urban systems. Investing in urban resilience pays off: there is quantifiable, economic value connected to resilience, paying off in the short, medium, and long term.10
+BOX 3
+9 Strategy Guidance Manual 3.0, 2017
+10 Rodin (2017)
+
+[Page 41]
+STEP 4: ALIGNMENT WITH CITY PRIORITIES AND GLOBAL AGENDAS
+RESILIENCE VISIONS 
+IN DIFFERENT CITY 
+STRATEGIES
+Given the purpose of this step, highlighting resilience dividends is a very practical way of showing different stakeholders how the resilience perspective includes and serves the purpose of multiple government plans. 
+BOX 4
+When the resilience strategy adopts a vision that reflects these complementary perspectives, it serves the higher purpose of alignment and collaboration within city government, which will make implementation smoother.
+Buenos Aires’ Resilience vision11:
+Accra’s Resilience vision12:
+
+Medellin’s Resilience Vision13:
+11 Buenos Aires Resilience Strategy (2019)
+12 Accra Resilience Strategy (2019)
+13 Resilient Medellin (2016)
+Resilient BA Vision
+Buenos Aires will be a worldwide reference in the promotion and generation of talent. A City that integrates its neighborhoods and enhances its leisure areas, anticipates its risks and gets ready. 
+It innovates in education and bets today on the jobs of the future, committing to gender equity, diversity and sustainability.
+Our vision for Accra is: ”A smart, sustainable and resilient city that anticipates and plans for shocks, rather than reacts to them. We will transform the city’s ongoing stresses into opportunities: by embracing informality as an engine of growth, designing infrastructure to improve our natural and built environments, and optimising our resources and systems for greater efficiency, accountability, and transparency.”
+We envision a city where resilience is ubiquitous in our strategic planning processes as the driving force of urban transformation and social innovation, where we continue to promote equity and a culture of legality, improve urban land management, and reduce violence and extreme poverty.
+
+[Page 42]
+STEP 4: ALIGNMENT WITH CITY PRIORITIES AND GLOBAL AGENDAS of this step consists in designing and delivering the content of an updated resilience strategy that reflects all the work done throughout the process and sets the resilience team – and the whole city – up for success.
+Toronto’s Resilience Vision14:
+14 Toronto’s First Resilience Strategy (2019)
+Integrating different perspectives into one vision and incorporating other government plans and strategies ensures that the resilience strategy includes existing initiatives from other areas, which will in turn increase their usefulness by incorporating resilience concepts. This change could be anywhere between minor and significant compared to the first resilience strategy.
+3. Design and delivery of the 
+Resilience Strategy
+
+With a clear, refreshed and encompassing vision in place, the next and final phase 
+RESILIENCE CHALLENGE STATEMENT
+Vision(s)
+Goals
+Initatives
+
+[Page 43]
+STEP 4: ALIGNMENT WITH CITY PRIORITIES AND GLOBAL AGENDAS
+It should now be clear if the updated resilience strategy will incorporate new topics that were not included in the previous strategy. The inputs of multiple stakeholders (Step 2) and the preliminary risk assessment (Step 3) can be revisited to confirm if this is the case. This will determine whether new goals need to be incorporated into the strategy, or if the phrasing, focus and content of the goals needs to be revised.
+Quick checklist of key elements of Goals:
+There should be 3–5 measurable goals per strategy.
+They should state the key mid- to long-term outcomes that will be delivered by the resilience strategy to fulfill the vision.
+
+As far as possible, they should include clear, measurable, and integrated desired outcomes. This will help the resilience team track and report progress over time.
+Resilience vision
+GOAL 1
+GOAL 2
+GOAL 3
+GOAL 4
+Once the goals are clear and welldefined, it’s time to decide which initiatives will be part of the updated strategy. To deliver this, the resilience team may take different approaches, depending on various factors (such as the amount of change the team is aiming to introduce compared to the previous strategy, the time elapsed since the last update, the number of stakeholders engaged in the strategy update, etc.). In any case, it’s good practice to dedicate energy to the ideation, co-creation, selection, and presentation of initiatives that will be the most visible part of the city’s resilience strategy.
+Quick checklist of key elements of 
+Initiatives:
+They should have a clear name that describes their essence and purpose.
+They should include different kinds of programs, policy and governance actions, and projects that specifically contribute to achieving the stated goal.
+They should be short- or medium- term.
+They should produce multiple resilience benefits.
+They should be ideated, driven, and implemented by different teams both inside and outside of the city administration.
+They should be time-bound, measurable, and include indicators for assessing progress and degrees of achievement.
+
+[Page 44]
+STEP 4: ALIGNMENT WITH CITY PRIORITIES AND GLOBAL AGENDAS
+ACTIVITY: Think about an initiative for the new resilience strategy (either pre-existing or proposed) and capture its main elements. Here is an example taken from Buenos 
+Aires’ Resilience Strategy:
+Initiative
+Social and urban integration of low-income neighborhoods
+Goal(s) it contributes to
+Improve access to quality housing for all city residents
+Actions
+• 
+New Housing at Barrio 31
+• 
+Center for Entrepreneurial and Labor Development
+• 
+Participative work in the design of the “Pope Francis” Housing Complex
+Objective
+Build new housing, improve existing housing, and develop infrastructure so that the people who live in low-income neighborhoods have access to the same quality services as other neighbors
+Benefits
+Social inclusion; Economic and social development
+Stakeholders
+• 
+City Housing Institute
+• 
+Secretariat of Social and Urban Integration
+Indicator(s)
+• 
+Number of improved dwellings
+• 
+Number of dwellings built for the integration of neighborhoods
+• 
+Number of people in low-income neighborhoods with access to basic utilities
+Name
+Goal(s) it contributes to
+Actions
+Objective
+Benefits
+Stakeholders
+Indicator(s)
+
+[Page 45]
+STEP 4: ALIGNMENT WITH CITY PRIORITIES AND GLOBAL AGENDAS
+The following elements must not be missed in this crucial step:
+• Diverge to converge 
+A very popular strategy to design the resilience strategy’s goals is drawn from the ‘human-centered design’ approach. This consists of first creating space and possibilities (divergence), to then bring focus and direction to a process (convergence). 
+Importantly, these stages are nonlinear by design, so the team can move back and forth between these two states as new insights are discovered through convergence.
+ During divergence, the resilience team should aim to bring together ideas and initiatives from different sources:
+ 
+- The previous resilience strategy 
+- The city’s other long-term plans 
+- Ideas from other cities that might be applicable to your own city context 
+- Peer-to-peer exchanges with other cities 
+- Stakeholder engagement workshops (which might bring ideas from other non-public stakeholders, such as civil society or private sector) 
+During convergence (after the identification of a long list of initiatives, actions, policies and practices) the city team responsible for the strategy development should collate and prioritize the list, identifying the initiatives that will be included in the updated strategy. 
+Some recommendations for selecting and prioritizing initiatives are presented below.
+• Prioritize actions 
+Different activities and criteria can be used to select initiatives for the updated resilience strategy. Some ideas include:
+- Hold an internal workshop with city officials to review and organize the long list of actions that have been gathered during the process
+- Have a clear vision for the strategy to ensure that each selected action supports and endorses such a vision
+- Identify key criteria to evaluate or assess each of the long-listed actions and define the relative weight of each criterion to support prioritization
+- Ensure that a potential budget source has been identified to implement the initiative
+- Identify the responsible agency or stakeholder for implementing the initiative
+
+[Page 46]
+STEP 4: ALIGNMENT WITH CITY PRIORITIES AND GLOBAL AGENDAS
+- Assign indicators and targets to each selected initiative to monitor and evaluate the progress of the action and therefore the strategy (see 
+Step 5 for more information on M&E) 
+It is important to note that the updated strategy may contain entirely new initiatives or may retain its original goals and related initiatives without modification, incorporating new elements into just one part of it. Anything along this spectrum is possible, and the resilience team will be responsible for deciding which strategy best fits its goals.
+OPEN ROOM FOR NEW 
+INITIATIVES
+An idea that can be implemented by resilience teams is to keep a semi-open strategy that is subject to a periodic revision (for example, once a year), during which stakeholders can decide to incorporate new emerging initiatives to the resilience strategy body, that contribute to the goals set by the strategy. This is a simple way to keep the resilience strategy ‘alive’ and to draw public attention to the resilience agenda on a periodic basis. It is very important for these new initiatives to stick to the standards described above, and to connect in the best possible way with existing ones.
+BOX 5
+• An iterative process 
+In this step, we have presented the definition of the resilience strategy’s core elements as a linear process: vision > goals > initiatives. Although this approach is useful to lay out and explain the relationship between the different elements, it must be stressed that in practice the process will probably oscillate between these elements, which is a good thing. The exercise of identifying, elaborating and prioritizing resilience initiatives can help us to reframe our goals and even our vision. It is important to remember that defining the resilience strategy’s vision, goals and initiatives is often an iterative process in which preliminary goals guide the selection of initiatives, and the feedback and insights acquired help to adjust and refine the strategy’s
+
+[Page 47]
+STEP 4: ALIGNMENT WITH CITY PRIORITIES AND GLOBAL AGENDAS
+STEP 4 TOOLBOX
+City Works
+GIZ City WORKS is conceived as a set of interlinked tools that help cities realize, analyze and tackle the implications of global agendas locally in a targeted step-by-step process.
+Linking Urban Action with Global Agendas
+Developed by GIZ, this study analyzes 45 urban development actions and their potential impact and contribution to implement global agendas and targets.
+Summary for Urban Policymakers
+The Summary for Urban Policymakers (SUP) brings together the world’s leading scientists with local government policymakers and businesses to co-generate and advance a scientific evidence base to propel implementation and deepen climate action in cities around the world. The Summary for Urban 
+Policymakers series includes three Reports and a derivative Action Agenda that were launched at COP 27 on 11 November 2022.
+ELABORATING AND PRIORITIZING INITIATIVES
+City Water Resilience Approach (CWRA)
+Resilient Cities CWRA is designed to grow cities’ capacity to provide high quality water resources for all residents, to protect them from waterrelated hazards, and to connect them through water-based transportation networks (“provide, protect, connect”).
+ALIGNMENT WITH GLOBAL AGENDAS
+
+[Page 48]
+STEP 4: ALIGNMENT WITH CITY PRIORITIES AND GLOBAL AGENDAS
+STEP 4 TOOLBOX
+City Energy Resilience Framework (CERF)
+Resilient Cities CERF guides cities in applying a resilience lens to their power system and working toward their overall energy transition and urban resilience goals
+Resilience Rising
+A platform for collective impact that brings together global and local mission-driven organizations, initiatives, and other entities to work in partnership and achieve systemic resilience to the world’s most pressing challenges
+Resilience Rising Resources Library
+More than 200 publications, multimedia resources and tools for resilient urban planning and management.
+Bibliography:
+Valuing the Resilience Dividend. Article by Judith Rodin on Rockefeller Foundation’s website. 
+Strategy Guidance Manual 3.0, November 2017
+IPCC Assessment Report Number 6
+Su sta in ab le
+In clu siv e
+Ma na ge me nt
+Ma na ge me nt
+Re so ur ce U se
+Pla nn in g
+Le ad ers hip
+Re gu lat io ns
+Su sta in ed
+En ga ge d
+Em po we re d
+Ad ap tiv e
+Sy st em
+Fin an ce
+Se rv ic e
+Su pp ly
+-C ha in
+In fra str uc tu re
+Na tu ral
+Sy st em & 
+Co m mi tte d & 
+En ab lin g
+Hu ma n
+St ak eh ol de rs
+Co ns um er s
+Op er ati on
+Pr ov isi on
+Eﬀ ec tiv e
+Ri sk
+-In fo rm ed
+Re sp on si bl e
+In te gr at ed
+Co or di na te d
+Tr an sp ar en t
+Ca pa cit y
+S
+Y
+S
+T
+E
+M
+S
+In fr as tr uc tu re a nd N at ur al R es ou rc es 
+Le ad er sh ip a nd S tr at eg y 
+P
+E
+O
+P
+L
+E
+O p er at io ns a n d 
+M an a g e m e nt
+R
+E
+S
+O
+U
+R
+C
+E
+S
+G
+O
+V
+E
+R
+N
+A
+N
+C
+E
+E n dus er s an d 
+St ak eh ol d er
+
+[Page 50]
+STEP 5: IMPLEMENT, MEASURE, EVALUATE AND SHARE
+After the development of the resilience strategy, the CRO and team will need to focus on bringing it to life through implementation. 
+At this crucial point, the CRO will need to step back and invite departments, agencies, and stakeholders with responsibility for implementing the resilience strategy to actively contribute and share their perspectives. 
+This chapter supports you with answers to the following questions: 
+• Implementation: How can political support be achieved? What are the requirements (resources, coordination, political will, etc.)?
+• Measurement: How can a resilience office track progress in implementing the strategy and what indicators should be used? 
+• Evaluation: How can the strategy’s impact be measured (e.g. using a tool like the City Resilience Framework described below, or other, wider, indicators)? 
+• Transparency and accountability: How can progress and challenges in the implementation of the strategy be shared with the key stakeholders and citizens?
+1. Implement
+
+Implementing an updated resilience strategy does not come without challenges. It is a critical moment in which the CRO must step back and give room to other departments to move forward with implementation. 
+This change is enabled via the following actions:
+• Ensure internal and external alliances are established prior to implementation. The participatory development of the strategy not only ensures its relevance within the broader government agenda but also guarantees that the necessary departments actively participate and take the lead in implementing the strategy. See the example from Mexico 
+City’s Resilience Council in Step 1.
+ 
+• Get political buy-in so the strategy is recognized and validated as part of the city’s long-term planning strategy, with allocated budget and resources for its implementation.
+ 
+• Align the strategy with the wider city planning cycle and processes so that policies and actions highlighted in the strategy are considered within the planning cycle. This will in turn ensure that such policies and actions have an allocated budget, an implementation plan and clear indicators to measure their implementation.
+ 
+• As outlined in Step 4, ideally the 
+PURPOSE OF THIS STEP
+
+[Page 51]
+STEP 5: IMPLEMENT, MEASURE, EVALUATE AND SHARE strategy is aligned with global agendas as well as internal government priorities, which ensures that it becomes a significant government and city document. 
+Securing this alignment will uncover more opportunities for successful implementation of the strategy.
+IMPLEMENTING 
+TULSA’S RESILIENCE 
+STRATEGY 
+BOX 1
+
+Tulsa’s Mayor’s Office of Resilience and Equity is responsible for the implementation of the city’s resilience strategy. Racial equity is identified as the city’s core underlying resilience challenge, and the Resilient Tulsa plan addresses critical challenges ranging from economic inequality to disaster preparedness, and access to quality education and jobs. Some of the actions the office implements are:
+• Overseeing the complaint and investigation process for Tulsans who experience discrimination in housing, employment, or public accommodation 
+• Working in partnership with five commissions that represent and advocate for women, Latinos, 
+African Americans, and Native Americans, and work on human rights in Tulsa 
+• Hosting Racial Equity Dialogues
+• Training government departments in racial equity matters
+• Who is responsible for monitoring the implementation?
+ 
+Monitoring the implementation of the resilience strategy and its initiatives is a task that needs to have clear processes and assigned roles and responsibilities. Different approaches can be taken. For example:
+ 
+- The monitoring process could be the responsibility of a city’s planning department. This implies that resilience initiatives are considered part of the regular city planning and monitoring. 
+This set-up requires a key role in each secretariat or department with responsibility for the implementation of each initiative or set of initiatives. 
+Such a role would then report results and progress against indicators to the planning department. In this scenario, the planning department is also responsible for allocating budgets in alignment with actions, delivery, and results.
+ 
+- Alternatively, the city’s resilience office could be responsible for measuring progress against the strategy. This model requires that the
+
+[Page 52]
+STEP 5: IMPLEMENT, MEASURE, EVALUATE AND SHARE resilience office is prioritized at the city hierarchy and is highly coordinated with the planning department.
+2. Measure
+
+Measuring the impact of the resilience strategy’s implementation means measuring the progress of resilience initiatives from the strategy and measuring how the city’s resilience has improved over time.
+Evaluating the progress of resilience initiatives is not just a one-time event at the end of implementation. It is an ongoing process, commencing at the very inception of the strategy and continuing into future implementation. 
+Continuous measurement of a city’s performance in implementing strategy is a highly valuable practice that enables the city to:
+• Make a strong case for resilience by showcasing impact and results.
+• Have a strong framework and case for support to access international financing.
+• Incorporate resilience actions into the city’s regular planning processes. 
+This allows the resilience team to demonstrate how resilience actions are contributing to overall city indicators and helps to generate and reinforce ownership of implementation within city departments.
+• Measuring the progress of resilience initiatives
+
+Each initiative in the resilience strategy should be assigned progress and/or impact indicators. These indicators enable the team to assess the effectiveness of their implementation efforts. Indicators should be SMART: Specific, Measurable, 
+Achievable, Relevant and Time-bound. 
+Using indicators per action ensures that different teams and sometimes citizens themselves can measure progress and see how the city is doing in achieving specific goals and objectives. Such measurement allows the city to measure the progress of the overall strategy implementation from year to year and will be a key indicator in any future strategy update. 
+• Measuring the impact on urban resilience
+In addition to measuring the progress of each action, it is crucial that cities measure the impact of the overall implementation, e.g. measuring whether the goals set at the beginning of the process have been achieved or not. 
+Some ideas to measure the overall impact on urban resilience could be as follows:
+• Evaluate how your city is progressing towards the goal(s) of the City 
+Resilience Framework. Have there been improvements in key indicators since the resilience strategy has been implemented?
+ 
+• Identify key performance indicators (KPIs) at the early stages of the strategy development that form the basis for measuring resilience at the city level. KPIs combine a variety of different indicators and provide wider, cross-cutting indicators of urban resilience. Moreover, existing indicators linked to urban resilience can be used as a baseline to measure impact over time. KPIs provide a definition of what success looks like when implementing a resilience strategy.
+
+[Page 53]
+STEP 5: IMPLEMENT, MEASURE, EVALUATE AND SHARE
+USEFUL TOOLS FOR 
+MONITORING AND 
+MEASURING THE 
+IMPLEMENTATION OF 
+AN URBAN RESILIENCE 
+STRATEGY 
+BOX 2
+
+Along their resilience journey, different cities have used a variety of methodologies and tools for monitoring the implementation of their strategies. Here are some that might help or inspire your work: 
+
+GIS and Data Visualization: 
+• Use of Geographic Information Systems (GIS) to map vulnerabilities, resources, and critical infrastructure.
+• Employment of data visualization tools to make complex data accessible, facilitating better decision making and communication with stakeholders.
+• Example: O‘ahu Social Vulnerability Index (SOVI) 15. Developed during the elaboration of 
+Honolulu’s Resilience Strategy, the SOVI has identified specific community characteristics that increase vulnerability to tsunamis, hurricanes, flooding and rising sea levels. The maps and data developed for the SOVI identify the most vulnerable geographic areas and the main socioeconomic drivers of vulnerability. 
+Performance Reviews and Reporting:
+• Establish a regular reporting mechanism to update city officials and the public on the progress of resilience initiatives.
+• Conduct performance reviews to identify successful strategies and areas for improvement.
+• Example: Santa Fe’s progress reports 16 17.
+ Santa Fe published progress reports on the implementation of its resilience strategy one and two years after its publication. The reports present updates on the implementation of several resilience initiatives and are a useful tool to visualize the work being done by the resilience office and the other government areas.
+15 Social Vulnerability Index and Other Related Maps and Data: Data and 
+Tools to Advance Equity
+16 Santa Fe Resiliente - Santa Fe Resiliente - Un año haciendo juntos una ciudad resiliente
+17 Santa Fe Resiliente - Dos año haciendo juntos una ciudad resiliente
+
+[Page 54]
+STEP 5: IMPLEMENT, MEASURE, EVALUATE AND SHARE
+Technology Integration:
+• Utilize advanced technologies such as sensors, IoT devices, and data analytics for realtime monitoring of critical infrastructure and environmental conditions.
+
+• Example: London air quality map. This map shows the locations of air quality monitoring stations across London and the areas covered by Google Street View cars fitted with mobile air quality sensors. It also features the mayor’s actions to tackle air pollution including the Ultra 
+Low Emission Zone, Low Emission Bus Zones, rapid charge points, and schools and nurseries that are part of the mayor’s school air quality audit program.
+
+3. Evaluate
+
+Evaluation entails a rigorous assessment of the effects or outcomes of specific policies and is a key stage in every public policy cycle. While measuring implies a continuous and systematic gathering of information, an evaluation is carried out at a specific moment in time. Some of the main features of an evaluation are:
+• It can be implemented with a specific frequency (e.g. every two years).
+• It can be carried out by an external organization or auditor, to enhance objectivity and rigor.
+• It is key to securing, maintaining, and renewing financial support for resilience initiatives from external (especially international) funders.
+• It allows the resilience team and its partners to gauge the effectiveness of the resilience initiatives. This enables stakeholders and decision makers to take informed decisions on resource allocation, identify areas for improvement, and refine strategies to enhance the city’s overall resilience in the next strategy cycle.
+ 
+The timing and breadth of the evaluation process are two strategic decisions that the CRO and team will need to take by combining different factors (such as internal capabilities, strategic opportunities such as administration and/or leadership changes, and relations with external stakeholders or funders). Generally, it is extremely difficult to conduct a general impact evaluation of the integrated resilience strategy. Instead, resilience teams usually find it possible to conduct impact evaluations on initiatives that are particularly important for the resilience strategy.
+
+[Page 55]
+STEP 5: IMPLEMENT, MEASURE, EVALUATE AND SHARE
+THE EVALUATION OF 
+OASIS
+BOX 3
+
+Oasis is a flagship initiative of the Paris Resilience 
+Strategy. School playgrounds are transformed into ‘oases’: places with a cooler temperature that can serve as a refuge during heatwaves. 
+Oasis playgrounds are equipped with abundant vegetation, water management strategies, drinking fountains, and recreational equipment. 
+They are also open to neighbors outside of school hours.
+Given the innovative approach and relevance of this initiative, an evaluation of its global impact (climatic and social) was carried out. 
+Research teams from Sciences Po and l’ESIEE 
+Paris/LIED, and Météo-France carried out a continuous evaluation process using different methodologies:
+• A climate diagnosis assessed the changes in urban heat island effect and summer comfort, through the analysis and comparison of measurements before and after implementation.
+• Two weather stations were installed to measure the summer temperature. One was located in an Oasis playground, the other one in a nearby public park. Although prior to the intervention the temperature was considerably higher in the playground, after its transformation there was almost no difference.
+• A survey of climate change awareness and the use of playgrounds before and after the initiative was carried out, with responses from adults and children.
+These analyses enabled the city to adjust, improve, scale, and replicate the initiative.
+4. Transparency and accountability
+
+Measuring and evaluating the progress of the resilience strategy implementation is not just an internal process; it is also a mechanism for showcasing results to external audiences. Indicators that measure how well a city is doing during the implementation phase are key for internal and external transparency and accountability. A local government that is accountable towards its citizens for what it does or does not do is a more effective, trustworthy, and reliable government. 
+To this end, progress measurement must be supported by initiatives that make this data available for everyone. Platforms
+
+[Page 56]
+STEP 5: IMPLEMENT, MEASURE, EVALUATE AND SHARE such as BA Cambio Climático (Buenos 
+Aires) or City of London Open Data are examples of cities making data accessible to citizens and interested parties. 
+Accountability and transparency are particularly important for the success of the resilience agenda. The ideal resilience agenda is one that is co-created with external stakeholders. External stakeholders will not be present in internal government follow-up meetings, so there must be a mechanism in place to update and inform them of the progress of initiatives they might have suggested. 
+Possessing measurable and open data is also important to financing partners that want to receive reports and see the government interacting with the people who are ultimately impacted by the implementation of policies and actions.
+Key initiatives such as the Open 
+Government Partnership (OGP) show how cities are partnering together with civil society to promote transparent, participatory, inclusive, and accountable governance. Resilient cities are cities that can not only cope with shocks and stresses, but are cities that are also inclusive and transparent, putting cocreation at the heart of developing their resilience strategies.
+DALLAS’ MONITORING 
+SYSTEM 
+BOX 4
+
+Dallas’ Resilience Office has developed an online dashboard that showcases advances in the different goals that make up its resilience strategy and its overall progress. The Dallas Resilience 
+Strategy comprises seven goals, 20 initiatives and 
+49 actions. Key elements of the dashboard are:
+• A progress scorecard for each goal, indicating its percentage completion. 
+• A section for each goal showing initiatives that contribute to its achievement.
+• Main updates on the implementation of actions within each initiative and its overall status, key involved stakeholders, and resilience values.
+• The website and all its data are publicly available.
+
+[Page 57]
+STEP 5: IMPLEMENT, MEASURE, EVALUATE AND SHARE
+STEP 5 TOOLBOX
+The City Resilience Framework (CRF)
+Developed by Arup, the CRF identifies 12 key indicators that describe the fundamental attributes of a resilient system.
+The Global Urban Monitoring Framework
+The Global Urban Monitoring Framework was endorsed by the UN Statistical Commission for implementation as part of the Harmonized 
+Global UN Systemwide Strategy for monitoring the SDGs and New Urban Agenda (NUA) and other regional, national, and subnational urban programs.
+Building Participatory Accountability Systems for City Policies
+This UN-Habitat handbook offers guidance on how to develop urban projects and interventions with a participatory and consultative approach with city stakeholders. 
+See ‘Phase 04: Monitor and Report’.
+Urban Resilience Series: Climate Action 
+Enhancer
+This UN-Habitat practical tool for local governments and city-level actors demonstrates the connection between Climate 
+Action, Resilience and Urban Development with accompanying indicators.
+Le a de rs hi p & 
+St ra te g y
+In fr as tr uc tu re & E nc ir o n m e nt
+Ec o n o m y & 
+So ci et y
+H ea lt h & 
+W el lb ei n g pl an ni ng st ak eh ol de rs ma na ge me nt
+Pr ov id es re lia bl e
+Pr ov id es &
+En su re s oc ia l em pl oy me nt & i nt eg ra te d ra ng e o f eff ec tiv e co m mu nic ati on &
+En su re co nti nu ity en ha nc es n at ur al
+Fo ste rs ec on om ic st ab ilit y, se cu rit y
+Pr om ot es c oh es iv e & he alt h s er vic es liv eli ho od s & ba sic n ee ds
+Fo ste rs lo ng
+-te rm
+Em po we rs a b ro ad
+Pro mo te s l ea de rs hip & mo bili ty of cri tic al se rvi ce s an d ma nm ad e a ss ets pr os pe rit y a nd ju sti ce en ga ge d c om mu nit ies
+En su re s p ub lic
+Su pp ort s,
+Me
+
+[Page 58]
+STEP 5: IMPLEMENT, MEASURE, EVALUATE AND SHARE
+STEP 5 TOOLBOX
+Urban Resilience Series: Gender Equality 
+Enhancer
+This UN-Habitat practical tool for local governments and city-level actors demonstrates the connection between Gender, 
+Resilience and Urban Development with accompanying indicators.
+
+[Page 59]
+CONNECT WITH US TO CONTINUE THE 
+CONVERSATION
+We are keen to hear from you and engage in discussions regarding the usability of this guideline. Your feedback and insights are invaluable as we strive to enhance its effectiveness and relevance.
+To get in touch, please contact:
+Lina Liakou
+Global Director of City Engagement & Practice lliakou@resilientcitiesnetwork.org
+Alvaro Soldevila
+Lead, Programs and Resilience Practice asoldevila@resilientcitiesnetwork.org

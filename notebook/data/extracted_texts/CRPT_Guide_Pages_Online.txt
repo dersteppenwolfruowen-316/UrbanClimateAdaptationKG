@@ -1,0 +1,637 @@
+[Page 7]
+For the last 40 years, UN-Habitat - the United Nations Human Settlements Programme - has been working towards a better urban future to improve the lives of people around the world. 
+With over half of the population living in cities, and with around 3 billion more people expected to live in urban areas by 2050, cities are facing unprecedented demographic, environmental, economic, social and spatial challenges. 
+UN-Habitat’s mandate has adapted over the time to meet the needs of our growing urban world. At a time when the way we plan and manage our cities is more critical than ever, UN-Habitat’s mission is to promote socially, economically and environmentally sustainable human settlement development and the achievement of adequate shelter for all. 
+The agency is currently working in more than 70 countries to bring high impact projects to people living in cities. 
+UN-Habitat implements an integrated normative and operational activity. Working with governments and other stakeholders on the ground, our projects combine world-class expertise and local knowledge to deliver timely and targeted solutions to the most vulnerable urban residents. 
+The 2030 Agenda for Sustainable Development, and its dedicated goal on cities - SDG 11 to make cities inclusive, safe, resilient and sustainable - puts urbanization as one of the key priorities of the global agendas for development. 
+In addition, under the New Urban Agenda, there is a defined and renewed dedication among the global development community to ensure our cities expand in a sustainable way for all. 
+Within the United Nations, UN-Habitat has the expertise and role to act as a focal point on sustainable urbanization, including the implementation, follow-up and review of SDG 11 and the New Urban Agenda. 
+In this same context, over the past decade, Urban Resilience has been gaining ever greater prominence in international development discourse, emerging as one of the core principles of sustainable urban development in the post Millennium Development Goals framework.
+The main goal of UN-Habitat’s resilience work is to support local governments and relevant stakeholders to transform urban areas into safer and better places to live in, and improve their capacity to absorb and rebound quickly from all potential shocks or stresses, leading them towards sustainability.
+UN-Habitat’s understanding of a resilient city is one that is able to absorb, adapt, and recover from the shocks and stresses that are likely to happen, transforming itself in a positive way toward sustainability.
+In this scenario, Urban Resilience becomes a hub between the areas of Risk Reduction and Sustainability, and also a link between Humanitarian and Development activity, articulating Climate Action. In words of the SecretaryGeneral of the United Nations, António Guterres, “Saving lives is the first priority, but we are also looking to build longer-term resilience to shocks.”
+UN-Habitat’s urban resilience agenda covers three main work areas: knowledge, advocacy and technical cooperation. These three complimentary work streams reinforce each other by combining practice on the ground, applied research, training and awareness raising work, among others. 
+The City Resilience Profiling Programme (CRPP) is the technical cooperation pillar of UN-Habitat’s Urban Resilience 
+Programme, engaging with all local level partners and stakeholders. In this line, UN-Habitat developed the City 
+Resilience Profiling Tool (CRPT) to be a robust and comprehensive approach for cities to build their resilience. 
+This publication outlines the methodology and implementation steps of the City Resilience Profiling Tool and serves equally as an initial guide for cities to UN-Habitat’s methodology, but also an advocacy platform to inform stakeholders about the Tool’s approach.
+
+[Page 8]
+WHY URBAN RESILIENCE? 
+From earthquakes to flooding, rapid immigration to cyber-attacks, all cities face a range of shocks and stresses, natural and human-made. Today, our cities and citizens are facing new and amplified challenges as a result of rapid urbanization, a changing climate and political instability.
+These phenomena increase increases the population’s exposure and vulnerability to hazards and can trigger or worsen disasters. Further stress is placed on our urban areas as the effects of climate change become more severe and frequent. 
+In order to mitigate these shifts and reduce the negative impact they have on people, the global community is increasingly realizing that we need to build resilience into our cities by empowering and strengthening the capabilities of local government and their partners, including local populations.
+UN-Habitat understands urban resilience as the measurable ability of any urban system, with its inhabitants, to maintain continuity through all shocks and stresses, while positively adapting and transforming toward sustainability.
+By engaging all stakeholders in resilience efforts, cities have the ability to harness transformational change and improve the lives of their inhabitants. This has been acknowledged by the global community through agreements such as the New Urban Agenda, Paris Agreement, Sustainable Development Goals, and Sendai Framework, however in almost all contexts, cities lack the capacity to operationalize these alone and fully harness change. One appraoch to addressing this is through holistic and multi-stakeholder resilience-building.
+Resilience offers a crucial meeting point among different yet essentially similar paradigms in urban development. 
+To be truly resilient, cities should work towards sustainability to ensure positive long-term impacts, and in the same manner, being truly sustainable entails incorporating resilience to drive and protect development goals.
+Resilience also lies at the core of the humanitarian-development nexus, bridging together two often disparate agendas. Ingraining resilience can reduce risks by increasing capacities and addressing vulnerabilities can decrease fragility and mitigate impacts, hereby enhancing effective and forward-thinking response.
+Building urban resilience takes on multiple forms, but in its essence must seek the betterment of people, specifically those in vulnerable situations, who are at the centre of our aim and mandate. 
+In addition, a successful urban resilience agenda requires partnerships between all key international actors, as well as the engagement with principle city players. Inclusive cooperation is needed in order to build upon a shared resilient vision.
+
+[Page 9]
+ALIGNMENT WITH GLOBAL FRAMEWORKS 
+The City Resilience Profiling Programme (CRPP) focuses on making cities resilient through local governments, by providing the tools and knowledge required to build their capacity to prepare, respond and recover from all shocks and stresses, leading them towards sustainability. It provides cities the necessary framework and approach to evaluate urban resilience and develop Actions for Resilience (A4R) tailored to their city. Its primary tool is the City 
+Resilience Profiling Tool (CRPT). The CRPT uses a diagnostic methodology to determine shocks and stresses facing a city and establishes prioritised actions allowing cities to capitalise on their existing data. The CRPT and accompany guidance assist local governments to deliver on targets set out in globally agreed inter-governmental frameworks, in particular.
+Sendai Framework for Disaster Risk Reduction
+Building urban resilience contributes to the Framework’s overall objective to reduce vulnerability to disasters and increase preparedness for response and recovery, including contributions to the Four Priorities for Action.
+Our work contributes to the Framework’s overall objective to reduce vulnerability to disasters and increase preparedness for response and recovery, including our contributions to the Four Priorities for Action:
+Priority 1. Contribution: Data collection and analysis, and building knowledge on disaster risk reduction;
+Priority 2. Contribution: Strengthening disaster risk governance through the adoption of plans;
+Priority 3. Contribution: Investment in risk reduction for resilience;
+Priority 4. Contribution: Scaling-up of preparedness and a ‘build-back better’ approach in recovery.
+The Framework calls for resilience on all levels, from local to regional and national.
+Sustainable Development Goals 
+Urban resilience relates to key elements of sustainable urban development and the goals of the post-2015 
+Sustainable Development Agenda, notably in Goals 1, 2, 3, 9, 11, 13 and 14 where resilience is referenced but also in other goals where it is implied. Resilience is also a strong component of many of the stated aims throughout the preamble and paragraphs 7, 9, 14, 23, 29 and 33 of the Declaration to the SDGs.
+Paris Agreement on Climate Change
+Article 7 calls for strengthening of resilience to climate change in the pursuit of sustainable development. By engaging local governments in these efforts, resilience in cities contributes to the following principles of the Paris 
+Agreement:
+* Adaptation (dealing with impacts of climate change);
+* Loss and Damage (minimizing loss and damage linked to climate change);
+* Role of cities (building resilience).
+World Humanitarian Summit – Agenda for Humanity
+The core responsibilities defined at the World Humanitarian Summit have strong foundations in resilience thinking and building. The approach adopted by UN-Habitat to build resilience contributes to Core Priority 1D, 4A, 4B, 4C, and 5A.
+New Urban Agenda 
+Advancing the urban resilience agenda and work globally delivers on a number of key goals of the New Urban 
+Agenda agreed by Member States during Habitat III, most prominently:
+a. New resilient planning paradigms in urban systems b. Legal and regulatory frameworks to enable and govern urban development Analysing risks inherent in urban areas d. Promoting good practice in local economic, development strategies through marketing safer, resilient cities.
+
+[Page 13]
+THE URBAN SYSTEM
+Cities are complex systems, comprised of distinct networks and elements such as urban infrastructure, built environment and environment, communication flows, and social, cultural, political and economic structures. An urban system refers to the process of connectivity, interaction, operation and organisation of these components within an urban area.
+At the heart of the UN-Habitat’s City Resilience Profiling Programme is the City Resilience Profiling Tool. The CRPT provides a transversal diagnosis and pathway to resilience-based sustainable urban development. Following a multi-sectorial and multi-scale approach, the CRPT considers multiple shocks and stresses within the urban system. The CRPT can be implemented in all cities, regardless of their size, culture, location, economy and/or political environment. 
+UN-Habitat developed the urban system methodology as a model through which a comprehensive diagnosis of the city can be achieved. The approach and subsequent diagnosis results in an understanding of the interaction, interdependency and integration of several parts of the different systems as they are exposed to shocks and stresses and compose the city. The advantage of this model is that it can be universally applied to any city, all-thewhile capturing the uniqueness of each city. 
+The urban system approach considers five critical and interdependent dimensions common to all human settlements:
+1. Spatial attributes - all human settlements are located somewhere geographically, and distributed in specific spatial terms from the smallest plot up through urban segments, to functional, regional, national and international contexts; 
+2. Organisational attributes - here meaning any association of humans for some purpose - formal, informal, corporate or political, and can describe any organisational scale from an individual, to a neighbourhood or community association, council of elders, to rate-payer groups, or even professional or religious associations that can influence the profile of the city; as well as more formal institutions such as local, regional or national governments;
+3. Physical attributes - from dwellings, and unpaved village roads; to the complex built environment of mega-cities; 
+4. Functional attributes - describing processes and flows - anything from a rural village market and transport hub, to commercial, governance, and social processes in large cities; and
+5. Time -The fifth element understanding that cities are not static, and evolve continuously.
+PROCESSES
+PEOPLE
+ASSETS
+I
+N
+N
+O
+V
+A
+T
+I
+O
+N
+T
+I
+M
+E
+S
+H
+O
+C
+K
+S, S
+T
+R
+E
+S
+S
+E
+S 
+A
+N
+D 
+C
+H
+A
+L
+L
+E
+N
+G
+E
+
+[Page 14]
+DEFINITION OF URBAN RESILIENCE
+UN-Habitat’s definition of urban resilience encompasses both an academic and a practitioners’ understanding. Where the first paragraph adopts scientific concepts, the second paragraph takes a more practical approach of describing what resilience-building efforts entail and target. 
+Urban resilience is the measurable ability of any urban system, with its inhabitants, to maintain continuity through all shocks and stresses, while positively adapting and transforming toward sustainability.
+A resilient city assesses, plans and acts to prepare for and respond to hazards – natural and human-made, sudden and slow-onset, expected and unexpected – in order to protect and enhance people’s lives, secure development gains, foster an investible environment, and drive positive change.
+
+[Page 16]
+MEASURABLE Tangible and intangible realities that translate into qualitative and quantitative data and can be analysed.
+URBAN SYSTEM Any human settlement – metropolis, city, town or village – is an integrated and complex system of systems, comprised of sectors, people and hazards, and managed through effective governance mechanisms. 
+INHABITANTS
+All persons that live, work, visit, navigate and/or travel to the city, as well as resident or connected institutions, organisations, businesses etc.
+CONTINUITY
+Maintaining the protection and provision of services, flows, and structures in order to save and preserve inhabitants’ lives and livelihoods.
+SHOCKS AND STRESSES Hazards can be sudden and slowburning, natural or human-made, rare or regular, foreseen or not.
+TRANSFORMING
+Adopting proactive, forward-looking attitudes that turn challenges into opportunities for growth, by generating incremental and/or far-reaching, transformational changes.
+SUSTAINABILITY
+Meeting the needs of today without compromising the needs of tomorrow by being inclusive and safe, protecting livelihoods and wellbeing, encouraging community development and citizen engagement, fostering access to services, building strong economies and catalysing innovation.
+ASSESS
+Holistic, iterative monitoring and evaluation generates the knowledge required to devise recommendations and actions, and capture human and financial yields from implementation.
+PLAN
+Creating implementation strategies that encourage a city to do more with what it has, tackle vulnerabilities and strengthen capacities to function effectively and efficiently.
+ACT
+Based on reliable assessment and strategic planning, actions are implemented at optimal moments in time – prior, during and after shocks, stresses and challenges emerge – and with all stakeholders.
+UN-HABITAT CONSIDERS THE FOLLOWING CONCEPTS AS 
+CRITICAL IN BUILDING URBAN RESILIENCE.
+
+[Page 17]
+CHARACTERISTICS OF 
+URBAN RESILIENCE
+The following characteristics articulate urban resilience through describing WHAT comprises being resilient - by being persistent, adaptable, and inclusive - and the processes on HOW these can be achieved - through being integrated, reflexive and transformative.
+
+[Page 18]
+PERSISTENT 
+A persistent city anticipates impacts in order to prepare itself for current and future shocks and stresses. It builds robustness by incorporating coping mechanisms to withstand disturbances and protect people and assets. It encourages redundancy in its networks by generating spare capacity and back-ups to maintain and restore basic services, ensuring reliability during and after disruption. 
+ADAPTABLE 
+An adaptable city considers not only foreseeable risks, but also accepts current and future uncertainty. Going beyond redundancy, it diversifies its services, functions and processes by establishing alternatives. It is resourceful in its capacity to repurpose human, financial and physical capital. It pursues a flexibility that encourages it to absorb, adjust and evolve in the face of changing circumstances, dynamically responding by turning change into opportunity. 
+INCLUSIVE 
+An inclusive city centres on people by understanding that being resilient entails protecting each person from any negative impact. Recognising that people in vulnerable situations are among the most affected by hazards, it actively strives towards social inclusion by promoting equality, equity and fulfilment of human rights. It fosters social cohesion and empowers comprehensive and meaningful participation in all governance processes in order to develop resilience. 
+INTEGRATED 
+An integrated city appreciates that it is composed of and influenced by indivisible, interdependent and interacting systems. It combines and aligns many lenses to ensure input is holistic, coherent and mutually supportive towards a common cause. It enables a transdisciplinary collaboration that encourages open communication and facilitates strategic coordination. It supports the collective functioning of the city and guarantees far-reaching, positive and durable change. 
+REFLEXIVE 
+A reflexive city understands that its system and surroundings are continuously changing. It is aware that past trends have shaped current urban processes yet appreciates its potential to transform through shocks and stresses over time. It is reflective, conveying the capacity to learn from knowledge, past experiences and new information. It also learns by doing and installs mechanisms to iteratively examine progress as well as systematically update and improve structures. 
+TRANSFORMATIVE 
+A transformative city adopts a proactive approach to building resilience in order to generate positive change. It actively strives to alleviate and ultimately eradicate untenable circumstances. It fosters ingenuity and pursues forward-looking, innovative solutions that over time create a system that is no longer prone to risk. A transformative city is focused and goal-oriented towards a shared vision of the resilient city. 
+Adaptable
+Persistent
+Inclusive
+T r a n s f o r m a ti v e
+I n t e g r a t e d
+R e ﬂ e x i v
+
+[Page 21]
+UN-Habitat’s flagship tool for urban resilience, the City Resilience Profiling Tool (CRPT) provides a cross-cutting diagnostic for resilience-based urban development. By outlining the general context of the city, including all relevant stakeholders and plausible shocks and stresses, and providing a framework for data collection, the CRPT allows a preliminary identification of gaps and opportunities over a series of different aspects regarding the city’s structure and functionality, hereby providing a baseline for future actions. 
+UN-Habitat is answering the call from governments to provide a holistic approach to building resilience across the entire urban area to all shocks and stresses. The Tool’s approach is firstly to generate metrics for urban resilience to establish a baseline (or ‘profile’) that covers the entire urban system for weaknesses, vulnerabilities and strengths, and develop concrete and prioritised actions to plan out risk and build-in resilience. Following a multi-sectorial, multi-shocks and stresses and multi-scale approach, the Tool is build on the understanding that cities function as urban systems, integrated and interdependent, regardless of their size, culture, location, economy and/or political environment.
+The CRPT provides cities the necessary framework to evaluate urban resilience and develop Actions for Resilience (A4R) tailored to their city. The CRPT uses a diagnostic methodology to determine shocks and stresses facing a city and establishes prioritised actions allowing cities to capitalise on their existing data. The CRPT and accompany guidance assist local governments to deliver on targets set out in globally agreed inter-governmental frameworks, in particular.
+The Tool has been designed to collect information and provide a resilience profile that is applicable to a wide range of city scales, geographies and types. The Tool’s integrated approach is holistic and takes into account the specificities of each city at the data collection, analysis and action stages. The data and information provided by the local government reveals the aspects that are more relevant to the local context. 
+The definition of the assessment boundaries can be determined by the local government, based on the mandate of the local government and the relevance of the analysis in the context. The diagnosis assesses multiple geo-spatial areas and scope, as such, obtaining an understanding of decentralisation aspects is essential in our approach to clarify the administrative and financial competences of the local government. The expressions ‘city’, ‘city area’ and ‘urban area’ are employed throughout the tool to refer to the study area. Similarly, ‘local government’ refers to the government entity level that has jurisdiction over the considered study area. 
+MODELLING THE URBAN SYSTEM
+
+[Page 22]
+CRPT IMPLEMENTATION PROCESS 
+Initiation 
+Contact is often established between the local government and UN-Habitat (regional or national offices or the resilience office in Barcelona) as a result of outreach campaigns or at global events. UN-Habitat presents the CRPT approach to key partners in the city, both political and technical, to profiles to initiate the collaboration. Engagement usually takes the form of a formal agreement between the local government and UN-Habitat. Every context is different and some agreements involve the local government along with some key partners in the city, or other levels of government. 
+In some cases, where funding is provided to implement in specific cities, an initial evaluation of the city is conducted by UN-Habitat and contact is made with the city to present the initial findings and potential collaboration through the City Resilience Profiling Tool. 
+UN-Habitat has also worked with national or regional governments to implement the tool across various cities and regions. Through these collaborations, UN-Habitat seeks to scale-up implementation of the CRPT and increase urban resilience globally.
+Initiation and 
+Training
+Data Collection and Diagnosis
+Analysis
+Actions for 
+Resilience
+Taking it further
+Iterative Process + R esil
+
+[Page 23]
+Training
+Initial training on the CRPT is provided to the focal points in the city and is accompanied by continual training and support through regular conference calls. Part of the initial training is also to work with the local government to identify stakeholders that should be involved in the tool implementation. UN-Habitat furthermore provides cities with training and tips on how best to access the data required. 
+Initial training is usually conducted during a 3-4 day workshop in Barcelona with Tool developers and, where possible, focal points from cities that have or are implementing the tool. 
+Connecting cities implementing the Tool allows for peer support and creates a network that continues beyond the initial CRPT implementation.
+
+[Page 24]
+Data Collection and Diagnosis
+Gathering the relevant data and ensuring its traceability is an essential step in building resilience. Data collection is led by the focal point(s) in the city although much of the information will require inputs from across the local government, other levels of governments and city partners (NGOs, the private sector, etc). 
+Data from the city is input into UN-Habitat’s software to create a resilience profile unique to that city. Data is gathered through a series of questions that focal point(s) together with or in the local government answer. Considerations and examples can be found throughout the Tool to give a better understanding of the scope of what is being evaluated and to support the process, a member of the UN-Habitat team usually travels to the city within the first 6 months to troubleshoot and provide any additional training that is required. 
+Data collection is divided into four SETs that, collectively, provide an in-depth picture of the city and its stakeholders and provide the basis of the Actions for Resilience. An overview of the data sets as well as key and cross-cutting issues are detailed below.
+
+[Page 25]
+City ID
+This SET provides the overall picture of the city where the Tool is being implemented by gathering contextual information on various topics that give the city its unique identity.
+The City ID explores the city’s development narrative through its historical background and its spatial context, specifically in the aspects of climate, ecosystems, urban areas and physical assets. It introduces the city’s administrative structure, characteristics and strategies, highlighting those related to resilience and describes the city’s inhabitants through their composition, characteristics and dynamics, and outlines basic information on the economy and livelihoods. 
+Through SET 1, the Tool attunes itself to the realities of the city, tailoring questions and prompting deeper inquiries in the subsequent data collection sets. The contextual information is also used for diagnosis and action as it provides an initial idea of the hazards and challenges that the city may face, including those attributed to climate change and humanitarian issues.
+KEY ANALYTICAL 
+FUNCTIONS OF SET1
+Climate
+Setting
+Timeline
+Ecosystems
+Urban Area
+Physical Assets
+Administrative Structure
+Local Government 
+Organisational Structure and 
+Characteristics
+Strategies, Policies and Plans
+Resilience including Risk 
+Reduction
+Population Characteristics
+Population Dynamics
+Households Information
+National Economy
+Urban Economy
+Income
+Signiﬁcant Crises
+Challenges
+Spatial Context
+Local Government and 
+Public Administration
+Population and 
+Demographics
+Economy and Livelihoods
+Hazards and Challenges
+Historical Context
+
+[Page 27]
+Local Governments and Stakeholders
+SET2 provides the framework for a cross-cutting analytical approach at several levels and brings together the information collected throughout the entire CRPT. In this respect, it builds upon the two main data-collection sets, 
+SET1 – overview of the city and SET4 – all urban elements, and considers the results of filtering and prioritization carried-out through SET3, mainly in terms of identified challenges, stresses and shocks.
+As an analytical set, it is focused on several processes between and capacity of various stakeholders, with a strong emphasis on governance processes led by the Local Government (LG). This particular attention on the LG is determined by the role and place of the LG as main UN-Habitat counterpart in the implementation of the CRPT but also as any city’s main stakeholder responsible for delivering quality services to all its inhabitants.
+This analytical set has various functions that support a better formulation and adaptation of the Actions for 
+Resilience (A4R) to the concrete realities on the ground. The fulfilment of these functions is achieved through a process analysis carried-out by three pillars: 
+-The local government has a particular role in the analysis as it is in charge of a variety of processes related to good governance. The information for this analysis comes largely from SET1 and refers to: 
+I. decision-making – mainly in terms of political structure of the LG, 
+II. decision-implementation – mainly in terms of executive structure of the LG, 
+III. financial planning – mainly in terms of fiscal decentralisation and funds allocation per thematic area, and 
+IV. statutory planning (often denominated strategic planning, although they do not necessarily overlap or exclude each other) – mainly in terms of government development of plans.
+-All the other stakeholders, be they public institutions, private sector, civil society organisations, academia, international organisations, or other, require a comprehensive mapping in order to better understand how they are positioned towards a specific area or topic of interest. The information for this analysis comes from the specific indicators under each element and component of SET4, including those regarding specific statutory responsibilities of the stakeholders and the formal provisions in terms of interactions and collaborations with the LG.
+-The last pillar of the analysis considers the factual dimensions of interactions between all the relevant stakeholders, relying on the premise that beyond any formal provision, the local interactions and collaboration are based on subjective considerations, such as political affiliation, institutional history, potential competition for funds, etc. For this reason, the analysis considers five levels of interactions regrouped under three zones of interest: 
+I. the power (political, legal, social capital), together with the capacity (knowledge, expertise); 
+II. the interest (in the sense that success or failure of the intervention have a strong impact on the stakeholder), together with the representation (in the sense of how representative the stakeholder is for the specific sector or area of interest), and 
+III. the resources (financial power, other assets).
+These three pillars, although tackled separately for the analytical purposes, form an entire approach under the analytical SET2, focused on the overall governance processes. They facilitate the modelling and visualisation processes per element, per stress and shock but also per cross- cutting issue, and all contribute to evidence-based and implementable Actions for Resilience.
+Public 
+Institutions
+Civil 
+Society
+Academia
+Private
+
+[Page 28]
+KEY ANALYTICAL 
+FUNCTIONS 
+OF SET2
+Local Government as main UN-Habitat counterpart
+Map of relevant stakeholders per thematic area
+Factual inﬂuences between relevant stakeholders
+Full proﬁle of LG in terms of decision making and implementation, and ﬁnancial and statutory planning.
+Analysis of decentralisation in terms of LG responsibilities, planning and ﬁnancial capacity for implementing the recommendations for A4R.
+Full mapping of public institutions, private sector, civil society and other stakeholders relevant per thematic area of interest: stress, shock, other.
+Inventory of key formal responsibilities and statutory interactions between the stakeholders, with modelling and visualisation per area of interest.
+Second layer of analysis regarding the eﬀective inﬂuences between the stakeholders in terms of power, interests and resources to implement the recommendations for A4R.
+
+[Page 29]
+Shocks, Stresses and Challenges
+This set maps and analyses the city’s proneness to stresses, shocks and challenges, as well as the performance of risk reduction measures and strategies aimed at decreasing the possible impacts of those threats at the urban scale.
+Shocks are defined as potential uncertain abrupt or long-onset events, whose main consequence is shifting the city from its current state to a disturbed one. While SET 1 identifies the full range of shocks the city is exposed to, SET 
+3 filters and focuses on the ones requiring priority actions. These actions are derived from the appraisal of ‘Risk 
+Reduction Measures’ the city is adopting to anticipate, mitigate and prepare for such events. They are referred to as ‘risk reduction actions’. 
+Stresses, on the other hand, are defined as chronic and ongoing dynamic pressures originated within the urban system, whose cumulative impacts undermines city’s capacity for sustainability and resilience and renders it fragile and vulnerable. Apart from the stresses identified by the local government, CRPP has predefined a methodology to determine the existence of certain stresses in city. These stresses can be detected through several indicators of SET 1 and SET 4, known as stressors and risk drivers, which were selected based on a thorough analysis of the 
+United Nations Agenda 2030, including the Sustainable Development Goals and the New Urban Agenda, as well as an extensive review of existing research and practitioners’ work on urban hazards. An additional analysis will be conducted by CRPP experts and specialists, to add further insights into the mapping.
+Challenges, such as long-term contextual changes, pressures originated outside of the urban system or climate change impacts, also undermine the city’s capacity for sustainability and resilience. A special attention is given to these, following their selection in SET 1, due to their long-term effects and potentiality for exacerbating the impact of both shocks and stresses on the urban system.
+Finally, after identifying Stresses in SET 1 and SET 4, and the Challenges through SET 1, the prioritisation of the ones requiring actions to reduce the consequent vulnerabilities and enhance adaptation capacities is performed in SET3. 
+These actions are referred to as ‘vulnerability reduction and adaptation actions’.
+KEY ANALYTICAL 
+FUNCTIONS 
+OF SET3
+Stresses [SET 1 & 4]
+Challenges [SET 1]
+Shocks [SET 1]
+Identiﬁcation of priorities
+Identiﬁcation of priorities
+Identiﬁcation of priorities
+Analysis of Risk 
+Reduction Measures
+Performance Analysis
+Performance Analysis
+
+[Page 30]
+Societal
+Technological
+Biological
+Complex
+Natural
+Environmental
+Concentrated poverty
+Gender inequality
+Income and social inequity
+Lack of alternative energy and water sources
+Biological Hazard exposure
+Water cycle mismanagement (urban metabolism) 
+Natural Hazard exposure
+MIGRATION
+Lack of environmental 
+Inadequate ecosystem performance
+SET 3 
+Shocks, Stresses and Challenges
+
+[Page 31]
+URBAN ELEMENTS 
+The fourth SET includes all the elements that frame the urban area, from a close-up in the Built Environment to the broader scale of the Ecology, the Supply Chain and Logistics, Basic Infrastructure, and Mobility, all the elements at the service of inhabitants, or enabling life in the urban system.
+It further identifies the Public Services provided by the Municipality and other levels of Government, as well as the mechanism and institutions promoting the Social Inclusion and Protection as well as analyzing the aspects of 
+Economy relevant to the local context. 
+SET4, like SET2 and SET3, provides the framework for an in-depth analytical approach of the urban system. It is focused on collecting objective data, information and knowledge regarding the performance and characteristics of the urban system’s elements. It considers all aspects and attributes (people, processes and assets) that shape the urban area, contextualised through SET1, and further assess interconnections between them. Specific crosscutting issues are analysed throughout the SET to allow a comprehensive assessment of these topics in the city. A full appraisal of each issue can thus be obtained by filtering the relevant information.
+Every component - water supply, land tenure, etc. - has a set of specific questions dedicated to the assessment and definition of its performance (e.g., access, coverage, diversity, continuity of functions, etc.), and the existence of key stakeholders and plans. It allows to identify the key functions of the stakeholders and local governments in developing and consolidating the resilience that will be detailed and structured through SET2. 
+The entire set provides a comprehensive understanding of strengths and weaknesses in the urban system and evidence for future decision-making regarding resilience-building. Therefore, SET4, together with SET2 and SET3, constitute an essential piece in formulating appropriate evidence-based recommendations for A4R. 
+URBAN 
+ELEMENTS
+Built 
+Environment
+Mobility
+Supply Chain and Logistics
+Basic 
+Infrastructure
+Municipal 
+Public Services
+Social Inclusion and Protection
+Economy
+
+[Page 32]
+SET 4 contains the following elements
+URBAN ELEMENT 4.1 – BUILT ENVIRONMENT
+The Built Environment Element assesses the evolution, composition, and robustness of the urban built-up area by analyzing the city in four layers. Urban form, the first layer, provides an overall view on the growth patterns of the city and its translation into open areas. Land tenure, together with Housing, addresses the right to shelter that is secure, accessible, affordable, and adequately built and located. The fourth layer assesses the physical built quality of assets that provide essential services to the city and its inhabitants. This comprehensive analysis of the built environment can reveal important issues such as informality, insecurity of tenure, and inefficiencies in land use— themselves stresses in the urban system that can further exacerbate the impacts of other threats.
+BUILT 
+ENVIRONMENT
+Urban growth model including land consumption and expansion, open areas, public open space and street layout.
+Land tenure systems and land rights, access to secure land, and capacities to administrate land.
+Availability and aﬀordability of adequately located and constructed housing.
+Urban Form
+Land Tenure
+Housing
+Built Assets
+Adequate location, construction and maintenance of critical facilities and other important built assets.
+
+[Page 33]
+URBAN ELEMENT 4.2 – SUPPLY CHAIN AND LOGISTICS
+The Supply Chain and Logistics Element deals with how essential non-human resources are accessed, distributed, and managed by the city. It focuses in diversity, availability, and consumption of food, water and energy resources, and assesses the critical entry and distribution points for general materials and goods. Lack of these resources, due to reasons ranging from changes in natural processes to overconsumption, and inadequacies in means of delivery, can severely cripple the urban system and increase vulnerabilities. Furthermore, this element is a crucial connection to humanitarian affairs as it assesses the availability of resources in crisis situations and the existing capacities and strategies to utilize these.
+SUPPLY 
+CHAIN AND 
+LOGISTICS
+Availability of water resources, consumption and resource balance, and integrated water resource management.
+Diﬀerent sources of energy allocated or produced locally, renewable share, capacity and eﬃciency of resources and supply operations.
+Availability and stability of basic food both imported and local, including management of food chain.
+Water 
+Resources
+Logistics
+Capacities and management of the freight and logistics platforms for general materials and goods, including critical access and distribution points.
+Energy 
+Resources
+Food Supply
+
+[Page 34]
+URBAN ELEMENT 4.3 – BASIC INFRASTRUCTURE
+Basic Infrastructure, as a driving force and vehicle for delivering a resilient urban environment, can be raised to address existing and future challenges presented by increasing urbanization, population growth and climate change, supporting equitable, inclusive and sustainable development. UN-HABITAT works towards the promotion of equitable and affordable access to sustainable basic physical infrastructure for all, without discrimination, including affordable safe drinking water and sanitation, modern and renewable energy, waste disposal, and information and communications technologies. These services are crucial resources to empower people and communities to provide for their economic, social, environmental and cultural wellbeing. Following the commitments of the New 
+Urban Agenda, the tool assesses these urban systems performances considering innovative, resource-efficient, accessible, context-specific and culturally sensitive sustainable solutions, and also the reliance on alternative sources in lack of access and coverage of services.
+ 
+Energy
+Water a. Water Supply: Access to drinking water, water supply network coverage, eﬃciency and operational standards, maintenance and monitoring of supply network.
+b. Wastewater and Sanitation: Access to sanitation, wastewater network coverage, treatment and discharge methods, maintenance and monitoring of wastewater systems.
+c. Stormwater: Stormwater collection systems, stormwater and ﬂood management strategies, eﬀectiveness of stormwater solutions and maintenance and monitoring of supply network.
+Network coverage and access to waste collection system, eﬃciency of treatment such as recycling and energy recovery, disposal and continuity of operations, including for non-municipal and hazardous waste.
+Solid waste
+Telecommunications a. Phone and Internet: Access diversity, coverage of networks, and network operations.
+b. Television and Radio: Access diversity, coverage of networks, and network operations.
+a. Buildings Supply: Diversity of access to energy supplies, coverage of network supplies, eﬃciency in the provision, supply operations, and maintenance and monitoring of supply networks.
+b. Mobility Supply: Coverage of network supplies, eﬃciency in the provision, supply operations, and maintenance and monitoring of supply networks.
+BASIC 
+INFRASTRUCTURE
+
+[Page 35]
+URBAN ELEMENT 4.4 - MOBILITY
+The scope of Mobility Element is concerned with the ability of city in meeting the current and projected demand of moving people within, from and to the city. It aims at evaluating city’s transport capacity for resilience by capturing the potentials of diversity, redundancy and robustness of the various modes of transport existing in the urban area. 
+Furthermore, this element assesses the coverage of transport infrastructures as well as people’s access -including spatial, physical and socio-economical- to the various modes available. The data analysis in this element allows for detecting current internal stresses originated within the mobility system as well as anticipating future ones and the subsequent interdependencies with potential shocks.
+MOBILITY
+Diversity and modal share, coverage of transport networks, access to transport including public and private modes, and continuity of operation
+Urban Mobility
+Diversity and modal share, coverage and capacity of main entry points, access, and continuity of operation.
+Inter-regional mobility
+
+[Page 36]
+URBAN ELEMENT 4.5 – MUNICIPAL PUBLIC SERVICES
+Public services are an essential component of the urban system and are provided by the governments to people living within their jurisdictions, either directly (through the public sector) or by financing the provision of services. 
+The term is associated with a social consensus that certain services should be available to all, regardless of income, physical ability or mental acuity. 
+The public services cover a large variety of services that could be classified in several categories such as utilities, municipal public services, and basic social services. These categories are distributed in various sections of the tool in a way allowing for the best analytical approach: the utilities are analysed under the basic infrastructure element and the basic social services are analysed under the social inclusion and protection element. 
+The Municipal Public Services element allows for an in-depth analysis of those services delivered by the municipalities and which require specific attention from a resilience perspective. They include services relevant from a humanitarian perspective, services relevant from an emergency perspective, services relevant from safety perspective and other services usually provided in exchange for the taxes which citizens pay. 
+Cemeteries and Crematoriums
+Diversity, coverage, access, and quality and safety monitoring.
+MUNICIPAL 
+PUBLIC SERVICES
+Civil Registration
+Typology of authorities, coverage, access and data management and dissemination systems.
+Criminal justice and law enforcement b. Law Enforcement: Diversity and typology of law enforcement institutions, coverage with local security forces, and continuity of operations.
+c. Correction facilities: Typology and quality of correction facilities.
+d. Access to Justice: Diversity and typology of justice institutions and access to justice.
+Diversity and typology of cultural heritage/institutions, access to culture, maintenance of cultural heritage.
+Cultural heritage and cultural activities
+Emergency and rescue services
+Diversity and typology and continuity of operations.
+Food inspection and monitoring institutions
+Typology of authorities, their responsibilities, monitoring mechanisms and data management, and dissemination and awareness raising.
+Communicable diseases surveillance and response system
+Typology of authorities in charge, Capacity of surveillance system, Mechanisms of data collection and management, Emergency response and Warning and awareness raising mechanisms.
+Municipal taxes and ﬁnes
+Analysis of typology and responsibilities, coverage aspects, and access.
+Public Lighting
+Analysis of diversity of public lighting, coverage, maintenance, and continuity of operation.
+a. Violence and Insecurity: crimes against property, violent crimes, conﬂict related deaths and domestic violence.
+
+[Page 37]
+URBAN ELEMENT 4.6 – SOCIAL INCLUSION AND PROTECTION
+The Social Inclusion and Protection Element provides an overview on how accountable the local government is in relation to the inhabitants of the city, and how much it is striving for social inclusion and promotion of full participation of each man and woman, boy and girl. Based on the principles of equity, equality and fulfilment of human rights, the data analysis in this element allows for assessing population’s access to their basic developmental rights translated into access to basic social protection and social services such as education, health, food and social care, and anticipate potential shocks and stresses in order to build their social resilience. The whole element has a particular focus on analysing the status of a large array of categories of people in vulnerable situations, all by being in line with the provisions of international human rights standards and instruments. 
+Consultation of citizens in development interventions, consideration of citizens’ initiatives (bottom-up approaches), collaboration of civil society organization in local government’s decision-making processes, collection of citizens’ and/or beneﬁciaries’ feedback, and use of grievance redress mechanisms in operations.
+Social 
+Accountability
+Status of poverty and economic deprivation, access to health care through appropriate insurance, income security for children (including the one guaranteeing the access to food), assistance for unemployed, underemployed and poor people, and income security for elderly and disabled people.
+Access to Social 
+Protection Floors
+Access to Basic 
+Social Servicess a. Access to education: including coverage of education services and access, in line with SDGs targets.
+b. Access to health: including coverage with regular and emergency services, and access to health facilities for all categories of population in need.
+c. Access to social care and protection: including coverage with prevention and specialized protection services, and access of speciﬁc categories of people in vulnerable situations.
+d. Access to food: including coverage with nutrition programmes and the respective access.
+SOCIAL 
+INCLUSION AND 
+PROTECTION
+
+[Page 38]
+URBAN ELEMENT 4.7 – ECONOMY
+Cities can and should adopt policies enabling them to improve their ability to cope with stresses (external, internal or complex) and shocks. In economic terms, a resilient system is one that has the ability to absorb, recover quickly and/or avoid economic shocks. A shock could be absorbed if economic mechanisms are in place to react and reduce adverse effects. For example, the diversification of economic activities will support absorption of potential shocks and an economic system is more able to shift resources to sectors with stronger demand when needed. 
+Furthermore, for an economic system to recover quickly, having the flexibility to “bounce back” after a crisis is essential. Some economic conditions may support or prevent an economy to recover quickly. For example, a tendency for large fiscal deficits or high rates of unemployment will prevent quick recovery. However, a solid fiscal position that permits the use of additional expenditures or fiscal restraint to reduce economic shocks can support rapid economic recovery. 
+Lastly, a resilient economic system is one that enables the sustainable pursuit of prosperity for all city inhabitants as a prosperous urban system is often better equipped to respond to crisis.
+ECONOMY
+Analyses both the stability and potential vulnerabilities of the local economy through measures of diversity, gross product, and employment. Identiﬁes additional structural imbalances in an eﬀort to provide a holistic assessment of market reliability.
+Local Economic 
+Structure
+Fiscal Stability & 
+Municipal Finance
+Market 
+Connectivity
+Evaluates the ﬁscal composition and ﬁnancial capabilities of the local government.
+Measures the intensity and eﬃcacy of the local economy’s connectivity to markets, be they local, regional, national or global.
+
+[Page 39]
+URBAN ELEMENT 4.8 – ECOLOGY
+Human settlements depend on and interact with their surrounding ecosystems for the provision of food, fresh water, clean air, spaces for worship et cetera. Overconsumption, contamination from human activity, as well as a changing climate however affect a region’s bio-capacity, biodiversity and environmental quality. These impacts in turn change ecosystems, potentially exposing a city to natural and environmental hazards, and exacerbating its inherent social vulnerabilities. To safeguard the livelihoods of current and future generations as well as the physical and mental well-being of all citizens, the City Resilience Profiling Programme adopts the Ecosystem Services approach as a reference framework to analyse urban ecology and assess a city’s environmental resilience in relation to human health. Following this approach, the Ecology element studies a city’s management of its ecosystem services, its consumption and production pattern, the preservation of natural areas and biodiversity in the region, and current pollution levels.
+ECOLOGY
+Condition, trend and maintenance of the ecosystem and the service.
+Bio-capacity, ecological footprint of production and consumption: 
+Analysis of the bio-capacity, and the footprint of production and consumption.
+Biodiversity in the city and protected natural areas in the region.
+Ecosystem 
+Services
+GHG emissions and inventory; state of air, water, and other types of pollution; and monitoring of pollution.
+Ecological 
+Footprint
+Biodiversity and Green 
+Areas
+Environmental
+
+[Page 41]
+KEY CROSS-CUTTING ISSUES
+Informality
+Informality is, by definition, a question of the relationship of individuals and communities with the law and, in many urban areas, significant proportions of the population are affected by informality in their employment, housing or tenure status . As such, it is an integrant aspect of how cities function, from the ways people live and move to the existing and future urban economy. In many contexts, it is a key area to address for more inclusive, resilient and sustainable cities. Identifying relevant and effective approaches to integrate urban informality requires a good understanding and awareness of the underlying factors and dynamics, being organisational, social, economic or cultural, at every spatial scale.
+Poor Infrastructure
+Transportation and communication networks; healthcare and education facilities; sewage, water and energy systems, are all examples of infrastructure. These systems tend to be high-cost investments, operations and maintenances, but are vital to cities’ economic development, and essential to enable, sustain, or enhance societal living conditions.
+Access to land and land tenure
+Everyone has a relationship to land. Unfortunately, millions of people around the world face difficulties related to the land where they live, work, grow crops, tend animals and run businesses. Even though they or their families may have lived on the land for many years, it is a serious obstacle that they have no formal relationship to it. Land is a scarce resource governed by a wide range of rights and responsibilities. And not everyone’s right to land is secure. Mounting pressure and competition mean that improving land governance – the rules, processes and organizations through which decisions are made about land – is becoming increasingly urgent .
+Gender Equality
+Gender equality and women’s participation are catalytic components of successful social, economic and environmental resilience, disaster risk reduction and sustainability strategies, with women and girls often experiencing a disproportionate impact from shocks, while at the same time providing specific knowledge, agency and collective action in work to promote sustainability and resilience. Within the CRPT the objective of gender mainstreaming is to integrate the needs and experiences of women and girls, and men and boys, as a cross-cutting dimension in data capture and analysis. As such, gender-responsive indicators and questions appear across the tool to measure gender equality as part of the multi-sectorial, multi-shocks and stresses, and multi-scale nature of urban resilience.
+Efficiency in the Use of Resources
+A more efficient use of resources is essential if we aim to produce more from less input, use resources in a sustainable way, and manage them more efficiently throughout their life cycle. Changes need to be made in production and consumption patterns, to ensure sufficient water, food, energy, and other natural resources are available for the world population, while maintaining the quality of the environment, preventing climate change and reducing further loss of biodiversity.
+Human Rights
+Human Rights, including the rights to adequate housing and safe water and sanitation are contained in the Universal 
+Declaration of Human Rights and international human rights instruments, including the International Covenant on 
+Economic, Social and Cultural Rights which have been ratified by most UN Member States. These rights, once so endorsed, do not have a voluntary character. They impose obligations on states and on the international community, they are universal, cannot be waived or taken away, and are legally protected.
+Through ratification of  international human rights treaties, Governments undertake to put into place domestic measures and legislation compatible with their treaty obligations and duties. By becoming parties to international treaties, States assume obligations and duties under international law to respect, to protect and to fulfil human rights. The obligation to respect means that States must refrain from interfering with or curtailing the enjoyment of human rights. The obligation to protect requires States to protect individuals and groups against human rights abuses. The obligation to fulfil means that States must take positive action to facilitate the enjoyment of basic human rights. Resilient cities could only exist where human rights are respected, protected, and fulfilled.
+
+[Page 42]
+CONSIDERATIONS FOR DATA COLLECTION
+Gathering the relevant data and ensuring its traceability is an essential step in the implementation process. Using our experience of implementation in different cities, UN-Habitat provides cities with training and tips on how best to access the data required.
+A mission is organised towards the beginning of the process either to the city - or by local government focal points to the training centre in Barcelona - to train on tool methodologies and ways of implementation. 
+UN-Habitat also provides guidelines and materials on how the local government can engage the relevant stakeholders in the process. 
+Data from the city is input into UN-Habitat’s software to create a resilience profile unique to that city. Data is gathered through a series of questions that focal point(s) together with or in the local government should answer. 
+Considerations and examples can be found throughout the tool to give a better understanding of the scope of what is being evaluated. Before implementing the Tool, there are a number of considerations that should be taken into consideration. 
+ACCESSIBILITY 
+In order to obtain the most accurate overlook of the city’s urban systems, the information that are inputted into the 
+Tool must be reliable and verifiable. Local governments must therefore be willing and able to access data from all departments of the local council and from external sources where necessary. 
+OPENNESS TO COLLABORATING 
+Implementing the Tool requires the support of UN-Habitat’s urban experts and trainers. Data and information will therefore be shared with UN-Habitat for the purpose of Tool implementation only. Implementing cities must be willing to share this data with UN-Habitat.
+GENDER SENSITIVE 
+The Tool addresses a number of cross-cutting issues that are essential to urban resilience, such as gender equality. 
+Regarding this issue, data should always be disaggregated by sex and age-group (to the extent possible), and besides, the assessment includes a broad range of gender-specific questions.
+
+[Page 43]
+Actions for Resilience
+Following the data collection and analysis, the Tool generates Actions for Resilience (A4R). This step provides a roadmap for local governments to initiate positive change through preventive actions based on verifiable evidence about stresses, shocks, challenges and long-standing issues and problems. 
+Actions for Resilience are a strategic planning tool that combine risk reduction measures, vulnerability reduction measures and improvement capacity building and sustainable development, as it takes into consideration that in fragile urban setting there is a nexus between humanitarian and development issues. 
+The outcomes consider the three dimensions of the New Urban Agenda (NUA): urban planning and design, urban finances and economy and urban legislation and regulations; and propose multi-thematic and multi-dimensions actions to be executed in short, medium and long-term, through physical, spatial, social, economic, and institutional and governance dimensions.
+A4R is an action-oriented tool based on adaptive learning and informed by all Data Sets. A4R is a process to build consensus among different stakeholders.
+A4R seeks cities improvement, by targeted and scheduled actions performed with the stakeholders’ cooperation towards implementation within a wider strategy that can be monitored and measured over time.
+A reason to act
+Political awareness
+Knowledge of what to do
+
+[Page 44]
+NATIONAL 
+URBAN PLANNING
+- Multi-Stakeholder Decision Making
+- Align Actions with SDG Indicators 
+RULES AND REGULATION
+- Integrate with Existing Legal Frameworks
+- Create Monitoring Strategy
+PLANNING AND DESIGN
+- Thematic Strategies
+- Resilience-Based Planning
+FINANCING URBANIZATION
+- Strengthen Municipal Finance
+- Increase Creditworthiness
+- Identify PPP Investment
+LOCAL IMPLEMENTATION
+- Identify Implementable Actions
+- Identify Barriers to Sustainable Urban Development
+ACTIONS FOR 
+RESILIENCE
+ALIGNMENT WITH NEW URBAN AGENDA
+
+[Page 45]
+- What can be done with existing resources?
+- What needs additional public funds?
+- What cost implications for enhancing existing functions?
+- What implications for physical assets?
+- What spatial characteristics demand change?
+- What can be done organizationally?
+- How we can export resilience considerations to the normal activities of the city?
+- How to improve some without compromising/worsening others?
+- How to involve all stakeholders for the implementation of the resilience strategy/actions everywhere?
+Actions for Resilience are articulated around the New Urban Agenda, adopted by UN member states following the Habitat III conference in 2016. The NUA sets out a holistic vision of cities and calls for coordinated action for sustainable urban development.
+National Urban Planning
+Actions for Resilience consider national urban planning strategies in place. 
+Local Implementation
+This aspect considers the realities and promote multi-stakeholder decision making, while also identify implementable actions, and existing or potential barriers to sustainable urban development.
+Rules and Regulation
+The rules and regulation aspect of the Actions for Resilience integrate existing legal frameworks and create a monitoring strategy. 
+Planning and Design
+The urban planning and design aspect develops thematic strategies and resiliencebased planning.
+Financing urbanization 
+This aspect addresses the urban economy and seeks to strengthen municipal finances, increase creditworthiness and identify PPP (Public-private partnerships) investments.
+Actions for Resilience evaluate
+
+[Page 46]
+Overall Structure of the Actions for Resilience: Steps and Outputs
+STEP 1. City Profiling 
+In this first step the CRPP team characterizes the city from a holistic view from all the data SETS to create a city profile. All of the data SETS include useful information regarding urban elements, crosscutting issues, internal and complex stresses, and expected stresses and shocks analysis. 
+STEP 2. Building scenarios: current, trend and R&SD scenarios 
+There are three scenarios that show the evolution of the urban system: current, trend, and the resilience and sustainable development scenario.
+1. The current scenario of a city is built upon the combination of its internal weaknesses and its shocks behaviour 
+-prevention and response. The current scenario forms the diagnosis of the city at the present moment regarding the level of exposure and vulnerability that prevent the urban system the achievement of a resilient and sustainable scenario. . 
+2. The trend scenario is built upon the current scenario against which the standing legislation, plans, programmes and projects have to be viewed. The aim of this scenario is to identify if there are ongoing actions (trends) by means of programmes, plans, aspects of policies or legislation, projects and budgets available that tackle, solve, ignore or solve the weaknesses, vulnerability and challenges identified on the current scenario. This scenario is the main component for the formulation of the A4R document.
+3. The R&SD (Resilient and Sustainable) scenario is the last scenario built based on the trend scenario modified by the Actions for Resilience recommendations – taking into consideration the components of SET 2: stakeholders, governance, public services. It gives a realistic idea of a possible city transformation taking into consideration prioritization, management and capacity building. 
+STEP 3. Action for Resilience. Workshop
+The preliminary results of the Actions for Resilience – the current and the trend scenario will be presented and shared in a two-day workshop with local authorities, relevant stakeholders and moderated by the UN-Habitat team. 
+The workshop allows local authorities and relevant stakeholders to build a common consensus on the components of the R&SD Scenario and its prioritization. 
+STEP 4. Action for Resilience. Briefing
+The A4R briefing and the delivery of the final results of the CRPT is made in an official meeting with the local authority, relevant stakeholders and the UN-Habitat team. 
+The final outputs of the Actions for Resilience include:
+- A roadmap- R&SD Scenario including short, medium and longterm actions with a description sheet per action. 
+Each action links with the five principles of the New Urban Agenda and includes indicators for impact monitoring. 
+This roadmap is the result of the two-day’ workshop.
+- A complete map of stakeholders and planning tools, including key local stakeholders, processes and actions to be engaged, is generated. It captures if there are other types of stakeholders, technical support or fund raising needed for the implementation of the roadmap.
+- A data assessment conclusions map and document of current databases and their existing gaps is generated. 
+This assessment offers inputs on data collection and information management.
+
+[Page 47]
+Taking it further 
+Once the Actions for Resilience have been defined by the local government with the support of UN-Habitat and in order to build buy-in, the local government can present the actions to all stakeholders. From this presentation, roles and responsibilities can be decided and the necessary funding mechanisms can be identified. 
+Cities are also encouraged to partner with other cities to support implementation of the CRPT and share their experience of the process and results.
+
+[Page 48]
+CRPT features
+Quality data assessment
+To ensure the data is accurate and traceable, a complementary data quality assessment is undertaken through the resilience profile development. Several means of verification are requested throughout the Tool to evaluate the certainty and reliability of the data provided/inputted. Further data collection and data management improvement could be two of the recommendations to be included in the Action for Resilience roadmap.
+Timeframe and different tool users 
+Every city is unique and each context is different. There is no set timeframe for data collection however in cities where the data is readily available, data collection can be completed in less than 6 months. In cities where limited data is available, this process can take over one year. 
+There are three different users in the assessment: Basic (60% of total amount of data), intermediate (75% of total amount of data) and advanced level/user (100% of total amount of data). The criteria for the different levels/users depend on the amount of pre-existing data easily accessible by the local government, on the possibility to obtain or gather new ones, and on the importance and relevance of the data in the analysis of resilience. The recommendation is that at least 80% of the data of the basic level/user be collected to proceed with the profile.
+By connecting with UN-Habitat and conducting a pre-engagement process, we can provide a clearer idea of the expected timeframe for data collection. 
+Once the data has been collected and validated, and the profile has been built up, UN-Habitat starts providing the city with prioritised and practical recommendations to address weaknesses and vulnerabilities in the urban system.
+
+[Page 51]
+TRAINING AND SUPPORT FROM UN-HABITAT 
+Throughout the process, UN-Habitat’s tool and urban experts are on hand to support the city and implement the 
+CRPT. In some cities, a focal point from UN-Habitat can be on site in the city to support data collection or tool implementation. In other cases, the focal point in the local government connects directly with staff from UNHabitat’s resilience office to report progress and request support. 
+Currently the tool is available in English however translation is underway to make all material more accessible to all stakeholders and partners working on tool implementation. 
+Training is provided to local government staff throughout implementation and, in some cases, a mission of local government staff to UN-Habitat’s office in Barcelona is organised. Staff from UN-Habitat can also travel to the city to support implementation or provide political support to the process as required. 
+UN-Habitat also provides guidelines and materials on how the local government can engage the relevant stakeholders in the process.
+
+[Page 52]
+FREQUENTLY ASKED QUESTIONS
+Why should my city build urban resilience?
+All cities face hazards, be they man-made or natural. Experience shows that effective prevention and preparedness is more effective and less costly than recovery. Our approach to urban resilience goes beyond traditional ideas of preparedness or risk reduction to support the entire city prepare, adapt, absorb, and recover from hazards.
+By 2050, estimates predict that 75% of the global population will be living in urban areas. This represents a major challenge but an even bigger opportunity. When resilient, cities can protect more lives and maintain functionality for the majority of the world’s population when faced with shocks and stresses. Cities that are not resilient will suffer greater losses in terms of human life, functionality and economic costs.
+What kind of data will my city need?
+To facilitate the diagnosis process, the City Resilience Profiling Tool collects data across four different ‘sets’ . 
+Different cities have different levels of data and the process can take anywhere from 3 months to 1 year depend- ing on staff and data availability.
+Where does the data go?
+Data gathered by the local government belongs to the local government. UN-Habitat keeps all data confidential and does not share any outputs from the process with external parties. Local governments must however be willing to share their data with UN-Habitat. We do encourage and support cities to share the results of their work to promote resilience- building in other cities.
+Where can my city find the data?
+Cities that have already implemented the tool have found the relevant data in census, official records and statistics, and through consultation with departments of the city council. UN-Habitat provides support throughout data collection on where and how to obtain the best data. One of the advantageous cited by our partners is the Tool’s ability to connect departments of the local government and various stakeholder groups around a common project.
+What are the costs?
+Implementation costs vary depending on the size of the city, accessibility of data and existing resilience work so there is no ‘fixed cost’. Typically, implementation costs include travel from your city to Barcelona for training, travel for UN-Habitat staff to your city and expert time. Costs also contribute to the development of UN-Habitat’s training and guidance material.
+How can my city get involved?
+The easiest way is to contact us to organize a brief call. We can explain our work in more detail, answer your questions and identify your needs.
+
+[Page 53]
+If your organization would like to support or ﬁnd out more about UN-Habitat‘s Urban Resilience work, please contact us at info@cityresilience.org #UrbanResilience /uresiliencehub

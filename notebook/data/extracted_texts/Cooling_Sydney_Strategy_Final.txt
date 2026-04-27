@@ -1,0 +1,866 @@
+[Page 2]
+Cooling Sydney Strategy
+Above: Sydney CBD (© [Seb Zurcher] / Good Free Photos)
+Cover & Back: Barangaroo precinct (© [Leonid Andronov] / Adobe Stock)
+
+[Page 3]
+General Residential
+-- Recommended Mitigation 
+Strategies
+-- Green Open Space
+-- Cool Facades
+Low Density Residential
+-- Recommended Mitigation 
+Strategies
+-- Cool Roofs
+-- Street Trees & Planting
+A Resilient Community
+-- Provision of Heat Refuges
+-- Education Initiatives & 
+Campaigns
+-- Provision of Incentives
+Towards a Climate Resilient 
+Sydney
+References
+Appendix - Land Surface 
+Temperature Map of Greater 
+Sydney 
+Authors:
+Lan Ding, UNSW
+Baojie He, UNSW
+William Craft, UNSW
+Henry Petersen, UNSW
+Paul Osmond, UNSW
+Mattheos Santamouris, UNSW
+Deo Prasad, CRCLCL
+Carlos Bartesaghi Koc, Deakin University
+Chris Derksema, CoS
+Nik Midlam, CoS
+Date: 
+June 2019
+Planning for Sydney 2050
+The Need for Urban Heat 
+Mitigation Planning
+Urban Overheating Challenges in the City of Sydney
+-- Climate Conditions in the City of Sydney
+-- Increasing Density
+-- Surface Temperature 
+Distribution in the City of 
+Sydney 
+City of Sydney’s Urban Context
+-- Land Use Zones & Urban 
+Typologies within the City of 
+Sydney
+Urban Overheating Mitigation 
+Strategies
+-- Applicability & Effectiveness of 
+Urban Overheating Mitigation 
+Strategies
+Metropolitan Centre
+-- Recommended Mitigation 
+Strategies
+-- Cool & Permeable Pavements
+-- Vertical Greenery
+-- Building Integrated Shading 
+Devices
+Mixed-Use
+-- Recommended Mitigation 
+Strategies
+-- Water Features & Evaporative 
+Cooling
+-- External Shading Structures
+-- Combination of Strategies
+
+[Page 4]
+Cooling Sydney Strategy
+PLANNING FOR SYDNEY 2050
+In 2007, the City of Sydney developed a long-term strategic vision and plan for the future, 
+Sustainable Sydney 2030. Building on the success of this plan, the 
+City of Sydney are looking beyond the minimum 10-year lifespan to develop a vision for ‘Sydney 
+2050’ that is community led and informed by reliable research and technical advice. Planning for Sydney 2050 will look to the recently developed Resilient 
+Sydney report which provides the first strategic direction for the city to increase its “ability to survive, adapt and thrive in the face of increasing global uncertainty and local shocks and stresses” (City of 
+Sydney, 2018). 
+A key direction of this report and of the planning for Sydney 2050 is to ‘live with our climate’. Within this, extreme heat is identified as the one of the primary challenges for Greater Sydney and addressing it requires collaborative action and policy to minimise the associated health risks and resource demands. Therefore, the purpose of this report is to provide urban overheating mitigation recommendations to support the strategic planning of Sydney 
+2050 based on in-depth research conducted by the Cooperative 
+Research Centre for Low Carbon 
+Living (CRCLCL) and the University of New South Wales (UNSW). 
+Left: Sydney city skyline facing north (©[ ] / Adobe Stock)
+
+[Page 5]
+THE NEED FOR URBAN HEAT 
+MITIGATION PLANNING
+The urban heat island (UHI) effect – increased ambient temperature in high-density urban areas compared to surrounding suburban or rural areas (Figure 1) – is one of the most documented areas of climate change. The 
+UHI phenomenon can vary both spatially and temporarily as a function of climate, topography, physical form and short-term weather conditions (Santamouris et al., 2019). If overlooked in the planning and designing of our cities, it can significantly increase the demand for energy, water and healthcare services.
+To address the impact of increased overheating in our cities, mitigation strategies and technologies have been developed and refined over the last two decades. The correct implementation of these existing mitigation strategies has the potential to decrease peak ambient temperatures by 
+2-3°C and can provide significant decreases in cooling energy demand and heat related mortality and morbidity (Santamouris et al., 
+2017a). 
+It is important to note that while the UHI phenomenon can be beneficial to cities during winter (e.g. reduced heating costs and cold-related deaths), the negative 
+UHI impacts outweigh these benefits in most cities due to their (sub)tropical climates (Roth, 2013). 
+Figure 1: Urban heat island temperature
+
+[Page 6]
+Cooling Sydney Strategy
+A design guide for built environment professionals and regulatory agencies seeking to optimise development projects to moderate urban microclimates and mitigate UHI effects in major urban centres across a range of climates in Australia (Osmond & Sharifi, 2017).
+An online, interactive urban heat mitigation index providing high-level guidelines for urban planning decisions to mitigate urban heat in varying climates and development typologies (CRCLCL, 2019b).
+An interactive three-dimensional decisionsupport tool which enables users to visualise and assess urban development mitigation scenarios for specific urban contexts (CRCLCL, 2019a).
+An in-depth strategic study investigating various mitigation strategies to decrease ambient temperature in Western Sydney and their impact on cooling and peak energy demand, thermal comfort and heat related mortality (Sydney Water, 2017).
+An in-depth UHI analysis of the proposed 
+Green Square Town Centre redevelopment to assist the City of Sydney in developing mitigation strategies to effectively reduce localised and precinct-wide average air temperatures (Craft et al., 2019). 
+However, selecting the most effective combination of mitigation strategies can become challenging for local governments, urban planners and decision-makers when faced with varying urban development contexts and microclimatic conditions. The suite of urban heat mitigation research conducted by the CRCLCL and 
+UNSW (Figure 2) can provide in-depth insights for the City of 
+Sydney in developing the most effective mitigation strategies for specific urban contexts. 
+The focus of this report is to tailor the research findings specifically to the City of Sydney’s urban context to support the future planning of Sydney 2050. This will ensure that the City of Sydney Local 
+Government Area (LGA) is able to survive, adapt and thrive despite the increasing frequency and duration of heatwaves in Sydney. 
+Figure 2: UHI mitigation research conducted by the CRCLCL and UNSW
+
+[Page 7]
+Above: Coastal location of Sydney CBD (© [jovannig] / Adobe 
+Stock)
+Figure 3 (Left): 
+Projected number of extreme heat days in the City of Sydney (City of Sydney, 2016)
+URBAN OVERHEATING CHALLENGES 
+IN THE CITY OF SYDNEY
+Climate Conditions in the City of Sydney
+The overall climate of Sydney is considerably influenced by its coastal position and proximity to the ocean. Despite the positive influence of a cooling sea breeze, coastal cities such as Sydney still suffer from UHI impacts (von Glasow et al., 2013). Areas in Western Sydney experience more frequent extreme heat events than in the City of Sydney 
+LGA due to the absence of these cooling breezes combined with the influence of hot westerly winds, which can result in ambient temperature differences of up to 
+11°C (Santamouris et al., 2017b) (see appendix). 
+Despite the considerable focus on mitigating urban overheating in Western Sydney, the City of 
+Sydney’s temperature in summer is continually rising and still poses an increased health risk for its inhabitants. Within the City of Sydney LGA, the frequency of extreme heat days (>35°C) is projected to increase to 15 by 2070 (Figure 3) (City of Sydney, 2016).
+
+[Page 8]
+Cooling Sydney Strategy
+Increasing Density
+Between 2008 and 2018 the local area population increased by 
+38.9% in the City of Sydney making it the second fastest growing area in NSW (City of Sydney, 
+2019a). To meet the needs of a growing city population, the State 
+Government has identified areas for State Significant Development within the City of Sydney LGA (e.g. Barangaroo, Waterloo/
+Redfern, Broadway, etc.). The 
+City of Sydney has also identified potential development sites to meet housing demands (e.g. 
+Green Square , Harold Park, etc.) and together these sites represent 
+Below: Barangaroo redevelopment major areas of urban renewal.
+As the population and density of the City of Sydney increases, the challenge of urban overheating is projected to increase (Livada et al., 2019). The potential benefits of cooling sea breezes are expected to weaken with increases of dense urban structures (He, 2018). 
+Therefore, the challenge for the future redevelopment of the City of 
+Sydney will be to provide increased density through mid and high-rise buildings without reducing the city’s ability to mitigate and adapt to urban heat.
+
+[Page 9]
+Surface Temperature 
+Distribution in the City of Sydney
+Across the City of Sydney LGA, differences in urban fabric (the physical urban environment – built form, scale, density, materials, etc.) and land cover (paved, vegetated, water, etc.) contribute to significant variations in localised temperatures. Figure 
+4 shows the surface temperature distribution across the City of 
+Sydney LGA at the end of Sydney’s 
+2018/19 summer and highlights various hot spots under different urban development conditions (see appendix for land surface temperature map of Greater 
+Sydney). 
+Within Sydney’s CBD areas (1), for example, urban surfaces are partially shaded from solar radiation due to the surrounding high-density built form. This is illustrated in Figure 4 by lower surface temperatures (blue and green areas) throughout the CBD area. However, the CBD’s high-rise buildings can potentially decrease the necessary heat loss (radiative and convective), resulting in poor outdoor thermal comfort for the city’s inhabitants during extreme heat days. In addition to this, the number of concrete and paved surfaces that are unshaded (e.g. plazas, streets, etc.) can store an abundance of heat with higher surface temperatures shown in orange and red in Figure 4. 
+Comparatively, areas of higher 
+Above: Unshaded concrete and asphalt surfaces in Green 
+Square overall surface temperatures can be seen in relatively lower-density urban contexts such as Ultimo (2), Green Square (3), Rosebery (6) and Alexandria (7) (Figure 4). 
+Factors contributing to these higher surface temperatures are the decreased benefit of cooling sea breezes, unshaded concrete and asphalt footpaths and roads and darker roof materials. 
+Areas of lower overall surface temperatures are within the City of Sydney’s green open spaces due to the vegetated land cover and significant tree canopy coverage such as the Royal Botanic Gardens (8) (Figure 4).
+Therefore, the challenge for local governments, urban planners and decision-makers is to determine the most effective strategy to mitigate the impacts of the UHI phenomenon across the City of Sydney LGA by addressing variations in urban fabric, land cover and understanding their impact on localised temperatures.
+
+[Page 10]
+Cooling Sydney Strategy
+Figure 4: Airborne thermal imagery of the 
+CoS LGA taken at 12:0015:30 on 4th March, 2019 (City of Sydney)
+Sydney CBD
+Ultimo
+Green Square Town Centre
+Waterloo Estate
+Glebe
+Rosebery
+Alexandria
+Royal Botanic Gardens
+1. 
+2. 
+3. 
+4. 
+5. 
+6.
+7.
+8.
+Estimated Surface 
+Temperature (°C)
+22.8
+
+[Page 11]
+Below: Different urban development typologies throughout the City of 
+Sydney (© [Maksym Kozlenko] / 
+Wikimedia / CC BY-SA 4.0)
+CITY OF SYDNEY’S URBAN CONTEXT
+As localised temperatures within the City of Sydney LGA vary in response to different urban development typologies (built form, scale, density, materials, etc.), it is critical to identify and understand the local urban context and their specific urban overheating challenges. 
+To understand these variations, 
+Table 1 presents an overview of the representative local urban contexts which are based on the State approved Local Environment Plan (LEP) land use zoning types and urban development typologies. 
+For each of the eight major urban contexts identified throughout the City of Sydney, urban development characteristics and urban overheating challenges are outlined (Table 1). A representative area for each local urban context is also identified with aerial, thermal and streetscape imagery provided (Table 1). 
+For the majority of local urban contexts within the City of Sydney 
+LGA, poor outdoor thermal comfort is the primary challenge during extreme heat events, caused predominantly by direct exposure of urban surfaces to solar radiation. 
+The urban materials within building envelopes, pavements and roads throughout the City of 
+Sydney LGA store an abundance of heat, resulting in high surface temperatures under the sun and unpleasant outdoor conditions for the community. Across the specific local urban contexts, the diversity of urban overheating challenges, from the large low-rise buildings surrounded by predominantly paved surfaces in Alexandria to the contested urban space limiting the placement of street trees in compact higher density areas, presents a significant challenge for the City of Sydney to decide upon an appropriate mitigation strategy to build the city’s resilience to extreme heat by 2050. 
+CBD
+Glebe
+Pyrmont
+Central 
+Station
+Alexandria
+Royal Botanic 
+Gardens
+Surry Hills
+
+[Page 12]
+Cooling Sydney Strategy
+METROPOLITAN 
+CENTRE
+1.
+4.
+5.
+2.
+3.
+MIXED USE
+COMPACT HIGHRISE (Sydney CBD)
+COMPACT LOW/
+MID/HIGH-RISE (Ultimo)
+LAND USE ZONE
+URBAN 
+TYPOLOGIES
+STREETSCAPE
+THERMAL 
+IMAGERY
+AERIAL 
+IMAGERY
+Table 1: An overview of various local urban contexts and urban overheating challenges within the City of Sydney
+COMPACT MID/
+HIGH-RISE (Green Square Town 
+Centre)
+OPEN MID/HIGHRISE (Waterloo Estate)
+GENERAL 
+RESIDENTIAL
+COMPACT LOW/
+MID-RISE (Glebe)
+Land Use Zones & Urban Typologies within the City of Sydney
+
+[Page 13]
+»» A dense mix of high-rise buildings (13+ storeys) »» Urban surfaces shaded by surrounding tall buildings »» Predominantly paved surfaces »» Low or no tree canopy coverage along streets »» In close proximity to the water and subjected to cooling sea breezes »» A dense mix of low-rise (1-3 storeys), mid-rise (3-9 stories) and high-rise buildings (13+ storeys) »» Limited permeable land cover in public areas (plazas/ squares) »» Low or no tree canopy coverage along streets »» Asphalt-paved road and concrete-paved sidewalks »» A dense mix of mid-rise (3-9 storeys) and high-rise buildings (13+ storeys) »» Urban renewal from previously industrial land use »» Limited permeable land cover in public areas (plazas/ squares) »» Low/medium tree canopy coverage along streets »» Asphalt-paved roads and concrete-paved footpaths »» Contested urban space results in a lack of urban vegetation »» Abundant urban surface materials absorb and store large amounts of heat during the day which is released at night »» Increasing reliance on A/C »» Tall buildings form barriers against cooling sea breezes »» Contested urban space results in a lack of urban vegetation »» Abundant urban surface materials absorb and store large amounts of heat during the day which is released at night »» Increasing reliance on A/C »» Increased density and hard surfaces through urban redevelopment »» Increasing reliance on A/C »» Hotspots in paved public plaza areas during extreme heat events »» Lack of shading in public open spaces
+URBAN DEVELOPMENT CHARACTERISTICS
+URBAN OVERHEATING CHALLENGES »» Open arrangements of mid-rise (3-9 stories) and highrise buildings (13+ storeys) »» Abundance of permeable (vegetated) land cover in public areas »» High tree canopy coverage along streets »» Asphalt-paved road and concrete-paved sidewalks »» Typically social/affordable housing areas within the 
+City of Sydney LGA »» Large building envelopes exposed to direct solar radiation due to the open built form arrangements »» Increasing reliance on A/C »» Urban heat vulnerability - Some inhabitants in social housing areas unable to afford to buy and continually run A/C systems »» A dense mix of low-rise (1-3 storeys) and some mid-rise buildings (3-9 storeys) »» Limited permeable land cover in private areas »» Medium/high tree canopy coverage along streets »» Asphalt-paved roads and concrete-paved footpaths »» Predominantly traditional terrace/row housing »» Darker roof materials and poor insulation resulting in indoor thermal discomfort »» Reduced private garden space »» Increasing reliance on A/C »» High surface temperatures for grassed areas (e.g. private gardens, street verges, public parks) resulting from poor irrigation
+
+[Page 14]
+Cooling Sydney Strategy
+RECREATION
+6.
+7.
+8.
+PARK (Royal Botanic 
+Gardens)
+Table 1 (continued): An overview of various local urban contexts and urban overheating challenges within the City of Sydney
+LAND USE ZONE
+URBAN 
+TYPOLOGIES
+STREETSCAPE
+THERMAL 
+IMAGERY
+AERIAL 
+IMAGERY
+ENTERPRISE 
+CORRIDOR
+LARGE LOW-RISE (Alexandria)
+LOW DENSITY 
+RESIDENTIAL
+COMPACT SINGLE 
+DWELLING (Rosebery)
+
+[Page 15]
+URBAN DEVELOPMENT CHARACTERISTICS
+URBAN OVERHEATING CHALLENGES »» Permeable land cover (predominantly vegetated) »» High tree canopy coverage »» Some water features »» Typically areas of high pedestrian activity »» Occasional public events held using temporary structures »» Water irrigation methods (e.g. cost, resources) »» Can provide relief during extreme heat days but can also become overcrowded »» Maintenance of urban greenery - diversity of functions can make this difficult (e.g. concerts, sporting events, car parking, etc.) »» Open arrangements of large footprint low-rise buildings (1-3 storeys) »» Low tree canopy coverage along streets »» Predominantly paved surfaces »» Large roof areas exposed to direct solar radiation (some cool roofs but predominantly higher roof surface temperatures) »» Large unshaded impervious ground cover (e.g. carparks) »» Lack of open green spaces for heat relief »» Lack of shading in pedestrian areas »» A dense mix of single detached dwellings (1-2 storeys) »» Small patches of permeable land cover in private areas »» High tree canopy coverage and vegetated street verges »» Asphalt-paved road and concrete-paved sidewalks »» Darker roof materials and poor insulation resulting in indoor thermal discomfort »» Reduced private garden space »» Increasing reliance on A/C »» High surface temperatures for grassed areas (e.g. private gardens, street verges, public parks) resulting from poor irrigation
+Thermal Images:
+City of Sydney
+Aerial Images:
+National Map, 2019
+Streetscape Images: 
+Google Streetview, 2019
+
+[Page 17]
+In response to the urban overheating challenge within the 
+City of Sydney, three strategic directions are recommended for the planning of Sydney 2050 to ensure that current and future development plans effectively mitigate the impacts of the UHI phenomenon:
+»» Plan for a heat resilient public realm; »» Design and retrofit the city’s built form to improve its mitigation and adaptation potential; and »» Build community awareness and capacity to mitigate urban overheating and its associated risks.
+URBAN 
+OVERHEATING 
+MITIGATION 
+STRATEGIES
+Image: Darling Harbour water feature (© [leelakajonkij] / Adobe Stock)
+
+[Page 18]
+Cooling Sydney Strategy
+Table 2: Applicability and effectiveness of various mitigation strategies to improve outdoor thermal comfort across different urban contexts in the City of Sydney
+Metropolitan 
+Centre
+Compact HighRise
+Sydney CBD
+Open Mid/HighRise
+Waterloo Estate
+General 
+Residential
+Compact Low/
+Mid-Rise
+Glebe
+Low Density 
+Residential
+Compact Single 
+Dwellings
+Rosebery
+Mixed Use
+Compact Low/
+Mid/High-Rise
+Ultimo
+Compact Mid/
+High-Rise
+Green Square Town 
+Centre
+Recreation
+Park
+Royal Botanic 
+Gardens
+Enterprise 
+Corridor
+Large Low-Rise
+Alexandria
+LAND USE 
+ZONES
+URBAN 
+TYPOLOGIES
+REPRESENTATIVE 
+AREA
+Applicability & Effectiveness of Urban Overheating 
+Mitigation Strategies
+Table 2 provides recommended urban overheating mitigation strategies to improve outdoor thermal comfort throughout the 
+City of Sydney LGA in response to the identified representative areas for each local urban context. 
+The recommendations draw upon literature, case studies and research project outcomes.
+Public realm mitigation strategies are highly effective and applicable for most representative local urban contexts in improving outdoor thermal comfort. However, within industrial areas (Enterprise 
+Corridors) green open spaces and water features and evaporative cooling may not be applicable due to large building footprints and predominantly paved surfaces. 
+Changing street orientations also may not be applicable for the established suburbs. 
+Built form mitigation strategies are applicable and effective in improving outdoor thermal comfort but need to carefully consider the local urban context. 
+Green and cool roofs may not be effective for high-rise buildings within CBDs areas (Metropolitan 
+Centre) as their impact on ground level air temperature is minimal.
+Cool facades may also not be applicable in compact high-rise areas due to glare and health considerations associated with increased reflectance of solar radiation but are applicable in open mid/high-rise areas. Cool roofs are highly effective and applicable in low and medium density residential and industrial areas for improved outdoor thermal comfort. Other built form strategies such as green roofs, cool facades and vertical greenery are less applicable in the low-density residential areas characterised by single detached dwellings.
+Community based mitigation strategies have the potential to improve outdoor thermal comfort by increasing people’s ability to adapt to extreme heat. 
+The provision of heat refuges is effective in higher density
+
+[Page 19]
+EFFECTIVENESS/ 
+APPLICABILITY 
+MEDIUM 
+EFFECTIVENESS/ 
+APPLICABILITY 
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+BUILT FORM
+COMMUNITY
+PUBLIC REALM
+Cool Roofs
+Green Roofs
+Building Design
+Cool Facades
+Vertical Greenery
+Building Integrated Shading Devices
+Provision of Heat Refuges
+Provision of Incentives
+Education Initiatives & Campaigns
+Cool & Permeable Pavements
+Green Open Spaces
+External Shading Structures
+WSUD
+Street Trees & Planting
+Water Features & Evaporative Cooling
+Street Orientation
+-
+NOT 
+APPLICABLE 
+LOW 
+EFFECTIVENESS/ 
+APPLICABILITY urban contexts due to the easy accessibility of museums, libraries, shopping centres, swimming pools, etc. The provision of incentives for efficient energy and water use could facilitate the application of mitigation strategies to improve outdoor thermal comfort. 
+The next section will outline the mitigation strategies recommended for four key urban contexts within the City of Sydney. Specific provisions for the implementation of various mitigation strategies in both new and existing urban contexts will be highlighted where relevant.
+
+[Page 21]
+METROPOLITAN 
+CENTRE
+Metropolitan centres provide for the preeminent role of business, office, retail, entertainment and tourist premises in 
+Australia’s participation in the global economy. An intensity and diversity of land uses are provided to correspond to 
+Sydney’s global status. 
+Metropolitan centres within the City of Sydney are within the CBD areas and typically have high pedestrian activity in the public realm. Therefore, it is crucial that during extreme heat events, the outdoor thermal comfort of the working, residential and visiting populations of Sydney’s CBD is adequate. This section provides urban heat mitigation recommendations for metropolitan centres to improve their capacity to mitigate and adapt to extreme heat.
+Image: Sydney CBD skyline (© [amophoto.net] / Adobe Stock)
+
+[Page 22]
+Cooling Sydney Strategy
+Sydney CBD’s compact urban context provides a significant challenge for increasing the city’s capacity to mitigate and adapt to extreme heat towards 2050. 
+Contested urban space leaves limited opportunities for additional vegetation, street trees and green spaces. The compact high-rise built-form of the CBD means that while green and cool roofs are effective at reducing a building’s electricity demand they are unlikely to impact pedestrian-level air temperature. The abundance of hard surfaces in the CBD also suggests that the use of highly reflective pavement and façade materials should be minimised as they can create glare and health issues with increased solar radiation.
+Recommended 
+Mitigation Strategies
+Despite this, the following recommended mitigation strategies have the potential to improve the outdoor thermal comfort in Sydney’s CBD. A few of these mitigation strategies will be explained in more detail, outlining the specific provisions, key considerations for their implementation and their proven effectiveness where relevant. »» Cool and permeable pavements »» Water features and evaporative cooling »» External shading structures »» Vertical greenery »» Building integrated shading devices »» Street trees and planting »» Provision of heat refuges
+Left: View of Sydney 
+CBD from the Sydney 
+Opera House
+
+[Page 23]
+The specific provisions for cool & permeable pavements are (refer to UHI Mitigation Index):
+»»
+High albedo (reflectance) and high emittance concrete and asphalt pavements used in roads and footpaths should be designed to minimise the negative effects of glare on users of the public realm (Osmond & Sharifi, 
+2017; Santamouris, 2015). An increase of 10% of albedo can reduce ambient temperatures between 0.27°C and 0.9°C (Santamouris et al., 2017a).
+»»
+The proportion of lighter aggregates, additives, pigments and binders should be increased in conventional construction materials (i.e. fly ash, slag, chip and sand seals, reflective synthetic binders) (Santamouris, 2015; City of Sydney, 2019b).
+»»
+Apply light-coloured coatings when replacing existing materials is not possible. Options include (1) high white coatings, (2) infrared reflective coatings, (3) heat reflecting coatings to cover existing asphaltic pavements, (4) colour changing coatings, and (5) fly ash, slag and recycled industrial by-products as aggregates of concrete pavements (Santamouris, 2015).
+»»
+Replace conventional pavements with permeable pavements through (1) water holdings fillers as additive to porous asphalt, (2) fine texture pervious mortars as additive in pervious concrete, (3) fine blast-furnace powder in water retentive asphalt, (4) narrow particles of fly ash in bricks, (5) bottom ash as additives in pervious concrete, and (6) industrial waste as raw materials in ceramic tiles (Santamouris, 2015).
+»»
+Footpath design should consider the application of thermochromic materials (intelligent coatings) developed with nanotechnology that enhance the thermal and optical properties of surfaces (reduced glare effect on pedestrians) (Santamouris et al., 2011) (currently not available in Australia but is a potential option in the future).
+»»
+For heritage pavements (e.g. bluestone in Melbourne), the size of the pavers can be reduced, forming small gaps between them, to increase permeability without losing the heritage of a specific place (Bloomberg Associates, 2019). 
+Cool and permeable pavements are effective and applicable for 
+Metropolitan Centres as well as all other land use zones. A cool pavement can be defined as a street pavement that absorbs less solar radiation than a traditional dark-coloured concrete or asphalt pavement. Cool pavements can be applied either as materials with high solar reflectivity and high emissivity characteristics or as ‘water retention pavements’ that use infiltrated water to decrease surface and nearsurface air temperatures through evaporation (Figure 5). Studies and cases suggest that cool pavements can decrease ambient temperatures by up to 2°C and surface temperatures by 33.0°C. 
+Permeable paving can reduce surface temperature by up to 20°C, provided that there is adequate soil moisture (Osmond & Sharifi, 2017).
+Cool & Permeable 
+Pavements
+Figure 5: Cool and permeable pavements (Osmond & Sharifi, 2017)
+
+[Page 24]
+Cooling Sydney Strategy
+The specific provisions for vertical greenery systems are (refer to UHI Mitigation Index):
+»»
+It is recommended to use species of plants that can tolerate heat, wind, droughts and full sun to reduce costs associated with irrigation (water stress), installation of drainage layers, and heat stress (Osmond & 
+Sharifi, 2017; City of Adelaide, 2016; State of Victoria, 2014).
+»»
+Structure types: Modular systems are suggested for new or retrofitted buildings when a supportive structure is required as a growing medium which is usually affixed to walls. The structural support can be provided through a vegetated modular/hydroponic system, a containerised substrate or hanging planters. On-ground vertical greenery is suggested for new or retrofitted buildings when plants can be rooted on ground and these can grow either directly onto the wall or with the help of a doubleskin or trellis system. This system is recommended to cover facades with dark-coloured, low reflectivity and low albedo materials (i.e. dark-coloured concrete, bricks, tiles) but is limited by building height. 
+Balcony scale green walls consist of small, modular and self-contained planting systems that could be contemplated in multi-unit residential buildings when other types of vertical greening are not possible. Hybrid vertical greenery combining different structures and climbing plants can be applied to extensive building facades at relatively low cost and low water demand (Osmond & Sharifi, 2017; City of 
+Adelaide; State of Victoria, 2014).
+»»
+Harvesting rainwater for irrigation through the use of water tanks can help maintain good irrigation levels of vertical greenery to provide effective cooling benefits and maximise rainwater capture/reuse (Osmond & Sharifi, 2017; City of Adelaide, 2016; State of Victoria, 2014; Santamouris, 2015).
+Vertical Greenery
+Vertical greenery systems are applicable to medium and high density contexts with contested urban space. Vertical greenery systems – also referred as green/ living walls – integrate plants onto buildings facades and other vertical structures. These can increase evaporative cooling and provide solar and heat protection (shade) by reducing surface temperatures, improving indoor thermal comfort of buildings and contributing to energy conservation. 
+Previous studies suggest that vertical greenery systems can reduce ambient temperatures by up to 4°C and surface temperatures by 5°C to 15°C. The indoor temperatures of spaces adjacent to vertical greenery system walls can be reduced 
+Below: Vertical greenery system of One Central 
+Park, Sydney by up to 2°C depending on orientation (Osmond & Sharifi, 
+2017). Vertical greenery systems can also have additional benefits in CBD areas such as increased biodiversity, increased property value and inhabitant health and wellbeing but require considerable maintenance and watering systems.
+
+[Page 25]
+Building Integrated 
+Shading Devices
+Building integrated shading devices are applicable to 
+Metropolitan Centres and most other land use zones. Buildings provide shade over different urban surfaces blocking solar radiation and decreasing mean radiant temperatures leading to enhanced outdoor thermal comfort in public areas. Some building elements such as awnings, verandas and arbours can be used as shading devices to provide additional solar protection to footpaths adjacent to buildings (Figure 6). 
+Building integrated shading can reduce daytime mean radiant temperatures by blocking direct solar radiation to improve outdoor thermal comfort. Furthermore, building integrated shading within a facade (vertical and horizontal) 
+The specific provisions for building integrated shading devices are (refer to UHI Mitigation Index):
+»»
+Fixed and retractable awnings of sufficient width (at least 3.5m) and height (3.5-4.5m) are recommended along nominated active streets (and especially north-facing footpaths) to reduce solar exposure of surfaces, minimise solar penetration into buildings’ ground floors and as weather shelters (i.e. rain, wind) (City of Adelaide, 2016).
+»»
+Fully glazed awnings should generally be avoided. Partially glazed awnings integrating PV-integrated systems may be appropriate for some locations where natural light and energy production is pertinent or necessary, for example, in south-facing footpaths (less solar exposure) (City of Adelaide, 2016).
+»»
+Non-continuous awnings or with steps ups and breaks can facilitate air movement.
+»»
+Awnings, verandas and shading structures may be constructed with highly-reflective materials provided that reflected glare is controlled to reduce the effects on the occupants of nearby buildings.
+»»
+Verandas and balconies can be used as supporting structures for vegetation (i.e. trained vines). 
+Suitable depth and distance from underground services should be considered to ensure adequate soil conditions that can support plant growing (Osmond & Sharifi, 2017; City of Adelaide, 2016).
+»»
+Awnings can be additionally used to harvest rainwater for irrigation purposes provided that adequate downpipes, drainage and storage system are integrated and concealed (Osmond & Sharifi, 2017; City of 
+Adelaide, 2016).
+Figure 6: Example of building integrated shading implemented to reduce solar exposure of pedestrians (City of 
+Adelaide, 2016) can reduce a building’s indoor temperatures by around 0.6°C to 1°C, thereby reducing the building’s cooling load (Hien & 
+Istiadji, 2003; Yang & Hwang, 1995).
+
+[Page 27]
+MIXED-USE
+Mixed-use areas correspond to centres containing an integrated range of businesses, residential and retail uses that are in close proximity to public transport and that encourage walking and cycling.
+Within the City of Sydney, many new mixed-use precincts are a result of urban renewal from previously industrial or underutilised land. As these precincts are crucial to meeting 
+Sydney’s increasing population, there is a significant increase in hard and paved surfaces through this process of urban renewal. This section provides urban heat mitigation recommendations for mixed-use areas to improve their capacity to mitigate and adapt to extreme heat alongside this need for increased density.
+Image: Green Square Town Centre redevelopment
+
+[Page 28]
+Cooling Sydney Strategy
+Mixed-use precincts within the City of Sydney are typically characterised by mid/high-rise buildings with large paved public spaces, footpaths and roads. The resulting urban surfaces that are directly exposed to solar radiation can contribute to poor outdoor thermal conditions, especially in public open spaces. Mixeduse precincts such as Green 
+Square Town Centre have the potential to mitigate the impacts of urban overheating by carefully considering the design and planning of the precinct’s built form and public realm through the urban renewal process. 
+The key mitigation strategies recommended for mixed-use precincts within the City of 
+Sydney are outlined below with 
+Recommended 
+Mitigation Strategies a few explained in more detail with the specific provisions, recommendations and proven effectiveness of each where relevant.
+»» Cool and permeable pavements »» Street trees and planting »» External shading structures »» Green open spaces »» Water features and evaporative cooling »» Water sensitive urban design (WSUD) »» Cool roofs »» Vertical greenery »» Building integrated shading devices »» Provision of heat refuges »» Education initiatives and campaigns
+Below: Artist impression of the Gunyama Aquatic and Recreation Centre within Green Square (City of Sydney)
+
+[Page 29]
+Water Features & 
+Evaporative Cooling
+Water features and evaporative cooling are effective across most land use zones. 
+The excess heat of the urban environment can be effectively dissipated by using natural heat sinks that usually present much lower temperatures than the surrounding ambient air. 
+Water bodies and features (i.e. fountains, lakes, rivers, ponds, ocean, marshes, wetlands, etc.) are efficient in reducing surface temperatures during the day (especially large water bodies). 
+Surface or running water can decrease surface temperatures by at least 5°C (Osmond & Sharifi, 
+2017). 
+On the other hand, evaporative cooling systems (removing heat from the atmosphere through evaporation) (Figure 7) can reduce ambient temperatures between 
+3°C and 8°C (Osmond & Sharifi, 
+2017), while misting fans up to 6°C (CRCLCL, 2019a).
+The specific provisions for water features and evaporative cooling are (refer to UHI Mitigation Index):
+»»
+Evaporative cooling should be strategically provided in public spaces by implementing passive and active systems. Passive systems include the provision of tree plantings and water features (fountains, lakes, ponds, rivers, etc.), while active systems correspond to evaporative/refrigerate air-conditioners such as multistage evaporative coolers, fine water sprays, and misting fans (with or without induced air velocity) (Bartesaghi 
+Koc, 2018; Osmond & Sharifi, 2017).
+»»
+Water streetscapes are recommended for new and retrofitted developments (i.e. fountains, lakes, ponds, constructed wetlands, etc.) and should be preferably accompanied by greenery including shrubs, grasses and sparsely distributed trees (Bartesaghi Koc, 2018; Osmond & Sharifi, 2017).
+»»
+The intensity of cooling effects provided by water features can be controlled by modifying the depth and extent of water (larger, deeper water bodies provide greater cooling potential) (Bartesaghi Koc, 2018).
+»»
+Regular streetscape irrigation and pavement watering systems (i.e. surface running water) are recommended in open spaces and streets but should not be utilised in humid climates as this could result in increased relative humidity and decreased outdoor thermal comfort (Bartesaghi Koc, 2018; Osmond & Sharifi, 2017; Sydney 
+Water, 2017).
+Figure 7: Evaporative spray cooling systems (Osmond & Sharifi, 2017)
+
+[Page 30]
+Cooling Sydney Strategy
+External Shading 
+Structures
+External shading structures are effective within public spaces across most land use zones. 
+Shading structures are costeffective solutions that offer protection to public space users from direct solar radiation and enhance outdoor thermal comfort by decreasing mean radiant temperatures. They also provide shade over urban surfaces that help reduce surface and nearsurface air temperatures. 
+The surface temperature of urban surfaces can be reduced up to 15°C by the public shading structures (Osmond & Sharifi, 2017).
+The specific provisions for external shading structures are (refer to UHI Mitigation Index):
+»»
+It is recommended that shading devices are prioritised and installed in overexposed street canyons (i.e. wide footpaths, boulevards, pedestrian streets) and open spaces (i.e. plazas, squares, parks, playgrounds) with a high pedestrian activity (Cancer Council NSW, 2013; Osmond & Sharifi, 2017; 
+Santamouris & Feng, 2018).
+»»
+Devices and technologies that can be implemented include, but are not limited to, arbours and pergolas covered with climbing plants (i.e. trained vines), fixed, temporary or movable shading devices, translucent PV panels integrated to structures, tension membrane structures, building awnings, etc. (Figure 8) (Osmond & Sharifi, 2017; Santamouris & Feng, 2018).
+»»
+It is recommended that shading devices should always use light-coloured, high albedo, highly reflective and radiative cooling materials to ensure that the negative effects of glare on users of the public realm are minimised. Fully glazed shading devices should be avoided, while the combination of partially glazed (integrated PV-integrated systems) with fabrics, canvas, meshes and solid materials may be appropriate for locations with less solar exposure where natural light and energy production is required (Osmond & Sharifi, 2017).
+»»
+Shading devices can be additionally used (1) to harvest rainwater for irrigation purposes provided that adequate downpipes, drainage and storage system are integrated; (2) to integrate evaporative cooling technologies such as ceiling fans, misting fans, water sprinklers or fountains for enhanced outdoor thermal comfort provided it is not in a humid climate (Osmond & Sharifi, 2017; Santamouris & Feng, 2018; Sydney Water, 2017).
+Figure 8: Different types of external shading devices and technologies (Osmond & 
+Sharifi, 2017)
+
+[Page 31]
+Combination of 
+Strategies
+Within mixed-use precincts, case studies suggest that the combination of cool & permeable surfaces + street trees & planting + water features & evaporative cooling + external shading structures + cool roofs can be highly effective at reducing the average ambient temperature of a precinct.
+The in-depth urban heat mitigation analysis for the Green 
+Square Town Centre precinct discovered that the individual use of street trees and cool pavements 
+Figure 9: Green Square 
+Town Centre in the 
+Urban Heat Island 
+Decision Support Tool online, interactive platform (CRCLCL, 
+2019a) can reduce the average ambient temperatures across the precinct by 0.6°C and 0.7°C respectively. 
+However, the combined use of the mitigation strategies mentioned previously can reduce the average ambient temperature by 1.3°C and localised temperature reductions of up to 6°C (CRCLCL, 2019a). 
+These results were produced by the Urban Heat Island Decision 
+Support Tool online platform (Figure 9) which enables users to test and visualise different urban development mitigation scenarios in real time.
+
+[Page 33]
+RESIDENTIAL
+General residential areas are those which provide a broad range of housing types and densities to meet the housing needs of the community as well as facilities and services to meet their day to day requirements. 
+Within the City of Sydney LGA, general residential areas are largely consisted of traditional terrace houses with darker roof materials and limited private open or green space. 
+They also include some areas of social housing which are characterised by open mid/high-rise buildings with large amounts of public green space. As general residential areas make up a considerable proportion of land use within the City of Sydney LGA, this section will provide urban heat mitigation recommendations to increase the city’s mitigation and adaptation potential. 
+Image: Typical terrace houses seen throughout the City of Sydney (© [magann] / Adobe Stock)
+
+[Page 34]
+Cooling Sydney Strategy
+Recommended 
+Mitigation Strategies
+The relatively lower densities and built form of general residential areas throughout the City of 
+Sydney LGA alleviates some of the spatial limitations for the implementation of effective urban cooling techniques and strategies. However, the diversity of housing types and densities in these areas provides a significant challenge in developing a mitigation strategy to combat urban overheating in the City of 
+Sydney. The traditional terraced housing areas, for example, typically have limited private open space and predominantly hard surfaces but already have medium to high tree canopy coverage along most streets. On the other hand, the open high-rise buildings of Waterloo have an abundance of green spaces but have large exposed facades to direct solar radiation. 
+The key mitigation strategies recommended for general residential areas are outlined below with a few explained in more detail with the specific provisions, recommendations and proven effectiveness of each where relevant.
+»» Cool and permeable pavements »» Street trees and planting »» External shading structures »» Green open spaces (compact low/ mid-rise) »» Water features and evaporative cooling »» Water sensitive urban design (WSUD) »» Cool roofs (compact low/mid-rise) »» Cool facades (open mid/high-rise) »» Vertical greenery »» Education initiatives and campaigns
+Left: Terrace housing in Glebe with limited private open spaces (Nearmaps, 2019)
+
+[Page 35]
+Green Open Space
+Green open spaces are effective in residential areas with limited private garden space as well as most other land use zones. Green open spaces (including trees in open spaces) have numerous benefits including climate moderation (reduction of air and surface temperatures), improved outdoor thermal comfort and amenity, increased biodiversity value, improved human health and social cohesion, energy savings, enhanced air quality, among many others. Green open spaces should therefore be a primary aspect to consider in the design of any urban context. 
+Well irrigated green open spaces (parks) can decrease radiant temperatures between 2°C and 
+4°C, and ambient temperatures between 1°C and 2°C. They can also decrease surface temperatures by up to 15°C but only 5°C for dry grasses (Osmond & Sharifi, 2017; 
+Bartesaghi Koc, 2018).
+The specific provisions for green open spaces are (refer to UHI 
+Mitigation Index):
+»»
+The design of green open spaces should consider a higher proportion of vegetated spaces including lawn, shrubs, trees, water features, and permeable pavements than impervious surfaces.
+»»
+In areas with extensive impervious surfaces such as car parks, surfaces should be partially or totally replaced by low plantings and permeable materials with extensive canopy crowns regularly distributed to increase shading (Bartesaghi Koc, 2018).
+»»
+It is recommended that plant selections include Australian native and exotic species that suit existing soil conditions and that are highly suitable to harsh environments, heatresilient and drought tolerant. A diverse palette of plants species and planting arrangements should be considered in the design of green open spaces, avoiding mass planting with single species (City of Adelaide, 2016).
+»»
+Green open spaces should be flexible enough to allow for community driven initiatives like communal and edible gardens (City of Adelaide, 2016). »»
+In large open spaces, scattered trees should be preferably placed over or near vegetated surfaces with adequate irrigation. Alternatively, large tree crown species are preferred if these are located in highly paved areas (i.e. open plazas, public squares) and should be preferably accompanied by understorey planting (Bartesaghi Koc, 
+2018).
+»»
+Passive irrigation systems and water sensitive urban design technologies should be implemented in green open spaces to ensure an effective evapotranspirative cooling, reduce stormwater runoffs and facilitate water infiltration (Coutts & Tapper, 2017; Bartesaghi Koc, 2018).
+Below: Green open space integrating community gardens at Sydney Park (© [Sardaka] / Wikimedia / CC BY 3.0)
+
+[Page 36]
+Cooling Sydney Strategy
+Cool Facades
+Cool facades are effective for open mid/high-rise areas but not applicable for compact highrise areas. Cool facades use cool or reflective materials in walls (external facades) with high emissivity, high albedo and high reflectivity properties. These can significantly reduce the absorption of solar radiation and decrease the amount of heat emitted to the atmosphere. This can improve perceived outdoor and indoor thermal comfort and decrease cooling energy demand.
+Increasing the albedo of a facade by 10% can reduce air temperatures between 0.23°C and 
+0.78°C (Santamouris et al., 2017a). 
+Cool envelopes can also decrease indoor temperatures of spaces adjacent to walls up to 2.5°C and reduce surface temperatures up to 33°C (Osmond & Sharifi, 2017). 
+Within the City of Sydney LGA, cool facades are more effective in the context of open mid/high-rise buildings than in compact built forms. 
+The specific provisions for cool facades are (refer to UHI 
+Mitigation Index):
+»»
+Facades with materials with high emissivity and high albedo characteristics and low heat conductivity capacity are recommended but must consider undersirable glare for occupants of other buildings and users of the public realm (Santamouris, 2014; Santamouris et al., 2011; Osmond & Sharifi, 2017).
+»» It is recommended to replace conventional envelope materials with high emissivity and high albedo surfaces (e.g. highly reflective ceramic tiles). If this is not possible, apply white or light-coloured coatings to walls of buildings (single ply or liquids). Exclusions may apply to heritage buildings where preservation/conservation of original materials has to be prioritised (Santamouris, 2015; 
+Osmond & Sharifi, 2017).
+»»
+Coloured coatings with thermochromic materials developed with nanotechnology that enhance thermal and optical properties are recommended (Santamouris, 2014; 
+Santamouris et al., 2011).
+»»
+The proportion of lighter aggregates, pigments and binders should be integrated with conventional construction materials (Santamouris, 2015). »»
+The application of extensively glazed facades or curtain walls in areas of the building that are largely exposed to solar radiation (especially north and west facing facades) should be minimised.
+Right: NDIS building in Geelong which integrates Suntuitive® thermochromic glazing (© Pleotint LLC)
+
+[Page 37]
+Above: Exposed facades of the Turanga and Matavai towers in Waterloo (© [J Bar] / Wikimedia / CC BY 2.5)
+
+[Page 39]
+LOW DENSITY 
+RESIDENTIAL
+Low density residential areas integrate a range of low density residential uses such as dwelling houses and dual occupancies as well as non-residential uses to meet the day to day needs of residents. These areas also include residential housing in rural settings and/or large lots and as such, only represent a small proportion of land use within the City of Sydney LGA. 
+Despite this, the single detached dwellings that typically characterise the low density residential areas within the 
+City of Sydney still face a number of urban overheating challenges. This section will provide urban heat mitigation recommendations for redeveloping and retrofitting the public domain and built form of low density residential areas to increase the city’s mitigation and adaptation potential. 
+Image: Typical low density housing in the 
+City of Sydney (© [Sardaka] / Wikimedia / CC BY 3.0)
+
+[Page 40]
+Cooling Sydney Strategy
+Recommended 
+Mitigation Strategies
+The dark roof materials, wide unshaded roads and limited private open space throughout low density residential areas within the City of Sydney provide a significant challenge for mitigating the impacts of urban overheating. 
+While these single detached dwellings only account for a small population within the City of Sydney LGA, these challenges can cause extremely poor indoor and outdoor thermal comfort for residents during extreme heat events. 
+However, there are many mitigation strategies that can be implemented when redeveloping low density residential areas. The key recommended strategies are outlined below with a few explained in more detail with the specific provisions, recommendations and proven effectiveness of each where relevant.
+»» Cool and permeable pavements »» Street trees and planting »» External shading structures »» Green open spaces »» Water features and evaporative cooling »» Water sensitive urban design (WSUD) »» Cool roofs »» Building integrated shading devices »» Education initiatives and campaigns
+Left: Dark roof materials and wide vehicular streets of Rosebery (Nearmaps, 2019)
+
+[Page 41]
+Cool Roofs
+Cool roofs are most effective and applicable at improving outdoor thermal comfort in lower density areas. Cool roofs involve the use of cool or reflective materials in roofs with high emissivity, high albedo and high reflectivity properties (Figure 10). These can significantly reduce the absorption of solar radiation and decrease the amount of heat emitted to the atmosphere. 
+This can improve perceived outdoor and indoor thermal comfort and decrease cooling energy demand. 
+An increase of 10% of albedo on roofs can reduce air temperatures between 0.23°C and 0.62°C. Cool roofs can also decrease indoor temperatures of occupied spaces below by 1.2°C to 4.7°C (Osmond, & Sharifi, 2017; Santamouris et al., 
+2017a).
+The specific provisions for cool roofs are (refer to UHI Mitigation Index):
+»»
+Materials with high emissivity and high albedo characteristics and low heat conductivity capacity are encouraged. The use of cool roofs should consider undesirable glare for occupants of other buildings and users of the public realm (Santamouris et al., 2011; Santamouris, 2014; Osmond & Sharifi, 2017).
+»»
+It is recommended to replace conventional roof materials with high emissivity and high albedo surfaces. 
+Exclusions may apply to heritage buildings where preservation/conservation of original materials has to be prioritised (Santamouris, 2015; Osmond & Sharifi, 2017).
+»»
+Coloured coatings with thermochromic materials developed with nanotechnology that enhance thermal and optical properties are recommended (Santamouris, 2014; Santamouris et al., 2011).
+»»
+The proportion of lighter aggregates, pigments and binders should be integrated with conventional construction materials (Santamouris, 2015). »»
+Dark coloured, low solar reflectance and low emittance (i.e. dark coloured bricks, concrete, tiles, stones) should be minimised unless ‘smart’ materials (which can reflect near-infrared/infrared) are used (Santamouris, 2014; Santamouris et al., 2011). »»
+Cool roofs may incorporate water sensitive urban design (WSUD) strategies to harvest rainwater that can be used for irrigation purposes (Osmond & Sharifi, 2017).
+Figure 10: Solar reflectance and emittance of roof materials (Osmond & Sharifi, 2017)
+Above: Cross-section of typical cool roofs (Osmond & Sharifi, 2017)
+
+[Page 42]
+Cooling Sydney Strategy
+Street Trees & Planting
+Street trees and planting could be effective across most land use zones but may vary in response to various urban development conditions (e.g. species, soil, placement, etc.). Street trees and plants can positively moderate the urban microclimate of urban canyons and significantly reduce surface and ambient temperatures and improve outdoor thermal comfort. The unique design, pattern and palette of tree 
+The provisions for street trees and planting in general are (refer to UHI Mitigation Index):
+»»
+A relative uniformity in planting patterns and configuration should be provided by considering factors that may interrupt tree planting such as underground or overhead services, bridges and building awnings. Asymmetrical arrangements may be applied in narrow streets were overhead wires may affect tree planting (City of Adelaide, 2016; Coutts & Tapper, 2017).
+»»
+Plant and tree selections should include Australian native and exotic species that suit exiting soil conditions and are resistant to water and heat stresses (City of Adelaide, 2016).
+»»
+Constant and adequate soil and moisture conditions should be always provided depending on the type of species planted by (1) undertaking continuous trenching and soil improvements, (2) providing passive irrigation using harvested rainwater and stormwater runoffs, (3) planting trees in low-lying or drainage zones of the street, (4) installing permeable pavements in the vicinity of trees, and (5) constructing rainwater/stormwater infiltration pits near or next tree plantings (Bartesaghi Koc, 2018; Coutts & Tapper, 
+2017).
+»»
+In streets without light-rail/tramways, medians can accommodate large canopy trees to reduce solar exposure of asphalt and pavements. Where possible, small ornamental trees can be located in footpaths on either one or both sides of the street. With light-rail/tramways, it is recommended to use pervious surfaces or permeable pavements accompanied by trees of elongated crown shapes along boths sides (Bartesaghi Koc, 2018; City of Adelaide, 2016; City of Melbourne, 2016; Coutts & Tapper, 2017).
+»»
+Dense tree canopies can provide significant temperature reductions during the day. Depending on context and plant species, very dense tree canopies may trap a significant amount of pollutants (Bartesaghi Koc, 2018).
+»»
+A consistent and regularly-spaced lines of trees with well irrigated grasses along the length of the street is recommended to provide constant solar protection and evapotranspiration during the day and facilitate wind circulation to ease heat dissipation at night (Bartesaghi Koc, 2018).
+»»
+Where trees are in footpaths, deciduous trees should be favoured in south and east-facing footpaths to allow for winter sun and evergreen trees in north- and west-facing footpaths; while trees in medians can be mostly evergreens (City of Adelaide, 2016; Bartesaghi Koc, 2018). plantings should respond to particular characteristics (i.e. street orientation, level of pedestrian activity, sense of place, character, and type of surrounding activities/ uses) and street sections (i.e. widths and heights of frontages).
+An increase of 10% in tree canopy cover can decrease summertime diurnal surface temperatures up to 1.05°C. Street trees can decrease ambient temperatures up to 4.0°C (Bartesaghi Koc, 2018; Osmond & 
+Sharifi, 2017).
+
+[Page 43]
+Additional specific provisions for street trees and planting for low density residential areas are (refer to UHI Mitigation 
+Index):
+»»
+Tree planting and landscaping should reinforce the local character of each area and the verge treatments of individual properties in a consistent and uniform way; while providing opportunities for people to gather and meet informally (City of Adelaide, 2016).
+»»
+Street landscaping should be flexible enough to allow for community driven initiatives like communal and edible gardens on public land (City of Adelaide, 2016; Coutts & 
+Tapper, 2017).
+»»
+In wide streets, it is suggested to use continuous rows of tall trees with large crowns, or alternatively multiplelined or staggered layouts for increasing shaded areas (Bartesaghi Koc, 2018).
+»»
+Mixed understory verge planting (pervious surfaces, grasses and shrubs) or permeable surfaces should be always provided under or alongside trees. Low cover planting can include bioswales and raingardens in strategic locations (City of Adelaide, 2016; Coutts & Tapper, 2017).
+»»
+Passive irrigation systems and water sensitive urban design (WSUD) technologies should be prioritised to ensure effective evapotranspirative cooling, reduce stormwater runoffs and facilitate water infiltration (Bartesaghi Koc, 2018; Coutts & Tapper, 2017).
+Below: Schematic diagram of the cooling effects of a tree in summer and winter (Bartesaghi Koc, 2018)
+
+[Page 45]
+A RESILIENT 
+COMMUNITY
+In addition to these public realm and built form mitigation strategies, building resilience to climate change in the City of 
+Sydney also requires increasing the community’s awareness and adaptive capacity towards extreme heat. To do so, three key strategies are recommended:
+»» Provision of heat refuges; »» Education initiatives and campaigns; and »» Provision of incentives.
+These strategies can be implemented across the City of Sydney LGA where relevant and doing so will require collaborative efforts of governments, industry and the community to ensure that the City of Sydney increases its resilience to extreme heat by 2050.
+Image: Pitt Street Mall in Sydney CBD (City of Sydney)
+
+[Page 46]
+Cooling Sydney Strategy
+The following provisions are recommended for the planning of heat refuges (refer to UHI Mitigation Index):
+»»
+Public cooling facilities or heat refuges should be easily accessible and strategically spaced to allow young and elder people to rest, cool and recover during hot weather conditions. These areas should enable physical adjustment to heat using either passive or active cooling systems, while supporting incidental social activities (Fraser et al., 
+2018; Bodilis et al., 2017).
+»»
+Provision of heat refuges should be prioritised in locations where populations are highly vulnerable to extreme heat events (i.e. with larger proportion of children and elders), and in lower income communities where constant airconditioning cooling cannot be afforded (Fraser et al., 2018; 
+Bodilis et al., 2017).
+Provision of Heat 
+Refuges
+Providing heat refuges or public cooling centres is an adaptive approach to managing the risks of urban overheating. In the Sydney 
+CBD, there are many public spaces such as museums and shopping malls. These spaces are typically equipped with air-conditioned facilities so that they can be utilised as heat refuges during heatwaves (Fraser et al., 2018; 
+Bodilis et al., 2017). Green Square 
+Town Centre has now opened its library facility with the Gunyama 
+Aquatic Centre underway and both will act as community heat refuges. 
+However, these public spaces that act as heat refuges for the community may not be enough, especially in residential areas that may include those that are more vulnerable to extreme heat (e.g. elderly, families with young children, those that cannot afford to operate A/C, etc.). In these cases, it is recommended that specialpurpose refuges (i.e. hydration stations, air-conditioned refuges and emergency refuges) could be strategically provided in public spaces (Fraser et al., 2018; Bodilis et al., 2017). 
+Above: Green Square 
+Town Centre Library (City of Sydney)
+
+[Page 47]
+The specific provisions for education initiatives and campaigns are (refer to UHI Mitigation Index):
+»»
+All levels of government should collective work together to implement continuous campaigns to inform, educate and train population on the risks of extreme heat and how to plan, manage and implement measures to reduce the impacts of heatwaves and increasing urban temperatures (NYC, 
+2013; Victorian Government, 2014; Surf Coast Shire, 2011). »»
+Councils should establish and implement heatwave management and mitigation plans and share resources with the public (particularly public health and education facilities) online or via smartphones (NYC, 2013; Government of South Australia, 2013; Surf Coast Shire, 2011).
+»»
+Additional technical support to the workforce and construction sector through training programs is essential for a widespread application of UHI mitigation technologies and strategies (OEH, 2016).
+»»
+Local governments and energy and water service providers may provide education campaigns to the public on how to conserve and manage electricity and water consumption during extreme heat events to help relieve stress on supply systems (OEH, 2016; Victorian Government, 2014).
+»»
+Councils should have policies in place to manage and schedule events such as sport games, festivals or public gatherings during summer in a way that impacts of heat on participants is minimised. 
+Strategies include scheduling events during the late afternoon or evening, provide sufficient shade and water bottle filling stations, and providing heat refuges and continuous emergency support (OEH, 2016; Victorian Government, 2014; Surf Coast Shire, 2011).
+Education Initiatives & 
+Campaigns
+Knowing what to do, where to go and how to cope during extreme heat conditions is vital for the City of Sydney’s local and temporary residents. Education initiatives and campaigns are effective at building community awarenes and increasing their ability to adapt to urban overheating. 
+In addition to the City of Sydney’s educational online content already available to the public, the following provisions are recommended to increase public awareness about the impacts of extreme heat and how to manage them effectively.
+Above: NSW Health’s four key messages to keep you and others healthy in the heat (NSW Government,
+
+[Page 48]
+Cooling Sydney Strategy
+Provision of Incentives
+During heatwaves, the electricity and water supply networks are working overtime. To ensure this peak demand can support the needs to the whole community, it is crucial that electricity and water is utilised efficiently. The provision of incentives is an effective way to encourage communities to reduce their electricity and water consumption during heatwaves.
+The following provisions are recommended for implementing UHI-related community incentives (refer to UHI Mitigation Index):
+»»
+Energy service providers may put in place program to reward customers for conserving electricity during extreme heat events to help relieve stress on the regional and national power grid by implementing simple strategies such as (Nguyen, 2018):
+--
+Using ceiling or portable fans rather than air conditioners;
+--
+Run air-conditioners during off-peak hours to pre-cool homes, close blinds, shades and insulate indoor spaces properly to increase the efficiency of cooling devices;
+--
+Run major appliances early morning and late at night;
+--
+Unplug appliances and devices that are not in use;
+--
+Turn off pool pumps during peak hours; and
+--
+Incorporate more energy efficient appliances, devices and manufacturing technologies.
+»»
+Water service providers may put in place program to reward customers for a more efficient use of water during extreme heat events in residential, commercial and industrial areas by implementing simple strategies such as (Nguyen, 2018):
+--
+Incorporate more water efficient appliances, devices and manufacturing technologies; and
+--
+Application of more efficient irrigation systems (active and passive) and schemes to water plants during off-peak hours (i.e. late at night) to reduce a rapid evaporation. »»
+Government funding and incentives schemes may be offered to help businesses and developers to implement strategies and technologies related to UHI mitigation (e.g. energy efficiency, green infrastructure provision, water sensitive urban design, sustainable transport and shipping, waste minimisation, etc.) (Green Future, 2015).
+Above: Ausgrid’s collaborative project with the City of Sydney ‘Power2U’ will significantly increase the adoption of renewables and energy efficiency measures throughout the city (Ausgrid, 2018)
+
+[Page 49]
+TOWARDS A CLIMATE 
+RESILIENT SYDNEY
+This report draws on the outcomes of in-depth urban overheating mitigation research conducted by the CRCLCL and UNSW that is tailored to the City of Sydney 
+LGA urban context. Addressing urban overheating has been identified as a key challenge for the future planning of Sydney towards 2050. In response to this, key recommendations for urban overheating mitigations strategies are provided in this report to increase the City of Sydney’s ability to survive, adapt and thrive in the face of increasing extreme heat events. 
+Characteristics of representative urban contexts within the City of 
+Sydney LGA have been identified and the specific urban overheating challenges related to each. This report has provided recommended mitigation strategies relating to the public realm, built form and the community to respond to these challenges. The applicability and effectiveness of each mitigation strategy was suggested for each specific urban context with an outline of the key provisions for their implementation. 
+Ultimately, it is intended that this report will provide guidance to the City of Sydney in developing a strategy to effectively mitigate and adapt to climate change. In doing so, this report can support the City of Sydney’s strategic planning and decision-making in developing a climate resilient Sydney by 2050.
+
+[Page 50]
+Cooling Sydney Strategy
+REFERENCES
+Ausgrid. (2018). ARENA boosts Ausgrid’s Power2U project to reduce energy use and emissions. https:// centive
+Bartesaghi Koc, C. (2018). Assessing the thermal performance of green infrastructure and urban microclimate (PhD Thesis). Faculty of Built Environ­ publication/329733592_Assessing_the_thermal_per­ formance_of_green_infrastructure_on_urban_micro­ climate
+Bloomberg Associates. (2019). Mitigating Urban Heat 
+Island Effects Cool Pavement Interventions.
+Bodilis, C., Yenneti, K., & Hawken, S. (2017). A Heat 
+Vulnerability Index for Metropolitan Sydney. https:// arcg.is/0quK4H 
+Cancer Council NSW. (2013). Guidelines to Shade, council.com.au/wp-content/uploads/2011/04/Guide­ lines_to_shade_WEB2.pdf 
+City of Adelaide (2016). Adelaide Design Manual. sign-toolkit/greening 
+City of Melbourne. (2016). Urban Forest Visual. http:// melbourneurbanforestvisual.com.au/
+City of Sydney. (2016). Adapting for climate change – a long term strategy for the City of Sydney. https:// file/0013/250123/2016-022571-Adapting-to-ClimateChange_accessible.pdf
+City of Sydney. (2018). Resilient Sydney: A strate­ gy for city resilience. ISBN-13: 978-0-6483332-1-0. pdf_file/0013/303700/Resilient-Sydney-A-strate­ gy-for-city-resilience-2018.pdf
+City of Sydney. (2019a). The city at a glance. search-and-statistics/the-city-at-a-glance
+City of Sydney. (2019b). Sydney drives world-first green roads trial. https://news.cityofsydney.nsw.gov.
+au/articles/sydney-drives-world-first-green-roadstrial
+Coutts, A., & Tapper, N. (2017). Trees for a Cool City: 
+Guidelines for optimised tree placement. CRC for 
+Water Sensitive Cities. https://watersensitivecities.
+org.au/wp-content/uploads/2017/11/Trees-for-a-coolcity_Guidelines-for-optimised-tree-placement.pdf 
+Craft, W, Petersen, H, Haddad, S, Ding, L & Santa­ mouris, M. (2019). Mitigating Urban Heat Island for the Green Square Town Centre Redevelopment. In 
+Newton, P and Taylor, M. (Ed.). Guide for Regenera­ tive Low Carbon Precinct Design Assessment. CRC for Low Carbon Living.
+CRCLCL. (2019a). UHI-DS: Microclimate & Urban Heat 
+Island Mitigation Decision Support Tool. CRC Low 
+Carbon Living. http://uhimitigationindex.be.unsw.
+edu.au/uhitool/index.html 
+CRCLCL. (2019b). Urban Heat Island Mitigation Perfor­ mance Index. CRC Low Carbon Living. http://uhimiti­ gationindex.be.unsw.edu.au/
+Fraser, A. M., Chester, M. V., & Eisenman, D. (2018). 
+Strategic locating of refuges for extreme heat events (or heat waves), Urban Climate, 25, 109-119. https://doi.
+org/10.1016/j.uclim.2018.04.009
+Government of South Australia. Green infrastructure. loftyranges/plants-and-animals/green-infrastructure 
+Green Future. (2015). Guide to Singapore Government 
+Funding and Incentives for the Environment. http:// gapore-government-funding-and-incentives-for-theenvironment
+
+[Page 51]
+He, B. J. (2018). Potentials of meteorological charac­ teristics and synoptic conditions to mitigate urban heat island effects. Urban Climate, 24, 26-33. https:// doi.org/10.1016/j.uclim.2018.01.004
+Hien, W. N., & Istiadji, A. D. (2003). Effects of external shading devices on daylighting and natural ventila­ tion. In Proceedings of the 8th International IBPSA 
+Conference, Eindhoven, The Netherlands, 475-482. ive/IBPSA/UFSC915.pdf
+Livada, I., Synnefa, A., Haddad, S., Paolini, R., Garshas­ bi, S., Ulpiani, G., ... & Santamouris, M. (2019). Time series analysis of ambient air-temperature during the period 1970–2016 over Sydney, Australia. Science of The Total Environment, 648, 1627-1638. https://doi.
+org/10.1016/j.scitotenv.2018.08.144 
+Nguyen, A. (2018). SDG&E Offering Incentives to Con­ serve Electricity During Heat Wave. https://timesof­ sandiego.com/business/2018/07/23/sdge-offering-in­ centives-to-conserve-electricity-during-heat-wave health.nsw.gov.au/environment/beattheheat/Pages/ default.aspx
+NYC (2013). NYC Cool Roofs: Annual Review. http:// al_report_2013.pdf 
+OEH. (2016). Minimising the impacts of extreme heat: 
+A guide for local government. https://climatechange.
+environment.nsw.gov.au/-/media/Minimising-theImpacts-of-Extreme-Heat---A-guide-for-local-gov­ ernment.pdf?la=en&hash=3B5B1F18685A47D3B40D­
+0CBD2430006D2BB08929 
+Osmond, P., & Sharifi, E. (2017). Guide to Urban livingcrc.com.au/sites/all/files/publications_file_at­ tachments/rp2024_guide_to_urban_cooling_strate­ gies_2017_web.pdf
+Roth, M. (2013). Urban Heat Islands, In Fernando, H. (Ed.). Handbook of Environmental Fluid Dynamics, 
+Volume 2. CRC Press/Taylor & Francis Group, LLC. https://doi.org/10.1201/b13691
+Santamouris, M. (2014). Cooling the cities – A review of reflective and green roof mitigation technologies to fight heat island and improve comfort in urban environments. Solar Energy, 103, 682–703. https://doi.
+org/10.1016/j.solener.2012.07.003 
+Santamouris, M. (2015). Regulating the damaged thermostat of the cities—Status, impacts and miti­ gation challenges. Energy and Buildings, 91, 43–56. https://doi.org/10.1016/j.enbuild.2015.01.027 
+Santamouris, M., & Feng, J. (2018). Recent progress in daytime radiative cooling: Is it the air condition­ er of the future?. Buildings, 8(12), 168. https://doi.
+org/10.3390/buildings8120168
+Santamouris, M., Ding, L., Fiorito, F., Oldfield, P., Os­ mond, P., Paolini, R., ... & Synnefa, A. (2017a). Passive and active cooling for the outdoor built environ­ ment–Analysis and assessment of the cooling poten­ tial of mitigation technologies using performance data from 220 large scale projects. Solar Energy, 154, 
+14-33. https://doi.org/10.1016/j.solener.2016.12.006
+Santamouris, M., Haddad, S., Fiorito, F., Osmond, P., 
+Ding, L., Prasad, D., ... & Wang, R. (2017b). Urban heat island and overheating characteristics in Sydney, Aus­ tralia. An analysis of multiyear measurements. Sus­ tainability, 9(5), 712. https://doi.org/10.3390/su9050712 
+Santamouris, M., Synnefa, A., & Karlessi, T. (2011). Using advanced cool materials in the urban built environ­ ment to mitigate heat islands and improve thermal comfort conditions. Solar Energy, 85(12), 3085-3102. https://doi.org/10.1016/j.solener.2010.12.023
+
+[Page 52]
+Cooling Sydney Strategy
+State of Victoria. (2014). Growing green guide. A guide inggreenguide.org/wp-content/uploads/2014/02/ growing_green_guide_ebook_130214.pdf 
+Surf Coast Shire. (2011). Surf Coast Shire Heatwave public/01-about-us/council/reports-plans-and-docu­ ments/plans-and-strategies/heatwave_plan.pdf 
+Sydney Water. (2017). Cooling Western Sydney: A stra­ tegic study on the role of water in mitigating urban heat Western Sydney. Sydney. The University of New 
+South Wales, Sydney Water, CRC Low Carbon Living. licwebcontent/documents/document/zgrf/mty4/~e­ disp/dd_168965.pdf
+Victorian Government. (2014). Growing Green Guide: 
+A guide to green roofs, walls and facades in Mel­ greenguide.org/wp-content/uploads/2014/02/grow­ ing_green_guide_ebook_130214.pdf 
+Von Glasow, R., Jickells, T. D., Baklanov, A., Carmichael, 
+G. R., Church, T. M., Gallardo, L., ... & Raine, R. (2013). 
+Megacities and large urban agglomerations in the coastal zone: interactions between atmosphere, land, and marine ecosystems. Ambio, 42(1), 13-28. https:// doi.org/10.1007/s13280-012-0343-9 
+Yang, K. H., & Hwang, R. L. (1995). Energy conser­ vation of buildings in Taiwan. Pattern Recogni­ tion, 28(10), 1483-1491. https://doi.org/10.1016/00313203(94)00153-D
+
+[Page 53]
+APPENDIX
+Land Surface Temperature Map of Greater Sydney
+City of Sydney
+Parramatta
+69.5°C
+9.2°C
+Land surface temperature of Greater 
+Sydney over summer (CSIRO, 2017)
